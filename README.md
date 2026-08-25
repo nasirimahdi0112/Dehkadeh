@@ -8,7 +8,7 @@ An AI-powered quiz generation tool designed for English language teachers at **D
 
 ## 🚀 Features
 
-- **AI-Generated Questions**: Leverages Google Gemini 1.5 Flash to create context-aware questions based on specific textbook pages.
+- **AI-Generated Questions**: Uses the Gemini API through Genkit with an ordered fallback chain (`gemini-3.7-flash` → `gemini-3.6-flash` → `gemini-3.5-flash-lite` → `gemini-3.1-flash-lite`) to create context-aware questions based on specific textbook pages.
 - **Multiple Question Types**: Supports Multiple Choice, Fill-in-the-Blank, True/False, and Short Answer formats.
 - **Smart Book Indexing**: Pre-processed JSON content from major ESL series (*Family and Friends*, *Four Corners*, *Viewpoint*) ensures fast retrieval without heavy OCR latency during generation.
 - **Customizable Quizzes**: Filter by book, unit, page range, difficulty level, and topic focus.
@@ -20,7 +20,7 @@ An AI-powered quiz generation tool designed for English language teachers at **D
 ## 🛠️ Tech Stack
 
 - **Framework**: Next.js 15 (App Router)
-- **AI Engine**: Genkit with Google Gemini 1.5 Flash
+- **AI Engine**: Genkit with Google Gemini API model fallback
 - **Styling**: Tailwind CSS + Radix UI primitives
 - **Export Libraries**: `jspdf`, `html2canvas`, `docx`
 - **State Management**: React Context + Hooks
@@ -44,7 +44,7 @@ src/
 
 - Node.js 18+
 - npm or yarn
-- A Google Cloud project with Vertex AI enabled (for Genkit)
+- A Gemini API key from Google AI Studio
 
 ### Installation
 
@@ -63,8 +63,7 @@ src/
    Create a `.env.local` file in the root directory:
    ```env
    GENKIT_ENV=dev
-   # Add any required Google Cloud credentials here if not using default auth
-   GOOGLE_APPLICATION_CREDENTIALS=./path/to/service-account.json
+   GOOGLE_API_KEY=your-gemini-api-key
    ```
 
 4. **Run the Development Servers**
@@ -88,8 +87,8 @@ src/
 
 1. **Selection**: The teacher selects a textbook (e.g., *Four Corners Level 2*) and defines the scope (Unit 3, Pages 10-15).
 2. **Retrieval**: The system uses `getBookContentTool` to fetch the pre-processed text for the specified pages from the `books-json` directory.
-3. **Generation**: This content is sent to Gemini via a Genkit flow with a prompt engineered to act as an expert ESL teacher.
-4. **Refinement**: The AI returns structured JSON containing questions, options, correct answers, and explanations.
+3. **Generation**: This content is sent to Gemini via a Genkit flow that tries `gemini-3.7-flash`, `gemini-3.6-flash`, `gemini-3.5-flash-lite`, and `gemini-3.1-flash-lite` in order until one model returns valid structured output.
+4. **Refinement**: Regenerating a question uses the same retrieved page content and Gemini fallback chain, then returns structured JSON containing the new question, options when needed, and the correct answer.
 5. **Export**: The user previews the quiz, makes manual edits if needed, and exports to PDF/Word.
 
 ## 🤝 Contributing
