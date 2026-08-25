@@ -1,0 +1,3308 @@
+{
+  "pageNumber": 77,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 84,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 2_Part4.pdf",
+    "pdfLocalPageNumber": 15,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.7987,
+        "bbox": {
+          "x": 0.826667,
+          "y": 0.020608,
+          "width": 0.036667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "unit 8.",
+            "confidence": 0.735
+          },
+          {
+            "engine": "rapidocr",
+            "content": "unit",
+            "confidence": 0.7987
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Grammar n Should; can",
+        "confidence": 0.8688,
+        "bbox": {
+          "x": 0.069333,
+          "y": 0.083462,
+          "width": 0.342667,
+          "height": 0.021638
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "E} Grammar © Shou/d: can",
+            "confidence": 0.69
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Grammar n Should; can",
+            "confidence": 0.8688
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Should for recommendations",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.170588,
+          "y": 0.121212,
+          "width": 0.199608,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Shouldfor recommendations",
+            "confidence": 0.9018
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Should for recommendations",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Can for possibility",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.616471,
+          "y": 0.121515,
+          "width": 0.123137,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Can forpossibility",
+            "confidence": 0.874
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Can for possibility",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "heading",
+        "content": "Where should I go?",
+        "confidence": 0.8669,
+        "bbox": {
+          "x": 0.092667,
+          "y": 0.137043,
+          "width": 0.128667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "heading",
+        "content": "What can I do there?",
+        "confidence": 0.8578,
+        "bbox": {
+          "x": 0.500667,
+          "y": 0.138588,
+          "width": 0.136,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "sentence",
+        "content": "You should visit the Egyptian Museum.",
+        "confidence": 0.8683,
+        "bbox": {
+          "x": 0.114,
+          "y": 0.154044,
+          "width": 0.262,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "You can enjoy cafes,shops,andfountains.",
+        "confidence": 0.8417,
+        "bbox": {
+          "x": 0.522,
+          "y": 0.155075,
+          "width": 0.283333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "They shouldn't miss Insadong",
+        "confidence": 0.8892,
+        "bbox": {
+          "x": 0.114667,
+          "y": 0.171046,
+          "width": 0.206667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "paragraph",
+        "content": "You can't see all of the museum in one day",
+        "confidence": 0.8914,
+        "bbox": {
+          "x": 0.522,
+          "y": 0.172591,
+          "width": 0.29,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "(=They shouldsee Insadong)",
+        "confidence": 0.8718,
+        "bbox": {
+          "x": 0.114,
+          "y": 0.189078,
+          "width": 0.201333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "Can they take a taxi?",
+        "confidence": 0.8639,
+        "bbox": {
+          "x": 0.499333,
+          "y": 0.193199,
+          "width": 0.140667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "Should she go to Cairo?",
+        "confidence": 0.8868,
+        "bbox": {
+          "x": 0.092,
+          "y": 0.209686,
+          "width": 0.161333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "Yes, they can.",
+        "confidence": 0.8996,
+        "bbox": {
+          "x": 0.521333,
+          "y": 0.210201,
+          "width": 0.095333,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "No, they can't.",
+        "confidence": 0.8975,
+        "bbox": {
+          "x": 0.664,
+          "y": 0.210716,
+          "width": 0.101333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "Yes,sheshould",
+        "confidence": 0.804,
+        "bbox": {
+          "x": 0.115333,
+          "y": 0.228233,
+          "width": 0.106,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "No, she shouldn't.",
+        "confidence": 0.8657,
+        "bbox": {
+          "x": 0.270667,
+          "y": 0.228233,
+          "width": 0.125333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "instruction",
+        "content": "Complete the conversation with should, shouldn't, can, or can’t. Then practice with a partner.",
+        "confidence": 0.9093,
+        "bbox": {
+          "x": 0.070588,
+          "y": 0.259091,
+          "width": 0.639216,
+          "height": 0.018788
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Complete the conversation with should, shouldn't, can, or can’t. Then practice with a partner.",
+            "confidence": 0.9093
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Complete the conversation with should, shouldn't, can, or can't. Then practice with a partner.",
+            "confidence": 0.9321
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "Should",
+        "confidence": 0.7841,
+        "bbox": {
+          "x": 0.139333,
+          "y": 0.279753,
+          "width": 0.058,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Should",
+            "confidence": 0.7841
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A ____ Should __| rent acarin Seoul?",
+            "confidence": 0.6714
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "I rent a car in Seoul?",
+        "confidence": 0.9123,
+        "bbox": {
+          "x": 0.205333,
+          "y": 0.282329,
+          "width": 0.156,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "-get around",
+        "confidence": 0.8678,
+        "bbox": {
+          "x": 0.598667,
+          "y": 0.302937,
+          "width": 0.080667,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "No, I think you",
+        "confidence": 0.7618,
+        "bbox": {
+          "x": 0.088667,
+          "y": 0.304482,
+          "width": 0.104667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "take the subway. You",
+        "confidence": 0.8283,
+        "bbox": {
+          "x": 0.321333,
+          "y": 0.304997,
+          "width": 0.147333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "take the subway. You",
+            "confidence": 0.8283
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B No,! think you_________ take the subway. You ___...__-_get around",
+            "confidence": 0.571
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "quickly and easily.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.093333,
+          "y": 0.322727,
+          "width": 0.121961,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "quickly and easily.",
+            "confidence": 0.8968
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "quickly and easily.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "sentence",
+        "content": "A \"Oh, good. And what places.",
+        "confidence": 0.8721,
+        "bbox": {
+          "x": 0.067333,
+          "y": 0.341577,
+          "width": 0.207333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A \"Oh, good. And what places.",
+            "confidence": 0.8721
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Oh, good. And what places__________I visit?",
+            "confidence": 0.73
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "I visit?",
+        "confidence": 0.8023,
+        "bbox": {
+          "x": 0.403333,
+          "y": 0.342607,
+          "width": 0.048667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "3 Well, you.",
+        "confidence": 0.7896,
+        "bbox": {
+          "x": 0.076,
+          "y": 0.362184,
+          "width": 0.082667,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "miss the palace, and you",
+        "confidence": 0.924,
+        "bbox": {
+          "x": 0.286667,
+          "y": 0.36476,
+          "width": 0.171333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "miss the palace, and you",
+            "confidence": 0.924
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Well, you__.______ miss the palace, and you___ also go to the",
+            "confidence": 0.7517
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "also go to the",
+        "confidence": 0.8761,
+        "bbox": {
+          "x": 0.589333,
+          "y": 0.36476,
+          "width": 0.094667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "art museum.You",
+        "confidence": 0.9107,
+        "bbox": {
+          "x": 0.092667,
+          "y": 0.382277,
+          "width": 0.116,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "sentence",
+        "content": "art museum. You __________ see it all in one day because it’s very big, but",
+        "confidence": 0.872,
+        "bbox": {
+          "x": 0.092941,
+          "y": 0.38303,
+          "width": 0.547843,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "see it all in one day because it's very big, but",
+            "confidence": 0.9186
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "art museum. You __________ see it all in one day because it’s very big, but",
+            "confidence": 0.872
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "you.",
+        "confidence": 0.7544,
+        "bbox": {
+          "x": 0.088667,
+          "y": 0.398248,
+          "width": 0.033333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0033",
+        "type": "sentence",
+        "content": "buy really niceart books and postcardsthere.",
+        "confidence": 0.9015,
+        "bbox": {
+          "x": 0.250667,
+          "y": 0.398764,
+          "width": 0.31,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "buy really niceart books and postcardsthere.",
+            "confidence": 0.9015
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "you_________m____ buy really nice art books and postcards there.",
+            "confidence": 0.8689
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "A OK. Thanks a lot!",
+        "confidence": 0.8798,
+        "bbox": {
+          "x": 0.066667,
+          "y": 0.417826,
+          "width": 0.141333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A OK. Thanks a lot!",
+            "confidence": 0.8798
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A OK. Thanks a lot!",
+            "confidence": 0.734
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "heading",
+        "content": "Listening My city",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.071765,
+          "y": 0.454242,
+          "width": 0.244314,
+          "height": 0.02303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listening My city",
+            "confidence": 0.8834
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listening My city",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "sentence",
+        "content": "A Listen to three people describe their cities. Number the pictures from 1 to 3.",
+        "confidence": 0.9333,
+        "bbox": {
+          "x": 0.069412,
+          "y": 0.490303,
+          "width": 0.548235,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Listen to three people describe their cities. Numberthe pictures from 1to 3.",
+            "confidence": 0.8929
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Listen to three people describe their cities. Number the pictures from 1 to 3.",
+            "confidence": 0.9333
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "Mexico City",
+        "confidence": 0.8894,
+        "bbox": {
+          "x": 0.518,
+          "y": 0.587841,
+          "width": 0.082,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "Istanbul",
+        "confidence": 0.8706,
+        "bbox": {
+          "x": 0.256,
+          "y": 0.588872,
+          "width": 0.058667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "Florence",
+        "confidence": 0.8803,
+        "bbox": {
+          "x": 0.815333,
+          "y": 0.588872,
+          "width": 0.063333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "1",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.350196,
+          "y": 0.614848,
+          "width": 0.006275,
+          "height": 0.008182
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "label",
+        "content": "2",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.349412,
+          "y": 0.635455,
+          "width": 0.007059,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "sentence",
+        "content": "B Listen again. Write two things the people say visitors should do in their cities.",
+        "confidence": 0.9334,
+        "bbox": {
+          "x": 0.067333,
+          "y": 0.658423,
+          "width": 0.587333,
+          "height": 0.022669
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B  Listen again. Write two things the people say visitors should do in their cities.",
+            "confidence": 0.9334
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B 2. Listen again. Write two things the people say visitors should do in their cities.",
+            "confidence": 0.8856
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "label",
+        "content": "E) Speaking Only one day",
+        "confidence": 0.908,
+        "bbox": {
+          "x": 0.025098,
+          "y": 0.694848,
+          "width": 0.372549,
+          "height": 0.025758
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "E) Speaking Only one day",
+            "confidence": 0.908
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Speaking Only one day",
+            "confidence": 0.8539
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "sentence",
+        "content": "A Imagine these people are planning to visit your town or city for only one day.",
+        "confidence": 0.9544,
+        "bbox": {
+          "x": 0.070196,
+          "y": 0.733636,
+          "width": 0.64,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAIR woRK Imagine these people are planning to visit your town or city for only one day.",
+            "confidence": 0.9098
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Imagine these people are planning to visit your town or city for only one day.",
+            "confidence": 0.9544
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0045",
+        "type": "label",
+        "content": "What places should they visit?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.092941,
+          "y": 0.752121,
+          "width": 0.208235,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What places should they visit?",
+            "confidence": 0.8888
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What places should they visit?",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0046",
+        "type": "label",
+        "content": "two college students",
+        "confidence": 0.9056,
+        "bbox": {
+          "x": 0.398667,
+          "y": 0.771252,
+          "width": 0.144,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0047",
+        "type": "label",
+        "content": "a familywithteenagechildren",
+        "confidence": 0.9026,
+        "bbox": {
+          "x": 0.115333,
+          "y": 0.772282,
+          "width": 0.204667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "a familywithteenagechildren",
+            "confidence": 0.9026
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "© a family with teenage children ® twocollege students",
+            "confidence": 0.7522
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0048",
+        "type": "label",
+        "content": "a businesspersonfrom overseas",
+        "confidence": 0.8846,
+        "bbox": {
+          "x": 0.113333,
+          "y": 0.79186,
+          "width": 0.220667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0049",
+        "type": "paragraph",
+        "content": "young children on a school trip",
+        "confidence": 0.8801,
+        "bbox": {
+          "x": 0.398,
+          "y": 0.793405,
+          "width": 0.213333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "young children on a school trip",
+            "confidence": 0.8801
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "® a businessperson from overseas ® young children on a school trip",
+            "confidence": 0.675
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0050",
+        "type": "sentence",
+        "content": "“| think the family should visit the town square. They can eat and shop there.”",
+        "confidence": 0.942,
+        "bbox": {
+          "x": 0.093333,
+          "y": 0.814848,
+          "width": 0.582745,
+          "height": 0.015758
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"I think the family should visit the town square. They can eat and shop there.\"",
+            "confidence": 0.9005
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "“| think the family should visit the town square. They can eat and shop there.”",
+            "confidence": 0.942
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0051",
+        "type": "heading",
+        "content": "GRoUPWORK Compare your answers from Part A.Do you agree?",
+        "confidence": 0.8884,
+        "bbox": {
+          "x": 0.090667,
+          "y": 0.839773,
+          "width": 0.455333,
+          "height": 0.020093
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "GRoUPWORK Compare your answers from Part A.Do you agree?",
+            "confidence": 0.8884
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Kenelailelics Compare your answers from Part A. Do you agree?",
+            "confidence": 0.8573
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0052",
+        "type": "heading",
+        "content": "Keep talking!",
+        "confidence": 0.8064,
+        "bbox": {
+          "x": 0.068667,
+          "y": 0.875837,
+          "width": 0.205333,
+          "height": 0.02473
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "(3 Keep talking!",
+            "confidence": 0.75
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Keep talking!",
+            "confidence": 0.8064
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0053",
+        "type": "sentence",
+        "content": "Go to page 142 for more practice.",
+        "confidence": 0.9571,
+        "bbox": {
+          "x": 0.077255,
+          "y": 0.908182,
+          "width": 0.226275,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Gotopage142formorepractice.",
+            "confidence": 0.9152
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Go to page 142 for more practice.",
+            "confidence": 0.9571
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0054",
+        "type": "label",
+        "content": "77",
+        "confidence": 0.6628,
+        "bbox": {
+          "x": 0.886,
+          "y": 0.943843,
+          "width": 0.022667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [
+      {
+        "topic": "Grammar n Should; can",
+        "rule": [
+          "You can't see all of the museum in one day",
+          "Yes, they can.",
+          "No, they can't.",
+          "I rent a car in Seoul?",
+          "No, I think you",
+          "take the subway. You",
+          "quickly and easily.",
+          "miss the palace, and you",
+          "also go to the",
+          "art museum. You __________ see it all in one day because it’s very big, but",
+          "buy really niceart books and postcardsthere.",
+          "A OK. Thanks a lot!",
+          "A Listen to three people describe their cities. Number the pictures from 1 to 3.",
+          "E) Speaking Only one day",
+          "two college students",
+          "a businesspersonfrom overseas",
+          "young children on a school trip",
+          "Go to page 142 for more practice."
+        ],
+        "form": null,
+        "positiveExamples": [
+          "Grammar n Should; can",
+          "Should for recommendations",
+          "Can for possibility",
+          "Where should I go?",
+          "What can I do there?",
+          "You should visit the Egyptian Museum.",
+          "You can enjoy cafes,shops,andfountains.",
+          "They shouldn't miss Insadong",
+          "(=They shouldsee Insadong)",
+          "Can they take a taxi?",
+          "Should she go to Cairo?",
+          "Yes,sheshould",
+          "No, she shouldn't.",
+          "Should",
+          "A \"Oh, good. And what places.",
+          "B Listen again. Write two things the people say visitors should do in their cities.",
+          "A Imagine these people are planning to visit your town or city for only one day.",
+          "What places should they visit?",
+          "“| think the family should visit the town square. They can eat and shop there.”",
+          "GRoUPWORK Compare your answers from Part A.Do you agree?"
+        ],
+        "negativeExamples": [],
+        "questionForms": [],
+        "shortAnswers": [],
+        "exceptions": [],
+        "usageNotes": [],
+        "practice": [
+          "Complete the conversation with should, shouldn't, can, or can’t. Then practice with a partner.",
+          "3 Well, you.",
+          "Listening My city",
+          "1",
+          "2",
+          "77"
+        ],
+        "confidence": 0.8783
+      }
+    ],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Yes, they can.",
+            "confidence": 0.8996,
+            "bbox": {
+              "x": 0.521333,
+              "y": 0.210201,
+              "width": 0.095333,
+              "height": 0.016486
+            },
+            "sourceElementId": "text_0014",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "No, they can't.",
+            "confidence": 0.8975,
+            "bbox": {
+              "x": 0.664,
+              "y": 0.210716,
+              "width": 0.101333,
+              "height": 0.015456
+            },
+            "sourceElementId": "text_0015",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "No, she shouldn't.",
+            "confidence": 0.8657,
+            "bbox": {
+              "x": 0.270667,
+              "y": 0.228233,
+              "width": 0.125333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0017",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I rent a car in Seoul?",
+            "confidence": 0.9123,
+            "bbox": {
+              "x": 0.205333,
+              "y": 0.282329,
+              "width": 0.156,
+              "height": 0.015456
+            },
+            "sourceElementId": "text_0020",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I visit?",
+            "confidence": 0.8023,
+            "bbox": {
+              "x": 0.403333,
+              "y": 0.342607,
+              "width": 0.048667,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0026",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "What places should they visit?",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.092941,
+              "y": 0.752121,
+              "width": 0.208235,
+              "height": 0.012121
+            },
+            "sourceElementId": "text_0045",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "C",
+        "type": "exercise",
+        "instruction": "omplete the conversation with should, shouldn't, can, or can’t. Then practice with a partner.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0018"
+        ],
+        "confidence": 0.9093
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen to three people describe their cities. Number the pictures from 1 to 3.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0036"
+        ],
+        "confidence": 0.9333
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "listening_activity",
+        "instruction": "Listen again. Write two things the people say visitors should do in their cities.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0042"
+        ],
+        "confidence": 0.9334
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Should she go to Cairo?",
+          "Yes, they can.",
+          "No, they can't.",
+          "Yes,sheshould",
+          "No, she shouldn't.",
+          "Complete the conversation with should, shouldn't, can, or can’t. Then practice with a partner.",
+          "Should",
+          "I rent a car in Seoul?",
+          "-get around",
+          "No, I think you",
+          "take the subway. You",
+          "quickly and easily.",
+          "A \"Oh, good. And what places.",
+          "I visit?",
+          "3 Well, you.",
+          "miss the palace, and you",
+          "also go to the",
+          "art museum.You",
+          "art museum. You __________ see it all in one day because it’s very big, but",
+          "you.",
+          "buy really niceart books and postcardsthere.",
+          "A OK. Thanks a lot!"
+        ],
+        "position": {
+          "x": 0.046667,
+          "y": 0.18968600000000002,
+          "width": 0.738666,
+          "height": 0.26308099999999995
+        },
+        "textElementIds": [
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Listening My city",
+          "A Listen to three people describe their cities. Number the pictures from 1 to 3.",
+          "Mexico City",
+          "Istanbul",
+          "Florence",
+          "1",
+          "2",
+          "B Listen again. Write two things the people say visitors should do in their cities.",
+          "E) Speaking Only one day"
+        ],
+        "position": {
+          "x": 0.005097999999999998,
+          "y": 0.43424199999999996,
+          "width": 0.8935679999999999,
+          "height": 0.306364
+        },
+        "textElementIds": [
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040",
+          "text_0041",
+          "text_0042",
+          "text_0043"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "A Imagine these people are planning to visit your town or city for only one day.",
+          "What places should they visit?",
+          "two college students",
+          "a familywithteenagechildren",
+          "a businesspersonfrom overseas",
+          "young children on a school trip",
+          "“| think the family should visit the town square. They can eat and shop there.”",
+          "GRoUPWORK Compare your answers from Part A.Do you agree?",
+          "Keep talking!"
+        ],
+        "position": {
+          "x": 0.048667,
+          "y": 0.7136359999999999,
+          "width": 0.681529,
+          "height": 0.2069310000000001
+        },
+        "textElementIds": [
+          "text_0044",
+          "text_0045",
+          "text_0046",
+          "text_0047",
+          "text_0048",
+          "text_0049",
+          "text_0050",
+          "text_0051",
+          "text_0052"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "unit\nGrammar n Should; can\nCan forpossibility\nShouldfor recommendations\nWhere should I go?\nWhat can I do there?\nYou should visit the Egyptian Museum.\nYou can enjoy cafes,shops,andfountains.\nThey shouldn't miss Insadong\nYou can't see all of the museum in one day\n(=They shouldsee Insadong)\nCan they take a taxi?\nShould she go to Cairo?\nYes, they can.\nNo, they can't.\nYes,sheshould\nNo, she shouldn't.\nComplete the conversation with should, shouldn't, can, or can't. Then practice with a partner.\nShould\nI rent a car in Seoul?\n-get around\nNo, I think you\ntake the subway. You\nquickly and easily.\nA \"Oh, good. And what places.\nI visit?\n3 Well, you.\nmiss the palace, and you\nalso go to the\nsee it all in one day because it's very big, but\nart museum.You\nyou.\nbuy really niceart books and postcardsthere.\nA OK. Thanks a lot!\nListening My city\nA Listen to three people describe their cities. Numberthe pictures from 1to 3.\nMexico City\nIstanbul\nFlorence\nB  Listen again. Write two things the people say visitors should do in their cities.\nSpeaking Only one day\nPAIR woRK Imagine these people are planning to visit your town or city for only one day.\nWhat places should they visit?\ntwo college students\na familywithteenagechildren\na businesspersonfrom overseas\nyoung children on a school trip\n\"I think the family should visit the town square. They can eat and shop there.\"\nGRoUPWORK Compare your answers from Part A.Do you agree?\nKeep talking!\nGotopage142formorepractice.\n77\ndehkhodaedu.com I can say what people should do in a city.",
+      "tesseract_psm3": "unit 8.\n\nE} Grammar © Shou/d: can\n\nShould for recommendations\n\nCan for possibility\n\nComplete the conversation with should, shouldn't, can, or can’t. Then practice with a partner.\n\nA ____ Should __| rent acarin Seoul?\n\nB No,! think you_________ take the subway. You ___...__-_get around\nquickly and easily.\n\nA Oh, good. And what places__________I visit?\n\nB Well, you__.______ miss the palace, and you___ also go to the\nart museum. You __________ see it all in one day because it’s very big, but\nyou_________m____ buy really nice art books and postcards there.\n\nA OK. Thanks a lot!\n\nListening My city\n\nA Listen to three people describe their cities. Number the pictures from 1 to 3.\n\n1\n2\n\nB 2. Listen again. Write two things the people say visitors should do in their cities.\n\nE) Speaking Only one day\nA Imagine these people are planning to visit your town or city for only one day.\nWhat places should they visit?\n© a family with teenage children ® twocollege students\n® a businessperson from overseas ® young children on a school trip\n“| think the family should visit the town square. They can eat and shop there.”\n\nB Kenelailelics Compare your answers from Part A. Do you agree?\n\n(3 Keep talking!\n\nGo to page 142 for more practice.\n\n| can say what people should do ina city. A 77\n\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.879,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "6 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "grammar",
+    "headings": [
+      "unit",
+      "Grammar n Should; can",
+      "Should for recommendations",
+      "Can for possibility",
+      "Where should I go?",
+      "What can I do there?",
+      "Listening My city",
+      "GRo UPWORK Compare your answers from Part A. Do you agree?",
+      "Keep talking!"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.7987,
+        "bbox": {
+          "x": 0.826667,
+          "y": 0.020608,
+          "width": 0.036667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "unit 8.",
+            "confidence": 0.735
+          },
+          {
+            "engine": "rapidocr",
+            "content": "unit",
+            "confidence": 0.7987
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Grammar n Should; can",
+        "confidence": 0.8688,
+        "bbox": {
+          "x": 0.069333,
+          "y": 0.083462,
+          "width": 0.342667,
+          "height": 0.021638
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "E} Grammar © Shou/d: can",
+            "confidence": 0.69
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Grammar n Should; can",
+            "confidence": 0.8688
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Should for recommendations",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.170588,
+          "y": 0.121212,
+          "width": 0.199608,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Shouldfor recommendations",
+            "confidence": 0.9018
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Should for recommendations",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Can for possibility",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.616471,
+          "y": 0.121515,
+          "width": 0.123137,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Can forpossibility",
+            "confidence": 0.874
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Can for possibility",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "heading",
+        "content": "Where should I go?",
+        "confidence": 0.8669,
+        "bbox": {
+          "x": 0.092667,
+          "y": 0.137043,
+          "width": 0.128667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "heading",
+        "content": "What can I do there?",
+        "confidence": 0.8578,
+        "bbox": {
+          "x": 0.500667,
+          "y": 0.138588,
+          "width": 0.136,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "sentence",
+        "content": "You should visit the Egyptian Museum.",
+        "confidence": 0.8683,
+        "bbox": {
+          "x": 0.114,
+          "y": 0.154044,
+          "width": 0.262,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "You can enjoy cafes, shops, andfountains.",
+        "confidence": 0.8417,
+        "bbox": {
+          "x": 0.522,
+          "y": 0.155075,
+          "width": 0.283333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "They shouldn't miss Insadong",
+        "confidence": 0.8892,
+        "bbox": {
+          "x": 0.114667,
+          "y": 0.171046,
+          "width": 0.206667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "paragraph",
+        "content": "You can't see all of the museum in one day",
+        "confidence": 0.8914,
+        "bbox": {
+          "x": 0.522,
+          "y": 0.172591,
+          "width": 0.29,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "(=They shouldsee Insadong)",
+        "confidence": 0.8718,
+        "bbox": {
+          "x": 0.114,
+          "y": 0.189078,
+          "width": 0.201333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "Can they take a taxi?",
+        "confidence": 0.8639,
+        "bbox": {
+          "x": 0.499333,
+          "y": 0.193199,
+          "width": 0.140667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "Should she go to Cairo?",
+        "confidence": 0.8868,
+        "bbox": {
+          "x": 0.092,
+          "y": 0.209686,
+          "width": 0.161333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "Yes, they can.",
+        "confidence": 0.8996,
+        "bbox": {
+          "x": 0.521333,
+          "y": 0.210201,
+          "width": 0.095333,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "No, they can't.",
+        "confidence": 0.8975,
+        "bbox": {
+          "x": 0.664,
+          "y": 0.210716,
+          "width": 0.101333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "Yes, sheshould",
+        "confidence": 0.804,
+        "bbox": {
+          "x": 0.115333,
+          "y": 0.228233,
+          "width": 0.106,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "No, she shouldn't.",
+        "confidence": 0.8657,
+        "bbox": {
+          "x": 0.270667,
+          "y": 0.228233,
+          "width": 0.125333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "instruction",
+        "content": "Complete the conversation with should, shouldn't, can, or can't. Then practice with a partner.",
+        "confidence": 0.9093,
+        "bbox": {
+          "x": 0.070588,
+          "y": 0.259091,
+          "width": 0.639216,
+          "height": 0.018788
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Complete the conversation with should, shouldn't, can, or can’t. Then practice with a partner.",
+            "confidence": 0.9093
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Complete the conversation with should, shouldn't, can, or can't. Then practice with a partner.",
+            "confidence": 0.9321
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "Should",
+        "confidence": 0.7841,
+        "bbox": {
+          "x": 0.139333,
+          "y": 0.279753,
+          "width": 0.058,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Should",
+            "confidence": 0.7841
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A ____ Should __| rent acarin Seoul?",
+            "confidence": 0.6714
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "I rent a car in Seoul?",
+        "confidence": 0.9123,
+        "bbox": {
+          "x": 0.205333,
+          "y": 0.282329,
+          "width": 0.156,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "get around",
+        "confidence": 0.8678,
+        "bbox": {
+          "x": 0.598667,
+          "y": 0.302937,
+          "width": 0.080667,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "No, I think you",
+        "confidence": 0.7618,
+        "bbox": {
+          "x": 0.088667,
+          "y": 0.304482,
+          "width": 0.104667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "take the subway. You",
+        "confidence": 0.8283,
+        "bbox": {
+          "x": 0.321333,
+          "y": 0.304997,
+          "width": 0.147333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "take the subway. You",
+            "confidence": 0.8283
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B No,! think you_________ take the subway. You ___...__-_get around",
+            "confidence": 0.571
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "quickly and easily.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.093333,
+          "y": 0.322727,
+          "width": 0.121961,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "quickly and easily.",
+            "confidence": 0.8968
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "quickly and easily.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "sentence",
+        "content": "A \"Oh, good. And what places.",
+        "confidence": 0.8721,
+        "bbox": {
+          "x": 0.067333,
+          "y": 0.341577,
+          "width": 0.207333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A \"Oh, good. And what places.",
+            "confidence": 0.8721
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Oh, good. And what places__________I visit?",
+            "confidence": 0.73
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "I visit?",
+        "confidence": 0.8023,
+        "bbox": {
+          "x": 0.403333,
+          "y": 0.342607,
+          "width": 0.048667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "3 Well, you.",
+        "confidence": 0.7896,
+        "bbox": {
+          "x": 0.076,
+          "y": 0.362184,
+          "width": 0.082667,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "miss the palace, and you",
+        "confidence": 0.924,
+        "bbox": {
+          "x": 0.286667,
+          "y": 0.36476,
+          "width": 0.171333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "miss the palace, and you",
+            "confidence": 0.924
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Well, you__.______ miss the palace, and you___ also go to the",
+            "confidence": 0.7517
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "also go to the",
+        "confidence": 0.8761,
+        "bbox": {
+          "x": 0.589333,
+          "y": 0.36476,
+          "width": 0.094667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "art museum. You",
+        "confidence": 0.9107,
+        "bbox": {
+          "x": 0.092667,
+          "y": 0.382277,
+          "width": 0.116,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "sentence",
+        "content": "art museum. You __________ see it all in one day because it's very big, but",
+        "confidence": 0.872,
+        "bbox": {
+          "x": 0.092941,
+          "y": 0.38303,
+          "width": 0.547843,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "see it all in one day because it's very big, but",
+            "confidence": 0.9186
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "art museum. You __________ see it all in one day because it’s very big, but",
+            "confidence": 0.872
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "you.",
+        "confidence": 0.7544,
+        "bbox": {
+          "x": 0.088667,
+          "y": 0.398248,
+          "width": 0.033333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0033",
+        "type": "sentence",
+        "content": "buy really niceart books and postcardsthere.",
+        "confidence": 0.9015,
+        "bbox": {
+          "x": 0.250667,
+          "y": 0.398764,
+          "width": 0.31,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "buy really niceart books and postcardsthere.",
+            "confidence": 0.9015
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "you_________m____ buy really nice art books and postcards there.",
+            "confidence": 0.8689
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "A OK. Thanks a lot!",
+        "confidence": 0.8798,
+        "bbox": {
+          "x": 0.066667,
+          "y": 0.417826,
+          "width": 0.141333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A OK. Thanks a lot!",
+            "confidence": 0.8798
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A OK. Thanks a lot!",
+            "confidence": 0.734
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "heading",
+        "content": "Listening My city",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.071765,
+          "y": 0.454242,
+          "width": 0.244314,
+          "height": 0.02303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listening My city",
+            "confidence": 0.8834
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listening My city",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "sentence",
+        "content": "A Listen to three people describe their cities. Number the pictures from 1 to 3.",
+        "confidence": 0.9333,
+        "bbox": {
+          "x": 0.069412,
+          "y": 0.490303,
+          "width": 0.548235,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Listen to three people describe their cities. Numberthe pictures from 1to 3.",
+            "confidence": 0.8929
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Listen to three people describe their cities. Number the pictures from 1 to 3.",
+            "confidence": 0.9333
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "Mexico City",
+        "confidence": 0.8894,
+        "bbox": {
+          "x": 0.518,
+          "y": 0.587841,
+          "width": 0.082,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "Istanbul",
+        "confidence": 0.8706,
+        "bbox": {
+          "x": 0.256,
+          "y": 0.588872,
+          "width": 0.058667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "Florence",
+        "confidence": 0.8803,
+        "bbox": {
+          "x": 0.815333,
+          "y": 0.588872,
+          "width": 0.063333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "audio_track",
+        "content": "1",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.350196,
+          "y": 0.614848,
+          "width": 0.006275,
+          "height": 0.008182
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "audio_track",
+        "content": "2",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.349412,
+          "y": 0.635455,
+          "width": 0.007059,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "sentence",
+        "content": "B Listen again. Write two things the people say visitors should do in their cities.",
+        "confidence": 0.9334,
+        "bbox": {
+          "x": 0.067333,
+          "y": 0.658423,
+          "width": 0.587333,
+          "height": 0.022669
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B  Listen again. Write two things the people say visitors should do in their cities.",
+            "confidence": 0.9334
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B 2. Listen again. Write two things the people say visitors should do in their cities.",
+            "confidence": 0.8856
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "label",
+        "content": "E) Speaking Only one day",
+        "confidence": 0.908,
+        "bbox": {
+          "x": 0.025098,
+          "y": 0.694848,
+          "width": 0.372549,
+          "height": 0.025758
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "E) Speaking Only one day",
+            "confidence": 0.908
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Speaking Only one day",
+            "confidence": 0.8539
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "sentence",
+        "content": "A Imagine these people are planning to visit your town or city for only one day.",
+        "confidence": 0.9544,
+        "bbox": {
+          "x": 0.070196,
+          "y": 0.733636,
+          "width": 0.64,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAIR woRK Imagine these people are planning to visit your town or city for only one day.",
+            "confidence": 0.9098
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Imagine these people are planning to visit your town or city for only one day.",
+            "confidence": 0.9544
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0045",
+        "type": "label",
+        "content": "What places should they visit?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.092941,
+          "y": 0.752121,
+          "width": 0.208235,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What places should they visit?",
+            "confidence": 0.8888
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What places should they visit?",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0046",
+        "type": "label",
+        "content": "two college students",
+        "confidence": 0.9056,
+        "bbox": {
+          "x": 0.398667,
+          "y": 0.771252,
+          "width": 0.144,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0047",
+        "type": "label",
+        "content": "a familywithteenagechildren",
+        "confidence": 0.9026,
+        "bbox": {
+          "x": 0.115333,
+          "y": 0.772282,
+          "width": 0.204667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "a familywithteenagechildren",
+            "confidence": 0.9026
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "© a family with teenage children ® twocollege students",
+            "confidence": 0.7522
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0048",
+        "type": "label",
+        "content": "a businesspersonfrom overseas",
+        "confidence": 0.8846,
+        "bbox": {
+          "x": 0.113333,
+          "y": 0.79186,
+          "width": 0.220667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0049",
+        "type": "paragraph",
+        "content": "young children on a school trip",
+        "confidence": 0.8801,
+        "bbox": {
+          "x": 0.398,
+          "y": 0.793405,
+          "width": 0.213333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "young children on a school trip",
+            "confidence": 0.8801
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "® a businessperson from overseas ® young children on a school trip",
+            "confidence": 0.675
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0050",
+        "type": "sentence",
+        "content": "think the family should visit the town square. They can eat and shop there.",
+        "confidence": 0.942,
+        "bbox": {
+          "x": 0.093333,
+          "y": 0.814848,
+          "width": 0.582745,
+          "height": 0.015758
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"I think the family should visit the town square. They can eat and shop there.\"",
+            "confidence": 0.9005
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "“| think the family should visit the town square. They can eat and shop there.”",
+            "confidence": 0.942
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0051",
+        "type": "heading",
+        "content": "GRo UPWORK Compare your answers from Part A. Do you agree?",
+        "confidence": 0.8884,
+        "bbox": {
+          "x": 0.090667,
+          "y": 0.839773,
+          "width": 0.455333,
+          "height": 0.020093
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "GRoUPWORK Compare your answers from Part A.Do you agree?",
+            "confidence": 0.8884
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Kenelailelics Compare your answers from Part A. Do you agree?",
+            "confidence": 0.8573
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0052",
+        "type": "heading",
+        "content": "Keep talking!",
+        "confidence": 0.8064,
+        "bbox": {
+          "x": 0.068667,
+          "y": 0.875837,
+          "width": 0.205333,
+          "height": 0.02473
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "(3 Keep talking!",
+            "confidence": 0.75
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Keep talking!",
+            "confidence": 0.8064
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0053",
+        "type": "sentence",
+        "content": "Go to page 142 for more practice.",
+        "confidence": 0.9571,
+        "bbox": {
+          "x": 0.077255,
+          "y": 0.908182,
+          "width": 0.226275,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Gotopage142formorepractice.",
+            "confidence": 0.9152
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Go to page 142 for more practice.",
+            "confidence": 0.9571
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0054",
+        "type": "audio_track",
+        "content": "77",
+        "confidence": 0.6628,
+        "bbox": {
+          "x": 0.886,
+          "y": 0.943843,
+          "width": 0.022667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "fullTextReadingOrder": [
+      "unit",
+      "Grammar n Should; can",
+      "Should for recommendations",
+      "Can for possibility",
+      "Where should I go?",
+      "What can I do there?",
+      "You should visit the Egyptian Museum.",
+      "You can enjoy cafes, shops, andfountains.",
+      "They shouldn't miss Insadong",
+      "You can't see all of the museum in one day",
+      "(=They shouldsee Insadong)",
+      "Can they take a taxi?",
+      "Should she go to Cairo?",
+      "Yes, they can.",
+      "No, they can't.",
+      "Yes, sheshould",
+      "No, she shouldn't.",
+      "Complete the conversation with should, shouldn't, can, or can't. Then practice with a partner.",
+      "Should",
+      "I rent a car in Seoul?",
+      "get around",
+      "No, I think you",
+      "take the subway. You",
+      "quickly and easily.",
+      "A \"Oh, good. And what places.",
+      "I visit?",
+      "3 Well, you.",
+      "miss the palace, and you",
+      "also go to the",
+      "art museum. You",
+      "art museum. You __________ see it all in one day because it's very big, but",
+      "you.",
+      "buy really niceart books and postcardsthere.",
+      "A OK. Thanks a lot!",
+      "Listening My city",
+      "A Listen to three people describe their cities. Number the pictures from 1 to 3.",
+      "Mexico City",
+      "Istanbul",
+      "Florence",
+      "B Listen again. Write two things the people say visitors should do in their cities.",
+      "E) Speaking Only one day",
+      "A Imagine these people are planning to visit your town or city for only one day.",
+      "What places should they visit?",
+      "two college students",
+      "a familywithteenagechildren",
+      "a businesspersonfrom overseas",
+      "young children on a school trip",
+      "think the family should visit the town square. They can eat and shop there.",
+      "GRo UPWORK Compare your answers from Part A. Do you agree?",
+      "Keep talking!",
+      "Go to page 142 for more practice."
+    ],
+    "paragraphs": [
+      "You can't see all of the museum in one day",
+      "young children on a school trip"
+    ],
+    "sentences": [
+      "unit Grammar n Should; can Should for recommendations Can for possibility Where should I go",
+      "What can I do there",
+      "You should visit the Egyptian Museum",
+      "You can enjoy cafes, shops, andfountains",
+      "They shouldn't miss Insadong You can't see all of the museum in one day (=They shouldsee Insadong) Can they take a taxi",
+      "Should she go to Cairo",
+      "Yes, they can",
+      "No, they can't",
+      "Yes, sheshould No, she shouldn't",
+      "Complete the conversation with should, shouldn't, can, or can't",
+      "Then practice with a partner",
+      "Should I rent a car in Seoul",
+      "get around No, I think you take the subway",
+      "You quickly and easily",
+      "A \"Oh, good",
+      "And what places",
+      "I visit",
+      "3 Well, you",
+      "miss the palace, and you also go to the art museum",
+      "You art museum",
+      "You __________ see it all in one day because it's very big, but you",
+      "buy really niceart books and postcardsthere",
+      "A OK",
+      "Thanks a lot",
+      "Listening My city A Listen to three people describe their cities",
+      "Number the pictures from 1 to 3",
+      "Mexico City Istanbul Florence B Listen again",
+      "Write two things the people say visitors should do in their cities",
+      "E) Speaking Only one day A Imagine these people are planning to visit your town or city for only one day",
+      "What places should they visit",
+      "two college students a familywithteenagechildren a businesspersonfrom overseas young children on a school trip think the family should visit the town square",
+      "They can eat and shop there",
+      "GRo UPWORK Compare your answers from Part A",
+      "Do you agree",
+      "Keep talking",
+      "Go to page 142 for more practice"
+    ],
+    "vocabulary": [],
+    "grammar": [
+      {
+        "topic": "Should; can",
+        "rule": [
+          "You can't see all of the museum in one day",
+          "Yes, they can.",
+          "No, they can't.",
+          "I rent a car in Seoul?",
+          "No, I think you",
+          "take the subway. You",
+          "quickly and easily.",
+          "miss the palace, and you",
+          "also go to the",
+          "art museum. You __________ see it all in one day because it's very big, but",
+          "buy really niceart books and postcardsthere.",
+          "A OK. Thanks a lot!",
+          "A Listen to three people describe their cities. Number the pictures from 1 to 3.",
+          "E) Speaking Only one day",
+          "two college students",
+          "a businesspersonfrom overseas",
+          "young children on a school trip",
+          "Go to page 142 for more practice."
+        ],
+        "positiveExamples": [
+          "Grammar n Should; can",
+          "Should for recommendations",
+          "Can for possibility",
+          "Where should I go?",
+          "What can I do there?",
+          "You should visit the Egyptian Museum.",
+          "You can enjoy cafes, shops, andfountains.",
+          "They shouldn't miss Insadong",
+          "(=They shouldsee Insadong)",
+          "Can they take a taxi?",
+          "Should she go to Cairo?",
+          "Yes, sheshould",
+          "No, she shouldn't.",
+          "Should",
+          "A \"Oh, good. And what places.",
+          "B Listen again. Write two things the people say visitors should do in their cities.",
+          "A Imagine these people are planning to visit your town or city for only one day.",
+          "What places should they visit?",
+          "think the family should visit the town square. They can eat and shop there.",
+          "GRo UPWORK Compare your answers from Part A. Do you agree?"
+        ],
+        "usageNotes": [],
+        "practice": [
+          "Complete the conversation with should, shouldn't, can, or can't. Then practice with a partner.",
+          "3 Well, you.",
+          "Listening My city",
+          "1",
+          "2",
+          "77"
+        ]
+      }
+    ],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Yes, they can.",
+            "confidence": 0.8996,
+            "bbox": {
+              "x": 0.521333,
+              "y": 0.210201,
+              "width": 0.095333,
+              "height": 0.016486
+            },
+            "sourceElementId": "text_0014"
+          },
+          {
+            "speaker": null,
+            "content": "No, they can't.",
+            "confidence": 0.8975,
+            "bbox": {
+              "x": 0.664,
+              "y": 0.210716,
+              "width": 0.101333,
+              "height": 0.015456
+            },
+            "sourceElementId": "text_0015"
+          },
+          {
+            "speaker": null,
+            "content": "No, she shouldn't.",
+            "confidence": 0.8657,
+            "bbox": {
+              "x": 0.270667,
+              "y": 0.228233,
+              "width": 0.125333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0017"
+          },
+          {
+            "speaker": null,
+            "content": "I rent a car in Seoul?",
+            "confidence": 0.9123,
+            "bbox": {
+              "x": 0.205333,
+              "y": 0.282329,
+              "width": 0.156,
+              "height": 0.015456
+            },
+            "sourceElementId": "text_0020"
+          },
+          {
+            "speaker": null,
+            "content": "I visit?",
+            "confidence": 0.8023,
+            "bbox": {
+              "x": 0.403333,
+              "y": 0.342607,
+              "width": 0.048667,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0026"
+          },
+          {
+            "speaker": null,
+            "content": "What places should they visit?",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.092941,
+              "y": 0.752121,
+              "width": 0.208235,
+              "height": 0.012121
+            },
+            "sourceElementId": "text_0045"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "C",
+        "type": "acting",
+        "instruction": "omplete the conversation with should, shouldn't, can, or can't. Then practice with a partner.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen to three people describe their cities. Number the pictures from 1 to 3.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "listening_activity",
+        "instruction": "Listen again. Write two things the people say visitors should do in their cities.",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Should she go to Cairo?",
+          "Yes, they can.",
+          "No, they can't.",
+          "Yes, sheshould",
+          "No, she shouldn't.",
+          "Complete the conversation with should, shouldn't, can, or can't. Then practice with a partner.",
+          "Should",
+          "I rent a car in Seoul?",
+          "get around",
+          "No, I think you",
+          "take the subway. You",
+          "quickly and easily.",
+          "A \"Oh, good. And what places.",
+          "I visit?",
+          "3 Well, you.",
+          "miss the palace, and you",
+          "also go to the",
+          "art museum. You",
+          "art museum. You __________ see it all in one day because it's very big, but",
+          "you.",
+          "buy really niceart books and postcardsthere.",
+          "A OK. Thanks a lot!"
+        ],
+        "position": {
+          "x": 0.046667,
+          "y": 0.18968600000000002,
+          "width": 0.738666,
+          "height": 0.26308099999999995
+        },
+        "textElementIds": [
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Listening My city",
+          "A Listen to three people describe their cities. Number the pictures from 1 to 3.",
+          "Mexico City",
+          "Istanbul",
+          "Florence",
+          "1",
+          "2",
+          "B Listen again. Write two things the people say visitors should do in their cities.",
+          "E) Speaking Only one day"
+        ],
+        "position": {
+          "x": 0.005097999999999998,
+          "y": 0.43424199999999996,
+          "width": 0.8935679999999999,
+          "height": 0.306364
+        },
+        "textElementIds": [
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040",
+          "text_0041",
+          "text_0042",
+          "text_0043"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "A Imagine these people are planning to visit your town or city for only one day.",
+          "What places should they visit?",
+          "two college students",
+          "a familywithteenagechildren",
+          "a businesspersonfrom overseas",
+          "young children on a school trip",
+          "think the family should visit the town square. They can eat and shop there.",
+          "GRo UPWORK Compare your answers from Part A. Do you agree?",
+          "Keep talking!"
+        ],
+        "position": {
+          "x": 0.048667,
+          "y": 0.7136359999999999,
+          "width": 0.681529,
+          "height": 0.2069310000000001
+        },
+        "textElementIds": [
+          "text_0044",
+          "text_0045",
+          "text_0046",
+          "text_0047",
+          "text_0048",
+          "text_0049",
+          "text_0050",
+          "text_0051",
+          "text_0052"
+        ]
+      }
+    ],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "grammar",
+    "title": "unit",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [
+      {
+        "topic": "Should; can",
+        "rule": [
+          "You can't see all of the museum in one day",
+          "Yes, they can.",
+          "No, they can't.",
+          "I rent a car in Seoul?",
+          "No, I think you",
+          "take the subway. You",
+          "quickly and easily.",
+          "miss the palace, and you",
+          "also go to the",
+          "art museum. You __________ see it all in one day because it's very big, but",
+          "buy really niceart books and postcardsthere.",
+          "A OK. Thanks a lot!",
+          "A Listen to three people describe their cities. Number the pictures from 1 to 3.",
+          "E) Speaking Only one day",
+          "two college students",
+          "a businesspersonfrom overseas",
+          "young children on a school trip",
+          "Go to page 142 for more practice."
+        ],
+        "positiveExamples": [
+          "Grammar n Should; can",
+          "Should for recommendations",
+          "Can for possibility",
+          "Where should I go?",
+          "What can I do there?",
+          "You should visit the Egyptian Museum.",
+          "You can enjoy cafes, shops, andfountains.",
+          "They shouldn't miss Insadong",
+          "(=They shouldsee Insadong)",
+          "Can they take a taxi?",
+          "Should she go to Cairo?",
+          "Yes, sheshould",
+          "No, she shouldn't.",
+          "Should",
+          "A \"Oh, good. And what places.",
+          "B Listen again. Write two things the people say visitors should do in their cities.",
+          "A Imagine these people are planning to visit your town or city for only one day.",
+          "What places should they visit?",
+          "think the family should visit the town square. They can eat and shop there.",
+          "GRo UPWORK Compare your answers from Part A. Do you agree?"
+        ],
+        "usageNotes": [],
+        "practice": [
+          "Complete the conversation with should, shouldn't, can, or can't. Then practice with a partner.",
+          "3 Well, you.",
+          "Listening My city",
+          "1",
+          "2",
+          "77"
+        ]
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "Yes, they can.",
+            "confidence": 0.8996
+          },
+          {
+            "speaker": null,
+            "content": "No, they can't.",
+            "confidence": 0.8975
+          },
+          {
+            "speaker": null,
+            "content": "No, she shouldn't.",
+            "confidence": 0.8657
+          },
+          {
+            "speaker": null,
+            "content": "I rent a car in Seoul?",
+            "confidence": 0.9123
+          },
+          {
+            "speaker": null,
+            "content": "I visit?",
+            "confidence": 0.8023
+          },
+          {
+            "speaker": null,
+            "content": "What places should they visit?",
+            "confidence": 0.96
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "C",
+        "type": "acting",
+        "instruction": "omplete the conversation with should, shouldn't, can, or can't. Then practice with a partner.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen to three people describe their cities. Number the pictures from 1 to 3.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "listening_activity",
+        "instruction": "Listen again. Write two things the people say visitors should do in their cities.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "6 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "grammarTopicOverride": 1
+    },
+    "averageOcrConfidence": 0.879,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 2 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc2_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

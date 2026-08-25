@@ -1,0 +1,4440 @@
+{
+  "pageNumber": 37,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 40,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 1_Part2.pdf",
+    "pdfLocalPageNumber": 14,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.7988,
+        "bbox": {
+          "x": 0.839333,
+          "y": 0.02576,
+          "width": 0.035333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Grammar © Simple present statements",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.109804,
+          "y": 0.089091,
+          "width": 0.536078,
+          "height": 0.021818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Grammar  Simplepresentstatements",
+            "confidence": 0.8631
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Grammar © Simple present statements",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Regular verbs",
+        "confidence": 0.8064,
+        "bbox": {
+          "x": 0.264,
+          "y": 0.121072,
+          "width": 0.096667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Regular verbs Irregular verbs",
+        "confidence": 0.89,
+        "bbox": {
+          "x": 0.265882,
+          "y": 0.123333,
+          "width": 0.507843,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Irregularverbs",
+            "confidence": 0.8822
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Regular verbs Irregular verbs",
+            "confidence": 0.89
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "heading",
+        "content": "I drive to work.",
+        "confidence": 0.7561,
+        "bbox": {
+          "x": 0.125333,
+          "y": 0.14168,
+          "width": 0.101333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0006",
+        "type": "heading",
+        "content": "I don't take the train.",
+        "confidence": 0.8422,
+        "bbox": {
+          "x": 0.310667,
+          "y": 0.14168,
+          "width": 0.141333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "he/she",
+        "confidence": 0.7626,
+        "bbox": {
+          "x": 0.74,
+          "y": 0.153014,
+          "width": 0.054667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "I/ you / we/ they",
+        "confidence": 0.7367,
+        "bbox": {
+          "x": 0.539333,
+          "y": 0.153529,
+          "width": 0.112,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "You take a taxi.",
+        "confidence": 0.8789,
+        "bbox": {
+          "x": 0.124667,
+          "y": 0.161257,
+          "width": 0.103333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "You don't take the subway.",
+        "confidence": 0.8766,
+        "bbox": {
+          "x": 0.31,
+          "y": 0.161257,
+          "width": 0.176667,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "I have a car.",
+        "confidence": 0.8034,
+        "bbox": {
+          "x": 0.538,
+          "y": 0.173107,
+          "width": 0.082667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "She has a car.",
+        "confidence": 0.8988,
+        "bbox": {
+          "x": 0.740667,
+          "y": 0.173107,
+          "width": 0.094,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "Herides a bike",
+        "confidence": 0.837,
+        "bbox": {
+          "x": 0.125333,
+          "y": 0.183411,
+          "width": 0.103333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "He doesn't drive to work.",
+        "confidence": 0.8659,
+        "bbox": {
+          "x": 0.309333,
+          "y": 0.183411,
+          "width": 0.172667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "You don't have a bike",
+        "confidence": 0.885,
+        "bbox": {
+          "x": 0.539333,
+          "y": 0.194745,
+          "width": 0.147333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "She doesn'thaveabike",
+        "confidence": 0.911,
+        "bbox": {
+          "x": 0.742667,
+          "y": 0.195775,
+          "width": 0.16,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "She doesn'thaveabike",
+            "confidence": 0.911
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "t nave a dike.",
+            "confidence": 0.5075
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "She drives.",
+        "confidence": 0.7412,
+        "bbox": {
+          "x": 0.124667,
+          "y": 0.202473,
+          "width": 0.076667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "Shedoesn't walk.",
+        "confidence": 0.8177,
+        "bbox": {
+          "x": 0.311333,
+          "y": 0.205049,
+          "width": 0.12,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "He goes to work.",
+        "confidence": 0.883,
+        "bbox": {
+          "x": 0.740667,
+          "y": 0.215353,
+          "width": 0.112667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "We go to work.",
+        "confidence": 0.8791,
+        "bbox": {
+          "x": 0.539333,
+          "y": 0.215868,
+          "width": 0.099333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "We take the train.",
+        "confidence": 0.8385,
+        "bbox": {
+          "x": 0.125333,
+          "y": 0.223596,
+          "width": 0.119333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "We don't take a taxi.",
+        "confidence": 0.8922,
+        "bbox": {
+          "x": 0.310667,
+          "y": 0.224626,
+          "width": 0.138,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "They don't go to school.",
+        "confidence": 0.8548,
+        "bbox": {
+          "x": 0.541333,
+          "y": 0.235446,
+          "width": 0.159333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "He doesn't go to school.",
+        "confidence": 0.881,
+        "bbox": {
+          "x": 0.741333,
+          "y": 0.236476,
+          "width": 0.161333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "They walk to school.",
+        "confidence": 0.8657,
+        "bbox": {
+          "x": 0.126,
+          "y": 0.243174,
+          "width": 0.139333,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "They don't take the bus.",
+        "confidence": 0.916,
+        "bbox": {
+          "x": 0.311333,
+          "y": 0.245234,
+          "width": 0.163333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "Contractions",
+        "confidence": 0.907,
+        "bbox": {
+          "x": 0.126,
+          "y": 0.268418,
+          "width": 0.087333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "doesn't=does not",
+        "confidence": 0.8876,
+        "bbox": {
+          "x": 0.367333,
+          "y": 0.269449,
+          "width": 0.127333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "sentence",
+        "content": "A Complete the sentences with the simple present forms of the verbs. Then compare",
+        "confidence": 0.945,
+        "bbox": {
+          "x": 0.10902,
+          "y": 0.298485,
+          "width": 0.588235,
+          "height": 0.016061
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Complete the sentences with the simple present forms of the verbs.Then compare",
+            "confidence": 0.8843
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Complete the sentences with the simple present forms of the verbs. Then compare",
+            "confidence": 0.945
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "with a partner.",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.131765,
+          "y": 0.317273,
+          "width": 0.100784,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "withapartner.",
+            "confidence": 0.8812
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "with a partner.",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "take",
+        "confidence": 0.7608,
+        "bbox": {
+          "x": 0.228667,
+          "y": 0.331788,
+          "width": 0.040667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "don't walk",
+        "confidence": 0.7654,
+        "bbox": {
+          "x": 0.553333,
+          "y": 0.333333,
+          "width": 0.077333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "ee Oe 2 (take) the bus to school,|___—s don’t walk (not / walk).",
+            "confidence": 0.5331
+          },
+          {
+            "engine": "rapidocr",
+            "content": "don't walk",
+            "confidence": 0.7654
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "(not / walk).",
+        "confidence": 0.8488,
+        "bbox": {
+          "x": 0.681333,
+          "y": 0.337455,
+          "width": 0.082,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "(take)thebustoschool.1",
+        "confidence": 0.8857,
+        "bbox": {
+          "x": 0.338,
+          "y": 0.33797,
+          "width": 0.170667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "Jonathan",
+        "confidence": 0.8288,
+        "bbox": {
+          "x": 0.151333,
+          "y": 0.356517,
+          "width": 0.07,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Jonathan",
+            "confidence": 0.8288
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Jonathan. (have) acar.He (drive) to work.",
+            "confidence": 0.5614
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "(have)a car.He",
+        "confidence": 0.8134,
+        "bbox": {
+          "x": 0.393333,
+          "y": 0.358578,
+          "width": 0.108,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "(drive) to work.",
+        "confidence": 0.9058,
+        "bbox": {
+          "x": 0.676667,
+          "y": 0.359093,
+          "width": 0.103333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "My parents",
+        "confidence": 0.8456,
+        "bbox": {
+          "x": 0.152667,
+          "y": 0.378156,
+          "width": 0.076667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "(take) the train to work.They",
+        "confidence": 0.9039,
+        "bbox": {
+          "x": 0.402667,
+          "y": 0.378671,
+          "width": 0.2,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "(take) the train to work.They",
+            "confidence": 0.9039
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Myparents _______. (take) the train to work. They______________ (go) to the city.",
+            "confidence": 0.7462
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "(go) to the city.",
+        "confidence": 0.8656,
+        "bbox": {
+          "x": 0.776667,
+          "y": 0.379701,
+          "width": 0.099333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "label",
+        "content": "My neighbor",
+        "confidence": 0.865,
+        "bbox": {
+          "x": 0.152667,
+          "y": 0.398248,
+          "width": 0.088667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "label",
+        "content": "(ride) a motorcycle to work.",
+        "confidence": 0.92,
+        "bbox": {
+          "x": 0.414667,
+          "y": 0.399279,
+          "width": 0.187333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "(ride) a motorcycle to work.",
+            "confidence": 0.92
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 Myneighbor — (ride) a motorcycle to work.",
+            "confidence": 0.7712
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "label",
+        "content": "Mei-li",
+        "confidence": 0.7896,
+        "bbox": {
+          "x": 0.152,
+          "y": 0.417826,
+          "width": 0.044,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0044",
+        "type": "label",
+        "content": "(walk).",
+        "confidence": 0.8027,
+        "bbox": {
+          "x": 0.704,
+          "y": 0.419887,
+          "width": 0.049333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0045",
+        "type": "label",
+        "content": "(not /take) the bus. She.",
+        "confidence": 0.8504,
+        "bbox": {
+          "x": 0.37,
+          "y": 0.420402,
+          "width": 0.165333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "(not /take) the bus. She.",
+            "confidence": 0.8504
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "S Meili _ (not / take) the bus. She. (reat).",
+            "confidence": 0.421
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0046",
+        "type": "label",
+        "content": "We",
+        "confidence": 0.6152,
+        "bbox": {
+          "x": 0.151333,
+          "y": 0.439464,
+          "width": 0.026667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0047",
+        "type": "label",
+        "content": "(not /have) bicycles,andwe..",
+        "confidence": 0.8637,
+        "bbox": {
+          "x": 0.353333,
+          "y": 0.44101,
+          "width": 0.202,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "6 We (not / have) bicycles, andwe (not drive).",
+            "confidence": 0.5411
+          },
+          {
+            "engine": "rapidocr",
+            "content": "(not /have) bicycles,andwe..",
+            "confidence": 0.8637
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0048",
+        "type": "label",
+        "content": "(not / drive).",
+        "confidence": 0.8779,
+        "bbox": {
+          "x": 0.718667,
+          "y": 0.441525,
+          "width": 0.086667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0049",
+        "type": "heading",
+        "content": "PAIRWORK",
+        "confidence": 0.84,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.467285,
+          "width": 0.078667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0050",
+        "type": "paragraph",
+        "content": "B Make five sentences about how your family members and friends get to",
+        "confidence": 0.9562,
+        "bbox": {
+          "x": 0.110196,
+          "y": 0.467879,
+          "width": 0.595686,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Make five sentences about how yourfamily members andfriends get to",
+            "confidence": 0.8826
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Make five sentences about how your family members and friends get to",
+            "confidence": 0.9562
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0051",
+        "type": "sentence",
+        "content": "school or work. Tell your partner.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.132157,
+          "y": 0.486364,
+          "width": 0.227451,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "school orwork.Tell yourpartner.",
+            "confidence": 0.8978
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "school or work. Tell your partner.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0052",
+        "type": "dialogue_line",
+        "content": "A: My sister works in a big city. She takes the bus to work.",
+        "confidence": 0.9586,
+        "bbox": {
+          "x": 0.131765,
+          "y": 0.507273,
+          "width": 0.438431,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: My sister works in a big city. She takes the bus to work.",
+            "confidence": 0.9115
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: My sister works in a big city. She takes the bus to work.",
+            "confidence": 0.9586
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0053",
+        "type": "dialogue_line",
+        "content": "B: My best friend works in a big city, too. He doesn't take the bus. He drives.",
+        "confidence": 0.9559,
+        "bbox": {
+          "x": 0.132941,
+          "y": 0.529394,
+          "width": 0.566667,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B: My best friend works in a big city, too. He doesn't take the bus. He drives.",
+            "confidence": 0.9259
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: My best friend works in a big city, too. He doesn't take the bus. He drives.",
+            "confidence": 0.9559
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0054",
+        "type": "heading",
+        "content": "Speaking | take the bus.",
+        "confidence": 0.956,
+        "bbox": {
+          "x": 0.109804,
+          "y": 0.558182,
+          "width": 0.334902,
+          "height": 0.031212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Speaking | take the bus.",
+            "confidence": 0.956
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Speaking Itake the bus.",
+            "confidence": 0.9254
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0055",
+        "type": "paragraph",
+        "content": "A Write how you get to school or work in the chart. Add extra information, such as a bus",
+        "confidence": 0.9319,
+        "bbox": {
+          "x": 0.107333,
+          "y": 0.5966,
+          "width": 0.612,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Write how you get to school or work in the chart. Add extra information, such as a bus",
+            "confidence": 0.9319
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Write how you get to school or work in the chart. Add extra information, such as a bus",
+            "confidence": 0.9353
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0056",
+        "type": "instruction",
+        "content": "number or a train number.",
+        "confidence": 0.956,
+        "bbox": {
+          "x": 0.133333,
+          "y": 0.617273,
+          "width": 0.180784,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "numberoratrainnumber.",
+            "confidence": 0.8754
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "number or a train number.",
+            "confidence": 0.956
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0057",
+        "type": "label",
+        "content": "Me",
+        "confidence": 0.6581,
+        "bbox": {
+          "x": 0.264,
+          "y": 0.637816,
+          "width": 0.027333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0058",
+        "type": "instruction",
+        "content": "Name:",
+        "confidence": 0.8199,
+        "bbox": {
+          "x": 0.430667,
+          "y": 0.639361,
+          "width": 0.048667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0059",
+        "type": "instruction",
+        "content": "Name:",
+        "confidence": 0.8222,
+        "bbox": {
+          "x": 0.760667,
+          "y": 0.639876,
+          "width": 0.049333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0060",
+        "type": "instruction",
+        "content": "Name:",
+        "confidence": 0.7827,
+        "bbox": {
+          "x": 0.598,
+          "y": 0.640907,
+          "width": 0.047333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0061",
+        "type": "label",
+        "content": "| To school",
+        "confidence": 0.87,
+        "bbox": {
+          "x": 0.108235,
+          "y": 0.660909,
+          "width": 0.071765,
+          "height": 0.01697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "To school",
+            "confidence": 0.8092
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| To school",
+            "confidence": 0.87
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0062",
+        "type": "label",
+        "content": "To work",
+        "confidence": 0.8711,
+        "bbox": {
+          "x": 0.115333,
+          "y": 0.680062,
+          "width": 0.056667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "_ To work",
+            "confidence": 0.7233
+          },
+          {
+            "engine": "rapidocr",
+            "content": "To work",
+            "confidence": 0.8711
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0063",
+        "type": "label",
+        "content": "Extra information",
+        "confidence": 0.9217,
+        "bbox": {
+          "x": 0.116,
+          "y": 0.701185,
+          "width": 0.119333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "_ Extra information",
+            "confidence": 0.81
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Extra information",
+            "confidence": 0.9217
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0064",
+        "type": "label",
+        "content": "— Se",
+        "confidence": 0.475,
+        "bbox": {
+          "x": 0.246667,
+          "y": 0.716667,
+          "width": 0.03098,
+          "height": 0.002121
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0065",
+        "type": "heading",
+        "content": "GROUPWORK",
+        "confidence": 0.8232,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.731066,
+          "width": 0.094,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0066",
+        "type": "sentence",
+        "content": "B Find out how three of your classmates get to school or work.",
+        "confidence": 0.9562,
+        "bbox": {
+          "x": 0.11098,
+          "y": 0.731818,
+          "width": 0.537255,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Find out how three of your classmates get to school or work.",
+            "confidence": 0.8763
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Find out how three of your classmates get to school or work.",
+            "confidence": 0.9562
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0067",
+        "type": "instruction",
+        "content": "Complete the chart with their information.",
+        "confidence": 0.9583,
+        "bbox": {
+          "x": 0.133333,
+          "y": 0.75,
+          "width": 0.293333,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Complete the chart with their information.",
+            "confidence": 0.898
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Complete the chart with their information.",
+            "confidence": 0.9583
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0068",
+        "type": "dialogue_line",
+        "content": "A: I take the bus to school. It's the number 16 bus. How about you?",
+        "confidence": 0.9281,
+        "bbox": {
+          "x": 0.13,
+          "y": 0.769191,
+          "width": 0.508667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: I take the bus to school. It's the number 16 bus. How about you?",
+            "confidence": 0.9281
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: | take the bus to school. It's the number 16 bus. How about you?",
+            "confidence": 0.9273
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0069",
+        "type": "dialogue_line",
+        "content": "B: | take the bus, too. | take the number 8 bus.",
+        "confidence": 0.9225,
+        "bbox": {
+          "x": 0.133725,
+          "y": 0.792727,
+          "width": 0.343922,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B:I take the bus, too. I take the number 8 bus.",
+            "confidence": 0.903
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: | take the bus, too. | take the number 8 bus.",
+            "confidence": 0.9225
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0070",
+        "type": "sentence",
+        "content": "Cc Tell another group how your classmates get to school or work.",
+        "confidence": 0.9308,
+        "bbox": {
+          "x": 0.110588,
+          "y": 0.81697,
+          "width": 0.550196,
+          "height": 0.017576
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Cc Tell another group how your classmates get to school or work.",
+            "confidence": 0.9308
+          },
+          {
+            "engine": "rapidocr",
+            "content": "GROUPWORK",
+            "confidence": 0.8815
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Tell another grouphow your classmates get to school or work.",
+            "confidence": 0.8885
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0071",
+        "type": "sentence",
+        "content": "“Daniel takes the number & bus to school.”",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.133333,
+          "y": 0.842121,
+          "width": 0.316078,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"Daniel takes the number 8 bus to school\"",
+            "confidence": 0.8711
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "“Daniel takes the number & bus to school.”",
+            "confidence": 0.94
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0072",
+        "type": "heading",
+        "content": "Keep talking!",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.112157,
+          "y": 0.87697,
+          "width": 0.199216,
+          "height": 0.022424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Keep talking!",
+            "confidence": 0.9126
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Keep talking!",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0073",
+        "type": "sentence",
+        "content": "Go to page 133 for morepractice.",
+        "confidence": 0.8362,
+        "bbox": {
+          "x": 0.114,
+          "y": 0.905204,
+          "width": 0.227333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0074",
+        "type": "label",
+        "content": "37",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.92,
+          "y": 0.940909,
+          "width": 0.017255,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "37",
+            "confidence": 0.666
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "37",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0075",
+        "type": "sentence",
+        "content": "| can describe how people get around. ©)",
+        "confidence": 0.8862,
+        "bbox": {
+          "x": 0.623137,
+          "y": 0.943939,
+          "width": 0.254118,
+          "height": 0.017879
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "| can describe how people get around. ©)",
+            "confidence": 0.8862
+          },
+          {
+            "engine": "rapidocr",
+            "content": "can describe how peopleget around.",
+            "confidence": 0.9024
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [
+      {
+        "topic": "Grammar © Simple present statements",
+        "rule": [
+          "Regular verbs Irregular verbs",
+          "I drive to work.",
+          "I don't take the train.",
+          "I/ you / we/ they",
+          "You take a taxi.",
+          "You don't take the subway.",
+          "She has a car.",
+          "Herides a bike",
+          "He doesn't drive to work.",
+          "He goes to work.",
+          "We go to work.",
+          "We take the train.",
+          "We don't take a taxi.",
+          "They don't go to school.",
+          "He doesn't go to school.",
+          "They walk to school.",
+          "They don't take the bus.",
+          "with a partner.",
+          "(not / walk).",
+          "(drive) to work.",
+          "(take) the train to work.They",
+          "(go) to the city.",
+          "(ride) a motorcycle to work.",
+          "(not /take) the bus. She.",
+          "(not /have) bicycles,andwe..",
+          "(not / drive).",
+          "school or work. Tell your partner.",
+          "A: My sister works in a big city. She takes the bus to work.",
+          "B: My best friend works in a big city, too. He doesn't take the bus. He drives.",
+          "Speaking | take the bus.",
+          "number or a train number.",
+          "| To school",
+          "B: | take the bus, too. | take the number 8 bus.",
+          "“Daniel takes the number & bus to school.”",
+          "Go to page 133 for morepractice."
+        ],
+        "form": null,
+        "positiveExamples": [
+          "Grammar © Simple present statements",
+          "I have a car.",
+          "You don't have a bike",
+          "A Complete the sentences with the simple present forms of the verbs. Then compare",
+          "B Make five sentences about how your family members and friends get to",
+          "A Write how you get to school or work in the chart. Add extra information, such as a bus",
+          "B Find out how three of your classmates get to school or work.",
+          "A: I take the bus to school. It's the number 16 bus. How about you?",
+          "Cc Tell another group how your classmates get to school or work.",
+          "| can describe how people get around. ©)"
+        ],
+        "negativeExamples": [],
+        "questionForms": [],
+        "shortAnswers": [],
+        "exceptions": [],
+        "usageNotes": [],
+        "practice": [
+          "Complete the chart with their information.",
+          "37"
+        ],
+        "confidence": 0.8614
+      }
+    ],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "She drives.",
+            "confidence": 0.7412,
+            "bbox": {
+              "x": 0.124667,
+              "y": 0.202473,
+              "width": 0.076667,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0017",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Shedoesn't walk.",
+            "confidence": 0.8177,
+            "bbox": {
+              "x": 0.311333,
+              "y": 0.205049,
+              "width": 0.12,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0018",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "He goes to work.",
+            "confidence": 0.883,
+            "bbox": {
+              "x": 0.740667,
+              "y": 0.215353,
+              "width": 0.112667,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0019",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "We go to work.",
+            "confidence": 0.8791,
+            "bbox": {
+              "x": 0.539333,
+              "y": 0.215868,
+              "width": 0.099333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0020",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "We take the train.",
+            "confidence": 0.8385,
+            "bbox": {
+              "x": 0.125333,
+              "y": 0.223596,
+              "width": 0.119333,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0021",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "We don't take a taxi.",
+            "confidence": 0.8922,
+            "bbox": {
+              "x": 0.310667,
+              "y": 0.224626,
+              "width": 0.138,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0022",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "They don't go to school.",
+            "confidence": 0.8548,
+            "bbox": {
+              "x": 0.541333,
+              "y": 0.235446,
+              "width": 0.159333,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0023",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "He doesn't go to school.",
+            "confidence": 0.881,
+            "bbox": {
+              "x": 0.741333,
+              "y": 0.236476,
+              "width": 0.161333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0024",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "They don't take the bus.",
+            "confidence": 0.916,
+            "bbox": {
+              "x": 0.311333,
+              "y": 0.245234,
+              "width": 0.163333,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0026",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "A: My sister works in a big city. She takes the bus to work.",
+            "confidence": 0.9586,
+            "bbox": {
+              "x": 0.131765,
+              "y": 0.507273,
+              "width": 0.438431,
+              "height": 0.014242
+            },
+            "sourceElementId": "text_0052",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "B: My best friend works in a big city, too. He doesn't take the bus. He drives.",
+            "confidence": 0.9559,
+            "bbox": {
+              "x": 0.132941,
+              "y": 0.529394,
+              "width": 0.566667,
+              "height": 0.013939
+            },
+            "sourceElementId": "text_0053",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "A: I take the bus to school. It's the number 16 bus. How about you?",
+            "confidence": 0.9281,
+            "bbox": {
+              "x": 0.13,
+              "y": 0.769191,
+              "width": 0.508667,
+              "height": 0.015971
+            },
+            "sourceElementId": "text_0068",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "B: | take the bus, too. | take the number 8 bus.",
+            "confidence": 0.9225,
+            "bbox": {
+              "x": 0.133725,
+              "y": 0.792727,
+              "width": 0.343922,
+              "height": 0.011515
+            },
+            "sourceElementId": "text_0069",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "writing_activity",
+        "instruction": "Complete the sentences with the simple present forms of the verbs. Then compare",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0029"
+        ],
+        "confidence": 0.945
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "writing_activity",
+        "instruction": "Write how you get to school or work in the chart. Add extra information, such as a bus",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0055"
+        ],
+        "confidence": 0.9319
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "exercise",
+        "instruction": "Find out how three of your classmates get to school or work.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0066"
+        ],
+        "confidence": 0.9562
+      },
+      {
+        "exerciseNumber": "C",
+        "type": "exercise",
+        "instruction": "c Tell another group how your classmates get to school or work.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0070"
+        ],
+        "confidence": 0.9308
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "She drives.",
+          "Shedoesn't walk.",
+          "He goes to work.",
+          "We go to work.",
+          "We take the train.",
+          "We don't take a taxi.",
+          "They don't go to school.",
+          "He doesn't go to school.",
+          "They walk to school.",
+          "They don't take the bus.",
+          "Contractions",
+          "doesn't=does not",
+          "A Complete the sentences with the simple present forms of the verbs. Then compare",
+          "with a partner.",
+          "take",
+          "don't walk",
+          "(not / walk).",
+          "(take)thebustoschool.1",
+          "Jonathan",
+          "(have)a car.He",
+          "(drive) to work.",
+          "My parents",
+          "(take) the train to work.They",
+          "(go) to the city.",
+          "My neighbor",
+          "(ride) a motorcycle to work.",
+          "Mei-li",
+          "(walk).",
+          "(not /take) the bus. She.",
+          "We",
+          "(not /have) bicycles,andwe..",
+          "(not / drive)."
+        ],
+        "position": {
+          "x": 0.08902,
+          "y": 0.182473,
+          "width": 0.833646,
+          "height": 0.292962
+        },
+        "textElementIds": [
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040",
+          "text_0041",
+          "text_0042",
+          "text_0043",
+          "text_0044",
+          "text_0045",
+          "text_0046",
+          "text_0047",
+          "text_0048"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "PAIRWORK",
+          "B Make five sentences about how your family members and friends get to",
+          "school or work. Tell your partner.",
+          "A: My sister works in a big city. She takes the bus to work.",
+          "B: My best friend works in a big city, too. He doesn't take the bus. He drives.",
+          "Speaking | take the bus.",
+          "A Write how you get to school or work in the chart. Add extra information, such as a bus",
+          "number or a train number.",
+          "Me",
+          "Name:",
+          "Name:",
+          "Name:",
+          "| To school",
+          "To work",
+          "Extra information",
+          "— Se"
+        ],
+        "position": {
+          "x": 0.087333,
+          "y": 0.447285,
+          "width": 0.742667,
+          "height": 0.2915030000000001
+        },
+        "textElementIds": [
+          "text_0049",
+          "text_0050",
+          "text_0051",
+          "text_0052",
+          "text_0053",
+          "text_0054",
+          "text_0055",
+          "text_0056",
+          "text_0057",
+          "text_0058",
+          "text_0059",
+          "text_0060",
+          "text_0061",
+          "text_0062",
+          "text_0063",
+          "text_0064"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "unit\nGrammar  Simplepresentstatements\nRegular verbs\nIrregularverbs\nI drive to work.\nI don't take the train.\nhe/she\nI/ you / we/ they\nYou take a taxi.\nYou don't take the subway.\nI have a car.\nShe has a car.\nHerides a bike\nHe doesn't drive to work.\nYou don't have a bike\nShe doesn'thaveabike\nShe drives.\nShedoesn't walk.\nHe goes to work.\nWe go to work.\nWe take the train.\nWe don't take a taxi.\nThey don't go to school.\nHe doesn't go to school.\nThey walk to school.\nThey don't take the bus.\nContractions\ndoesn't=does not\nA Complete the sentences with the simple present forms of the verbs.Then compare\nwithapartner.\ntake\ndon't walk\n(not / walk).\n(take)thebustoschool.1\nJonathan\n(have)a car.He\n(drive) to work.\nMy parents\n(take) the train to work.They\n(go) to the city.\nMy neighbor\n(ride) a motorcycle to work.\nMei-li\n(walk).\n(not /take) the bus. She.\nWe\n(not /have) bicycles,andwe..\n(not / drive).\nPAIRWORK\nMake five sentences about how yourfamily members andfriends get to\nschool orwork.Tell yourpartner.\nA: My sister works in a big city. She takes the bus to work.\nB: My best friend works in a big city, too. He doesn't take the bus. He drives.\nSpeaking Itake the bus.\nA Write how you get to school or work in the chart. Add extra information, such as a bus\nnumberoratrainnumber.\nMe\nName:\nName:\nName:\nTo school\nTo work\nExtra information\nGROUPWORK\nFind out how three of your classmates get to school or work.\nComplete the chart with their information.\nA: I take the bus to school. It's the number 16 bus. How about you?\nB:I take the bus, too. I take the number 8 bus.\nGROUPWORK\nTell another grouphow your classmates get to school or work.\n\"Daniel takes the number 8 bus to school\"\nKeep talking!\nGo to page 133 for morepractice.\n37\ncan describe how peopleget around.\ndehkhodaedu.com",
+      "tesseract_psm3": "Grammar © Simple present statements\n\nRegular verbs Irregular verbs\n\nt nave a dike.\n\nA Complete the sentences with the simple present forms of the verbs. Then compare\nwith a partner.\n\nee Oe 2 (take) the bus to school,|___—s don’t walk (not / walk).\n\n2 Jonathan. (have) acar.He (drive) to work.\n\n3 Myparents _______. (take) the train to work. They______________ (go) to the city.\n4 Myneighbor — (ride) a motorcycle to work.\n\nS Meili _ (not / take) the bus. She. (reat).\n\n6 We (not / have) bicycles, andwe (not drive).\n\nB Make five sentences about how your family members and friends get to\nschool or work. Tell your partner.\n\nA: My sister works in a big city. She takes the bus to work.\nB: My best friend works in a big city, too. He doesn't take the bus. He drives.\n\nSpeaking | take the bus.\n\nA Write how you get to school or work in the chart. Add extra information, such as a bus\nnumber or a train number.\n\n| To school\n\n_ To work\n\n_ Extra information\n\n— Se\n\nB Find out how three of your classmates get to school or work.\nComplete the chart with their information.\n\nA: | take the bus to school. It's the number 16 bus. How about you?\nB: | take the bus, too. | take the number 8 bus.\n\nCc Tell another group how your classmates get to school or work.\n“Daniel takes the number & bus to school.”\n\nKeep talking!\n\n| can describe how people get around. ©)\n\n37\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8617,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "12 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "grammar",
+    "headings": [
+      "unit",
+      "Regular verbs",
+      "Regular verbs Irregular verbs",
+      "I drive to work.",
+      "I don't take the train.",
+      "Pair work",
+      "Speaking | take the bus.",
+      "Group work",
+      "Keep talking!"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.7988,
+        "bbox": {
+          "x": 0.839333,
+          "y": 0.02576,
+          "width": 0.035333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Regular verbs",
+        "confidence": 0.8064,
+        "bbox": {
+          "x": 0.264,
+          "y": 0.121072,
+          "width": 0.096667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Regular verbs Irregular verbs",
+        "confidence": 0.89,
+        "bbox": {
+          "x": 0.265882,
+          "y": 0.123333,
+          "width": 0.507843,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Irregularverbs",
+            "confidence": 0.8822
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Regular verbs Irregular verbs",
+            "confidence": 0.89
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "heading",
+        "content": "I drive to work.",
+        "confidence": 0.7561,
+        "bbox": {
+          "x": 0.125333,
+          "y": 0.14168,
+          "width": 0.101333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0006",
+        "type": "heading",
+        "content": "I don't take the train.",
+        "confidence": 0.8422,
+        "bbox": {
+          "x": 0.310667,
+          "y": 0.14168,
+          "width": 0.141333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "he/she",
+        "confidence": 0.7626,
+        "bbox": {
+          "x": 0.74,
+          "y": 0.153014,
+          "width": 0.054667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "I/ you / we/ they",
+        "confidence": 0.7367,
+        "bbox": {
+          "x": 0.539333,
+          "y": 0.153529,
+          "width": 0.112,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "You take a taxi.",
+        "confidence": 0.8789,
+        "bbox": {
+          "x": 0.124667,
+          "y": 0.161257,
+          "width": 0.103333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "You don't take the subway.",
+        "confidence": 0.8766,
+        "bbox": {
+          "x": 0.31,
+          "y": 0.161257,
+          "width": 0.176667,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "I have a car.",
+        "confidence": 0.8034,
+        "bbox": {
+          "x": 0.538,
+          "y": 0.173107,
+          "width": 0.082667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "She has a car.",
+        "confidence": 0.8988,
+        "bbox": {
+          "x": 0.740667,
+          "y": 0.173107,
+          "width": 0.094,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "He rides a bike",
+        "confidence": 0.837,
+        "bbox": {
+          "x": 0.125333,
+          "y": 0.183411,
+          "width": 0.103333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "He doesn't drive to work.",
+        "confidence": 0.8659,
+        "bbox": {
+          "x": 0.309333,
+          "y": 0.183411,
+          "width": 0.172667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "You don't have a bike",
+        "confidence": 0.885,
+        "bbox": {
+          "x": 0.539333,
+          "y": 0.194745,
+          "width": 0.147333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "She doesn't have a bike",
+        "confidence": 0.911,
+        "bbox": {
+          "x": 0.742667,
+          "y": 0.195775,
+          "width": 0.16,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "She doesn'thaveabike",
+            "confidence": 0.911
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "t nave a dike.",
+            "confidence": 0.5075
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "She drives.",
+        "confidence": 0.7412,
+        "bbox": {
+          "x": 0.124667,
+          "y": 0.202473,
+          "width": 0.076667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "She doesn't walk.",
+        "confidence": 0.8177,
+        "bbox": {
+          "x": 0.311333,
+          "y": 0.205049,
+          "width": 0.12,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "He goes to work.",
+        "confidence": 0.883,
+        "bbox": {
+          "x": 0.740667,
+          "y": 0.215353,
+          "width": 0.112667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "We go to work.",
+        "confidence": 0.8791,
+        "bbox": {
+          "x": 0.539333,
+          "y": 0.215868,
+          "width": 0.099333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "We take the train.",
+        "confidence": 0.8385,
+        "bbox": {
+          "x": 0.125333,
+          "y": 0.223596,
+          "width": 0.119333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "We don't take a taxi.",
+        "confidence": 0.8922,
+        "bbox": {
+          "x": 0.310667,
+          "y": 0.224626,
+          "width": 0.138,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "They don't go to school.",
+        "confidence": 0.8548,
+        "bbox": {
+          "x": 0.541333,
+          "y": 0.235446,
+          "width": 0.159333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "He doesn't go to school.",
+        "confidence": 0.881,
+        "bbox": {
+          "x": 0.741333,
+          "y": 0.236476,
+          "width": 0.161333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "They walk to school.",
+        "confidence": 0.8657,
+        "bbox": {
+          "x": 0.126,
+          "y": 0.243174,
+          "width": 0.139333,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "They don't take the bus.",
+        "confidence": 0.916,
+        "bbox": {
+          "x": 0.311333,
+          "y": 0.245234,
+          "width": 0.163333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "Contractions",
+        "confidence": 0.907,
+        "bbox": {
+          "x": 0.126,
+          "y": 0.268418,
+          "width": 0.087333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "doesn't=does not",
+        "confidence": 0.8876,
+        "bbox": {
+          "x": 0.367333,
+          "y": 0.269449,
+          "width": 0.127333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "sentence",
+        "content": "A Complete the sentences with the simple present forms of the verbs. Then compare",
+        "confidence": 0.945,
+        "bbox": {
+          "x": 0.10902,
+          "y": 0.298485,
+          "width": 0.588235,
+          "height": 0.016061
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Complete the sentences with the simple present forms of the verbs.Then compare",
+            "confidence": 0.8843
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Complete the sentences with the simple present forms of the verbs. Then compare",
+            "confidence": 0.945
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "with a partner.",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.131765,
+          "y": 0.317273,
+          "width": 0.100784,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "withapartner.",
+            "confidence": 0.8812
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "with a partner.",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "take",
+        "confidence": 0.7608,
+        "bbox": {
+          "x": 0.228667,
+          "y": 0.331788,
+          "width": 0.040667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "don't walk",
+        "confidence": 0.7654,
+        "bbox": {
+          "x": 0.553333,
+          "y": 0.333333,
+          "width": 0.077333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "ee Oe 2 (take) the bus to school,|___—s don’t walk (not / walk).",
+            "confidence": 0.5331
+          },
+          {
+            "engine": "rapidocr",
+            "content": "don't walk",
+            "confidence": 0.7654
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "(not / walk).",
+        "confidence": 0.8488,
+        "bbox": {
+          "x": 0.681333,
+          "y": 0.337455,
+          "width": 0.082,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "(take)the bus to school.1",
+        "confidence": 0.8857,
+        "bbox": {
+          "x": 0.338,
+          "y": 0.33797,
+          "width": 0.170667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "Jonathan",
+        "confidence": 0.8288,
+        "bbox": {
+          "x": 0.151333,
+          "y": 0.356517,
+          "width": 0.07,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Jonathan",
+            "confidence": 0.8288
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Jonathan. (have) acar.He (drive) to work.",
+            "confidence": 0.5614
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "(have)a car. He",
+        "confidence": 0.8134,
+        "bbox": {
+          "x": 0.393333,
+          "y": 0.358578,
+          "width": 0.108,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "(drive) to work.",
+        "confidence": 0.9058,
+        "bbox": {
+          "x": 0.676667,
+          "y": 0.359093,
+          "width": 0.103333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "My parents",
+        "confidence": 0.8456,
+        "bbox": {
+          "x": 0.152667,
+          "y": 0.378156,
+          "width": 0.076667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "(take) the train to work. They",
+        "confidence": 0.9039,
+        "bbox": {
+          "x": 0.402667,
+          "y": 0.378671,
+          "width": 0.2,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "(take) the train to work.They",
+            "confidence": 0.9039
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Myparents _______. (take) the train to work. They______________ (go) to the city.",
+            "confidence": 0.7462
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "(go) to the city.",
+        "confidence": 0.8656,
+        "bbox": {
+          "x": 0.776667,
+          "y": 0.379701,
+          "width": 0.099333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "label",
+        "content": "My neighbor",
+        "confidence": 0.865,
+        "bbox": {
+          "x": 0.152667,
+          "y": 0.398248,
+          "width": 0.088667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "label",
+        "content": "(ride) a motorcycle to work.",
+        "confidence": 0.92,
+        "bbox": {
+          "x": 0.414667,
+          "y": 0.399279,
+          "width": 0.187333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "(ride) a motorcycle to work.",
+            "confidence": 0.92
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 Myneighbor — (ride) a motorcycle to work.",
+            "confidence": 0.7712
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "label",
+        "content": "Mei-li",
+        "confidence": 0.7896,
+        "bbox": {
+          "x": 0.152,
+          "y": 0.417826,
+          "width": 0.044,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0044",
+        "type": "label",
+        "content": "(walk).",
+        "confidence": 0.8027,
+        "bbox": {
+          "x": 0.704,
+          "y": 0.419887,
+          "width": 0.049333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0045",
+        "type": "label",
+        "content": "(not /take) the bus. She.",
+        "confidence": 0.8504,
+        "bbox": {
+          "x": 0.37,
+          "y": 0.420402,
+          "width": 0.165333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "(not /take) the bus. She.",
+            "confidence": 0.8504
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "S Meili _ (not / take) the bus. She. (reat).",
+            "confidence": 0.421
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0046",
+        "type": "label",
+        "content": "We",
+        "confidence": 0.6152,
+        "bbox": {
+          "x": 0.151333,
+          "y": 0.439464,
+          "width": 0.026667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0047",
+        "type": "label",
+        "content": "(not /have) bicycles, andwe..",
+        "confidence": 0.8637,
+        "bbox": {
+          "x": 0.353333,
+          "y": 0.44101,
+          "width": 0.202,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "6 We (not / have) bicycles, andwe (not drive).",
+            "confidence": 0.5411
+          },
+          {
+            "engine": "rapidocr",
+            "content": "(not /have) bicycles,andwe..",
+            "confidence": 0.8637
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0048",
+        "type": "label",
+        "content": "(not / drive).",
+        "confidence": 0.8779,
+        "bbox": {
+          "x": 0.718667,
+          "y": 0.441525,
+          "width": 0.086667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0049",
+        "type": "heading",
+        "content": "Pair work",
+        "confidence": 0.84,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.467285,
+          "width": 0.078667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0050",
+        "type": "paragraph",
+        "content": "B Make five sentences about how your family members and friends get to",
+        "confidence": 0.9562,
+        "bbox": {
+          "x": 0.110196,
+          "y": 0.467879,
+          "width": 0.595686,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Make five sentences about how yourfamily members andfriends get to",
+            "confidence": 0.8826
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Make five sentences about how your family members and friends get to",
+            "confidence": 0.9562
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0051",
+        "type": "sentence",
+        "content": "school or work. Tell your partner.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.132157,
+          "y": 0.486364,
+          "width": 0.227451,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "school orwork.Tell yourpartner.",
+            "confidence": 0.8978
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "school or work. Tell your partner.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0052",
+        "type": "dialogue_line",
+        "content": "A: My sister works in a big city. She takes the bus to work.",
+        "confidence": 0.9586,
+        "bbox": {
+          "x": 0.131765,
+          "y": 0.507273,
+          "width": 0.438431,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: My sister works in a big city. She takes the bus to work.",
+            "confidence": 0.9115
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: My sister works in a big city. She takes the bus to work.",
+            "confidence": 0.9586
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0053",
+        "type": "dialogue_line",
+        "content": "B: My best friend works in a big city, too. He doesn't take the bus. He drives.",
+        "confidence": 0.9559,
+        "bbox": {
+          "x": 0.132941,
+          "y": 0.529394,
+          "width": 0.566667,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B: My best friend works in a big city, too. He doesn't take the bus. He drives.",
+            "confidence": 0.9259
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: My best friend works in a big city, too. He doesn't take the bus. He drives.",
+            "confidence": 0.9559
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0054",
+        "type": "heading",
+        "content": "Speaking | take the bus.",
+        "confidence": 0.956,
+        "bbox": {
+          "x": 0.109804,
+          "y": 0.558182,
+          "width": 0.334902,
+          "height": 0.031212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Speaking | take the bus.",
+            "confidence": 0.956
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Speaking Itake the bus.",
+            "confidence": 0.9254
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0055",
+        "type": "paragraph",
+        "content": "A Write how you get to school or work in the chart. Add extra information, such as a bus",
+        "confidence": 0.9319,
+        "bbox": {
+          "x": 0.107333,
+          "y": 0.5966,
+          "width": 0.612,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Write how you get to school or work in the chart. Add extra information, such as a bus",
+            "confidence": 0.9319
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Write how you get to school or work in the chart. Add extra information, such as a bus",
+            "confidence": 0.9353
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0056",
+        "type": "instruction",
+        "content": "number or a train number.",
+        "confidence": 0.956,
+        "bbox": {
+          "x": 0.133333,
+          "y": 0.617273,
+          "width": 0.180784,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "numberoratrainnumber.",
+            "confidence": 0.8754
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "number or a train number.",
+            "confidence": 0.956
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0057",
+        "type": "label",
+        "content": "Me",
+        "confidence": 0.6581,
+        "bbox": {
+          "x": 0.264,
+          "y": 0.637816,
+          "width": 0.027333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0058",
+        "type": "instruction",
+        "content": "Name",
+        "confidence": 0.8199,
+        "bbox": {
+          "x": 0.430667,
+          "y": 0.639361,
+          "width": 0.048667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0059",
+        "type": "instruction",
+        "content": "Name",
+        "confidence": 0.8222,
+        "bbox": {
+          "x": 0.760667,
+          "y": 0.639876,
+          "width": 0.049333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0060",
+        "type": "instruction",
+        "content": "Name",
+        "confidence": 0.7827,
+        "bbox": {
+          "x": 0.598,
+          "y": 0.640907,
+          "width": 0.047333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0061",
+        "type": "label",
+        "content": "To school",
+        "confidence": 0.87,
+        "bbox": {
+          "x": 0.108235,
+          "y": 0.660909,
+          "width": 0.071765,
+          "height": 0.01697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "To school",
+            "confidence": 0.8092
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| To school",
+            "confidence": 0.87
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0062",
+        "type": "label",
+        "content": "To work",
+        "confidence": 0.8711,
+        "bbox": {
+          "x": 0.115333,
+          "y": 0.680062,
+          "width": 0.056667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "_ To work",
+            "confidence": 0.7233
+          },
+          {
+            "engine": "rapidocr",
+            "content": "To work",
+            "confidence": 0.8711
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0063",
+        "type": "label",
+        "content": "Extra information",
+        "confidence": 0.9217,
+        "bbox": {
+          "x": 0.116,
+          "y": 0.701185,
+          "width": 0.119333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "_ Extra information",
+            "confidence": 0.81
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Extra information",
+            "confidence": 0.9217
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0064",
+        "type": "label",
+        "content": "Se",
+        "confidence": 0.475,
+        "bbox": {
+          "x": 0.246667,
+          "y": 0.716667,
+          "width": 0.03098,
+          "height": 0.002121
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0065",
+        "type": "heading",
+        "content": "Group work",
+        "confidence": 0.8232,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.731066,
+          "width": 0.094,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0066",
+        "type": "sentence",
+        "content": "B Find out how three of your classmates get to school or work.",
+        "confidence": 0.9562,
+        "bbox": {
+          "x": 0.11098,
+          "y": 0.731818,
+          "width": 0.537255,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Find out how three of your classmates get to school or work.",
+            "confidence": 0.8763
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Find out how three of your classmates get to school or work.",
+            "confidence": 0.9562
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0067",
+        "type": "instruction",
+        "content": "Complete the chart with their information.",
+        "confidence": 0.9583,
+        "bbox": {
+          "x": 0.133333,
+          "y": 0.75,
+          "width": 0.293333,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Complete the chart with their information.",
+            "confidence": 0.898
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Complete the chart with their information.",
+            "confidence": 0.9583
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0068",
+        "type": "dialogue_line",
+        "content": "A: I take the bus to school. It's the number 16 bus. How about you?",
+        "confidence": 0.9281,
+        "bbox": {
+          "x": 0.13,
+          "y": 0.769191,
+          "width": 0.508667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: I take the bus to school. It's the number 16 bus. How about you?",
+            "confidence": 0.9281
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: | take the bus to school. It's the number 16 bus. How about you?",
+            "confidence": 0.9273
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0069",
+        "type": "dialogue_line",
+        "content": "B: | take the bus, too. | take the number 8 bus.",
+        "confidence": 0.9225,
+        "bbox": {
+          "x": 0.133725,
+          "y": 0.792727,
+          "width": 0.343922,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B:I take the bus, too. I take the number 8 bus.",
+            "confidence": 0.903
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: | take the bus, too. | take the number 8 bus.",
+            "confidence": 0.9225
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0070",
+        "type": "sentence",
+        "content": "Cc Tell another group how your classmates get to school or work.",
+        "confidence": 0.9308,
+        "bbox": {
+          "x": 0.110588,
+          "y": 0.81697,
+          "width": 0.550196,
+          "height": 0.017576
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Cc Tell another group how your classmates get to school or work.",
+            "confidence": 0.9308
+          },
+          {
+            "engine": "rapidocr",
+            "content": "GROUPWORK",
+            "confidence": 0.8815
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Tell another grouphow your classmates get to school or work.",
+            "confidence": 0.8885
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0071",
+        "type": "sentence",
+        "content": "Daniel takes the number & bus to school.",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.133333,
+          "y": 0.842121,
+          "width": 0.316078,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"Daniel takes the number 8 bus to school\"",
+            "confidence": 0.8711
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "“Daniel takes the number & bus to school.”",
+            "confidence": 0.94
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0072",
+        "type": "heading",
+        "content": "Keep talking!",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.112157,
+          "y": 0.87697,
+          "width": 0.199216,
+          "height": 0.022424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Keep talking!",
+            "confidence": 0.9126
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Keep talking!",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0073",
+        "type": "sentence",
+        "content": "Go to page 133 for more practice.",
+        "confidence": 0.8362,
+        "bbox": {
+          "x": 0.114,
+          "y": 0.905204,
+          "width": 0.227333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0074",
+        "type": "audio_track",
+        "content": "37",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.92,
+          "y": 0.940909,
+          "width": 0.017255,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "37",
+            "confidence": 0.666
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "37",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "unit",
+      "Regular verbs",
+      "Regular verbs Irregular verbs",
+      "I drive to work.",
+      "I don't take the train.",
+      "he/she",
+      "I/ you / we/ they",
+      "You take a taxi.",
+      "You don't take the subway.",
+      "I have a car.",
+      "She has a car.",
+      "He rides a bike",
+      "He doesn't drive to work.",
+      "You don't have a bike",
+      "She doesn't have a bike",
+      "She drives.",
+      "She doesn't walk.",
+      "He goes to work.",
+      "We go to work.",
+      "We take the train.",
+      "We don't take a taxi.",
+      "They don't go to school.",
+      "He doesn't go to school.",
+      "They walk to school.",
+      "They don't take the bus.",
+      "Contractions",
+      "doesn't=does not",
+      "A Complete the sentences with the simple present forms of the verbs. Then compare",
+      "with a partner.",
+      "take",
+      "don't walk",
+      "(not / walk).",
+      "(take)the bus to school.1",
+      "Jonathan",
+      "(have)a car. He",
+      "(drive) to work.",
+      "My parents",
+      "(take) the train to work. They",
+      "(go) to the city.",
+      "My neighbor",
+      "(ride) a motorcycle to work.",
+      "Mei-li",
+      "(walk).",
+      "(not /take) the bus. She.",
+      "We",
+      "(not /have) bicycles, andwe..",
+      "(not / drive).",
+      "Pair work",
+      "B Make five sentences about how your family members and friends get to",
+      "school or work. Tell your partner.",
+      "A: My sister works in a big city. She takes the bus to work.",
+      "B: My best friend works in a big city, too. He doesn't take the bus. He drives.",
+      "Speaking | take the bus.",
+      "A Write how you get to school or work in the chart. Add extra information, such as a bus",
+      "number or a train number.",
+      "Me",
+      "Name",
+      "Name",
+      "Name",
+      "To school",
+      "To work",
+      "Extra information",
+      "Se",
+      "Group work",
+      "B Find out how three of your classmates get to school or work.",
+      "Complete the chart with their information.",
+      "A: I take the bus to school. It's the number 16 bus. How about you?",
+      "B: | take the bus, too. | take the number 8 bus.",
+      "Cc Tell another group how your classmates get to school or work.",
+      "Daniel takes the number & bus to school.",
+      "Keep talking!",
+      "Go to page 133 for more practice."
+    ],
+    "paragraphs": [
+      "B Make five sentences about how your family members and friends get to",
+      "A Write how you get to school or work in the chart. Add extra information, such as a bus"
+    ],
+    "sentences": [
+      "unit Regular verbs Regular verbs Irregular verbs I drive to work",
+      "I don't take the train",
+      "he/she I/ you / we/ they You take a taxi",
+      "You don't take the subway",
+      "I have a car",
+      "She has a car",
+      "He rides a bike He doesn't drive to work",
+      "You don't have a bike She doesn't have a bike She drives",
+      "She doesn't walk",
+      "He goes to work",
+      "We go to work",
+      "We take the train",
+      "We don't take a taxi",
+      "They don't go to school",
+      "He doesn't go to school",
+      "They walk to school",
+      "They don't take the bus",
+      "Contractions doesn't=does not A Complete the sentences with the simple present forms of the verbs",
+      "Then compare with a partner",
+      "take don't walk (not / walk)",
+      "(take)the bus to school",
+      "1 Jonathan (have)a car",
+      "He (drive) to work",
+      "My parents (take) the train to work",
+      "They (go) to the city",
+      "My neighbor (ride) a motorcycle to work",
+      "Mei-li (walk)",
+      "(not /take) the bus",
+      "She",
+      "We (not /have) bicycles, andwe",
+      "(not / drive)",
+      "Pair work B Make five sentences about how your family members and friends get to school or work",
+      "Tell your partner",
+      "A: My sister works in a big city",
+      "She takes the bus to work",
+      "B: My best friend works in a big city, too",
+      "He doesn't take the bus",
+      "He drives",
+      "Speaking | take the bus",
+      "A Write how you get to school or work in the chart",
+      "Add extra information, such as a bus number or a train number",
+      "Me Name Name Name To school To work Extra information Se Group work B Find out how three of your classmates get to school or work",
+      "Complete the chart with their information",
+      "A: I take the bus to school",
+      "It's the number 16 bus",
+      "How about you",
+      "B: | take the bus, too",
+      "| take the number 8 bus",
+      "Cc Tell another group how your classmates get to school or work",
+      "Daniel takes the number & bus to school",
+      "Keep talking",
+      "Go to page 133 for more practice"
+    ],
+    "vocabulary": [],
+    "grammar": [
+      {
+        "topic": "Simple present statements",
+        "rule": [
+          "Regular verbs Irregular verbs",
+          "I drive to work.",
+          "I don't take the train.",
+          "I/ you / we/ they",
+          "You take a taxi.",
+          "You don't take the subway.",
+          "She has a car.",
+          "He rides a bike",
+          "He doesn't drive to work.",
+          "He goes to work.",
+          "We go to work.",
+          "We take the train.",
+          "We don't take a taxi.",
+          "They don't go to school.",
+          "He doesn't go to school.",
+          "They walk to school.",
+          "They don't take the bus.",
+          "with a partner.",
+          "(not / walk).",
+          "(drive) to work.",
+          "(take) the train to work. They",
+          "(go) to the city.",
+          "(ride) a motorcycle to work.",
+          "(not /take) the bus. She.",
+          "(not /have) bicycles, andwe..",
+          "(not / drive).",
+          "school or work. Tell your partner.",
+          "A: My sister works in a big city. She takes the bus to work.",
+          "B: My best friend works in a big city, too. He doesn't take the bus. He drives.",
+          "Speaking | take the bus.",
+          "number or a train number.",
+          "To school",
+          "B: | take the bus, too. | take the number 8 bus.",
+          "Daniel takes the number & bus to school.",
+          "Go to page 133 for more practice."
+        ],
+        "positiveExamples": [
+          "Grammar © Simple present statements",
+          "I have a car.",
+          "You don't have a bike",
+          "A Complete the sentences with the simple present forms of the verbs. Then compare",
+          "B Make five sentences about how your family members and friends get to",
+          "A Write how you get to school or work in the chart. Add extra information, such as a bus",
+          "B Find out how three of your classmates get to school or work.",
+          "A: I take the bus to school. It's the number 16 bus. How about you?",
+          "Cc Tell another group how your classmates get to school or work.",
+          "can describe how people get around. ©)"
+        ],
+        "usageNotes": [],
+        "practice": [
+          "Complete the chart with their information.",
+          "37"
+        ]
+      }
+    ],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "She drives.",
+            "confidence": 0.7412,
+            "bbox": {
+              "x": 0.124667,
+              "y": 0.202473,
+              "width": 0.076667,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0017"
+          },
+          {
+            "speaker": null,
+            "content": "She doesn't walk.",
+            "confidence": 0.8177,
+            "bbox": {
+              "x": 0.311333,
+              "y": 0.205049,
+              "width": 0.12,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0018"
+          },
+          {
+            "speaker": null,
+            "content": "He goes to work.",
+            "confidence": 0.883,
+            "bbox": {
+              "x": 0.740667,
+              "y": 0.215353,
+              "width": 0.112667,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0019"
+          },
+          {
+            "speaker": null,
+            "content": "We go to work.",
+            "confidence": 0.8791,
+            "bbox": {
+              "x": 0.539333,
+              "y": 0.215868,
+              "width": 0.099333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0020"
+          },
+          {
+            "speaker": null,
+            "content": "We take the train.",
+            "confidence": 0.8385,
+            "bbox": {
+              "x": 0.125333,
+              "y": 0.223596,
+              "width": 0.119333,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0021"
+          },
+          {
+            "speaker": null,
+            "content": "We don't take a taxi.",
+            "confidence": 0.8922,
+            "bbox": {
+              "x": 0.310667,
+              "y": 0.224626,
+              "width": 0.138,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0022"
+          },
+          {
+            "speaker": null,
+            "content": "They don't go to school.",
+            "confidence": 0.8548,
+            "bbox": {
+              "x": 0.541333,
+              "y": 0.235446,
+              "width": 0.159333,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0023"
+          },
+          {
+            "speaker": null,
+            "content": "He doesn't go to school.",
+            "confidence": 0.881,
+            "bbox": {
+              "x": 0.741333,
+              "y": 0.236476,
+              "width": 0.161333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0024"
+          },
+          {
+            "speaker": null,
+            "content": "They don't take the bus.",
+            "confidence": 0.916,
+            "bbox": {
+              "x": 0.311333,
+              "y": 0.245234,
+              "width": 0.163333,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0026"
+          },
+          {
+            "speaker": null,
+            "content": "A: My sister works in a big city.",
+            "confidence": 0.9586,
+            "bbox": {
+              "x": 0.131765,
+              "y": 0.507273,
+              "width": 0.438431,
+              "height": 0.014242
+            },
+            "sourceElementId": "text_0052"
+          },
+          {
+            "speaker": null,
+            "content": "She takes the bus to work.",
+            "confidence": 0.9586,
+            "bbox": {
+              "x": 0.131765,
+              "y": 0.507273,
+              "width": 0.438431,
+              "height": 0.014242
+            },
+            "sourceElementId": "text_0052"
+          },
+          {
+            "speaker": null,
+            "content": "B: My best friend works in a big city, too.",
+            "confidence": 0.9559,
+            "bbox": {
+              "x": 0.132941,
+              "y": 0.529394,
+              "width": 0.566667,
+              "height": 0.013939
+            },
+            "sourceElementId": "text_0053"
+          },
+          {
+            "speaker": null,
+            "content": "He doesn't take the bus.",
+            "confidence": 0.9559,
+            "bbox": {
+              "x": 0.132941,
+              "y": 0.529394,
+              "width": 0.566667,
+              "height": 0.013939
+            },
+            "sourceElementId": "text_0053"
+          },
+          {
+            "speaker": null,
+            "content": "He drives.",
+            "confidence": 0.9559,
+            "bbox": {
+              "x": 0.132941,
+              "y": 0.529394,
+              "width": 0.566667,
+              "height": 0.013939
+            },
+            "sourceElementId": "text_0053"
+          },
+          {
+            "speaker": null,
+            "content": "A: I take the bus to school.",
+            "confidence": 0.9281,
+            "bbox": {
+              "x": 0.13,
+              "y": 0.769191,
+              "width": 0.508667,
+              "height": 0.015971
+            },
+            "sourceElementId": "text_0068"
+          },
+          {
+            "speaker": null,
+            "content": "It's the number 16 bus.",
+            "confidence": 0.9281,
+            "bbox": {
+              "x": 0.13,
+              "y": 0.769191,
+              "width": 0.508667,
+              "height": 0.015971
+            },
+            "sourceElementId": "text_0068"
+          },
+          {
+            "speaker": null,
+            "content": "How about you?",
+            "confidence": 0.9281,
+            "bbox": {
+              "x": 0.13,
+              "y": 0.769191,
+              "width": 0.508667,
+              "height": 0.015971
+            },
+            "sourceElementId": "text_0068"
+          },
+          {
+            "speaker": null,
+            "content": "B: | take the bus, too. | take the number 8 bus.",
+            "confidence": 0.9225,
+            "bbox": {
+              "x": 0.133725,
+              "y": 0.792727,
+              "width": 0.343922,
+              "height": 0.011515
+            },
+            "sourceElementId": "text_0069"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "writing_activity",
+        "instruction": "Complete the sentences with the simple present forms of the verbs. Then compare",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "writing",
+        "instruction": "Write how you get to school or work in the chart. Add extra information, such as a bus",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "exercise",
+        "instruction": "Find out how three of your classmates get to school or work.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "C",
+        "type": "exercise",
+        "instruction": "c Tell another group how your classmates get to school or work.",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "She drives.",
+          "She doesn't walk.",
+          "He goes to work.",
+          "We go to work.",
+          "We take the train.",
+          "We don't take a taxi.",
+          "They don't go to school.",
+          "He doesn't go to school.",
+          "They walk to school.",
+          "They don't take the bus.",
+          "Contractions",
+          "doesn't=does not",
+          "A Complete the sentences with the simple present forms of the verbs. Then compare",
+          "with a partner.",
+          "take",
+          "don't walk",
+          "(not / walk).",
+          "(take)the bus to school.1",
+          "Jonathan",
+          "(have)a car. He",
+          "(drive) to work.",
+          "My parents",
+          "(take) the train to work. They",
+          "(go) to the city.",
+          "My neighbor",
+          "(ride) a motorcycle to work.",
+          "Mei-li",
+          "(walk).",
+          "(not /take) the bus. She.",
+          "We",
+          "(not /have) bicycles, andwe..",
+          "(not / drive)."
+        ],
+        "position": {
+          "x": 0.08902,
+          "y": 0.182473,
+          "width": 0.833646,
+          "height": 0.292962
+        },
+        "textElementIds": [
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040",
+          "text_0041",
+          "text_0042",
+          "text_0043",
+          "text_0044",
+          "text_0045",
+          "text_0046",
+          "text_0047",
+          "text_0048"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Pair work",
+          "B Make five sentences about how your family members and friends get to",
+          "school or work. Tell your partner.",
+          "A: My sister works in a big city. She takes the bus to work.",
+          "B: My best friend works in a big city, too. He doesn't take the bus. He drives.",
+          "Speaking | take the bus.",
+          "A Write how you get to school or work in the chart. Add extra information, such as a bus",
+          "number or a train number.",
+          "Me",
+          "Name",
+          "Name",
+          "Name",
+          "To school",
+          "To work",
+          "Extra information",
+          "Se"
+        ],
+        "position": {
+          "x": 0.087333,
+          "y": 0.447285,
+          "width": 0.742667,
+          "height": 0.2915030000000001
+        },
+        "textElementIds": [
+          "text_0049",
+          "text_0050",
+          "text_0051",
+          "text_0052",
+          "text_0053",
+          "text_0054",
+          "text_0055",
+          "text_0056",
+          "text_0057",
+          "text_0058",
+          "text_0059",
+          "text_0060",
+          "text_0061",
+          "text_0062",
+          "text_0063",
+          "text_0064"
+        ]
+      }
+    ],
+    "excludedGarbage": [
+      "Grammar © Simple present statements",
+      "| can describe how people get around. ©)"
+    ]
+  },
+  "learningContent": {
+    "pageType": "grammar",
+    "title": "unit",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [
+      {
+        "topic": "Simple present statements",
+        "rule": [
+          "Regular verbs Irregular verbs",
+          "I drive to work.",
+          "I don't take the train.",
+          "I/ you / we/ they",
+          "You take a taxi.",
+          "You don't take the subway.",
+          "She has a car.",
+          "He rides a bike",
+          "He doesn't drive to work.",
+          "He goes to work.",
+          "We go to work.",
+          "We take the train.",
+          "We don't take a taxi.",
+          "They don't go to school.",
+          "He doesn't go to school.",
+          "They walk to school.",
+          "They don't take the bus.",
+          "with a partner.",
+          "(not / walk).",
+          "(drive) to work.",
+          "(take) the train to work. They",
+          "(go) to the city.",
+          "(ride) a motorcycle to work.",
+          "(not /take) the bus. She.",
+          "(not /have) bicycles, andwe..",
+          "(not / drive).",
+          "school or work. Tell your partner.",
+          "A: My sister works in a big city. She takes the bus to work.",
+          "B: My best friend works in a big city, too. He doesn't take the bus. He drives.",
+          "Speaking | take the bus.",
+          "number or a train number.",
+          "To school",
+          "B: | take the bus, too. | take the number 8 bus.",
+          "Daniel takes the number & bus to school.",
+          "Go to page 133 for more practice."
+        ],
+        "positiveExamples": [
+          "Grammar © Simple present statements",
+          "I have a car.",
+          "You don't have a bike",
+          "A Complete the sentences with the simple present forms of the verbs. Then compare",
+          "B Make five sentences about how your family members and friends get to",
+          "A Write how you get to school or work in the chart. Add extra information, such as a bus",
+          "B Find out how three of your classmates get to school or work.",
+          "A: I take the bus to school. It's the number 16 bus. How about you?",
+          "Cc Tell another group how your classmates get to school or work.",
+          "can describe how people get around. ©)"
+        ],
+        "usageNotes": [],
+        "practice": [
+          "Complete the chart with their information.",
+          "37"
+        ]
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "She drives.",
+            "confidence": 0.7412
+          },
+          {
+            "speaker": null,
+            "content": "She doesn't walk.",
+            "confidence": 0.8177
+          },
+          {
+            "speaker": null,
+            "content": "He goes to work.",
+            "confidence": 0.883
+          },
+          {
+            "speaker": null,
+            "content": "We go to work.",
+            "confidence": 0.8791
+          },
+          {
+            "speaker": null,
+            "content": "We take the train.",
+            "confidence": 0.8385
+          },
+          {
+            "speaker": null,
+            "content": "We don't take a taxi.",
+            "confidence": 0.8922
+          },
+          {
+            "speaker": null,
+            "content": "They don't go to school.",
+            "confidence": 0.8548
+          },
+          {
+            "speaker": null,
+            "content": "He doesn't go to school.",
+            "confidence": 0.881
+          },
+          {
+            "speaker": null,
+            "content": "They don't take the bus.",
+            "confidence": 0.916
+          },
+          {
+            "speaker": null,
+            "content": "A: My sister works in a big city.",
+            "confidence": 0.9586
+          },
+          {
+            "speaker": null,
+            "content": "She takes the bus to work.",
+            "confidence": 0.9586
+          },
+          {
+            "speaker": null,
+            "content": "B: My best friend works in a big city, too.",
+            "confidence": 0.9559
+          },
+          {
+            "speaker": null,
+            "content": "He doesn't take the bus.",
+            "confidence": 0.9559
+          },
+          {
+            "speaker": null,
+            "content": "He drives.",
+            "confidence": 0.9559
+          },
+          {
+            "speaker": null,
+            "content": "A: I take the bus to school.",
+            "confidence": 0.9281
+          },
+          {
+            "speaker": null,
+            "content": "It's the number 16 bus.",
+            "confidence": 0.9281
+          },
+          {
+            "speaker": null,
+            "content": "How about you?",
+            "confidence": 0.9281
+          },
+          {
+            "speaker": null,
+            "content": "B: | take the bus, too. | take the number 8 bus.",
+            "confidence": 0.9225
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "writing_activity",
+        "instruction": "Complete the sentences with the simple present forms of the verbs. Then compare",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "writing",
+        "instruction": "Write how you get to school or work in the chart. Add extra information, such as a bus",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "exercise",
+        "instruction": "Find out how three of your classmates get to school or work.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "C",
+        "type": "exercise",
+        "instruction": "c Tell another group how your classmates get to school or work.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "12 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content.",
+      "2 garbage string(s) excluded"
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "garbageExcluded": 2,
+      "dialoguesSplit": 8,
+      "grammarTopicOverride": 1
+    },
+    "averageOcrConfidence": 0.8617,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 1 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc1_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

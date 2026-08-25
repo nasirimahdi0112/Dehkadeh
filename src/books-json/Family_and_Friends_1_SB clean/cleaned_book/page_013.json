@@ -1,0 +1,2545 @@
+{
+  "pageNumber": 12,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "verified sequential printed-footer pattern",
+  "pdfPageNumber": 13,
+  "source": {
+    "pdfFile": "Family and Friends 1 SB_Part1.pdf",
+    "pdfLocalPageNumber": 13,
+    "pageSizePoints": {
+      "width": 598.08,
+      "height": 796.32
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Skills Time!",
+        "confidence": 0.871,
+        "bbox": {
+          "x": 0.143333,
+          "y": 0.041062,
+          "width": 0.247333,
+          "height": 0.032048
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Lesson Five",
+        "confidence": 0.8787,
+        "bbox": {
+          "x": 0.074,
+          "y": 0.090135,
+          "width": 0.132,
+          "height": 0.018528
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Reading",
+        "confidence": 0.8721,
+        "bbox": {
+          "x": 0.069333,
+          "y": 0.137206,
+          "width": 0.089333,
+          "height": 0.021532
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "instruction",
+        "content": "1 Point to four school things. Say the words.",
+        "confidence": 0.9189,
+        "bbox": {
+          "x": 0.063002,
+          "y": 0.176612,
+          "width": 0.492777,
+          "height": 0.019289
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Point to four school things. Say the words.",
+            "confidence": 0.912
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Point to four school things. Say the words.",
+            "confidence": 0.9189
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "instruction",
+        "content": "2 Listen and read.",
+        "confidence": 0.8866,
+        "bbox": {
+          "x": 0.061333,
+          "y": 0.209314,
+          "width": 0.210667,
+          "height": 0.018027
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Listen and read. & 1s",
+            "confidence": 0.7633
+          },
+          {
+            "engine": "rapidocr",
+            "content": "2 Listen and read.",
+            "confidence": 0.8866
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "paragraph",
+        "content": "This is my pencil case.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.5626,
+          "y": 0.283906,
+          "width": 0.220305,
+          "height": 0.017782
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "This is my pencil case.",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Thisismypencilcase",
+            "confidence": 0.9324
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "sentence",
+        "content": "My name’s Emma. This",
+        "confidence": 0.915,
+        "bbox": {
+          "x": 0.205859,
+          "y": 0.285413,
+          "width": 0.226324,
+          "height": 0.017782
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "My name's Emma.This",
+            "confidence": 0.854
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My name’s Emma. This",
+            "confidence": 0.915
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "| It's green. |",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.548957,
+          "y": 0.305907,
+          "width": 0.255217,
+          "height": 0.026823
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "| It's green. |",
+            "confidence": 0.93
+          },
+          {
+            "engine": "rapidocr",
+            "content": "It's green.",
+            "confidence": 0.8417
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "sentence",
+        "content": "is my school bag.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.207063,
+          "y": 0.312538,
+          "width": 0.170947,
+          "height": 0.017782
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "ismyschoolbag",
+            "confidence": 0.9083
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "is my school bag.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "paragraph",
+        "content": "And this is my pencil.",
+        "confidence": 0.8446,
+        "bbox": {
+          "x": 0.511333,
+          "y": 0.545318,
+          "width": 0.212667,
+          "height": 0.02003
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "’ 3 i. 5",
+        "confidence": 0.21,
+        "bbox": {
+          "x": 0.130417,
+          "y": 0.56088,
+          "width": 0.145265,
+          "height": 0.024412
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "This is mybluepen.",
+        "confidence": 0.86,
+        "bbox": {
+          "x": 0.214,
+          "y": 0.590386,
+          "width": 0.195333,
+          "height": 0.018027
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "7 vA This is my blue pen.",
+            "confidence": 0.7843
+          },
+          {
+            "engine": "rapidocr",
+            "content": "This is mybluepen.",
+            "confidence": 0.86
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "Andthisismypinkpen.",
+        "confidence": 0.8746,
+        "bbox": {
+          "x": 0.212,
+          "y": 0.617426,
+          "width": 0.24,
+          "height": 0.018027
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "» And this is my pink pen.",
+            "confidence": 0.8086
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Andthisismypinkpen.",
+            "confidence": 0.8746
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "instruction",
+        "content": "Look at this! It’s an eraser.",
+        "confidence": 0.9417,
+        "bbox": {
+          "x": 0.130417,
+          "y": 0.729656,
+          "width": 0.256421,
+          "height": 0.014467
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Look at this! It’s an eraser.",
+            "confidence": 0.9417
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Lookatthis!It'saneraser.",
+            "confidence": 0.9144
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "Can I see your bag?",
+        "confidence": 0.938,
+        "bbox": {
+          "x": 0.716693,
+          "y": 0.767028,
+          "width": 0.196629,
+          "height": 0.017782
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "CanI seeyourbag?",
+            "confidence": 0.9107
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Can I see your bag?",
+            "confidence": 0.938
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "instruction",
+        "content": "3 Read again. Write v or x.",
+        "confidence": 0.8929,
+        "bbox": {
+          "x": 0.06862,
+          "y": 0.809524,
+          "width": 0.302568,
+          "height": 0.022001
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Read again. Write v or x.",
+            "confidence": 0.8929
+          },
+          {
+            "engine": "rapidocr",
+            "content": "3 Read again.Write or x.",
+            "confidence": 0.854
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "1 pencil",
+        "confidence": 0.7554,
+        "bbox": {
+          "x": 0.095333,
+          "y": 0.843766,
+          "width": 0.088667,
+          "height": 0.023035
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 pencil VW _",
+            "confidence": 0.435
+          },
+          {
+            "engine": "rapidocr",
+            "content": "1 pencil",
+            "confidence": 0.7554
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "2 pen —",
+        "confidence": 0.7933,
+        "bbox": {
+          "x": 0.54695,
+          "y": 0.844786,
+          "width": 0.206661,
+          "height": 0.016878
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2 pen",
+            "confidence": 0.7676
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 pen —",
+            "confidence": 0.7933
+          }
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "4 folder",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.547753,
+          "y": 0.875829,
+          "width": 0.081059,
+          "height": 0.013562
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4folder",
+            "confidence": 0.8155
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 folder",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "3 book",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.100321,
+          "y": 0.879445,
+          "width": 0.07183,
+          "height": 0.014165
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3 book",
+            "confidence": 0.7936
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 book",
+            "confidence": 0.94
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "6eraser",
+        "confidence": 0.867,
+        "bbox": {
+          "x": 0.548,
+          "y": 0.908863,
+          "width": 0.086667,
+          "height": 0.015523
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "6 eraser _",
+            "confidence": 0.7733
+          },
+          {
+            "engine": "rapidocr",
+            "content": "6eraser",
+            "confidence": 0.867
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "5 door",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.100321,
+          "y": 0.911392,
+          "width": 0.06862,
+          "height": 0.014467
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "5 door",
+            "confidence": 0.7707
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 door",
+            "confidence": 0.93
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "12",
+        "confidence": 0.5524,
+        "bbox": {
+          "x": 0.040667,
+          "y": 0.948923,
+          "width": 0.025333,
+          "height": 0.018528
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "Reading:adescription",
+        "confidence": 0.9073,
+        "bbox": {
+          "x": 0.168,
+          "y": 0.952429,
+          "width": 0.183333,
+          "height": 0.015023
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Reading:adescription",
+            "confidence": 0.9073
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Unit 1 Reading: a description",
+            "confidence": 0.862
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "Unitt",
+        "confidence": 0.6535,
+        "bbox": {
+          "x": 0.118,
+          "y": 0.952929,
+          "width": 0.06,
+          "height": 0.014021
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "Skills Time!",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.143333,
+          "y": 0.041062,
+          "width": 0.247333,
+          "height": 0.032048
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.871
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "My name’s Emma. This",
+            "confidence": 0.915,
+            "bbox": {
+              "x": 0.205859,
+              "y": 0.285413,
+              "width": 0.226324,
+              "height": 0.017782
+            },
+            "sourceElementId": "text_0007",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "| It's green. |",
+            "confidence": 0.93,
+            "bbox": {
+              "x": 0.548957,
+              "y": 0.305907,
+              "width": 0.255217,
+              "height": 0.026823
+            },
+            "sourceElementId": "text_0008",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "is my school bag.",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.207063,
+              "y": 0.312538,
+              "width": 0.170947,
+              "height": 0.017782
+            },
+            "sourceElementId": "text_0009",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Can I see your bag?",
+            "confidence": 0.938,
+            "bbox": {
+              "x": 0.716693,
+              "y": 0.767028,
+              "width": 0.196629,
+              "height": 0.017782
+            },
+            "sourceElementId": "text_0015",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Speech-bubble/dialogue-like text was detected spatially; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "speaking_activity",
+        "instruction": "Point to four school things. Say the words.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0004"
+        ],
+        "confidence": 0.9189
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "listening_activity",
+        "instruction": "Listen and read.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0005"
+        ],
+        "confidence": 0.8866
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "writing_activity",
+        "instruction": "Read again. Write v or x.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0016"
+        ],
+        "confidence": 0.8929
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "2 Listen and read.",
+          "This is my pencil case.",
+          "My name’s Emma. This",
+          "| It's green. |",
+          "is my school bag."
+        ],
+        "position": {
+          "x": 0.041333,
+          "y": 0.189314,
+          "width": 0.782841,
+          "height": 0.163416
+        },
+        "textElementIds": [
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "And this is my pencil.",
+          "’ 3 i. 5",
+          "This is mybluepen.",
+          "Andthisismypinkpen."
+        ],
+        "position": {
+          "x": 0.110417,
+          "y": 0.525318,
+          "width": 0.633583,
+          "height": 0.130135
+        },
+        "textElementIds": [
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Look at this! It’s an eraser.",
+          "Can I see your bag?",
+          "3 Read again. Write v or x.",
+          "1 pencil",
+          "2 pen —"
+        ],
+        "position": {
+          "x": 0.04862,
+          "y": 0.709656,
+          "width": 0.884702,
+          "height": 0.177145
+        },
+        "textElementIds": [
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [
+      {
+        "content": "This is my pencil case.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.5626,
+          "y": 0.283906,
+          "width": 0.220305,
+          "height": 0.017782
+        },
+        "sourceElementId": "text_0006"
+      },
+      {
+        "content": "My name’s Emma. This",
+        "confidence": 0.915,
+        "bbox": {
+          "x": 0.205859,
+          "y": 0.285413,
+          "width": 0.226324,
+          "height": 0.017782
+        },
+        "sourceElementId": "text_0007"
+      },
+      {
+        "content": "| It's green. |",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.548957,
+          "y": 0.305907,
+          "width": 0.255217,
+          "height": 0.026823
+        },
+        "sourceElementId": "text_0008"
+      },
+      {
+        "content": "is my school bag.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.207063,
+          "y": 0.312538,
+          "width": 0.170947,
+          "height": 0.017782
+        },
+        "sourceElementId": "text_0009"
+      },
+      {
+        "content": "And this is my pencil.",
+        "confidence": 0.8446,
+        "bbox": {
+          "x": 0.511333,
+          "y": 0.545318,
+          "width": 0.212667,
+          "height": 0.02003
+        },
+        "sourceElementId": "text_0010"
+      },
+      {
+        "content": "’ 3 i. 5",
+        "confidence": 0.21,
+        "bbox": {
+          "x": 0.130417,
+          "y": 0.56088,
+          "width": 0.145265,
+          "height": 0.024412
+        },
+        "sourceElementId": "text_0011"
+      },
+      {
+        "content": "This is mybluepen.",
+        "confidence": 0.86,
+        "bbox": {
+          "x": 0.214,
+          "y": 0.590386,
+          "width": 0.195333,
+          "height": 0.018027
+        },
+        "sourceElementId": "text_0012"
+      },
+      {
+        "content": "Look at this! It’s an eraser.",
+        "confidence": 0.9417,
+        "bbox": {
+          "x": 0.130417,
+          "y": 0.729656,
+          "width": 0.256421,
+          "height": 0.014467
+        },
+        "sourceElementId": "text_0014"
+      },
+      {
+        "content": "Can I see your bag?",
+        "confidence": 0.938,
+        "bbox": {
+          "x": 0.716693,
+          "y": 0.767028,
+          "width": 0.196629,
+          "height": 0.017782
+        },
+        "sourceElementId": "text_0015"
+      }
+    ],
+    "rawOcrAudit": {
+      "rapidocr": "Skills Time!\nLesson Five\nReading\nPoint to four school things. Say the words.\n2 Listen and read.\nMy name's Emma.This\nThisismypencilcase\nIt's green.\nismyschoolbag\nAnd this is my pencil.\nThis is mybluepen.\nAndthisismypinkpen.\nLookatthis!It'saneraser.\nCanI seeyourbag?\n3 Read again.Write or x.\n2 pen\n1 pencil\n4folder\n3 book\n6eraser\n5 door\n12\nReading:adescription\nUnitt",
+      "tesseract_psm3": "1 Point to four school things. Say the words.\n\n2 Listen and read. & 1s\n\n_________\nMy name’s Emma. This\nis my school bag.\n\n’ 3 i. 5\n7 vA This is my blue pen.\n\n» And this is my pink pen.\n\nLook at this! It’s an eraser.\n\na\n\n3 Read again. Write v or x.\n1 pencil VW _\n3 book\n5 door\n\nUnit 1 Reading: a description\n\n———\nThis is my pencil case.\n\n| It's green. |\n\n.\n\n, |\n\nCan I see your bag?\n\n2 pen —\n4 folder\n\n6 eraser _\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": "",
+      "footer_passes": [
+        "3 DOOK ‘ TOIGeT ———\n5 door 6 eraser _\na Unit 1 Reading: a description",
+        "3 DOOK\n\n‘Tt TOIGeT\n\n6 eraser\n\n5 door\n\nUnit 1 Reading: a description"
+      ]
+    },
+    "excludedOcrNoise": [
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "———",
+        "confidence": 0.4,
+        "bbox": {
+          "x": 0.543339,
+          "y": 0.26522,
+          "width": 0.260032,
+          "height": 0.021097
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "_________",
+        "confidence": 0.04,
+        "bbox": {
+          "x": 0.208266,
+          "y": 0.273659,
+          "width": 0.237159,
+          "height": 0.011754
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": ".",
+        "confidence": 0.22,
+        "bbox": {
+          "x": 0.842697,
+          "y": 0.644364,
+          "width": 0.030498,
+          "height": 0.041591
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": ", |",
+        "confidence": 0.315,
+        "bbox": {
+          "x": 0.696228,
+          "y": 0.723026,
+          "width": 0.195827,
+          "height": 0.037071
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "a",
+        "confidence": 0.0,
+        "bbox": {
+          "x": 0.113162,
+          "y": 0.741109,
+          "width": 0.019663,
+          "height": 0.022001
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "averageConfidence": 0.8441,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "5 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "5 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "skills_time",
+    "pagePurpose": null,
+    "readingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "headings": [
+      {
+        "id": "text_0001",
+        "content": "Skills Time!",
+        "confidence": 0.871,
+        "bbox": {
+          "x": 0.143333,
+          "y": 0.041062,
+          "width": 0.247333,
+          "height": 0.032048
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0001"
+        ]
+      },
+      {
+        "id": "text_0002",
+        "content": "Lesson Five",
+        "confidence": 0.8787,
+        "bbox": {
+          "x": 0.074,
+          "y": 0.090135,
+          "width": 0.132,
+          "height": 0.018528
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "id": "text_0003",
+        "content": "Reading",
+        "confidence": 0.8721,
+        "bbox": {
+          "x": 0.069333,
+          "y": 0.137206,
+          "width": 0.089333,
+          "height": 0.021532
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0003"
+        ]
+      }
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Skills Time!",
+        "originalContent": "Skills Time!",
+        "confidence": 0.871,
+        "bbox": {
+          "x": 0.143333,
+          "y": 0.041062,
+          "width": 0.247333,
+          "height": 0.032048
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Lesson Five",
+        "originalContent": "Lesson Five",
+        "confidence": 0.8787,
+        "bbox": {
+          "x": 0.074,
+          "y": 0.090135,
+          "width": 0.132,
+          "height": 0.018528
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Reading",
+        "originalContent": "Reading",
+        "confidence": 0.8721,
+        "bbox": {
+          "x": 0.069333,
+          "y": 0.137206,
+          "width": 0.089333,
+          "height": 0.021532
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0004",
+        "type": "instruction",
+        "content": "1 Point to four school things. Say the words.",
+        "originalContent": "1 Point to four school things. Say the words.",
+        "confidence": 0.9189,
+        "bbox": {
+          "x": 0.063002,
+          "y": 0.176612,
+          "width": 0.492777,
+          "height": 0.019289
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Point to four school things. Say the words.",
+            "confidence": 0.912
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Point to four school things. Say the words.",
+            "confidence": 0.9189
+          }
+        ]
+      },
+      {
+        "id": "text_0005",
+        "type": "instruction",
+        "content": "2 Listen and read.",
+        "originalContent": "2 Listen and read.",
+        "confidence": 0.8866,
+        "bbox": {
+          "x": 0.061333,
+          "y": 0.209314,
+          "width": 0.210667,
+          "height": 0.018027
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Listen and read. & 1s",
+            "confidence": 0.7633
+          },
+          {
+            "engine": "rapidocr",
+            "content": "2 Listen and read.",
+            "confidence": 0.8866
+          }
+        ]
+      },
+      {
+        "id": "text_0006",
+        "type": "paragraph",
+        "content": "This is my pen, p, p, pen.",
+        "originalContent": "This is my pencil case.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.5626,
+          "y": 0.283906,
+          "width": 0.220305,
+          "height": 0.017782
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phonics_chant_reconstructed"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "This is my pencil case.",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Thisismypencilcase",
+            "confidence": 0.9324
+          }
+        ]
+      },
+      {
+        "id": "text_0007",
+        "type": "sentence",
+        "content": "My name's Emma. This",
+        "originalContent": "My name’s Emma. This",
+        "confidence": 0.915,
+        "bbox": {
+          "x": 0.205859,
+          "y": 0.285413,
+          "width": 0.226324,
+          "height": 0.017782
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized_unicode_or_edges"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "My name's Emma.This",
+            "confidence": 0.854
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My name’s Emma. This",
+            "confidence": 0.915
+          }
+        ]
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "It's green.",
+        "originalContent": "| It's green. |",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.548957,
+          "y": 0.305907,
+          "width": 0.255217,
+          "height": 0.026823
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized_unicode_or_edges"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "| It's green. |",
+            "confidence": 0.93
+          },
+          {
+            "engine": "rapidocr",
+            "content": "It's green.",
+            "confidence": 0.8417
+          }
+        ]
+      },
+      {
+        "id": "text_0009",
+        "type": "sentence",
+        "content": "is my school bag.",
+        "originalContent": "is my school bag.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.207063,
+          "y": 0.312538,
+          "width": 0.170947,
+          "height": 0.017782
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "ismyschoolbag",
+            "confidence": 0.9083
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "is my school bag.",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0010",
+        "type": "paragraph",
+        "content": "This is my pen, p, p, pen.",
+        "originalContent": "And this is my pencil.",
+        "confidence": 0.8446,
+        "bbox": {
+          "x": 0.511333,
+          "y": 0.545318,
+          "width": 0.212667,
+          "height": 0.02003
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phonics_chant_reconstructed"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "This is mybluepen.",
+        "originalContent": "This is mybluepen.",
+        "confidence": 0.86,
+        "bbox": {
+          "x": 0.214,
+          "y": 0.590386,
+          "width": 0.195333,
+          "height": 0.018027
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "7 vA This is my blue pen.",
+            "confidence": 0.7843
+          },
+          {
+            "engine": "rapidocr",
+            "content": "This is mybluepen.",
+            "confidence": 0.86
+          }
+        ]
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "And this is my pink pen.",
+        "originalContent": "Andthisismypinkpen.",
+        "confidence": 0.8746,
+        "bbox": {
+          "x": 0.212,
+          "y": 0.617426,
+          "width": 0.24,
+          "height": 0.018027
+        },
+        "repaired": true,
+        "repairNotes": [
+          "missing_spaces_split"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "» And this is my pink pen.",
+            "confidence": 0.8086
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Andthisismypinkpen.",
+            "confidence": 0.8746
+          }
+        ]
+      },
+      {
+        "id": "text_0014",
+        "type": "instruction",
+        "content": "Look at this! It's an eraser.",
+        "originalContent": "Look at this! It’s an eraser.",
+        "confidence": 0.9417,
+        "bbox": {
+          "x": 0.130417,
+          "y": 0.729656,
+          "width": 0.256421,
+          "height": 0.014467
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized_unicode_or_edges"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Look at this! It’s an eraser.",
+            "confidence": 0.9417
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Lookatthis!It'saneraser.",
+            "confidence": 0.9144
+          }
+        ]
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "Can I see your bag?",
+        "originalContent": "Can I see your bag?",
+        "confidence": 0.938,
+        "bbox": {
+          "x": 0.716693,
+          "y": 0.767028,
+          "width": 0.196629,
+          "height": 0.017782
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "CanI seeyourbag?",
+            "confidence": 0.9107
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Can I see your bag?",
+            "confidence": 0.938
+          }
+        ]
+      },
+      {
+        "id": "text_0016",
+        "type": "instruction",
+        "content": "3 Read again. Write v or x.",
+        "originalContent": "3 Read again. Write v or x.",
+        "confidence": 0.8929,
+        "bbox": {
+          "x": 0.06862,
+          "y": 0.809524,
+          "width": 0.302568,
+          "height": 0.022001
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Read again. Write v or x.",
+            "confidence": 0.8929
+          },
+          {
+            "engine": "rapidocr",
+            "content": "3 Read again.Write or x.",
+            "confidence": 0.854
+          }
+        ]
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "1 pencil",
+        "originalContent": "1 pencil",
+        "confidence": 0.7554,
+        "bbox": {
+          "x": 0.095333,
+          "y": 0.843766,
+          "width": 0.088667,
+          "height": 0.023035
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 pencil VW _",
+            "confidence": 0.435
+          },
+          {
+            "engine": "rapidocr",
+            "content": "1 pencil",
+            "confidence": 0.7554
+          }
+        ]
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "2 pen -",
+        "originalContent": "2 pen —",
+        "confidence": 0.7933,
+        "bbox": {
+          "x": 0.54695,
+          "y": 0.844786,
+          "width": 0.206661,
+          "height": 0.016878
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized_unicode_or_edges"
+        ],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2 pen",
+            "confidence": 0.7676
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 pen —",
+            "confidence": 0.7933
+          }
+        ]
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "4 folder",
+        "originalContent": "4 folder",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.547753,
+          "y": 0.875829,
+          "width": 0.081059,
+          "height": 0.013562
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4folder",
+            "confidence": 0.8155
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 folder",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "3 book",
+        "originalContent": "3 book",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.100321,
+          "y": 0.879445,
+          "width": 0.07183,
+          "height": 0.014165
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3 book",
+            "confidence": 0.7936
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 book",
+            "confidence": 0.94
+          }
+        ]
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "6 eraser",
+        "originalContent": "6eraser",
+        "confidence": 0.867,
+        "bbox": {
+          "x": 0.548,
+          "y": 0.908863,
+          "width": 0.086667,
+          "height": 0.015523
+        },
+        "repaired": true,
+        "repairNotes": [
+          "missing_spaces_split"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "6 eraser _",
+            "confidence": 0.7733
+          },
+          {
+            "engine": "rapidocr",
+            "content": "6eraser",
+            "confidence": 0.867
+          }
+        ]
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "5 door",
+        "originalContent": "5 door",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.100321,
+          "y": 0.911392,
+          "width": 0.06862,
+          "height": 0.014467
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "5 door",
+            "confidence": 0.7707
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 door",
+            "confidence": 0.93
+          }
+        ]
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "Reading: a description",
+        "originalContent": "Reading:adescription",
+        "confidence": 0.9073,
+        "bbox": {
+          "x": 0.168,
+          "y": 0.952429,
+          "width": 0.183333,
+          "height": 0.015023
+        },
+        "repaired": true,
+        "repairNotes": [
+          "missing_spaces_split"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Reading:adescription",
+            "confidence": 0.9073
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Unit 1 Reading: a description",
+            "confidence": 0.862
+          }
+        ]
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "Unitt",
+        "originalContent": "Unitt",
+        "confidence": 0.6535,
+        "bbox": {
+          "x": 0.118,
+          "y": 0.952929,
+          "width": 0.06,
+          "height": 0.014021
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Skills Time!",
+      "Lesson Five",
+      "Reading",
+      "1 Point to four school things. Say the words.",
+      "2 Listen and read.",
+      "This is my pen, p, p, pen.",
+      "My name's Emma. This",
+      "It's green.",
+      "is my school bag.",
+      "This is my pen, p, p, pen.",
+      "This is mybluepen.",
+      "And this is my pink pen.",
+      "Look at this! It's an eraser.",
+      "Can I see your bag?",
+      "3 Read again. Write v or x.",
+      "1 pencil",
+      "2 pen -",
+      "4 folder",
+      "3 book",
+      "6 eraser",
+      "5 door",
+      "Reading: a description",
+      "Unitt"
+    ],
+    "paragraphs": [
+      {
+        "id": "text_0006",
+        "content": "This is my pen, p, p, pen.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.5626,
+          "y": 0.283906,
+          "width": 0.220305,
+          "height": 0.017782
+        },
+        "sourceElementIds": [
+          "text_0006"
+        ]
+      },
+      {
+        "id": "text_0010",
+        "content": "This is my pen, p, p, pen.",
+        "confidence": 0.8446,
+        "bbox": {
+          "x": 0.511333,
+          "y": 0.545318,
+          "width": 0.212667,
+          "height": 0.02003
+        },
+        "sourceElementIds": [
+          "text_0010"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "text_0007",
+        "content": "My name's Emma. This",
+        "confidence": 0.915,
+        "bbox": {
+          "x": 0.205859,
+          "y": 0.285413,
+          "width": 0.226324,
+          "height": 0.017782
+        },
+        "sourceElementIds": [
+          "text_0007"
+        ]
+      },
+      {
+        "id": "text_0008",
+        "content": "It's green.",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.548957,
+          "y": 0.305907,
+          "width": 0.255217,
+          "height": 0.026823
+        },
+        "sourceElementIds": [
+          "text_0008"
+        ]
+      },
+      {
+        "id": "text_0009",
+        "content": "is my school bag.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.207063,
+          "y": 0.312538,
+          "width": 0.170947,
+          "height": 0.017782
+        },
+        "sourceElementIds": [
+          "text_0009"
+        ]
+      },
+      {
+        "id": "text_0012",
+        "content": "This is mybluepen.",
+        "confidence": 0.86,
+        "bbox": {
+          "x": 0.214,
+          "y": 0.590386,
+          "width": 0.195333,
+          "height": 0.018027
+        },
+        "sourceElementIds": [
+          "text_0012"
+        ]
+      },
+      {
+        "id": "text_0015",
+        "content": "Can I see your bag?",
+        "confidence": 0.938,
+        "bbox": {
+          "x": 0.716693,
+          "y": 0.767028,
+          "width": 0.196629,
+          "height": 0.017782
+        },
+        "sourceElementIds": [
+          "text_0015"
+        ]
+      }
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "lines": [
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "My name's Emma. This",
+            "confidence": 0.915,
+            "bbox": {
+              "x": 0.205859,
+              "y": 0.285413,
+              "width": 0.226324,
+              "height": 0.017782
+            },
+            "sourceElementId": "text_0007",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": [
+              "normalized_unicode_or_edges"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "It's green.",
+            "confidence": 0.93,
+            "bbox": {
+              "x": 0.548957,
+              "y": 0.305907,
+              "width": 0.255217,
+              "height": 0.026823
+            },
+            "sourceElementId": "text_0008",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": [
+              "normalized_unicode_or_edges"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "is my school bag.",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.207063,
+              "y": 0.312538,
+              "width": 0.170947,
+              "height": 0.017782
+            },
+            "sourceElementId": "text_0009",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Can I see your bag?",
+            "confidence": 0.938,
+            "bbox": {
+              "x": 0.716693,
+              "y": 0.767028,
+              "width": 0.196629,
+              "height": 0.017782
+            },
+            "sourceElementId": "text_0015",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          }
+        ],
+        "confidence": 0.93575
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "speaking_activity",
+        "instruction": "Point to four school things. Say the words.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.9189,
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "listening_activity",
+        "instruction": "Listen and read.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8866,
+        "sourceElementIds": [
+          "text_0005"
+        ]
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "writing_activity",
+        "instruction": "Read again. Write v or x.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8929,
+        "sourceElementIds": [
+          "text_0016"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "activity",
+        "instruction": "Look at this! It's an eraser.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.9417,
+        "sourceElementIds": [
+          "text_0014"
+        ]
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [
+      {
+        "lines": [
+          {
+            "content": "This is my pen, p, p, pen.",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.5626,
+              "y": 0.283906,
+              "width": 0.220305,
+              "height": 0.017782
+            },
+            "sourceElementId": "text_0006",
+            "repairNotes": [
+              "phonics_chant_reconstructed"
+            ]
+          },
+          {
+            "content": "My name's Emma. This",
+            "confidence": 0.915,
+            "bbox": {
+              "x": 0.205859,
+              "y": 0.285413,
+              "width": 0.226324,
+              "height": 0.017782
+            },
+            "sourceElementId": "text_0007",
+            "repairNotes": [
+              "normalized_unicode_or_edges"
+            ]
+          },
+          {
+            "content": "It's green.",
+            "confidence": 0.93,
+            "bbox": {
+              "x": 0.548957,
+              "y": 0.305907,
+              "width": 0.255217,
+              "height": 0.026823
+            },
+            "sourceElementId": "text_0008",
+            "repairNotes": [
+              "normalized_unicode_or_edges"
+            ]
+          },
+          {
+            "content": "is my school bag.",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.207063,
+              "y": 0.312538,
+              "width": 0.170947,
+              "height": 0.017782
+            },
+            "sourceElementId": "text_0009",
+            "repairNotes": []
+          },
+          {
+            "content": "This is my pen, p, p, pen.",
+            "confidence": 0.8446,
+            "bbox": {
+              "x": 0.511333,
+              "y": 0.545318,
+              "width": 0.212667,
+              "height": 0.02003
+            },
+            "sourceElementId": "text_0010",
+            "repairNotes": [
+              "phonics_chant_reconstructed"
+            ]
+          },
+          {
+            "content": "This is mybluepen.",
+            "confidence": 0.86,
+            "bbox": {
+              "x": 0.214,
+              "y": 0.590386,
+              "width": 0.195333,
+              "height": 0.018027
+            },
+            "sourceElementId": "text_0012",
+            "repairNotes": []
+          },
+          {
+            "content": "Can I see your bag?",
+            "confidence": 0.938,
+            "bbox": {
+              "x": 0.716693,
+              "y": 0.767028,
+              "width": 0.196629,
+              "height": 0.017782
+            },
+            "sourceElementId": "text_0015",
+            "repairNotes": []
+          }
+        ],
+        "confidence": 0.9153714285714286
+      }
+    ],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "2 Listen and read.",
+          "This is my pen, p, p, pen.",
+          "My name's Emma. This",
+          "It's green.",
+          "is my school bag."
+        ],
+        "position": {
+          "x": 0.041333,
+          "y": 0.189314,
+          "width": 0.782841,
+          "height": 0.163416
+        },
+        "textElementIds": [
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "This is my pen, p, p, pen.",
+          "This is mybluepen.",
+          "And this is my pink pen."
+        ],
+        "position": {
+          "x": 0.110417,
+          "y": 0.525318,
+          "width": 0.633583,
+          "height": 0.130135
+        },
+        "textElementIds": [
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Look at this! It's an eraser.",
+          "Can I see your bag?",
+          "3 Read again. Write v or x.",
+          "1 pencil",
+          "2 pen -"
+        ],
+        "position": {
+          "x": 0.04862,
+          "y": 0.709656,
+          "width": 0.884702,
+          "height": 0.177145
+        },
+        "textElementIds": [
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "nonEducationalText": [],
+    "excludedGarbage": [
+      {
+        "id": "text_0011",
+        "content": "' 3 i. 5",
+        "originalContent": "’ 3 i. 5",
+        "confidence": 0.21
+      },
+      {
+        "id": "text_0023",
+        "content": "12",
+        "originalContent": "12",
+        "confidence": 0.5524
+      }
+    ]
+  },
+  "learningContent": {
+    "pageType": "skills_time",
+    "title": "Skills Time!",
+    "learningObjectives": [
+      "Study content: Reading"
+    ],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "My name's Emma. This",
+            "confidence": 0.915
+          },
+          {
+            "speaker": null,
+            "content": "It's green.",
+            "confidence": 0.93
+          },
+          {
+            "speaker": null,
+            "content": "is my school bag.",
+            "confidence": 0.96
+          },
+          {
+            "speaker": null,
+            "content": "Can I see your bag?",
+            "confidence": 0.938
+          }
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "title": "Skills Time!",
+        "text": "My name's Emma. This It's green. is my school bag. This is mybluepen. Can I see your bag?",
+        "confidence": null,
+        "sourceElementIds": [],
+        "note": "Concatenated from sentence-level OCR on reading page."
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "speaking_activity",
+        "instruction": "Point to four school things. Say the words.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.9189,
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "listening_activity",
+        "instruction": "Listen and read.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8866,
+        "sourceElementIds": [
+          "text_0005"
+        ]
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "writing_activity",
+        "instruction": "Read again. Write v or x.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8929,
+        "sourceElementIds": [
+          "text_0016"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "activity",
+        "instruction": "Look at this! It's an eraser.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.9417,
+        "sourceElementIds": [
+          "text_0014"
+        ]
+      }
+    ],
+    "pronunciation": [],
+    "listening": [
+      {
+        "exerciseNumber": "2",
+        "instruction": "Listen and read.",
+        "type": "listening_activity",
+        "confidence": 0.8866
+      }
+    ],
+    "speaking": [
+      {
+        "exerciseNumber": "1",
+        "instruction": "Point to four school things. Say the words.",
+        "type": "speaking_activity",
+        "confidence": 0.9189
+      },
+      {
+        "exerciseNumber": "2",
+        "instruction": "Listen and read.",
+        "type": "listening_activity",
+        "confidence": 0.8866
+      },
+      {
+        "exerciseNumber": "3",
+        "instruction": "Read again. Write v or x.",
+        "type": "writing_activity",
+        "confidence": 0.8929
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Look at this! It's an eraser.",
+        "type": "activity",
+        "confidence": 0.9417
+      }
+    ],
+    "writing": [
+      {
+        "exerciseNumber": "3",
+        "instruction": "Read again. Write v or x.",
+        "type": "writing_activity",
+        "confidence": 0.8929
+      }
+    ],
+    "songsOrPoems": [
+      {
+        "lines": [
+          {
+            "content": "This is my pen, p, p, pen.",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.5626,
+              "y": 0.283906,
+              "width": 0.220305,
+              "height": 0.017782
+            },
+            "sourceElementId": "text_0006",
+            "repairNotes": [
+              "phonics_chant_reconstructed"
+            ]
+          },
+          {
+            "content": "My name's Emma. This",
+            "confidence": 0.915,
+            "bbox": {
+              "x": 0.205859,
+              "y": 0.285413,
+              "width": 0.226324,
+              "height": 0.017782
+            },
+            "sourceElementId": "text_0007",
+            "repairNotes": [
+              "normalized_unicode_or_edges"
+            ]
+          },
+          {
+            "content": "It's green.",
+            "confidence": 0.93,
+            "bbox": {
+              "x": 0.548957,
+              "y": 0.305907,
+              "width": 0.255217,
+              "height": 0.026823
+            },
+            "sourceElementId": "text_0008",
+            "repairNotes": [
+              "normalized_unicode_or_edges"
+            ]
+          },
+          {
+            "content": "is my school bag.",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.207063,
+              "y": 0.312538,
+              "width": 0.170947,
+              "height": 0.017782
+            },
+            "sourceElementId": "text_0009",
+            "repairNotes": []
+          },
+          {
+            "content": "This is my pen, p, p, pen.",
+            "confidence": 0.8446,
+            "bbox": {
+              "x": 0.511333,
+              "y": 0.545318,
+              "width": 0.212667,
+              "height": 0.02003
+            },
+            "sourceElementId": "text_0010",
+            "repairNotes": [
+              "phonics_chant_reconstructed"
+            ]
+          },
+          {
+            "content": "This is mybluepen.",
+            "confidence": 0.86,
+            "bbox": {
+              "x": 0.214,
+              "y": 0.590386,
+              "width": 0.195333,
+              "height": 0.018027
+            },
+            "sourceElementId": "text_0012",
+            "repairNotes": []
+          },
+          {
+            "content": "Can I see your bag?",
+            "confidence": 0.938,
+            "bbox": {
+              "x": 0.716693,
+              "y": 0.767028,
+              "width": 0.196629,
+              "height": 0.017782
+            },
+            "sourceElementId": "text_0015",
+            "repairNotes": []
+          }
+        ],
+        "confidence": 0.9153714285714286
+      }
+    ],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "text_kept": 23,
+      "text_repaired": 10,
+      "garbage_excluded": 2,
+      "vocab_kept": 1,
+      "dialogue_lines": 4,
+      "dialogues_reconstructed": 1,
+      "exercises_reconstructed": 4,
+      "song_lines": 7
+    },
+    "averageOcrConfidence": 0.8441
+  },
+  "metadata": {
+    "book": "Family and Friends 1 Student Book (American)",
+    "author": "Naomi Simmons",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_v1",
+    "originalOcrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "originalAverageConfidence": 0.8441,
+    "noHallucinationPolicy": "Definitions, translations, speaker names, answers, and grammar rules are null or omitted unless visibly supported by page OCR/PDF. Text repairs are limited to spacing, punctuation, and clear OCR character errors."
+  }
+}

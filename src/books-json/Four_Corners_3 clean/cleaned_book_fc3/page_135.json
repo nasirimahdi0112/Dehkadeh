@@ -1,0 +1,1203 @@
+{
+  "pageNumber": 128,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 135,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 3_Part6.pdf",
+    "pdfLocalPageNumber": 19,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Lesson A",
+        "confidence": 0.8276,
+        "bbox": {
+          "x": 0.211333,
+          "y": 0.034518,
+          "width": 0.185333,
+          "height": 0.026275
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.7651,
+        "bbox": {
+          "x": 0.088667,
+          "y": 0.045853,
+          "width": 0.038667,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Then and now",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.128627,
+          "y": 0.116364,
+          "width": 0.222745,
+          "height": 0.017576
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Then and now",
+            "confidence": 0.8233
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Then and now",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "Student B",
+        "confidence": 0.92,
+        "bbox": {
+          "x": 0.129804,
+          "y": 0.15303,
+          "width": 0.070588,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "StudentB",
+            "confidence": 0.8189
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Student B",
+            "confidence": 0.92
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "sentence",
+        "content": "A You and your partner have a picture of Chuck. You have a new picture of what he",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.129412,
+          "y": 0.180303,
+          "width": 0.670588,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAiR WORK You and your partner have a picture of Chuck.You have a new picture of what he",
+            "confidence": 0.8815
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A You and your partner have a picture of Chuck. You have a new picture of what he",
+            "confidence": 0.9567
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "paragraph",
+        "content": "looks like now, and your partner has an old picture of what he used to look like. Describe Chuck",
+        "confidence": 0.9584,
+        "bbox": {
+          "x": 0.152941,
+          "y": 0.197879,
+          "width": 0.666275,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "looks like now, and your partner has an old picture of what he used to look like. Describe Chuck",
+            "confidence": 0.8732
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "looks like now, and your partner has an old picture of what he used to look like. Describe Chuck",
+            "confidence": 0.9584
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "sentence",
+        "content": "to find the differences between then and now.",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.152549,
+          "y": 0.216061,
+          "width": 0.322353,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "tofindthedifferencesbetweenthenandnow.",
+            "confidence": 0.9081
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "to find the differences between then and now.",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "Chuck - now",
+        "confidence": 0.8233,
+        "bbox": {
+          "x": 0.370588,
+          "y": 0.457273,
+          "width": 0.085882,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Chuck-now",
+            "confidence": 0.8308
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Chuck - now",
+            "confidence": 0.8233
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "dialogue_line",
+        "content": "A: Chuck used to have long black hair.",
+        "confidence": 0.9512,
+        "bbox": {
+          "x": 0.154118,
+          "y": 0.485758,
+          "width": 0.281961,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: Chuck used to have long black hair.",
+            "confidence": 0.9512
+          },
+          {
+            "engine": "rapidocr",
+            "content": "A: Chuck usedto havelongblack hair.",
+            "confidence": 0.8706
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "dialogue_line",
+        "content": "B: He doesn't have long hair now.",
+        "confidence": 0.9271,
+        "bbox": {
+          "x": 0.154902,
+          "y": 0.508485,
+          "width": 0.246667,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B: He doesn't have long hair now.",
+            "confidence": 0.8847
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: He doesn't have long hair now.",
+            "confidence": 0.9271
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "dialogue_line",
+        "content": "A: So that’s different. He used to...",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.154118,
+          "y": 0.530606,
+          "width": 0.278431,
+          "height": 0.010909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A:Sothat's different.He usedto..",
+            "confidence": 0.9035
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: So that’s different. He used to...",
+            "confidence": 0.93
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "sentence",
+        "content": "B You and your partner have pictures of Amy. You have an old picture of what she",
+        "confidence": 0.9553,
+        "bbox": {
+          "x": 0.132941,
+          "y": 0.559091,
+          "width": 0.660784,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAiR WORk You and your partner have pictures of Amy. You have an old picture of what she",
+            "confidence": 0.9045
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B You and your partner have pictures of Amy. You have an old picture of what she",
+            "confidence": 0.9553
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "paragraph",
+        "content": "used to look like, and your partner has a new picture of what she looks like now. Describe Amy",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.155294,
+          "y": 0.576667,
+          "width": 0.659216,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "used to look like,and your partner has a new picture of what she looks like now. Describe Amy",
+            "confidence": 0.9013
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "used to look like, and your partner has a new picture of what she looks like now. Describe Amy",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "to find the differences between then and now.",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.15451,
+          "y": 0.595152,
+          "width": 0.322745,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "tofindthedifferencesbetweenthenandnow.",
+            "confidence": 0.9089
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "to find the differences between then and now.",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "Amy - then",
+        "confidence": 0.8178,
+        "bbox": {
+          "x": 0.377333,
+          "y": 0.836167,
+          "width": 0.078667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "128",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.060392,
+          "y": 0.96,
+          "width": 0.025098,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "128",
+            "confidence": 0.7469
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "128",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "heading",
+        "content": "Keep talking!",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.131765,
+          "y": 0.968182,
+          "width": 0.083922,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Keeptalking!",
+            "confidence": 0.8393
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Keep talking!",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "A: Chuck used to have long black hair.",
+            "confidence": 0.9512,
+            "bbox": {
+              "x": 0.154118,
+              "y": 0.485758,
+              "width": 0.281961,
+              "height": 0.013939
+            },
+            "sourceElementId": "text_0009",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "B: He doesn't have long hair now.",
+            "confidence": 0.9271,
+            "bbox": {
+              "x": 0.154902,
+              "y": 0.508485,
+              "width": 0.246667,
+              "height": 0.013333
+            },
+            "sourceElementId": "text_0010",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "A: So that’s different. He used to...",
+            "confidence": 0.93,
+            "bbox": {
+              "x": 0.154118,
+              "y": 0.530606,
+              "width": 0.278431,
+              "height": 0.010909
+            },
+            "sourceElementId": "text_0011",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Chuck - now",
+          "A: Chuck used to have long black hair.",
+          "B: He doesn't have long hair now.",
+          "A: So that’s different. He used to...",
+          "B You and your partner have pictures of Amy. You have an old picture of what she",
+          "used to look like, and your partner has a new picture of what she looks like now. Describe Amy",
+          "to find the differences between then and now."
+        ],
+        "position": {
+          "x": 0.112941,
+          "y": 0.43727299999999997,
+          "width": 0.7215690000000001,
+          "height": 0.18787900000000007
+        },
+        "textElementIds": [
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "Lesson A\nunit\nThen and now\nStudentB\nPAiR WORK You and your partner have a picture of Chuck.You have a new picture of what he\nlooks like now, and your partner has an old picture of what he used to look like. Describe Chuck\ntofindthedifferencesbetweenthenandnow.\nChuck-now\nA: Chuck usedto havelongblack hair.\nB: He doesn't have long hair now.\nA:Sothat's different.He usedto..\nPAiR WORk You and your partner have pictures of Amy. You have an old picture of what she\nused to look like,and your partner has a new picture of what she looks like now. Describe Amy\ntofindthedifferencesbetweenthenandnow.\nAmy - then\ndehkhodaedu.com\n128\nKeeptalking!",
+      "tesseract_psm3": "Then and now\n\nStudent B\n\nA You and your partner have a picture of Chuck. You have a new picture of what he\nlooks like now, and your partner has an old picture of what he used to look like. Describe Chuck\nto find the differences between then and now.\n\nChuck - now\n\nA: Chuck used to have long black hair.\nB: He doesn't have long hair now.\nA: So that’s different. He used to...\nB You and your partner have pictures of Amy. You have an old picture of what she\n\nused to look like, and your partner has a new picture of what she looks like now. Describe Amy\nto find the differences between then and now.\n\ndehkhodaedu.com\n\n128\n\nKeep talking!\n\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.9161,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "1 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "page",
+    "headings": [
+      "Lesson A",
+      "unit",
+      "Then and now",
+      "Keep talking!"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Lesson A",
+        "confidence": 0.8276,
+        "bbox": {
+          "x": 0.211333,
+          "y": 0.034518,
+          "width": 0.185333,
+          "height": 0.026275
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.7651,
+        "bbox": {
+          "x": 0.088667,
+          "y": 0.045853,
+          "width": 0.038667,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Then and now",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.128627,
+          "y": 0.116364,
+          "width": 0.222745,
+          "height": 0.017576
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Then and now",
+            "confidence": 0.8233
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Then and now",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "Student B",
+        "confidence": 0.92,
+        "bbox": {
+          "x": 0.129804,
+          "y": 0.15303,
+          "width": 0.070588,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "StudentB",
+            "confidence": 0.8189
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Student B",
+            "confidence": 0.92
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "sentence",
+        "content": "A You and your partner have a picture of Chuck. You have a new picture of what he",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.129412,
+          "y": 0.180303,
+          "width": 0.670588,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAiR WORK You and your partner have a picture of Chuck.You have a new picture of what he",
+            "confidence": 0.8815
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A You and your partner have a picture of Chuck. You have a new picture of what he",
+            "confidence": 0.9567
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "paragraph",
+        "content": "looks like now, and your partner has an old picture of what he used to look like. Describe Chuck",
+        "confidence": 0.9584,
+        "bbox": {
+          "x": 0.152941,
+          "y": 0.197879,
+          "width": 0.666275,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "looks like now, and your partner has an old picture of what he used to look like. Describe Chuck",
+            "confidence": 0.8732
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "looks like now, and your partner has an old picture of what he used to look like. Describe Chuck",
+            "confidence": 0.9584
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "sentence",
+        "content": "to find the differences between then and now.",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.152549,
+          "y": 0.216061,
+          "width": 0.322353,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "tofindthedifferencesbetweenthenandnow.",
+            "confidence": 0.9081
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "to find the differences between then and now.",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "Chuck - now",
+        "confidence": 0.8233,
+        "bbox": {
+          "x": 0.370588,
+          "y": 0.457273,
+          "width": 0.085882,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Chuck-now",
+            "confidence": 0.8308
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Chuck - now",
+            "confidence": 0.8233
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "dialogue_line",
+        "content": "A: Chuck used to have long black hair.",
+        "confidence": 0.9512,
+        "bbox": {
+          "x": 0.154118,
+          "y": 0.485758,
+          "width": 0.281961,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: Chuck used to have long black hair.",
+            "confidence": 0.9512
+          },
+          {
+            "engine": "rapidocr",
+            "content": "A: Chuck usedto havelongblack hair.",
+            "confidence": 0.8706
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "dialogue_line",
+        "content": "B: He doesn't have long hair now.",
+        "confidence": 0.9271,
+        "bbox": {
+          "x": 0.154902,
+          "y": 0.508485,
+          "width": 0.246667,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B: He doesn't have long hair now.",
+            "confidence": 0.8847
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: He doesn't have long hair now.",
+            "confidence": 0.9271
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "dialogue_line",
+        "content": "A: So that's different. He used to...",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.154118,
+          "y": 0.530606,
+          "width": 0.278431,
+          "height": 0.010909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A:Sothat's different.He usedto..",
+            "confidence": 0.9035
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: So that’s different. He used to...",
+            "confidence": 0.93
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "sentence",
+        "content": "B You and your partner have pictures of Amy. You have an old picture of what she",
+        "confidence": 0.9553,
+        "bbox": {
+          "x": 0.132941,
+          "y": 0.559091,
+          "width": 0.660784,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAiR WORk You and your partner have pictures of Amy. You have an old picture of what she",
+            "confidence": 0.9045
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B You and your partner have pictures of Amy. You have an old picture of what she",
+            "confidence": 0.9553
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "paragraph",
+        "content": "used to look like, and your partner has a new picture of what she looks like now. Describe Amy",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.155294,
+          "y": 0.576667,
+          "width": 0.659216,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "used to look like,and your partner has a new picture of what she looks like now. Describe Amy",
+            "confidence": 0.9013
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "used to look like, and your partner has a new picture of what she looks like now. Describe Amy",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "to find the differences between then and now.",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.15451,
+          "y": 0.595152,
+          "width": 0.322745,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "tofindthedifferencesbetweenthenandnow.",
+            "confidence": 0.9089
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "to find the differences between then and now.",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "Amy - then",
+        "confidence": 0.8178,
+        "bbox": {
+          "x": 0.377333,
+          "y": 0.836167,
+          "width": 0.078667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "heading",
+        "content": "Keep talking!",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.131765,
+          "y": 0.968182,
+          "width": 0.083922,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Keeptalking!",
+            "confidence": 0.8393
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Keep talking!",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Lesson A",
+      "unit",
+      "Then and now",
+      "Student B",
+      "A You and your partner have a picture of Chuck. You have a new picture of what he",
+      "looks like now, and your partner has an old picture of what he used to look like. Describe Chuck",
+      "to find the differences between then and now.",
+      "Chuck - now",
+      "A: Chuck used to have long black hair.",
+      "B: He doesn't have long hair now.",
+      "A: So that's different. He used to...",
+      "B You and your partner have pictures of Amy. You have an old picture of what she",
+      "used to look like, and your partner has a new picture of what she looks like now. Describe Amy",
+      "to find the differences between then and now.",
+      "Amy - then",
+      "Keep talking!"
+    ],
+    "paragraphs": [
+      "looks like now, and your partner has an old picture of what he used to look like. Describe Chuck",
+      "used to look like, and your partner has a new picture of what she looks like now. Describe Amy"
+    ],
+    "sentences": [
+      "Lesson A unit Then and now Student B A You and your partner have a picture of Chuck",
+      "You have a new picture of what he looks like now, and your partner has an old picture of what he used to look like",
+      "Describe Chuck to find the differences between then and now",
+      "Chuck - now A: Chuck used to have long black hair",
+      "B: He doesn't have long hair now",
+      "A: So that's different",
+      "He used to",
+      "B You and your partner have pictures of Amy",
+      "You have an old picture of what she used to look like, and your partner has a new picture of what she looks like now",
+      "Describe Amy to find the differences between then and now",
+      "Amy - then Keep talking"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "A: Chuck used to have long black hair.",
+            "confidence": 0.9512,
+            "bbox": {
+              "x": 0.154118,
+              "y": 0.485758,
+              "width": 0.281961,
+              "height": 0.013939
+            },
+            "sourceElementId": "text_0009"
+          },
+          {
+            "speaker": null,
+            "content": "B: He doesn't have long hair now.",
+            "confidence": 0.9271,
+            "bbox": {
+              "x": 0.154902,
+              "y": 0.508485,
+              "width": 0.246667,
+              "height": 0.013333
+            },
+            "sourceElementId": "text_0010"
+          },
+          {
+            "speaker": null,
+            "content": "A: So that's different.",
+            "confidence": 0.93,
+            "bbox": {
+              "x": 0.154118,
+              "y": 0.530606,
+              "width": 0.278431,
+              "height": 0.010909
+            },
+            "sourceElementId": "text_0011"
+          },
+          {
+            "speaker": null,
+            "content": "He used to...",
+            "confidence": 0.93,
+            "bbox": {
+              "x": 0.154118,
+              "y": 0.530606,
+              "width": 0.278431,
+              "height": 0.010909
+            },
+            "sourceElementId": "text_0011"
+          }
+        ]
+      }
+    ],
+    "exercises": [],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Chuck - now",
+          "A: Chuck used to have long black hair.",
+          "B: He doesn't have long hair now.",
+          "A: So that's different. He used to...",
+          "B You and your partner have pictures of Amy. You have an old picture of what she",
+          "used to look like, and your partner has a new picture of what she looks like now. Describe Amy",
+          "to find the differences between then and now."
+        ],
+        "position": {
+          "x": 0.112941,
+          "y": 0.43727299999999997,
+          "width": 0.7215690000000001,
+          "height": 0.18787900000000007
+        },
+        "textElementIds": [
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014"
+        ]
+      }
+    ],
+    "excludedGarbage": [
+      "128"
+    ]
+  },
+  "learningContent": {
+    "pageType": "page",
+    "title": "Lesson A",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "A: Chuck used to have long black hair.",
+            "confidence": 0.9512
+          },
+          {
+            "speaker": null,
+            "content": "B: He doesn't have long hair now.",
+            "confidence": 0.9271
+          },
+          {
+            "speaker": null,
+            "content": "A: So that's different.",
+            "confidence": 0.93
+          },
+          {
+            "speaker": null,
+            "content": "He used to...",
+            "confidence": 0.93
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "1 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content.",
+      "1 garbage string(s) excluded"
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "garbageExcluded": 1,
+      "dialoguesSplit": 2
+    },
+    "averageOcrConfidence": 0.9161,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 3 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc3_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

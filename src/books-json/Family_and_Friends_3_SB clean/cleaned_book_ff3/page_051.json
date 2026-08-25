@@ -1,0 +1,2509 @@
+{
+  "pageNumber": 50,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "verified sequential printed-footer pattern",
+  "pdfPageNumber": 51,
+  "source": {
+    "pdfFile": "Family and Friends 3 SB_Part1.pdf",
+    "pdfLocalPageNumber": 51,
+    "pageSizePoints": {
+      "width": 586.56,
+      "height": 785.04
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "LessonThree",
+        "confidence": 0.8955,
+        "bbox": {
+          "x": 0.059333,
+          "y": 0.028401,
+          "width": 0.163333,
+          "height": 0.018435
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Grammar and Song",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.23036,
+          "y": 0.028432,
+          "width": 0.216858,
+          "height": 0.018649
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Grammar and Song",
+            "confidence": 0.8663
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Grammar and Song",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Speaking",
+        "confidence": 0.7901,
+        "bbox": {
+          "x": 0.099333,
+          "y": 0.07424,
+          "width": 0.077333,
+          "height": 0.013453
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Ask and answer.",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.195172,
+          "y": 0.075512,
+          "width": 0.163666,
+          "height": 0.013757
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Askandanswer.",
+            "confidence": 0.8713
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ask and answer.",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "12",
+        "confidence": 0.54,
+        "bbox": {
+          "x": 0.275333,
+          "y": 0.303438,
+          "width": 0.024,
+          "height": 0.018435
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0006",
+        "type": "sentence",
+        "content": "What time does Tom get up?",
+        "confidence": 0.8754,
+        "bbox": {
+          "x": 0.227333,
+          "y": 0.399601,
+          "width": 0.258667,
+          "height": 0.017937
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "paragraph",
+        "content": "He getsup at seven thirty",
+        "confidence": 0.8261,
+        "bbox": {
+          "x": 0.54,
+          "y": 0.411061,
+          "width": 0.234667,
+          "height": 0.017439
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "instruction",
+        "content": "Write about Tom.",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.084697,
+          "y": 0.464384,
+          "width": 0.174304,
+          "height": 0.013757
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2Write about Tom.",
+            "confidence": 0.8654
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Write about Tom.",
+            "confidence": 0.94
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "paragraph",
+        "content": "Tom gets up at seven thirty. He ...",
+        "confidence": 0.9475,
+        "bbox": {
+          "x": 0.085925,
+          "y": 0.485784,
+          "width": 0.370704,
+          "height": 0.018954
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Tom gets up at seven thirty. He ..",
+            "confidence": 0.8637
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Tom gets up at seven thirty. He ...",
+            "confidence": 0.9475
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "instruction",
+        "content": "Listen and sing.",
+        "confidence": 0.8708,
+        "bbox": {
+          "x": 0.076,
+          "y": 0.521674,
+          "width": 0.171333,
+          "height": 0.020429
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "instruction",
+        "content": "Listen and sing. ©) «0 Sing and do.",
+        "confidence": 0.9113,
+        "bbox": {
+          "x": 0.085925,
+          "y": 0.521859,
+          "width": 0.427987,
+          "height": 0.019872
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4 Sing and do.",
+            "confidence": 0.7697
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listen and sing. ©) «0 Sing and do.",
+            "confidence": 0.9113
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "60",
+        "confidence": 0.665,
+        "bbox": {
+          "x": 0.281333,
+          "y": 0.526657,
+          "width": 0.016,
+          "height": 0.010962
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "ANH",
+        "confidence": 0.49,
+        "bbox": {
+          "x": 0.576923,
+          "y": 0.561296,
+          "width": 0.081424,
+          "height": 0.03424
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "My day",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.434534,
+          "y": 0.603179,
+          "width": 0.101064,
+          "height": 0.0214
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Myday",
+            "confidence": 0.8031
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My day",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "paragraph",
+        "content": "| get up early every day,",
+        "confidence": 0.945,
+        "bbox": {
+          "x": 0.378478,
+          "y": 0.638337,
+          "width": 0.212357,
+          "height": 0.016509
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I get up early every day,",
+            "confidence": 0.897
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| get up early every day,",
+            "confidence": 0.945
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "paragraph",
+        "content": "| have a shower every day,",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.367021,
+          "y": 0.659126,
+          "width": 0.234043,
+          "height": 0.016203
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I have a shower every day.",
+            "confidence": 0.8628
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| have a shower every day,",
+            "confidence": 0.95
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "paragraph",
+        "content": "| have my breakfast every day,",
+        "confidence": 0.9417,
+        "bbox": {
+          "x": 0.349836,
+          "y": 0.678692,
+          "width": 0.26964,
+          "height": 0.01712
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I have my breakfast every day,",
+            "confidence": 0.8878
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| have my breakfast every day,",
+            "confidence": 0.9417
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "sentence",
+        "content": "I'm busy all day long.",
+        "confidence": 0.9273,
+        "bbox": {
+          "x": 0.382,
+          "y": 0.696064,
+          "width": 0.201333,
+          "height": 0.022422
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I'm busy all day long.",
+            "confidence": 0.9273
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "I'm busy all day long.",
+            "confidence": 0.894
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "paragraph",
+        "content": "| catch the school bus every day,",
+        "confidence": 0.9043,
+        "bbox": {
+          "x": 0.339607,
+          "y": 0.730052,
+          "width": 0.288871,
+          "height": 0.016203
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I catch the school bus every day,",
+            "confidence": 0.8631
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| catch the school bus every day,",
+            "confidence": 0.9043
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "paragraph",
+        "content": "| have my lessons every day,",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.360065,
+          "y": 0.749924,
+          "width": 0.247954,
+          "height": 0.01712
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I havemy lessons everyday,",
+            "confidence": 0.8952
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| have my lessons every day,",
+            "confidence": 0.9533
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "paragraph",
+        "content": "| see my school friends every day,",
+        "confidence": 0.9414,
+        "bbox": {
+          "x": 0.337152,
+          "y": 0.770407,
+          "width": 0.293781,
+          "height": 0.01712
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I see myschool friends everyday,",
+            "confidence": 0.8882
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| see my school friends every day,",
+            "confidence": 0.9414
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "sentence",
+        "content": "I'm busy all day long.",
+        "confidence": 0.942,
+        "bbox": {
+          "x": 0.386661,
+          "y": 0.79089,
+          "width": 0.193535,
+          "height": 0.016509
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I'm busy all day long.",
+            "confidence": 0.9142
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "I'm busy all day long.",
+            "confidence": 0.942
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "paragraph",
+        "content": "| do my homework every day,",
+        "confidence": 0.9167,
+        "bbox": {
+          "x": 0.35311,
+          "y": 0.82085,
+          "width": 0.260638,
+          "height": 0.01712
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I do my homework every day,",
+            "confidence": 0.8643
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| do my homework every day,",
+            "confidence": 0.9167
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "paragraph",
+        "content": "Then | go outside and play,",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.360065,
+          "y": 0.841639,
+          "width": 0.244272,
+          "height": 0.01712
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Then I go outside and play,",
+            "confidence": 0.8616
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Then | go outside and play,",
+            "confidence": 0.9567
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "paragraph",
+        "content": "I'm very busy every day,",
+        "confidence": 0.946,
+        "bbox": {
+          "x": 0.37725,
+          "y": 0.862122,
+          "width": 0.211129,
+          "height": 0.01712
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I'm very busy every day.",
+            "confidence": 0.8516
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "I'm very busy every day,",
+            "confidence": 0.946
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "sentence",
+        "content": "I'm busy all day long.",
+        "confidence": 0.936,
+        "bbox": {
+          "x": 0.386661,
+          "y": 0.882605,
+          "width": 0.192717,
+          "height": 0.016203
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I'm busy all day long.",
+            "confidence": 0.9015
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "I'm busy all day long.",
+            "confidence": 0.936
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "50",
+        "confidence": 0.6512,
+        "bbox": {
+          "x": 0.015333,
+          "y": 0.959143,
+          "width": 0.034667,
+          "height": 0.020429
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "UnitS",
+        "confidence": 0.6924,
+        "bbox": {
+          "x": 0.097333,
+          "y": 0.964126,
+          "width": 0.053333,
+          "height": 0.014948
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "My doy",
+        "confidence": 0.772,
+        "bbox": {
+          "x": 0.161333,
+          "y": 0.964126,
+          "width": 0.06,
+          "height": 0.017439
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [
+      {
+        "topic": "Grammar and Song",
+        "rule": [
+          "Grammar and Song",
+          "He getsup at seven thirty",
+          "Tom gets up at seven thirty. He ...",
+          "| get up early every day,",
+          "| have a shower every day,",
+          "| have my breakfast every day,",
+          "I'm busy all day long.",
+          "| catch the school bus every day,",
+          "| have my lessons every day,",
+          "| see my school friends every day,",
+          "I'm busy all day long.",
+          "| do my homework every day,",
+          "Then | go outside and play,",
+          "I'm very busy every day,",
+          "I'm busy all day long."
+        ],
+        "form": null,
+        "positiveExamples": [
+          "What time does Tom get up?"
+        ],
+        "negativeExamples": [],
+        "questionForms": [],
+        "shortAnswers": [],
+        "exceptions": [],
+        "usageNotes": [],
+        "practice": [
+          "Ask and answer.",
+          "12",
+          "Write about Tom.",
+          "Listen and sing.",
+          "Listen and sing. ©) «0 Sing and do.",
+          "60",
+          "50"
+        ],
+        "confidence": 0.8621
+      }
+    ],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "What time does Tom get up?",
+            "confidence": 0.8754,
+            "bbox": {
+              "x": 0.227333,
+              "y": 0.399601,
+              "width": 0.258667,
+              "height": 0.017937
+            },
+            "sourceElementId": "text_0006",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I'm busy all day long.",
+            "confidence": 0.9273,
+            "bbox": {
+              "x": 0.382,
+              "y": 0.696064,
+              "width": 0.201333,
+              "height": 0.022422
+            },
+            "sourceElementId": "text_0018",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I'm busy all day long.",
+            "confidence": 0.942,
+            "bbox": {
+              "x": 0.386661,
+              "y": 0.79089,
+              "width": 0.193535,
+              "height": 0.016509
+            },
+            "sourceElementId": "text_0022",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Speech-bubble/dialogue-like text was detected spatially; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "12",
+          "What time does Tom get up?",
+          "He getsup at seven thirty",
+          "Write about Tom.",
+          "Tom gets up at seven thirty. He ...",
+          "Listen and sing.",
+          "Listen and sing. ©) «0 Sing and do.",
+          "60",
+          "ANH"
+        ],
+        "position": {
+          "x": 0.056,
+          "y": 0.283438,
+          "width": 0.738667,
+          "height": 0.332098
+        },
+        "textElementIds": [
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "My day",
+          "| get up early every day,",
+          "| have a shower every day,",
+          "| have my breakfast every day,",
+          "I'm busy all day long.",
+          "| catch the school bus every day,",
+          "| have my lessons every day,",
+          "| see my school friends every day,",
+          "I'm busy all day long.",
+          "| do my homework every day,",
+          "Then | go outside and play,"
+        ],
+        "position": {
+          "x": 0.317152,
+          "y": 0.583179,
+          "width": 0.333781,
+          "height": 0.29558
+        },
+        "textElementIds": [
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "rawOcrAudit": {
+      "rapidocr": "Grammar and Song\nLessonThree\nSpeaking\nAskandanswer.\n12\nWhat time does Tom get up?\nHe getsup at seven thirty\n2Write about Tom.\nTom gets up at seven thirty. He ..\n4 Sing and do.\nListen and sing.\n60\nMyday\nI get up early every day,\nI have a shower every day.\nI have my breakfast every day,\nI'm busy all day long.\nI catch the school bus every day,\nI havemy lessons everyday,\nI see myschool friends everyday,\nI'm busy all day long.\nI do my homework every day,\nThen I go outside and play,\nI'm very busy every day.\nI'm busy all day long.\n50\nUnitS\nMy doy",
+      "tesseract_psm3": "Grammar and Song\n\nAsk and answer.\n\nWrite about Tom.\nTom gets up at seven thirty. He ...\n\nListen and sing. ©) «0 Sing and do.\nANH\n\n| get up early every day,\n| have a shower every day,\n| have my breakfast every day,\nI'm busy all day long.\n\nMy day\n\n| catch the school bus every day,\n| have my lessons every day,\n\n| see my school friends every day,\nI'm busy all day long.\n\n| do my homework every day,\nThen | go outside and play,\nI'm very busy every day,\nI'm busy all day long.\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": "",
+      "footer_passes": [
+        "v Bae ll aa I'm busy all day long. * a OW om Cg\nUnité My day",
+        "I'm busy all day long.\n\n-\n\neg\n\nw\n\nUnit 6\n\nMy day"
+      ]
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8621,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "7 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "grammar",
+    "pagePurpose": null,
+    "readingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "headings": [
+      {
+        "id": "text_0001",
+        "content": "Lesson Three",
+        "confidence": 0.8955,
+        "bbox": {
+          "x": 0.059333,
+          "y": 0.028401,
+          "width": 0.163333,
+          "height": 0.018435
+        },
+        "repaired": true,
+        "sourceElementIds": [
+          "text_0001"
+        ]
+      },
+      {
+        "id": "text_0002",
+        "content": "Grammar and Song",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.23036,
+          "y": 0.028432,
+          "width": 0.216858,
+          "height": 0.018649
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "id": "text_0003",
+        "content": "Speaking",
+        "confidence": 0.7901,
+        "bbox": {
+          "x": 0.099333,
+          "y": 0.07424,
+          "width": 0.077333,
+          "height": 0.013453
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0003"
+        ]
+      },
+      {
+        "id": "text_0004",
+        "content": "Ask and answer.",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.195172,
+          "y": 0.075512,
+          "width": 0.163666,
+          "height": 0.013757
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      }
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Lesson Three",
+        "originalContent": "LessonThree",
+        "confidence": 0.8955,
+        "bbox": {
+          "x": 0.059333,
+          "y": 0.028401,
+          "width": 0.163333,
+          "height": 0.018435
+        },
+        "repaired": true,
+        "repairNotes": [
+          "heading"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Grammar and Song",
+        "originalContent": "Grammar and Song",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.23036,
+          "y": 0.028432,
+          "width": 0.216858,
+          "height": 0.018649
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Grammar and Song",
+            "confidence": 0.8663
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Grammar and Song",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Speaking",
+        "originalContent": "Speaking",
+        "confidence": 0.7901,
+        "bbox": {
+          "x": 0.099333,
+          "y": 0.07424,
+          "width": 0.077333,
+          "height": 0.013453
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Ask and answer.",
+        "originalContent": "Ask and answer.",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.195172,
+          "y": 0.075512,
+          "width": 0.163666,
+          "height": 0.013757
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Askandanswer.",
+            "confidence": 0.8713
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ask and answer.",
+            "confidence": 0.9533
+          }
+        ]
+      },
+      {
+        "id": "text_0006",
+        "type": "sentence",
+        "content": "What time does Tom get up?",
+        "originalContent": "What time does Tom get up?",
+        "confidence": 0.8754,
+        "bbox": {
+          "x": 0.227333,
+          "y": 0.399601,
+          "width": 0.258667,
+          "height": 0.017937
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0007",
+        "type": "paragraph",
+        "content": "He getsup at seven thirty",
+        "originalContent": "He getsup at seven thirty",
+        "confidence": 0.8261,
+        "bbox": {
+          "x": 0.54,
+          "y": 0.411061,
+          "width": 0.234667,
+          "height": 0.017439
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0008",
+        "type": "instruction",
+        "content": "Write about Tom.",
+        "originalContent": "Write about Tom.",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.084697,
+          "y": 0.464384,
+          "width": 0.174304,
+          "height": 0.013757
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2Write about Tom.",
+            "confidence": 0.8654
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Write about Tom.",
+            "confidence": 0.94
+          }
+        ]
+      },
+      {
+        "id": "text_0009",
+        "type": "paragraph",
+        "content": "Tom gets up at seven thirty. He...",
+        "originalContent": "Tom gets up at seven thirty. He ...",
+        "confidence": 0.9475,
+        "bbox": {
+          "x": 0.085925,
+          "y": 0.485784,
+          "width": 0.370704,
+          "height": 0.018954
+        },
+        "repaired": true,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Tom gets up at seven thirty. He ..",
+            "confidence": 0.8637
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Tom gets up at seven thirty. He ...",
+            "confidence": 0.9475
+          }
+        ]
+      },
+      {
+        "id": "text_0010",
+        "type": "instruction",
+        "content": "Listen and sing.",
+        "originalContent": "Listen and sing.",
+        "confidence": 0.8708,
+        "bbox": {
+          "x": 0.076,
+          "y": 0.521674,
+          "width": 0.171333,
+          "height": 0.020429
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0011",
+        "type": "instruction",
+        "content": "Listen and sing. ©) «0 Sing and do.",
+        "originalContent": "Listen and sing. ©) «0 Sing and do.",
+        "confidence": 0.9113,
+        "bbox": {
+          "x": 0.085925,
+          "y": 0.521859,
+          "width": 0.427987,
+          "height": 0.019872
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4 Sing and do.",
+            "confidence": 0.7697
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listen and sing. ©) «0 Sing and do.",
+            "confidence": 0.9113
+          }
+        ]
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "ANH",
+        "originalContent": "ANH",
+        "confidence": 0.49,
+        "bbox": {
+          "x": 0.576923,
+          "y": 0.561296,
+          "width": 0.081424,
+          "height": 0.03424
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "My day",
+        "originalContent": "My day",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.434534,
+          "y": 0.603179,
+          "width": 0.101064,
+          "height": 0.0214
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Myday",
+            "confidence": 0.8031
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My day",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0015",
+        "type": "paragraph",
+        "content": "get up early every day,",
+        "originalContent": "| get up early every day,",
+        "confidence": 0.945,
+        "bbox": {
+          "x": 0.378478,
+          "y": 0.638337,
+          "width": 0.212357,
+          "height": 0.016509
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I get up early every day,",
+            "confidence": 0.897
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| get up early every day,",
+            "confidence": 0.945
+          }
+        ]
+      },
+      {
+        "id": "text_0016",
+        "type": "paragraph",
+        "content": "have a shower every day,",
+        "originalContent": "| have a shower every day,",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.367021,
+          "y": 0.659126,
+          "width": 0.234043,
+          "height": 0.016203
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I have a shower every day.",
+            "confidence": 0.8628
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| have a shower every day,",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "id": "text_0017",
+        "type": "paragraph",
+        "content": "have my breakfast every day,",
+        "originalContent": "| have my breakfast every day,",
+        "confidence": 0.9417,
+        "bbox": {
+          "x": 0.349836,
+          "y": 0.678692,
+          "width": 0.26964,
+          "height": 0.01712
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I have my breakfast every day,",
+            "confidence": 0.8878
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| have my breakfast every day,",
+            "confidence": 0.9417
+          }
+        ]
+      },
+      {
+        "id": "text_0018",
+        "type": "sentence",
+        "content": "I'm busy all day long.",
+        "originalContent": "I'm busy all day long.",
+        "confidence": 0.9273,
+        "bbox": {
+          "x": 0.382,
+          "y": 0.696064,
+          "width": 0.201333,
+          "height": 0.022422
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I'm busy all day long.",
+            "confidence": 0.9273
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "I'm busy all day long.",
+            "confidence": 0.894
+          }
+        ]
+      },
+      {
+        "id": "text_0019",
+        "type": "paragraph",
+        "content": "catch the school bus every day,",
+        "originalContent": "| catch the school bus every day,",
+        "confidence": 0.9043,
+        "bbox": {
+          "x": 0.339607,
+          "y": 0.730052,
+          "width": 0.288871,
+          "height": 0.016203
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I catch the school bus every day,",
+            "confidence": 0.8631
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| catch the school bus every day,",
+            "confidence": 0.9043
+          }
+        ]
+      },
+      {
+        "id": "text_0020",
+        "type": "paragraph",
+        "content": "have my lessons every day,",
+        "originalContent": "| have my lessons every day,",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.360065,
+          "y": 0.749924,
+          "width": 0.247954,
+          "height": 0.01712
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I havemy lessons everyday,",
+            "confidence": 0.8952
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| have my lessons every day,",
+            "confidence": 0.9533
+          }
+        ]
+      },
+      {
+        "id": "text_0021",
+        "type": "paragraph",
+        "content": "see my school friends every day,",
+        "originalContent": "| see my school friends every day,",
+        "confidence": 0.9414,
+        "bbox": {
+          "x": 0.337152,
+          "y": 0.770407,
+          "width": 0.293781,
+          "height": 0.01712
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I see myschool friends everyday,",
+            "confidence": 0.8882
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| see my school friends every day,",
+            "confidence": 0.9414
+          }
+        ]
+      },
+      {
+        "id": "text_0022",
+        "type": "sentence",
+        "content": "I'm busy all day long.",
+        "originalContent": "I'm busy all day long.",
+        "confidence": 0.942,
+        "bbox": {
+          "x": 0.386661,
+          "y": 0.79089,
+          "width": 0.193535,
+          "height": 0.016509
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I'm busy all day long.",
+            "confidence": 0.9142
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "I'm busy all day long.",
+            "confidence": 0.942
+          }
+        ]
+      },
+      {
+        "id": "text_0023",
+        "type": "paragraph",
+        "content": "do my homework every day,",
+        "originalContent": "| do my homework every day,",
+        "confidence": 0.9167,
+        "bbox": {
+          "x": 0.35311,
+          "y": 0.82085,
+          "width": 0.260638,
+          "height": 0.01712
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I do my homework every day,",
+            "confidence": 0.8643
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| do my homework every day,",
+            "confidence": 0.9167
+          }
+        ]
+      },
+      {
+        "id": "text_0024",
+        "type": "paragraph",
+        "content": "Then | go outside and play,",
+        "originalContent": "Then | go outside and play,",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.360065,
+          "y": 0.841639,
+          "width": 0.244272,
+          "height": 0.01712
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Then I go outside and play,",
+            "confidence": 0.8616
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Then | go outside and play,",
+            "confidence": 0.9567
+          }
+        ]
+      },
+      {
+        "id": "text_0025",
+        "type": "paragraph",
+        "content": "I'm very busy every day,",
+        "originalContent": "I'm very busy every day,",
+        "confidence": 0.946,
+        "bbox": {
+          "x": 0.37725,
+          "y": 0.862122,
+          "width": 0.211129,
+          "height": 0.01712
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I'm very busy every day.",
+            "confidence": 0.8516
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "I'm very busy every day,",
+            "confidence": 0.946
+          }
+        ]
+      },
+      {
+        "id": "text_0026",
+        "type": "sentence",
+        "content": "I'm busy all day long.",
+        "originalContent": "I'm busy all day long.",
+        "confidence": 0.936,
+        "bbox": {
+          "x": 0.386661,
+          "y": 0.882605,
+          "width": 0.192717,
+          "height": 0.016203
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I'm busy all day long.",
+            "confidence": 0.9015
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "I'm busy all day long.",
+            "confidence": 0.936
+          }
+        ]
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "Unit S",
+        "originalContent": "UnitS",
+        "confidence": 0.6924,
+        "bbox": {
+          "x": 0.097333,
+          "y": 0.964126,
+          "width": 0.053333,
+          "height": 0.014948
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "My doy",
+        "originalContent": "My doy",
+        "confidence": 0.772,
+        "bbox": {
+          "x": 0.161333,
+          "y": 0.964126,
+          "width": 0.06,
+          "height": 0.017439
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Lesson Three",
+      "Grammar and Song",
+      "Speaking",
+      "Ask and answer.",
+      "What time does Tom get up?",
+      "He getsup at seven thirty",
+      "Write about Tom.",
+      "Tom gets up at seven thirty. He...",
+      "Listen and sing.",
+      "Listen and sing. ©) «0 Sing and do.",
+      "ANH",
+      "My day",
+      "get up early every day,",
+      "have a shower every day,",
+      "have my breakfast every day,",
+      "I'm busy all day long.",
+      "catch the school bus every day,",
+      "have my lessons every day,",
+      "see my school friends every day,",
+      "I'm busy all day long.",
+      "do my homework every day,",
+      "Then | go outside and play,",
+      "I'm very busy every day,",
+      "I'm busy all day long.",
+      "Unit S",
+      "My doy"
+    ],
+    "paragraphs": [
+      {
+        "id": "text_0007",
+        "content": "He getsup at seven thirty",
+        "confidence": 0.8261,
+        "bbox": {
+          "x": 0.54,
+          "y": 0.411061,
+          "width": 0.234667,
+          "height": 0.017439
+        },
+        "sourceElementIds": [
+          "text_0007"
+        ]
+      },
+      {
+        "id": "text_0009",
+        "content": "Tom gets up at seven thirty. He...",
+        "confidence": 0.9475,
+        "bbox": {
+          "x": 0.085925,
+          "y": 0.485784,
+          "width": 0.370704,
+          "height": 0.018954
+        },
+        "sourceElementIds": [
+          "text_0009"
+        ]
+      },
+      {
+        "id": "text_0015",
+        "content": "get up early every day,",
+        "confidence": 0.945,
+        "bbox": {
+          "x": 0.378478,
+          "y": 0.638337,
+          "width": 0.212357,
+          "height": 0.016509
+        },
+        "sourceElementIds": [
+          "text_0015"
+        ]
+      },
+      {
+        "id": "text_0016",
+        "content": "have a shower every day,",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.367021,
+          "y": 0.659126,
+          "width": 0.234043,
+          "height": 0.016203
+        },
+        "sourceElementIds": [
+          "text_0016"
+        ]
+      },
+      {
+        "id": "text_0017",
+        "content": "have my breakfast every day,",
+        "confidence": 0.9417,
+        "bbox": {
+          "x": 0.349836,
+          "y": 0.678692,
+          "width": 0.26964,
+          "height": 0.01712
+        },
+        "sourceElementIds": [
+          "text_0017"
+        ]
+      },
+      {
+        "id": "text_0019",
+        "content": "catch the school bus every day,",
+        "confidence": 0.9043,
+        "bbox": {
+          "x": 0.339607,
+          "y": 0.730052,
+          "width": 0.288871,
+          "height": 0.016203
+        },
+        "sourceElementIds": [
+          "text_0019"
+        ]
+      },
+      {
+        "id": "text_0020",
+        "content": "have my lessons every day,",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.360065,
+          "y": 0.749924,
+          "width": 0.247954,
+          "height": 0.01712
+        },
+        "sourceElementIds": [
+          "text_0020"
+        ]
+      },
+      {
+        "id": "text_0021",
+        "content": "see my school friends every day,",
+        "confidence": 0.9414,
+        "bbox": {
+          "x": 0.337152,
+          "y": 0.770407,
+          "width": 0.293781,
+          "height": 0.01712
+        },
+        "sourceElementIds": [
+          "text_0021"
+        ]
+      },
+      {
+        "id": "text_0023",
+        "content": "do my homework every day,",
+        "confidence": 0.9167,
+        "bbox": {
+          "x": 0.35311,
+          "y": 0.82085,
+          "width": 0.260638,
+          "height": 0.01712
+        },
+        "sourceElementIds": [
+          "text_0023"
+        ]
+      },
+      {
+        "id": "text_0024",
+        "content": "Then | go outside and play,",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.360065,
+          "y": 0.841639,
+          "width": 0.244272,
+          "height": 0.01712
+        },
+        "sourceElementIds": [
+          "text_0024"
+        ]
+      },
+      {
+        "id": "text_0025",
+        "content": "I'm very busy every day,",
+        "confidence": 0.946,
+        "bbox": {
+          "x": 0.37725,
+          "y": 0.862122,
+          "width": 0.211129,
+          "height": 0.01712
+        },
+        "sourceElementIds": [
+          "text_0025"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "text_0006",
+        "content": "What time does Tom get up?",
+        "confidence": 0.8754,
+        "bbox": {
+          "x": 0.227333,
+          "y": 0.399601,
+          "width": 0.258667,
+          "height": 0.017937
+        },
+        "sourceElementIds": [
+          "text_0006"
+        ]
+      },
+      {
+        "id": "text_0018",
+        "content": "I'm busy all day long.",
+        "confidence": 0.9273,
+        "bbox": {
+          "x": 0.382,
+          "y": 0.696064,
+          "width": 0.201333,
+          "height": 0.022422
+        },
+        "sourceElementIds": [
+          "text_0018"
+        ]
+      },
+      {
+        "id": "text_0022",
+        "content": "I'm busy all day long.",
+        "confidence": 0.942,
+        "bbox": {
+          "x": 0.386661,
+          "y": 0.79089,
+          "width": 0.193535,
+          "height": 0.016509
+        },
+        "sourceElementIds": [
+          "text_0022"
+        ]
+      },
+      {
+        "id": "text_0026",
+        "content": "I'm busy all day long.",
+        "confidence": 0.936,
+        "bbox": {
+          "x": 0.386661,
+          "y": 0.882605,
+          "width": 0.192717,
+          "height": 0.016203
+        },
+        "sourceElementIds": [
+          "text_0026"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "ANH",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.49,
+        "sourceElementIds": [
+          "text_0013"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "My day",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.96,
+        "sourceElementIds": [
+          "text_0014"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "My doy",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.772,
+        "sourceElementIds": [
+          "text_0029"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "topic": "Grammar and Song",
+        "rule": [
+          "Grammar and Song",
+          "He getsup at seven thirty",
+          "Tom gets up at seven thirty. He...",
+          "get up early every day,",
+          "have a shower every day,",
+          "have my breakfast every day,",
+          "I'm busy all day long.",
+          "catch the school bus every day,",
+          "have my lessons every day,",
+          "see my school friends every day,",
+          "I'm busy all day long.",
+          "do my homework every day,",
+          "Then | go outside and play,",
+          "I'm very busy every day,",
+          "I'm busy all day long."
+        ],
+        "form": null,
+        "positiveExamples": [
+          "What time does Tom get up?"
+        ],
+        "negativeExamples": [],
+        "questionForms": [],
+        "shortAnswers": [],
+        "exceptions": [],
+        "usageNotes": [],
+        "practice": [
+          "Ask and answer.",
+          "Write about Tom.",
+          "Listen and sing.",
+          "Listen and sing. ©) «0 Sing and do."
+        ],
+        "confidence": 0.8621
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "lines": [
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "What time does Tom get up?",
+            "confidence": 0.8754,
+            "bbox": {
+              "x": 0.227333,
+              "y": 0.399601,
+              "width": 0.258667,
+              "height": 0.017937
+            },
+            "sourceElementId": "text_0006",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "I'm busy all day long.",
+            "confidence": 0.9273,
+            "bbox": {
+              "x": 0.382,
+              "y": 0.696064,
+              "width": 0.201333,
+              "height": 0.022422
+            },
+            "sourceElementId": "text_0018",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "I'm busy all day long.",
+            "confidence": 0.942,
+            "bbox": {
+              "x": 0.386661,
+              "y": 0.79089,
+              "width": 0.193535,
+              "height": 0.016509
+            },
+            "sourceElementId": "text_0022",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          }
+        ],
+        "confidence": 0.9148999999999999
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": null,
+        "type": "speaking_activity",
+        "instruction": "Ask and answer.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.9533,
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "listening_singing",
+        "instruction": "Listen and sing.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8708,
+        "sourceElementIds": [
+          "text_0010"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "writing_activity",
+        "instruction": "Write about Tom.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.94,
+        "sourceElementIds": [
+          "text_0008"
+        ]
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "What time does Tom get up?",
+          "He getsup at seven thirty",
+          "Write about Tom.",
+          "Tom gets up at seven thirty. He...",
+          "Listen and sing.",
+          "Listen and sing. ©) «0 Sing and do.",
+          "ANH"
+        ],
+        "position": {
+          "x": 0.056,
+          "y": 0.283438,
+          "width": 0.738667,
+          "height": 0.332098
+        },
+        "textElementIds": [
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "My day",
+          "get up early every day,",
+          "have a shower every day,",
+          "have my breakfast every day,",
+          "I'm busy all day long.",
+          "catch the school bus every day,",
+          "have my lessons every day,",
+          "see my school friends every day,",
+          "I'm busy all day long.",
+          "do my homework every day,",
+          "Then | go outside and play,"
+        ],
+        "position": {
+          "x": 0.317152,
+          "y": 0.583179,
+          "width": 0.333781,
+          "height": 0.29558
+        },
+        "textElementIds": [
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "nonEducationalText": [],
+    "excludedGarbage": [
+      {
+        "id": "text_0005",
+        "content": "12",
+        "originalContent": "12",
+        "confidence": 0.54
+      },
+      {
+        "id": "text_0012",
+        "content": "60",
+        "originalContent": "60",
+        "confidence": 0.665
+      },
+      {
+        "id": "text_0027",
+        "content": "50",
+        "originalContent": "50",
+        "confidence": 0.6512
+      }
+    ]
+  },
+  "learningContent": {
+    "pageType": "grammar",
+    "title": "Lesson Three",
+    "learningObjectives": [
+      "Study content: Grammar and Song",
+      "Study content: Speaking"
+    ],
+    "targetVocabulary": [
+      {
+        "word": "ANH",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.49,
+        "sourceElementIds": [
+          "text_0013"
+        ]
+      },
+      {
+        "word": "My day",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.96,
+        "sourceElementIds": [
+          "text_0014"
+        ]
+      },
+      {
+        "word": "My doy",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.772,
+        "sourceElementIds": [
+          "text_0029"
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "What time does Tom get up?",
+        "meaning": null,
+        "confidence": 0.8754,
+        "sourceElementIds": [
+          "text_0006"
+        ]
+      },
+      {
+        "expression": "I'm busy all day long.",
+        "meaning": null,
+        "confidence": 0.9273,
+        "sourceElementIds": [
+          "text_0018"
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "topic": "Grammar and Song",
+        "rule": [
+          "Grammar and Song",
+          "He getsup at seven thirty",
+          "Tom gets up at seven thirty. He...",
+          "get up early every day,",
+          "have a shower every day,",
+          "have my breakfast every day,",
+          "I'm busy all day long.",
+          "catch the school bus every day,",
+          "have my lessons every day,",
+          "see my school friends every day,",
+          "I'm busy all day long.",
+          "do my homework every day,",
+          "Then | go outside and play,",
+          "I'm very busy every day,",
+          "I'm busy all day long."
+        ],
+        "form": null,
+        "positiveExamples": [
+          "What time does Tom get up?"
+        ],
+        "negativeExamples": [],
+        "questionForms": [],
+        "shortAnswers": [],
+        "exceptions": [],
+        "usageNotes": [],
+        "practice": [
+          "Ask and answer.",
+          "Write about Tom.",
+          "Listen and sing.",
+          "Listen and sing. ©) «0 Sing and do."
+        ],
+        "confidence": 0.8621
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "What time does Tom get up?",
+            "confidence": 0.8754
+          },
+          {
+            "speaker": null,
+            "content": "I'm busy all day long.",
+            "confidence": 0.9273
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": null,
+        "type": "speaking_activity",
+        "instruction": "Ask and answer.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.9533,
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "listening_singing",
+        "instruction": "Listen and sing.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8708,
+        "sourceElementIds": [
+          "text_0010"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "writing_activity",
+        "instruction": "Write about Tom.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.94,
+        "sourceElementIds": [
+          "text_0008"
+        ]
+      }
+    ],
+    "pronunciation": [],
+    "listening": [
+      {
+        "exerciseNumber": null,
+        "instruction": "Listen and sing.",
+        "type": "listening_singing",
+        "confidence": 0.8708
+      }
+    ],
+    "speaking": [
+      {
+        "exerciseNumber": null,
+        "instruction": "Ask and answer.",
+        "type": "speaking_activity",
+        "confidence": 0.9533
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Listen and sing.",
+        "type": "listening_singing",
+        "confidence": 0.8708
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Write about Tom.",
+        "type": "writing_activity",
+        "confidence": 0.94
+      }
+    ],
+    "writing": [
+      {
+        "exerciseNumber": null,
+        "instruction": "Write about Tom.",
+        "type": "writing_activity",
+        "confidence": 0.94
+      }
+    ],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "text_repaired": 10,
+      "text_kept": 26,
+      "garbage_excluded": 3,
+      "vocab_kept": 5,
+      "grammar_items": 1,
+      "dialogue_lines": 3,
+      "dialogues_reconstructed": 1,
+      "exercises_reconstructed": 3
+    },
+    "averageOcrConfidence": 0.8621
+  },
+  "metadata": {
+    "book": "Family and Friends 3 Student Book (American)",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_ff3_v1",
+    "originalOcrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "originalAverageConfidence": 0.8621,
+    "noHallucinationPolicy": "Definitions, translations, speaker names, answers, and grammar rules are null or omitted unless visibly supported by page OCR/PDF. Text repairs are limited to spacing, punctuation, and clear OCR character errors."
+  }
+}

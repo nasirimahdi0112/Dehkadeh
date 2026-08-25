@@ -1,0 +1,28 @@
+diff --git a/node_modules/pdf-parse/lib/pdf-parse.js b/node_modules/pdf-parse/lib/pdf-parse.js
+index 24d7620..131925a 100644
+--- a/node_modules/pdf-parse/lib/pdf-parse.js
++++ b/node_modules/pdf-parse/lib/pdf-parse.js
+@@ -4,7 +4,7 @@
+ 
+ //see https://github.com/mozilla/pdf.js/issues/15728
+ const pdfjs = require('pdfjs-dist/legacy/build/pdf.js');
+-const PDF_PARSE_OPTIONS = {
++let PDF_PARSE_OPTIONS = {
+ 	//internal page parser callback
+ 	//should be called with page object, and page index
+ 	pagerender: render_page,
+@@ -34,7 +34,13 @@
+ 	//check if custom pdfjs is supplied
+ 	if (options.pdfjs)
+ 		pdfjs = options.pdfjs;
+-	
++
++	//see https://github.com/mozilla/pdf.js/issues/15728
++	//after pdfjs-dist 2.15.349, the library started to read test files, build in production mode removes this behavior
++	//this is the only way to set build mode
++	if(typeof pdfjs.GlobalWorkerOptions.workerSrc === 'undefined')
++		pdfjs.GlobalWorkerOptions.workerSrc = `pdfjs-dist/build/pdf.worker.js`;
++
+ 	//copy options
+ 	let PDF_PARSE_OPTIONS = Object.assign({}, DEFAULT_OPTIONS);
+ 	if (options)

@@ -1,0 +1,2280 @@
+{
+  "pageNumber": 99,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 98,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 1_Part4.pdf",
+    "pdfLocalPageNumber": 19,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "10",
+        "confidence": 0.5836,
+        "bbox": {
+          "x": 0.874667,
+          "y": 0.031942,
+          "width": 0.04,
+          "height": 0.02473
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.838824,
+          "y": 0.034545,
+          "width": 0.028235,
+          "height": 0.009091
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "unit",
+            "confidence": 0.7995
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "unit",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Listening What a week!",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.112157,
+          "y": 0.093939,
+          "width": 0.324706,
+          "height": 0.023333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listening What a week!",
+            "confidence": 0.8814
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listening What a week!",
+            "confidence": 0.9
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "paragraph",
+        "content": "A ©) Listen to Diana tell her friend about the past week. Number the pictures from 1 to 4.",
+        "confidence": 0.9121,
+        "bbox": {
+          "x": 0.109412,
+          "y": 0.127273,
+          "width": 0.616471,
+          "height": 0.018485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A  Listen to Diana tell her friend about the past week. Number the pictures from 1 to 4.",
+            "confidence": 0.8946
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A ©) Listen to Diana tell her friend about the past week. Number the pictures from 1 to 4.",
+            "confidence": 0.9121
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "instruction",
+        "content": "Listen again. What surprises Diana's friend? Complete the sentences.",
+        "confidence": 0.9225,
+        "bbox": {
+          "x": 0.121333,
+          "y": 0.526018,
+          "width": 0.501333,
+          "height": 0.021123
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Listen again. What surprises Diana’s friend? Complete the sentences. : =",
+            "confidence": 0.7975
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen again. What surprises Diana's friend? Complete the sentences.",
+            "confidence": 0.9225
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Dianadidn’t answer __ three questions _. | 9",
+            "confidence": 0.6211
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "questions",
+        "confidence": 0.8664,
+        "bbox": {
+          "x": 0.471333,
+          "y": 0.548171,
+          "width": 0.080667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "instruction",
+        "content": "answer",
+        "confidence": 0.8164,
+        "bbox": {
+          "x": 0.278667,
+          "y": 0.548686,
+          "width": 0.059333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "three",
+        "confidence": 0.8058,
+        "bbox": {
+          "x": 0.389333,
+          "y": 0.549717,
+          "width": 0.044667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "Diana didn't",
+        "confidence": 0.8427,
+        "bbox": {
+          "x": 0.154,
+          "y": 0.550232,
+          "width": 0.084,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "Diana's",
+        "confidence": 0.8677,
+        "bbox": {
+          "x": 0.153333,
+          "y": 0.570325,
+          "width": 0.053333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "boyfriend",
+        "confidence": 0.8503,
+        "bbox": {
+          "x": 0.359333,
+          "y": 0.57084,
+          "width": 0.069333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "boyfriend",
+            "confidence": 0.8503
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "RAN S cece sees DOW ION O ea",
+            "confidence": 0.2775
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "her.",
+        "confidence": 0.7927,
+        "bbox": {
+          "x": 0.577333,
+          "y": 0.571355,
+          "width": 0.034667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "Julie didn't.",
+        "confidence": 0.8481,
+        "bbox": {
+          "x": 0.153333,
+          "y": 0.590933,
+          "width": 0.082667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "the.",
+        "confidence": 0.6533,
+        "bbox": {
+          "x": 0.378,
+          "y": 0.590933,
+          "width": 0.04,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "lsbosoljdwgo",
+        "confidence": 0.5639,
+        "bbox": {
+          "x": 0.724,
+          "y": 0.5966,
+          "width": 0.122667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "homeon",
+        "confidence": 0.852,
+        "bbox": {
+          "x": 0.348,
+          "y": 0.61154,
+          "width": 0.070667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Diana",
+        "confidence": 0.7375,
+        "bbox": {
+          "x": 0.153333,
+          "y": 0.612056,
+          "width": 0.042667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "heading",
+        "content": "Speaking Really?",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.110588,
+          "y": 0.647273,
+          "width": 0.244706,
+          "height": 0.022121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Speaking Really?",
+            "confidence": 0.8641
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Speaking Really?",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "sentence",
+        "content": "A Match the sentences. Then compare with a partner.",
+        "confidence": 0.9311,
+        "bbox": {
+          "x": 0.109804,
+          "y": 0.682121,
+          "width": 0.373725,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Matchthesentences.Then comparewithapartner.",
+            "confidence": 0.8893
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Match the sentences. Then compare with a partner.",
+            "confidence": 0.9311
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "Last night,I studied for my English test for five hours...",
+        "confidence": 0.9051,
+        "bbox": {
+          "x": 0.151333,
+          "y": 0.702215,
+          "width": 0.368,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Last night, | studied for my English test for five hours. _b_ a | watched them with my dad.",
+            "confidence": 0.8125
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Last night,I studied for my English test for five hours...",
+            "confidence": 0.9051
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "Iwatchedthemwithmydad",
+        "confidence": 0.917,
+        "bbox": {
+          "x": 0.622667,
+          "y": 0.705307,
+          "width": 0.192,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "Ijust checked my email..",
+        "confidence": 0.8683,
+        "bbox": {
+          "x": 0.152667,
+          "y": 0.722823,
+          "width": 0.167333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Ijust checked my email..",
+            "confidence": 0.8683
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Ijust checked my email. 5 But! didn’t get a good score.",
+            "confidence": 0.7875
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "sentence",
+        "content": "But I didn't get a good score.",
+        "confidence": 0.9016,
+        "bbox": {
+          "x": 0.622,
+          "y": 0.724884,
+          "width": 0.191333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "I'mlearning Chinese.",
+        "confidence": 0.8944,
+        "bbox": {
+          "x": 0.621333,
+          "y": 0.746007,
+          "width": 0.144,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Last week,Istreamed two movies.",
+            "confidence": 0.8884
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Last week, | streamed two movies. c I’m learning Chinese.",
+            "confidence": 0.8155
+          },
+          {
+            "engine": "rapidocr",
+            "content": "I'mlearning Chinese.",
+            "confidence": 0.8944
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "On Thursday,Istarted a new class.",
+        "confidence": 0.899,
+        "bbox": {
+          "x": 0.152,
+          "y": 0.763524,
+          "width": 0.235333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "On Thursday,Istarted a new class.",
+            "confidence": 0.899
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 On Thursday, | started a new class. © [have 100 new messages.",
+            "confidence": 0.77
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "d.lhave100newmessages.",
+        "confidence": 0.854,
+        "bbox": {
+          "x": 0.598667,
+          "y": 0.7661,
+          "width": 0.194667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "PAIR WORK",
+        "confidence": 0.7544,
+        "bbox": {
+          "x": 0.13,
+          "y": 0.792375,
+          "width": 0.076,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0028",
+        "type": "sentence",
+        "content": "B Role-play the situations in Part A. Then change roles.",
+        "confidence": 0.957,
+        "bbox": {
+          "x": 0.11098,
+          "y": 0.792727,
+          "width": 0.467451,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Role-playthe situations in Part A.Then change roles.",
+            "confidence": 0.9096
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Role-play the situations in Part A. Then change roles.",
+            "confidence": 0.957
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "Student A:",
+        "confidence": 0.8487,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.812468,
+          "width": 0.075333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "sentence",
+        "content": "Student A: Say the lines from Part A.",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.133725,
+          "y": 0.814242,
+          "width": 0.270588,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Say thelines from PartA.",
+            "confidence": 0.8767
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Student A: Say the lines from Part A.",
+            "confidence": 0.955
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "Student B:",
+        "confidence": 0.884,
+        "bbox": {
+          "x": 0.130667,
+          "y": 0.832561,
+          "width": 0.076667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "sentence",
+        "content": "Student B: Show interest or express surprise.",
+        "confidence": 0.9386,
+        "bbox": {
+          "x": 0.134118,
+          "y": 0.834848,
+          "width": 0.32902,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Showinterestorexpresssurprise",
+            "confidence": 0.8906
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Student B: Show interest or express surprise.",
+            "confidence": 0.9386
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "dialogue_line",
+        "content": "A: Last night, | studied for my English test for five hours, but | didn't get a good score.",
+        "confidence": 0.9547,
+        "bbox": {
+          "x": 0.133333,
+          "y": 0.855758,
+          "width": 0.643529,
+          "height": 0.015455
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A:Last night,IstudiedformyEnglishtestforfivehours,butIdidn't geta good score",
+            "confidence": 0.9123
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: Last night, | studied for my English test for five hours, but | didn't get a good score.",
+            "confidence": 0.9547
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "dialogue_line",
+        "content": "B: You're kidding! Why not?",
+        "confidence": 0.8943,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.875322,
+          "width": 0.204667,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B: You're kidding! Why not?",
+            "confidence": 0.8943
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: You're kidding! Why not?",
+            "confidence": 0.882
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "sentence",
+        "content": "Cc Role-play new situations. Use your own ideas.",
+        "confidence": 0.9175,
+        "bbox": {
+          "x": 0.109412,
+          "y": 0.903939,
+          "width": 0.422745,
+          "height": 0.016061
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAIR WORK",
+            "confidence": 0.8189
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Cc Role-play new situations. Use your own ideas.",
+            "confidence": 0.9175
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Role-playnewsituations.Useyourown ideas.",
+            "confidence": 0.9233
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "I canshowthatI'mlistening",
+        "confidence": 0.8462,
+        "bbox": {
+          "x": 0.681333,
+          "y": 0.931994,
+          "width": 0.17,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "| can show that I'm listening. ©)",
+            "confidence": 0.7386
+          },
+          {
+            "engine": "rapidocr",
+            "content": "I canshowthatI'mlistening",
+            "confidence": 0.8462
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "3 99",
+        "confidence": 0.665,
+        "bbox": {
+          "x": 0.832549,
+          "y": 0.947273,
+          "width": 0.103922,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "99",
+            "confidence": 0.666
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 99",
+            "confidence": 0.665
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "I can express surprise.",
+        "confidence": 0.9263,
+        "bbox": {
+          "x": 0.716,
+          "y": 0.952087,
+          "width": 0.135333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Julie didn't.",
+            "confidence": 0.8481,
+            "bbox": {
+              "x": 0.153333,
+              "y": 0.590933,
+              "width": 0.082667,
+              "height": 0.012365
+            },
+            "sourceElementId": "text_0013",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "But I didn't get a good score.",
+            "confidence": 0.9016,
+            "bbox": {
+              "x": 0.622,
+              "y": 0.724884,
+              "width": 0.191333,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0023",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I'mlearning Chinese.",
+            "confidence": 0.8944,
+            "bbox": {
+              "x": 0.621333,
+              "y": 0.746007,
+              "width": 0.144,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0024",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "A: Last night, | studied for my English test for five hours, but | didn't get a good score.",
+            "confidence": 0.9547,
+            "bbox": {
+              "x": 0.133333,
+              "y": 0.855758,
+              "width": 0.643529,
+              "height": 0.015455
+            },
+            "sourceElementId": "text_0033",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "B: You're kidding! Why not?",
+            "confidence": 0.8943,
+            "bbox": {
+              "x": 0.131333,
+              "y": 0.875322,
+              "width": 0.204667,
+              "height": 0.017002
+            },
+            "sourceElementId": "text_0034",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "©) Listen to Diana tell her friend about the past week. Number the pictures from 1 to 4.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0004"
+        ],
+        "confidence": 0.9121
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "matching_exercise",
+        "instruction": "Match the sentences. Then compare with a partner.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0019"
+        ],
+        "confidence": 0.9311
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Listen again. What surprises Diana's friend? Complete the sentences.",
+          "questions",
+          "answer",
+          "three",
+          "Diana didn't",
+          "Diana's",
+          "boyfriend",
+          "her.",
+          "Julie didn't.",
+          "the.",
+          "lsbosoljdwgo",
+          "homeon",
+          "Diana",
+          "Speaking Really?",
+          "A Match the sentences. Then compare with a partner.",
+          "Last night,I studied for my English test for five hours...",
+          "Iwatchedthemwithmydad",
+          "Ijust checked my email..",
+          "But I didn't get a good score."
+        ],
+        "position": {
+          "x": 0.089804,
+          "y": 0.506018,
+          "width": 0.776863,
+          "height": 0.252776
+        },
+        "textElementIds": [
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "I'mlearning Chinese.",
+          "On Thursday,Istarted a new class.",
+          "d.lhave100newmessages.",
+          "PAIR WORK",
+          "B Role-play the situations in Part A. Then change roles.",
+          "Student A:",
+          "Student A: Say the lines from Part A.",
+          "Student B:",
+          "Student B: Show interest or express surprise.",
+          "A: Last night, | studied for my English test for five hours, but | didn't get a good score.",
+          "B: You're kidding! Why not?"
+        ],
+        "position": {
+          "x": 0.09097999999999999,
+          "y": 0.726007,
+          "width": 0.722354,
+          "height": 0.18631700000000007
+        },
+        "textElementIds": [
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "10\nunit\nListening What a week!\nA  Listen to Diana tell her friend about the past week. Number the pictures from 1 to 4.\nListen again. What surprises Diana's friend? Complete the sentences.\nquestions\nanswer\nthree\nDiana didn't\nDiana's\nboyfriend\nher.\nJulie didn't.\nthe.\nlsbosoljdwgo\nhomeon\nDiana\ndehkhodaedu.com\nSpeaking Really?\nA Matchthesentences.Then comparewithapartner.\nLast night,I studied for my English test for five hours...\nIwatchedthemwithmydad\nIjust checked my email..\nBut I didn't get a good score.\nLast week,Istreamed two movies.\nI'mlearning Chinese.\nOn Thursday,Istarted a new class.\nd.lhave100newmessages.\nRole-playthe situations in Part A.Then change roles.\nPAIR WORK\nStudent A:\nSay thelines from PartA.\nStudent B:\nShowinterestorexpresssurprise\nA:Last night,IstudiedformyEnglishtestforfivehours,butIdidn't geta good score\nB: You're kidding! Why not?\nPAIR WORK\nRole-playnewsituations.Useyourown ideas.\nI canshowthatI'mlistening\n99\ndehkhodaedu.com\nI can express surprise.",
+      "tesseract_psm3": "unit\n\nListening What a week!\n\nA ©) Listen to Diana tell her friend about the past week. Number the pictures from 1 to 4.\n\nB Listen again. What surprises Diana’s friend? Complete the sentences. : =\n1 Dianadidn’t answer __ three questions _. | 9\nRAN S cece sees DOW ION O ea\n4 Diana... _...__ homeon_ dehkhodaedu.com\n\nSpeaking Really?\n\nA Match the sentences. Then compare with a partner.\n\n1 Last night, | studied for my English test for five hours. _b_ a | watched them with my dad.\n2  Ijust checked my email. 5 But! didn’t get a good score.\n3 Last week, | streamed two movies. c I’m learning Chinese.\n\n4 On Thursday, | started a new class. © [have 100 new messages.\n\nB Role-play the situations in Part A. Then change roles.\nStudent A: Say the lines from Part A.\nStudent B: Show interest or express surprise.\nA: Last night, | studied for my English test for five hours, but | didn't get a good score.\nB: You're kidding! Why not?\n\nCc Role-play new situations. Use your own ideas.\n\n| can show that I'm listening. ©)\n3 99\ndehkhodaed Om | can express surprise. @)\n\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8563,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "7 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "listening_speaking_writing",
+    "headings": [
+      "unit",
+      "Listening What a week!",
+      "Speaking Really?"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "audio_track",
+        "content": "10",
+        "confidence": 0.5836,
+        "bbox": {
+          "x": 0.874667,
+          "y": 0.031942,
+          "width": 0.04,
+          "height": 0.02473
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.838824,
+          "y": 0.034545,
+          "width": 0.028235,
+          "height": 0.009091
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "unit",
+            "confidence": 0.7995
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "unit",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Listening What a week!",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.112157,
+          "y": 0.093939,
+          "width": 0.324706,
+          "height": 0.023333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listening What a week!",
+            "confidence": 0.8814
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listening What a week!",
+            "confidence": 0.9
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "instruction",
+        "content": "Listen again. What surprises Diana's friend? Complete the sentences.",
+        "confidence": 0.9225,
+        "bbox": {
+          "x": 0.121333,
+          "y": 0.526018,
+          "width": 0.501333,
+          "height": 0.021123
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Listen again. What surprises Diana’s friend? Complete the sentences. : =",
+            "confidence": 0.7975
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen again. What surprises Diana's friend? Complete the sentences.",
+            "confidence": 0.9225
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Dianadidn’t answer __ three questions _. | 9",
+            "confidence": 0.6211
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "questions",
+        "confidence": 0.8664,
+        "bbox": {
+          "x": 0.471333,
+          "y": 0.548171,
+          "width": 0.080667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "instruction",
+        "content": "answer",
+        "confidence": 0.8164,
+        "bbox": {
+          "x": 0.278667,
+          "y": 0.548686,
+          "width": 0.059333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "three",
+        "confidence": 0.8058,
+        "bbox": {
+          "x": 0.389333,
+          "y": 0.549717,
+          "width": 0.044667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "Diana didn't",
+        "confidence": 0.8427,
+        "bbox": {
+          "x": 0.154,
+          "y": 0.550232,
+          "width": 0.084,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "Diana's",
+        "confidence": 0.8677,
+        "bbox": {
+          "x": 0.153333,
+          "y": 0.570325,
+          "width": 0.053333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "boyfriend",
+        "confidence": 0.8503,
+        "bbox": {
+          "x": 0.359333,
+          "y": 0.57084,
+          "width": 0.069333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "boyfriend",
+            "confidence": 0.8503
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "RAN S cece sees DOW ION O ea",
+            "confidence": 0.2775
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "her.",
+        "confidence": 0.7927,
+        "bbox": {
+          "x": 0.577333,
+          "y": 0.571355,
+          "width": 0.034667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "Julie didn't.",
+        "confidence": 0.8481,
+        "bbox": {
+          "x": 0.153333,
+          "y": 0.590933,
+          "width": 0.082667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "the.",
+        "confidence": 0.6533,
+        "bbox": {
+          "x": 0.378,
+          "y": 0.590933,
+          "width": 0.04,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "ls boso lj dw go",
+        "confidence": 0.5639,
+        "bbox": {
+          "x": 0.724,
+          "y": 0.5966,
+          "width": 0.122667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "home on",
+        "confidence": 0.852,
+        "bbox": {
+          "x": 0.348,
+          "y": 0.61154,
+          "width": 0.070667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Diana",
+        "confidence": 0.7375,
+        "bbox": {
+          "x": 0.153333,
+          "y": 0.612056,
+          "width": 0.042667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "heading",
+        "content": "Speaking Really?",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.110588,
+          "y": 0.647273,
+          "width": 0.244706,
+          "height": 0.022121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Speaking Really?",
+            "confidence": 0.8641
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Speaking Really?",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "sentence",
+        "content": "A Match the sentences. Then compare with a partner.",
+        "confidence": 0.9311,
+        "bbox": {
+          "x": 0.109804,
+          "y": 0.682121,
+          "width": 0.373725,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Matchthesentences.Then comparewithapartner.",
+            "confidence": 0.8893
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Match the sentences. Then compare with a partner.",
+            "confidence": 0.9311
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "Last night, I studied for my English test for five hours...",
+        "confidence": 0.9051,
+        "bbox": {
+          "x": 0.151333,
+          "y": 0.702215,
+          "width": 0.368,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Last night, | studied for my English test for five hours. _b_ a | watched them with my dad.",
+            "confidence": 0.8125
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Last night,I studied for my English test for five hours...",
+            "confidence": 0.9051
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "I watched them with my dad",
+        "confidence": 0.917,
+        "bbox": {
+          "x": 0.622667,
+          "y": 0.705307,
+          "width": 0.192,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "Ijust checked my email..",
+        "confidence": 0.8683,
+        "bbox": {
+          "x": 0.152667,
+          "y": 0.722823,
+          "width": 0.167333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Ijust checked my email..",
+            "confidence": 0.8683
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Ijust checked my email. 5 But! didn’t get a good score.",
+            "confidence": 0.7875
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "sentence",
+        "content": "But I didn't get a good score.",
+        "confidence": 0.9016,
+        "bbox": {
+          "x": 0.622,
+          "y": 0.724884,
+          "width": 0.191333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "I'm learning Chinese.",
+        "confidence": 0.8944,
+        "bbox": {
+          "x": 0.621333,
+          "y": 0.746007,
+          "width": 0.144,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Last week,Istreamed two movies.",
+            "confidence": 0.8884
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Last week, | streamed two movies. c I’m learning Chinese.",
+            "confidence": 0.8155
+          },
+          {
+            "engine": "rapidocr",
+            "content": "I'mlearning Chinese.",
+            "confidence": 0.8944
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "On Thursday, I started a new class.",
+        "confidence": 0.899,
+        "bbox": {
+          "x": 0.152,
+          "y": 0.763524,
+          "width": 0.235333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "On Thursday,Istarted a new class.",
+            "confidence": 0.899
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 On Thursday, | started a new class. © [have 100 new messages.",
+            "confidence": 0.77
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "d. lhave 100new messages.",
+        "confidence": 0.854,
+        "bbox": {
+          "x": 0.598667,
+          "y": 0.7661,
+          "width": 0.194667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "PAIR WORK",
+        "confidence": 0.7544,
+        "bbox": {
+          "x": 0.13,
+          "y": 0.792375,
+          "width": 0.076,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0028",
+        "type": "sentence",
+        "content": "B Role-play the situations in Part A. Then change roles.",
+        "confidence": 0.957,
+        "bbox": {
+          "x": 0.11098,
+          "y": 0.792727,
+          "width": 0.467451,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Role-playthe situations in Part A.Then change roles.",
+            "confidence": 0.9096
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Role-play the situations in Part A. Then change roles.",
+            "confidence": 0.957
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "Student A",
+        "confidence": 0.8487,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.812468,
+          "width": 0.075333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "sentence",
+        "content": "Student A: Say the lines from Part A.",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.133725,
+          "y": 0.814242,
+          "width": 0.270588,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Say thelines from PartA.",
+            "confidence": 0.8767
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Student A: Say the lines from Part A.",
+            "confidence": 0.955
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "Student B",
+        "confidence": 0.884,
+        "bbox": {
+          "x": 0.130667,
+          "y": 0.832561,
+          "width": 0.076667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "sentence",
+        "content": "Student B: Show interest or express surprise.",
+        "confidence": 0.9386,
+        "bbox": {
+          "x": 0.134118,
+          "y": 0.834848,
+          "width": 0.32902,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Showinterestorexpresssurprise",
+            "confidence": 0.8906
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Student B: Show interest or express surprise.",
+            "confidence": 0.9386
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "dialogue_line",
+        "content": "A: Last night, | studied for my English test for five hours, but | didn't get a good score.",
+        "confidence": 0.9547,
+        "bbox": {
+          "x": 0.133333,
+          "y": 0.855758,
+          "width": 0.643529,
+          "height": 0.015455
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A:Last night,IstudiedformyEnglishtestforfivehours,butIdidn't geta good score",
+            "confidence": 0.9123
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: Last night, | studied for my English test for five hours, but | didn't get a good score.",
+            "confidence": 0.9547
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "dialogue_line",
+        "content": "B: You're kidding! Why not?",
+        "confidence": 0.8943,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.875322,
+          "width": 0.204667,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B: You're kidding! Why not?",
+            "confidence": 0.8943
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: You're kidding! Why not?",
+            "confidence": 0.882
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "sentence",
+        "content": "Cc Role-play new situations. Use your own ideas.",
+        "confidence": 0.9175,
+        "bbox": {
+          "x": 0.109412,
+          "y": 0.903939,
+          "width": 0.422745,
+          "height": 0.016061
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAIR WORK",
+            "confidence": 0.8189
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Cc Role-play new situations. Use your own ideas.",
+            "confidence": 0.9175
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Role-playnewsituations.Useyourown ideas.",
+            "confidence": 0.9233
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "I can show that I'm listening",
+        "confidence": 0.8462,
+        "bbox": {
+          "x": 0.681333,
+          "y": 0.931994,
+          "width": 0.17,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "| can show that I'm listening. ©)",
+            "confidence": 0.7386
+          },
+          {
+            "engine": "rapidocr",
+            "content": "I canshowthatI'mlistening",
+            "confidence": 0.8462
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "I can express surprise.",
+        "confidence": 0.9263,
+        "bbox": {
+          "x": 0.716,
+          "y": 0.952087,
+          "width": 0.135333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "unit",
+      "Listening What a week!",
+      "Listen again. What surprises Diana's friend? Complete the sentences.",
+      "questions",
+      "answer",
+      "three",
+      "Diana didn't",
+      "Diana's",
+      "boyfriend",
+      "her.",
+      "Julie didn't.",
+      "the.",
+      "ls boso lj dw go",
+      "home on",
+      "Diana",
+      "Speaking Really?",
+      "A Match the sentences. Then compare with a partner.",
+      "Last night, I studied for my English test for five hours...",
+      "I watched them with my dad",
+      "Ijust checked my email..",
+      "But I didn't get a good score.",
+      "I'm learning Chinese.",
+      "On Thursday, I started a new class.",
+      "d. lhave 100new messages.",
+      "PAIR WORK",
+      "B Role-play the situations in Part A. Then change roles.",
+      "Student A",
+      "Student A: Say the lines from Part A.",
+      "Student B",
+      "Student B: Show interest or express surprise.",
+      "A: Last night, | studied for my English test for five hours, but | didn't get a good score.",
+      "B: You're kidding! Why not?",
+      "Cc Role-play new situations. Use your own ideas.",
+      "I can show that I'm listening",
+      "I can express surprise."
+    ],
+    "paragraphs": [],
+    "sentences": [
+      "unit Listening What a week",
+      "Listen again",
+      "What surprises Diana's friend",
+      "Complete the sentences",
+      "questions answer three Diana didn't Diana's boyfriend her",
+      "Julie didn't",
+      "the",
+      "ls boso lj dw go home on Diana Speaking Really",
+      "A Match the sentences",
+      "Then compare with a partner",
+      "Last night, I studied for my English test for five hours",
+      "I watched them with my dad Ijust checked my email",
+      "But I didn't get a good score",
+      "I'm learning Chinese",
+      "On Thursday, I started a new class",
+      "d",
+      "lhave 100new messages",
+      "PAIR WORK B Role-play the situations in Part A",
+      "Then change roles",
+      "Student A Student A: Say the lines from Part A",
+      "Student B Student B: Show interest or express surprise",
+      "A: Last night, | studied for my English test for five hours, but | didn't get a good score",
+      "B: You're kidding",
+      "Why not",
+      "Cc Role-play new situations",
+      "Use your own ideas",
+      "I can show that I'm listening I can express surprise"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Julie didn't.",
+            "confidence": 0.8481,
+            "bbox": {
+              "x": 0.153333,
+              "y": 0.590933,
+              "width": 0.082667,
+              "height": 0.012365
+            },
+            "sourceElementId": "text_0013"
+          },
+          {
+            "speaker": null,
+            "content": "But I didn't get a good score.",
+            "confidence": 0.9016,
+            "bbox": {
+              "x": 0.622,
+              "y": 0.724884,
+              "width": 0.191333,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0023"
+          },
+          {
+            "speaker": null,
+            "content": "I'm learning Chinese.",
+            "confidence": 0.8944,
+            "bbox": {
+              "x": 0.621333,
+              "y": 0.746007,
+              "width": 0.144,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0024"
+          },
+          {
+            "speaker": null,
+            "content": "A: Last night, | studied for my English test for five hours, but | didn't get a good score.",
+            "confidence": 0.9547,
+            "bbox": {
+              "x": 0.133333,
+              "y": 0.855758,
+              "width": 0.643529,
+              "height": 0.015455
+            },
+            "sourceElementId": "text_0033"
+          },
+          {
+            "speaker": null,
+            "content": "B: You're kidding!",
+            "confidence": 0.8943,
+            "bbox": {
+              "x": 0.131333,
+              "y": 0.875322,
+              "width": 0.204667,
+              "height": 0.017002
+            },
+            "sourceElementId": "text_0034"
+          },
+          {
+            "speaker": null,
+            "content": "Why not?",
+            "confidence": 0.8943,
+            "bbox": {
+              "x": 0.131333,
+              "y": 0.875322,
+              "width": 0.204667,
+              "height": 0.017002
+            },
+            "sourceElementId": "text_0034"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "matching",
+        "instruction": "Match the sentences. Then compare with a partner.",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Listen again. What surprises Diana's friend? Complete the sentences.",
+          "questions",
+          "answer",
+          "three",
+          "Diana didn't",
+          "Diana's",
+          "boyfriend",
+          "her.",
+          "Julie didn't.",
+          "the.",
+          "ls boso lj dw go",
+          "home on",
+          "Diana",
+          "Speaking Really?",
+          "A Match the sentences. Then compare with a partner.",
+          "Last night, I studied for my English test for five hours...",
+          "I watched them with my dad",
+          "Ijust checked my email..",
+          "But I didn't get a good score."
+        ],
+        "position": {
+          "x": 0.089804,
+          "y": 0.506018,
+          "width": 0.776863,
+          "height": 0.252776
+        },
+        "textElementIds": [
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "I'm learning Chinese.",
+          "On Thursday, I started a new class.",
+          "d. lhave 100new messages.",
+          "PAIR WORK",
+          "B Role-play the situations in Part A. Then change roles.",
+          "Student A",
+          "Student A: Say the lines from Part A.",
+          "Student B",
+          "Student B: Show interest or express surprise.",
+          "A: Last night, | studied for my English test for five hours, but | didn't get a good score.",
+          "B: You're kidding! Why not?"
+        ],
+        "position": {
+          "x": 0.09097999999999999,
+          "y": 0.726007,
+          "width": 0.722354,
+          "height": 0.18631700000000007
+        },
+        "textElementIds": [
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034"
+        ]
+      }
+    ],
+    "excludedGarbage": [
+      "A ©) Listen to Diana tell her friend about the past week. Number the pictures from 1 to 4.",
+      "3 99"
+    ]
+  },
+  "learningContent": {
+    "pageType": "listening_speaking_writing",
+    "title": "unit",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "Julie didn't.",
+            "confidence": 0.8481
+          },
+          {
+            "speaker": null,
+            "content": "But I didn't get a good score.",
+            "confidence": 0.9016
+          },
+          {
+            "speaker": null,
+            "content": "I'm learning Chinese.",
+            "confidence": 0.8944
+          },
+          {
+            "speaker": null,
+            "content": "A: Last night, | studied for my English test for five hours, but | didn't get a good score.",
+            "confidence": 0.9547
+          },
+          {
+            "speaker": null,
+            "content": "B: You're kidding!",
+            "confidence": 0.8943
+          },
+          {
+            "speaker": null,
+            "content": "Why not?",
+            "confidence": 0.8943
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "matching",
+        "instruction": "Match the sentences. Then compare with a partner.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "7 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content.",
+      "2 garbage string(s) excluded"
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "garbageExcluded": 3,
+      "dialoguesSplit": 2
+    },
+    "averageOcrConfidence": 0.8563,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 1 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc1_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

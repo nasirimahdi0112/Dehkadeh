@@ -1,0 +1,3391 @@
+{
+  "pageNumber": 87,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 94,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 2_Part5.pdf",
+    "pdfLocalPageNumber": 3,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.827451,
+          "y": 0.022121,
+          "width": 0.030196,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "unit",
+            "confidence": 0.7991
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "unit",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "GrammarnWas/wereborn,pastofbe",
+        "confidence": 0.8838,
+        "bbox": {
+          "x": 0.066667,
+          "y": 0.081917,
+          "width": 0.543333,
+          "height": 0.02473
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 | Grammar © Was/ were born; past of be",
+            "confidence": 0.795
+          },
+          {
+            "engine": "rapidocr",
+            "content": "GrammarnWas/wereborn,pastofbe",
+            "confidence": 0.8838
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Where was Emilio Palma born? How long was Neil Armstrong on the moon?",
+        "confidence": 0.9354,
+        "bbox": {
+          "x": 0.090588,
+          "y": 0.119394,
+          "width": 0.705882,
+          "height": 0.017879
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Wherewas Emilio Palma born?",
+            "confidence": 0.8706
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Where was Emilio Palma born? How long was Neil Armstrong on the moon?",
+            "confidence": 0.9354
+          },
+          {
+            "engine": "rapidocr",
+            "content": "How longwas Neil Armstrong on themoon?",
+            "confidence": 0.8707
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "sentence",
+        "content": "He was born in Antarctica. He was there for two and a half hours.",
+        "confidence": 0.935,
+        "bbox": {
+          "x": 0.113725,
+          "y": 0.136667,
+          "width": 0.66549,
+          "height": 0.017879
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "He was born in Antarctica.",
+            "confidence": 0.8462
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "He was born in Antarctica. He was there for two and a half hours.",
+            "confidence": 0.935
+          },
+          {
+            "engine": "rapidocr",
+            "content": "He was there for two and a hatf hours.",
+            "confidence": 0.8668
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "He wasn't born in Argentina",
+        "confidence": 0.8995,
+        "bbox": {
+          "x": 0.110667,
+          "y": 0.152499,
+          "width": 0.194,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "sentence",
+        "content": "He wasn’t born in Argentina. He wasn’t there for very long.",
+        "confidence": 0.9491,
+        "bbox": {
+          "x": 0.113333,
+          "y": 0.154545,
+          "width": 0.61098,
+          "height": 0.016364
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "He wasn't there for very long.",
+            "confidence": 0.8608
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "He wasn’t born in Argentina. He wasn’t there for very long.",
+            "confidence": 0.9491
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "sentence",
+        "content": "Where were Venus and Serena born? Where were his parents from?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.089804,
+          "y": 0.171515,
+          "width": 0.611765,
+          "height": 0.020909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Where were Venus and Serena born? Where were his parents from?",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Where were Venus and Serena born?",
+            "confidence": 0.8834
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Where were his parents from?",
+            "confidence": 0.8693
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "sentence",
+        "content": "They were born in the U.S.",
+        "confidence": 0.9583,
+        "bbox": {
+          "x": 0.112941,
+          "y": 0.192424,
+          "width": 0.178039,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "They were born in the U.S.",
+            "confidence": 0.9079
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "They were born in the U.S.",
+            "confidence": 0.9583
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "They were from Argentina.",
+        "confidence": 0.8717,
+        "bbox": {
+          "x": 0.524667,
+          "y": 0.192684,
+          "width": 0.178,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "They weren’t born in Canada.",
+        "confidence": 0.938,
+        "bbox": {
+          "x": 0.112549,
+          "y": 0.206061,
+          "width": 0.200784,
+          "height": 0.020606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "They weren’t born in Canada.",
+            "confidence": 0.938
+          },
+          {
+            "engine": "rapidocr",
+            "content": "They weren't born in Canada.",
+            "confidence": 0.9083
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "They weren't from Antarctica.",
+        "confidence": 0.9039,
+        "bbox": {
+          "x": 0.524,
+          "y": 0.210201,
+          "width": 0.200667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "Was he born in Antarctica?",
+        "confidence": 0.91,
+        "bbox": {
+          "x": 0.089412,
+          "y": 0.229697,
+          "width": 0.183529,
+          "height": 0.015455
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Was he born in Antarctica?",
+            "confidence": 0.8651
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Was he born in Antarctica?",
+            "confidence": 0.91
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Yes, he was. No, he wasn’t.",
+            "confidence": 0.6517
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "sentence",
+        "content": "Were they Wimbledon champions in 2000?",
+        "confidence": 0.8997,
+        "bbox": {
+          "x": 0.5,
+          "y": 0.231324,
+          "width": 0.288667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "Yes, he was.",
+        "confidence": 0.8382,
+        "bbox": {
+          "x": 0.109333,
+          "y": 0.246265,
+          "width": 0.085333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "No,he wasn't.",
+        "confidence": 0.8915,
+        "bbox": {
+          "x": 0.221333,
+          "y": 0.248326,
+          "width": 0.098667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "Yes, they were.",
+        "confidence": 0.8743,
+        "bbox": {
+          "x": 0.522667,
+          "y": 0.248841,
+          "width": 0.106,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "No, they weren't.",
+        "confidence": 0.9201,
+        "bbox": {
+          "x": 0.651333,
+          "y": 0.250386,
+          "width": 0.120667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "sentence",
+        "content": "A Complete the sentences with the correct past form of be. Then compare",
+        "confidence": 0.9292,
+        "bbox": {
+          "x": 0.066275,
+          "y": 0.287576,
+          "width": 0.518039,
+          "height": 0.016364
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Complete the sentences with the correct past form of be.Then compare",
+            "confidence": 0.9032
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Complete the sentences with the correct past form of be. Then compare",
+            "confidence": 0.9292
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "with a partner.",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.089804,
+          "y": 0.306364,
+          "width": 0.100392,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "with a partner.",
+            "confidence": 0.8438
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "with a partner.",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "Coco Chanel",
+        "confidence": 0.8122,
+        "bbox": {
+          "x": 0.099333,
+          "y": 0.326121,
+          "width": 0.1,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "an amazing French designer.",
+        "confidence": 0.889,
+        "bbox": {
+          "x": 0.370667,
+          "y": 0.326636,
+          "width": 0.197333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "an amazing French designer.",
+            "confidence": 0.889
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Coco Chanel an amazing French designer.",
+            "confidence": 0.6971
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "Albert Einstein",
+        "confidence": 0.8427,
+        "bbox": {
+          "x": 0.11,
+          "y": 0.346728,
+          "width": 0.102,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Albert Einstein",
+            "confidence": 0.8427
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Albert Einstein = stborn in Germany.",
+            "confidence": 0.5957
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "born in Germany.",
+        "confidence": 0.8967,
+        "bbox": {
+          "x": 0.386,
+          "y": 0.347244,
+          "width": 0.120667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "AlfredHitchcock",
+        "confidence": 0.8489,
+        "bbox": {
+          "x": 0.111333,
+          "y": 0.368367,
+          "width": 0.112667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "AlfredHitchcock",
+            "confidence": 0.8489
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Alfred Hitchcock _..__.-_===__=+==— sa great director.",
+            "confidence": 0.5686
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "a great director.",
+        "confidence": 0.8562,
+        "bbox": {
+          "x": 0.398,
+          "y": 0.369912,
+          "width": 0.11,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "born in Mexico.",
+        "confidence": 0.8303,
+        "bbox": {
+          "x": 0.480667,
+          "y": 0.38949,
+          "width": 0.106667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "sentence",
+        "content": "4 Diego Rivera and Frida Kahlo mai born in Mexico.",
+        "confidence": 0.843,
+        "bbox": {
+          "x": 0.088627,
+          "y": 0.390606,
+          "width": 0.497647,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Diego Rivera and Frida Kahlo",
+            "confidence": 0.8528
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 Diego Rivera and Frida Kahlo mai born in Mexico.",
+            "confidence": 0.843
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "MozartandBeethoven",
+        "confidence": 0.8882,
+        "bbox": {
+          "x": 0.109333,
+          "y": 0.409583,
+          "width": 0.158,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "MozartandBeethoven",
+            "confidence": 0.8882
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 Mozart and Beethoven... Ss famous composers.",
+            "confidence": 0.5343
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "famous composers.",
+        "confidence": 0.9257,
+        "bbox": {
+          "x": 0.44,
+          "y": 0.410613,
+          "width": 0.136,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "sentence",
+        "content": "B Correct the false sentences. Then compare with a partner.",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.067059,
+          "y": 0.437879,
+          "width": 0.421176,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B Correct the false sentences.Then compare with a partner.",
+            "confidence": 0.9073
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Correct the false sentences. Then compare with a partner.",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "Ronald Reagan wasa British politician.(American)",
+        "confidence": 0.897,
+        "bbox": {
+          "x": 0.108,
+          "y": 0.458527,
+          "width": 0.343333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Ronald Reagan wasa British politician.(American)",
+            "confidence": 0.897
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Ronald Reagan was a British politician. (American)",
+            "confidence": 0.905
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "sentence",
+        "content": "_ He wasn't a British politician. He was an American politician. _",
+        "confidence": 0.9333,
+        "bbox": {
+          "x": 0.114902,
+          "y": 0.475152,
+          "width": 0.485098,
+          "height": 0.018788
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "He wasn't a British politician. He was an American politician",
+            "confidence": 0.9072
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "_ He wasn't a British politician. He was an American politician. _",
+            "confidence": 0.9333
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "sentence",
+        "content": "2 Zheng He was an early Chinese scientist. (explorer)",
+        "confidence": 0.9255,
+        "bbox": {
+          "x": 0.086,
+          "y": 0.500258,
+          "width": 0.368,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2 Zheng He was an early Chinese scientist. (explorer)",
+            "confidence": 0.9255
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Zheng He was an early Chinese scientist. (explorer)",
+            "confidence": 0.9267
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "sentence",
+        "content": "3Artist Vincent van Gogh was born in the 20th century. (1gth century)",
+        "confidence": 0.8899,
+        "bbox": {
+          "x": 0.085333,
+          "y": 0.540958,
+          "width": 0.47,
+          "height": 0.017517
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3Artist Vincent van Gogh was born in the 20th century. (1gth century)",
+            "confidence": 0.8899
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Artist Vincent van Gogh was born in the 20* century. (19\" century)",
+            "confidence": 0.8408
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "sentence",
+        "content": "4 Gianni Versace and Yves Saint Laurent were explorers. (designers)",
+        "confidence": 0.952,
+        "bbox": {
+          "x": 0.088235,
+          "y": 0.586061,
+          "width": 0.464314,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Gianni Versace and Yves Saint Laurent were explorers.(designers)",
+            "confidence": 0.9302
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 Gianni Versace and Yves Saint Laurent were explorers. (designers)",
+            "confidence": 0.952
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "sentence",
+        "content": "5 Venus and Serena Williams were born in the late 1970s. (early 1980s)",
+        "confidence": 0.9154,
+        "bbox": {
+          "x": 0.088235,
+          "y": 0.627879,
+          "width": 0.481961,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Venus and SerenaWilliams wereborn in the late1970s.(early1980s)",
+            "confidence": 0.8978
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 Venus and Serena Williams were born in the late 1970s. (early 1980s)",
+            "confidence": 0.9154
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "heading",
+        "content": "Speaking Famouspeople",
+        "confidence": 0.8268,
+        "bbox": {
+          "x": 0.062,
+          "y": 0.680577,
+          "width": 0.363333,
+          "height": 0.025245
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "instruction",
+        "content": "Choose a person from the past. Your group asks",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.167451,
+          "y": 0.71697,
+          "width": 0.328627,
+          "height": 0.016667
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "GRoupWoRKChooseapersonfromthepast.Yourgroupasks",
+            "confidence": 0.8917
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Choose a person from the past. Your group asks",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "sentence",
+        "content": "questions and guesses the person’s name. Take turns.",
+        "confidence": 0.9512,
+        "bbox": {
+          "x": 0.06549,
+          "y": 0.736364,
+          "width": 0.371373,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "questions and guesses theperson's name.Take turns.",
+            "confidence": 0.9041
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "questions and guesses the person’s name. Take turns.",
+            "confidence": 0.9512
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "dialogue_line",
+        "content": "A: He was from Mexico. He was a politician.",
+        "confidence": 0.9511,
+        "bbox": {
+          "x": 0.064706,
+          "y": 0.757273,
+          "width": 0.321176,
+          "height": 0.015455
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: He was from Mexico. He was a politician.",
+            "confidence": 0.9197
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: He was from Mexico. He was a politician.",
+            "confidence": 0.9511
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "dialogue_line",
+        "content": "B: Is it...?",
+        "confidence": 0.8231,
+        "bbox": {
+          "x": 0.064,
+          "y": 0.777434,
+          "width": 0.086,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B: Is it...?",
+            "confidence": 0.8231
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B:Isit...?",
+            "confidence": 0.16
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "dialogue_line",
+        "content": "A: No, sorry. He was born in the 19th century.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.064706,
+          "y": 0.801818,
+          "width": 0.347843,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: No, sorry. He was born in the 19th century.",
+            "confidence": 0.9053
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: No, sorry. He was born in the 19th century.",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "dialogue_line",
+        "content": "C:IthinkIknow.ls it Benito Juarez?",
+        "confidence": 0.8731,
+        "bbox": {
+          "x": 0.064,
+          "y": 0.822257,
+          "width": 0.271333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "C:IthinkIknow.ls it Benito Juarez?",
+            "confidence": 0.8731
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "C: | think | know. Is it Benito Juarez?",
+            "confidence": 0.8678
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "label",
+        "content": "e",
+        "confidence": 0.82,
+        "bbox": {
+          "x": 0.211373,
+          "y": 0.859091,
+          "width": 0.005882,
+          "height": 0.004242
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0045",
+        "type": "heading",
+        "content": "Keep talking!",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.067059,
+          "y": 0.86,
+          "width": 0.2,
+          "height": 0.021515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Keep talking!",
+            "confidence": 0.9139
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Keep talking!",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0046",
+        "type": "sentence",
+        "content": "Student A go to page 141 and Student B go to page 145 for more practice.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.076471,
+          "y": 0.888485,
+          "width": 0.502353,
+          "height": 0.014848
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "StudentAgo to page14l and Student B go topage 145for morepractice.",
+            "confidence": 0.8885
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Student A go to page 141 and Student B go to page 145 for more practice.",
+            "confidence": 0.95
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0047",
+        "type": "label",
+        "content": "87",
+        "confidence": 0.6665,
+        "bbox": {
+          "x": 0.880667,
+          "y": 0.943328,
+          "width": 0.024,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [
+      {
+        "topic": "GrammarnWas/wereborn,pastofbe",
+        "rule": [
+          "He wasn't born in Argentina",
+          "They were born in the U.S.",
+          "They were from Argentina.",
+          "They weren’t born in Canada.",
+          "They weren't from Antarctica.",
+          "Was he born in Antarctica?",
+          "Were they Wimbledon champions in 2000?",
+          "Yes, he was.",
+          "Yes, they were.",
+          "No, they weren't.",
+          "with a partner.",
+          "an amazing French designer.",
+          "born in Germany.",
+          "a great director.",
+          "born in Mexico.",
+          "Ronald Reagan wasa British politician.(American)",
+          "3Artist Vincent van Gogh was born in the 20th century. (1gth century)",
+          "questions and guesses the person’s name. Take turns.",
+          "A: He was from Mexico. He was a politician.",
+          "A: No, sorry. He was born in the 19th century.",
+          "C:IthinkIknow.ls it Benito Juarez?",
+          "Student A go to page 141 and Student B go to page 145 for more practice."
+        ],
+        "form": null,
+        "positiveExamples": [
+          "GrammarnWas/wereborn,pastofbe",
+          "Where was Emilio Palma born? How long was Neil Armstrong on the moon?",
+          "He was born in Antarctica. He was there for two and a half hours.",
+          "He wasn’t born in Argentina. He wasn’t there for very long.",
+          "Where were Venus and Serena born? Where were his parents from?",
+          "A Complete the sentences with the correct past form of be. Then compare",
+          "B Correct the false sentences. Then compare with a partner.",
+          "_ He wasn't a British politician. He was an American politician. _",
+          "Choose a person from the past. Your group asks",
+          "B: Is it...?"
+        ],
+        "negativeExamples": [],
+        "questionForms": [],
+        "shortAnswers": [],
+        "exceptions": [],
+        "usageNotes": [],
+        "practice": [
+          "4 Diego Rivera and Frida Kahlo mai born in Mexico.",
+          "2 Zheng He was an early Chinese scientist. (explorer)",
+          "4 Gianni Versace and Yves Saint Laurent were explorers. (designers)",
+          "5 Venus and Serena Williams were born in the late 1970s. (early 1980s)",
+          "87"
+        ],
+        "confidence": 0.8988
+      }
+    ],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "They weren't from Antarctica.",
+            "confidence": 0.9039,
+            "bbox": {
+              "x": 0.524,
+              "y": 0.210201,
+              "width": 0.200667,
+              "height": 0.015456
+            },
+            "sourceElementId": "text_0011",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Yes, he was.",
+            "confidence": 0.8382,
+            "bbox": {
+              "x": 0.109333,
+              "y": 0.246265,
+              "width": 0.085333,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0014",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "No,he wasn't.",
+            "confidence": 0.8915,
+            "bbox": {
+              "x": 0.221333,
+              "y": 0.248326,
+              "width": 0.098667,
+              "height": 0.012365
+            },
+            "sourceElementId": "text_0015",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Yes, they were.",
+            "confidence": 0.8743,
+            "bbox": {
+              "x": 0.522667,
+              "y": 0.248841,
+              "width": 0.106,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0016",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "No, they weren't.",
+            "confidence": 0.9201,
+            "bbox": {
+              "x": 0.651333,
+              "y": 0.250386,
+              "width": 0.120667,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0017",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "_ He wasn't a British politician. He was an American politician. _",
+            "confidence": 0.9333,
+            "bbox": {
+              "x": 0.114902,
+              "y": 0.475152,
+              "width": 0.485098,
+              "height": 0.018788
+            },
+            "sourceElementId": "text_0032",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "A: He was from Mexico. He was a politician.",
+            "confidence": 0.9511,
+            "bbox": {
+              "x": 0.064706,
+              "y": 0.757273,
+              "width": 0.321176,
+              "height": 0.015455
+            },
+            "sourceElementId": "text_0040",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "B: Is it...?",
+            "confidence": 0.8231,
+            "bbox": {
+              "x": 0.064,
+              "y": 0.777434,
+              "width": 0.086,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0041",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "A: No, sorry. He was born in the 19th century.",
+            "confidence": 0.95,
+            "bbox": {
+              "x": 0.064706,
+              "y": 0.801818,
+              "width": 0.347843,
+              "height": 0.014242
+            },
+            "sourceElementId": "text_0042",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "C:IthinkIknow.ls it Benito Juarez?",
+            "confidence": 0.8731,
+            "bbox": {
+              "x": 0.064,
+              "y": 0.822257,
+              "width": 0.271333,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0043",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "writing_activity",
+        "instruction": "Complete the sentences with the correct past form of be. Then compare",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0018"
+        ],
+        "confidence": 0.9292
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "exercise",
+        "instruction": "Correct the false sentences. Then compare with a partner.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0030"
+        ],
+        "confidence": 0.955
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "They weren’t born in Canada.",
+          "They weren't from Antarctica.",
+          "Was he born in Antarctica?",
+          "Were they Wimbledon champions in 2000?",
+          "Yes, he was.",
+          "No,he wasn't.",
+          "Yes, they were.",
+          "No, they weren't.",
+          "A Complete the sentences with the correct past form of be. Then compare",
+          "with a partner.",
+          "Coco Chanel",
+          "an amazing French designer.",
+          "Albert Einstein",
+          "born in Germany.",
+          "AlfredHitchcock",
+          "a great director.",
+          "born in Mexico.",
+          "4 Diego Rivera and Frida Kahlo mai born in Mexico.",
+          "MozartandBeethoven",
+          "famous composers."
+        ],
+        "position": {
+          "x": 0.046275,
+          "y": 0.186061,
+          "width": 0.7623920000000001,
+          "height": 0.260008
+        },
+        "textElementIds": [
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "B Correct the false sentences. Then compare with a partner.",
+          "Ronald Reagan wasa British politician.(American)",
+          "_ He wasn't a British politician. He was an American politician. _",
+          "2 Zheng He was an early Chinese scientist. (explorer)",
+          "3Artist Vincent van Gogh was born in the 20th century. (1gth century)",
+          "4 Gianni Versace and Yves Saint Laurent were explorers. (designers)",
+          "5 Venus and Serena Williams were born in the late 1970s. (early 1980s)"
+        ],
+        "position": {
+          "x": 0.04705899999999999,
+          "y": 0.417879,
+          "width": 0.572941,
+          "height": 0.24302999999999997
+        },
+        "textElementIds": [
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Speaking Famouspeople",
+          "Choose a person from the past. Your group asks",
+          "questions and guesses the person’s name. Take turns.",
+          "A: He was from Mexico. He was a politician.",
+          "B: Is it...?",
+          "A: No, sorry. He was born in the 19th century.",
+          "C:IthinkIknow.ls it Benito Juarez?",
+          "e",
+          "Keep talking!"
+        ],
+        "position": {
+          "x": 0.041999999999999996,
+          "y": 0.660577,
+          "width": 0.47407800000000005,
+          "height": 0.24093799999999999
+        },
+        "textElementIds": [
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040",
+          "text_0041",
+          "text_0042",
+          "text_0043",
+          "text_0044",
+          "text_0045"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "unit\nGrammarnWas/wereborn,pastofbe\nWherewas Emilio Palma born?\nHow longwas Neil Armstrong on themoon?\nHe was born in Antarctica.\nHe was there for two and a hatf hours.\nHe wasn't born in Argentina\nHe wasn't there for very long.\nWhere were Venus and Serena born?\nWhere were his parents from?\nThey were born in the U.S.\nThey were from Argentina.\nThey weren't born in Canada.\nThey weren't from Antarctica.\nWas he born in Antarctica?\nWere they Wimbledon champions in 2000?\nYes, he was.\nNo,he wasn't.\nYes, they were.\nNo, they weren't.\nA Complete the sentences with the correct past form of be.Then compare\nwith a partner.\nCoco Chanel\nan amazing French designer.\nAlbert Einstein\nborn in Germany.\nAlfredHitchcock\na great director.\nDiego Rivera and Frida Kahlo\nborn in Mexico.\nMozartandBeethoven\nfamous composers.\nB Correct the false sentences.Then compare with a partner.\nRonald Reagan wasa British politician.(American)\nHe wasn't a British politician. He was an American politician\n2 Zheng He was an early Chinese scientist. (explorer)\n3Artist Vincent van Gogh was born in the 20th century. (1gth century)\nGianni Versace and Yves Saint Laurent were explorers.(designers)\nVenus and SerenaWilliams wereborn in the late1970s.(early1980s)\nSpeaking Famouspeople\nGRoupWoRKChooseapersonfromthepast.Yourgroupasks\nquestions and guesses theperson's name.Take turns.\nA: He was from Mexico. He was a politician.\nB: Is it...?\nA: No, sorry. He was born in the 19th century.\nC:IthinkIknow.ls it Benito Juarez?\nKeep talking!\nStudentAgo to page14l and Student B go topage 145for morepractice.\n87\ndehkhodaedu.comask and talk about people from the past.",
+      "tesseract_psm3": "unit\n\n3 | Grammar © Was/ were born; past of be\n\nWhere was Emilio Palma born? How long was Neil Armstrong on the moon?\nHe was born in Antarctica. He was there for two and a half hours.\nHe wasn’t born in Argentina. He wasn’t there for very long.\n\nWhere were Venus and Serena born? Where were his parents from?\n\nThey were born in the U.S.\nThey weren’t born in Canada.\nWas he born in Antarctica?\n\nYes, he was. No, he wasn’t.\n\nA Complete the sentences with the correct past form of be. Then compare\nwith a partner.\n\n1 Coco Chanel an amazing French designer.\n\n2 Albert Einstein = stborn in Germany.\n\n3 Alfred Hitchcock _..__.-_===__=+==— sa great director.\n\n4 Diego Rivera and Frida Kahlo mai born in Mexico.\n5 Mozart and Beethoven... Ss famous composers.\n\nB Correct the false sentences. Then compare with a partner.\n\n1 Ronald Reagan was a British politician. (American)\n_ He wasn't a British politician. He was an American politician. _\n\n2 Zheng He was an early Chinese scientist. (explorer)\n\n3 Artist Vincent van Gogh was born in the 20* century. (19\" century)\n\n4 Gianni Versace and Yves Saint Laurent were explorers. (designers)\n\n5 Venus and Serena Williams were born in the late 1970s. (early 1980s)\n\nChoose a person from the past. Your group asks\nquestions and guesses the person’s name. Take turns.\n\nA: He was from Mexico. He was a politician.\n\nB:Isit...?\n\nA: No, sorry. He was born in the 19th century.\n\nC: | think | know. Is it Benito Juarez?\n\ne\nKeep talking!\nStudent A go to page 141 and Student B go to page 145 for more practice.\n\n\\Gerresk and talk about people from the past. ) di\n\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8995,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "1 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "grammar",
+    "headings": [
+      "unit",
+      "Grammarn Was/wereborn, pastofbe",
+      "Where was Emilio Palma born? How long was Neil Armstrong on the moon?",
+      "Speaking Famouspeople",
+      "Keep talking!"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.827451,
+          "y": 0.022121,
+          "width": 0.030196,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "unit",
+            "confidence": 0.7991
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "unit",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Grammarn Was/wereborn, pastofbe",
+        "confidence": 0.8838,
+        "bbox": {
+          "x": 0.066667,
+          "y": 0.081917,
+          "width": 0.543333,
+          "height": 0.02473
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 | Grammar © Was/ were born; past of be",
+            "confidence": 0.795
+          },
+          {
+            "engine": "rapidocr",
+            "content": "GrammarnWas/wereborn,pastofbe",
+            "confidence": 0.8838
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Where was Emilio Palma born? How long was Neil Armstrong on the moon?",
+        "confidence": 0.9354,
+        "bbox": {
+          "x": 0.090588,
+          "y": 0.119394,
+          "width": 0.705882,
+          "height": 0.017879
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Wherewas Emilio Palma born?",
+            "confidence": 0.8706
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Where was Emilio Palma born? How long was Neil Armstrong on the moon?",
+            "confidence": 0.9354
+          },
+          {
+            "engine": "rapidocr",
+            "content": "How longwas Neil Armstrong on themoon?",
+            "confidence": 0.8707
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "sentence",
+        "content": "He was born in Antarctica. He was there for two and a half hours.",
+        "confidence": 0.935,
+        "bbox": {
+          "x": 0.113725,
+          "y": 0.136667,
+          "width": 0.66549,
+          "height": 0.017879
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "He was born in Antarctica.",
+            "confidence": 0.8462
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "He was born in Antarctica. He was there for two and a half hours.",
+            "confidence": 0.935
+          },
+          {
+            "engine": "rapidocr",
+            "content": "He was there for two and a hatf hours.",
+            "confidence": 0.8668
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "He wasn't born in Argentina",
+        "confidence": 0.8995,
+        "bbox": {
+          "x": 0.110667,
+          "y": 0.152499,
+          "width": 0.194,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "sentence",
+        "content": "He wasn't born in Argentina. He wasn't there for very long.",
+        "confidence": 0.9491,
+        "bbox": {
+          "x": 0.113333,
+          "y": 0.154545,
+          "width": 0.61098,
+          "height": 0.016364
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "He wasn't there for very long.",
+            "confidence": 0.8608
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "He wasn’t born in Argentina. He wasn’t there for very long.",
+            "confidence": 0.9491
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "sentence",
+        "content": "Where were Venus and Serena born? Where were his parents from?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.089804,
+          "y": 0.171515,
+          "width": 0.611765,
+          "height": 0.020909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Where were Venus and Serena born? Where were his parents from?",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Where were Venus and Serena born?",
+            "confidence": 0.8834
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Where were his parents from?",
+            "confidence": 0.8693
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "sentence",
+        "content": "They were born in the U. S.",
+        "confidence": 0.9583,
+        "bbox": {
+          "x": 0.112941,
+          "y": 0.192424,
+          "width": 0.178039,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "They were born in the U.S.",
+            "confidence": 0.9079
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "They were born in the U.S.",
+            "confidence": 0.9583
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "They were from Argentina.",
+        "confidence": 0.8717,
+        "bbox": {
+          "x": 0.524667,
+          "y": 0.192684,
+          "width": 0.178,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "They weren't born in Canada.",
+        "confidence": 0.938,
+        "bbox": {
+          "x": 0.112549,
+          "y": 0.206061,
+          "width": 0.200784,
+          "height": 0.020606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "They weren’t born in Canada.",
+            "confidence": 0.938
+          },
+          {
+            "engine": "rapidocr",
+            "content": "They weren't born in Canada.",
+            "confidence": 0.9083
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "They weren't from Antarctica.",
+        "confidence": 0.9039,
+        "bbox": {
+          "x": 0.524,
+          "y": 0.210201,
+          "width": 0.200667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "Was he born in Antarctica?",
+        "confidence": 0.91,
+        "bbox": {
+          "x": 0.089412,
+          "y": 0.229697,
+          "width": 0.183529,
+          "height": 0.015455
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Was he born in Antarctica?",
+            "confidence": 0.8651
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Was he born in Antarctica?",
+            "confidence": 0.91
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Yes, he was. No, he wasn’t.",
+            "confidence": 0.6517
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "sentence",
+        "content": "Were they Wimbledon champions in 2000?",
+        "confidence": 0.8997,
+        "bbox": {
+          "x": 0.5,
+          "y": 0.231324,
+          "width": 0.288667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "Yes, he was.",
+        "confidence": 0.8382,
+        "bbox": {
+          "x": 0.109333,
+          "y": 0.246265,
+          "width": 0.085333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "No, he wasn't.",
+        "confidence": 0.8915,
+        "bbox": {
+          "x": 0.221333,
+          "y": 0.248326,
+          "width": 0.098667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "Yes, they were.",
+        "confidence": 0.8743,
+        "bbox": {
+          "x": 0.522667,
+          "y": 0.248841,
+          "width": 0.106,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "No, they weren't.",
+        "confidence": 0.9201,
+        "bbox": {
+          "x": 0.651333,
+          "y": 0.250386,
+          "width": 0.120667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "sentence",
+        "content": "A Complete the sentences with the correct past form of be. Then compare",
+        "confidence": 0.9292,
+        "bbox": {
+          "x": 0.066275,
+          "y": 0.287576,
+          "width": 0.518039,
+          "height": 0.016364
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Complete the sentences with the correct past form of be.Then compare",
+            "confidence": 0.9032
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Complete the sentences with the correct past form of be. Then compare",
+            "confidence": 0.9292
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "with a partner.",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.089804,
+          "y": 0.306364,
+          "width": 0.100392,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "with a partner.",
+            "confidence": 0.8438
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "with a partner.",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "Coco Chanel",
+        "confidence": 0.8122,
+        "bbox": {
+          "x": 0.099333,
+          "y": 0.326121,
+          "width": 0.1,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "an amazing French designer.",
+        "confidence": 0.889,
+        "bbox": {
+          "x": 0.370667,
+          "y": 0.326636,
+          "width": 0.197333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "an amazing French designer.",
+            "confidence": 0.889
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Coco Chanel an amazing French designer.",
+            "confidence": 0.6971
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "Albert Einstein",
+        "confidence": 0.8427,
+        "bbox": {
+          "x": 0.11,
+          "y": 0.346728,
+          "width": 0.102,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Albert Einstein",
+            "confidence": 0.8427
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Albert Einstein = stborn in Germany.",
+            "confidence": 0.5957
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "born in Germany.",
+        "confidence": 0.8967,
+        "bbox": {
+          "x": 0.386,
+          "y": 0.347244,
+          "width": 0.120667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "Alfred Hitchcock",
+        "confidence": 0.8489,
+        "bbox": {
+          "x": 0.111333,
+          "y": 0.368367,
+          "width": 0.112667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "AlfredHitchcock",
+            "confidence": 0.8489
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Alfred Hitchcock _..__.-_===__=+==— sa great director.",
+            "confidence": 0.5686
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "a great director.",
+        "confidence": 0.8562,
+        "bbox": {
+          "x": 0.398,
+          "y": 0.369912,
+          "width": 0.11,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "born in Mexico.",
+        "confidence": 0.8303,
+        "bbox": {
+          "x": 0.480667,
+          "y": 0.38949,
+          "width": 0.106667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "sentence",
+        "content": "4 Diego Rivera and Frida Kahlo mai born in Mexico.",
+        "confidence": 0.843,
+        "bbox": {
+          "x": 0.088627,
+          "y": 0.390606,
+          "width": 0.497647,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Diego Rivera and Frida Kahlo",
+            "confidence": 0.8528
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 Diego Rivera and Frida Kahlo mai born in Mexico.",
+            "confidence": 0.843
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "Mozartand Beethoven",
+        "confidence": 0.8882,
+        "bbox": {
+          "x": 0.109333,
+          "y": 0.409583,
+          "width": 0.158,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "MozartandBeethoven",
+            "confidence": 0.8882
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 Mozart and Beethoven... Ss famous composers.",
+            "confidence": 0.5343
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "famous composers.",
+        "confidence": 0.9257,
+        "bbox": {
+          "x": 0.44,
+          "y": 0.410613,
+          "width": 0.136,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "sentence",
+        "content": "B Correct the false sentences. Then compare with a partner.",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.067059,
+          "y": 0.437879,
+          "width": 0.421176,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B Correct the false sentences.Then compare with a partner.",
+            "confidence": 0.9073
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Correct the false sentences. Then compare with a partner.",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "Ronald Reagan wasa British politician.(American)",
+        "confidence": 0.897,
+        "bbox": {
+          "x": 0.108,
+          "y": 0.458527,
+          "width": 0.343333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Ronald Reagan wasa British politician.(American)",
+            "confidence": 0.897
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Ronald Reagan was a British politician. (American)",
+            "confidence": 0.905
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "sentence",
+        "content": "He wasn't a British politician. He was an American politician.",
+        "confidence": 0.9333,
+        "bbox": {
+          "x": 0.114902,
+          "y": 0.475152,
+          "width": 0.485098,
+          "height": 0.018788
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "He wasn't a British politician. He was an American politician",
+            "confidence": 0.9072
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "_ He wasn't a British politician. He was an American politician. _",
+            "confidence": 0.9333
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "sentence",
+        "content": "2 Zheng He was an early Chinese scientist. (explorer)",
+        "confidence": 0.9255,
+        "bbox": {
+          "x": 0.086,
+          "y": 0.500258,
+          "width": 0.368,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2 Zheng He was an early Chinese scientist. (explorer)",
+            "confidence": 0.9255
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Zheng He was an early Chinese scientist. (explorer)",
+            "confidence": 0.9267
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "sentence",
+        "content": "3Artist Vincent van Gogh was born in the 20th century. (1gth century)",
+        "confidence": 0.8899,
+        "bbox": {
+          "x": 0.085333,
+          "y": 0.540958,
+          "width": 0.47,
+          "height": 0.017517
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3Artist Vincent van Gogh was born in the 20th century. (1gth century)",
+            "confidence": 0.8899
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Artist Vincent van Gogh was born in the 20* century. (19\" century)",
+            "confidence": 0.8408
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "sentence",
+        "content": "4 Gianni Versace and Yves Saint Laurent were explorers. (designers)",
+        "confidence": 0.952,
+        "bbox": {
+          "x": 0.088235,
+          "y": 0.586061,
+          "width": 0.464314,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Gianni Versace and Yves Saint Laurent were explorers.(designers)",
+            "confidence": 0.9302
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 Gianni Versace and Yves Saint Laurent were explorers. (designers)",
+            "confidence": 0.952
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "sentence",
+        "content": "5 Venus and Serena Williams were born in the late 1970s. (early 1980s)",
+        "confidence": 0.9154,
+        "bbox": {
+          "x": 0.088235,
+          "y": 0.627879,
+          "width": 0.481961,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Venus and SerenaWilliams wereborn in the late1970s.(early1980s)",
+            "confidence": 0.8978
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 Venus and Serena Williams were born in the late 1970s. (early 1980s)",
+            "confidence": 0.9154
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "heading",
+        "content": "Speaking Famouspeople",
+        "confidence": 0.8268,
+        "bbox": {
+          "x": 0.062,
+          "y": 0.680577,
+          "width": 0.363333,
+          "height": 0.025245
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "instruction",
+        "content": "Choose a person from the past. Your group asks",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.167451,
+          "y": 0.71697,
+          "width": 0.328627,
+          "height": 0.016667
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "GRoupWoRKChooseapersonfromthepast.Yourgroupasks",
+            "confidence": 0.8917
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Choose a person from the past. Your group asks",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "sentence",
+        "content": "questions and guesses the person's name. Take turns.",
+        "confidence": 0.9512,
+        "bbox": {
+          "x": 0.06549,
+          "y": 0.736364,
+          "width": 0.371373,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "questions and guesses theperson's name.Take turns.",
+            "confidence": 0.9041
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "questions and guesses the person’s name. Take turns.",
+            "confidence": 0.9512
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "dialogue_line",
+        "content": "A: He was from Mexico. He was a politician.",
+        "confidence": 0.9511,
+        "bbox": {
+          "x": 0.064706,
+          "y": 0.757273,
+          "width": 0.321176,
+          "height": 0.015455
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: He was from Mexico. He was a politician.",
+            "confidence": 0.9197
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: He was from Mexico. He was a politician.",
+            "confidence": 0.9511
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "dialogue_line",
+        "content": "B: Is it...?",
+        "confidence": 0.8231,
+        "bbox": {
+          "x": 0.064,
+          "y": 0.777434,
+          "width": 0.086,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B: Is it...?",
+            "confidence": 0.8231
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B:Isit...?",
+            "confidence": 0.16
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "dialogue_line",
+        "content": "A: No, sorry. He was born in the 19th century.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.064706,
+          "y": 0.801818,
+          "width": 0.347843,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: No, sorry. He was born in the 19th century.",
+            "confidence": 0.9053
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: No, sorry. He was born in the 19th century.",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "dialogue_line",
+        "content": "C: Ithink Iknow. ls it Benito Juarez?",
+        "confidence": 0.8731,
+        "bbox": {
+          "x": 0.064,
+          "y": 0.822257,
+          "width": 0.271333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "C:IthinkIknow.ls it Benito Juarez?",
+            "confidence": 0.8731
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "C: | think | know. Is it Benito Juarez?",
+            "confidence": 0.8678
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "label",
+        "content": "e",
+        "confidence": 0.82,
+        "bbox": {
+          "x": 0.211373,
+          "y": 0.859091,
+          "width": 0.005882,
+          "height": 0.004242
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0045",
+        "type": "heading",
+        "content": "Keep talking!",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.067059,
+          "y": 0.86,
+          "width": 0.2,
+          "height": 0.021515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Keep talking!",
+            "confidence": 0.9139
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Keep talking!",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0046",
+        "type": "sentence",
+        "content": "Student A go to page 141 and Student B go to page 145 for more practice.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.076471,
+          "y": 0.888485,
+          "width": 0.502353,
+          "height": 0.014848
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "StudentAgo to page14l and Student B go topage 145for morepractice.",
+            "confidence": 0.8885
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Student A go to page 141 and Student B go to page 145 for more practice.",
+            "confidence": 0.95
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0047",
+        "type": "audio_track",
+        "content": "87",
+        "confidence": 0.6665,
+        "bbox": {
+          "x": 0.880667,
+          "y": 0.943328,
+          "width": 0.024,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "fullTextReadingOrder": [
+      "unit",
+      "Grammarn Was/wereborn, pastofbe",
+      "Where was Emilio Palma born? How long was Neil Armstrong on the moon?",
+      "He was born in Antarctica. He was there for two and a half hours.",
+      "He wasn't born in Argentina",
+      "He wasn't born in Argentina. He wasn't there for very long.",
+      "Where were Venus and Serena born? Where were his parents from?",
+      "They were born in the U. S.",
+      "They were from Argentina.",
+      "They weren't born in Canada.",
+      "They weren't from Antarctica.",
+      "Was he born in Antarctica?",
+      "Were they Wimbledon champions in 2000?",
+      "Yes, he was.",
+      "No, he wasn't.",
+      "Yes, they were.",
+      "No, they weren't.",
+      "A Complete the sentences with the correct past form of be. Then compare",
+      "with a partner.",
+      "Coco Chanel",
+      "an amazing French designer.",
+      "Albert Einstein",
+      "born in Germany.",
+      "Alfred Hitchcock",
+      "a great director.",
+      "born in Mexico.",
+      "4 Diego Rivera and Frida Kahlo mai born in Mexico.",
+      "Mozartand Beethoven",
+      "famous composers.",
+      "B Correct the false sentences. Then compare with a partner.",
+      "Ronald Reagan wasa British politician.(American)",
+      "He wasn't a British politician. He was an American politician.",
+      "2 Zheng He was an early Chinese scientist. (explorer)",
+      "3Artist Vincent van Gogh was born in the 20th century. (1gth century)",
+      "4 Gianni Versace and Yves Saint Laurent were explorers. (designers)",
+      "5 Venus and Serena Williams were born in the late 1970s. (early 1980s)",
+      "Speaking Famouspeople",
+      "Choose a person from the past. Your group asks",
+      "questions and guesses the person's name. Take turns.",
+      "A: He was from Mexico. He was a politician.",
+      "B: Is it...?",
+      "A: No, sorry. He was born in the 19th century.",
+      "C: Ithink Iknow. ls it Benito Juarez?",
+      "e",
+      "Keep talking!",
+      "Student A go to page 141 and Student B go to page 145 for more practice."
+    ],
+    "paragraphs": [],
+    "sentences": [
+      "unit Grammarn Was/wereborn, pastofbe Where was Emilio Palma born",
+      "How long was Neil Armstrong on the moon",
+      "He was born in Antarctica",
+      "He was there for two and a half hours",
+      "He wasn't born in Argentina He wasn't born in Argentina",
+      "He wasn't there for very long",
+      "Where were Venus and Serena born",
+      "Where were his parents from",
+      "They were born in the U",
+      "S",
+      "They were from Argentina",
+      "They weren't born in Canada",
+      "They weren't from Antarctica",
+      "Was he born in Antarctica",
+      "Were they Wimbledon champions in 2000",
+      "Yes, he was",
+      "No, he wasn't",
+      "Yes, they were",
+      "No, they weren't",
+      "A Complete the sentences with the correct past form of be",
+      "Then compare with a partner",
+      "Coco Chanel an amazing French designer",
+      "Albert Einstein born in Germany",
+      "Alfred Hitchcock a great director",
+      "born in Mexico",
+      "4 Diego Rivera and Frida Kahlo mai born in Mexico",
+      "Mozartand Beethoven famous composers",
+      "B Correct the false sentences",
+      "Then compare with a partner",
+      "Ronald Reagan wasa British politician",
+      "(American) He wasn't a British politician",
+      "He was an American politician",
+      "2 Zheng He was an early Chinese scientist",
+      "(explorer) 3Artist Vincent van Gogh was born in the 20th century",
+      "(1gth century) 4 Gianni Versace and Yves Saint Laurent were explorers",
+      "(designers) 5 Venus and Serena Williams were born in the late 1970s",
+      "(early 1980s) Speaking Famouspeople Choose a person from the past",
+      "Your group asks questions and guesses the person's name",
+      "Take turns",
+      "A: He was from Mexico",
+      "He was a politician",
+      "B: Is it",
+      "A: No, sorry",
+      "He was born in the 19th century",
+      "C: Ithink Iknow",
+      "ls it Benito Juarez",
+      "e Keep talking",
+      "Student A go to page 141 and Student B go to page 145 for more practice"
+    ],
+    "vocabulary": [],
+    "grammar": [
+      {
+        "topic": "Was/were born; past of be",
+        "rule": [
+          "He wasn't born in Argentina",
+          "They were born in the U. S.",
+          "They were from Argentina.",
+          "They weren't born in Canada.",
+          "They weren't from Antarctica.",
+          "Was he born in Antarctica?",
+          "Were they Wimbledon champions in 2000?",
+          "Yes, he was.",
+          "Yes, they were.",
+          "No, they weren't.",
+          "with a partner.",
+          "an amazing French designer.",
+          "born in Germany.",
+          "a great director.",
+          "born in Mexico.",
+          "Ronald Reagan wasa British politician.(American)",
+          "3Artist Vincent van Gogh was born in the 20th century. (1gth century)",
+          "questions and guesses the person's name. Take turns.",
+          "A: He was from Mexico. He was a politician.",
+          "A: No, sorry. He was born in the 19th century.",
+          "C: Ithink Iknow. ls it Benito Juarez?",
+          "Student A go to page 141 and Student B go to page 145 for more practice."
+        ],
+        "positiveExamples": [
+          "Grammarn Was/wereborn, pastofbe",
+          "Where was Emilio Palma born? How long was Neil Armstrong on the moon?",
+          "He was born in Antarctica. He was there for two and a half hours.",
+          "He wasn't born in Argentina. He wasn't there for very long.",
+          "Where were Venus and Serena born? Where were his parents from?",
+          "A Complete the sentences with the correct past form of be. Then compare",
+          "B Correct the false sentences. Then compare with a partner.",
+          "He wasn't a British politician. He was an American politician.",
+          "Choose a person from the past. Your group asks",
+          "B: Is it...?"
+        ],
+        "usageNotes": [],
+        "practice": [
+          "4 Diego Rivera and Frida Kahlo mai born in Mexico.",
+          "2 Zheng He was an early Chinese scientist. (explorer)",
+          "4 Gianni Versace and Yves Saint Laurent were explorers. (designers)",
+          "5 Venus and Serena Williams were born in the late 1970s. (early 1980s)",
+          "87"
+        ]
+      }
+    ],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "They weren't from Antarctica.",
+            "confidence": 0.9039,
+            "bbox": {
+              "x": 0.524,
+              "y": 0.210201,
+              "width": 0.200667,
+              "height": 0.015456
+            },
+            "sourceElementId": "text_0011"
+          },
+          {
+            "speaker": null,
+            "content": "Yes, he was.",
+            "confidence": 0.8382,
+            "bbox": {
+              "x": 0.109333,
+              "y": 0.246265,
+              "width": 0.085333,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0014"
+          },
+          {
+            "speaker": null,
+            "content": "No, he wasn't.",
+            "confidence": 0.8915,
+            "bbox": {
+              "x": 0.221333,
+              "y": 0.248326,
+              "width": 0.098667,
+              "height": 0.012365
+            },
+            "sourceElementId": "text_0015"
+          },
+          {
+            "speaker": null,
+            "content": "Yes, they were.",
+            "confidence": 0.8743,
+            "bbox": {
+              "x": 0.522667,
+              "y": 0.248841,
+              "width": 0.106,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0016"
+          },
+          {
+            "speaker": null,
+            "content": "No, they weren't.",
+            "confidence": 0.9201,
+            "bbox": {
+              "x": 0.651333,
+              "y": 0.250386,
+              "width": 0.120667,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0017"
+          },
+          {
+            "speaker": null,
+            "content": "He wasn't a British politician.",
+            "confidence": 0.9333,
+            "bbox": {
+              "x": 0.114902,
+              "y": 0.475152,
+              "width": 0.485098,
+              "height": 0.018788
+            },
+            "sourceElementId": "text_0032"
+          },
+          {
+            "speaker": null,
+            "content": "He was an American politician.",
+            "confidence": 0.9333,
+            "bbox": {
+              "x": 0.114902,
+              "y": 0.475152,
+              "width": 0.485098,
+              "height": 0.018788
+            },
+            "sourceElementId": "text_0032"
+          },
+          {
+            "speaker": null,
+            "content": "A: He was from Mexico.",
+            "confidence": 0.9511,
+            "bbox": {
+              "x": 0.064706,
+              "y": 0.757273,
+              "width": 0.321176,
+              "height": 0.015455
+            },
+            "sourceElementId": "text_0040"
+          },
+          {
+            "speaker": null,
+            "content": "He was a politician.",
+            "confidence": 0.9511,
+            "bbox": {
+              "x": 0.064706,
+              "y": 0.757273,
+              "width": 0.321176,
+              "height": 0.015455
+            },
+            "sourceElementId": "text_0040"
+          },
+          {
+            "speaker": null,
+            "content": "B: Is it...?",
+            "confidence": 0.8231,
+            "bbox": {
+              "x": 0.064,
+              "y": 0.777434,
+              "width": 0.086,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0041"
+          },
+          {
+            "speaker": null,
+            "content": "A: No, sorry.",
+            "confidence": 0.95,
+            "bbox": {
+              "x": 0.064706,
+              "y": 0.801818,
+              "width": 0.347843,
+              "height": 0.014242
+            },
+            "sourceElementId": "text_0042"
+          },
+          {
+            "speaker": null,
+            "content": "He was born in the 19th century.",
+            "confidence": 0.95,
+            "bbox": {
+              "x": 0.064706,
+              "y": 0.801818,
+              "width": 0.347843,
+              "height": 0.014242
+            },
+            "sourceElementId": "text_0042"
+          },
+          {
+            "speaker": null,
+            "content": "C: Ithink Iknow. ls it Benito Juarez?",
+            "confidence": 0.8731,
+            "bbox": {
+              "x": 0.064,
+              "y": 0.822257,
+              "width": 0.271333,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0043"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "writing_activity",
+        "instruction": "Complete the sentences with the correct past form of be. Then compare",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "true_false",
+        "instruction": "Correct the false sentences. Then compare with a partner.",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "They weren't born in Canada.",
+          "They weren't from Antarctica.",
+          "Was he born in Antarctica?",
+          "Were they Wimbledon champions in 2000?",
+          "Yes, he was.",
+          "No, he wasn't.",
+          "Yes, they were.",
+          "No, they weren't.",
+          "A Complete the sentences with the correct past form of be. Then compare",
+          "with a partner.",
+          "Coco Chanel",
+          "an amazing French designer.",
+          "Albert Einstein",
+          "born in Germany.",
+          "Alfred Hitchcock",
+          "a great director.",
+          "born in Mexico.",
+          "4 Diego Rivera and Frida Kahlo mai born in Mexico.",
+          "Mozartand Beethoven",
+          "famous composers."
+        ],
+        "position": {
+          "x": 0.046275,
+          "y": 0.186061,
+          "width": 0.7623920000000001,
+          "height": 0.260008
+        },
+        "textElementIds": [
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "B Correct the false sentences. Then compare with a partner.",
+          "Ronald Reagan wasa British politician.(American)",
+          "He wasn't a British politician. He was an American politician.",
+          "2 Zheng He was an early Chinese scientist. (explorer)",
+          "3Artist Vincent van Gogh was born in the 20th century. (1gth century)",
+          "4 Gianni Versace and Yves Saint Laurent were explorers. (designers)",
+          "5 Venus and Serena Williams were born in the late 1970s. (early 1980s)"
+        ],
+        "position": {
+          "x": 0.04705899999999999,
+          "y": 0.417879,
+          "width": 0.572941,
+          "height": 0.24302999999999997
+        },
+        "textElementIds": [
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Speaking Famouspeople",
+          "Choose a person from the past. Your group asks",
+          "questions and guesses the person's name. Take turns.",
+          "A: He was from Mexico. He was a politician.",
+          "B: Is it...?",
+          "A: No, sorry. He was born in the 19th century.",
+          "C: Ithink Iknow. ls it Benito Juarez?",
+          "e",
+          "Keep talking!"
+        ],
+        "position": {
+          "x": 0.041999999999999996,
+          "y": 0.660577,
+          "width": 0.47407800000000005,
+          "height": 0.24093799999999999
+        },
+        "textElementIds": [
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040",
+          "text_0041",
+          "text_0042",
+          "text_0043",
+          "text_0044",
+          "text_0045"
+        ]
+      }
+    ],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "grammar",
+    "title": "unit",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [
+      {
+        "topic": "Was/were born; past of be",
+        "rule": [
+          "He wasn't born in Argentina",
+          "They were born in the U. S.",
+          "They were from Argentina.",
+          "They weren't born in Canada.",
+          "They weren't from Antarctica.",
+          "Was he born in Antarctica?",
+          "Were they Wimbledon champions in 2000?",
+          "Yes, he was.",
+          "Yes, they were.",
+          "No, they weren't.",
+          "with a partner.",
+          "an amazing French designer.",
+          "born in Germany.",
+          "a great director.",
+          "born in Mexico.",
+          "Ronald Reagan wasa British politician.(American)",
+          "3Artist Vincent van Gogh was born in the 20th century. (1gth century)",
+          "questions and guesses the person's name. Take turns.",
+          "A: He was from Mexico. He was a politician.",
+          "A: No, sorry. He was born in the 19th century.",
+          "C: Ithink Iknow. ls it Benito Juarez?",
+          "Student A go to page 141 and Student B go to page 145 for more practice."
+        ],
+        "positiveExamples": [
+          "Grammarn Was/wereborn, pastofbe",
+          "Where was Emilio Palma born? How long was Neil Armstrong on the moon?",
+          "He was born in Antarctica. He was there for two and a half hours.",
+          "He wasn't born in Argentina. He wasn't there for very long.",
+          "Where were Venus and Serena born? Where were his parents from?",
+          "A Complete the sentences with the correct past form of be. Then compare",
+          "B Correct the false sentences. Then compare with a partner.",
+          "He wasn't a British politician. He was an American politician.",
+          "Choose a person from the past. Your group asks",
+          "B: Is it...?"
+        ],
+        "usageNotes": [],
+        "practice": [
+          "4 Diego Rivera and Frida Kahlo mai born in Mexico.",
+          "2 Zheng He was an early Chinese scientist. (explorer)",
+          "4 Gianni Versace and Yves Saint Laurent were explorers. (designers)",
+          "5 Venus and Serena Williams were born in the late 1970s. (early 1980s)",
+          "87"
+        ]
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "They weren't from Antarctica.",
+            "confidence": 0.9039
+          },
+          {
+            "speaker": null,
+            "content": "Yes, he was.",
+            "confidence": 0.8382
+          },
+          {
+            "speaker": null,
+            "content": "No, he wasn't.",
+            "confidence": 0.8915
+          },
+          {
+            "speaker": null,
+            "content": "Yes, they were.",
+            "confidence": 0.8743
+          },
+          {
+            "speaker": null,
+            "content": "No, they weren't.",
+            "confidence": 0.9201
+          },
+          {
+            "speaker": null,
+            "content": "He wasn't a British politician.",
+            "confidence": 0.9333
+          },
+          {
+            "speaker": null,
+            "content": "He was an American politician.",
+            "confidence": 0.9333
+          },
+          {
+            "speaker": null,
+            "content": "A: He was from Mexico.",
+            "confidence": 0.9511
+          },
+          {
+            "speaker": null,
+            "content": "He was a politician.",
+            "confidence": 0.9511
+          },
+          {
+            "speaker": null,
+            "content": "B: Is it...?",
+            "confidence": 0.8231
+          },
+          {
+            "speaker": null,
+            "content": "A: No, sorry.",
+            "confidence": 0.95
+          },
+          {
+            "speaker": null,
+            "content": "He was born in the 19th century.",
+            "confidence": 0.95
+          },
+          {
+            "speaker": null,
+            "content": "C: Ithink Iknow. ls it Benito Juarez?",
+            "confidence": 0.8731
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "writing_activity",
+        "instruction": "Complete the sentences with the correct past form of be. Then compare",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "true_false",
+        "instruction": "Correct the false sentences. Then compare with a partner.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "1 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "dialoguesSplit": 6,
+      "grammarTopicOverride": 1
+    },
+    "averageOcrConfidence": 0.8995,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 2 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc2_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

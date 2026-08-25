@@ -1,0 +1,550 @@
+{
+  "pageNumber": 1,
+  "pageNumberDetected": false,
+  "pageNumberDetectionMethod": "fallback to PDF page number; printed book number not confidently detected",
+  "pdfPageNumber": 1,
+  "source": {
+    "pdfFile": "family and friends Starter CB_Part1.pdf",
+    "pdfLocalPageNumber": 1,
+    "pageSizePoints": {
+      "width": 737.28,
+      "height": 929.28
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "2nd Edition",
+        "confidence": 0.8757,
+        "bbox": {
+          "x": 0.348667,
+          "y": 0.062434,
+          "width": 0.17,
+          "height": 0.034921
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "label",
+        "content": "Friends",
+        "confidence": 0.8605,
+        "bbox": {
+          "x": 0.173333,
+          "y": 0.234392,
+          "width": 0.627333,
+          "height": 0.163492
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "and",
+            "confidence": 0.7464
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Friends",
+            "confidence": 0.8605
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Starter",
+        "confidence": 0.8572,
+        "bbox": {
+          "x": 0.562,
+          "y": 0.351852,
+          "width": 0.201333,
+          "height": 0.040212
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "Class Book",
+        "confidence": 0.8911,
+        "bbox": {
+          "x": 0.546,
+          "y": 0.404762,
+          "width": 0.246,
+          "height": 0.043386
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "withanimated stories",
+        "confidence": 0.8434,
+        "bbox": {
+          "x": 0.762667,
+          "y": 0.902116,
+          "width": 0.174,
+          "height": 0.012169
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "OXFORD",
+        "confidence": 0.8184,
+        "bbox": {
+          "x": 0.064667,
+          "y": 0.944444,
+          "width": 0.170667,
+          "height": 0.021164
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "NaomiSimmons",
+        "confidence": 0.9056,
+        "bbox": {
+          "x": 0.702667,
+          "y": 0.945503,
+          "width": 0.236,
+          "height": 0.020635
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "NaomiSimmons",
+            "confidence": 0.9056
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "a",
+            "confidence": 0.37
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "E",
+            "confidence": 0.46
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "a",
+        "confidence": 0.71,
+        "bbox": {
+          "x": 0.703776,
+          "y": 0.946539,
+          "width": 0.018229,
+          "height": 0.017304
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "2)",
+        "confidence": 0.53,
+        "bbox": {
+          "x": 0.724935,
+          "y": 0.95093,
+          "width": 0.016276,
+          "height": 0.01343
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [],
+    "ocrExercises": [],
+    "ocrTables": [],
+    "ocrImages": [],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "2nd Edition\nand\nFriends\nStarter\nClass Book\nwithanimated stories\nOXFORD\nNaomiSimmons",
+      "tesseract_psm3": "Wi\n¢\no\n£\nE\na\n=\n‘e)\n2)\na\n\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": ""
+    },
+    "excludedOcrNoise": [
+      {
+        "id": "text_0010",
+        "type": "text",
+        "content": "‘e)",
+        "confidence": 0,
+        "bbox": {
+          "x": 0.744141,
+          "y": 0.95093,
+          "width": 0.016602,
+          "height": 0.01343
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0011",
+        "type": "text",
+        "content": "=",
+        "confidence": 0.81,
+        "bbox": {
+          "x": 0.763672,
+          "y": 0.95093,
+          "width": 0.024089,
+          "height": 0.012913
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "text",
+        "content": "£",
+        "confidence": 0.13,
+        "bbox": {
+          "x": 0.860677,
+          "y": 0.95093,
+          "width": 0.024089,
+          "height": 0.012913
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0013",
+        "type": "text",
+        "content": "o",
+        "confidence": 0.15,
+        "bbox": {
+          "x": 0.887695,
+          "y": 0.95093,
+          "width": 0.016602,
+          "height": 0.01343
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0014",
+        "type": "text",
+        "content": "¢",
+        "confidence": 0.63,
+        "bbox": {
+          "x": 0.906901,
+          "y": 0.95093,
+          "width": 0.015299,
+          "height": 0.012913
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0015",
+        "type": "text",
+        "content": "Wi",
+        "confidence": 0.25,
+        "bbox": {
+          "x": 0.92513,
+          "y": 0.95093,
+          "width": 0.01237,
+          "height": 0.01343
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "averageConfidence": 0.8102,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "Printed book page number was not confidently detected; pageNumber uses the PDF-page fallback and pageNumberDetected is false.",
+      "2 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "6 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "cover",
+    "headings": [
+      "2nd Edition",
+      "Starter"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "2nd Edition",
+        "confidence": 0.8757,
+        "bbox": {
+          "x": 0.348667,
+          "y": 0.062434,
+          "width": 0.17,
+          "height": 0.034921
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "label",
+        "content": "Friends",
+        "confidence": 0.8605,
+        "bbox": {
+          "x": 0.173333,
+          "y": 0.234392,
+          "width": 0.627333,
+          "height": 0.163492
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "and",
+            "confidence": 0.7464
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Friends",
+            "confidence": 0.8605
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Starter",
+        "confidence": 0.8572,
+        "bbox": {
+          "x": 0.562,
+          "y": 0.351852,
+          "width": 0.201333,
+          "height": 0.040212
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "Class Book",
+        "confidence": 0.8911,
+        "bbox": {
+          "x": 0.546,
+          "y": 0.404762,
+          "width": 0.246,
+          "height": 0.043386
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "with animated stories",
+        "confidence": 0.8434,
+        "bbox": {
+          "x": 0.762667,
+          "y": 0.902116,
+          "width": 0.174,
+          "height": 0.012169
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "OXFORD",
+        "confidence": 0.8184,
+        "bbox": {
+          "x": 0.064667,
+          "y": 0.944444,
+          "width": 0.170667,
+          "height": 0.021164
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Naomi Simmons",
+        "confidence": 0.9056,
+        "bbox": {
+          "x": 0.702667,
+          "y": 0.945503,
+          "width": 0.236,
+          "height": 0.020635
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "NaomiSimmons",
+            "confidence": 0.9056
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "a",
+            "confidence": 0.37
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "E",
+            "confidence": 0.46
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "a",
+        "confidence": 0.71,
+        "bbox": {
+          "x": 0.703776,
+          "y": 0.946539,
+          "width": 0.018229,
+          "height": 0.017304
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "fullTextReadingOrder": [
+      "2nd Edition",
+      "Friends",
+      "Starter",
+      "Class Book",
+      "with animated stories",
+      "OXFORD",
+      "Naomi Simmons",
+      "a"
+    ],
+    "paragraphs": [],
+    "sentences": [
+      "2nd Edition Friends Starter Class Book with animated stories OXFORD Naomi Simmons a"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [],
+    "exercises": [],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [],
+    "excludedGarbage": [
+      "2)"
+    ]
+  },
+  "learningContent": {
+    "pageType": "cover",
+    "title": "2nd Edition",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [],
+    "reading": [],
+    "exercises": [],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "Printed book page number was not confidently detected; pageNumber uses the PDF-page fallback and pageNumberDetected is false.",
+      "2 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "6 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "1 garbage string(s) excluded"
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "garbageExcluded": 1
+    },
+    "averageOcrConfidence": 0.8102,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Family and Friends Starter Class Book (American)",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_starter_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

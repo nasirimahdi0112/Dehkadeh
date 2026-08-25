@@ -1,0 +1,2978 @@
+{
+  "pageNumber": 38,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "verified sequential printed-footer pattern",
+  "pdfPageNumber": 39,
+  "source": {
+    "pdfFile": "Family and Friends 4 SB_Part1.pdf",
+    "pdfLocalPageNumber": 39,
+    "pageSizePoints": {
+      "width": 598.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Fluency Time!",
+        "confidence": 0.8797,
+        "bbox": {
+          "x": 0.076,
+          "y": 0.024169,
+          "width": 0.314,
+          "height": 0.046324
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Watch!",
+        "confidence": 0.7106,
+        "bbox": {
+          "x": 0.87,
+          "y": 0.049849,
+          "width": 0.057333,
+          "height": 0.01712
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Everyday English",
+        "confidence": 0.8849,
+        "bbox": {
+          "x": 0.078,
+          "y": 0.082075,
+          "width": 0.199333,
+          "height": 0.024169
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Watch and listen.Read and say.",
+        "confidence": 0.9216,
+        "bbox": {
+          "x": 0.116,
+          "y": 0.121349,
+          "width": 0.318,
+          "height": 0.026183
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "heading",
+        "content": "38",
+        "confidence": 0.5621,
+        "bbox": {
+          "x": 0.524,
+          "y": 0.134441,
+          "width": 0.018,
+          "height": 0.010574
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0006",
+        "type": "sentence",
+        "content": "I'd like this sandwich with fries, please.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.205457,
+          "y": 0.320606,
+          "width": 0.308186,
+          "height": 0.024545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "I'd like this sandwich with fries, please.",
+            "confidence": 0.95
+          },
+          {
+            "engine": "rapidocr",
+            "content": "I'd like this sandwich",
+            "confidence": 0.8878
+          },
+          {
+            "engine": "rapidocr",
+            "content": "fries,please.",
+            "confidence": 0.8813
+          },
+          {
+            "engine": "rapidocr",
+            "content": "with",
+            "confidence": 0.7941
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Tom:",
+        "confidence": 0.7798,
+        "bbox": {
+          "x": 0.123333,
+          "y": 0.322759,
+          "width": 0.046,
+          "height": 0.016616
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "Anna:",
+        "confidence": 0.7457,
+        "bbox": {
+          "x": 0.554667,
+          "y": 0.329809,
+          "width": 0.053333,
+          "height": 0.016616
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0009",
+        "type": "sentence",
+        "content": "Can I have some more juice, please?",
+        "confidence": 0.8864,
+        "bbox": {
+          "x": 0.634667,
+          "y": 0.330816,
+          "width": 0.296,
+          "height": 0.020645
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Can I have some more juice, please?",
+            "confidence": 0.8864
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "cart knee i uice, please?",
+            "confidence": 0.53
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "paragraph",
+        "content": "Can I have this salad without",
+        "confidence": 0.8983,
+        "bbox": {
+          "x": 0.202,
+          "y": 0.344914,
+          "width": 0.246,
+          "height": 0.023162
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Can | have this salad without",
+            "confidence": 0.8317
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Can I have this salad without",
+            "confidence": 0.8983
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "Anna:",
+        "confidence": 0.7191,
+        "bbox": {
+          "x": 0.121333,
+          "y": 0.345921,
+          "width": 0.057333,
+          "height": 0.017623
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "Mom:",
+        "confidence": 0.7562,
+        "bbox": {
+          "x": 0.553333,
+          "y": 0.352971,
+          "width": 0.052,
+          "height": 0.017623
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "And",
+        "confidence": 0.6178,
+        "bbox": {
+          "x": 0.633333,
+          "y": 0.355488,
+          "width": 0.039333,
+          "height": 0.014602
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "can we have the check, please?",
+        "confidence": 0.8373,
+        "bbox": {
+          "x": 0.673333,
+          "y": 0.355488,
+          "width": 0.252667,
+          "height": 0.01863
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "tomatoes?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.203852,
+          "y": 0.367879,
+          "width": 0.082263,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "tomatoes?",
+            "confidence": 0.8904
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "tomatoes?",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "Server:",
+        "confidence": 0.8029,
+        "bbox": {
+          "x": 0.553333,
+          "y": 0.376636,
+          "width": 0.064,
+          "height": 0.017623
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Sure.",
+        "confidence": 0.817,
+        "bbox": {
+          "x": 0.632,
+          "y": 0.378147,
+          "width": 0.044,
+          "height": 0.01712
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "Server:",
+        "confidence": 0.8317,
+        "bbox": {
+          "x": 0.121333,
+          "y": 0.388721,
+          "width": 0.064,
+          "height": 0.015106
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "sentence",
+        "content": "Yes. No problem. Thank you.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.20305,
+          "y": 0.391515,
+          "width": 0.223917,
+          "height": 0.016667
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Yes. No problem. Thank you.",
+            "confidence": 0.9157
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Yes. No problem. Thank you.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "Watch and listen.Circlethe correct word.",
+        "confidence": 0.9112,
+        "bbox": {
+          "x": 0.111333,
+          "y": 0.434038,
+          "width": 0.402667,
+          "height": 0.024169
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Watch and listen. Circle the correct word. LPITOE",
+            "confidence": 0.84
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Watch and listen.Circlethe correct word.",
+            "confidence": 0.9112
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "sentence",
+        "content": "1 Tom wants a pizzawith/ without fries and a salad.",
+        "confidence": 0.9229,
+        "bbox": {
+          "x": 0.108,
+          "y": 0.461732,
+          "width": 0.498,
+          "height": 0.023162
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Tom wants a pizza with)/ without fries and a salad.",
+            "confidence": 0.8491
+          },
+          {
+            "engine": "rapidocr",
+            "content": "1 Tom wants a pizzawith/ without fries and a salad.",
+            "confidence": 0.9229
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "sentence",
+        "content": "2 Mom wants a salad with / without tomatoes.",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.110754,
+          "y": 0.485152,
+          "width": 0.437801,
+          "height": 0.020606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2 Mom wants a salad with / without tomatoes.",
+            "confidence": 0.866
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Mom wants a salad with / without tomatoes.",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "sentence",
+        "content": "3 Sam would like his pasta with / without cheese.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.110754,
+          "y": 0.508182,
+          "width": 0.45947,
+          "height": 0.019091
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3 Sam would like his pasta with / without cheese.",
+            "confidence": 0.8802
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Sam would like his pasta with / without cheese.",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "sentence",
+        "content": "4 Tom would like his pizza with / without mushrooms.",
+        "confidence": 0.9553,
+        "bbox": {
+          "x": 0.107333,
+          "y": 0.528197,
+          "width": 0.504,
+          "height": 0.024673
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4 Tom would like his pizza with / without mushrooms.",
+            "confidence": 0.9553
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "+ Tom would like his pizza with / without mushrooms.",
+            "confidence": 0.896
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "instruction",
+        "content": "3 Talk with your friend.",
+        "confidence": 0.962,
+        "bbox": {
+          "x": 0.072632,
+          "y": 0.57303,
+          "width": 0.351926,
+          "height": 0.023333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Speaking",
+            "confidence": 0.8185
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Talk with your friend.",
+            "confidence": 0.962
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Talk with your friend.",
+            "confidence": 0.8902
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "pizza",
+        "confidence": 0.8313,
+        "bbox": {
+          "x": 0.258,
+          "y": 0.611279,
+          "width": 0.058667,
+          "height": 0.022155
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "sandwich pizza with",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.13122,
+          "y": 0.613333,
+          "width": 0.299759,
+          "height": 0.017273
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "sandwich",
+            "confidence": 0.839
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "sandwich pizza with",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "with",
+            "confidence": 0.7572
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "tomatoes",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.513644,
+          "y": 0.620606,
+          "width": 0.085474,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "tomatoes",
+            "confidence": 0.8628
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "tomatoes",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "onions",
+        "confidence": 0.8461,
+        "bbox": {
+          "x": 0.640667,
+          "y": 0.620846,
+          "width": 0.066667,
+          "height": 0.015609
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "onions cucumber",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.64366,
+          "y": 0.621818,
+          "width": 0.196629,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "cucumber",
+            "confidence": 0.882
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "onions cucumber",
+            "confidence": 0.955
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "fries",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.884029,
+          "y": 0.624848,
+          "width": 0.038122,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "fries",
+            "confidence": 0.8323
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "fries",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "fish",
+        "confidence": 0.7012,
+        "bbox": {
+          "x": 0.248,
+          "y": 0.633434,
+          "width": 0.04,
+          "height": 0.021148
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "salad fish without",
+        "confidence": 0.9633,
+        "bbox": {
+          "x": 0.158507,
+          "y": 0.636061,
+          "width": 0.289727,
+          "height": 0.01697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "salad",
+            "confidence": 0.8151
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "salad fish without",
+            "confidence": 0.9633
+          },
+          {
+            "engine": "rapidocr",
+            "content": "without",
+            "confidence": 0.8739
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "cheese",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.5313,
+          "y": 0.642121,
+          "width": 0.062199,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "cheese",
+            "confidence": 0.7696
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "cheese",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "meat",
+        "confidence": 0.7976,
+        "bbox": {
+          "x": 0.635333,
+          "y": 0.644008,
+          "width": 0.052,
+          "height": 0.014099
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "meat pineapple",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.638844,
+          "y": 0.645758,
+          "width": 0.182183,
+          "height": 0.015152
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "pineapple",
+            "confidence": 0.8189
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "meat pineapple",
+            "confidence": 0.955
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "chili",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.866372,
+          "y": 0.64697,
+          "width": 0.035313,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "chili",
+            "confidence": 0.826
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "chili",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "juice",
+        "confidence": 0.757,
+        "bbox": {
+          "x": 0.252667,
+          "y": 0.677744,
+          "width": 0.051333,
+          "height": 0.018127
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0039",
+        "type": "paragraph",
+        "content": "juice water coffee milk bread rice",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.255618,
+          "y": 0.679394,
+          "width": 0.505618,
+          "height": 0.021515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "coffee",
+            "confidence": 0.8002
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "juice water coffee milk bread rice",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "water",
+            "confidence": 0.7447
+          },
+          {
+            "engine": "rapidocr",
+            "content": "bread",
+            "confidence": 0.8051
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "milk",
+        "confidence": 0.7953,
+        "bbox": {
+          "x": 0.542,
+          "y": 0.682276,
+          "width": 0.044667,
+          "height": 0.016616
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0041",
+        "type": "label",
+        "content": "rice",
+        "confidence": 0.7992,
+        "bbox": {
+          "x": 0.726,
+          "y": 0.683787,
+          "width": 0.039333,
+          "height": 0.019134
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0042",
+        "type": "label",
+        "content": "I'dlike this sandwich",
+        "confidence": 0.8361,
+        "bbox": {
+          "x": 0.294,
+          "y": 0.734139,
+          "width": 0.182667,
+          "height": 0.01863
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "sentence",
+        "content": "(A sandwich with cheese. )",
+        "confidence": 0.886,
+        "bbox": {
+          "x": 0.511236,
+          "y": 0.751515,
+          "width": 0.235955,
+          "height": 0.028485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "(A sandwich with cheese. )",
+            "confidence": 0.886
+          },
+          {
+            "engine": "rapidocr",
+            "content": "A sandwich with cheese.",
+            "confidence": 0.8771
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "label",
+        "content": "with cheese,please.",
+        "confidence": 0.9155,
+        "bbox": {
+          "x": 0.298,
+          "y": 0.753776,
+          "width": 0.170667,
+          "height": 0.020645
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0045",
+        "type": "paragraph",
+        "content": "And I'd like this salad",
+        "confidence": 0.8316,
+        "bbox": {
+          "x": 0.320667,
+          "y": 0.802618,
+          "width": 0.189333,
+          "height": 0.018127
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0046",
+        "type": "label",
+        "content": "without onions,please.",
+        "confidence": 0.9126,
+        "bbox": {
+          "x": 0.312667,
+          "y": 0.821752,
+          "width": 0.201333,
+          "height": 0.021148
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0047",
+        "type": "label",
+        "content": "No problem",
+        "confidence": 0.8654,
+        "bbox": {
+          "x": 0.592,
+          "y": 0.838872,
+          "width": 0.108,
+          "height": 0.018127
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0048",
+        "type": "label",
+        "content": "CanIhave some",
+        "confidence": 0.8208,
+        "bbox": {
+          "x": 0.354667,
+          "y": 0.870091,
+          "width": 0.146667,
+          "height": 0.019134
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0049",
+        "type": "label",
+        "content": "more water, please?",
+        "confidence": 0.8676,
+        "bbox": {
+          "x": 0.338667,
+          "y": 0.891742,
+          "width": 0.176,
+          "height": 0.016616
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0050",
+        "type": "label",
+        "content": "Yes, sure.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.62199,
+          "y": 0.915152,
+          "width": 0.073435,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "i",
+            "confidence": 0.67
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Yes, sure.",
+            "confidence": 0.8346
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Yes, sure.",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0051",
+        "type": "label",
+        "content": "38",
+        "confidence": 0.6661,
+        "bbox": {
+          "x": 0.037333,
+          "y": 0.946626,
+          "width": 0.031333,
+          "height": 0.017623
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0052",
+        "type": "heading",
+        "content": "Fluency Time!2Eating out",
+        "confidence": 0.867,
+        "bbox": {
+          "x": 0.114667,
+          "y": 0.951158,
+          "width": 0.204667,
+          "height": 0.019134
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "I'd like this sandwich with fries, please.",
+            "confidence": 0.95,
+            "bbox": {
+              "x": 0.205457,
+              "y": 0.320606,
+              "width": 0.308186,
+              "height": 0.024545
+            },
+            "sourceElementId": "text_0006",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Can I have some more juice, please?",
+            "confidence": 0.8864,
+            "bbox": {
+              "x": 0.634667,
+              "y": 0.330816,
+              "width": 0.296,
+              "height": 0.020645
+            },
+            "sourceElementId": "text_0009",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "can we have the check, please?",
+            "confidence": 0.8373,
+            "bbox": {
+              "x": 0.673333,
+              "y": 0.355488,
+              "width": 0.252667,
+              "height": 0.01863
+            },
+            "sourceElementId": "text_0014",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Yes. No problem. Thank you.",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.20305,
+              "y": 0.391515,
+              "width": 0.223917,
+              "height": 0.016667
+            },
+            "sourceElementId": "text_0019",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected spatially; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "3",
+        "type": "exercise",
+        "instruction": "Talk with your friend.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0025"
+        ],
+        "confidence": 0.962
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "I'd like this sandwich with fries, please.",
+          "Tom:",
+          "Anna:",
+          "Can I have some more juice, please?",
+          "Can I have this salad without",
+          "Anna:",
+          "Mom:",
+          "And",
+          "can we have the check, please?",
+          "tomatoes?",
+          "Server:",
+          "Sure.",
+          "Server:",
+          "Yes. No problem. Thank you.",
+          "Watch and listen.Circlethe correct word.",
+          "1 Tom wants a pizzawith/ without fries and a salad.",
+          "2 Mom wants a salad with / without tomatoes."
+        ],
+        "position": {
+          "x": 0.088,
+          "y": 0.300606,
+          "width": 0.862667,
+          "height": 0.22515200000000007
+        },
+        "textElementIds": [
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "3 Sam would like his pasta with / without cheese.",
+          "4 Tom would like his pizza with / without mushrooms.",
+          "3 Talk with your friend.",
+          "pizza",
+          "sandwich pizza with",
+          "tomatoes",
+          "onions",
+          "onions cucumber",
+          "fries",
+          "fish",
+          "salad fish without",
+          "cheese",
+          "meat",
+          "meat pineapple",
+          "chili",
+          "juice",
+          "juice water coffee milk bread rice",
+          "milk",
+          "rice",
+          "I'dlike this sandwich",
+          "(A sandwich with cheese. )",
+          "with cheese,please."
+        ],
+        "position": {
+          "x": 0.052632,
+          "y": 0.488182,
+          "width": 0.889519,
+          "height": 0.31181800000000004
+        },
+        "textElementIds": [
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040",
+          "text_0041",
+          "text_0042",
+          "text_0043",
+          "text_0044"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "And I'd like this salad",
+          "without onions,please.",
+          "No problem"
+        ],
+        "position": {
+          "x": 0.29266699999999995,
+          "y": 0.782618,
+          "width": 0.427333,
+          "height": 0.09438099999999994
+        },
+        "textElementIds": [
+          "text_0045",
+          "text_0046",
+          "text_0047"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "Fluency Time!\nWatch!\nEveryday English\nWatch and listen.Read and say.\n38\nTom:\nI'd like this sandwich\nfries,please.\nwith\nAnna:\nCan I have some more juice, please?\nCan I have this salad without\nAnna:\nMom:\nAnd\ncan we have the check, please?\ntomatoes?\nServer:\nSure.\nYes. No problem. Thank you.\nServer:\nWatch and listen.Circlethe correct word.\n1 Tom wants a pizzawith/ without fries and a salad.\n2 Mom wants a salad with / without tomatoes.\n3 Sam would like his pasta with / without cheese.\n4 Tom would like his pizza with / without mushrooms.\nSpeaking\nTalk with your friend.\nsandwich\npizza\nwith\ntomatoes\ncucumber\nonions\nfries\nfish\nsalad\nwithout\ncheese\npineapple\nchili\nmeat\njuice\ncoffee\nwater\nbread\nmilk\nrice\nI'dlike this sandwich\nwith cheese,please.\nA sandwich with cheese.\nAnd I'd like this salad\nwithout onions,please.\nNo problem\nCanIhave some\nmore water, please?\nYes, sure.\n38\nFluency Time!2Eating out",
+      "tesseract_psm3": "I'd like this sandwich with fries, please.\n\nCan | have this salad without\n\ntomatoes?\nYes. No problem. Thank you.\n\ncart knee i uice, please?\n\n2 Watch and listen. Circle the correct word. LPITOE\n1 Tom wants a pizza with)/ without fries and a salad.\n2 Mom wants a salad with / without tomatoes.\n3 Sam would like his pasta with / without cheese.\n+ Tom would like his pizza with / without mushrooms.\n\n3 Talk with your friend.\n\nsandwich pizza with\nsalad fish without\n\njuice water coffee milk bread rice\n\n(A sandwich with cheese. )\n\nfries\nchili\n\nonions cucumber\nmeat pineapple\n\ntomatoes\ncheese\n\nYes, sure.\n\ni\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8609,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "13 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "fluency_time",
+    "headings": [
+      "Fluency Time!",
+      "Watch!",
+      "Everyday English",
+      "Watch and listen. Read and say.",
+      "Fluency Time!2Eating out"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Fluency Time!",
+        "confidence": 0.8797,
+        "bbox": {
+          "x": 0.076,
+          "y": 0.024169,
+          "width": 0.314,
+          "height": 0.046324
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Watch!",
+        "confidence": 0.7106,
+        "bbox": {
+          "x": 0.87,
+          "y": 0.049849,
+          "width": 0.057333,
+          "height": 0.01712
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Everyday English",
+        "confidence": 0.8849,
+        "bbox": {
+          "x": 0.078,
+          "y": 0.082075,
+          "width": 0.199333,
+          "height": 0.024169
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Watch and listen. Read and say.",
+        "confidence": 0.9216,
+        "bbox": {
+          "x": 0.116,
+          "y": 0.121349,
+          "width": 0.318,
+          "height": 0.026183
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "audio_track",
+        "content": "38",
+        "confidence": 0.5621,
+        "bbox": {
+          "x": 0.524,
+          "y": 0.134441,
+          "width": 0.018,
+          "height": 0.010574
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0006",
+        "type": "sentence",
+        "content": "I'd like this sandwich with fries, please.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.205457,
+          "y": 0.320606,
+          "width": 0.308186,
+          "height": 0.024545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "I'd like this sandwich with fries, please.",
+            "confidence": 0.95
+          },
+          {
+            "engine": "rapidocr",
+            "content": "I'd like this sandwich",
+            "confidence": 0.8878
+          },
+          {
+            "engine": "rapidocr",
+            "content": "fries,please.",
+            "confidence": 0.8813
+          },
+          {
+            "engine": "rapidocr",
+            "content": "with",
+            "confidence": 0.7941
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Tom",
+        "confidence": 0.7798,
+        "bbox": {
+          "x": 0.123333,
+          "y": 0.322759,
+          "width": 0.046,
+          "height": 0.016616
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "Anna",
+        "confidence": 0.7457,
+        "bbox": {
+          "x": 0.554667,
+          "y": 0.329809,
+          "width": 0.053333,
+          "height": 0.016616
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0009",
+        "type": "sentence",
+        "content": "Can I have some more juice, please?",
+        "confidence": 0.8864,
+        "bbox": {
+          "x": 0.634667,
+          "y": 0.330816,
+          "width": 0.296,
+          "height": 0.020645
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Can I have some more juice, please?",
+            "confidence": 0.8864
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "cart knee i uice, please?",
+            "confidence": 0.53
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "paragraph",
+        "content": "Can I have this salad without",
+        "confidence": 0.8983,
+        "bbox": {
+          "x": 0.202,
+          "y": 0.344914,
+          "width": 0.246,
+          "height": 0.023162
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Can | have this salad without",
+            "confidence": 0.8317
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Can I have this salad without",
+            "confidence": 0.8983
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "Anna",
+        "confidence": 0.7191,
+        "bbox": {
+          "x": 0.121333,
+          "y": 0.345921,
+          "width": 0.057333,
+          "height": 0.017623
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "Mom",
+        "confidence": 0.7562,
+        "bbox": {
+          "x": 0.553333,
+          "y": 0.352971,
+          "width": 0.052,
+          "height": 0.017623
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "And",
+        "confidence": 0.6178,
+        "bbox": {
+          "x": 0.633333,
+          "y": 0.355488,
+          "width": 0.039333,
+          "height": 0.014602
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "can we have the check, please?",
+        "confidence": 0.8373,
+        "bbox": {
+          "x": 0.673333,
+          "y": 0.355488,
+          "width": 0.252667,
+          "height": 0.01863
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "tomatoes?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.203852,
+          "y": 0.367879,
+          "width": 0.082263,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "tomatoes?",
+            "confidence": 0.8904
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "tomatoes?",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "Server",
+        "confidence": 0.8029,
+        "bbox": {
+          "x": 0.553333,
+          "y": 0.376636,
+          "width": 0.064,
+          "height": 0.017623
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Sure.",
+        "confidence": 0.817,
+        "bbox": {
+          "x": 0.632,
+          "y": 0.378147,
+          "width": 0.044,
+          "height": 0.01712
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "Server",
+        "confidence": 0.8317,
+        "bbox": {
+          "x": 0.121333,
+          "y": 0.388721,
+          "width": 0.064,
+          "height": 0.015106
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "sentence",
+        "content": "Yes. No problem. Thank you.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.20305,
+          "y": 0.391515,
+          "width": 0.223917,
+          "height": 0.016667
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Yes. No problem. Thank you.",
+            "confidence": 0.9157
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Yes. No problem. Thank you.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "Watch and listen. Circle the correct word.",
+        "confidence": 0.9112,
+        "bbox": {
+          "x": 0.111333,
+          "y": 0.434038,
+          "width": 0.402667,
+          "height": 0.024169
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Watch and listen. Circle the correct word. LPITOE",
+            "confidence": 0.84
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Watch and listen.Circlethe correct word.",
+            "confidence": 0.9112
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "sentence",
+        "content": "1 Tom wants a pizza with/ without fries and a salad.",
+        "confidence": 0.9229,
+        "bbox": {
+          "x": 0.108,
+          "y": 0.461732,
+          "width": 0.498,
+          "height": 0.023162
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Tom wants a pizza with)/ without fries and a salad.",
+            "confidence": 0.8491
+          },
+          {
+            "engine": "rapidocr",
+            "content": "1 Tom wants a pizzawith/ without fries and a salad.",
+            "confidence": 0.9229
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "sentence",
+        "content": "2 Mom wants a salad with / without tomatoes.",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.110754,
+          "y": 0.485152,
+          "width": 0.437801,
+          "height": 0.020606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2 Mom wants a salad with / without tomatoes.",
+            "confidence": 0.866
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Mom wants a salad with / without tomatoes.",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "sentence",
+        "content": "3 Sam would like his pasta with / without cheese.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.110754,
+          "y": 0.508182,
+          "width": 0.45947,
+          "height": 0.019091
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3 Sam would like his pasta with / without cheese.",
+            "confidence": 0.8802
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Sam would like his pasta with / without cheese.",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "sentence",
+        "content": "4 Tom would like his pizza with / without mushrooms.",
+        "confidence": 0.9553,
+        "bbox": {
+          "x": 0.107333,
+          "y": 0.528197,
+          "width": 0.504,
+          "height": 0.024673
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4 Tom would like his pizza with / without mushrooms.",
+            "confidence": 0.9553
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "+ Tom would like his pizza with / without mushrooms.",
+            "confidence": 0.896
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "instruction",
+        "content": "3 Talk with your friend.",
+        "confidence": 0.962,
+        "bbox": {
+          "x": 0.072632,
+          "y": 0.57303,
+          "width": 0.351926,
+          "height": 0.023333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Speaking",
+            "confidence": 0.8185
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Talk with your friend.",
+            "confidence": 0.962
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Talk with your friend.",
+            "confidence": 0.8902
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "pizza",
+        "confidence": 0.8313,
+        "bbox": {
+          "x": 0.258,
+          "y": 0.611279,
+          "width": 0.058667,
+          "height": 0.022155
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "sandwich pizza with",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.13122,
+          "y": 0.613333,
+          "width": 0.299759,
+          "height": 0.017273
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "sandwich",
+            "confidence": 0.839
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "sandwich pizza with",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "with",
+            "confidence": 0.7572
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "tomatoes",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.513644,
+          "y": 0.620606,
+          "width": 0.085474,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "tomatoes",
+            "confidence": 0.8628
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "tomatoes",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "onions",
+        "confidence": 0.8461,
+        "bbox": {
+          "x": 0.640667,
+          "y": 0.620846,
+          "width": 0.066667,
+          "height": 0.015609
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "onions cucumber",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.64366,
+          "y": 0.621818,
+          "width": 0.196629,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "cucumber",
+            "confidence": 0.882
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "onions cucumber",
+            "confidence": 0.955
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "fries",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.884029,
+          "y": 0.624848,
+          "width": 0.038122,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "fries",
+            "confidence": 0.8323
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "fries",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "fish",
+        "confidence": 0.7012,
+        "bbox": {
+          "x": 0.248,
+          "y": 0.633434,
+          "width": 0.04,
+          "height": 0.021148
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "salad fish without",
+        "confidence": 0.9633,
+        "bbox": {
+          "x": 0.158507,
+          "y": 0.636061,
+          "width": 0.289727,
+          "height": 0.01697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "salad",
+            "confidence": 0.8151
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "salad fish without",
+            "confidence": 0.9633
+          },
+          {
+            "engine": "rapidocr",
+            "content": "without",
+            "confidence": 0.8739
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "cheese",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.5313,
+          "y": 0.642121,
+          "width": 0.062199,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "cheese",
+            "confidence": 0.7696
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "cheese",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "meat",
+        "confidence": 0.7976,
+        "bbox": {
+          "x": 0.635333,
+          "y": 0.644008,
+          "width": 0.052,
+          "height": 0.014099
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "meat pineapple",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.638844,
+          "y": 0.645758,
+          "width": 0.182183,
+          "height": 0.015152
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "pineapple",
+            "confidence": 0.8189
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "meat pineapple",
+            "confidence": 0.955
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "chili",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.866372,
+          "y": 0.64697,
+          "width": 0.035313,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "chili",
+            "confidence": 0.826
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "chili",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "juice",
+        "confidence": 0.757,
+        "bbox": {
+          "x": 0.252667,
+          "y": 0.677744,
+          "width": 0.051333,
+          "height": 0.018127
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0039",
+        "type": "paragraph",
+        "content": "juice water coffee milk bread rice",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.255618,
+          "y": 0.679394,
+          "width": 0.505618,
+          "height": 0.021515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "coffee",
+            "confidence": 0.8002
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "juice water coffee milk bread rice",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "water",
+            "confidence": 0.7447
+          },
+          {
+            "engine": "rapidocr",
+            "content": "bread",
+            "confidence": 0.8051
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "milk",
+        "confidence": 0.7953,
+        "bbox": {
+          "x": 0.542,
+          "y": 0.682276,
+          "width": 0.044667,
+          "height": 0.016616
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0041",
+        "type": "label",
+        "content": "rice",
+        "confidence": 0.7992,
+        "bbox": {
+          "x": 0.726,
+          "y": 0.683787,
+          "width": 0.039333,
+          "height": 0.019134
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0042",
+        "type": "label",
+        "content": "I'd like this sandwich",
+        "confidence": 0.8361,
+        "bbox": {
+          "x": 0.294,
+          "y": 0.734139,
+          "width": 0.182667,
+          "height": 0.01863
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "sentence",
+        "content": "(A sandwich with cheese. )",
+        "confidence": 0.886,
+        "bbox": {
+          "x": 0.511236,
+          "y": 0.751515,
+          "width": 0.235955,
+          "height": 0.028485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "(A sandwich with cheese. )",
+            "confidence": 0.886
+          },
+          {
+            "engine": "rapidocr",
+            "content": "A sandwich with cheese.",
+            "confidence": 0.8771
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "label",
+        "content": "with cheese, please.",
+        "confidence": 0.9155,
+        "bbox": {
+          "x": 0.298,
+          "y": 0.753776,
+          "width": 0.170667,
+          "height": 0.020645
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0045",
+        "type": "paragraph",
+        "content": "And I'd like this salad",
+        "confidence": 0.8316,
+        "bbox": {
+          "x": 0.320667,
+          "y": 0.802618,
+          "width": 0.189333,
+          "height": 0.018127
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0046",
+        "type": "label",
+        "content": "without onions, please.",
+        "confidence": 0.9126,
+        "bbox": {
+          "x": 0.312667,
+          "y": 0.821752,
+          "width": 0.201333,
+          "height": 0.021148
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0047",
+        "type": "label",
+        "content": "No problem",
+        "confidence": 0.8654,
+        "bbox": {
+          "x": 0.592,
+          "y": 0.838872,
+          "width": 0.108,
+          "height": 0.018127
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0048",
+        "type": "label",
+        "content": "Can Ihave some",
+        "confidence": 0.8208,
+        "bbox": {
+          "x": 0.354667,
+          "y": 0.870091,
+          "width": 0.146667,
+          "height": 0.019134
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0049",
+        "type": "label",
+        "content": "more water, please?",
+        "confidence": 0.8676,
+        "bbox": {
+          "x": 0.338667,
+          "y": 0.891742,
+          "width": 0.176,
+          "height": 0.016616
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0050",
+        "type": "label",
+        "content": "Yes, sure.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.62199,
+          "y": 0.915152,
+          "width": 0.073435,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "i",
+            "confidence": 0.67
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Yes, sure.",
+            "confidence": 0.8346
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Yes, sure.",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0051",
+        "type": "audio_track",
+        "content": "38",
+        "confidence": 0.6661,
+        "bbox": {
+          "x": 0.037333,
+          "y": 0.946626,
+          "width": 0.031333,
+          "height": 0.017623
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0052",
+        "type": "heading",
+        "content": "Fluency Time!2Eating out",
+        "confidence": 0.867,
+        "bbox": {
+          "x": 0.114667,
+          "y": 0.951158,
+          "width": 0.204667,
+          "height": 0.019134
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Fluency Time!",
+      "Watch!",
+      "Everyday English",
+      "Watch and listen. Read and say.",
+      "I'd like this sandwich with fries, please.",
+      "Tom",
+      "Anna",
+      "Can I have some more juice, please?",
+      "Can I have this salad without",
+      "Anna",
+      "Mom",
+      "And",
+      "can we have the check, please?",
+      "tomatoes?",
+      "Server",
+      "Sure.",
+      "Server",
+      "Yes. No problem. Thank you.",
+      "Watch and listen. Circle the correct word.",
+      "1 Tom wants a pizza with/ without fries and a salad.",
+      "2 Mom wants a salad with / without tomatoes.",
+      "3 Sam would like his pasta with / without cheese.",
+      "4 Tom would like his pizza with / without mushrooms.",
+      "3 Talk with your friend.",
+      "pizza",
+      "sandwich pizza with",
+      "tomatoes",
+      "onions",
+      "onions cucumber",
+      "fries",
+      "fish",
+      "salad fish without",
+      "cheese",
+      "meat",
+      "meat pineapple",
+      "chili",
+      "juice",
+      "juice water coffee milk bread rice",
+      "milk",
+      "rice",
+      "I'd like this sandwich",
+      "(A sandwich with cheese. )",
+      "with cheese, please.",
+      "And I'd like this salad",
+      "without onions, please.",
+      "No problem",
+      "Can Ihave some",
+      "more water, please?",
+      "Yes, sure.",
+      "Fluency Time!2Eating out"
+    ],
+    "paragraphs": [
+      "Can I have this salad without",
+      "juice water coffee milk bread rice",
+      "And I'd like this salad"
+    ],
+    "sentences": [
+      "Fluency Time",
+      "Watch",
+      "Everyday English Watch and listen",
+      "Read and say",
+      "I'd like this sandwich with fries, please",
+      "Tom Anna Can I have some more juice, please",
+      "Can I have this salad without Anna Mom And can we have the check, please",
+      "tomatoes",
+      "Server Sure",
+      "Server Yes",
+      "No problem",
+      "Thank you",
+      "Watch and listen",
+      "Circle the correct word",
+      "1 Tom wants a pizza with/ without fries and a salad",
+      "2 Mom wants a salad with / without tomatoes",
+      "3 Sam would like his pasta with / without cheese",
+      "4 Tom would like his pizza with / without mushrooms",
+      "3 Talk with your friend",
+      "pizza sandwich pizza with tomatoes onions onions cucumber fries fish salad fish without cheese meat meat pineapple chili juice juice water coffee milk bread rice milk rice I'd like this sandwich (A sandwich with cheese",
+      ") with cheese, please",
+      "And I'd like this salad without onions, please",
+      "No problem Can Ihave some more water, please",
+      "Yes, sure",
+      "Fluency Time",
+      "2Eating out"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "I'd like this sandwich with fries, please.",
+            "confidence": 0.95,
+            "bbox": {
+              "x": 0.205457,
+              "y": 0.320606,
+              "width": 0.308186,
+              "height": 0.024545
+            },
+            "sourceElementId": "text_0006"
+          },
+          {
+            "speaker": null,
+            "content": "Can I have some more juice, please?",
+            "confidence": 0.8864,
+            "bbox": {
+              "x": 0.634667,
+              "y": 0.330816,
+              "width": 0.296,
+              "height": 0.020645
+            },
+            "sourceElementId": "text_0009"
+          },
+          {
+            "speaker": null,
+            "content": "can we have the check, please?",
+            "confidence": 0.8373,
+            "bbox": {
+              "x": 0.673333,
+              "y": 0.355488,
+              "width": 0.252667,
+              "height": 0.01863
+            },
+            "sourceElementId": "text_0014"
+          },
+          {
+            "speaker": null,
+            "content": "Yes.",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.20305,
+              "y": 0.391515,
+              "width": 0.223917,
+              "height": 0.016667
+            },
+            "sourceElementId": "text_0019"
+          },
+          {
+            "speaker": null,
+            "content": "No problem.",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.20305,
+              "y": 0.391515,
+              "width": 0.223917,
+              "height": 0.016667
+            },
+            "sourceElementId": "text_0019"
+          },
+          {
+            "speaker": null,
+            "content": "Thank you.",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.20305,
+              "y": 0.391515,
+              "width": 0.223917,
+              "height": 0.016667
+            },
+            "sourceElementId": "text_0019"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "3",
+        "type": "speaking",
+        "instruction": "Talk with your friend.",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "I'd like this sandwich with fries, please.",
+          "Tom",
+          "Anna",
+          "Can I have some more juice, please?",
+          "Can I have this salad without",
+          "Anna",
+          "Mom",
+          "And",
+          "can we have the check, please?",
+          "tomatoes?",
+          "Server",
+          "Sure.",
+          "Server",
+          "Yes. No problem. Thank you.",
+          "Watch and listen. Circle the correct word.",
+          "1 Tom wants a pizza with/ without fries and a salad.",
+          "2 Mom wants a salad with / without tomatoes."
+        ],
+        "position": {
+          "x": 0.088,
+          "y": 0.300606,
+          "width": 0.862667,
+          "height": 0.22515200000000007
+        },
+        "textElementIds": [
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "3 Sam would like his pasta with / without cheese.",
+          "4 Tom would like his pizza with / without mushrooms.",
+          "3 Talk with your friend.",
+          "pizza",
+          "sandwich pizza with",
+          "tomatoes",
+          "onions",
+          "onions cucumber",
+          "fries",
+          "fish",
+          "salad fish without",
+          "cheese",
+          "meat",
+          "meat pineapple",
+          "chili",
+          "juice",
+          "juice water coffee milk bread rice",
+          "milk",
+          "rice",
+          "I'd like this sandwich",
+          "(A sandwich with cheese. )",
+          "with cheese, please."
+        ],
+        "position": {
+          "x": 0.052632,
+          "y": 0.488182,
+          "width": 0.889519,
+          "height": 0.31181800000000004
+        },
+        "textElementIds": [
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040",
+          "text_0041",
+          "text_0042",
+          "text_0043",
+          "text_0044"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "And I'd like this salad",
+          "without onions, please.",
+          "No problem"
+        ],
+        "position": {
+          "x": 0.29266699999999995,
+          "y": 0.782618,
+          "width": 0.427333,
+          "height": 0.09438099999999994
+        },
+        "textElementIds": [
+          "text_0045",
+          "text_0046",
+          "text_0047"
+        ]
+      }
+    ],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "fluency_time",
+    "title": "Fluency Time!",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "I'd like this sandwich with fries, please.",
+            "confidence": 0.95
+          },
+          {
+            "speaker": null,
+            "content": "Can I have some more juice, please?",
+            "confidence": 0.8864
+          },
+          {
+            "speaker": null,
+            "content": "can we have the check, please?",
+            "confidence": 0.8373
+          },
+          {
+            "speaker": null,
+            "content": "Yes.",
+            "confidence": 0.96
+          },
+          {
+            "speaker": null,
+            "content": "No problem.",
+            "confidence": 0.96
+          },
+          {
+            "speaker": null,
+            "content": "Thank you.",
+            "confidence": 0.96
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "3",
+        "type": "speaking",
+        "instruction": "Talk with your friend.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "13 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved."
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "dialoguesSplit": 3
+    },
+    "averageOcrConfidence": 0.8609,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Family and Friends 4 Student Book (American)",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_ff4_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

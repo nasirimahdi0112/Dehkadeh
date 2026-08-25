@@ -1,0 +1,500 @@
+{
+  "pageNumber": 30,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "verified sequential printed-footer pattern",
+  "pdfPageNumber": 31,
+  "source": {
+    "pdfFile": "family and friends Starter CB_Part2.pdf",
+    "pdfLocalPageNumber": 6,
+    "pageSizePoints": {
+      "width": 737.28,
+      "height": 929.28
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Review 1",
+        "confidence": 0.865,
+        "bbox": {
+          "x": 0.056315,
+          "y": 0.028151,
+          "width": 0.111654,
+          "height": 0.016271
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Review 1",
+            "confidence": 0.7779
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Review 1",
+            "confidence": 0.865
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "1 Listen and repeat. Find and circle. © s:",
+        "confidence": 0.8733,
+        "bbox": {
+          "x": 0.072266,
+          "y": 0.078771,
+          "width": 0.511393,
+          "height": 0.023502
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Listen and repeat. Find and circle. © s:",
+            "confidence": 0.8733
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen and repeat. Find and circle.",
+            "confidence": 0.8854
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "51",
+        "confidence": 0.5492,
+        "bbox": {
+          "x": 0.571333,
+          "y": 0.085714,
+          "width": 0.015333,
+          "height": 0.011111
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0004",
+        "type": "sentence",
+        "content": "2 Askand answer. | Is it a notebook? Yes, it is.",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.072591,
+          "y": 0.90031,
+          "width": 0.638021,
+          "height": 0.023502
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Askand answer. | Is it a notebook? Yes, it is.",
+            "confidence": 0.9
+          },
+          {
+            "engine": "rapidocr",
+            "content": "2 Ask and answer.",
+            "confidence": 0.8716
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Yes, it is.",
+            "confidence": 0.8523
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Is it a notebook?",
+            "confidence": 0.9076
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "30",
+        "confidence": 0.6651,
+        "bbox": {
+          "x": 0.018667,
+          "y": 0.967725,
+          "width": 0.032,
+          "height": 0.018519
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0006",
+        "type": "heading",
+        "content": "Review1",
+        "confidence": 0.8691,
+        "bbox": {
+          "x": 0.105333,
+          "y": 0.97037,
+          "width": 0.080667,
+          "height": 0.012698
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "heading",
+        "content": "Review 1 Words and grammar",
+        "confidence": 0.914,
+        "bbox": {
+          "x": 0.10612,
+          "y": 0.970558,
+          "width": 0.262044,
+          "height": 0.013946
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Wordsandgrammar",
+            "confidence": 0.9101
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Review 1 Words and grammar",
+            "confidence": 0.914
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [
+      {
+        "topic": "Review 1 Words and grammar",
+        "rule": [
+          "Review 1 Words and grammar"
+        ],
+        "form": null,
+        "positiveExamples": [],
+        "negativeExamples": [],
+        "questionForms": [],
+        "shortAnswers": [],
+        "exceptions": [],
+        "usageNotes": [],
+        "practice": [
+          "1 Listen and repeat. Find and circle. © s:",
+          "51",
+          "2 Askand answer. | Is it a notebook? Yes, it is.",
+          "30"
+        ],
+        "confidence": 0.8051
+      }
+    ],
+    "ocrDialogues": [],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "selection_exercise",
+        "instruction": "Listen and repeat. Find and circle. © s:",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0002"
+        ],
+        "confidence": 0.8733
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "Review 1\nListen and repeat. Find and circle.\n51\n2 Ask and answer.\nYes, it is.\nIs it a notebook?\n30\nWordsandgrammar\nReview1",
+      "tesseract_psm3": "Review 1\n\n1 Listen and repeat. Find and circle. © s:\n\n2 Askand answer. | Is it a notebook? Yes, it is.\n\nReview 1 Words and grammar\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8051,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "2 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "review",
+    "headings": [
+      "Review 1",
+      "Review 1",
+      "Review 1 Words and grammar"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Review 1",
+        "confidence": 0.865,
+        "bbox": {
+          "x": 0.056315,
+          "y": 0.028151,
+          "width": 0.111654,
+          "height": 0.016271
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Review 1",
+            "confidence": 0.7779
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Review 1",
+            "confidence": 0.865
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "audio_track",
+        "content": "51",
+        "confidence": 0.5492,
+        "bbox": {
+          "x": 0.571333,
+          "y": 0.085714,
+          "width": 0.015333,
+          "height": 0.011111
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0004",
+        "type": "sentence",
+        "content": "2 Ask and answer. | Is it a notebook? Yes, it is.",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.072591,
+          "y": 0.90031,
+          "width": 0.638021,
+          "height": 0.023502
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Askand answer. | Is it a notebook? Yes, it is.",
+            "confidence": 0.9
+          },
+          {
+            "engine": "rapidocr",
+            "content": "2 Ask and answer.",
+            "confidence": 0.8716
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Yes, it is.",
+            "confidence": 0.8523
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Is it a notebook?",
+            "confidence": 0.9076
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "audio_track",
+        "content": "30",
+        "confidence": 0.6651,
+        "bbox": {
+          "x": 0.018667,
+          "y": 0.967725,
+          "width": 0.032,
+          "height": 0.018519
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0006",
+        "type": "heading",
+        "content": "Review 1",
+        "confidence": 0.8691,
+        "bbox": {
+          "x": 0.105333,
+          "y": 0.97037,
+          "width": 0.080667,
+          "height": 0.012698
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "heading",
+        "content": "Review 1 Words and grammar",
+        "confidence": 0.914,
+        "bbox": {
+          "x": 0.10612,
+          "y": 0.970558,
+          "width": 0.262044,
+          "height": 0.013946
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Wordsandgrammar",
+            "confidence": 0.9101
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Review 1 Words and grammar",
+            "confidence": 0.914
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Review 1",
+      "2 Ask and answer. | Is it a notebook? Yes, it is.",
+      "Review 1",
+      "Review 1 Words and grammar"
+    ],
+    "paragraphs": [],
+    "sentences": [
+      "Review 1 2 Ask and answer",
+      "| Is it a notebook",
+      "Yes, it is",
+      "Review 1 Review 1 Words and grammar"
+    ],
+    "vocabulary": [],
+    "grammar": [
+      {
+        "topic": "Review 1 Words and grammar",
+        "rule": [
+          "Review 1 Words and grammar"
+        ],
+        "positiveExamples": [],
+        "usageNotes": [],
+        "practice": [
+          "1 Listen and repeat. Find and circle. © s",
+          "51",
+          "2 Ask and answer. | Is it a notebook? Yes, it is.",
+          "30"
+        ]
+      }
+    ],
+    "dialogues": [],
+    "exercises": [],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [],
+    "excludedGarbage": [
+      "1 Listen and repeat. Find and circle. © s:"
+    ]
+  },
+  "learningContent": {
+    "pageType": "review",
+    "title": "Review 1",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [
+      {
+        "topic": "Review 1 Words and grammar",
+        "rule": [
+          "Review 1 Words and grammar"
+        ],
+        "positiveExamples": [],
+        "usageNotes": [],
+        "practice": [
+          "1 Listen and repeat. Find and circle. © s",
+          "51",
+          "2 Ask and answer. | Is it a notebook? Yes, it is.",
+          "30"
+        ]
+      }
+    ],
+    "dialogues": [],
+    "reading": [],
+    "exercises": [],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "2 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "1 garbage string(s) excluded"
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "garbageExcluded": 2
+    },
+    "averageOcrConfidence": 0.8051,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Family and Friends Starter Class Book (American)",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_starter_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

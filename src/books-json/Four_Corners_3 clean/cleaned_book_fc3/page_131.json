@@ -1,0 +1,1901 @@
+{
+  "pageNumber": 124,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 131,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 3_Part6.pdf",
+    "pdfLocalPageNumber": 15,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Lesson C",
+        "confidence": 0.8442,
+        "bbox": {
+          "x": 0.216,
+          "y": 0.036579,
+          "width": 0.184,
+          "height": 0.02679
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.7994,
+        "bbox": {
+          "x": 0.093333,
+          "y": 0.047398,
+          "width": 0.038667,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Similar behaviors",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.13451,
+          "y": 0.116364,
+          "width": 0.267451,
+          "height": 0.019697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Similar behaviors",
+            "confidence": 0.955
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Similar behaviors",
+            "confidence": 0.8933
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "A Writeyouranswerstothequestionsinthechart.",
+        "confidence": 0.8798,
+        "bbox": {
+          "x": 0.132667,
+          "y": 0.151984,
+          "width": 0.365333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "instruction",
+        "content": "Name:",
+        "confidence": 0.7489,
+        "bbox": {
+          "x": 0.698,
+          "y": 0.178774,
+          "width": 0.051333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "Questions",
+        "confidence": 0.8962,
+        "bbox": {
+          "x": 0.163333,
+          "y": 0.180319,
+          "width": 0.074,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Me",
+        "confidence": 0.5024,
+        "bbox": {
+          "x": 0.456667,
+          "y": 0.180319,
+          "width": 0.026,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0008",
+        "type": "paragraph",
+        "content": "1 What do you do when you can’t sleep",
+        "confidence": 0.9411,
+        "bbox": {
+          "x": 0.166667,
+          "y": 0.203939,
+          "width": 0.268627,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "1 What do you do when you can't sleep",
+            "confidence": 0.8704
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 What do you do when you can’t sleep",
+            "confidence": 0.9411
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "at night?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.182353,
+          "y": 0.222121,
+          "width": 0.058431,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "at night?",
+            "confidence": 0.8852
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "at night?",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "paragraph",
+        "content": "2 What do you do if you forget to do",
+        "confidence": 0.951,
+        "bbox": {
+          "x": 0.166667,
+          "y": 0.240909,
+          "width": 0.245882,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2 What do you do if you forget to do",
+            "confidence": 0.86
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 What do you do if you forget to do",
+            "confidence": 0.951
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "your homework?",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.181961,
+          "y": 0.259091,
+          "width": 0.115686,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "your homework?",
+            "confidence": 0.8668
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "your homework?",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "paragraph",
+        "content": "3 When you feel really happy about",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.167059,
+          "y": 0.278182,
+          "width": 0.243529,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3Whenyoufeelreallyhappyabout",
+            "confidence": 0.8972
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 When you feel really happy about",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "something, what do you do?",
+        "confidence": 0.954,
+        "bbox": {
+          "x": 0.182745,
+          "y": 0.295758,
+          "width": 0.192941,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "something, what do you do?",
+            "confidence": 0.9029
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "something, what do you do?",
+            "confidence": 0.954
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "4 Whatdoyoudo if someonetellsyou",
+        "confidence": 0.8905,
+        "bbox": {
+          "x": 0.165333,
+          "y": 0.313756,
+          "width": 0.264,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "something that isn’t true?",
+        "confidence": 0.945,
+        "bbox": {
+          "x": 0.183137,
+          "y": 0.33303,
+          "width": 0.175686,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Something that isn't true?",
+            "confidence": 0.919
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "something that isn’t true?",
+            "confidence": 0.945
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "paragraph",
+        "content": "5 Ifa friend calls you and you don’t",
+        "confidence": 0.8738,
+        "bbox": {
+          "x": 0.167843,
+          "y": 0.351818,
+          "width": 0.241569,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "5 If a friend calls you and you don't",
+            "confidence": 0.8489
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 Ifa friend calls you and you don’t",
+            "confidence": 0.8738
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "sentence",
+        "content": "want to talk, what do you do?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.183529,
+          "y": 0.369697,
+          "width": 0.200784,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "want to talk, what do you do?",
+            "confidence": 0.9307
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "want to talk, what do you do?",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "paragraph",
+        "content": "6 What do you do when you are",
+        "confidence": 0.9512,
+        "bbox": {
+          "x": 0.168235,
+          "y": 0.389394,
+          "width": 0.217647,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "6 What do you do when you are",
+            "confidence": 0.8912
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "6 What do you do when you are",
+            "confidence": 0.9512
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "extremely angry at someone?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.183922,
+          "y": 0.40697,
+          "width": 0.200784,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "extremely angry at someone?",
+            "confidence": 0.9204
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "extremely angry at someone?",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "B Interview your partner. Complete the chart with his or her answers.",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.140784,
+          "y": 0.653333,
+          "width": 0.58,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAIR WORK Interview your partner.Complete the chart with his or her answers.",
+            "confidence": 0.8987
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Interview your partner. Complete the chart with his or her answers.",
+            "confidence": 0.9575
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "dialogue_line",
+        "content": "A: What do you do when you can't sleep at night?",
+        "confidence": 0.9527,
+        "bbox": {
+          "x": 0.163137,
+          "y": 0.675152,
+          "width": 0.375686,
+          "height": 0.015152
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: What do you do when you can't sleep at night?",
+            "confidence": 0.9276
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: What do you do when you can't sleep at night?",
+            "confidence": 0.9527
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "dialogue_line",
+        "content": "B: | usually read a book. How about you?",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.164314,
+          "y": 0.697879,
+          "width": 0.302353,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B: I usually read a book. How about you?",
+            "confidence": 0.8986
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: | usually read a book. How about you?",
+            "confidence": 0.9567
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "dialogue_line",
+        "content": "A: When | can't sleep at night, | always listen to music.",
+        "confidence": 0.9492,
+        "bbox": {
+          "x": 0.163529,
+          "y": 0.719697,
+          "width": 0.411765,
+          "height": 0.017576
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: When I can't sleep at night, I always listen to music.",
+            "confidence": 0.9141
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: When | can't sleep at night, | always listen to music.",
+            "confidence": 0.9492
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "sentence",
+        "content": "C Compare your information. Do any of your partner’s answers surprise you?",
+        "confidence": 0.9183,
+        "bbox": {
+          "x": 0.141176,
+          "y": 0.748788,
+          "width": 0.632549,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAiR WORk Compare your information. Do any of your partner's answers surprise you?",
+            "confidence": 0.8953
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "C Compare your information. Do any of your partner’s answers surprise you?",
+            "confidence": 0.9183
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "sentence",
+        "content": "Do you and your partner have any similar behaviors?",
+        "confidence": 0.9611,
+        "bbox": {
+          "x": 0.165098,
+          "y": 0.767273,
+          "width": 0.36902,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Do you and your partner have any similar behaviors?",
+            "confidence": 0.9213
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Do you and your partner have any similar behaviors?",
+            "confidence": 0.9611
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "ly)",
+        "confidence": 0.59,
+        "bbox": {
+          "x": 0.789412,
+          "y": 0.84,
+          "width": 0.092157,
+          "height": 0.035152
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "lsobsoljduwgo",
+        "confidence": 0.5147,
+        "bbox": {
+          "x": 0.772667,
+          "y": 0.8949,
+          "width": 0.122667,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "lsobsoljduwgo",
+            "confidence": 0.5147
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "lized yl} duawge",
+            "confidence": 0.1367
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "124",
+        "confidence": 0.7497,
+        "bbox": {
+          "x": 0.062667,
+          "y": 0.957754,
+          "width": 0.034,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0029",
+        "type": "heading",
+        "content": "Keep talking!",
+        "confidence": 0.7558,
+        "bbox": {
+          "x": 0.138,
+          "y": 0.969603,
+          "width": 0.086667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "A: What do you do when you can't sleep at night?",
+            "confidence": 0.9527,
+            "bbox": {
+              "x": 0.163137,
+              "y": 0.675152,
+              "width": 0.375686,
+              "height": 0.015152
+            },
+            "sourceElementId": "text_0021",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "B: | usually read a book. How about you?",
+            "confidence": 0.9567,
+            "bbox": {
+              "x": 0.164314,
+              "y": 0.697879,
+              "width": 0.302353,
+              "height": 0.014545
+            },
+            "sourceElementId": "text_0022",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "A: When | can't sleep at night, | always listen to music.",
+            "confidence": 0.9492,
+            "bbox": {
+              "x": 0.163529,
+              "y": 0.719697,
+              "width": 0.411765,
+              "height": 0.017576
+            },
+            "sourceElementId": "text_0023",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Do you and your partner have any similar behaviors?",
+            "confidence": 0.9611,
+            "bbox": {
+              "x": 0.165098,
+              "y": 0.767273,
+              "width": 0.36902,
+              "height": 0.013333
+            },
+            "sourceElementId": "text_0025",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "B",
+        "type": "writing_activity",
+        "instruction": "Interview your partner. Complete the chart with his or her answers.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0020"
+        ],
+        "confidence": 0.9575
+      },
+      {
+        "exerciseNumber": "C",
+        "type": "exercise",
+        "instruction": "Compare your information. Do any of your partner’s answers surprise you?",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0024"
+        ],
+        "confidence": 0.9183
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "1 What do you do when you can’t sleep",
+          "at night?",
+          "2 What do you do if you forget to do",
+          "your homework?",
+          "3 When you feel really happy about",
+          "something, what do you do?",
+          "4 Whatdoyoudo if someonetellsyou",
+          "something that isn’t true?",
+          "5 Ifa friend calls you and you don’t",
+          "want to talk, what do you do?",
+          "6 What do you do when you are",
+          "extremely angry at someone?"
+        ],
+        "position": {
+          "x": 0.14533300000000002,
+          "y": 0.18393900000000002,
+          "width": 0.30996100000000004,
+          "height": 0.255152
+        },
+        "textElementIds": [
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "Lesson C\nunit\nSimilar behaviors\nA Writeyouranswerstothequestionsinthechart.\nName:\nQuestions\nMe\n1 What do you do when you can't sleep\nat night?\n2 What do you do if you forget to do\nyour homework?\n3Whenyoufeelreallyhappyabout\nsomething, what do you do?\n4 Whatdoyoudo if someonetellsyou\nSomething that isn't true?\n5 If a friend calls you and you don't\nwant to talk, what do you do?\n6 What do you do when you are\nextremely angry at someone?\nPAIR WORK Interview your partner.Complete the chart with his or her answers.\nA: What do you do when you can't sleep at night?\nB: I usually read a book. How about you?\nA: When I can't sleep at night, I always listen to music.\nPAiR WORk Compare your information. Do any of your partner's answers surprise you?\nDo you and your partner have any similar behaviors?\nlsobsoljduwgo\ndehkhodaedu.com\ndehkhodaedu.com\n124\nKeep talking!",
+      "tesseract_psm3": "Similar behaviors\n\n1 What do you do when you can’t sleep\nat night?\n\n2 What do you do if you forget to do\nyour homework?\n\n3 When you feel really happy about\nsomething, what do you do?\n\n——— |\nsomething that isn’t true?\n5 Ifa friend calls you and you don’t\n\nwant to talk, what do you do?\n\n6 What do you do when you are\nextremely angry at someone?\n\nB Interview your partner. Complete the chart with his or her answers.\nA: What do you do when you can't sleep at night?\nB: | usually read a book. How about you?\nA: When | can't sleep at night, | always listen to music.\n\nC Compare your information. Do any of your partner’s answers surprise you?\nDo you and your partner have any similar behaviors?\n\n=\nly)\n\nlized yl} duawge\ndehkhodaedu.com\n\ndehkhodaedu.com\n\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [
+      {
+        "id": "text_0013",
+        "type": "text",
+        "content": "——— |",
+        "confidence": 0.12,
+        "bbox": {
+          "x": 0.160392,
+          "y": 0.292727,
+          "width": 0.79098,
+          "height": 0.075455
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0027",
+        "type": "text",
+        "content": "=",
+        "confidence": 0.18,
+        "bbox": {
+          "x": 0.826275,
+          "y": 0.815455,
+          "width": 0.030588,
+          "height": 0.019697
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "averageConfidence": 0.8734,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "7 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "2 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "page",
+    "headings": [
+      "Lesson C",
+      "unit",
+      "Similar behaviors",
+      "Keep talking!"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Lesson C",
+        "confidence": 0.8442,
+        "bbox": {
+          "x": 0.216,
+          "y": 0.036579,
+          "width": 0.184,
+          "height": 0.02679
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.7994,
+        "bbox": {
+          "x": 0.093333,
+          "y": 0.047398,
+          "width": 0.038667,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Similar behaviors",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.13451,
+          "y": 0.116364,
+          "width": 0.267451,
+          "height": 0.019697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Similar behaviors",
+            "confidence": 0.955
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Similar behaviors",
+            "confidence": 0.8933
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "A Writeyouranswerstothequestionsinthechart.",
+        "confidence": 0.8798,
+        "bbox": {
+          "x": 0.132667,
+          "y": 0.151984,
+          "width": 0.365333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "instruction",
+        "content": "Name",
+        "confidence": 0.7489,
+        "bbox": {
+          "x": 0.698,
+          "y": 0.178774,
+          "width": 0.051333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "Questions",
+        "confidence": 0.8962,
+        "bbox": {
+          "x": 0.163333,
+          "y": 0.180319,
+          "width": 0.074,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Me",
+        "confidence": 0.5024,
+        "bbox": {
+          "x": 0.456667,
+          "y": 0.180319,
+          "width": 0.026,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0008",
+        "type": "paragraph",
+        "content": "1 What do you do when you can't sleep",
+        "confidence": 0.9411,
+        "bbox": {
+          "x": 0.166667,
+          "y": 0.203939,
+          "width": 0.268627,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "1 What do you do when you can't sleep",
+            "confidence": 0.8704
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 What do you do when you can’t sleep",
+            "confidence": 0.9411
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "at night?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.182353,
+          "y": 0.222121,
+          "width": 0.058431,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "at night?",
+            "confidence": 0.8852
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "at night?",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "paragraph",
+        "content": "2 What do you do if you forget to do",
+        "confidence": 0.951,
+        "bbox": {
+          "x": 0.166667,
+          "y": 0.240909,
+          "width": 0.245882,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2 What do you do if you forget to do",
+            "confidence": 0.86
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 What do you do if you forget to do",
+            "confidence": 0.951
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "your homework?",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.181961,
+          "y": 0.259091,
+          "width": 0.115686,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "your homework?",
+            "confidence": 0.8668
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "your homework?",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "paragraph",
+        "content": "3 When you feel really happy about",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.167059,
+          "y": 0.278182,
+          "width": 0.243529,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3Whenyoufeelreallyhappyabout",
+            "confidence": 0.8972
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 When you feel really happy about",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "something, what do you do?",
+        "confidence": 0.954,
+        "bbox": {
+          "x": 0.182745,
+          "y": 0.295758,
+          "width": 0.192941,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "something, what do you do?",
+            "confidence": 0.9029
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "something, what do you do?",
+            "confidence": 0.954
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "4 Whatdoyoudo if someonetellsyou",
+        "confidence": 0.8905,
+        "bbox": {
+          "x": 0.165333,
+          "y": 0.313756,
+          "width": 0.264,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "something that isn't true?",
+        "confidence": 0.945,
+        "bbox": {
+          "x": 0.183137,
+          "y": 0.33303,
+          "width": 0.175686,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Something that isn't true?",
+            "confidence": 0.919
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "something that isn’t true?",
+            "confidence": 0.945
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "paragraph",
+        "content": "5 Ifa friend calls you and you don't",
+        "confidence": 0.8738,
+        "bbox": {
+          "x": 0.167843,
+          "y": 0.351818,
+          "width": 0.241569,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "5 If a friend calls you and you don't",
+            "confidence": 0.8489
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 Ifa friend calls you and you don’t",
+            "confidence": 0.8738
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "sentence",
+        "content": "want to talk, what do you do?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.183529,
+          "y": 0.369697,
+          "width": 0.200784,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "want to talk, what do you do?",
+            "confidence": 0.9307
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "want to talk, what do you do?",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "paragraph",
+        "content": "6 What do you do when you are",
+        "confidence": 0.9512,
+        "bbox": {
+          "x": 0.168235,
+          "y": 0.389394,
+          "width": 0.217647,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "6 What do you do when you are",
+            "confidence": 0.8912
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "6 What do you do when you are",
+            "confidence": 0.9512
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "extremely angry at someone?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.183922,
+          "y": 0.40697,
+          "width": 0.200784,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "extremely angry at someone?",
+            "confidence": 0.9204
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "extremely angry at someone?",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "B Interview your partner. Complete the chart with his or her answers.",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.140784,
+          "y": 0.653333,
+          "width": 0.58,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAIR WORK Interview your partner.Complete the chart with his or her answers.",
+            "confidence": 0.8987
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Interview your partner. Complete the chart with his or her answers.",
+            "confidence": 0.9575
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "dialogue_line",
+        "content": "A: What do you do when you can't sleep at night?",
+        "confidence": 0.9527,
+        "bbox": {
+          "x": 0.163137,
+          "y": 0.675152,
+          "width": 0.375686,
+          "height": 0.015152
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: What do you do when you can't sleep at night?",
+            "confidence": 0.9276
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: What do you do when you can't sleep at night?",
+            "confidence": 0.9527
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "dialogue_line",
+        "content": "B: | usually read a book. How about you?",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.164314,
+          "y": 0.697879,
+          "width": 0.302353,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B: I usually read a book. How about you?",
+            "confidence": 0.8986
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: | usually read a book. How about you?",
+            "confidence": 0.9567
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "dialogue_line",
+        "content": "A: When | can't sleep at night, | always listen to music.",
+        "confidence": 0.9492,
+        "bbox": {
+          "x": 0.163529,
+          "y": 0.719697,
+          "width": 0.411765,
+          "height": 0.017576
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: When I can't sleep at night, I always listen to music.",
+            "confidence": 0.9141
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: When | can't sleep at night, | always listen to music.",
+            "confidence": 0.9492
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "sentence",
+        "content": "C Compare your information. Do any of your partner's answers surprise you?",
+        "confidence": 0.9183,
+        "bbox": {
+          "x": 0.141176,
+          "y": 0.748788,
+          "width": 0.632549,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAiR WORk Compare your information. Do any of your partner's answers surprise you?",
+            "confidence": 0.8953
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "C Compare your information. Do any of your partner’s answers surprise you?",
+            "confidence": 0.9183
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "sentence",
+        "content": "Do you and your partner have any similar behaviors?",
+        "confidence": 0.9611,
+        "bbox": {
+          "x": 0.165098,
+          "y": 0.767273,
+          "width": 0.36902,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Do you and your partner have any similar behaviors?",
+            "confidence": 0.9213
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Do you and your partner have any similar behaviors?",
+            "confidence": 0.9611
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "ly)",
+        "confidence": 0.59,
+        "bbox": {
+          "x": 0.789412,
+          "y": 0.84,
+          "width": 0.092157,
+          "height": 0.035152
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "lsobsoljduwgo",
+        "confidence": 0.5147,
+        "bbox": {
+          "x": 0.772667,
+          "y": 0.8949,
+          "width": 0.122667,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "lsobsoljduwgo",
+            "confidence": 0.5147
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "lized yl} duawge",
+            "confidence": 0.1367
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0029",
+        "type": "heading",
+        "content": "Keep talking!",
+        "confidence": 0.7558,
+        "bbox": {
+          "x": 0.138,
+          "y": 0.969603,
+          "width": 0.086667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Lesson C",
+      "unit",
+      "Similar behaviors",
+      "A Writeyouranswerstothequestionsinthechart.",
+      "Name",
+      "Questions",
+      "Me",
+      "1 What do you do when you can't sleep",
+      "at night?",
+      "2 What do you do if you forget to do",
+      "your homework?",
+      "3 When you feel really happy about",
+      "something, what do you do?",
+      "4 Whatdoyoudo if someonetellsyou",
+      "something that isn't true?",
+      "5 Ifa friend calls you and you don't",
+      "want to talk, what do you do?",
+      "6 What do you do when you are",
+      "extremely angry at someone?",
+      "B Interview your partner. Complete the chart with his or her answers.",
+      "A: What do you do when you can't sleep at night?",
+      "B: | usually read a book. How about you?",
+      "A: When | can't sleep at night, | always listen to music.",
+      "C Compare your information. Do any of your partner's answers surprise you?",
+      "Do you and your partner have any similar behaviors?",
+      "ly)",
+      "lsobsoljduwgo",
+      "Keep talking!"
+    ],
+    "paragraphs": [
+      "1 What do you do when you can't sleep",
+      "2 What do you do if you forget to do",
+      "3 When you feel really happy about",
+      "5 Ifa friend calls you and you don't",
+      "6 What do you do when you are"
+    ],
+    "sentences": [
+      "Lesson C unit Similar behaviors A Writeyouranswerstothequestionsinthechart",
+      "Name Questions Me 1 What do you do when you can't sleep at night",
+      "2 What do you do if you forget to do your homework",
+      "3 When you feel really happy about something, what do you do",
+      "4 Whatdoyoudo if someonetellsyou something that isn't true",
+      "5 Ifa friend calls you and you don't want to talk, what do you do",
+      "6 What do you do when you are extremely angry at someone",
+      "B Interview your partner",
+      "Complete the chart with his or her answers",
+      "A: What do you do when you can't sleep at night",
+      "B: | usually read a book",
+      "How about you",
+      "A: When | can't sleep at night, | always listen to music",
+      "C Compare your information",
+      "Do any of your partner's answers surprise you",
+      "Do you and your partner have any similar behaviors",
+      "ly) lsobsoljduwgo Keep talking"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "A: What do you do when you can't sleep at night?",
+            "confidence": 0.9527,
+            "bbox": {
+              "x": 0.163137,
+              "y": 0.675152,
+              "width": 0.375686,
+              "height": 0.015152
+            },
+            "sourceElementId": "text_0021"
+          },
+          {
+            "speaker": null,
+            "content": "B: | usually read a book.",
+            "confidence": 0.9567,
+            "bbox": {
+              "x": 0.164314,
+              "y": 0.697879,
+              "width": 0.302353,
+              "height": 0.014545
+            },
+            "sourceElementId": "text_0022"
+          },
+          {
+            "speaker": null,
+            "content": "How about you?",
+            "confidence": 0.9567,
+            "bbox": {
+              "x": 0.164314,
+              "y": 0.697879,
+              "width": 0.302353,
+              "height": 0.014545
+            },
+            "sourceElementId": "text_0022"
+          },
+          {
+            "speaker": null,
+            "content": "A: When | can't sleep at night, | always listen to music.",
+            "confidence": 0.9492,
+            "bbox": {
+              "x": 0.163529,
+              "y": 0.719697,
+              "width": 0.411765,
+              "height": 0.017576
+            },
+            "sourceElementId": "text_0023"
+          },
+          {
+            "speaker": null,
+            "content": "Do you and your partner have any similar behaviors?",
+            "confidence": 0.9611,
+            "bbox": {
+              "x": 0.165098,
+              "y": 0.767273,
+              "width": 0.36902,
+              "height": 0.013333
+            },
+            "sourceElementId": "text_0025"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "B",
+        "type": "asking_answering",
+        "instruction": "Interview your partner. Complete the chart with his or her answers.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "C",
+        "type": "asking_answering",
+        "instruction": "Compare your information. Do any of your partner's answers surprise you?",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "1 What do you do when you can't sleep",
+          "at night?",
+          "2 What do you do if you forget to do",
+          "your homework?",
+          "3 When you feel really happy about",
+          "something, what do you do?",
+          "4 Whatdoyoudo if someonetellsyou",
+          "something that isn't true?",
+          "5 Ifa friend calls you and you don't",
+          "want to talk, what do you do?",
+          "6 What do you do when you are",
+          "extremely angry at someone?"
+        ],
+        "position": {
+          "x": 0.14533300000000002,
+          "y": 0.18393900000000002,
+          "width": 0.30996100000000004,
+          "height": 0.255152
+        },
+        "textElementIds": [
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019"
+        ]
+      }
+    ],
+    "excludedGarbage": [
+      "124"
+    ]
+  },
+  "learningContent": {
+    "pageType": "page",
+    "title": "Lesson C",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "A: What do you do when you can't sleep at night?",
+            "confidence": 0.9527
+          },
+          {
+            "speaker": null,
+            "content": "B: | usually read a book.",
+            "confidence": 0.9567
+          },
+          {
+            "speaker": null,
+            "content": "How about you?",
+            "confidence": 0.9567
+          },
+          {
+            "speaker": null,
+            "content": "A: When | can't sleep at night, | always listen to music.",
+            "confidence": 0.9492
+          },
+          {
+            "speaker": null,
+            "content": "Do you and your partner have any similar behaviors?",
+            "confidence": 0.9611
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "B",
+        "type": "asking_answering",
+        "instruction": "Interview your partner. Complete the chart with his or her answers.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "C",
+        "type": "asking_answering",
+        "instruction": "Compare your information. Do any of your partner's answers surprise you?",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "7 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "2 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content.",
+      "1 garbage string(s) excluded"
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "garbageExcluded": 1,
+      "dialoguesSplit": 2
+    },
+    "averageOcrConfidence": 0.8734,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 3 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc3_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

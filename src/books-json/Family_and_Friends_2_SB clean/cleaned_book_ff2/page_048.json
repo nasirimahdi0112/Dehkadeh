@@ -1,0 +1,1451 @@
+{
+  "pageNumber": 47,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "verified sequential printed-footer pattern",
+  "pdfPageNumber": 48,
+  "source": {
+    "pdfFile": "Family and Friends 2 SB_Part1.pdf",
+    "pdfLocalPageNumber": 48,
+    "pageSizePoints": {
+      "width": 595.2,
+      "height": 785.04
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Project",
+        "confidence": 0.8336,
+        "bbox": {
+          "x": 0.857333,
+          "y": 0.069767,
+          "width": 0.101333,
+          "height": 0.025278
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Listen and write the number.",
+        "confidence": 0.8655,
+        "bbox": {
+          "x": 0.081333,
+          "y": 0.088979,
+          "width": 0.343333,
+          "height": 0.017695
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listen and write the number. @) « SE",
+            "confidence": 0.7438
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen and write the number.",
+            "confidence": 0.8655
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "label",
+        "content": "65",
+        "confidence": 0.6136,
+        "bbox": {
+          "x": 0.462,
+          "y": 0.094034,
+          "width": 0.016,
+          "height": 0.010617
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "2Project.Paint a self-portrait.",
+        "confidence": 0.9034,
+        "bbox": {
+          "x": 0.051333,
+          "y": 0.259353,
+          "width": 0.365333,
+          "height": 0.021234
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "Lookinamirror.Whatshapes",
+        "confidence": 0.897,
+        "bbox": {
+          "x": 0.09,
+          "y": 0.463094,
+          "width": 0.305333,
+          "height": 0.017695
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "instruction",
+        "content": "Look in a mirror. What shapes Draw your face. Color it with crayons",
+        "confidence": 0.9508,
+        "bbox": {
+          "x": 0.091129,
+          "y": 0.463773,
+          "width": 0.830645,
+          "height": 0.018343
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Drawyourface.Color itwith crayons",
+            "confidence": 0.9155
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Look in a mirror. What shapes Draw your face. Color it with crayons",
+            "confidence": 0.9508
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "paragraph",
+        "content": "and colors are in your face? and cut out the picture.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.091129,
+          "y": 0.486396,
+          "width": 0.68871,
+          "height": 0.018343
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "and colors are in your face?",
+            "confidence": 0.86
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "and colors are in your face? and cut out the picture.",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "and cutoutthepicture.",
+            "confidence": 0.9145
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "paragraph",
+        "content": "Glue yourface onto the background.",
+        "confidence": 0.8679,
+        "bbox": {
+          "x": 0.530667,
+          "y": 0.691102,
+          "width": 0.39,
+          "height": 0.019211
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "paragraph",
+        "content": "Paint a background and decorate it",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.091129,
+          "y": 0.692449,
+          "width": 0.376613,
+          "height": 0.018343
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Paint a background and decorate it",
+            "confidence": 0.9567
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Paintabackgroundand decorateit",
+            "confidence": 0.9237
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "paragraph",
+        "content": "with things that you like.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.089919,
+          "y": 0.715378,
+          "width": 0.259274,
+          "height": 0.018343
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "withthings thatyou like.",
+            "confidence": 0.8788
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "with things that you like.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "Talk about your project.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.085081,
+          "y": 0.753592,
+          "width": 0.280242,
+          "height": 0.01926
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3 Talk about your project.",
+            "confidence": 0.8862
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Talk about your project.",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "paragraph",
+        "content": "This is my self-portrait. My hair",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.097984,
+          "y": 0.79731,
+          "width": 0.294758,
+          "height": 0.017426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "This is my self-portrait.Myhair",
+            "confidence": 0.8814
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "This is my self-portrait. My hair",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "sentence",
+        "content": "is long and blond. My eyes are",
+        "confidence": 0.9586,
+        "bbox": {
+          "x": 0.10121,
+          "y": 0.817487,
+          "width": 0.288306,
+          "height": 0.017426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "is long and blond. My eyes are",
+            "confidence": 0.9586
+          },
+          {
+            "engine": "rapidocr",
+            "content": "islong and blond.Myeyes are",
+            "confidence": 0.8505
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "paragraph",
+        "content": "blue. | like flowers. There are",
+        "confidence": 0.9483,
+        "bbox": {
+          "x": 0.112903,
+          "y": 0.838581,
+          "width": 0.266129,
+          "height": 0.016509
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "blue.Ilikeflowers.There are",
+            "confidence": 0.8917
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "blue. | like flowers. There are",
+            "confidence": 0.9483
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "flowers in the background",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.122177,
+          "y": 0.858453,
+          "width": 0.245161,
+          "height": 0.016814
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "flowersinthebackground",
+            "confidence": 0.8932
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "flowers in the background",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "of my picture.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.179839,
+          "y": 0.87863,
+          "width": 0.129032,
+          "height": 0.017426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "of my picture.",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "ofmy picture.",
+            "confidence": 0.8447
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "47",
+        "confidence": 0.6649,
+        "bbox": {
+          "x": 0.956,
+          "y": 0.954499,
+          "width": 0.029333,
+          "height": 0.016684
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "Prajectaseff-portrair",
+        "confidence": 0.8124,
+        "bbox": {
+          "x": 0.730667,
+          "y": 0.955511,
+          "width": 0.176,
+          "height": 0.016178
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [],
+    "ocrExercises": [],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Glue yourface onto the background.",
+          "Paint a background and decorate it",
+          "with things that you like.",
+          "Talk about your project.",
+          "This is my self-portrait. My hair",
+          "is long and blond. My eyes are",
+          "blue. | like flowers. There are",
+          "flowers in the background"
+        ],
+        "position": {
+          "x": 0.065081,
+          "y": 0.671102,
+          "width": 0.875586,
+          "height": 0.224165
+        },
+        "textElementIds": [
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "rawOcrAudit": {
+      "rapidocr": "Project\nListen and write the number.\n65\n2Project.Paint a self-portrait.\nDrawyourface.Color itwith crayons\nLookinamirror.Whatshapes\nand colors are in your face?\nand cutoutthepicture.\nGlue yourface onto the background.\nPaintabackgroundand decorateit\nwiththings thatyou like.\n3 Talk about your project.\nThis is my self-portrait.Myhair\nislong and blond.Myeyes are\nblue.Ilikeflowers.There are\nflowersinthebackground\nofmy picture.\n47\nPrajectaseff-portrair",
+      "tesseract_psm3": "Listen and write the number. @) « SE\n\nLook in a mirror. What shapes Draw your face. Color it with crayons\nand colors are in your face? and cut out the picture.\n\nPaint a background and decorate it\nwith things that you like.\n\nTalk about your project.\n\nThis is my self-portrait. My hair\nis long and blond. My eyes are\nblue. | like flowers. There are\nflowers in the background\nof my picture.\n\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": "",
+      "footer_passes": [
+        "oy my picture. » v sd | =,",
+        "oy my picture.\n\ny\n\nv\n\ned\n\na"
+      ]
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8907,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "2 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "page",
+    "pagePurpose": null,
+    "readingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "headings": [
+      {
+        "id": "text_0001",
+        "content": "Project",
+        "confidence": 0.8336,
+        "bbox": {
+          "x": 0.857333,
+          "y": 0.069767,
+          "width": 0.101333,
+          "height": 0.025278
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0001"
+        ]
+      },
+      {
+        "id": "text_0002",
+        "content": "Listen and write the number.",
+        "confidence": 0.8655,
+        "bbox": {
+          "x": 0.081333,
+          "y": 0.088979,
+          "width": 0.343333,
+          "height": 0.017695
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      }
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Project",
+        "originalContent": "Project",
+        "confidence": 0.8336,
+        "bbox": {
+          "x": 0.857333,
+          "y": 0.069767,
+          "width": 0.101333,
+          "height": 0.025278
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Listen and write the number.",
+        "originalContent": "Listen and write the number.",
+        "confidence": 0.8655,
+        "bbox": {
+          "x": 0.081333,
+          "y": 0.088979,
+          "width": 0.343333,
+          "height": 0.017695
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listen and write the number. @) « SE",
+            "confidence": 0.7438
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen and write the number.",
+            "confidence": 0.8655
+          }
+        ]
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "2 Project. Paint a self-portrait.",
+        "originalContent": "2Project.Paint a self-portrait.",
+        "confidence": 0.9034,
+        "bbox": {
+          "x": 0.051333,
+          "y": 0.259353,
+          "width": 0.365333,
+          "height": 0.021234
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "Look in a mirror. What shapes",
+        "originalContent": "Lookinamirror.Whatshapes",
+        "confidence": 0.897,
+        "bbox": {
+          "x": 0.09,
+          "y": 0.463094,
+          "width": 0.305333,
+          "height": 0.017695
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0006",
+        "type": "instruction",
+        "content": "Look in a mirror. What shapes Draw your face. Color it with crayons",
+        "originalContent": "Look in a mirror. What shapes Draw your face. Color it with crayons",
+        "confidence": 0.9508,
+        "bbox": {
+          "x": 0.091129,
+          "y": 0.463773,
+          "width": 0.830645,
+          "height": 0.018343
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Drawyourface.Color itwith crayons",
+            "confidence": 0.9155
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Look in a mirror. What shapes Draw your face. Color it with crayons",
+            "confidence": 0.9508
+          }
+        ]
+      },
+      {
+        "id": "text_0007",
+        "type": "paragraph",
+        "content": "and colors are in your face? and cut out the picture.",
+        "originalContent": "and colors are in your face? and cut out the picture.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.091129,
+          "y": 0.486396,
+          "width": 0.68871,
+          "height": 0.018343
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "and colors are in your face?",
+            "confidence": 0.86
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "and colors are in your face? and cut out the picture.",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "and cutoutthepicture.",
+            "confidence": 0.9145
+          }
+        ]
+      },
+      {
+        "id": "text_0008",
+        "type": "paragraph",
+        "content": "Glue your face onto the background.",
+        "originalContent": "Glue yourface onto the background.",
+        "confidence": 0.8679,
+        "bbox": {
+          "x": 0.530667,
+          "y": 0.691102,
+          "width": 0.39,
+          "height": 0.019211
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0009",
+        "type": "paragraph",
+        "content": "Paint a background and decorate it",
+        "originalContent": "Paint a background and decorate it",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.091129,
+          "y": 0.692449,
+          "width": 0.376613,
+          "height": 0.018343
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Paint a background and decorate it",
+            "confidence": 0.9567
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Paintabackgroundand decorateit",
+            "confidence": 0.9237
+          }
+        ]
+      },
+      {
+        "id": "text_0010",
+        "type": "paragraph",
+        "content": "with things that you like.",
+        "originalContent": "with things that you like.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.089919,
+          "y": 0.715378,
+          "width": 0.259274,
+          "height": 0.018343
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "withthings thatyou like.",
+            "confidence": 0.8788
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "with things that you like.",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "Talk about your project.",
+        "originalContent": "Talk about your project.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.085081,
+          "y": 0.753592,
+          "width": 0.280242,
+          "height": 0.01926
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3 Talk about your project.",
+            "confidence": 0.8862
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Talk about your project.",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0012",
+        "type": "paragraph",
+        "content": "This is my self-portrait. My hair",
+        "originalContent": "This is my self-portrait. My hair",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.097984,
+          "y": 0.79731,
+          "width": 0.294758,
+          "height": 0.017426
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "This is my self-portrait.Myhair",
+            "confidence": 0.8814
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "This is my self-portrait. My hair",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0013",
+        "type": "sentence",
+        "content": "is long and blond. My eyes are",
+        "originalContent": "is long and blond. My eyes are",
+        "confidence": 0.9586,
+        "bbox": {
+          "x": 0.10121,
+          "y": 0.817487,
+          "width": 0.288306,
+          "height": 0.017426
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "is long and blond. My eyes are",
+            "confidence": 0.9586
+          },
+          {
+            "engine": "rapidocr",
+            "content": "islong and blond.Myeyes are",
+            "confidence": 0.8505
+          }
+        ]
+      },
+      {
+        "id": "text_0014",
+        "type": "paragraph",
+        "content": "blue. | like flowers. There are",
+        "originalContent": "blue. | like flowers. There are",
+        "confidence": 0.9483,
+        "bbox": {
+          "x": 0.112903,
+          "y": 0.838581,
+          "width": 0.266129,
+          "height": 0.016509
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "blue.Ilikeflowers.There are",
+            "confidence": 0.8917
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "blue. | like flowers. There are",
+            "confidence": 0.9483
+          }
+        ]
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "flowers in the background",
+        "originalContent": "flowers in the background",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.122177,
+          "y": 0.858453,
+          "width": 0.245161,
+          "height": 0.016814
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "flowersinthebackground",
+            "confidence": 0.8932
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "flowers in the background",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "of my picture.",
+        "originalContent": "of my picture.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.179839,
+          "y": 0.87863,
+          "width": 0.129032,
+          "height": 0.017426
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "of my picture.",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "ofmy picture.",
+            "confidence": 0.8447
+          }
+        ]
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "P raj ect as eff-port r air",
+        "originalContent": "Prajectaseff-portrair",
+        "confidence": 0.8124,
+        "bbox": {
+          "x": 0.730667,
+          "y": 0.955511,
+          "width": 0.176,
+          "height": 0.016178
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Project",
+      "Listen and write the number.",
+      "2 Project. Paint a self-portrait.",
+      "Look in a mirror. What shapes",
+      "Look in a mirror. What shapes Draw your face. Color it with crayons",
+      "and colors are in your face? and cut out the picture.",
+      "Glue your face onto the background.",
+      "Paint a background and decorate it",
+      "with things that you like.",
+      "Talk about your project.",
+      "This is my self-portrait. My hair",
+      "is long and blond. My eyes are",
+      "blue. | like flowers. There are",
+      "flowers in the background",
+      "of my picture.",
+      "P raj ect as eff-port r air"
+    ],
+    "paragraphs": [
+      {
+        "id": "text_0007",
+        "content": "and colors are in your face? and cut out the picture.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.091129,
+          "y": 0.486396,
+          "width": 0.68871,
+          "height": 0.018343
+        },
+        "sourceElementIds": [
+          "text_0007"
+        ]
+      },
+      {
+        "id": "text_0008",
+        "content": "Glue your face onto the background.",
+        "confidence": 0.8679,
+        "bbox": {
+          "x": 0.530667,
+          "y": 0.691102,
+          "width": 0.39,
+          "height": 0.019211
+        },
+        "sourceElementIds": [
+          "text_0008"
+        ]
+      },
+      {
+        "id": "text_0009",
+        "content": "Paint a background and decorate it",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.091129,
+          "y": 0.692449,
+          "width": 0.376613,
+          "height": 0.018343
+        },
+        "sourceElementIds": [
+          "text_0009"
+        ]
+      },
+      {
+        "id": "text_0010",
+        "content": "with things that you like.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.089919,
+          "y": 0.715378,
+          "width": 0.259274,
+          "height": 0.018343
+        },
+        "sourceElementIds": [
+          "text_0010"
+        ]
+      },
+      {
+        "id": "text_0012",
+        "content": "This is my self-portrait. My hair",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.097984,
+          "y": 0.79731,
+          "width": 0.294758,
+          "height": 0.017426
+        },
+        "sourceElementIds": [
+          "text_0012"
+        ]
+      },
+      {
+        "id": "text_0014",
+        "content": "blue. | like flowers. There are",
+        "confidence": 0.9483,
+        "bbox": {
+          "x": 0.112903,
+          "y": 0.838581,
+          "width": 0.266129,
+          "height": 0.016509
+        },
+        "sourceElementIds": [
+          "text_0014"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "text_0013",
+        "content": "is long and blond. My eyes are",
+        "confidence": 0.9586,
+        "bbox": {
+          "x": 0.10121,
+          "y": 0.817487,
+          "width": 0.288306,
+          "height": 0.017426
+        },
+        "sourceElementIds": [
+          "text_0013"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "of my picture",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.96,
+        "sourceElementIds": [
+          "text_0016"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      }
+    ],
+    "grammar": [],
+    "dialogues": [],
+    "exercises": [
+      {
+        "exerciseNumber": null,
+        "type": "listening_number",
+        "instruction": "Listen and write the number.",
+        "items": [],
+        "prompts": [],
+        "blanks": [],
+        "choices": [],
+        "matchingPairs": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "sourceElementIds": [
+          "text_0002"
+        ],
+        "confidence": 0.8655,
+        "repairNotes": []
+      },
+      {
+        "exerciseNumber": null,
+        "type": "activity",
+        "instruction": "Look in a mirror. What shapes",
+        "items": [],
+        "prompts": [],
+        "blanks": [],
+        "choices": [],
+        "matchingPairs": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "sourceElementIds": [
+          "text_0005"
+        ],
+        "confidence": 0.897,
+        "repairNotes": []
+      },
+      {
+        "exerciseNumber": null,
+        "type": "activity",
+        "instruction": "Look in a mirror. What shapes Draw your face. Color it with crayons",
+        "items": [],
+        "prompts": [],
+        "blanks": [],
+        "choices": [],
+        "matchingPairs": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "sourceElementIds": [
+          "text_0006"
+        ],
+        "confidence": 0.9508,
+        "repairNotes": []
+      },
+      {
+        "exerciseNumber": null,
+        "type": "activity",
+        "instruction": "Talk about your project.",
+        "items": [],
+        "prompts": [],
+        "blanks": [],
+        "choices": [],
+        "matchingPairs": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "sourceElementIds": [
+          "text_0011"
+        ],
+        "confidence": 0.96,
+        "repairNotes": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Glue your face onto the background.",
+          "Paint a background and decorate it",
+          "with things that you like.",
+          "Talk about your project.",
+          "This is my self-portrait. My hair",
+          "is long and blond. My eyes are",
+          "blue. | like flowers. There are",
+          "flowers in the background"
+        ],
+        "position": {
+          "x": 0.065081,
+          "y": 0.671102,
+          "width": 0.875586,
+          "height": 0.224165
+        },
+        "textElementIds": [
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "nonEducationalText": [],
+    "excludedGarbage": [
+      {
+        "id": "text_0003",
+        "content": "65",
+        "originalContent": "65",
+        "confidence": 0.6136
+      },
+      {
+        "id": "text_0017",
+        "content": "47",
+        "originalContent": "47",
+        "confidence": 0.6649
+      }
+    ]
+  },
+  "learningContent": {
+    "pageType": "page",
+    "title": "Project",
+    "learningObjectives": [],
+    "targetVocabulary": [
+      {
+        "word": "of my picture",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.96,
+        "sourceElementIds": [
+          "text_0016"
+        ]
+      }
+    ],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [],
+    "reading": [
+      {
+        "title": "Project",
+        "text": "and colors are in your face? and cut out the picture.",
+        "confidence": 0.96,
+        "sourceElementIds": [
+          "text_0007"
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": null,
+        "type": "listening_number",
+        "instruction": "Listen and write the number.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8655,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "activity",
+        "instruction": "Look in a mirror. What shapes",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.897,
+        "sourceElementIds": [
+          "text_0005"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "activity",
+        "instruction": "Look in a mirror. What shapes Draw your face. Color it with crayons",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.9508,
+        "sourceElementIds": [
+          "text_0006"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "activity",
+        "instruction": "Talk about your project.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.96,
+        "sourceElementIds": [
+          "text_0011"
+        ]
+      }
+    ],
+    "pronunciation": [],
+    "listening": [
+      {
+        "exerciseNumber": null,
+        "instruction": "Listen and write the number.",
+        "type": "listening_number",
+        "confidence": 0.8655
+      }
+    ],
+    "speaking": [
+      {
+        "exerciseNumber": null,
+        "instruction": "Look in a mirror. What shapes",
+        "type": "activity",
+        "confidence": 0.897
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Look in a mirror. What shapes Draw your face. Color it with crayons",
+        "type": "activity",
+        "confidence": 0.9508
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Talk about your project.",
+        "type": "activity",
+        "confidence": 0.96
+      }
+    ],
+    "writing": [
+      {
+        "exerciseNumber": null,
+        "instruction": "Listen and write the number.",
+        "type": "listening_number",
+        "confidence": 0.8655
+      }
+    ],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "text_kept": 16,
+      "garbage_excluded": 2,
+      "text_repaired": 4,
+      "vocab_kept": 1,
+      "exercises_reconstructed": 4
+    },
+    "averageOcrConfidence": 0.8907
+  },
+  "metadata": {
+    "book": "Family and Friends 2 Student Book (American)",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_ff2_v1",
+    "originalOcrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "originalAverageConfidence": 0.8907,
+    "noHallucinationPolicy": "Definitions, translations, speaker names, answers, and grammar rules are null or omitted unless visibly supported by page OCR/PDF. Text repairs are limited to spacing, punctuation, and clear OCR character errors."
+  }
+}

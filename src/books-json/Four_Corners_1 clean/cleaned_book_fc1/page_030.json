@@ -1,0 +1,3519 @@
+{
+  "pageNumber": 27,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 30,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 1_Part2.pdf",
+    "pdfLocalPageNumber": 4,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.844314,
+          "y": 0.029697,
+          "width": 0.027843,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "unit",
+            "confidence": 0.7318
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "unit",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Grammar Demonstratives; articles a and an, plurals",
+        "confidence": 0.9071,
+        "bbox": {
+          "x": 0.111333,
+          "y": 0.088614,
+          "width": 0.713333,
+          "height": 0.024214
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 | Grammar a DEEGNatiatNies, articles aand an; plurals",
+            "confidence": 0.7433
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Grammar  Demonstratives; articles a and an, plurals",
+            "confidence": 0.9071
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "What's this?",
+        "confidence": 0.808,
+        "bbox": {
+          "x": 0.154667,
+          "y": 0.127254,
+          "width": 0.082667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "What's that?",
+        "confidence": 0.8218,
+        "bbox": {
+          "x": 0.364,
+          "y": 0.128284,
+          "width": 0.085333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "heading",
+        "content": "What are these?",
+        "confidence": 0.8637,
+        "bbox": {
+          "x": 0.563333,
+          "y": 0.1288,
+          "width": 0.109333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "~ What’ S this? ; What’ S s that?” What are these? What are those?",
+            "confidence": 0.664
+          },
+          {
+            "engine": "rapidocr",
+            "content": "What are these?",
+            "confidence": 0.8637
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "heading",
+        "content": "What are those?",
+        "confidence": 0.8301,
+        "bbox": {
+          "x": 0.758667,
+          "y": 0.129315,
+          "width": 0.108,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "It'smydictionary",
+        "confidence": 0.8904,
+        "bbox": {
+          "x": 0.154,
+          "y": 0.205564,
+          "width": 0.121333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "sentence",
+        "content": "It’s my dictionary. They’re my English books.",
+        "confidence": 0.9429,
+        "bbox": {
+          "x": 0.156471,
+          "y": 0.208182,
+          "width": 0.582353,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "They'remy English books.",
+            "confidence": 0.8596
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "It’s my dictionary. They’re my English books.",
+            "confidence": 0.9429
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "sentence",
+        "content": "Is this your dictionary? Are these your English books?",
+        "confidence": 0.9522,
+        "bbox": {
+          "x": 0.134118,
+          "y": 0.228485,
+          "width": 0.605882,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Is this yourdictionary?",
+            "confidence": 0.8789
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Is this your dictionary? Are these your English books?",
+            "confidence": 0.9522
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Are these your English books?",
+            "confidence": 0.8818
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "sentence",
+        "content": "Is that your dictionary? Are those your English books?",
+        "confidence": 0.9544,
+        "bbox": {
+          "x": 0.133725,
+          "y": 0.245758,
+          "width": 0.607059,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Is that your dictionary?",
+            "confidence": 0.8502
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Is that your dictionary? Are those your English books?",
+            "confidence": 0.9544
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Are those your English books?",
+            "confidence": 0.9175
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "Yes,it is.",
+        "confidence": 0.8388,
+        "bbox": {
+          "x": 0.154,
+          "y": 0.261721,
+          "width": 0.065333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "No,it's not",
+        "confidence": 0.8193,
+        "bbox": {
+          "x": 0.235333,
+          "y": 0.262236,
+          "width": 0.079333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "Yes, they are.No, they're not.",
+        "confidence": 0.9101,
+        "bbox": {
+          "x": 0.562667,
+          "y": 0.262751,
+          "width": 0.221333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Yes, they are.No, they're not.",
+            "confidence": 0.9101
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Yes, itis. No, it’s not. Yes, theyare. No, they’re not.",
+            "confidence": 0.64
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "Articlesaand an",
+        "confidence": 0.8518,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.288511,
+          "width": 0.116667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Articlesaand an",
+            "confidence": 0.8518
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Articles a and an Plurals",
+            "confidence": 0.658
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "Plurals",
+        "confidence": 0.7286,
+        "bbox": {
+          "x": 0.54,
+          "y": 0.290057,
+          "width": 0.052,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "abag",
+        "confidence": 0.796,
+        "bbox": {
+          "x": 0.302667,
+          "y": 0.305513,
+          "width": 0.044,
+          "height": 0.017517
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "a + consonant sound",
+        "confidence": 0.8611,
+        "bbox": {
+          "x": 0.132,
+          "y": 0.307573,
+          "width": 0.140667,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "a + consonant sound",
+            "confidence": 0.8611
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "a+ consonant sound a bag a book > two books",
+            "confidence": 0.873
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "abook-twobooks",
+        "confidence": 0.8817,
+        "bbox": {
+          "x": 0.540667,
+          "y": 0.311695,
+          "width": 0.133333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "paragraph",
+        "content": "an + vowel sound an eraser",
+        "confidence": 0.9483,
+        "bbox": {
+          "x": 0.133333,
+          "y": 0.325758,
+          "width": 0.234902,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "an+vowel sound",
+            "confidence": 0.8841
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "an + vowel sound an eraser",
+            "confidence": 0.9483
+          },
+          {
+            "engine": "rapidocr",
+            "content": "aneraser",
+            "confidence": 0.829
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "a watch > two watches",
+        "confidence": 0.924,
+        "bbox": {
+          "x": 0.542353,
+          "y": 0.333939,
+          "width": 0.151373,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "awatch-two watches",
+            "confidence": 0.8601
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "a watch > two watches",
+            "confidence": 0.924
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "a dictionary > two dictionaries",
+        "confidence": 0.938,
+        "bbox": {
+          "x": 0.542353,
+          "y": 0.354242,
+          "width": 0.203137,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "adictionary→two dictionaries",
+            "confidence": 0.9027
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "a dictionary > two dictionaries",
+            "confidence": 0.938
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "sentence",
+        "content": "Note: Sunglasses and glasses are always plural.",
+        "confidence": 0.9586,
+        "bbox": {
+          "x": 0.542745,
+          "y": 0.375455,
+          "width": 0.314118,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Note:Sunglasses and glasses are always plural.",
+            "confidence": 0.9242
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Note: Sunglasses and glasses are always plural.",
+            "confidence": 0.9586
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "sentence",
+        "content": "A Complete the conversations with the correct words. Then practice with a partner.",
+        "confidence": 0.9408,
+        "bbox": {
+          "x": 0.112157,
+          "y": 0.405455,
+          "width": 0.579216,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Complete the conversations with the correct words.Then practice witha partner.",
+            "confidence": 0.8963
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Complete the conversations with the correct words. Then practice with a partner.",
+            "confidence": 0.9408
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "What's this",
+        "confidence": 0.8739,
+        "bbox": {
+          "x": 0.13,
+          "y": 0.541473,
+          "width": 0.088667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What's this",
+            "confidence": 0.8739
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A What 6 this _ _? 2",
+            "confidence": 0.54
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "What",
+        "confidence": 0.7988,
+        "bbox": {
+          "x": 0.338667,
+          "y": 0.544565,
+          "width": 0.040667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "What",
+        "confidence": 0.7952,
+        "bbox": {
+          "x": 0.546667,
+          "y": 0.545595,
+          "width": 0.041333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "What",
+        "confidence": 0.7371,
+        "bbox": {
+          "x": 0.754667,
+          "y": 0.54611,
+          "width": 0.040667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "It's a watch.",
+        "confidence": 0.883,
+        "bbox": {
+          "x": 0.14,
+          "y": 0.561566,
+          "width": 0.093333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "It's a watch.",
+            "confidence": 0.883
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "e Itsawatch._ B serene ne A ae eas 8 Si ae",
+            "confidence": 0.3836
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "heading",
+        "content": "PAiRwoRk Askandanswerquestions abouteverydayitems inyour classroom.",
+        "confidence": 0.9342,
+        "bbox": {
+          "x": 0.132667,
+          "y": 0.590417,
+          "width": 0.547333,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAiRwoRk Askandanswerquestions abouteverydayitems inyour classroom.",
+            "confidence": 0.9342
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B PNY Ask and answer questions about everyday items in your classroom.",
+            "confidence": 0.9008
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "Pronunciation Plurals",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.113333,
+          "y": 0.626667,
+          "width": 0.314902,
+          "height": 0.018788
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Pronunciation Plurals",
+            "confidence": 0.9311
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Pronunciation Plurals",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "Same syllables",
+        "confidence": 0.8138,
+        "bbox": {
+          "x": 0.578,
+          "y": 0.63627,
+          "width": 0.103333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Same syllables Extra syllables",
+            "confidence": 0.385
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Same syllables",
+            "confidence": 0.8138
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "i , y",
+            "confidence": 0.2167
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "Extrasyllables",
+        "confidence": 0.9222,
+        "bbox": {
+          "x": 0.706,
+          "y": 0.636785,
+          "width": 0.098667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "paragraph",
+        "content": "eraser / erasers actress / actress-es",
+        "confidence": 0.9217,
+        "bbox": {
+          "x": 0.579216,
+          "y": 0.656061,
+          "width": 0.251373,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "eraser / erasers actress / actress-es",
+            "confidence": 0.9217
+          },
+          {
+            "engine": "rapidocr",
+            "content": "actress/actress-es",
+            "confidence": 0.8552
+          },
+          {
+            "engine": "rapidocr",
+            "content": "eraser/erasers",
+            "confidence": 0.8971
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "sentence",
+        "content": "©) Listen and repeat. Notice that some words have an extra",
+        "confidence": 0.9291,
+        "bbox": {
+          "x": 0.110588,
+          "y": 0.659697,
+          "width": 0.408235,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listen and repeat.Notice that somewords have an extra",
+            "confidence": 0.8918
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "©) Listen and repeat. Notice that some words have an extra",
+            "confidence": 0.9291
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "key / keys",
+        "confidence": 0.8482,
+        "bbox": {
+          "x": 0.578,
+          "y": 0.676971,
+          "width": 0.067333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "key / keys” oe “address / address: es",
+            "confidence": 0.5413
+          },
+          {
+            "engine": "rapidocr",
+            "content": "key / keys",
+            "confidence": 0.8482
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "address/address-es",
+        "confidence": 0.8562,
+        "bbox": {
+          "x": 0.704667,
+          "y": 0.676971,
+          "width": 0.138667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "syllable in their plural forms.",
+        "confidence": 0.956,
+        "bbox": {
+          "x": 0.134902,
+          "y": 0.679697,
+          "width": 0.196471,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "syllable in their plural forms.",
+            "confidence": 0.8896
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "syllable in their plural forms.",
+            "confidence": 0.956
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "laptop/laptops",
+        "confidence": 0.8978,
+        "bbox": {
+          "x": 0.577333,
+          "y": 0.698609,
+          "width": 0.108667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "| laptop / laptops “watch / watch: es",
+            "confidence": 0.8125
+          },
+          {
+            "engine": "rapidocr",
+            "content": "laptop/laptops",
+            "confidence": 0.8978
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "watch/watch·es",
+        "confidence": 0.8796,
+        "bbox": {
+          "x": 0.705333,
+          "y": 0.699639,
+          "width": 0.113333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "heading",
+        "content": "Speaking In my bag",
+        "confidence": 0.905,
+        "bbox": {
+          "x": 0.112157,
+          "y": 0.713636,
+          "width": 0.282745,
+          "height": 0.022121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Speaking In my bag",
+            "confidence": 0.8498
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Speaking In my bag",
+            "confidence": 0.905
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "heading",
+        "content": "PAIRWORK",
+        "confidence": 0.8396,
+        "bbox": {
+          "x": 0.110667,
+          "y": 0.746522,
+          "width": 0.08,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "paragraph",
+        "content": "Askandanswer10questions about theeveryday items inyourbags and",
+        "confidence": 0.9094,
+        "bbox": {
+          "x": 0.181333,
+          "y": 0.747038,
+          "width": 0.51,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Askandanswer10questions about theeveryday items inyourbags and",
+            "confidence": 0.9094
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "LAAEGLS Ask and answer 10 questions about the everyday items in your bags and",
+            "confidence": 0.8879
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "label",
+        "content": "in the classroom.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.111765,
+          "y": 0.766667,
+          "width": 0.116471,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "in the classroom.",
+            "confidence": 0.8759
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "in the classroom.",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "dialogue_line",
+        "content": "A: Is this your English book?",
+        "confidence": 0.9167,
+        "bbox": {
+          "x": 0.111373,
+          "y": 0.787576,
+          "width": 0.209804,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: is this your English book?",
+            "confidence": 0.9011
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: Is this your English book?",
+            "confidence": 0.9167
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0045",
+        "type": "dialogue_line",
+        "content": "B: No, it's not. It's my dictionary. What are those?",
+        "confidence": 0.9276,
+        "bbox": {
+          "x": 0.109333,
+          "y": 0.807316,
+          "width": 0.376667,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B: No, it's not. It's my dictionary. What are those?",
+            "confidence": 0.9276
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: No, it's not. It's my dictionary. What are those?",
+            "confidence": 0.907
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0046",
+        "type": "dialogue_line",
+        "content": "A: They're my keys.",
+        "confidence": 0.92,
+        "bbox": {
+          "x": 0.111373,
+          "y": 0.831515,
+          "width": 0.140392,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: They're my keys.",
+            "confidence": 0.8685
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: They're my keys.",
+            "confidence": 0.92
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0047",
+        "type": "heading",
+        "content": "Keep talking!",
+        "confidence": 0.8867,
+        "bbox": {
+          "x": 0.109333,
+          "y": 0.864503,
+          "width": 0.204667,
+          "height": 0.023699
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "| Keep talking!",
+            "confidence": 0.7367
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Keep talking!",
+            "confidence": 0.8867
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0048",
+        "type": "sentence",
+        "content": "Go to page 130 for more practice.",
+        "confidence": 0.902,
+        "bbox": {
+          "x": 0.114667,
+          "y": 0.8949,
+          "width": 0.229333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0049",
+        "type": "label",
+        "content": "27",
+        "confidence": 0.86,
+        "bbox": {
+          "x": 0.920784,
+          "y": 0.943333,
+          "width": 0.016471,
+          "height": 0.009091
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "27",
+            "confidence": 0.6647
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "27",
+            "confidence": 0.86
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0050",
+        "type": "sentence",
+        "content": "| can ask about and identify everyday items. @",
+        "confidence": 0.8811,
+        "bbox": {
+          "x": 0.587059,
+          "y": 0.946364,
+          "width": 0.290588,
+          "height": 0.015455
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "| can ask about and identify everyday items. @",
+            "confidence": 0.8811
+          },
+          {
+            "engine": "rapidocr",
+            "content": "can ask aboutand identifyeverydayitems.",
+            "confidence": 0.8693
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [
+      {
+        "topic": "Grammar Demonstratives; articles a and an, plurals",
+        "rule": [
+          "Grammar Demonstratives; articles a and an, plurals",
+          "It’s my dictionary. They’re my English books.",
+          "Yes, they are.No, they're not.",
+          "a + consonant sound",
+          "an + vowel sound an eraser",
+          "a watch > two watches",
+          "a dictionary > two dictionaries",
+          "A Complete the conversations with the correct words. Then practice with a partner.",
+          "It's a watch.",
+          "PAiRwoRk Askandanswerquestions abouteverydayitems inyour classroom.",
+          "eraser / erasers actress / actress-es",
+          "key / keys",
+          "syllable in their plural forms.",
+          "Speaking In my bag",
+          "in the classroom.",
+          "A: They're my keys.",
+          "Go to page 130 for more practice."
+        ],
+        "form": null,
+        "positiveExamples": [
+          "What's this?",
+          "What's that?",
+          "What are these?",
+          "What are those?",
+          "Is this your dictionary? Are these your English books?",
+          "Is that your dictionary? Are those your English books?",
+          "Note: Sunglasses and glasses are always plural.",
+          "What's this",
+          "What",
+          "What",
+          "What",
+          "©) Listen and repeat. Notice that some words have an extra",
+          "A: Is this your English book?",
+          "B: No, it's not. It's my dictionary. What are those?",
+          "| can ask about and identify everyday items. @"
+        ],
+        "negativeExamples": [],
+        "questionForms": [],
+        "shortAnswers": [],
+        "exceptions": [],
+        "usageNotes": [],
+        "practice": [
+          "Askandanswer10questions about theeveryday items inyourbags and",
+          "27"
+        ],
+        "confidence": 0.8847
+      }
+    ],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Is this your dictionary? Are these your English books?",
+            "confidence": 0.9522,
+            "bbox": {
+              "x": 0.134118,
+              "y": 0.228485,
+              "width": 0.605882,
+              "height": 0.013636
+            },
+            "sourceElementId": "text_0009",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Is that your dictionary? Are those your English books?",
+            "confidence": 0.9544,
+            "bbox": {
+              "x": 0.133725,
+              "y": 0.245758,
+              "width": 0.607059,
+              "height": 0.013636
+            },
+            "sourceElementId": "text_0010",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Yes,it is.",
+            "confidence": 0.8388,
+            "bbox": {
+              "x": 0.154,
+              "y": 0.261721,
+              "width": 0.065333,
+              "height": 0.012365
+            },
+            "sourceElementId": "text_0011",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Yes, they are.No, they're not.",
+            "confidence": 0.9101,
+            "bbox": {
+              "x": 0.562667,
+              "y": 0.262751,
+              "width": 0.221333,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0013",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Note: Sunglasses and glasses are always plural.",
+            "confidence": 0.9586,
+            "bbox": {
+              "x": 0.542745,
+              "y": 0.375455,
+              "width": 0.314118,
+              "height": 0.011818
+            },
+            "sourceElementId": "text_0022",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "It's a watch.",
+            "confidence": 0.883,
+            "bbox": {
+              "x": 0.14,
+              "y": 0.561566,
+              "width": 0.093333,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0028",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "A: Is this your English book?",
+            "confidence": 0.9167,
+            "bbox": {
+              "x": 0.111373,
+              "y": 0.787576,
+              "width": 0.209804,
+              "height": 0.013636
+            },
+            "sourceElementId": "text_0044",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "B: No, it's not. It's my dictionary. What are those?",
+            "confidence": 0.9276,
+            "bbox": {
+              "x": 0.109333,
+              "y": 0.807316,
+              "width": 0.376667,
+              "height": 0.017002
+            },
+            "sourceElementId": "text_0045",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "A: They're my keys.",
+            "confidence": 0.92,
+            "bbox": {
+              "x": 0.111373,
+              "y": 0.831515,
+              "width": 0.140392,
+              "height": 0.013333
+            },
+            "sourceElementId": "text_0046",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "writing_activity",
+        "instruction": "Complete the conversations with the correct words. Then practice with a partner.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0023"
+        ],
+        "confidence": 0.9408
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "It'smydictionary",
+          "It’s my dictionary. They’re my English books.",
+          "Is this your dictionary? Are these your English books?",
+          "Is that your dictionary? Are those your English books?",
+          "Yes,it is.",
+          "No,it's not",
+          "Yes, they are.No, they're not.",
+          "Articlesaand an",
+          "Plurals",
+          "abag",
+          "a + consonant sound",
+          "abook-twobooks",
+          "an + vowel sound an eraser",
+          "a watch > two watches",
+          "a dictionary > two dictionaries",
+          "Note: Sunglasses and glasses are always plural.",
+          "A Complete the conversations with the correct words. Then practice with a partner."
+        ],
+        "position": {
+          "x": 0.092157,
+          "y": 0.185564,
+          "width": 0.784706,
+          "height": 0.254436
+        },
+        "textElementIds": [
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "What's this",
+          "What",
+          "What",
+          "What",
+          "It's a watch.",
+          "PAiRwoRk Askandanswerquestions abouteverydayitems inyour classroom.",
+          "Pronunciation Plurals",
+          "Same syllables",
+          "Extrasyllables",
+          "eraser / erasers actress / actress-es",
+          "©) Listen and repeat. Notice that some words have an extra",
+          "key / keys",
+          "address/address-es",
+          "syllable in their plural forms.",
+          "laptop/laptops",
+          "watch/watch·es",
+          "Speaking In my bag",
+          "PAIRWORK",
+          "Askandanswer10questions about theeveryday items inyourbags and",
+          "in the classroom."
+        ],
+        "position": {
+          "x": 0.090588,
+          "y": 0.521473,
+          "width": 0.772746,
+          "height": 0.27458800000000005
+        },
+        "textElementIds": [
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040",
+          "text_0041",
+          "text_0042",
+          "text_0043"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "A: Is this your English book?",
+          "B: No, it's not. It's my dictionary. What are those?",
+          "A: They're my keys.",
+          "Keep talking!"
+        ],
+        "position": {
+          "x": 0.089333,
+          "y": 0.767576,
+          "width": 0.416667,
+          "height": 0.14062600000000003
+        },
+        "textElementIds": [
+          "text_0044",
+          "text_0045",
+          "text_0046",
+          "text_0047"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "unit\nGrammar  Demonstratives; articles a and an, plurals\nWhat's this?\nWhat's that?\nWhat are these?\nWhat are those?\nIt'smydictionary\nThey'remy English books.\nIs this yourdictionary?\nAre these your English books?\nIs that your dictionary?\nAre those your English books?\nYes,it is.\nNo,it's not\nYes, they are.No, they're not.\nArticlesaand an\nPlurals\nabag\na + consonant sound\nabook-twobooks\nan+vowel sound\naneraser\nawatch-two watches\nadictionary→two dictionaries\nNote:Sunglasses and glasses are always plural.\nA Complete the conversations with the correct words.Then practice witha partner.\nWhat's this\nWhat\nWhat\nWhat\nIt's a watch.\nPAiRwoRk Askandanswerquestions abouteverydayitems inyour classroom.\nPronunciation Plurals\nSame syllables\nExtrasyllables\nactress/actress-es\neraser/erasers\nListen and repeat.Notice that somewords have an extra\nkey / keys\naddress/address-es\nsyllable in their plural forms.\nlaptop/laptops\nwatch/watch·es\nSpeaking In my bag\nPAIRWORK\nAskandanswer10questions about theeveryday items inyourbags and\nin the classroom.\nA: is this your English book?\nB: No, it's not. It's my dictionary. What are those?\nA: They're my keys.\nKeep talking!\nGo to page 130 for more practice.\n27\ncan ask aboutand identifyeverydayitems.\ndehkhodaedu.com",
+      "tesseract_psm3": "unit\n\n3 | Grammar a DEEGNatiatNies, articles aand an; plurals\n\n~ What’ S this? ; What’ S s that?” What are these? What are those?\n\na\n\nIt’s my dictionary. They’re my English books.\nIs this your dictionary? Are these your English books?\nIs that your dictionary? Are those your English books?\nYes, itis. No, it’s not. Yes, theyare. No, they’re not.\nArticles a and an Plurals\na+ consonant sound a bag a book > two books\nan + vowel sound an eraser\n\na watch > two watches\na dictionary > two dictionaries\n\nNote: Sunglasses and glasses are always plural.\n\nA Complete the conversations with the correct words. Then practice with a partner.\n\nA What 6 this _ _? 2\ne Itsawatch._ B serene ne A ae eas 8 Si ae\nB PNY Ask and answer questions about everyday items in your classroom.\n\nPronunciation Plurals\n\n©) Listen and repeat. Notice that some words have an extra\nsyllable in their plural forms.\n\nSame syllables Extra syllables\ni , y\n\neraser / erasers actress / actress-es\n\nkey / keys” oe “address / address: es\n\n| laptop / laptops “watch / watch: es\nSpeaking In my bag\n\nLAAEGLS Ask and answer 10 questions about the everyday items in your bags and\nin the classroom.\n\nA: Is this your English book?\nB: No, it's not. It's my dictionary. What are those?\nA: They're my keys.\n\n| Keep talking!\n\n27\n| can ask about and identify everyday items. @\n\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [
+      {
+        "id": "text_0007",
+        "type": "text",
+        "content": "a",
+        "confidence": 0.21,
+        "bbox": {
+          "x": 0.743137,
+          "y": 0.157576,
+          "width": 0.156863,
+          "height": 0.03697
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "averageConfidence": 0.8846,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "5 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "1 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "grammar",
+    "headings": [
+      "unit",
+      "Grammar Demonstratives; articles a and an, plurals",
+      "What's this?",
+      "What's that?",
+      "What are these?",
+      "What are those?",
+      "PAi Rwo Rk Ask and answer questions about everyday items in your classroom.",
+      "Speaking In my bag",
+      "Pair work",
+      "Keep talking!"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.844314,
+          "y": 0.029697,
+          "width": 0.027843,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "unit",
+            "confidence": 0.7318
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "unit",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Grammar Demonstratives; articles a and an, plurals",
+        "confidence": 0.9071,
+        "bbox": {
+          "x": 0.111333,
+          "y": 0.088614,
+          "width": 0.713333,
+          "height": 0.024214
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 | Grammar a DEEGNatiatNies, articles aand an; plurals",
+            "confidence": 0.7433
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Grammar  Demonstratives; articles a and an, plurals",
+            "confidence": 0.9071
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "What's this?",
+        "confidence": 0.808,
+        "bbox": {
+          "x": 0.154667,
+          "y": 0.127254,
+          "width": 0.082667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "What's that?",
+        "confidence": 0.8218,
+        "bbox": {
+          "x": 0.364,
+          "y": 0.128284,
+          "width": 0.085333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "heading",
+        "content": "What are these?",
+        "confidence": 0.8637,
+        "bbox": {
+          "x": 0.563333,
+          "y": 0.1288,
+          "width": 0.109333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "~ What’ S this? ; What’ S s that?” What are these? What are those?",
+            "confidence": 0.664
+          },
+          {
+            "engine": "rapidocr",
+            "content": "What are these?",
+            "confidence": 0.8637
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "heading",
+        "content": "What are those?",
+        "confidence": 0.8301,
+        "bbox": {
+          "x": 0.758667,
+          "y": 0.129315,
+          "width": 0.108,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "It's my dictionary",
+        "confidence": 0.8904,
+        "bbox": {
+          "x": 0.154,
+          "y": 0.205564,
+          "width": 0.121333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "sentence",
+        "content": "It's my dictionary. They're my English books.",
+        "confidence": 0.9429,
+        "bbox": {
+          "x": 0.156471,
+          "y": 0.208182,
+          "width": 0.582353,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "They'remy English books.",
+            "confidence": 0.8596
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "It’s my dictionary. They’re my English books.",
+            "confidence": 0.9429
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "sentence",
+        "content": "Is this your dictionary? Are these your English books?",
+        "confidence": 0.9522,
+        "bbox": {
+          "x": 0.134118,
+          "y": 0.228485,
+          "width": 0.605882,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Is this yourdictionary?",
+            "confidence": 0.8789
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Is this your dictionary? Are these your English books?",
+            "confidence": 0.9522
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Are these your English books?",
+            "confidence": 0.8818
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "sentence",
+        "content": "Is that your dictionary? Are those your English books?",
+        "confidence": 0.9544,
+        "bbox": {
+          "x": 0.133725,
+          "y": 0.245758,
+          "width": 0.607059,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Is that your dictionary?",
+            "confidence": 0.8502
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Is that your dictionary? Are those your English books?",
+            "confidence": 0.9544
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Are those your English books?",
+            "confidence": 0.9175
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "Yes, it is.",
+        "confidence": 0.8388,
+        "bbox": {
+          "x": 0.154,
+          "y": 0.261721,
+          "width": 0.065333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "No, it's not",
+        "confidence": 0.8193,
+        "bbox": {
+          "x": 0.235333,
+          "y": 0.262236,
+          "width": 0.079333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "Yes, they are. No, they're not.",
+        "confidence": 0.9101,
+        "bbox": {
+          "x": 0.562667,
+          "y": 0.262751,
+          "width": 0.221333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Yes, they are.No, they're not.",
+            "confidence": 0.9101
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Yes, itis. No, it’s not. Yes, theyare. No, they’re not.",
+            "confidence": 0.64
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "Articles a and an",
+        "confidence": 0.8518,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.288511,
+          "width": 0.116667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Articlesaand an",
+            "confidence": 0.8518
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Articles a and an Plurals",
+            "confidence": 0.658
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "Plurals",
+        "confidence": 0.7286,
+        "bbox": {
+          "x": 0.54,
+          "y": 0.290057,
+          "width": 0.052,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "a bag",
+        "confidence": 0.796,
+        "bbox": {
+          "x": 0.302667,
+          "y": 0.305513,
+          "width": 0.044,
+          "height": 0.017517
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "a + consonant sound",
+        "confidence": 0.8611,
+        "bbox": {
+          "x": 0.132,
+          "y": 0.307573,
+          "width": 0.140667,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "a + consonant sound",
+            "confidence": 0.8611
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "a+ consonant sound a bag a book > two books",
+            "confidence": 0.873
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "a book-two books",
+        "confidence": 0.8817,
+        "bbox": {
+          "x": 0.540667,
+          "y": 0.311695,
+          "width": 0.133333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "paragraph",
+        "content": "an + vowel sound an eraser",
+        "confidence": 0.9483,
+        "bbox": {
+          "x": 0.133333,
+          "y": 0.325758,
+          "width": 0.234902,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "an+vowel sound",
+            "confidence": 0.8841
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "an + vowel sound an eraser",
+            "confidence": 0.9483
+          },
+          {
+            "engine": "rapidocr",
+            "content": "aneraser",
+            "confidence": 0.829
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "a watch > two watches",
+        "confidence": 0.924,
+        "bbox": {
+          "x": 0.542353,
+          "y": 0.333939,
+          "width": 0.151373,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "awatch-two watches",
+            "confidence": 0.8601
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "a watch > two watches",
+            "confidence": 0.924
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "a dictionary > two dictionaries",
+        "confidence": 0.938,
+        "bbox": {
+          "x": 0.542353,
+          "y": 0.354242,
+          "width": 0.203137,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "adictionary→two dictionaries",
+            "confidence": 0.9027
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "a dictionary > two dictionaries",
+            "confidence": 0.938
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "sentence",
+        "content": "Note: Sunglasses and glasses are always plural.",
+        "confidence": 0.9586,
+        "bbox": {
+          "x": 0.542745,
+          "y": 0.375455,
+          "width": 0.314118,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Note:Sunglasses and glasses are always plural.",
+            "confidence": 0.9242
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Note: Sunglasses and glasses are always plural.",
+            "confidence": 0.9586
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "sentence",
+        "content": "A Complete the conversations with the correct words. Then practice with a partner.",
+        "confidence": 0.9408,
+        "bbox": {
+          "x": 0.112157,
+          "y": 0.405455,
+          "width": 0.579216,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Complete the conversations with the correct words.Then practice witha partner.",
+            "confidence": 0.8963
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Complete the conversations with the correct words. Then practice with a partner.",
+            "confidence": 0.9408
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "What's this",
+        "confidence": 0.8739,
+        "bbox": {
+          "x": 0.13,
+          "y": 0.541473,
+          "width": 0.088667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What's this",
+            "confidence": 0.8739
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A What 6 this _ _? 2",
+            "confidence": 0.54
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "What",
+        "confidence": 0.7988,
+        "bbox": {
+          "x": 0.338667,
+          "y": 0.544565,
+          "width": 0.040667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "What",
+        "confidence": 0.7952,
+        "bbox": {
+          "x": 0.546667,
+          "y": 0.545595,
+          "width": 0.041333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "What",
+        "confidence": 0.7371,
+        "bbox": {
+          "x": 0.754667,
+          "y": 0.54611,
+          "width": 0.040667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "It's a watch.",
+        "confidence": 0.883,
+        "bbox": {
+          "x": 0.14,
+          "y": 0.561566,
+          "width": 0.093333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "It's a watch.",
+            "confidence": 0.883
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "e Itsawatch._ B serene ne A ae eas 8 Si ae",
+            "confidence": 0.3836
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "heading",
+        "content": "PAi Rwo Rk Ask and answer questions about everyday items in your classroom.",
+        "confidence": 0.9342,
+        "bbox": {
+          "x": 0.132667,
+          "y": 0.590417,
+          "width": 0.547333,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAiRwoRk Askandanswerquestions abouteverydayitems inyour classroom.",
+            "confidence": 0.9342
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B PNY Ask and answer questions about everyday items in your classroom.",
+            "confidence": 0.9008
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "Pronunciation Plurals",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.113333,
+          "y": 0.626667,
+          "width": 0.314902,
+          "height": 0.018788
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Pronunciation Plurals",
+            "confidence": 0.9311
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Pronunciation Plurals",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "Same syllables",
+        "confidence": 0.8138,
+        "bbox": {
+          "x": 0.578,
+          "y": 0.63627,
+          "width": 0.103333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Same syllables Extra syllables",
+            "confidence": 0.385
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Same syllables",
+            "confidence": 0.8138
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "i , y",
+            "confidence": 0.2167
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "Extra syllables",
+        "confidence": 0.9222,
+        "bbox": {
+          "x": 0.706,
+          "y": 0.636785,
+          "width": 0.098667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "paragraph",
+        "content": "eraser / erasers actress / actress-es",
+        "confidence": 0.9217,
+        "bbox": {
+          "x": 0.579216,
+          "y": 0.656061,
+          "width": 0.251373,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "eraser / erasers actress / actress-es",
+            "confidence": 0.9217
+          },
+          {
+            "engine": "rapidocr",
+            "content": "actress/actress-es",
+            "confidence": 0.8552
+          },
+          {
+            "engine": "rapidocr",
+            "content": "eraser/erasers",
+            "confidence": 0.8971
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "key / keys",
+        "confidence": 0.8482,
+        "bbox": {
+          "x": 0.578,
+          "y": 0.676971,
+          "width": 0.067333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "key / keys” oe “address / address: es",
+            "confidence": 0.5413
+          },
+          {
+            "engine": "rapidocr",
+            "content": "key / keys",
+            "confidence": 0.8482
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "address/address-es",
+        "confidence": 0.8562,
+        "bbox": {
+          "x": 0.704667,
+          "y": 0.676971,
+          "width": 0.138667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "syllable in their plural forms.",
+        "confidence": 0.956,
+        "bbox": {
+          "x": 0.134902,
+          "y": 0.679697,
+          "width": 0.196471,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "syllable in their plural forms.",
+            "confidence": 0.8896
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "syllable in their plural forms.",
+            "confidence": 0.956
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "laptop/laptops",
+        "confidence": 0.8978,
+        "bbox": {
+          "x": 0.577333,
+          "y": 0.698609,
+          "width": 0.108667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "| laptop / laptops “watch / watch: es",
+            "confidence": 0.8125
+          },
+          {
+            "engine": "rapidocr",
+            "content": "laptop/laptops",
+            "confidence": 0.8978
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "watch/watch·es",
+        "confidence": 0.8796,
+        "bbox": {
+          "x": 0.705333,
+          "y": 0.699639,
+          "width": 0.113333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "heading",
+        "content": "Speaking In my bag",
+        "confidence": 0.905,
+        "bbox": {
+          "x": 0.112157,
+          "y": 0.713636,
+          "width": 0.282745,
+          "height": 0.022121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Speaking In my bag",
+            "confidence": 0.8498
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Speaking In my bag",
+            "confidence": 0.905
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "heading",
+        "content": "Pair work",
+        "confidence": 0.8396,
+        "bbox": {
+          "x": 0.110667,
+          "y": 0.746522,
+          "width": 0.08,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "paragraph",
+        "content": "Ask and answer 10questions about the everyday items in your bags and",
+        "confidence": 0.9094,
+        "bbox": {
+          "x": 0.181333,
+          "y": 0.747038,
+          "width": 0.51,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Askandanswer10questions about theeveryday items inyourbags and",
+            "confidence": 0.9094
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "LAAEGLS Ask and answer 10 questions about the everyday items in your bags and",
+            "confidence": 0.8879
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "label",
+        "content": "in the classroom.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.111765,
+          "y": 0.766667,
+          "width": 0.116471,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "in the classroom.",
+            "confidence": 0.8759
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "in the classroom.",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "dialogue_line",
+        "content": "A: Is this your English book?",
+        "confidence": 0.9167,
+        "bbox": {
+          "x": 0.111373,
+          "y": 0.787576,
+          "width": 0.209804,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: is this your English book?",
+            "confidence": 0.9011
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: Is this your English book?",
+            "confidence": 0.9167
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0045",
+        "type": "dialogue_line",
+        "content": "B: No, it's not. It's my dictionary. What are those?",
+        "confidence": 0.9276,
+        "bbox": {
+          "x": 0.109333,
+          "y": 0.807316,
+          "width": 0.376667,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B: No, it's not. It's my dictionary. What are those?",
+            "confidence": 0.9276
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: No, it's not. It's my dictionary. What are those?",
+            "confidence": 0.907
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0046",
+        "type": "dialogue_line",
+        "content": "A: They're my keys.",
+        "confidence": 0.92,
+        "bbox": {
+          "x": 0.111373,
+          "y": 0.831515,
+          "width": 0.140392,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: They're my keys.",
+            "confidence": 0.8685
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: They're my keys.",
+            "confidence": 0.92
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0047",
+        "type": "heading",
+        "content": "Keep talking!",
+        "confidence": 0.8867,
+        "bbox": {
+          "x": 0.109333,
+          "y": 0.864503,
+          "width": 0.204667,
+          "height": 0.023699
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "| Keep talking!",
+            "confidence": 0.7367
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Keep talking!",
+            "confidence": 0.8867
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0048",
+        "type": "sentence",
+        "content": "Go to page 130 for more practice.",
+        "confidence": 0.902,
+        "bbox": {
+          "x": 0.114667,
+          "y": 0.8949,
+          "width": 0.229333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0049",
+        "type": "audio_track",
+        "content": "27",
+        "confidence": 0.86,
+        "bbox": {
+          "x": 0.920784,
+          "y": 0.943333,
+          "width": 0.016471,
+          "height": 0.009091
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "27",
+            "confidence": 0.6647
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "27",
+            "confidence": 0.86
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0050",
+        "type": "sentence",
+        "content": "can ask about and identify everyday items.",
+        "confidence": 0.8811,
+        "bbox": {
+          "x": 0.587059,
+          "y": 0.946364,
+          "width": 0.290588,
+          "height": 0.015455
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "| can ask about and identify everyday items. @",
+            "confidence": 0.8811
+          },
+          {
+            "engine": "rapidocr",
+            "content": "can ask aboutand identifyeverydayitems.",
+            "confidence": 0.8693
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "unit",
+      "Grammar Demonstratives; articles a and an, plurals",
+      "What's this?",
+      "What's that?",
+      "What are these?",
+      "What are those?",
+      "It's my dictionary",
+      "It's my dictionary. They're my English books.",
+      "Is this your dictionary? Are these your English books?",
+      "Is that your dictionary? Are those your English books?",
+      "Yes, it is.",
+      "No, it's not",
+      "Yes, they are. No, they're not.",
+      "Articles a and an",
+      "Plurals",
+      "a bag",
+      "a + consonant sound",
+      "a book-two books",
+      "an + vowel sound an eraser",
+      "a watch > two watches",
+      "a dictionary > two dictionaries",
+      "Note: Sunglasses and glasses are always plural.",
+      "A Complete the conversations with the correct words. Then practice with a partner.",
+      "What's this",
+      "What",
+      "What",
+      "What",
+      "It's a watch.",
+      "PAi Rwo Rk Ask and answer questions about everyday items in your classroom.",
+      "Pronunciation Plurals",
+      "Same syllables",
+      "Extra syllables",
+      "eraser / erasers actress / actress-es",
+      "key / keys",
+      "address/address-es",
+      "syllable in their plural forms.",
+      "laptop/laptops",
+      "watch/watch·es",
+      "Speaking In my bag",
+      "Pair work",
+      "Ask and answer 10questions about the everyday items in your bags and",
+      "in the classroom.",
+      "A: Is this your English book?",
+      "B: No, it's not. It's my dictionary. What are those?",
+      "A: They're my keys.",
+      "Keep talking!",
+      "Go to page 130 for more practice.",
+      "can ask about and identify everyday items."
+    ],
+    "paragraphs": [
+      "an + vowel sound an eraser",
+      "eraser / erasers actress / actress-es",
+      "Ask and answer 10questions about the everyday items in your bags and"
+    ],
+    "sentences": [
+      "unit Grammar Demonstratives; articles a and an, plurals What's this",
+      "What's that",
+      "What are these",
+      "What are those",
+      "It's my dictionary It's my dictionary",
+      "They're my English books",
+      "Is this your dictionary",
+      "Are these your English books",
+      "Is that your dictionary",
+      "Are those your English books",
+      "Yes, it is",
+      "No, it's not Yes, they are",
+      "No, they're not",
+      "Articles a and an Plurals a bag a + consonant sound a book-two books an + vowel sound an eraser a watch > two watches a dictionary > two dictionaries Note: Sunglasses and glasses are always plural",
+      "A Complete the conversations with the correct words",
+      "Then practice with a partner",
+      "What's this What What What It's a watch",
+      "PAi Rwo Rk Ask and answer questions about everyday items in your classroom",
+      "Pronunciation Plurals Same syllables Extra syllables eraser / erasers actress / actress-es key / keys address/address-es syllable in their plural forms",
+      "laptop/laptops watch/watch·es Speaking In my bag Pair work Ask and answer 10questions about the everyday items in your bags and in the classroom",
+      "A: Is this your English book",
+      "B: No, it's not",
+      "It's my dictionary",
+      "What are those",
+      "A: They're my keys",
+      "Keep talking",
+      "Go to page 130 for more practice",
+      "can ask about and identify everyday items"
+    ],
+    "vocabulary": [],
+    "grammar": [
+      {
+        "topic": "Demonstratives; articles a and an, plurals",
+        "rule": [
+          "Grammar Demonstratives; articles a and an, plurals",
+          "It's my dictionary. They're my English books.",
+          "Yes, they are. No, they're not.",
+          "a + consonant sound",
+          "an + vowel sound an eraser",
+          "a watch > two watches",
+          "a dictionary > two dictionaries",
+          "A Complete the conversations with the correct words. Then practice with a partner.",
+          "It's a watch.",
+          "PAi Rwo Rk Ask and answer questions about everyday items in your classroom.",
+          "eraser / erasers actress / actress-es",
+          "key / keys",
+          "syllable in their plural forms.",
+          "Speaking In my bag",
+          "in the classroom.",
+          "A: They're my keys.",
+          "Go to page 130 for more practice."
+        ],
+        "positiveExamples": [
+          "What's this?",
+          "What's that?",
+          "What are these?",
+          "What are those?",
+          "Is this your dictionary? Are these your English books?",
+          "Is that your dictionary? Are those your English books?",
+          "Note: Sunglasses and glasses are always plural.",
+          "What's this",
+          "What",
+          "What",
+          "What",
+          "©) Listen and repeat. Notice that some words have an extra",
+          "A: Is this your English book?",
+          "B: No, it's not. It's my dictionary. What are those?",
+          "can ask about and identify everyday items."
+        ],
+        "usageNotes": [],
+        "practice": [
+          "Ask and answer 10questions about the everyday items in your bags and",
+          "27"
+        ]
+      }
+    ],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Is this your dictionary?",
+            "confidence": 0.9522,
+            "bbox": {
+              "x": 0.134118,
+              "y": 0.228485,
+              "width": 0.605882,
+              "height": 0.013636
+            },
+            "sourceElementId": "text_0009"
+          },
+          {
+            "speaker": null,
+            "content": "Are these your English books?",
+            "confidence": 0.9522,
+            "bbox": {
+              "x": 0.134118,
+              "y": 0.228485,
+              "width": 0.605882,
+              "height": 0.013636
+            },
+            "sourceElementId": "text_0009"
+          },
+          {
+            "speaker": null,
+            "content": "Is that your dictionary?",
+            "confidence": 0.9544,
+            "bbox": {
+              "x": 0.133725,
+              "y": 0.245758,
+              "width": 0.607059,
+              "height": 0.013636
+            },
+            "sourceElementId": "text_0010"
+          },
+          {
+            "speaker": null,
+            "content": "Are those your English books?",
+            "confidence": 0.9544,
+            "bbox": {
+              "x": 0.133725,
+              "y": 0.245758,
+              "width": 0.607059,
+              "height": 0.013636
+            },
+            "sourceElementId": "text_0010"
+          },
+          {
+            "speaker": null,
+            "content": "Yes, it is.",
+            "confidence": 0.8388,
+            "bbox": {
+              "x": 0.154,
+              "y": 0.261721,
+              "width": 0.065333,
+              "height": 0.012365
+            },
+            "sourceElementId": "text_0011"
+          },
+          {
+            "speaker": null,
+            "content": "Yes, they are.",
+            "confidence": 0.9101,
+            "bbox": {
+              "x": 0.562667,
+              "y": 0.262751,
+              "width": 0.221333,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0013"
+          },
+          {
+            "speaker": null,
+            "content": "No, they're not.",
+            "confidence": 0.9101,
+            "bbox": {
+              "x": 0.562667,
+              "y": 0.262751,
+              "width": 0.221333,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0013"
+          },
+          {
+            "speaker": null,
+            "content": "Note: Sunglasses and glasses are always plural.",
+            "confidence": 0.9586,
+            "bbox": {
+              "x": 0.542745,
+              "y": 0.375455,
+              "width": 0.314118,
+              "height": 0.011818
+            },
+            "sourceElementId": "text_0022"
+          },
+          {
+            "speaker": null,
+            "content": "It's a watch.",
+            "confidence": 0.883,
+            "bbox": {
+              "x": 0.14,
+              "y": 0.561566,
+              "width": 0.093333,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0028"
+          },
+          {
+            "speaker": null,
+            "content": "A: Is this your English book?",
+            "confidence": 0.9167,
+            "bbox": {
+              "x": 0.111373,
+              "y": 0.787576,
+              "width": 0.209804,
+              "height": 0.013636
+            },
+            "sourceElementId": "text_0044"
+          },
+          {
+            "speaker": null,
+            "content": "B: No, it's not.",
+            "confidence": 0.9276,
+            "bbox": {
+              "x": 0.109333,
+              "y": 0.807316,
+              "width": 0.376667,
+              "height": 0.017002
+            },
+            "sourceElementId": "text_0045"
+          },
+          {
+            "speaker": null,
+            "content": "It's my dictionary.",
+            "confidence": 0.9276,
+            "bbox": {
+              "x": 0.109333,
+              "y": 0.807316,
+              "width": 0.376667,
+              "height": 0.017002
+            },
+            "sourceElementId": "text_0045"
+          },
+          {
+            "speaker": null,
+            "content": "What are those?",
+            "confidence": 0.9276,
+            "bbox": {
+              "x": 0.109333,
+              "y": 0.807316,
+              "width": 0.376667,
+              "height": 0.017002
+            },
+            "sourceElementId": "text_0045"
+          },
+          {
+            "speaker": null,
+            "content": "A: They're my keys.",
+            "confidence": 0.92,
+            "bbox": {
+              "x": 0.111373,
+              "y": 0.831515,
+              "width": 0.140392,
+              "height": 0.013333
+            },
+            "sourceElementId": "text_0046"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "acting",
+        "instruction": "Complete the conversations with the correct words. Then practice with a partner.",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "It's my dictionary",
+          "It's my dictionary. They're my English books.",
+          "Is this your dictionary? Are these your English books?",
+          "Is that your dictionary? Are those your English books?",
+          "Yes, it is.",
+          "No, it's not",
+          "Yes, they are. No, they're not.",
+          "Articles a and an",
+          "Plurals",
+          "a bag",
+          "a + consonant sound",
+          "a book-two books",
+          "an + vowel sound an eraser",
+          "a watch > two watches",
+          "a dictionary > two dictionaries",
+          "Note: Sunglasses and glasses are always plural.",
+          "A Complete the conversations with the correct words. Then practice with a partner."
+        ],
+        "position": {
+          "x": 0.092157,
+          "y": 0.185564,
+          "width": 0.784706,
+          "height": 0.254436
+        },
+        "textElementIds": [
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "What's this",
+          "What",
+          "What",
+          "What",
+          "It's a watch.",
+          "PAi Rwo Rk Ask and answer questions about everyday items in your classroom.",
+          "Pronunciation Plurals",
+          "Same syllables",
+          "Extra syllables",
+          "eraser / erasers actress / actress-es",
+          "©) Listen and repeat. Notice that some words have an extra",
+          "key / keys",
+          "address/address-es",
+          "syllable in their plural forms.",
+          "laptop/laptops",
+          "watch/watch·es",
+          "Speaking In my bag",
+          "Pair work",
+          "Ask and answer 10questions about the everyday items in your bags and",
+          "in the classroom."
+        ],
+        "position": {
+          "x": 0.090588,
+          "y": 0.521473,
+          "width": 0.772746,
+          "height": 0.27458800000000005
+        },
+        "textElementIds": [
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040",
+          "text_0041",
+          "text_0042",
+          "text_0043"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "A: Is this your English book?",
+          "B: No, it's not. It's my dictionary. What are those?",
+          "A: They're my keys.",
+          "Keep talking!"
+        ],
+        "position": {
+          "x": 0.089333,
+          "y": 0.767576,
+          "width": 0.416667,
+          "height": 0.14062600000000003
+        },
+        "textElementIds": [
+          "text_0044",
+          "text_0045",
+          "text_0046",
+          "text_0047"
+        ]
+      }
+    ],
+    "excludedGarbage": [
+      "©) Listen and repeat. Notice that some words have an extra"
+    ]
+  },
+  "learningContent": {
+    "pageType": "grammar",
+    "title": "unit",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [
+      {
+        "topic": "Demonstratives; articles a and an, plurals",
+        "rule": [
+          "Grammar Demonstratives; articles a and an, plurals",
+          "It's my dictionary. They're my English books.",
+          "Yes, they are. No, they're not.",
+          "a + consonant sound",
+          "an + vowel sound an eraser",
+          "a watch > two watches",
+          "a dictionary > two dictionaries",
+          "A Complete the conversations with the correct words. Then practice with a partner.",
+          "It's a watch.",
+          "PAi Rwo Rk Ask and answer questions about everyday items in your classroom.",
+          "eraser / erasers actress / actress-es",
+          "key / keys",
+          "syllable in their plural forms.",
+          "Speaking In my bag",
+          "in the classroom.",
+          "A: They're my keys.",
+          "Go to page 130 for more practice."
+        ],
+        "positiveExamples": [
+          "What's this?",
+          "What's that?",
+          "What are these?",
+          "What are those?",
+          "Is this your dictionary? Are these your English books?",
+          "Is that your dictionary? Are those your English books?",
+          "Note: Sunglasses and glasses are always plural.",
+          "What's this",
+          "What",
+          "What",
+          "What",
+          "©) Listen and repeat. Notice that some words have an extra",
+          "A: Is this your English book?",
+          "B: No, it's not. It's my dictionary. What are those?",
+          "can ask about and identify everyday items."
+        ],
+        "usageNotes": [],
+        "practice": [
+          "Ask and answer 10questions about the everyday items in your bags and",
+          "27"
+        ]
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "Is this your dictionary?",
+            "confidence": 0.9522
+          },
+          {
+            "speaker": null,
+            "content": "Are these your English books?",
+            "confidence": 0.9522
+          },
+          {
+            "speaker": null,
+            "content": "Is that your dictionary?",
+            "confidence": 0.9544
+          },
+          {
+            "speaker": null,
+            "content": "Are those your English books?",
+            "confidence": 0.9544
+          },
+          {
+            "speaker": null,
+            "content": "Yes, it is.",
+            "confidence": 0.8388
+          },
+          {
+            "speaker": null,
+            "content": "Yes, they are.",
+            "confidence": 0.9101
+          },
+          {
+            "speaker": null,
+            "content": "No, they're not.",
+            "confidence": 0.9101
+          },
+          {
+            "speaker": null,
+            "content": "Note: Sunglasses and glasses are always plural.",
+            "confidence": 0.9586
+          },
+          {
+            "speaker": null,
+            "content": "It's a watch.",
+            "confidence": 0.883
+          },
+          {
+            "speaker": null,
+            "content": "A: Is this your English book?",
+            "confidence": 0.9167
+          },
+          {
+            "speaker": null,
+            "content": "B: No, it's not.",
+            "confidence": 0.9276
+          },
+          {
+            "speaker": null,
+            "content": "It's my dictionary.",
+            "confidence": 0.9276
+          },
+          {
+            "speaker": null,
+            "content": "What are those?",
+            "confidence": 0.9276
+          },
+          {
+            "speaker": null,
+            "content": "A: They're my keys.",
+            "confidence": 0.92
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "acting",
+        "instruction": "Complete the conversations with the correct words. Then practice with a partner.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "5 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "1 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content.",
+      "1 garbage string(s) excluded"
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "garbageExcluded": 1,
+      "dialoguesSplit": 9,
+      "grammarTopicOverride": 1
+    },
+    "averageOcrConfidence": 0.8846,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 1 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc1_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

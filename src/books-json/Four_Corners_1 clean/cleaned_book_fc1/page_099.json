@@ -1,0 +1,2449 @@
+{
+  "pageNumber": 100,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 99,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 1_Part4.pdf",
+    "pdfLocalPageNumber": 20,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Did you make dinner last night?",
+        "confidence": 0.9583,
+        "bbox": {
+          "x": 0.129412,
+          "y": 0.056364,
+          "width": 0.788627,
+          "height": 0.054545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Did you make dinner last night?",
+            "confidence": 0.9583
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Did you make dinner last night?",
+            "confidence": 0.8856
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Vocabulary Things to do",
+        "confidence": 0.834,
+        "bbox": {
+          "x": 0.100667,
+          "y": 0.134982,
+          "width": 0.345333,
+          "height": 0.024214
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Vocabulary Things to do",
+            "confidence": 0.834
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Vocabulary Things to do",
+            "confidence": 0.7925
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "label",
+        "content": "A Listen and repeat.",
+        "confidence": 0.8454,
+        "bbox": {
+          "x": 0.099333,
+          "y": 0.168985,
+          "width": 0.172667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A  Listen and repeat.",
+            "confidence": 0.8454
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A ©} Listen and repeat.",
+            "confidence": 0.81
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "do laundry",
+        "confidence": 0.8557,
+        "bbox": {
+          "x": 0.194667,
+          "y": 0.296754,
+          "width": 0.075333,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "get a haircut",
+        "confidence": 0.8844,
+        "bbox": {
+          "x": 0.742667,
+          "y": 0.296754,
+          "width": 0.088,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "do the dishes",
+        "confidence": 0.8964,
+        "bbox": {
+          "x": 0.464,
+          "y": 0.29933,
+          "width": 0.092667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "have a party",
+        "confidence": 0.8818,
+        "bbox": {
+          "x": 0.467333,
+          "y": 0.427615,
+          "width": 0.085333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "go grocery shopping",
+        "confidence": 0.8997,
+        "bbox": {
+          "x": 0.162667,
+          "y": 0.42813,
+          "width": 0.141333,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "makedinner",
+        "confidence": 0.8771,
+        "bbox": {
+          "x": 0.745333,
+          "y": 0.428645,
+          "width": 0.086,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "sleep",
+        "confidence": 0.6875,
+        "bbox": {
+          "x": 0.768,
+          "y": 0.555384,
+          "width": 0.042,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "see a play",
+        "confidence": 0.759,
+        "bbox": {
+          "x": 0.200667,
+          "y": 0.55796,
+          "width": 0.068,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0012",
+        "type": "paragraph",
+        "content": "see a play see friends sleep",
+        "confidence": 0.9483,
+        "bbox": {
+          "x": 0.202745,
+          "y": 0.558182,
+          "width": 0.603922,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "see friends",
+            "confidence": 0.8987
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "see a play see friends sleep",
+            "confidence": 0.9483
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "PAIR WORK",
+        "confidence": 0.8142,
+        "bbox": {
+          "x": 0.127333,
+          "y": 0.585265,
+          "width": 0.076667,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "B How often do you do the things in Part A? Tell your partner.",
+        "confidence": 0.9543,
+        "bbox": {
+          "x": 0.108235,
+          "y": 0.586061,
+          "width": 0.507843,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "How often doyou do the things in Part A?Tell your partner.",
+            "confidence": 0.8683
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B How often do you do the things in Part A? Tell your partner.",
+            "confidence": 0.9543
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "\"I do laundry once a week. I do the dishes every day ...",
+        "confidence": 0.9173,
+        "bbox": {
+          "x": 0.128667,
+          "y": 0.607419,
+          "width": 0.394667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"I do laundry once a week. I do the dishes every day ...",
+            "confidence": 0.9173
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "“| do laundry once a week. | do the dishes every day...”",
+            "confidence": 0.88
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "Conversation Last night",
+        "confidence": 0.9367,
+        "bbox": {
+          "x": 0.108627,
+          "y": 0.642424,
+          "width": 0.341961,
+          "height": 0.020909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Conversation Lastnight",
+            "confidence": 0.9027
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Conversation Last night",
+            "confidence": 0.9367
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "QListen and practice.",
+        "confidence": 0.8667,
+        "bbox": {
+          "x": 0.106667,
+          "y": 0.67594,
+          "width": 0.158,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "QListen and practice.",
+            "confidence": 0.8667
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "©? Listen and practice.",
+            "confidence": 0.835
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "sentence",
+        "content": "Mindy _ Hi, Pete. Did you see Jennifer last night?",
+        "confidence": 0.884,
+        "bbox": {
+          "x": 0.13098,
+          "y": 0.697879,
+          "width": 0.328627,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Mindy",
+            "confidence": 0.8323
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Mindy _ Hi, Pete. Did you see Jennifer last night?",
+            "confidence": 0.884
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Hi,Pete.DidyouseeJenniferlastnight?",
+            "confidence": 0.9229
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "Pete",
+        "confidence": 0.7887,
+        "bbox": {
+          "x": 0.128667,
+          "y": 0.718702,
+          "width": 0.036,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "Pete Yes, | did. But the day didn’t go so well.",
+        "confidence": 0.9455,
+        "bbox": {
+          "x": 0.132157,
+          "y": 0.72,
+          "width": 0.320392,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Yes, I did.But the day didn't go so well.",
+            "confidence": 0.8651
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Pete Yes, | did. But the day didn’t go so well.",
+            "confidence": 0.9455
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "Mindy",
+        "confidence": 0.8328,
+        "bbox": {
+          "x": 0.128,
+          "y": 0.73931,
+          "width": 0.046,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "Mindy Really? What happened?",
+        "confidence": 0.825,
+        "bbox": {
+          "x": 0.131765,
+          "y": 0.740606,
+          "width": 0.226275,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Really?Whathappened?",
+            "confidence": 0.9032
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Mindy Really? What happened?",
+            "confidence": 0.825
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "paragraph",
+        "content": "Pete Well, | did my laundry yesterday morning, but my",
+        "confidence": 0.959,
+        "bbox": {
+          "x": 0.132549,
+          "y": 0.761212,
+          "width": 0.39098,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Well,Ididmy laundryyesterdaymorning,butmy",
+            "confidence": 0.9032
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Pete Well, | did my laundry yesterday morning, but my",
+            "confidence": 0.959
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "Pete",
+        "confidence": 0.7939,
+        "bbox": {
+          "x": 0.130667,
+          "y": 0.761463,
+          "width": 0.032667,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "favorite white shirt turned pink.",
+        "confidence": 0.958,
+        "bbox": {
+          "x": 0.196078,
+          "y": 0.778485,
+          "width": 0.210196,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "favorite white shirt turned pink.",
+            "confidence": 0.9112
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "favorite white shirt turned pink.",
+            "confidence": 0.958
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "Mindy",
+        "confidence": 0.8024,
+        "bbox": {
+          "x": 0.128667,
+          "y": 0.797527,
+          "width": 0.046,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "Mindy You're kidding!",
+        "confidence": 0.75,
+        "bbox": {
+          "x": 0.132157,
+          "y": 0.799394,
+          "width": 0.162353,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "You're kidding!",
+            "confidence": 0.8102
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Mindy You're kidding!",
+            "confidence": 0.75
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0028",
+        "type": "sentence",
+        "content": "Then I got a haircut, but I really didn't like it.",
+        "confidence": 0.9018,
+        "bbox": {
+          "x": 0.194,
+          "y": 0.818135,
+          "width": 0.296,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Then I got a haircut, but I really didn't like it.",
+            "confidence": 0.9018
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Pete Then | got a haircut, but | really didn’t like it.",
+            "confidence": 0.9125
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "Pete",
+        "confidence": 0.7971,
+        "bbox": {
+          "x": 0.129333,
+          "y": 0.81865,
+          "width": 0.036667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0030",
+        "type": "sentence",
+        "content": "Oh,yeah? Did you make dinner for Jennifer?",
+        "confidence": 0.8813,
+        "bbox": {
+          "x": 0.195333,
+          "y": 0.838743,
+          "width": 0.297333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Oh,yeah? Did you make dinner for Jennifer?",
+            "confidence": 0.8813
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Mindy — Oh, yeah? Did you make dinner for Jennifer?",
+            "confidence": 0.894
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "Mindy",
+        "confidence": 0.7595,
+        "bbox": {
+          "x": 0.129333,
+          "y": 0.839258,
+          "width": 0.046,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0032",
+        "type": "sentence",
+        "content": "Pete Well, | slept for a while, so | didn’t go grocery shopping.",
+        "confidence": 0.9392,
+        "bbox": {
+          "x": 0.133725,
+          "y": 0.861212,
+          "width": 0.428627,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Well,Isleptfora while, soIdidn'tgogroceryshopping",
+            "confidence": 0.8865
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Pete Well, | slept for a while, so | didn’t go grocery shopping.",
+            "confidence": 0.9392
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "Pete",
+        "confidence": 0.7827,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.861412,
+          "width": 0.034667,
+          "height": 0.010819
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0034",
+        "type": "sentence",
+        "content": "Mindy — Oh. Did you eat anything?",
+        "confidence": 0.8986,
+        "bbox": {
+          "x": 0.132941,
+          "y": 0.880606,
+          "width": 0.233725,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Mindy",
+            "confidence": 0.8263
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Mindy — Oh. Did you eat anything?",
+            "confidence": 0.8986
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Oh.Did you eat anything?",
+            "confidence": 0.8763
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "Pete",
+        "confidence": 0.7067,
+        "bbox": {
+          "x": 0.130667,
+          "y": 0.901082,
+          "width": 0.036667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0036",
+        "type": "sentence",
+        "content": "Pete Yeah, we did. Jennifer bought a pizza for us.",
+        "confidence": 0.957,
+        "bbox": {
+          "x": 0.13451,
+          "y": 0.902424,
+          "width": 0.352941,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Yeah,wedid.Jenniferbought apizzaforus",
+            "confidence": 0.9094
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Pete Yeah, we did. Jennifer bought a pizza for us.",
+            "confidence": 0.957
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "Mindy",
+        "confidence": 0.7883,
+        "bbox": {
+          "x": 0.129333,
+          "y": 0.921175,
+          "width": 0.048,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "Really?",
+        "confidence": 0.8117,
+        "bbox": {
+          "x": 0.195333,
+          "y": 0.921175,
+          "width": 0.051333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Really?",
+            "confidence": 0.8117
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Mindy Really?",
+            "confidence": 0.62
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "100",
+        "confidence": 0.7458,
+        "bbox": {
+          "x": 0.037333,
+          "y": 0.949511,
+          "width": 0.030667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Mindy You're kidding!",
+            "confidence": 0.75,
+            "bbox": {
+              "x": 0.132157,
+              "y": 0.799394,
+              "width": 0.162353,
+              "height": 0.011515
+            },
+            "sourceElementId": "text_0027",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Then I got a haircut, but I really didn't like it.",
+            "confidence": 0.9018,
+            "bbox": {
+              "x": 0.194,
+              "y": 0.818135,
+              "width": 0.296,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0028",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen and repeat.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0003"
+        ],
+        "confidence": 0.8454
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "exercise",
+        "instruction": "How often do you do the things in Part A? Tell your partner.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0014"
+        ],
+        "confidence": 0.9543
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "do laundry",
+          "get a haircut",
+          "do the dishes"
+        ],
+        "position": {
+          "x": 0.17466700000000002,
+          "y": 0.276754,
+          "width": 0.6759999999999999,
+          "height": 0.05700200000000005
+        },
+        "textElementIds": [
+          "text_0004",
+          "text_0005",
+          "text_0006"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "have a party",
+          "go grocery shopping",
+          "makedinner",
+          "sleep",
+          "see a play",
+          "see a play see friends sleep",
+          "PAIR WORK",
+          "B How often do you do the things in Part A? Tell your partner.",
+          "\"I do laundry once a week. I do the dishes every day ...",
+          "Conversation Last night"
+        ],
+        "position": {
+          "x": 0.088235,
+          "y": 0.407615,
+          "width": 0.763098,
+          "height": 0.27571799999999996
+        },
+        "textElementIds": [
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "QListen and practice.",
+          "Mindy _ Hi, Pete. Did you see Jennifer last night?",
+          "Pete",
+          "Pete Yes, | did. But the day didn’t go so well.",
+          "Mindy",
+          "Mindy Really? What happened?",
+          "Pete Well, | did my laundry yesterday morning, but my",
+          "Pete",
+          "favorite white shirt turned pink.",
+          "Mindy",
+          "Mindy You're kidding!",
+          "Then I got a haircut, but I really didn't like it.",
+          "Pete",
+          "Oh,yeah? Did you make dinner for Jennifer?",
+          "Mindy",
+          "Pete Well, | slept for a while, so | didn’t go grocery shopping.",
+          "Pete"
+        ],
+        "position": {
+          "x": 0.086667,
+          "y": 0.65594,
+          "width": 0.495685,
+          "height": 0.23678700000000008
+        },
+        "textElementIds": [
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "Did you make dinner last night?\nVocabulary Things to do\nA  Listen and repeat.\ndo laundry\nget a haircut\ndo the dishes\nhave a party\ngo grocery shopping\nmakedinner\nsleep\nsee friends\nsee a play\nPAIR WORK\nHow often doyou do the things in Part A?Tell your partner.\n\"I do laundry once a week. I do the dishes every day ...\nConversation Lastnight\nQListen and practice.\nMindy\nHi,Pete.DidyouseeJenniferlastnight?\nPete\nYes, I did.But the day didn't go so well.\nReally?Whathappened?\nMindy\nWell,Ididmy laundryyesterdaymorning,butmy\nPete\nfavorite white shirt turned pink.\nYou're kidding!\nMindy\nThen I got a haircut, but I really didn't like it.\nPete\nOh,yeah? Did you make dinner for Jennifer?\nMindy\nWell,Isleptfora while, soIdidn'tgogroceryshopping\nPete\nMindy\nOh.Did you eat anything?\nPete\nYeah,wedid.Jenniferbought apizzaforus\nMindy\nReally?\n100\ndehkhodaedu.com",
+      "tesseract_psm3": "Did you make dinner last night?\n\nVocabulary Things to do\n\nA ©} Listen and repeat.\n\nsee a play see friends sleep\n\nB How often do you do the things in Part A? Tell your partner.\n\n“| do laundry once a week. | do the dishes every day...”\n\nConversation Last night\n\n©? Listen and practice.\nMindy _ Hi, Pete. Did you see Jennifer last night?\nPete Yes, | did. But the day didn’t go so well.\nMindy Really? What happened?\n\nPete Well, | did my laundry yesterday morning, but my\nfavorite white shirt turned pink.\n\nMindy You're kidding!\n\nPete Then | got a haircut, but | really didn’t like it.\n\nMindy — Oh, yeah? Did you make dinner for Jennifer?\n\nPete Well, | slept for a while, so | didn’t go grocery shopping.\nMindy — Oh. Did you eat anything?\n\nPete Yeah, we did. Jennifer bought a pizza for us.\n\nMindy Really?\n\n100 dehkhodaedu.com\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8565,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "11 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "page",
+    "headings": [
+      "Did you make dinner last night?",
+      "Vocabulary Things to do"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Did you make dinner last night?",
+        "confidence": 0.9583,
+        "bbox": {
+          "x": 0.129412,
+          "y": 0.056364,
+          "width": 0.788627,
+          "height": 0.054545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Did you make dinner last night?",
+            "confidence": 0.9583
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Did you make dinner last night?",
+            "confidence": 0.8856
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Vocabulary Things to do",
+        "confidence": 0.834,
+        "bbox": {
+          "x": 0.100667,
+          "y": 0.134982,
+          "width": 0.345333,
+          "height": 0.024214
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Vocabulary Things to do",
+            "confidence": 0.834
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Vocabulary Things to do",
+            "confidence": 0.7925
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "label",
+        "content": "A Listen and repeat.",
+        "confidence": 0.8454,
+        "bbox": {
+          "x": 0.099333,
+          "y": 0.168985,
+          "width": 0.172667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A  Listen and repeat.",
+            "confidence": 0.8454
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A ©} Listen and repeat.",
+            "confidence": 0.81
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "do laundry",
+        "confidence": 0.8557,
+        "bbox": {
+          "x": 0.194667,
+          "y": 0.296754,
+          "width": 0.075333,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "get a haircut",
+        "confidence": 0.8844,
+        "bbox": {
+          "x": 0.742667,
+          "y": 0.296754,
+          "width": 0.088,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "do the dishes",
+        "confidence": 0.8964,
+        "bbox": {
+          "x": 0.464,
+          "y": 0.29933,
+          "width": 0.092667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "have a party",
+        "confidence": 0.8818,
+        "bbox": {
+          "x": 0.467333,
+          "y": 0.427615,
+          "width": 0.085333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "go grocery shopping",
+        "confidence": 0.8997,
+        "bbox": {
+          "x": 0.162667,
+          "y": 0.42813,
+          "width": 0.141333,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "make dinner",
+        "confidence": 0.8771,
+        "bbox": {
+          "x": 0.745333,
+          "y": 0.428645,
+          "width": 0.086,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "sleep",
+        "confidence": 0.6875,
+        "bbox": {
+          "x": 0.768,
+          "y": 0.555384,
+          "width": 0.042,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "see a play",
+        "confidence": 0.759,
+        "bbox": {
+          "x": 0.200667,
+          "y": 0.55796,
+          "width": 0.068,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0012",
+        "type": "paragraph",
+        "content": "see a play see friends sleep",
+        "confidence": 0.9483,
+        "bbox": {
+          "x": 0.202745,
+          "y": 0.558182,
+          "width": 0.603922,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "see friends",
+            "confidence": 0.8987
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "see a play see friends sleep",
+            "confidence": 0.9483
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "PAIR WORK",
+        "confidence": 0.8142,
+        "bbox": {
+          "x": 0.127333,
+          "y": 0.585265,
+          "width": 0.076667,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "B How often do you do the things in Part A? Tell your partner.",
+        "confidence": 0.9543,
+        "bbox": {
+          "x": 0.108235,
+          "y": 0.586061,
+          "width": 0.507843,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "How often doyou do the things in Part A?Tell your partner.",
+            "confidence": 0.8683
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B How often do you do the things in Part A? Tell your partner.",
+            "confidence": 0.9543
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "I do laundry once a week. I do the dishes every day ...",
+        "confidence": 0.9173,
+        "bbox": {
+          "x": 0.128667,
+          "y": 0.607419,
+          "width": 0.394667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"I do laundry once a week. I do the dishes every day ...",
+            "confidence": 0.9173
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "“| do laundry once a week. | do the dishes every day...”",
+            "confidence": 0.88
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "Conversation Last night",
+        "confidence": 0.9367,
+        "bbox": {
+          "x": 0.108627,
+          "y": 0.642424,
+          "width": 0.341961,
+          "height": 0.020909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Conversation Lastnight",
+            "confidence": 0.9027
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Conversation Last night",
+            "confidence": 0.9367
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "QListen and practice.",
+        "confidence": 0.8667,
+        "bbox": {
+          "x": 0.106667,
+          "y": 0.67594,
+          "width": 0.158,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "QListen and practice.",
+            "confidence": 0.8667
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "©? Listen and practice.",
+            "confidence": 0.835
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "sentence",
+        "content": "Mindy _ Hi, Pete. Did you see Jennifer last night?",
+        "confidence": 0.884,
+        "bbox": {
+          "x": 0.13098,
+          "y": 0.697879,
+          "width": 0.328627,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Mindy",
+            "confidence": 0.8323
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Mindy _ Hi, Pete. Did you see Jennifer last night?",
+            "confidence": 0.884
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Hi,Pete.DidyouseeJenniferlastnight?",
+            "confidence": 0.9229
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "Pete",
+        "confidence": 0.7887,
+        "bbox": {
+          "x": 0.128667,
+          "y": 0.718702,
+          "width": 0.036,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "Pete Yes, | did. But the day didn't go so well.",
+        "confidence": 0.9455,
+        "bbox": {
+          "x": 0.132157,
+          "y": 0.72,
+          "width": 0.320392,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Yes, I did.But the day didn't go so well.",
+            "confidence": 0.8651
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Pete Yes, | did. But the day didn’t go so well.",
+            "confidence": 0.9455
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "Mindy",
+        "confidence": 0.8328,
+        "bbox": {
+          "x": 0.128,
+          "y": 0.73931,
+          "width": 0.046,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "Mindy Really? What happened?",
+        "confidence": 0.825,
+        "bbox": {
+          "x": 0.131765,
+          "y": 0.740606,
+          "width": 0.226275,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Really?Whathappened?",
+            "confidence": 0.9032
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Mindy Really? What happened?",
+            "confidence": 0.825
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "paragraph",
+        "content": "Pete Well, | did my laundry yesterday morning, but my",
+        "confidence": 0.959,
+        "bbox": {
+          "x": 0.132549,
+          "y": 0.761212,
+          "width": 0.39098,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Well,Ididmy laundryyesterdaymorning,butmy",
+            "confidence": 0.9032
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Pete Well, | did my laundry yesterday morning, but my",
+            "confidence": 0.959
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "Pete",
+        "confidence": 0.7939,
+        "bbox": {
+          "x": 0.130667,
+          "y": 0.761463,
+          "width": 0.032667,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "favorite white shirt turned pink.",
+        "confidence": 0.958,
+        "bbox": {
+          "x": 0.196078,
+          "y": 0.778485,
+          "width": 0.210196,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "favorite white shirt turned pink.",
+            "confidence": 0.9112
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "favorite white shirt turned pink.",
+            "confidence": 0.958
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "Mindy",
+        "confidence": 0.8024,
+        "bbox": {
+          "x": 0.128667,
+          "y": 0.797527,
+          "width": 0.046,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "Mindy You're kidding!",
+        "confidence": 0.75,
+        "bbox": {
+          "x": 0.132157,
+          "y": 0.799394,
+          "width": 0.162353,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "You're kidding!",
+            "confidence": 0.8102
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Mindy You're kidding!",
+            "confidence": 0.75
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0028",
+        "type": "sentence",
+        "content": "Then I got a haircut, but I really didn't like it.",
+        "confidence": 0.9018,
+        "bbox": {
+          "x": 0.194,
+          "y": 0.818135,
+          "width": 0.296,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Then I got a haircut, but I really didn't like it.",
+            "confidence": 0.9018
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Pete Then | got a haircut, but | really didn’t like it.",
+            "confidence": 0.9125
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "Pete",
+        "confidence": 0.7971,
+        "bbox": {
+          "x": 0.129333,
+          "y": 0.81865,
+          "width": 0.036667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0030",
+        "type": "sentence",
+        "content": "Oh, yeah? Did you make dinner for Jennifer?",
+        "confidence": 0.8813,
+        "bbox": {
+          "x": 0.195333,
+          "y": 0.838743,
+          "width": 0.297333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Oh,yeah? Did you make dinner for Jennifer?",
+            "confidence": 0.8813
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Mindy — Oh, yeah? Did you make dinner for Jennifer?",
+            "confidence": 0.894
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "Mindy",
+        "confidence": 0.7595,
+        "bbox": {
+          "x": 0.129333,
+          "y": 0.839258,
+          "width": 0.046,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0032",
+        "type": "sentence",
+        "content": "Pete Well, | slept for a while, so | didn't go grocery shopping.",
+        "confidence": 0.9392,
+        "bbox": {
+          "x": 0.133725,
+          "y": 0.861212,
+          "width": 0.428627,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Well,Isleptfora while, soIdidn'tgogroceryshopping",
+            "confidence": 0.8865
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Pete Well, | slept for a while, so | didn’t go grocery shopping.",
+            "confidence": 0.9392
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "Pete",
+        "confidence": 0.7827,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.861412,
+          "width": 0.034667,
+          "height": 0.010819
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0034",
+        "type": "sentence",
+        "content": "Mindy - Oh. Did you eat anything?",
+        "confidence": 0.8986,
+        "bbox": {
+          "x": 0.132941,
+          "y": 0.880606,
+          "width": 0.233725,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Mindy",
+            "confidence": 0.8263
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Mindy — Oh. Did you eat anything?",
+            "confidence": 0.8986
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Oh.Did you eat anything?",
+            "confidence": 0.8763
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "Pete",
+        "confidence": 0.7067,
+        "bbox": {
+          "x": 0.130667,
+          "y": 0.901082,
+          "width": 0.036667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0036",
+        "type": "sentence",
+        "content": "Pete Yeah, we did. Jennifer bought a pizza for us.",
+        "confidence": 0.957,
+        "bbox": {
+          "x": 0.13451,
+          "y": 0.902424,
+          "width": 0.352941,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Yeah,wedid.Jenniferbought apizzaforus",
+            "confidence": 0.9094
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Pete Yeah, we did. Jennifer bought a pizza for us.",
+            "confidence": 0.957
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "Mindy",
+        "confidence": 0.7883,
+        "bbox": {
+          "x": 0.129333,
+          "y": 0.921175,
+          "width": 0.048,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "Really?",
+        "confidence": 0.8117,
+        "bbox": {
+          "x": 0.195333,
+          "y": 0.921175,
+          "width": 0.051333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Really?",
+            "confidence": 0.8117
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Mindy Really?",
+            "confidence": 0.62
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Did you make dinner last night?",
+      "Vocabulary Things to do",
+      "A Listen and repeat.",
+      "do laundry",
+      "get a haircut",
+      "do the dishes",
+      "have a party",
+      "go grocery shopping",
+      "make dinner",
+      "sleep",
+      "see a play",
+      "see a play see friends sleep",
+      "PAIR WORK",
+      "B How often do you do the things in Part A? Tell your partner.",
+      "I do laundry once a week. I do the dishes every day ...",
+      "Conversation Last night",
+      "QListen and practice.",
+      "Mindy _ Hi, Pete. Did you see Jennifer last night?",
+      "Pete",
+      "Pete Yes, | did. But the day didn't go so well.",
+      "Mindy",
+      "Mindy Really? What happened?",
+      "Pete Well, | did my laundry yesterday morning, but my",
+      "Pete",
+      "favorite white shirt turned pink.",
+      "Mindy",
+      "Mindy You're kidding!",
+      "Then I got a haircut, but I really didn't like it.",
+      "Pete",
+      "Oh, yeah? Did you make dinner for Jennifer?",
+      "Mindy",
+      "Pete Well, | slept for a while, so | didn't go grocery shopping.",
+      "Pete",
+      "Mindy - Oh. Did you eat anything?",
+      "Pete",
+      "Pete Yeah, we did. Jennifer bought a pizza for us.",
+      "Mindy",
+      "Really?"
+    ],
+    "paragraphs": [
+      "see a play see friends sleep",
+      "Pete Well, | did my laundry yesterday morning, but my"
+    ],
+    "sentences": [
+      "Did you make dinner last night",
+      "Vocabulary Things to do A Listen and repeat",
+      "do laundry get a haircut do the dishes have a party go grocery shopping make dinner sleep see a play see a play see friends sleep PAIR WORK B How often do you do the things in Part A",
+      "Tell your partner",
+      "I do laundry once a week",
+      "I do the dishes every day",
+      "Conversation Last night QListen and practice",
+      "Mindy _ Hi, Pete",
+      "Did you see Jennifer last night",
+      "Pete Pete Yes, | did",
+      "But the day didn't go so well",
+      "Mindy Mindy Really",
+      "What happened",
+      "Pete Well, | did my laundry yesterday morning, but my Pete favorite white shirt turned pink",
+      "Mindy Mindy You're kidding",
+      "Then I got a haircut, but I really didn't like it",
+      "Pete Oh, yeah",
+      "Did you make dinner for Jennifer",
+      "Mindy Pete Well, | slept for a while, so | didn't go grocery shopping",
+      "Pete Mindy - Oh",
+      "Did you eat anything",
+      "Pete Pete Yeah, we did",
+      "Jennifer bought a pizza for us",
+      "Mindy Really"
+    ],
+    "vocabulary": [
+      {
+        "word": "do laundry",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "get a haircut",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "do the dishes",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "have a party",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "go grocery shopping",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "make dinner",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "sleep",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "see friends",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "see a play",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      }
+    ],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Mindy You're kidding!",
+            "confidence": 0.75,
+            "bbox": {
+              "x": 0.132157,
+              "y": 0.799394,
+              "width": 0.162353,
+              "height": 0.011515
+            },
+            "sourceElementId": "text_0027"
+          },
+          {
+            "speaker": null,
+            "content": "Then I got a haircut, but I really didn't like it.",
+            "confidence": 0.9018,
+            "bbox": {
+              "x": 0.194,
+              "y": 0.818135,
+              "width": 0.296,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0028"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen and repeat.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "exercise",
+        "instruction": "How often do you do the things in Part A? Tell your partner.",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "do laundry",
+          "get a haircut",
+          "do the dishes"
+        ],
+        "position": {
+          "x": 0.17466700000000002,
+          "y": 0.276754,
+          "width": 0.6759999999999999,
+          "height": 0.05700200000000005
+        },
+        "textElementIds": [
+          "text_0004",
+          "text_0005",
+          "text_0006"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "have a party",
+          "go grocery shopping",
+          "make dinner",
+          "sleep",
+          "see a play",
+          "see a play see friends sleep",
+          "PAIR WORK",
+          "B How often do you do the things in Part A? Tell your partner.",
+          "I do laundry once a week. I do the dishes every day ...",
+          "Conversation Last night"
+        ],
+        "position": {
+          "x": 0.088235,
+          "y": 0.407615,
+          "width": 0.763098,
+          "height": 0.27571799999999996
+        },
+        "textElementIds": [
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "QListen and practice.",
+          "Mindy _ Hi, Pete. Did you see Jennifer last night?",
+          "Pete",
+          "Pete Yes, | did. But the day didn't go so well.",
+          "Mindy",
+          "Mindy Really? What happened?",
+          "Pete Well, | did my laundry yesterday morning, but my",
+          "Pete",
+          "favorite white shirt turned pink.",
+          "Mindy",
+          "Mindy You're kidding!",
+          "Then I got a haircut, but I really didn't like it.",
+          "Pete",
+          "Oh, yeah? Did you make dinner for Jennifer?",
+          "Mindy",
+          "Pete Well, | slept for a while, so | didn't go grocery shopping.",
+          "Pete"
+        ],
+        "position": {
+          "x": 0.086667,
+          "y": 0.65594,
+          "width": 0.495685,
+          "height": 0.23678700000000008
+        },
+        "textElementIds": [
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033"
+        ]
+      }
+    ],
+    "excludedGarbage": [
+      "100"
+    ]
+  },
+  "learningContent": {
+    "pageType": "page",
+    "title": "Did you make dinner last night?",
+    "learningObjectives": [],
+    "targetVocabulary": [
+      {
+        "word": "do laundry",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "get a haircut",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "do the dishes",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "have a party",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "go grocery shopping",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "make dinner",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "sleep",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "see friends",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "see a play",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "Mindy You're kidding!",
+            "confidence": 0.75
+          },
+          {
+            "speaker": null,
+            "content": "Then I got a haircut, but I really didn't like it.",
+            "confidence": 0.9018
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen and repeat.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "exercise",
+        "instruction": "How often do you do the things in Part A? Tell your partner.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "11 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content.",
+      "1 garbage string(s) excluded"
+    ],
+    "verifiedAgainstPdf": true,
+    "repairStats": {
+      "garbageExcluded": 1
+    },
+    "averageOcrConfidence": 0.8565,
+    "verificationMethod": "independent_ocr_crosscheck"
+  },
+  "metadata": {
+    "book": "Four Corners 1 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc1_v1",
+    "verificationMethod": "independent_ocr_crosscheck",
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

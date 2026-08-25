@@ -1,0 +1,3022 @@
+{
+  "pageNumber": 32,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "verified sequential printed-footer pattern",
+  "pdfPageNumber": 33,
+  "source": {
+    "pdfFile": "Family and Friends 2 SB_Part1.pdf",
+    "pdfLocalPageNumber": 33,
+    "pageSizePoints": {
+      "width": 595.2,
+      "height": 785.04
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Do you have a milkshake?",
+        "confidence": 0.9269,
+        "bbox": {
+          "x": 0.191333,
+          "y": 0.023256,
+          "width": 0.738,
+          "height": 0.053084
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "UL £ Do youlhave a milkshake?",
+            "confidence": 0.71
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Do you have a milkshake?",
+            "confidence": 0.9269
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Lesson One Words",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.028629,
+          "y": 0.093549,
+          "width": 0.25,
+          "height": 0.016509
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Lesson OneWords",
+            "confidence": 0.8894
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Lesson One Words",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Listen,point,andrepeat.",
+        "confidence": 0.8773,
+        "bbox": {
+          "x": 0.047333,
+          "y": 0.136502,
+          "width": 0.309333,
+          "height": 0.020222
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Listen, point, and repeat. ©",
+            "confidence": 0.8133
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen,point,andrepeat.",
+            "confidence": 0.8773
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Listen and chant.",
+        "confidence": 0.8294,
+        "bbox": {
+          "x": 0.506,
+          "y": 0.137513,
+          "width": 0.212667,
+          "height": 0.017695
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "salad",
+        "confidence": 0.7583,
+        "bbox": {
+          "x": 0.095333,
+          "y": 0.261881,
+          "width": 0.067333,
+          "height": 0.019211
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "DG",
+            "confidence": 0.0
+          },
+          {
+            "engine": "rapidocr",
+            "content": "salad",
+            "confidence": 0.7583
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "fries",
+        "confidence": 0.8098,
+        "bbox": {
+          "x": 0.255333,
+          "y": 0.262386,
+          "width": 0.054,
+          "height": 0.019717
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "pizza",
+        "confidence": 0.8239,
+        "bbox": {
+          "x": 0.403333,
+          "y": 0.262892,
+          "width": 0.064667,
+          "height": 0.020222
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "milkshake",
+        "confidence": 0.822,
+        "bbox": {
+          "x": 0.53,
+          "y": 0.263903,
+          "width": 0.116,
+          "height": 0.016684
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "chicken",
+        "confidence": 0.8554,
+        "bbox": {
+          "x": 0.85,
+          "y": 0.263903,
+          "width": 0.086667,
+          "height": 0.017189
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "cheese",
+        "confidence": 0.8004,
+        "bbox": {
+          "x": 0.702,
+          "y": 0.264408,
+          "width": 0.079333,
+          "height": 0.017189
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "sandwich",
+        "confidence": 0.8857,
+        "bbox": {
+          "x": 0.684667,
+          "y": 0.284631,
+          "width": 0.11,
+          "height": 0.017695
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "instruction",
+        "content": "Listen and read.",
+        "confidence": 0.8032,
+        "bbox": {
+          "x": 0.049333,
+          "y": 0.332154,
+          "width": 0.208,
+          "height": 0.017695
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Listen and read. ©) 2",
+            "confidence": 0.6967
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen and read.",
+            "confidence": 0.8032
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "Os",
+        "confidence": 0.43,
+        "bbox": {
+          "x": 0.025403,
+          "y": 0.361663,
+          "width": 0.059677,
+          "height": 0.025375
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "Where's Billy?",
+        "confidence": 0.9032,
+        "bbox": {
+          "x": 0.642667,
+          "y": 0.375126,
+          "width": 0.13,
+          "height": 0.021234
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "Do you have amilkshake,Rosy?",
+        "confidence": 0.8969,
+        "bbox": {
+          "x": 0.09,
+          "y": 0.376643,
+          "width": 0.298667,
+          "height": 0.019717
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "Yes, I do.",
+        "confidence": 0.8641,
+        "bbox": {
+          "x": 0.316,
+          "y": 0.519211,
+          "width": 0.082667,
+          "height": 0.017189
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "sentence",
+        "content": "He's behind the tree.",
+        "confidence": 0.8922,
+        "bbox": {
+          "x": 0.548667,
+          "y": 0.519211,
+          "width": 0.193333,
+          "height": 0.017189
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "sentence",
+        "content": "Doeshe havea sandwich?",
+        "confidence": 0.8905,
+        "bbox": {
+          "x": 0.091333,
+          "y": 0.57179,
+          "width": 0.248667,
+          "height": 0.014156
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "Here you are, Billy",
+        "confidence": 0.8416,
+        "bbox": {
+          "x": 0.649333,
+          "y": 0.57179,
+          "width": 0.172,
+          "height": 0.0182
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "A Oy Rate",
+        "confidence": 0.3367,
+        "bbox": {
+          "x": 0.17621,
+          "y": 0.630694,
+          "width": 0.043952,
+          "height": 0.006114
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "1;",
+        "confidence": 0.52,
+        "bbox": {
+          "x": 0.758065,
+          "y": 0.642923,
+          "width": 0.005645,
+          "height": 0.00428
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "4,",
+        "confidence": 0.6,
+        "bbox": {
+          "x": 0.140726,
+          "y": 0.64812,
+          "width": 0.003226,
+          "height": 0.00428
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "Aan 6%",
+        "confidence": 0.185,
+        "bbox": {
+          "x": 0.039113,
+          "y": 0.6524,
+          "width": 0.266129,
+          "height": 0.031489
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0024",
+        "type": "sentence",
+        "content": "No, he doesn't.",
+        "confidence": 0.85,
+        "bbox": {
+          "x": 0.108468,
+          "y": 0.694283,
+          "width": 0.139113,
+          "height": 0.01498
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "No,he doesn't.",
+            "confidence": 0.819
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "No, he doesn't.",
+            "confidence": 0.85
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "Thank you.",
+        "confidence": 0.8294,
+        "bbox": {
+          "x": 0.64,
+          "y": 0.71183,
+          "width": 0.106,
+          "height": 0.022245
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "paragraph",
+        "content": "And he doesn't have his salad.",
+        "confidence": 0.8733,
+        "bbox": {
+          "x": 0.033468,
+          "y": 0.71446,
+          "width": 0.287903,
+          "height": 0.014063
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Andhedoesn't havehis salad",
+            "confidence": 0.897
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "And he doesn't have his salad.",
+            "confidence": 0.8733
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "Sorry, Mom.",
+        "confidence": 0.8429,
+        "bbox": {
+          "x": 0.568667,
+          "y": 0.763397,
+          "width": 0.115333,
+          "height": 0.018706
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "paragraph",
+        "content": "Billy. Do you like the food? }",
+        "confidence": 0.8986,
+        "bbox": {
+          "x": 0.080645,
+          "y": 0.765209,
+          "width": 0.259274,
+          "height": 0.018343
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Billy.Do you like the food?",
+            "confidence": 0.8788
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Billy. Do you like the food? }",
+            "confidence": 0.8986
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "Bad birds!",
+        "confidence": 0.8612,
+        "bbox": {
+          "x": 0.809333,
+          "y": 0.765925,
+          "width": 0.098667,
+          "height": 0.015672
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "Well..theylikethefood.",
+        "confidence": 0.8625,
+        "bbox": {
+          "x": 0.198,
+          "y": 0.802326,
+          "width": 0.241333,
+          "height": 0.0182
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "They?",
+        "confidence": 0.7645,
+        "bbox": {
+          "x": 0.093333,
+          "y": 0.901921,
+          "width": 0.059333,
+          "height": 0.022245
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0032",
+        "type": "sentence",
+        "content": "It'sOk.Wehavemorefood",
+        "confidence": 0.8982,
+        "bbox": {
+          "x": 0.584,
+          "y": 0.903943,
+          "width": 0.259333,
+          "height": 0.017189
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "heading",
+        "content": "Unit 4",
+        "confidence": 0.7941,
+        "bbox": {
+          "x": 0.072667,
+          "y": 0.955005,
+          "width": 0.060667,
+          "height": 0.014156
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "32",
+            "confidence": 0.649
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "32 Unit Food",
+            "confidence": 0.6333
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Unit 4",
+            "confidence": 0.7941
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "Food",
+        "confidence": 0.7377,
+        "bbox": {
+          "x": 0.125333,
+          "y": 0.956016,
+          "width": 0.06,
+          "height": 0.01365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "salad",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.095333,
+          "y": 0.261881,
+          "width": 0.067333,
+          "height": 0.019211
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.7583
+      },
+      {
+        "word": "fries",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.255333,
+          "y": 0.262386,
+          "width": 0.054,
+          "height": 0.019717
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8098
+      },
+      {
+        "word": "pizza",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.403333,
+          "y": 0.262892,
+          "width": 0.064667,
+          "height": 0.020222
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8239
+      },
+      {
+        "word": "milkshake",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.53,
+          "y": 0.263903,
+          "width": 0.116,
+          "height": 0.016684
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.822
+      },
+      {
+        "word": "chicken",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.85,
+          "y": 0.263903,
+          "width": 0.086667,
+          "height": 0.017189
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8554
+      },
+      {
+        "word": "cheese",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.702,
+          "y": 0.264408,
+          "width": 0.079333,
+          "height": 0.017189
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8004
+      },
+      {
+        "word": "sandwich",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.684667,
+          "y": 0.284631,
+          "width": 0.11,
+          "height": 0.017695
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8857
+      },
+      {
+        "word": "Os",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.025403,
+          "y": 0.361663,
+          "width": 0.059677,
+          "height": 0.025375
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.43
+      },
+      {
+        "word": "Where's Billy?",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.642667,
+          "y": 0.375126,
+          "width": 0.13,
+          "height": 0.021234
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.9032
+      },
+      {
+        "word": "Yes, I do.",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.316,
+          "y": 0.519211,
+          "width": 0.082667,
+          "height": 0.017189
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8641
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Where's Billy?",
+            "confidence": 0.9032,
+            "bbox": {
+              "x": 0.642667,
+              "y": 0.375126,
+              "width": 0.13,
+              "height": 0.021234
+            },
+            "sourceElementId": "text_0014",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Do you have amilkshake,Rosy?",
+            "confidence": 0.8969,
+            "bbox": {
+              "x": 0.09,
+              "y": 0.376643,
+              "width": 0.298667,
+              "height": 0.019717
+            },
+            "sourceElementId": "text_0015",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Yes, I do.",
+            "confidence": 0.8641,
+            "bbox": {
+              "x": 0.316,
+              "y": 0.519211,
+              "width": 0.082667,
+              "height": 0.017189
+            },
+            "sourceElementId": "text_0016",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "He's behind the tree.",
+            "confidence": 0.8922,
+            "bbox": {
+              "x": 0.548667,
+              "y": 0.519211,
+              "width": 0.193333,
+              "height": 0.017189
+            },
+            "sourceElementId": "text_0017",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Doeshe havea sandwich?",
+            "confidence": 0.8905,
+            "bbox": {
+              "x": 0.091333,
+              "y": 0.57179,
+              "width": 0.248667,
+              "height": 0.014156
+            },
+            "sourceElementId": "text_0018",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "No, he doesn't.",
+            "confidence": 0.85,
+            "bbox": {
+              "x": 0.108468,
+              "y": 0.694283,
+              "width": 0.139113,
+              "height": 0.01498
+            },
+            "sourceElementId": "text_0024",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "And he doesn't have his salad.",
+            "confidence": 0.8733,
+            "bbox": {
+              "x": 0.033468,
+              "y": 0.71446,
+              "width": 0.287903,
+              "height": 0.014063
+            },
+            "sourceElementId": "text_0026",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Speech-bubble/dialogue-like text was detected spatially; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "salad",
+          "fries",
+          "pizza",
+          "milkshake",
+          "chicken",
+          "cheese",
+          "sandwich",
+          "Listen and read.",
+          "Os",
+          "Where's Billy?",
+          "Do you have amilkshake,Rosy?"
+        ],
+        "position": {
+          "x": 0.005403,
+          "y": 0.241881,
+          "width": 0.951264,
+          "height": 0.174479
+        },
+        "textElementIds": [
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Yes, I do.",
+          "He's behind the tree.",
+          "Doeshe havea sandwich?",
+          "Here you are, Billy",
+          "A Oy Rate",
+          "1;",
+          "4,",
+          "Aan 6%",
+          "No, he doesn't.",
+          "Thank you.",
+          "And he doesn't have his salad."
+        ],
+        "position": {
+          "x": 0.013468,
+          "y": 0.499211,
+          "width": 0.827865,
+          "height": 0.254864
+        },
+        "textElementIds": [
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Sorry, Mom.",
+          "Billy. Do you like the food? }",
+          "Bad birds!",
+          "Well..theylikethefood."
+        ],
+        "position": {
+          "x": 0.060645,
+          "y": 0.743397,
+          "width": 0.867355,
+          "height": 0.097129
+        },
+        "textElementIds": [
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "rawOcrAudit": {
+      "rapidocr": "Do you have a milkshake?\nLesson OneWords\nListen,point,andrepeat.\nListen and chant.\nsalad\nfries\npizza\nmilkshake\nchicken\ncheese\nsandwich\nListen and read.\nWhere's Billy?\nDo you have amilkshake,Rosy?\nYes, I do.\nHe's behind the tree.\nDoeshe havea sandwich?\nHere you are, Billy\nNo,he doesn't.\nThank you.\nAndhedoesn't havehis salad\nSorry, Mom.\nBilly.Do you like the food?\nBad birds!\nWell..theylikethefood.\nThey?\nIt'sOk.Wehavemorefood\n32\nUnit 4\nFood",
+      "tesseract_psm3": "UL £ Do youlhave a milkshake?\n\nLesson One Words\n\n1 Listen, point, and repeat. ©\n\nDG\n\n3 Listen and read. ©) 2\n\nOs\n~\n\n@ “\nee,\nha!\n1\nter\n|\n||\n1;\n\nA Oy Rate\n\nhe\n4,\n\nAan 6%\n\nNo, he doesn't.\nAnd he doesn't have his salad.\n\n=\n\nBilly. Do you like the food? }\n\n32 Unit Food\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": "",
+      "footer_passes": [
+        "They? jee fe x TF \\ Gi t's OK. We have more food. |\n32 Unit 4 Food",
+        "‘LI f cee\n\n2.\n\nThey?\n\nIt's OK. We have more food.\n\n32\n\nUnit4 Food"
+      ]
+    },
+    "excludedOcrNoise": [
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "~",
+        "confidence": 0.0,
+        "bbox": {
+          "x": 0.050806,
+          "y": 0.392235,
+          "width": 0.036694,
+          "height": 0.021706
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "@ “",
+        "confidence": 0.0,
+        "bbox": {
+          "x": 0.779839,
+          "y": 0.514522,
+          "width": 0.037097,
+          "height": 0.003363
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "ee,",
+        "confidence": 0.03,
+        "bbox": {
+          "x": 0.940323,
+          "y": 0.560685,
+          "width": 0.008871,
+          "height": 0.005197
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "ha!",
+        "confidence": 0.41,
+        "bbox": {
+          "x": 0.940323,
+          "y": 0.565882,
+          "width": 0.010081,
+          "height": 0.004586
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "1",
+        "confidence": 0.3,
+        "bbox": {
+          "x": 0.942339,
+          "y": 0.579945,
+          "width": 0.009274,
+          "height": 0.009477
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "ter",
+        "confidence": 0.21,
+        "bbox": {
+          "x": 0.929839,
+          "y": 0.593091,
+          "width": 0.0125,
+          "height": 0.003363
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "|",
+        "confidence": 0.49,
+        "bbox": {
+          "x": 0.928629,
+          "y": 0.607765,
+          "width": 0.00121,
+          "height": 0.005503
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "||",
+        "confidence": 0.7,
+        "bbox": {
+          "x": 0.934274,
+          "y": 0.621828,
+          "width": 0.010484,
+          "height": 0.007031
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "he",
+        "confidence": 0.29,
+        "bbox": {
+          "x": 0.137097,
+          "y": 0.640171,
+          "width": 0.004435,
+          "height": 0.002751
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "=",
+        "confidence": 0.1,
+        "bbox": {
+          "x": 0.110484,
+          "y": 0.751146,
+          "width": 0.038306,
+          "height": 0.00428
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "averageConfidence": 0.7857,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "9 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "10 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "lesson",
+    "pagePurpose": null,
+    "readingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "headings": [
+      {
+        "id": "text_0001",
+        "content": "Do you have a milkshake?",
+        "confidence": 0.9269,
+        "bbox": {
+          "x": 0.191333,
+          "y": 0.023256,
+          "width": 0.738,
+          "height": 0.053084
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0001"
+        ]
+      },
+      {
+        "id": "text_0002",
+        "content": "Lesson One Words",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.028629,
+          "y": 0.093549,
+          "width": 0.25,
+          "height": 0.016509
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "id": "text_0003",
+        "content": "Listen, point, and repeat.",
+        "confidence": 0.8773,
+        "bbox": {
+          "x": 0.047333,
+          "y": 0.136502,
+          "width": 0.309333,
+          "height": 0.020222
+        },
+        "repaired": true,
+        "sourceElementIds": [
+          "text_0003"
+        ]
+      },
+      {
+        "id": "text_0004",
+        "content": "Listen and chant.",
+        "confidence": 0.8294,
+        "bbox": {
+          "x": 0.506,
+          "y": 0.137513,
+          "width": 0.212667,
+          "height": 0.017695
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      },
+      {
+        "id": "text_0033",
+        "content": "Unit 4",
+        "confidence": 0.7941,
+        "bbox": {
+          "x": 0.072667,
+          "y": 0.955005,
+          "width": 0.060667,
+          "height": 0.014156
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0033"
+        ]
+      }
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Do you have a milkshake?",
+        "originalContent": "Do you have a milkshake?",
+        "confidence": 0.9269,
+        "bbox": {
+          "x": 0.191333,
+          "y": 0.023256,
+          "width": 0.738,
+          "height": 0.053084
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "UL £ Do youlhave a milkshake?",
+            "confidence": 0.71
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Do you have a milkshake?",
+            "confidence": 0.9269
+          }
+        ]
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Lesson One Words",
+        "originalContent": "Lesson One Words",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.028629,
+          "y": 0.093549,
+          "width": 0.25,
+          "height": 0.016509
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Lesson OneWords",
+            "confidence": 0.8894
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Lesson One Words",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Listen, point, and repeat.",
+        "originalContent": "Listen,point,andrepeat.",
+        "confidence": 0.8773,
+        "bbox": {
+          "x": 0.047333,
+          "y": 0.136502,
+          "width": 0.309333,
+          "height": 0.020222
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Listen, point, and repeat. ©",
+            "confidence": 0.8133
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen,point,andrepeat.",
+            "confidence": 0.8773
+          }
+        ]
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Listen and chant.",
+        "originalContent": "Listen and chant.",
+        "confidence": 0.8294,
+        "bbox": {
+          "x": 0.506,
+          "y": 0.137513,
+          "width": 0.212667,
+          "height": 0.017695
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "salad",
+        "originalContent": "salad",
+        "confidence": 0.7583,
+        "bbox": {
+          "x": 0.095333,
+          "y": 0.261881,
+          "width": 0.067333,
+          "height": 0.019211
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "DG",
+            "confidence": 0.0
+          },
+          {
+            "engine": "rapidocr",
+            "content": "salad",
+            "confidence": 0.7583
+          }
+        ]
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "fries",
+        "originalContent": "fries",
+        "confidence": 0.8098,
+        "bbox": {
+          "x": 0.255333,
+          "y": 0.262386,
+          "width": 0.054,
+          "height": 0.019717
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "pizza",
+        "originalContent": "pizza",
+        "confidence": 0.8239,
+        "bbox": {
+          "x": 0.403333,
+          "y": 0.262892,
+          "width": 0.064667,
+          "height": 0.020222
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "milkshake",
+        "originalContent": "milkshake",
+        "confidence": 0.822,
+        "bbox": {
+          "x": 0.53,
+          "y": 0.263903,
+          "width": 0.116,
+          "height": 0.016684
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "chicken",
+        "originalContent": "chicken",
+        "confidence": 0.8554,
+        "bbox": {
+          "x": 0.85,
+          "y": 0.263903,
+          "width": 0.086667,
+          "height": 0.017189
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "cheese",
+        "originalContent": "cheese",
+        "confidence": 0.8004,
+        "bbox": {
+          "x": 0.702,
+          "y": 0.264408,
+          "width": 0.079333,
+          "height": 0.017189
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "sandwich",
+        "originalContent": "sandwich",
+        "confidence": 0.8857,
+        "bbox": {
+          "x": 0.684667,
+          "y": 0.284631,
+          "width": 0.11,
+          "height": 0.017695
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0012",
+        "type": "instruction",
+        "content": "Listen and read.",
+        "originalContent": "Listen and read.",
+        "confidence": 0.8032,
+        "bbox": {
+          "x": 0.049333,
+          "y": 0.332154,
+          "width": 0.208,
+          "height": 0.017695
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Listen and read. ©) 2",
+            "confidence": 0.6967
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen and read.",
+            "confidence": 0.8032
+          }
+        ]
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "Os",
+        "originalContent": "Os",
+        "confidence": 0.43,
+        "bbox": {
+          "x": 0.025403,
+          "y": 0.361663,
+          "width": 0.059677,
+          "height": 0.025375
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "Where's Billy?",
+        "originalContent": "Where's Billy?",
+        "confidence": 0.9032,
+        "bbox": {
+          "x": 0.642667,
+          "y": 0.375126,
+          "width": 0.13,
+          "height": 0.021234
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "Do you have a milkshake, Rosy?",
+        "originalContent": "Do you have amilkshake,Rosy?",
+        "confidence": 0.8969,
+        "bbox": {
+          "x": 0.09,
+          "y": 0.376643,
+          "width": 0.298667,
+          "height": 0.019717
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "Yes, I do.",
+        "originalContent": "Yes, I do.",
+        "confidence": 0.8641,
+        "bbox": {
+          "x": 0.316,
+          "y": 0.519211,
+          "width": 0.082667,
+          "height": 0.017189
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0017",
+        "type": "sentence",
+        "content": "He's behind the tree.",
+        "originalContent": "He's behind the tree.",
+        "confidence": 0.8922,
+        "bbox": {
+          "x": 0.548667,
+          "y": 0.519211,
+          "width": 0.193333,
+          "height": 0.017189
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0018",
+        "type": "sentence",
+        "content": "Doeshe havea sandwich?",
+        "originalContent": "Doeshe havea sandwich?",
+        "confidence": 0.8905,
+        "bbox": {
+          "x": 0.091333,
+          "y": 0.57179,
+          "width": 0.248667,
+          "height": 0.014156
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "Here you are, Billy",
+        "originalContent": "Here you are, Billy",
+        "confidence": 0.8416,
+        "bbox": {
+          "x": 0.649333,
+          "y": 0.57179,
+          "width": 0.172,
+          "height": 0.0182
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "A Oy Rate",
+        "originalContent": "A Oy Rate",
+        "confidence": 0.3367,
+        "bbox": {
+          "x": 0.17621,
+          "y": 0.630694,
+          "width": 0.043952,
+          "height": 0.006114
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "Aan 6%",
+        "originalContent": "Aan 6%",
+        "confidence": 0.185,
+        "bbox": {
+          "x": 0.039113,
+          "y": 0.6524,
+          "width": 0.266129,
+          "height": 0.031489
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0024",
+        "type": "sentence",
+        "content": "No, he doesn't.",
+        "originalContent": "No, he doesn't.",
+        "confidence": 0.85,
+        "bbox": {
+          "x": 0.108468,
+          "y": 0.694283,
+          "width": 0.139113,
+          "height": 0.01498
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "No,he doesn't.",
+            "confidence": 0.819
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "No, he doesn't.",
+            "confidence": 0.85
+          }
+        ]
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "Thank you.",
+        "originalContent": "Thank you.",
+        "confidence": 0.8294,
+        "bbox": {
+          "x": 0.64,
+          "y": 0.71183,
+          "width": 0.106,
+          "height": 0.022245
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0026",
+        "type": "paragraph",
+        "content": "And he doesn't have his salad.",
+        "originalContent": "And he doesn't have his salad.",
+        "confidence": 0.8733,
+        "bbox": {
+          "x": 0.033468,
+          "y": 0.71446,
+          "width": 0.287903,
+          "height": 0.014063
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Andhedoesn't havehis salad",
+            "confidence": 0.897
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "And he doesn't have his salad.",
+            "confidence": 0.8733
+          }
+        ]
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "Sorry, Mom.",
+        "originalContent": "Sorry, Mom.",
+        "confidence": 0.8429,
+        "bbox": {
+          "x": 0.568667,
+          "y": 0.763397,
+          "width": 0.115333,
+          "height": 0.018706
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0028",
+        "type": "paragraph",
+        "content": "Billy. Do you like the food? }",
+        "originalContent": "Billy. Do you like the food? }",
+        "confidence": 0.8986,
+        "bbox": {
+          "x": 0.080645,
+          "y": 0.765209,
+          "width": 0.259274,
+          "height": 0.018343
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Billy.Do you like the food?",
+            "confidence": 0.8788
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Billy. Do you like the food? }",
+            "confidence": 0.8986
+          }
+        ]
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "Bad birds!",
+        "originalContent": "Bad birds!",
+        "confidence": 0.8612,
+        "bbox": {
+          "x": 0.809333,
+          "y": 0.765925,
+          "width": 0.098667,
+          "height": 0.015672
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "Well.. they like the food.",
+        "originalContent": "Well..theylikethefood.",
+        "confidence": 0.8625,
+        "bbox": {
+          "x": 0.198,
+          "y": 0.802326,
+          "width": 0.241333,
+          "height": 0.0182
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "They?",
+        "originalContent": "They?",
+        "confidence": 0.7645,
+        "bbox": {
+          "x": 0.093333,
+          "y": 0.901921,
+          "width": 0.059333,
+          "height": 0.022245
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0032",
+        "type": "sentence",
+        "content": "It's Ok. We have more food",
+        "originalContent": "It'sOk.Wehavemorefood",
+        "confidence": 0.8982,
+        "bbox": {
+          "x": 0.584,
+          "y": 0.903943,
+          "width": 0.259333,
+          "height": 0.017189
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0033",
+        "type": "heading",
+        "content": "Unit 4",
+        "originalContent": "Unit 4",
+        "confidence": 0.7941,
+        "bbox": {
+          "x": 0.072667,
+          "y": 0.955005,
+          "width": 0.060667,
+          "height": 0.014156
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "32",
+            "confidence": 0.649
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "32 Unit Food",
+            "confidence": 0.6333
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Unit 4",
+            "confidence": 0.7941
+          }
+        ]
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "Food",
+        "originalContent": "Food",
+        "confidence": 0.7377,
+        "bbox": {
+          "x": 0.125333,
+          "y": 0.956016,
+          "width": 0.06,
+          "height": 0.01365
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Do you have a milkshake?",
+      "Lesson One Words",
+      "Listen, point, and repeat.",
+      "Listen and chant.",
+      "salad",
+      "fries",
+      "pizza",
+      "milkshake",
+      "chicken",
+      "cheese",
+      "sandwich",
+      "Listen and read.",
+      "Os",
+      "Where's Billy?",
+      "Do you have a milkshake, Rosy?",
+      "Yes, I do.",
+      "He's behind the tree.",
+      "Doeshe havea sandwich?",
+      "Here you are, Billy",
+      "A Oy Rate",
+      "Aan 6%",
+      "No, he doesn't.",
+      "Thank you.",
+      "And he doesn't have his salad.",
+      "Sorry, Mom.",
+      "Billy. Do you like the food? }",
+      "Bad birds!",
+      "Well.. they like the food.",
+      "They?",
+      "It's Ok. We have more food",
+      "Unit 4",
+      "Food"
+    ],
+    "paragraphs": [
+      {
+        "id": "text_0026",
+        "content": "And he doesn't have his salad.",
+        "confidence": 0.8733,
+        "bbox": {
+          "x": 0.033468,
+          "y": 0.71446,
+          "width": 0.287903,
+          "height": 0.014063
+        },
+        "sourceElementIds": [
+          "text_0026"
+        ]
+      },
+      {
+        "id": "text_0028",
+        "content": "Billy. Do you like the food? }",
+        "confidence": 0.8986,
+        "bbox": {
+          "x": 0.080645,
+          "y": 0.765209,
+          "width": 0.259274,
+          "height": 0.018343
+        },
+        "sourceElementIds": [
+          "text_0028"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "text_0014",
+        "content": "Where's Billy?",
+        "confidence": 0.9032,
+        "bbox": {
+          "x": 0.642667,
+          "y": 0.375126,
+          "width": 0.13,
+          "height": 0.021234
+        },
+        "sourceElementIds": [
+          "text_0014"
+        ]
+      },
+      {
+        "id": "text_0015",
+        "content": "Do you have a milkshake, Rosy?",
+        "confidence": 0.8969,
+        "bbox": {
+          "x": 0.09,
+          "y": 0.376643,
+          "width": 0.298667,
+          "height": 0.019717
+        },
+        "sourceElementIds": [
+          "text_0015"
+        ]
+      },
+      {
+        "id": "text_0016",
+        "content": "Yes, I do.",
+        "confidence": 0.8641,
+        "bbox": {
+          "x": 0.316,
+          "y": 0.519211,
+          "width": 0.082667,
+          "height": 0.017189
+        },
+        "sourceElementIds": [
+          "text_0016"
+        ]
+      },
+      {
+        "id": "text_0017",
+        "content": "He's behind the tree.",
+        "confidence": 0.8922,
+        "bbox": {
+          "x": 0.548667,
+          "y": 0.519211,
+          "width": 0.193333,
+          "height": 0.017189
+        },
+        "sourceElementIds": [
+          "text_0017"
+        ]
+      },
+      {
+        "id": "text_0018",
+        "content": "Doeshe havea sandwich?",
+        "confidence": 0.8905,
+        "bbox": {
+          "x": 0.091333,
+          "y": 0.57179,
+          "width": 0.248667,
+          "height": 0.014156
+        },
+        "sourceElementIds": [
+          "text_0018"
+        ]
+      },
+      {
+        "id": "text_0024",
+        "content": "No, he doesn't.",
+        "confidence": 0.85,
+        "bbox": {
+          "x": 0.108468,
+          "y": 0.694283,
+          "width": 0.139113,
+          "height": 0.01498
+        },
+        "sourceElementIds": [
+          "text_0024"
+        ]
+      },
+      {
+        "id": "text_0025",
+        "content": "Thank you.",
+        "confidence": 0.8294,
+        "bbox": {
+          "x": 0.64,
+          "y": 0.71183,
+          "width": 0.106,
+          "height": 0.022245
+        },
+        "sourceElementIds": [
+          "text_0025"
+        ]
+      },
+      {
+        "id": "text_0027",
+        "content": "Sorry, Mom.",
+        "confidence": 0.8429,
+        "bbox": {
+          "x": 0.568667,
+          "y": 0.763397,
+          "width": 0.115333,
+          "height": 0.018706
+        },
+        "sourceElementIds": [
+          "text_0027"
+        ]
+      },
+      {
+        "id": "text_0031",
+        "content": "They?",
+        "confidence": 0.7645,
+        "bbox": {
+          "x": 0.093333,
+          "y": 0.901921,
+          "width": 0.059333,
+          "height": 0.022245
+        },
+        "sourceElementIds": [
+          "text_0031"
+        ]
+      },
+      {
+        "id": "text_0032",
+        "content": "It's Ok. We have more food",
+        "confidence": 0.8982,
+        "bbox": {
+          "x": 0.584,
+          "y": 0.903943,
+          "width": 0.259333,
+          "height": 0.017189
+        },
+        "sourceElementIds": [
+          "text_0032"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "salad",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "evidence": "pdf_visual_verification",
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      },
+      {
+        "word": "fries",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "evidence": "pdf_visual_verification",
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      },
+      {
+        "word": "pizza",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "evidence": "pdf_visual_verification",
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      },
+      {
+        "word": "milkshake",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "evidence": "pdf_visual_verification",
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      },
+      {
+        "word": "chicken",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "evidence": "pdf_visual_verification",
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      },
+      {
+        "word": "cheese",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "evidence": "pdf_visual_verification",
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      },
+      {
+        "word": "sandwich",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "evidence": "pdf_visual_verification",
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      }
+    ],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "lines": [
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Where's Billy?",
+            "confidence": 0.9032,
+            "bbox": {
+              "x": 0.642667,
+              "y": 0.375126,
+              "width": 0.13,
+              "height": 0.021234
+            },
+            "sourceElementId": "text_0014",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Do you have a milkshake, Rosy?",
+            "confidence": 0.8969,
+            "bbox": {
+              "x": 0.09,
+              "y": 0.376643,
+              "width": 0.298667,
+              "height": 0.019717
+            },
+            "sourceElementId": "text_0015",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Yes, I do.",
+            "confidence": 0.8641,
+            "bbox": {
+              "x": 0.316,
+              "y": 0.519211,
+              "width": 0.082667,
+              "height": 0.017189
+            },
+            "sourceElementId": "text_0016",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "He's behind the tree.",
+            "confidence": 0.8922,
+            "bbox": {
+              "x": 0.548667,
+              "y": 0.519211,
+              "width": 0.193333,
+              "height": 0.017189
+            },
+            "sourceElementId": "text_0017",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Doeshe havea sandwich?",
+            "confidence": 0.8905,
+            "bbox": {
+              "x": 0.091333,
+              "y": 0.57179,
+              "width": 0.248667,
+              "height": 0.014156
+            },
+            "sourceElementId": "text_0018",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "No, he doesn't.",
+            "confidence": 0.85,
+            "bbox": {
+              "x": 0.108468,
+              "y": 0.694283,
+              "width": 0.139113,
+              "height": 0.01498
+            },
+            "sourceElementId": "text_0024",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "And he doesn't have his salad.",
+            "confidence": 0.8733,
+            "bbox": {
+              "x": 0.033468,
+              "y": 0.71446,
+              "width": 0.287903,
+              "height": 0.014063
+            },
+            "sourceElementId": "text_0026",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          }
+        ],
+        "confidence": 0.8814571428571428
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": null,
+        "type": "listening_chant",
+        "instruction": "Listen and chant.",
+        "items": [],
+        "prompts": [],
+        "blanks": [],
+        "choices": [],
+        "matchingPairs": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "sourceElementIds": [
+          "text_0004"
+        ],
+        "confidence": 0.8294,
+        "repairNotes": []
+      },
+      {
+        "exerciseNumber": null,
+        "type": "listening_activity",
+        "instruction": "Listen and read.",
+        "items": [],
+        "prompts": [],
+        "blanks": [],
+        "choices": [],
+        "matchingPairs": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "sourceElementIds": [
+          "text_0012"
+        ],
+        "confidence": 0.8032,
+        "repairNotes": []
+      },
+      {
+        "exerciseNumber": null,
+        "type": "listening_activity",
+        "instruction": "Listen, point, and repeat.",
+        "items": [],
+        "prompts": [],
+        "blanks": [],
+        "choices": [],
+        "matchingPairs": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "sourceElementIds": [
+          "text_0003"
+        ],
+        "confidence": 0.8773,
+        "repairNotes": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "salad",
+          "fries",
+          "pizza",
+          "milkshake",
+          "chicken",
+          "cheese",
+          "sandwich",
+          "Listen and read.",
+          "Os",
+          "Where's Billy?",
+          "Do you have a milkshake, Rosy?"
+        ],
+        "position": {
+          "x": 0.005403,
+          "y": 0.241881,
+          "width": 0.951264,
+          "height": 0.174479
+        },
+        "textElementIds": [
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Yes, I do.",
+          "He's behind the tree.",
+          "Doeshe havea sandwich?",
+          "Here you are, Billy",
+          "A Oy Rate",
+          "Aan 6%",
+          "No, he doesn't.",
+          "Thank you.",
+          "And he doesn't have his salad."
+        ],
+        "position": {
+          "x": 0.013468,
+          "y": 0.499211,
+          "width": 0.827865,
+          "height": 0.254864
+        },
+        "textElementIds": [
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Sorry, Mom.",
+          "Billy. Do you like the food? }",
+          "Bad birds!",
+          "Well.. they like the food."
+        ],
+        "position": {
+          "x": 0.060645,
+          "y": 0.743397,
+          "width": 0.867355,
+          "height": 0.097129
+        },
+        "textElementIds": [
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "nonEducationalText": [],
+    "excludedGarbage": [
+      {
+        "id": "text_0021",
+        "content": "1;",
+        "originalContent": "1;",
+        "confidence": 0.52
+      },
+      {
+        "id": "text_0022",
+        "content": "4,",
+        "originalContent": "4,",
+        "confidence": 0.6
+      }
+    ]
+  },
+  "learningContent": {
+    "pageType": "lesson",
+    "title": "Do you have a milkshake?",
+    "learningObjectives": [
+      "Study content: Lesson One Words"
+    ],
+    "targetVocabulary": [
+      {
+        "word": "salad",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "fries",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "pizza",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "milkshake",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "chicken",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "cheese",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "sandwich",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "Where's Billy?",
+        "meaning": null,
+        "confidence": 0.9032,
+        "sourceElementIds": [
+          "text_0014"
+        ]
+      },
+      {
+        "expression": "Do you have a milkshake, Rosy?",
+        "meaning": null,
+        "confidence": 0.8969,
+        "sourceElementIds": [
+          "text_0015"
+        ]
+      },
+      {
+        "expression": "Yes, I do.",
+        "meaning": null,
+        "confidence": 0.8641,
+        "sourceElementIds": [
+          "text_0016"
+        ]
+      },
+      {
+        "expression": "He's behind the tree.",
+        "meaning": null,
+        "confidence": 0.8922,
+        "sourceElementIds": [
+          "text_0017"
+        ]
+      },
+      {
+        "expression": "Doeshe havea sandwich?",
+        "meaning": null,
+        "confidence": 0.8905,
+        "sourceElementIds": [
+          "text_0018"
+        ]
+      },
+      {
+        "expression": "No, he doesn't.",
+        "meaning": null,
+        "confidence": 0.85,
+        "sourceElementIds": [
+          "text_0024"
+        ]
+      }
+    ],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "Where's Billy?",
+            "confidence": 0.9032
+          },
+          {
+            "speaker": null,
+            "content": "Do you have a milkshake, Rosy?",
+            "confidence": 0.8969
+          },
+          {
+            "speaker": null,
+            "content": "Yes, I do.",
+            "confidence": 0.8641
+          },
+          {
+            "speaker": null,
+            "content": "He's behind the tree.",
+            "confidence": 0.8922
+          },
+          {
+            "speaker": null,
+            "content": "Doeshe havea sandwich?",
+            "confidence": 0.8905
+          },
+          {
+            "speaker": null,
+            "content": "No, he doesn't.",
+            "confidence": 0.85
+          },
+          {
+            "speaker": null,
+            "content": "And he doesn't have his salad.",
+            "confidence": 0.8733
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": null,
+        "type": "listening_chant",
+        "instruction": "Listen and chant.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8294,
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "listening_activity",
+        "instruction": "Listen and read.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8032,
+        "sourceElementIds": [
+          "text_0012"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "listening_activity",
+        "instruction": "Listen, point, and repeat.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8773,
+        "sourceElementIds": [
+          "text_0003"
+        ]
+      }
+    ],
+    "pronunciation": [],
+    "listening": [
+      {
+        "exerciseNumber": null,
+        "instruction": "Listen and chant.",
+        "type": "listening_chant",
+        "confidence": 0.8294
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Listen and read.",
+        "type": "listening_activity",
+        "confidence": 0.8032
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Listen, point, and repeat.",
+        "type": "listening_activity",
+        "confidence": 0.8773
+      }
+    ],
+    "speaking": [
+      {
+        "exerciseNumber": null,
+        "instruction": "Listen and read.",
+        "type": "listening_activity",
+        "confidence": 0.8032
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Listen, point, and repeat.",
+        "type": "listening_activity",
+        "confidence": 0.8773
+      }
+    ],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [],
+    "verifiedAgainstPdf": true,
+    "repairStats": {
+      "text_kept": 32,
+      "text_repaired": 4,
+      "garbage_excluded": 2,
+      "vocab_kept": 19,
+      "vocab_rejected": 1,
+      "dialogue_lines": 7,
+      "dialogues_reconstructed": 1,
+      "exercises_reconstructed": 3
+    },
+    "averageOcrConfidence": 0.7857
+  },
+  "metadata": {
+    "book": "Family and Friends 2 Student Book (American)",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_ff2_v1",
+    "originalOcrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "originalAverageConfidence": 0.7857,
+    "noHallucinationPolicy": "Definitions, translations, speaker names, answers, and grammar rules are null or omitted unless visibly supported by page OCR/PDF. Text repairs are limited to spacing, punctuation, and clear OCR character errors."
+  }
+}

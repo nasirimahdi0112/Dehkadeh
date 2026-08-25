@@ -1,0 +1,4516 @@
+{
+  "pageNumber": 42,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "verified sequential printed-footer pattern",
+  "pdfPageNumber": 43,
+  "source": {
+    "pdfFile": "Family and Friends 3 SB_Part1.pdf",
+    "pdfLocalPageNumber": 43,
+    "pageSizePoints": {
+      "width": 586.56,
+      "height": 785.04
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Lesson Three",
+        "confidence": 0.8544,
+        "bbox": {
+          "x": 0.052,
+          "y": 0.030892,
+          "width": 0.157333,
+          "height": 0.017937
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Grammar and Song",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.224632,
+          "y": 0.031795,
+          "width": 0.218085,
+          "height": 0.018649
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "GrammarandSong",
+            "confidence": 0.8177
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Grammar and Song",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Speaking",
+        "confidence": 0.7826,
+        "bbox": {
+          "x": 0.092,
+          "y": 0.076233,
+          "width": 0.081333,
+          "height": 0.016442
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Think of a girl. Ask and answer.",
+        "confidence": 0.9486,
+        "bbox": {
+          "x": 0.186989,
+          "y": 0.077958,
+          "width": 0.317512,
+          "height": 0.01712
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Think of a girl. Ask and answer.",
+            "confidence": 0.8824
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Think of a girl. Ask and answer.",
+            "confidence": 0.9486
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "paragraph",
+        "content": "wear a hat write in a notebook eat a sandwich take a photo",
+        "confidence": 0.9408,
+        "bbox": {
+          "x": 0.159574,
+          "y": 0.129318,
+          "width": 0.697218,
+          "height": 0.018037
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "wear a hat",
+            "confidence": 0.826
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "wear a hat write in a notebook eat a sandwich take a photo",
+            "confidence": 0.9408
+          },
+          {
+            "engine": "rapidocr",
+            "content": "take a photo",
+            "confidence": 0.8139
+          },
+          {
+            "engine": "rapidocr",
+            "content": "writeina notebook",
+            "confidence": 0.81
+          },
+          {
+            "engine": "rapidocr",
+            "content": "eatasandwich",
+            "confidence": 0.8925
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "paragraph",
+        "content": "Is she wearing a hat?",
+        "confidence": 0.8771,
+        "bbox": {
+          "x": 0.743333,
+          "y": 0.173891,
+          "width": 0.195333,
+          "height": 0.016442
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ly 2 Is she wearing a hat? |",
+            "confidence": 0.7562
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Is she wearing a hat?",
+            "confidence": 0.8771
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Amy",
+        "confidence": 0.7397,
+        "bbox": {
+          "x": 0.359333,
+          "y": 0.184355,
+          "width": 0.055333,
+          "height": 0.02292
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "Sarah",
+        "confidence": 0.7722,
+        "bbox": {
+          "x": 0.561333,
+          "y": 0.187843,
+          "width": 0.068,
+          "height": 0.018934
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "Yes, she is.",
+        "confidence": 0.8949,
+        "bbox": {
+          "x": 0.794667,
+          "y": 0.206278,
+          "width": 0.094667,
+          "height": 0.018435
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "hh",
+        "confidence": 0.39,
+        "bbox": {
+          "x": 0.341653,
+          "y": 0.208193,
+          "width": 0.006956,
+          "height": 0.007031
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0011",
+        "type": "sentence",
+        "content": "Is she taking a photo?",
+        "confidence": 0.956,
+        "bbox": {
+          "x": 0.738543,
+          "y": 0.241516,
+          "width": 0.199673,
+          "height": 0.016509
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Is she taking a photo?",
+            "confidence": 0.8987
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Is she taking a photo?",
+            "confidence": 0.956
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "sentence",
+        "content": "No, she isn't.",
+        "confidence": 0.8778,
+        "bbox": {
+          "x": 0.795333,
+          "y": 0.274539,
+          "width": 0.116,
+          "height": 0.016442
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "sentence",
+        "content": "Issheeatingasandwich?",
+        "confidence": 0.9088,
+        "bbox": {
+          "x": 0.703333,
+          "y": 0.308919,
+          "width": 0.234667,
+          "height": 0.016442
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Tr Is she eating a sandwich?",
+            "confidence": 0.87
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Issheeatingasandwich?",
+            "confidence": 0.9088
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "Molly",
+        "confidence": 0.7803,
+        "bbox": {
+          "x": 0.406667,
+          "y": 0.327354,
+          "width": 0.064,
+          "height": 0.021923
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "No, she isn't.",
+        "confidence": 0.8849,
+        "bbox": {
+          "x": 0.79,
+          "y": 0.341804,
+          "width": 0.12,
+          "height": 0.019432
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "paragraph",
+        "content": "Zi S ui — |",
+        "confidence": 0.388,
+        "bbox": {
+          "x": 0.066694,
+          "y": 0.350352,
+          "width": 0.898936,
+          "height": 0.066646
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Jen",
+        "confidence": 0.7434,
+        "bbox": {
+          "x": 0.19,
+          "y": 0.355755,
+          "width": 0.048,
+          "height": 0.020927
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "Ruth",
+        "confidence": 0.797,
+        "bbox": {
+          "x": 0.082667,
+          "y": 0.35725,
+          "width": 0.054,
+          "height": 0.017937
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "Liz",
+        "confidence": 0.7319,
+        "bbox": {
+          "x": 0.348667,
+          "y": 0.375187,
+          "width": 0.029333,
+          "height": 0.015446
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "It's Amy!",
+        "confidence": 0.7779,
+        "bbox": {
+          "x": 0.86,
+          "y": 0.376682,
+          "width": 0.084667,
+          "height": 0.020927
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0021",
+        "type": "instruction",
+        "content": "Write about a girl.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.075696,
+          "y": 0.441761,
+          "width": 0.185761,
+          "height": 0.020177
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2Write about a giri.",
+            "confidence": 0.8408
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Write about a girl.",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "paragraph",
+        "content": "Ruth is taking a photo. She’s ...",
+        "confidence": 0.9329,
+        "bbox": {
+          "x": 0.078151,
+          "y": 0.464384,
+          "width": 0.341653,
+          "height": 0.018954
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Ruth is taking a photo. She's",
+            "confidence": 0.9117
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ruth is taking a photo. She’s ...",
+            "confidence": 0.9329
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "instruction",
+        "content": "4 Sing and do.",
+        "confidence": 0.7877,
+        "bbox": {
+          "x": 0.346667,
+          "y": 0.504235,
+          "width": 0.162667,
+          "height": 0.021425
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0024",
+        "type": "instruction",
+        "content": "Listen and sing. (@) 4 Sing and do.",
+        "confidence": 0.83,
+        "bbox": {
+          "x": 0.075696,
+          "y": 0.504739,
+          "width": 0.432488,
+          "height": 0.019566
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listen and sing.49",
+            "confidence": 0.7918
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listen and sing. (@) 4 Sing and do.",
+            "confidence": 0.83
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "sentence",
+        "content": "Are the monkeys climbing?",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.323241,
+          "y": 0.557016,
+          "width": 0.36252,
+          "height": 0.022317
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Are the monkeys climbing?",
+            "confidence": 0.9002
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Are the monkeys climbing?",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "sentence",
+        "content": "Are the monkeys climbing?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.380933,
+          "y": 0.590339,
+          "width": 0.244272,
+          "height": 0.018037
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Are the monkeys climbing?",
+            "confidence": 0.8754
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Are the monkeys climbing?",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "sentence",
+        "content": "Yes, they are.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.443944,
+          "y": 0.612657,
+          "width": 0.115794,
+          "height": 0.016203
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Yes, they are.",
+            "confidence": 0.8546
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Yes, they are.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "sentence",
+        "content": "Are the zebras running?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.393208,
+          "y": 0.632528,
+          "width": 0.218085,
+          "height": 0.01712
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Are the zebras running?",
+            "confidence": 0.9116
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Are the zebras running?",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "sentence",
+        "content": "Yes, they are.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.443944,
+          "y": 0.653011,
+          "width": 0.114566,
+          "height": 0.01712
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Yes, they are.",
+            "confidence": 0.8492
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Yes, they are.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "Hello",
+        "confidence": 0.7876,
+        "bbox": {
+          "x": 0.734,
+          "y": 0.663677,
+          "width": 0.080667,
+          "height": 0.032387
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0031",
+        "type": "sentence",
+        "content": "Are the tigers walking?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.398118,
+          "y": 0.673494,
+          "width": 0.207447,
+          "height": 0.016203
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Are the tigers walking?",
+            "confidence": 0.8826
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Are the tigers walking?",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "sentence",
+        "content": "Are the parrots talking?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.394435,
+          "y": 0.693977,
+          "width": 0.214403,
+          "height": 0.016509
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Aretheparrots talking?",
+            "confidence": 0.8886
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Are the parrots talking?",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "sentence",
+        "content": "Are the monkeys climbing?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.379705,
+          "y": 0.714766,
+          "width": 0.243044,
+          "height": 0.016203
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Are the monkeys climbing?",
+            "confidence": 0.8813
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Are the monkeys climbing?",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "sentence",
+        "content": "Yes, they are.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.442717,
+          "y": 0.734332,
+          "width": 0.115794,
+          "height": 0.01712
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Yes, they are.",
+            "confidence": 0.8608
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Yes, they are.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "sentence",
+        "content": "Are the penguins swimming?",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.369476,
+          "y": 0.767044,
+          "width": 0.263502,
+          "height": 0.016203
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Arethepenguins swimming?",
+            "confidence": 0.8859
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Are the penguins swimming?",
+            "confidence": 0.9575
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "sentence",
+        "content": "Yes, they are.",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.442717,
+          "y": 0.787527,
+          "width": 0.114566,
+          "height": 0.016203
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Yes, they are.",
+            "confidence": 0.8986
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Yes, they are.",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "sentence",
+        "content": "Are the parrots flying?",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.398936,
+          "y": 0.807398,
+          "width": 0.202128,
+          "height": 0.016203
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Aretheparrotsflying?",
+            "confidence": 0.9151
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Are the parrots flying?",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "sentence",
+        "content": "Yes, they are.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.441489,
+          "y": 0.827881,
+          "width": 0.114566,
+          "height": 0.016203
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Yes, they are.",
+            "confidence": 0.833
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Yes, they are.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "sentence",
+        "content": "Are the lizards eating?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.398118,
+          "y": 0.848364,
+          "width": 0.202946,
+          "height": 0.016203
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Are the lizards eating?",
+            "confidence": 0.8694
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Are the lizards eating?",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "sentence",
+        "content": "Are the lions sleeping?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.398936,
+          "y": 0.868236,
+          "width": 0.2009,
+          "height": 0.016203
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Arethe lions sleeping?",
+            "confidence": 0.8402
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Are the lions sleeping?",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "sentence",
+        "content": "Are the penquins swimming?",
+        "confidence": 0.925,
+        "bbox": {
+          "x": 0.368249,
+          "y": 0.888719,
+          "width": 0.263502,
+          "height": 0.016203
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Arethepenguins swimming?",
+            "confidence": 0.9019
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Are the penquins swimming?",
+            "confidence": 0.925
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "sentence",
+        "content": "Yes, they are.",
+        "confidence": 0.9433,
+        "bbox": {
+          "x": 0.440262,
+          "y": 0.909202,
+          "width": 0.115794,
+          "height": 0.016203
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Yes, they are.",
+            "confidence": 0.8533
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Yes, they are.",
+            "confidence": 0.9433
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "label",
+        "content": "42",
+        "confidence": 0.6459,
+        "bbox": {
+          "x": 0.016,
+          "y": 0.963129,
+          "width": 0.028667,
+          "height": 0.015446
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0044",
+        "type": "label",
+        "content": "Unit S",
+        "confidence": 0.6419,
+        "bbox": {
+          "x": 0.095333,
+          "y": 0.967613,
+          "width": 0.052667,
+          "height": 0.013453
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0045",
+        "type": "label",
+        "content": "Are rhe monkeyscinbing",
+        "confidence": 0.8075,
+        "bbox": {
+          "x": 0.156,
+          "y": 0.968112,
+          "width": 0.201333,
+          "height": 0.013951
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [
+      {
+        "topic": "Grammar and Song",
+        "rule": [
+          "Grammar and Song",
+          "Think of a girl. Ask and answer.",
+          "wear a hat write in a notebook eat a sandwich take a photo",
+          "Is she wearing a hat?",
+          "Yes, she is.",
+          "Is she taking a photo?",
+          "No, she isn't.",
+          "No, she isn't.",
+          "Zi S ui — |",
+          "Ruth is taking a photo. She’s ...",
+          "Are the monkeys climbing?",
+          "Are the monkeys climbing?",
+          "Yes, they are.",
+          "Are the zebras running?",
+          "Yes, they are.",
+          "Are the tigers walking?",
+          "Are the parrots talking?",
+          "Are the monkeys climbing?",
+          "Yes, they are.",
+          "Are the penguins swimming?",
+          "Yes, they are.",
+          "Are the parrots flying?",
+          "Yes, they are.",
+          "Are the lizards eating?",
+          "Are the lions sleeping?",
+          "Are the penquins swimming?",
+          "Yes, they are.",
+          "Are rhe monkeyscinbing"
+        ],
+        "form": null,
+        "positiveExamples": [],
+        "negativeExamples": [],
+        "questionForms": [],
+        "shortAnswers": [],
+        "exceptions": [],
+        "usageNotes": [],
+        "practice": [
+          "Write about a girl.",
+          "4 Sing and do.",
+          "Listen and sing. (@) 4 Sing and do.",
+          "42"
+        ],
+        "confidence": 0.8589
+      }
+    ],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Is she taking a photo?",
+            "confidence": 0.956,
+            "bbox": {
+              "x": 0.738543,
+              "y": 0.241516,
+              "width": 0.199673,
+              "height": 0.016509
+            },
+            "sourceElementId": "text_0011",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "No, she isn't.",
+            "confidence": 0.8778,
+            "bbox": {
+              "x": 0.795333,
+              "y": 0.274539,
+              "width": 0.116,
+              "height": 0.016442
+            },
+            "sourceElementId": "text_0012",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Issheeatingasandwich?",
+            "confidence": 0.9088,
+            "bbox": {
+              "x": 0.703333,
+              "y": 0.308919,
+              "width": 0.234667,
+              "height": 0.016442
+            },
+            "sourceElementId": "text_0013",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "No, she isn't.",
+            "confidence": 0.8849,
+            "bbox": {
+              "x": 0.79,
+              "y": 0.341804,
+              "width": 0.12,
+              "height": 0.019432
+            },
+            "sourceElementId": "text_0015",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "It's Amy!",
+            "confidence": 0.7779,
+            "bbox": {
+              "x": 0.86,
+              "y": 0.376682,
+              "width": 0.084667,
+              "height": 0.020927
+            },
+            "sourceElementId": "text_0020",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Are the monkeys climbing?",
+            "confidence": 0.955,
+            "bbox": {
+              "x": 0.323241,
+              "y": 0.557016,
+              "width": 0.36252,
+              "height": 0.022317
+            },
+            "sourceElementId": "text_0025",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Are the monkeys climbing?",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.380933,
+              "y": 0.590339,
+              "width": 0.244272,
+              "height": 0.018037
+            },
+            "sourceElementId": "text_0026",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Yes, they are.",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.443944,
+              "y": 0.612657,
+              "width": 0.115794,
+              "height": 0.016203
+            },
+            "sourceElementId": "text_0027",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Are the zebras running?",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.393208,
+              "y": 0.632528,
+              "width": 0.218085,
+              "height": 0.01712
+            },
+            "sourceElementId": "text_0028",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Yes, they are.",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.443944,
+              "y": 0.653011,
+              "width": 0.114566,
+              "height": 0.01712
+            },
+            "sourceElementId": "text_0029",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Are the tigers walking?",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.398118,
+              "y": 0.673494,
+              "width": 0.207447,
+              "height": 0.016203
+            },
+            "sourceElementId": "text_0031",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Are the parrots talking?",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.394435,
+              "y": 0.693977,
+              "width": 0.214403,
+              "height": 0.016509
+            },
+            "sourceElementId": "text_0032",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Are the monkeys climbing?",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.379705,
+              "y": 0.714766,
+              "width": 0.243044,
+              "height": 0.016203
+            },
+            "sourceElementId": "text_0033",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Yes, they are.",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.442717,
+              "y": 0.734332,
+              "width": 0.115794,
+              "height": 0.01712
+            },
+            "sourceElementId": "text_0034",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Are the penguins swimming?",
+            "confidence": 0.9575,
+            "bbox": {
+              "x": 0.369476,
+              "y": 0.767044,
+              "width": 0.263502,
+              "height": 0.016203
+            },
+            "sourceElementId": "text_0035",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Yes, they are.",
+            "confidence": 0.9567,
+            "bbox": {
+              "x": 0.442717,
+              "y": 0.787527,
+              "width": 0.114566,
+              "height": 0.016203
+            },
+            "sourceElementId": "text_0036",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Are the parrots flying?",
+            "confidence": 0.955,
+            "bbox": {
+              "x": 0.398936,
+              "y": 0.807398,
+              "width": 0.202128,
+              "height": 0.016203
+            },
+            "sourceElementId": "text_0037",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Yes, they are.",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.441489,
+              "y": 0.827881,
+              "width": 0.114566,
+              "height": 0.016203
+            },
+            "sourceElementId": "text_0038",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Are the lizards eating?",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.398118,
+              "y": 0.848364,
+              "width": 0.202946,
+              "height": 0.016203
+            },
+            "sourceElementId": "text_0039",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Are the lions sleeping?",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.398936,
+              "y": 0.868236,
+              "width": 0.2009,
+              "height": 0.016203
+            },
+            "sourceElementId": "text_0040",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Speech-bubble/dialogue-like text was detected spatially; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "4",
+        "type": "speaking_activity",
+        "instruction": "Sing and do.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0023"
+        ],
+        "confidence": 0.7877
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Yes, she is.",
+          "hh",
+          "Is she taking a photo?",
+          "No, she isn't.",
+          "Issheeatingasandwich?",
+          "Molly",
+          "No, she isn't.",
+          "Zi S ui — |",
+          "Jen",
+          "Ruth",
+          "Liz",
+          "It's Amy!"
+        ],
+        "position": {
+          "x": 0.046694,
+          "y": 0.186278,
+          "width": 0.938936,
+          "height": 0.25072
+        },
+        "textElementIds": [
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Write about a girl.",
+          "Ruth is taking a photo. She’s ...",
+          "4 Sing and do.",
+          "Listen and sing. (@) 4 Sing and do.",
+          "Are the monkeys climbing?",
+          "Are the monkeys climbing?",
+          "Yes, they are.",
+          "Are the zebras running?",
+          "Yes, they are.",
+          "Hello",
+          "Are the tigers walking?",
+          "Are the parrots talking?"
+        ],
+        "position": {
+          "x": 0.055696,
+          "y": 0.421761,
+          "width": 0.778971,
+          "height": 0.308725
+        },
+        "textElementIds": [
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Are the monkeys climbing?",
+          "Yes, they are.",
+          "Are the penguins swimming?",
+          "Yes, they are.",
+          "Are the parrots flying?",
+          "Yes, they are.",
+          "Are the lizards eating?"
+        ],
+        "position": {
+          "x": 0.349476,
+          "y": 0.694766,
+          "width": 0.303502,
+          "height": 0.189801
+        },
+        "textElementIds": [
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "rawOcrAudit": {
+      "rapidocr": "GrammarandSong\nLesson Three\nSpeaking\nThink of a girl. Ask and answer.\nwear a hat\ntake a photo\nwriteina notebook\neatasandwich\nIs she wearing a hat?\nAmy\nSarah\nYes, she is.\nIs she taking a photo?\nNo, she isn't.\nIssheeatingasandwich?\nMolly\nNo, she isn't.\nJen\nRuth\nLiz\nIt's Amy!\n2Write about a giri.\nRuth is taking a photo. She's\n4 Sing and do.\nListen and sing.49\nAre the monkeys climbing?\nAre the monkeys climbing?\nYes, they are.\nAre the zebras running?\nYes, they are.\nHello\nAre the tigers walking?\nAretheparrots talking?\nAre the monkeys climbing?\nYes, they are.\nArethepenguins swimming?\nYes, they are.\nAretheparrotsflying?\nYes, they are.\nAre the lizards eating?\nArethe lions sleeping?\nArethepenguins swimming?\nYes, they are.\n42\nUnit S\nAre rhe monkeyscinbing",
+      "tesseract_psm3": "Grammar and Song\n\nThink of a girl. Ask and answer.\n\nwear a hat write in a notebook eat a sandwich take a photo\n\nLy 2 Is she wearing a hat? |\n)\nIs she taking a photo?\n\n|\nhh\n\nTr Is she eating a sandwich?\n\nZi S ui — |\n\nWrite about a girl.\nRuth is taking a photo. She’s ...\n\nListen and sing. (@) 4 Sing and do.\n\nAre the monkeys climbing?\n\nAre the monkeys climbing?\nYes, they are.\nAre the zebras running?\nYes, they are.\n\nAre the tigers walking?\nAre the parrots talking?\nAre the monkeys climbing?\nYes, they are.\n\nAre the penguins swimming?\nYes, they are.\nAre the parrots flying?\nYes, they are.\n\nAre the lizards eating?\nAre the lions sleeping?\nAre the penquins swimming?\nYes, they are.\n\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": "",
+      "footer_passes": [
+        "—_ TE tae TT Ee Ea ane r a _\n— Are the penguins swimming?\n~ = Yes, they are. — on\nee\nUnit 5) Are the monkeys climbing?",
+        "ae ee\n\nSe et ee\n\na\n\n—_\n\nAre the penguins swimming?\n\nYes, they are.\n\nUnit 5\n\nAre the monkeys climbing"
+      ]
+    },
+    "excludedOcrNoise": [
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "|",
+        "confidence": 0.86,
+        "bbox": {
+          "x": 0.340835,
+          "y": 0.193519,
+          "width": 0.000818,
+          "height": 0.004586
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": ")",
+        "confidence": 0.26,
+        "bbox": {
+          "x": 0.447218,
+          "y": 0.197187,
+          "width": 0.002455,
+          "height": 0.000917
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "averageConfidence": 0.8589,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "14 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "2 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "grammar",
+    "pagePurpose": null,
+    "readingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "headings": [
+      {
+        "id": "text_0001",
+        "content": "Lesson Three",
+        "confidence": 0.8544,
+        "bbox": {
+          "x": 0.052,
+          "y": 0.030892,
+          "width": 0.157333,
+          "height": 0.017937
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0001"
+        ]
+      },
+      {
+        "id": "text_0002",
+        "content": "Grammar and Song",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.224632,
+          "y": 0.031795,
+          "width": 0.218085,
+          "height": 0.018649
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "id": "text_0003",
+        "content": "Speaking",
+        "confidence": 0.7826,
+        "bbox": {
+          "x": 0.092,
+          "y": 0.076233,
+          "width": 0.081333,
+          "height": 0.016442
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0003"
+        ]
+      },
+      {
+        "id": "text_0004",
+        "content": "Think of a girl. Ask and answer.",
+        "confidence": 0.9486,
+        "bbox": {
+          "x": 0.186989,
+          "y": 0.077958,
+          "width": 0.317512,
+          "height": 0.01712
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      }
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Lesson Three",
+        "originalContent": "Lesson Three",
+        "confidence": 0.8544,
+        "bbox": {
+          "x": 0.052,
+          "y": 0.030892,
+          "width": 0.157333,
+          "height": 0.017937
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Grammar and Song",
+        "originalContent": "Grammar and Song",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.224632,
+          "y": 0.031795,
+          "width": 0.218085,
+          "height": 0.018649
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "GrammarandSong",
+            "confidence": 0.8177
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Grammar and Song",
+            "confidence": 0.9567
+          }
+        ]
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Speaking",
+        "originalContent": "Speaking",
+        "confidence": 0.7826,
+        "bbox": {
+          "x": 0.092,
+          "y": 0.076233,
+          "width": 0.081333,
+          "height": 0.016442
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Think of a girl. Ask and answer.",
+        "originalContent": "Think of a girl. Ask and answer.",
+        "confidence": 0.9486,
+        "bbox": {
+          "x": 0.186989,
+          "y": 0.077958,
+          "width": 0.317512,
+          "height": 0.01712
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Think of a girl. Ask and answer.",
+            "confidence": 0.8824
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Think of a girl. Ask and answer.",
+            "confidence": 0.9486
+          }
+        ]
+      },
+      {
+        "id": "text_0005",
+        "type": "paragraph",
+        "content": "wear a hat write in a notebook eat a sandwich take a photo",
+        "originalContent": "wear a hat write in a notebook eat a sandwich take a photo",
+        "confidence": 0.9408,
+        "bbox": {
+          "x": 0.159574,
+          "y": 0.129318,
+          "width": 0.697218,
+          "height": 0.018037
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "wear a hat",
+            "confidence": 0.826
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "wear a hat write in a notebook eat a sandwich take a photo",
+            "confidence": 0.9408
+          },
+          {
+            "engine": "rapidocr",
+            "content": "take a photo",
+            "confidence": 0.8139
+          },
+          {
+            "engine": "rapidocr",
+            "content": "writeina notebook",
+            "confidence": 0.81
+          },
+          {
+            "engine": "rapidocr",
+            "content": "eatasandwich",
+            "confidence": 0.8925
+          }
+        ]
+      },
+      {
+        "id": "text_0006",
+        "type": "paragraph",
+        "content": "Is she wearing a hat?",
+        "originalContent": "Is she wearing a hat?",
+        "confidence": 0.8771,
+        "bbox": {
+          "x": 0.743333,
+          "y": 0.173891,
+          "width": 0.195333,
+          "height": 0.016442
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ly 2 Is she wearing a hat? |",
+            "confidence": 0.7562
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Is she wearing a hat?",
+            "confidence": 0.8771
+          }
+        ]
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Amy",
+        "originalContent": "Amy",
+        "confidence": 0.7397,
+        "bbox": {
+          "x": 0.359333,
+          "y": 0.184355,
+          "width": 0.055333,
+          "height": 0.02292
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "Sarah",
+        "originalContent": "Sarah",
+        "confidence": 0.7722,
+        "bbox": {
+          "x": 0.561333,
+          "y": 0.187843,
+          "width": 0.068,
+          "height": 0.018934
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "Yes, she is.",
+        "originalContent": "Yes, she is.",
+        "confidence": 0.8949,
+        "bbox": {
+          "x": 0.794667,
+          "y": 0.206278,
+          "width": 0.094667,
+          "height": 0.018435
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "hh",
+        "originalContent": "hh",
+        "confidence": 0.39,
+        "bbox": {
+          "x": 0.341653,
+          "y": 0.208193,
+          "width": 0.006956,
+          "height": 0.007031
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0011",
+        "type": "sentence",
+        "content": "Is she taking a photo?",
+        "originalContent": "Is she taking a photo?",
+        "confidence": 0.956,
+        "bbox": {
+          "x": 0.738543,
+          "y": 0.241516,
+          "width": 0.199673,
+          "height": 0.016509
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Is she taking a photo?",
+            "confidence": 0.8987
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Is she taking a photo?",
+            "confidence": 0.956
+          }
+        ]
+      },
+      {
+        "id": "text_0012",
+        "type": "sentence",
+        "content": "No, she isn't.",
+        "originalContent": "No, she isn't.",
+        "confidence": 0.8778,
+        "bbox": {
+          "x": 0.795333,
+          "y": 0.274539,
+          "width": 0.116,
+          "height": 0.016442
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0013",
+        "type": "sentence",
+        "content": "Is she eating a sandwich?",
+        "originalContent": "Issheeatingasandwich?",
+        "confidence": 0.9088,
+        "bbox": {
+          "x": 0.703333,
+          "y": 0.308919,
+          "width": 0.234667,
+          "height": 0.016442
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Tr Is she eating a sandwich?",
+            "confidence": 0.87
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Issheeatingasandwich?",
+            "confidence": 0.9088
+          }
+        ]
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "Molly",
+        "originalContent": "Molly",
+        "confidence": 0.7803,
+        "bbox": {
+          "x": 0.406667,
+          "y": 0.327354,
+          "width": 0.064,
+          "height": 0.021923
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "No, she isn't.",
+        "originalContent": "No, she isn't.",
+        "confidence": 0.8849,
+        "bbox": {
+          "x": 0.79,
+          "y": 0.341804,
+          "width": 0.12,
+          "height": 0.019432
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0016",
+        "type": "paragraph",
+        "content": "Zi S ui -",
+        "originalContent": "Zi S ui — |",
+        "confidence": 0.388,
+        "bbox": {
+          "x": 0.066694,
+          "y": 0.350352,
+          "width": 0.898936,
+          "height": 0.066646
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized"
+        ],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Jen",
+        "originalContent": "Jen",
+        "confidence": 0.7434,
+        "bbox": {
+          "x": 0.19,
+          "y": 0.355755,
+          "width": 0.048,
+          "height": 0.020927
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "Ruth",
+        "originalContent": "Ruth",
+        "confidence": 0.797,
+        "bbox": {
+          "x": 0.082667,
+          "y": 0.35725,
+          "width": 0.054,
+          "height": 0.017937
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "Liz",
+        "originalContent": "Liz",
+        "confidence": 0.7319,
+        "bbox": {
+          "x": 0.348667,
+          "y": 0.375187,
+          "width": 0.029333,
+          "height": 0.015446
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "It's Amy!",
+        "originalContent": "It's Amy!",
+        "confidence": 0.7779,
+        "bbox": {
+          "x": 0.86,
+          "y": 0.376682,
+          "width": 0.084667,
+          "height": 0.020927
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0021",
+        "type": "instruction",
+        "content": "Write about a girl.",
+        "originalContent": "Write about a girl.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.075696,
+          "y": 0.441761,
+          "width": 0.185761,
+          "height": 0.020177
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2Write about a giri.",
+            "confidence": 0.8408
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Write about a girl.",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0022",
+        "type": "paragraph",
+        "content": "Ruth is taking a photo. She's...",
+        "originalContent": "Ruth is taking a photo. She’s ...",
+        "confidence": 0.9329,
+        "bbox": {
+          "x": 0.078151,
+          "y": 0.464384,
+          "width": 0.341653,
+          "height": 0.018954
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Ruth is taking a photo. She's",
+            "confidence": 0.9117
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ruth is taking a photo. She’s ...",
+            "confidence": 0.9329
+          }
+        ]
+      },
+      {
+        "id": "text_0023",
+        "type": "instruction",
+        "content": "4 Sing and do.",
+        "originalContent": "4 Sing and do.",
+        "confidence": 0.7877,
+        "bbox": {
+          "x": 0.346667,
+          "y": 0.504235,
+          "width": 0.162667,
+          "height": 0.021425
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0024",
+        "type": "instruction",
+        "content": "Listen and sing. (@) 4 Sing and do.",
+        "originalContent": "Listen and sing. (@) 4 Sing and do.",
+        "confidence": 0.83,
+        "bbox": {
+          "x": 0.075696,
+          "y": 0.504739,
+          "width": 0.432488,
+          "height": 0.019566
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listen and sing.49",
+            "confidence": 0.7918
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listen and sing. (@) 4 Sing and do.",
+            "confidence": 0.83
+          }
+        ]
+      },
+      {
+        "id": "text_0025",
+        "type": "sentence",
+        "content": "Are the monkeys climbing?",
+        "originalContent": "Are the monkeys climbing?",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.323241,
+          "y": 0.557016,
+          "width": 0.36252,
+          "height": 0.022317
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Are the monkeys climbing?",
+            "confidence": 0.9002
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Are the monkeys climbing?",
+            "confidence": 0.955
+          }
+        ]
+      },
+      {
+        "id": "text_0026",
+        "type": "sentence",
+        "content": "Are the monkeys climbing?",
+        "originalContent": "Are the monkeys climbing?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.380933,
+          "y": 0.590339,
+          "width": 0.244272,
+          "height": 0.018037
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Are the monkeys climbing?",
+            "confidence": 0.8754
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Are the monkeys climbing?",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0027",
+        "type": "sentence",
+        "content": "Yes, they are.",
+        "originalContent": "Yes, they are.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.443944,
+          "y": 0.612657,
+          "width": 0.115794,
+          "height": 0.016203
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Yes, they are.",
+            "confidence": 0.8546
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Yes, they are.",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0028",
+        "type": "sentence",
+        "content": "Are the zebras running?",
+        "originalContent": "Are the zebras running?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.393208,
+          "y": 0.632528,
+          "width": 0.218085,
+          "height": 0.01712
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Are the zebras running?",
+            "confidence": 0.9116
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Are the zebras running?",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0029",
+        "type": "sentence",
+        "content": "Yes, they are.",
+        "originalContent": "Yes, they are.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.443944,
+          "y": 0.653011,
+          "width": 0.114566,
+          "height": 0.01712
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Yes, they are.",
+            "confidence": 0.8492
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Yes, they are.",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "Hello",
+        "originalContent": "Hello",
+        "confidence": 0.7876,
+        "bbox": {
+          "x": 0.734,
+          "y": 0.663677,
+          "width": 0.080667,
+          "height": 0.032387
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0031",
+        "type": "sentence",
+        "content": "Are the tigers walking?",
+        "originalContent": "Are the tigers walking?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.398118,
+          "y": 0.673494,
+          "width": 0.207447,
+          "height": 0.016203
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Are the tigers walking?",
+            "confidence": 0.8826
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Are the tigers walking?",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0032",
+        "type": "sentence",
+        "content": "Are the parrots talking?",
+        "originalContent": "Are the parrots talking?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.394435,
+          "y": 0.693977,
+          "width": 0.214403,
+          "height": 0.016509
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Aretheparrots talking?",
+            "confidence": 0.8886
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Are the parrots talking?",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0033",
+        "type": "sentence",
+        "content": "Are the monkeys climbing?",
+        "originalContent": "Are the monkeys climbing?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.379705,
+          "y": 0.714766,
+          "width": 0.243044,
+          "height": 0.016203
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Are the monkeys climbing?",
+            "confidence": 0.8813
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Are the monkeys climbing?",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0034",
+        "type": "sentence",
+        "content": "Yes, they are.",
+        "originalContent": "Yes, they are.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.442717,
+          "y": 0.734332,
+          "width": 0.115794,
+          "height": 0.01712
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Yes, they are.",
+            "confidence": 0.8608
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Yes, they are.",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0035",
+        "type": "sentence",
+        "content": "Are the penguins swimming?",
+        "originalContent": "Are the penguins swimming?",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.369476,
+          "y": 0.767044,
+          "width": 0.263502,
+          "height": 0.016203
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Arethepenguins swimming?",
+            "confidence": 0.8859
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Are the penguins swimming?",
+            "confidence": 0.9575
+          }
+        ]
+      },
+      {
+        "id": "text_0036",
+        "type": "sentence",
+        "content": "Yes, they are.",
+        "originalContent": "Yes, they are.",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.442717,
+          "y": 0.787527,
+          "width": 0.114566,
+          "height": 0.016203
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Yes, they are.",
+            "confidence": 0.8986
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Yes, they are.",
+            "confidence": 0.9567
+          }
+        ]
+      },
+      {
+        "id": "text_0037",
+        "type": "sentence",
+        "content": "Are the parrots flying?",
+        "originalContent": "Are the parrots flying?",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.398936,
+          "y": 0.807398,
+          "width": 0.202128,
+          "height": 0.016203
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Aretheparrotsflying?",
+            "confidence": 0.9151
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Are the parrots flying?",
+            "confidence": 0.955
+          }
+        ]
+      },
+      {
+        "id": "text_0038",
+        "type": "sentence",
+        "content": "Yes, they are.",
+        "originalContent": "Yes, they are.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.441489,
+          "y": 0.827881,
+          "width": 0.114566,
+          "height": 0.016203
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Yes, they are.",
+            "confidence": 0.833
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Yes, they are.",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0039",
+        "type": "sentence",
+        "content": "Are the lizards eating?",
+        "originalContent": "Are the lizards eating?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.398118,
+          "y": 0.848364,
+          "width": 0.202946,
+          "height": 0.016203
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Are the lizards eating?",
+            "confidence": 0.8694
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Are the lizards eating?",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0040",
+        "type": "sentence",
+        "content": "Are the lions sleeping?",
+        "originalContent": "Are the lions sleeping?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.398936,
+          "y": 0.868236,
+          "width": 0.2009,
+          "height": 0.016203
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Arethe lions sleeping?",
+            "confidence": 0.8402
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Are the lions sleeping?",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0041",
+        "type": "sentence",
+        "content": "Are the penquins swimming?",
+        "originalContent": "Are the penquins swimming?",
+        "confidence": 0.925,
+        "bbox": {
+          "x": 0.368249,
+          "y": 0.888719,
+          "width": 0.263502,
+          "height": 0.016203
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Arethepenguins swimming?",
+            "confidence": 0.9019
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Are the penquins swimming?",
+            "confidence": 0.925
+          }
+        ]
+      },
+      {
+        "id": "text_0042",
+        "type": "sentence",
+        "content": "Yes, they are.",
+        "originalContent": "Yes, they are.",
+        "confidence": 0.9433,
+        "bbox": {
+          "x": 0.440262,
+          "y": 0.909202,
+          "width": 0.115794,
+          "height": 0.016203
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Yes, they are.",
+            "confidence": 0.8533
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Yes, they are.",
+            "confidence": 0.9433
+          }
+        ]
+      },
+      {
+        "id": "text_0044",
+        "type": "label",
+        "content": "Unit S",
+        "originalContent": "Unit S",
+        "confidence": 0.6419,
+        "bbox": {
+          "x": 0.095333,
+          "y": 0.967613,
+          "width": 0.052667,
+          "height": 0.013453
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0045",
+        "type": "label",
+        "content": "Are rhe monkeys c in bing",
+        "originalContent": "Are rhe monkeyscinbing",
+        "confidence": 0.8075,
+        "bbox": {
+          "x": 0.156,
+          "y": 0.968112,
+          "width": 0.201333,
+          "height": 0.013951
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Lesson Three",
+      "Grammar and Song",
+      "Speaking",
+      "Think of a girl. Ask and answer.",
+      "wear a hat write in a notebook eat a sandwich take a photo",
+      "Is she wearing a hat?",
+      "Amy",
+      "Sarah",
+      "Yes, she is.",
+      "hh",
+      "Is she taking a photo?",
+      "No, she isn't.",
+      "Is she eating a sandwich?",
+      "Molly",
+      "No, she isn't.",
+      "Zi S ui -",
+      "Jen",
+      "Ruth",
+      "Liz",
+      "It's Amy!",
+      "Write about a girl.",
+      "Ruth is taking a photo. She's...",
+      "4 Sing and do.",
+      "Listen and sing. (@) 4 Sing and do.",
+      "Are the monkeys climbing?",
+      "Are the monkeys climbing?",
+      "Yes, they are.",
+      "Are the zebras running?",
+      "Yes, they are.",
+      "Hello",
+      "Are the tigers walking?",
+      "Are the parrots talking?",
+      "Are the monkeys climbing?",
+      "Yes, they are.",
+      "Are the penguins swimming?",
+      "Yes, they are.",
+      "Are the parrots flying?",
+      "Yes, they are.",
+      "Are the lizards eating?",
+      "Are the lions sleeping?",
+      "Are the penquins swimming?",
+      "Yes, they are.",
+      "Unit S",
+      "Are rhe monkeys c in bing"
+    ],
+    "paragraphs": [
+      {
+        "id": "text_0005",
+        "content": "wear a hat write in a notebook eat a sandwich take a photo",
+        "confidence": 0.9408,
+        "bbox": {
+          "x": 0.159574,
+          "y": 0.129318,
+          "width": 0.697218,
+          "height": 0.018037
+        },
+        "sourceElementIds": [
+          "text_0005"
+        ]
+      },
+      {
+        "id": "text_0006",
+        "content": "Is she wearing a hat?",
+        "confidence": 0.8771,
+        "bbox": {
+          "x": 0.743333,
+          "y": 0.173891,
+          "width": 0.195333,
+          "height": 0.016442
+        },
+        "sourceElementIds": [
+          "text_0006"
+        ]
+      },
+      {
+        "id": "text_0016",
+        "content": "Zi S ui -",
+        "confidence": 0.388,
+        "bbox": {
+          "x": 0.066694,
+          "y": 0.350352,
+          "width": 0.898936,
+          "height": 0.066646
+        },
+        "sourceElementIds": [
+          "text_0016"
+        ]
+      },
+      {
+        "id": "text_0022",
+        "content": "Ruth is taking a photo. She's...",
+        "confidence": 0.9329,
+        "bbox": {
+          "x": 0.078151,
+          "y": 0.464384,
+          "width": 0.341653,
+          "height": 0.018954
+        },
+        "sourceElementIds": [
+          "text_0022"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "text_0009",
+        "content": "Yes, she is.",
+        "confidence": 0.8949,
+        "bbox": {
+          "x": 0.794667,
+          "y": 0.206278,
+          "width": 0.094667,
+          "height": 0.018435
+        },
+        "sourceElementIds": [
+          "text_0009"
+        ]
+      },
+      {
+        "id": "text_0011",
+        "content": "Is she taking a photo?",
+        "confidence": 0.956,
+        "bbox": {
+          "x": 0.738543,
+          "y": 0.241516,
+          "width": 0.199673,
+          "height": 0.016509
+        },
+        "sourceElementIds": [
+          "text_0011"
+        ]
+      },
+      {
+        "id": "text_0012",
+        "content": "No, she isn't.",
+        "confidence": 0.8778,
+        "bbox": {
+          "x": 0.795333,
+          "y": 0.274539,
+          "width": 0.116,
+          "height": 0.016442
+        },
+        "sourceElementIds": [
+          "text_0012"
+        ]
+      },
+      {
+        "id": "text_0013",
+        "content": "Is she eating a sandwich?",
+        "confidence": 0.9088,
+        "bbox": {
+          "x": 0.703333,
+          "y": 0.308919,
+          "width": 0.234667,
+          "height": 0.016442
+        },
+        "sourceElementIds": [
+          "text_0013"
+        ]
+      },
+      {
+        "id": "text_0015",
+        "content": "No, she isn't.",
+        "confidence": 0.8849,
+        "bbox": {
+          "x": 0.79,
+          "y": 0.341804,
+          "width": 0.12,
+          "height": 0.019432
+        },
+        "sourceElementIds": [
+          "text_0015"
+        ]
+      },
+      {
+        "id": "text_0020",
+        "content": "It's Amy!",
+        "confidence": 0.7779,
+        "bbox": {
+          "x": 0.86,
+          "y": 0.376682,
+          "width": 0.084667,
+          "height": 0.020927
+        },
+        "sourceElementIds": [
+          "text_0020"
+        ]
+      },
+      {
+        "id": "text_0025",
+        "content": "Are the monkeys climbing?",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.323241,
+          "y": 0.557016,
+          "width": 0.36252,
+          "height": 0.022317
+        },
+        "sourceElementIds": [
+          "text_0025"
+        ]
+      },
+      {
+        "id": "text_0026",
+        "content": "Are the monkeys climbing?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.380933,
+          "y": 0.590339,
+          "width": 0.244272,
+          "height": 0.018037
+        },
+        "sourceElementIds": [
+          "text_0026"
+        ]
+      },
+      {
+        "id": "text_0027",
+        "content": "Yes, they are.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.443944,
+          "y": 0.612657,
+          "width": 0.115794,
+          "height": 0.016203
+        },
+        "sourceElementIds": [
+          "text_0027"
+        ]
+      },
+      {
+        "id": "text_0028",
+        "content": "Are the zebras running?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.393208,
+          "y": 0.632528,
+          "width": 0.218085,
+          "height": 0.01712
+        },
+        "sourceElementIds": [
+          "text_0028"
+        ]
+      },
+      {
+        "id": "text_0029",
+        "content": "Yes, they are.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.443944,
+          "y": 0.653011,
+          "width": 0.114566,
+          "height": 0.01712
+        },
+        "sourceElementIds": [
+          "text_0029"
+        ]
+      },
+      {
+        "id": "text_0030",
+        "content": "Hello",
+        "confidence": 0.7876,
+        "bbox": {
+          "x": 0.734,
+          "y": 0.663677,
+          "width": 0.080667,
+          "height": 0.032387
+        },
+        "sourceElementIds": [
+          "text_0030"
+        ]
+      },
+      {
+        "id": "text_0031",
+        "content": "Are the tigers walking?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.398118,
+          "y": 0.673494,
+          "width": 0.207447,
+          "height": 0.016203
+        },
+        "sourceElementIds": [
+          "text_0031"
+        ]
+      },
+      {
+        "id": "text_0032",
+        "content": "Are the parrots talking?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.394435,
+          "y": 0.693977,
+          "width": 0.214403,
+          "height": 0.016509
+        },
+        "sourceElementIds": [
+          "text_0032"
+        ]
+      },
+      {
+        "id": "text_0033",
+        "content": "Are the monkeys climbing?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.379705,
+          "y": 0.714766,
+          "width": 0.243044,
+          "height": 0.016203
+        },
+        "sourceElementIds": [
+          "text_0033"
+        ]
+      },
+      {
+        "id": "text_0034",
+        "content": "Yes, they are.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.442717,
+          "y": 0.734332,
+          "width": 0.115794,
+          "height": 0.01712
+        },
+        "sourceElementIds": [
+          "text_0034"
+        ]
+      },
+      {
+        "id": "text_0035",
+        "content": "Are the penguins swimming?",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.369476,
+          "y": 0.767044,
+          "width": 0.263502,
+          "height": 0.016203
+        },
+        "sourceElementIds": [
+          "text_0035"
+        ]
+      },
+      {
+        "id": "text_0036",
+        "content": "Yes, they are.",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.442717,
+          "y": 0.787527,
+          "width": 0.114566,
+          "height": 0.016203
+        },
+        "sourceElementIds": [
+          "text_0036"
+        ]
+      },
+      {
+        "id": "text_0037",
+        "content": "Are the parrots flying?",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.398936,
+          "y": 0.807398,
+          "width": 0.202128,
+          "height": 0.016203
+        },
+        "sourceElementIds": [
+          "text_0037"
+        ]
+      },
+      {
+        "id": "text_0038",
+        "content": "Yes, they are.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.441489,
+          "y": 0.827881,
+          "width": 0.114566,
+          "height": 0.016203
+        },
+        "sourceElementIds": [
+          "text_0038"
+        ]
+      },
+      {
+        "id": "text_0039",
+        "content": "Are the lizards eating?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.398118,
+          "y": 0.848364,
+          "width": 0.202946,
+          "height": 0.016203
+        },
+        "sourceElementIds": [
+          "text_0039"
+        ]
+      },
+      {
+        "id": "text_0040",
+        "content": "Are the lions sleeping?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.398936,
+          "y": 0.868236,
+          "width": 0.2009,
+          "height": 0.016203
+        },
+        "sourceElementIds": [
+          "text_0040"
+        ]
+      },
+      {
+        "id": "text_0041",
+        "content": "Are the penquins swimming?",
+        "confidence": 0.925,
+        "bbox": {
+          "x": 0.368249,
+          "y": 0.888719,
+          "width": 0.263502,
+          "height": 0.016203
+        },
+        "sourceElementIds": [
+          "text_0041"
+        ]
+      },
+      {
+        "id": "text_0042",
+        "content": "Yes, they are.",
+        "confidence": 0.9433,
+        "bbox": {
+          "x": 0.440262,
+          "y": 0.909202,
+          "width": 0.115794,
+          "height": 0.016203
+        },
+        "sourceElementIds": [
+          "text_0042"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "Sarah",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7722,
+        "sourceElementIds": [
+          "text_0008"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "Yes, she is",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8949,
+        "sourceElementIds": [
+          "text_0009"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "No, she isn't",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8778,
+        "sourceElementIds": [
+          "text_0012"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "Molly",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7803,
+        "sourceElementIds": [
+          "text_0014"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "Jen",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7434,
+        "sourceElementIds": [
+          "text_0017"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "Ruth",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.797,
+        "sourceElementIds": [
+          "text_0018"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "Liz",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7319,
+        "sourceElementIds": [
+          "text_0019"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "It's Amy!",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7779,
+        "sourceElementIds": [
+          "text_0020"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "Yes, they are",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.96,
+        "sourceElementIds": [
+          "text_0027"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "Hello",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7876,
+        "sourceElementIds": [
+          "text_0030"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "topic": "Grammar and Song",
+        "rule": [
+          "Grammar and Song",
+          "Think of a girl. Ask and answer.",
+          "wear a hat write in a notebook eat a sandwich take a photo",
+          "Is she wearing a hat?",
+          "Yes, she is.",
+          "Is she taking a photo?",
+          "No, she isn't.",
+          "No, she isn't.",
+          "Zi S ui -",
+          "Ruth is taking a photo. She's...",
+          "Are the monkeys climbing?",
+          "Are the monkeys climbing?",
+          "Yes, they are.",
+          "Are the zebras running?",
+          "Yes, they are.",
+          "Are the tigers walking?",
+          "Are the parrots talking?",
+          "Are the monkeys climbing?",
+          "Yes, they are.",
+          "Are the penguins swimming?",
+          "Yes, they are.",
+          "Are the parrots flying?",
+          "Yes, they are.",
+          "Are the lizards eating?",
+          "Are the lions sleeping?",
+          "Are the penquins swimming?",
+          "Yes, they are.",
+          "Are rhe monkeys c in bing"
+        ],
+        "form": null,
+        "positiveExamples": [],
+        "negativeExamples": [],
+        "questionForms": [],
+        "shortAnswers": [],
+        "exceptions": [],
+        "usageNotes": [],
+        "practice": [
+          "Write about a girl.",
+          "4 Sing and do.",
+          "Listen and sing. (@) 4 Sing and do."
+        ],
+        "confidence": 0.8589
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "lines": [
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Is she taking a photo?",
+            "confidence": 0.956,
+            "bbox": {
+              "x": 0.738543,
+              "y": 0.241516,
+              "width": 0.199673,
+              "height": 0.016509
+            },
+            "sourceElementId": "text_0011",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "No, she isn't.",
+            "confidence": 0.8778,
+            "bbox": {
+              "x": 0.795333,
+              "y": 0.274539,
+              "width": 0.116,
+              "height": 0.016442
+            },
+            "sourceElementId": "text_0012",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Is she eating a sandwich?",
+            "confidence": 0.9088,
+            "bbox": {
+              "x": 0.703333,
+              "y": 0.308919,
+              "width": 0.234667,
+              "height": 0.016442
+            },
+            "sourceElementId": "text_0013",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "No, she isn't.",
+            "confidence": 0.8849,
+            "bbox": {
+              "x": 0.79,
+              "y": 0.341804,
+              "width": 0.12,
+              "height": 0.019432
+            },
+            "sourceElementId": "text_0015",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "It's Amy!",
+            "confidence": 0.7779,
+            "bbox": {
+              "x": 0.86,
+              "y": 0.376682,
+              "width": 0.084667,
+              "height": 0.020927
+            },
+            "sourceElementId": "text_0020",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Are the monkeys climbing?",
+            "confidence": 0.955,
+            "bbox": {
+              "x": 0.323241,
+              "y": 0.557016,
+              "width": 0.36252,
+              "height": 0.022317
+            },
+            "sourceElementId": "text_0025",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Are the monkeys climbing?",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.380933,
+              "y": 0.590339,
+              "width": 0.244272,
+              "height": 0.018037
+            },
+            "sourceElementId": "text_0026",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Yes, they are.",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.443944,
+              "y": 0.612657,
+              "width": 0.115794,
+              "height": 0.016203
+            },
+            "sourceElementId": "text_0027",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Are the zebras running?",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.393208,
+              "y": 0.632528,
+              "width": 0.218085,
+              "height": 0.01712
+            },
+            "sourceElementId": "text_0028",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Yes, they are.",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.443944,
+              "y": 0.653011,
+              "width": 0.114566,
+              "height": 0.01712
+            },
+            "sourceElementId": "text_0029",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Are the tigers walking?",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.398118,
+              "y": 0.673494,
+              "width": 0.207447,
+              "height": 0.016203
+            },
+            "sourceElementId": "text_0031",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Are the parrots talking?",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.394435,
+              "y": 0.693977,
+              "width": 0.214403,
+              "height": 0.016509
+            },
+            "sourceElementId": "text_0032",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Are the monkeys climbing?",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.379705,
+              "y": 0.714766,
+              "width": 0.243044,
+              "height": 0.016203
+            },
+            "sourceElementId": "text_0033",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Yes, they are.",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.442717,
+              "y": 0.734332,
+              "width": 0.115794,
+              "height": 0.01712
+            },
+            "sourceElementId": "text_0034",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Are the penguins swimming?",
+            "confidence": 0.9575,
+            "bbox": {
+              "x": 0.369476,
+              "y": 0.767044,
+              "width": 0.263502,
+              "height": 0.016203
+            },
+            "sourceElementId": "text_0035",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Yes, they are.",
+            "confidence": 0.9567,
+            "bbox": {
+              "x": 0.442717,
+              "y": 0.787527,
+              "width": 0.114566,
+              "height": 0.016203
+            },
+            "sourceElementId": "text_0036",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Are the parrots flying?",
+            "confidence": 0.955,
+            "bbox": {
+              "x": 0.398936,
+              "y": 0.807398,
+              "width": 0.202128,
+              "height": 0.016203
+            },
+            "sourceElementId": "text_0037",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Yes, they are.",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.441489,
+              "y": 0.827881,
+              "width": 0.114566,
+              "height": 0.016203
+            },
+            "sourceElementId": "text_0038",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Are the lizards eating?",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.398118,
+              "y": 0.848364,
+              "width": 0.202946,
+              "height": 0.016203
+            },
+            "sourceElementId": "text_0039",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Are the lions sleeping?",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.398936,
+              "y": 0.868236,
+              "width": 0.2009,
+              "height": 0.016203
+            },
+            "sourceElementId": "text_0040",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          }
+        ],
+        "confidence": 0.93948
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "4",
+        "type": "song_activity",
+        "instruction": "Sing and do.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.7877,
+        "sourceElementIds": [
+          "text_0023"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "listening_singing",
+        "instruction": "Listen and sing. (",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.83,
+        "sourceElementIds": [
+          "text_0024"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "writing_activity",
+        "instruction": "Write about a girl.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.96,
+        "sourceElementIds": [
+          "text_0021"
+        ]
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Yes, she is.",
+          "hh",
+          "Is she taking a photo?",
+          "No, she isn't.",
+          "Is she eating a sandwich?",
+          "Molly",
+          "No, she isn't.",
+          "Zi S ui -",
+          "Jen",
+          "Ruth",
+          "Liz",
+          "It's Amy!"
+        ],
+        "position": {
+          "x": 0.046694,
+          "y": 0.186278,
+          "width": 0.938936,
+          "height": 0.25072
+        },
+        "textElementIds": [
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Write about a girl.",
+          "Ruth is taking a photo. She's...",
+          "4 Sing and do.",
+          "Listen and sing. (@) 4 Sing and do.",
+          "Are the monkeys climbing?",
+          "Are the monkeys climbing?",
+          "Yes, they are.",
+          "Are the zebras running?",
+          "Yes, they are.",
+          "Hello",
+          "Are the tigers walking?",
+          "Are the parrots talking?"
+        ],
+        "position": {
+          "x": 0.055696,
+          "y": 0.421761,
+          "width": 0.778971,
+          "height": 0.308725
+        },
+        "textElementIds": [
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Are the monkeys climbing?",
+          "Yes, they are.",
+          "Are the penguins swimming?",
+          "Yes, they are.",
+          "Are the parrots flying?",
+          "Yes, they are.",
+          "Are the lizards eating?"
+        ],
+        "position": {
+          "x": 0.349476,
+          "y": 0.694766,
+          "width": 0.303502,
+          "height": 0.189801
+        },
+        "textElementIds": [
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "nonEducationalText": [],
+    "excludedGarbage": [
+      {
+        "id": "text_0043",
+        "content": "42",
+        "originalContent": "42",
+        "confidence": 0.6459
+      }
+    ]
+  },
+  "learningContent": {
+    "pageType": "grammar",
+    "title": "Lesson Three",
+    "learningObjectives": [
+      "Study content: Grammar and Song",
+      "Study content: Speaking"
+    ],
+    "targetVocabulary": [
+      {
+        "word": "Sarah",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7722,
+        "sourceElementIds": [
+          "text_0008"
+        ]
+      },
+      {
+        "word": "Yes, she is",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8949,
+        "sourceElementIds": [
+          "text_0009"
+        ]
+      },
+      {
+        "word": "No, she isn't",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8778,
+        "sourceElementIds": [
+          "text_0012"
+        ]
+      },
+      {
+        "word": "Molly",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7803,
+        "sourceElementIds": [
+          "text_0014"
+        ]
+      },
+      {
+        "word": "Jen",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7434,
+        "sourceElementIds": [
+          "text_0017"
+        ]
+      },
+      {
+        "word": "Ruth",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.797,
+        "sourceElementIds": [
+          "text_0018"
+        ]
+      },
+      {
+        "word": "Liz",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7319,
+        "sourceElementIds": [
+          "text_0019"
+        ]
+      },
+      {
+        "word": "It's Amy!",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7779,
+        "sourceElementIds": [
+          "text_0020"
+        ]
+      },
+      {
+        "word": "Yes, they are",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.96,
+        "sourceElementIds": [
+          "text_0027"
+        ]
+      },
+      {
+        "word": "Hello",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7876,
+        "sourceElementIds": [
+          "text_0030"
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "Is she taking a photo?",
+        "meaning": null,
+        "confidence": 0.956,
+        "sourceElementIds": [
+          "text_0011"
+        ]
+      },
+      {
+        "expression": "No, she isn't.",
+        "meaning": null,
+        "confidence": 0.8778,
+        "sourceElementIds": [
+          "text_0012"
+        ]
+      },
+      {
+        "expression": "Is she eating a sandwich?",
+        "meaning": null,
+        "confidence": 0.9088,
+        "sourceElementIds": [
+          "text_0013"
+        ]
+      },
+      {
+        "expression": "It's Amy!",
+        "meaning": null,
+        "confidence": 0.7779,
+        "sourceElementIds": [
+          "text_0020"
+        ]
+      },
+      {
+        "expression": "Are the monkeys climbing?",
+        "meaning": null,
+        "confidence": 0.955,
+        "sourceElementIds": [
+          "text_0025"
+        ]
+      },
+      {
+        "expression": "Yes, they are.",
+        "meaning": null,
+        "confidence": 0.96,
+        "sourceElementIds": [
+          "text_0027"
+        ]
+      },
+      {
+        "expression": "Are the zebras running?",
+        "meaning": null,
+        "confidence": 0.96,
+        "sourceElementIds": [
+          "text_0028"
+        ]
+      },
+      {
+        "expression": "Are the tigers walking?",
+        "meaning": null,
+        "confidence": 0.96,
+        "sourceElementIds": [
+          "text_0031"
+        ]
+      },
+      {
+        "expression": "Are the parrots talking?",
+        "meaning": null,
+        "confidence": 0.96,
+        "sourceElementIds": [
+          "text_0032"
+        ]
+      },
+      {
+        "expression": "Are the penguins swimming?",
+        "meaning": null,
+        "confidence": 0.9575,
+        "sourceElementIds": [
+          "text_0035"
+        ]
+      },
+      {
+        "expression": "Are the parrots flying?",
+        "meaning": null,
+        "confidence": 0.955,
+        "sourceElementIds": [
+          "text_0037"
+        ]
+      },
+      {
+        "expression": "Are the lizards eating?",
+        "meaning": null,
+        "confidence": 0.96,
+        "sourceElementIds": [
+          "text_0039"
+        ]
+      },
+      {
+        "expression": "Are the lions sleeping?",
+        "meaning": null,
+        "confidence": 0.96,
+        "sourceElementIds": [
+          "text_0040"
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "topic": "Grammar and Song",
+        "rule": [
+          "Grammar and Song",
+          "Think of a girl. Ask and answer.",
+          "wear a hat write in a notebook eat a sandwich take a photo",
+          "Is she wearing a hat?",
+          "Yes, she is.",
+          "Is she taking a photo?",
+          "No, she isn't.",
+          "No, she isn't.",
+          "Zi S ui -",
+          "Ruth is taking a photo. She's...",
+          "Are the monkeys climbing?",
+          "Are the monkeys climbing?",
+          "Yes, they are.",
+          "Are the zebras running?",
+          "Yes, they are.",
+          "Are the tigers walking?",
+          "Are the parrots talking?",
+          "Are the monkeys climbing?",
+          "Yes, they are.",
+          "Are the penguins swimming?",
+          "Yes, they are.",
+          "Are the parrots flying?",
+          "Yes, they are.",
+          "Are the lizards eating?",
+          "Are the lions sleeping?",
+          "Are the penquins swimming?",
+          "Yes, they are.",
+          "Are rhe monkeys c in bing"
+        ],
+        "form": null,
+        "positiveExamples": [],
+        "negativeExamples": [],
+        "questionForms": [],
+        "shortAnswers": [],
+        "exceptions": [],
+        "usageNotes": [],
+        "practice": [
+          "Write about a girl.",
+          "4 Sing and do.",
+          "Listen and sing. (@) 4 Sing and do."
+        ],
+        "confidence": 0.8589
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "Is she taking a photo?",
+            "confidence": 0.956
+          },
+          {
+            "speaker": null,
+            "content": "No, she isn't.",
+            "confidence": 0.8778
+          },
+          {
+            "speaker": null,
+            "content": "Is she eating a sandwich?",
+            "confidence": 0.9088
+          },
+          {
+            "speaker": null,
+            "content": "It's Amy!",
+            "confidence": 0.7779
+          },
+          {
+            "speaker": null,
+            "content": "Are the monkeys climbing?",
+            "confidence": 0.955
+          },
+          {
+            "speaker": null,
+            "content": "Yes, they are.",
+            "confidence": 0.96
+          },
+          {
+            "speaker": null,
+            "content": "Are the zebras running?",
+            "confidence": 0.96
+          },
+          {
+            "speaker": null,
+            "content": "Are the tigers walking?",
+            "confidence": 0.96
+          },
+          {
+            "speaker": null,
+            "content": "Are the parrots talking?",
+            "confidence": 0.96
+          },
+          {
+            "speaker": null,
+            "content": "Are the penguins swimming?",
+            "confidence": 0.9575
+          },
+          {
+            "speaker": null,
+            "content": "Are the parrots flying?",
+            "confidence": 0.955
+          },
+          {
+            "speaker": null,
+            "content": "Are the lizards eating?",
+            "confidence": 0.96
+          },
+          {
+            "speaker": null,
+            "content": "Are the lions sleeping?",
+            "confidence": 0.96
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "4",
+        "type": "song_activity",
+        "instruction": "Sing and do.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.7877,
+        "sourceElementIds": [
+          "text_0023"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "listening_singing",
+        "instruction": "Listen and sing. (",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.83,
+        "sourceElementIds": [
+          "text_0024"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "writing_activity",
+        "instruction": "Write about a girl.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.96,
+        "sourceElementIds": [
+          "text_0021"
+        ]
+      }
+    ],
+    "pronunciation": [],
+    "listening": [
+      {
+        "exerciseNumber": null,
+        "instruction": "Listen and sing. (",
+        "type": "listening_singing",
+        "confidence": 0.83
+      }
+    ],
+    "speaking": [
+      {
+        "exerciseNumber": "4",
+        "instruction": "Sing and do.",
+        "type": "song_activity",
+        "confidence": 0.7877
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Listen and sing. (",
+        "type": "listening_singing",
+        "confidence": 0.83
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Write about a girl.",
+        "type": "writing_activity",
+        "confidence": 0.96
+      }
+    ],
+    "writing": [
+      {
+        "exerciseNumber": null,
+        "instruction": "Write about a girl.",
+        "type": "writing_activity",
+        "confidence": 0.96
+      }
+    ],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "text_kept": 44,
+      "text_repaired": 4,
+      "garbage_excluded": 1,
+      "vocab_kept": 13,
+      "grammar_items": 1,
+      "dialogue_lines": 20,
+      "dialogues_reconstructed": 1,
+      "exercises_reconstructed": 3
+    },
+    "averageOcrConfidence": 0.8589
+  },
+  "metadata": {
+    "book": "Family and Friends 3 Student Book (American)",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_ff3_v1",
+    "originalOcrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "originalAverageConfidence": 0.8589,
+    "noHallucinationPolicy": "Definitions, translations, speaker names, answers, and grammar rules are null or omitted unless visibly supported by page OCR/PDF. Text repairs are limited to spacing, punctuation, and clear OCR character errors."
+  }
+}

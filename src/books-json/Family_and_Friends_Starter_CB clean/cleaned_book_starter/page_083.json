@@ -1,0 +1,96 @@
+{
+  "pageNumber": 83,
+  "pageNumberDetected": false,
+  "pageNumberDetectionMethod": "fallback to PDF page number; printed book number not confidently detected",
+  "pdfPageNumber": 83,
+  "source": {
+    "pdfFile": "family and friends Starter CB_Part4.pdf",
+    "pdfLocalPageNumber": 12,
+    "pageSizePoints": {
+      "width": 737.28,
+      "height": 929.38
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [],
+    "ocrExercises": [],
+    "ocrTables": [],
+    "ocrImages": [],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "2nd Edition\namily\nThe first level of the internationally best-selling Family and Friends series,\nFamily and Friends Starter quickly takes learners from recognising and\nand\ntracing letters to reading and writing simple sentences with confidence.\nThe 2nd Edition now brings you:\nNEW\nInteractive online practice you can assign and track\nSupport and\nNEW\nValues and civic education lessons for developing social skills\ndevelopmentfor\nNEW\nAdditional craft projects, culture pages, songs and chants for\nthe whole child\nmore active learning\nFor students\nFamily\namil\nLand\nQand\nFriends\nFriends\nStarter\nStarter\nClass Book\nOXIORD\nOXFORD\nOXFORD\nOXFOR\nClass Book\nWorkbook\nwithStudentMultiROM\nwithorwithoutOnlinePractice\nFor teachers\nFamily\nFhiends\nSounds\nOxfordiTools\nFamily\nand letters\nFamily\nWand\nFamily\nFriends\n2Edition\nFamily\nFriends\nandi\nFriends\nStarter\nTeecher'sBook Plus\nStorter\nOXFORD\nand\nFriends\nStarter\nTeacher's Resource Pack\nOXFORD\nOXORD\nOxford iTools\nDigitalClassroomResources\nAa\nFamily\nFanaly\nFriends\nand\nFriends\nOXTORD\nStarter\nOXFC\nClass Audio CDs\nTeacher's ResourcePack\nTeacher'sBookPlus\nOXFORD\nwithPhonicsPoster,PhonicsCards\nwithOnlinePracticeand\nand Flashcards\nAssessmentandResourceMultiROM\nClassAudioCDs\nwww.languagecentre.ir\nSHAPING learning TOGETHER\nOXFORD\nISBN978-0-19-480828-6\noxfordparents\nHelp yourchildwith English\nUNIVERSITY PRESS\nwww.oup.com/elt/oxfordparents\n1780194808286\nwww.oup.com/elt/familyandfriends",
+      "tesseract_psm3": "The first level of the internationally best-selling Family and Friends series,\nFamily and Friends Starter quickly takes learners from recognising and\ntracing letters to reading and writing simple sentences with confidence.\nThe 2nd Edition now brings you:\n\n[new] Interactive online practice you can assign and track\n\nSupport and\ndevelopment for\nthe whole child\n\n[rew] Values and civic education lessons for developing social skills\n\nAdditional craft projects, culture pages, songs and chants for\nmore active learning\n\nOXFORD\n\nClass Book 2 Workbook\nwith Student MultiROM 2 with or without Online Practice\n\nOxford iTools\nDigital Classroom Resources\n\nTeacher's Book Plus St = _ oy Teacher's Resource Pack\nwith Online Practice and o — with Phonics Poster, Phonics Cards\nAssessment and Resource MultiROM and Flashcards\n\naul OL 5\n\nwww.languagecentre.ir i\nSHAPING learning TOGETHER\n\nO X FORD Ss ISBN 978-0-19-480828-6\n\nUNIVERSITY PRESS = <=\n0194 8\n\nwww.oup.com/elt/familyandfriends 8\n\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8417,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "Printed book page number was not confidently detected; pageNumber uses the PDF-page fallback and pageNumberDetected is false.",
+      "20 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "back_cover",
+    "headings": [],
+    "textElements": [],
+    "fullTextReadingOrder": [],
+    "paragraphs": [],
+    "sentences": [],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [],
+    "exercises": [],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "back_cover",
+    "title": "",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [],
+    "reading": [],
+    "exercises": [],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "Printed book page number was not confidently detected; pageNumber uses the PDF-page fallback and pageNumberDetected is false.",
+      "20 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {},
+    "averageOcrConfidence": 0.8417,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Family and Friends Starter Class Book (American)",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_starter_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

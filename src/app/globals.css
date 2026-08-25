@@ -1,0 +1,181 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 210 20% 96%; /* Light gray-blue */
+    --foreground: 240 10% 4%; /* Darker Blue-black */
+    
+    --card: 0 0% 100%;
+    --card-foreground: 240 10% 4%;
+    
+    --popover: 0 0% 100%;
+    --popover-foreground: 240 10% 4%;
+    
+    --primary: 233 58% 37%; /* Royal Blue from logo */
+    --primary-foreground: 0 0% 100%;
+    
+    --secondary: 210 40% 92%;
+    --secondary-foreground: 240 10% 4%;
+    
+    --muted: 210 40% 92%;
+    --muted-foreground: 215 16% 47%;
+    
+    --accent: 233 40% 50%;
+    --accent-foreground: 0 0% 100%;
+    
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+    
+    --border: 214 32% 91%;
+    --input: 214 32% 91%;
+    --ring: 233 58% 37%;
+    
+    --radius: 0.5rem;
+
+    /* Custom sidebar colors */
+    --sidebar-background: 220 15% 98%;
+    --sidebar-foreground: 240 10% 4%;
+    --sidebar-primary: 233 58% 37%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 210 40% 92%;
+    --sidebar-accent-foreground: 240 10% 4%;
+    --sidebar-border: 214 32% 91%;
+    --sidebar-ring: 233 58% 37%;
+  }
+
+  .dark {
+    --background: 222 84% 5%; /* Dark Blue */
+    --foreground: 210 40% 98%; /* Light Gray */
+    
+    --card: 222 84% 5%;
+    --card-foreground: 210 40% 98%;
+    
+    --popover: 222 84% 5%;
+    --popover-foreground: 210 40% 98%;
+    
+    --primary: 233 58% 57%; /* Lighter Royal Blue for dark mode */
+    --primary-foreground: 240 10% 4%;
+    
+    --secondary: 217 33% 17%;
+    --secondary-foreground: 210 40% 98%;
+    
+    --muted: 217 33% 17%;
+    --muted-foreground: 215 20% 65%;
+    
+    --accent: 233 40% 40%;
+    --accent-foreground: 210 40% 98%;
+    
+    --destructive: 0 63% 31%;
+    --destructive-foreground: 0 0% 100%;
+    
+    --border: 217 33% 17%;
+    --input: 217 33% 17%;
+    --ring: 233 58% 57%;
+
+    /* Custom dark sidebar colors */
+    --sidebar-background: 222 47% 11%;
+    --sidebar-foreground: 210 40% 98%;
+    --sidebar-primary: 233 58% 57%;
+    --sidebar-primary-foreground: 240 10% 4%;
+    --sidebar-accent: 217 33% 17%;
+    --sidebar-accent-foreground: 210 40% 98%;
+    --sidebar-border: 217 33% 17%;
+    --sidebar-ring: 233 58% 57%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+.pdf-export-content {
+  font-family: 'Times New Roman', serif;
+  font-size: 12pt;
+  color: black;
+  background-color: white;
+  padding: 1in;
+  width: 8.5in;
+}
+
+.pdf-export-content,
+.pdf-export-content p,
+.pdf-export-content li,
+.pdf-export-content div,
+.pdf-export-content span {
+    color: black !important;
+}
+
+.pdf-export-content h1 {
+  font-size: 24pt;
+  font-weight: bold;
+  margin-bottom: 0.25rem;
+  text-align: center;
+}
+
+.pdf-export-content h2 {
+  font-size: 18pt;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  border-bottom: 2px solid black;
+  padding-bottom: 0.5rem;
+}
+
+.pdf-export-content .quiz-subtitle {
+  font-size: 14pt;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.pdf-export-content ol.quiz-questions-list, .pdf-export-content ol.answer-key-list {
+  list-style: decimal;
+  list-style-position: outside;
+  padding-left: 2rem;
+  margin-top: 1.5rem;
+}
+
+.pdf-export-content ol.quiz-questions-list > li {
+  padding-left: 0.5rem;
+  margin-bottom: 1.5rem;
+  break-inside: avoid;
+}
+
+.pdf-export-content .question-text {
+  margin-bottom: 0.5rem;
+}
+
+.pdf-export-content ol.question-options-list {
+    list-style-type: upper-alpha;
+    list-style-position: outside;
+    padding-left: 1.5rem;
+    margin-top: 0.5rem;
+}
+
+.pdf-export-content ol.question-options-list > li {
+    padding-left: 0.5rem;
+}
+
+.pdf-export-content .answer-display {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding-top: 0.5rem;
+}
+
+.pdf-export-content ol.answer-key-list {
+    columns: 2;
+    column-gap: 4rem;
+}
+
+.pdf-export-content ol.answer-key-list li {
+    padding-left: 0.5rem;
+    margin-bottom: 1rem;
+    break-inside: avoid;
+}

@@ -1,0 +1,2424 @@
+{
+  "pageNumber": 7,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "pdf_visual_verification",
+  "pdfPageNumber": 8,
+  "source": {
+    "pdfFile": "Family and Friends 1 SB_Part1.pdf",
+    "pdfLocalPageNumber": 8,
+    "pageSizePoints": {
+      "width": 598.08,
+      "height": 796.32
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "| Lesson Four",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.742376,
+          "y": 0.017782,
+          "width": 0.185795,
+          "height": 0.031344
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "| Lesson Four",
+            "confidence": 0.9533
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Lesson Four",
+            "confidence": 0.8511
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Listen,point,andrepeat.",
+        "confidence": 0.908,
+        "bbox": {
+          "x": 0.05,
+          "y": 0.076615,
+          "width": 0.301333,
+          "height": 0.018027
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Listen, point, and repeat. © os",
+            "confidence": 0.7757
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen,point,andrepeat.",
+            "confidence": 0.908
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "label",
+        "content": "08",
+        "confidence": 0.6601,
+        "bbox": {
+          "x": 0.384,
+          "y": 0.081122,
+          "width": 0.017333,
+          "height": 0.010516
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "fe) o =",
+        "confidence": 0.33,
+        "bbox": {
+          "x": 0.053371,
+          "y": 0.107896,
+          "width": 0.730738,
+          "height": 0.014467
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "ST; th. BR hE",
+            "confidence": 0.33
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "fe) o =",
+            "confidence": 0.33
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "yellow",
+        "confidence": 0.8544,
+        "bbox": {
+          "x": 0.188667,
+          "y": 0.181272,
+          "width": 0.076,
+          "height": 0.023035
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "blue",
+        "confidence": 0.7923,
+        "bbox": {
+          "x": 0.857333,
+          "y": 0.181272,
+          "width": 0.052667,
+          "height": 0.019029
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "green",
+        "confidence": 0.7551,
+        "bbox": {
+          "x": 0.458667,
+          "y": 0.181773,
+          "width": 0.069333,
+          "height": 0.023035
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "red",
+        "confidence": 0.7293,
+        "bbox": {
+          "x": 0.083333,
+          "y": 0.182273,
+          "width": 0.043333,
+          "height": 0.021032
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "pink",
+        "confidence": 0.7969,
+        "bbox": {
+          "x": 0.336667,
+          "y": 0.182273,
+          "width": 0.054667,
+          "height": 0.022534
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "purple",
+        "confidence": 0.7918,
+        "bbox": {
+          "x": 0.583333,
+          "y": 0.182273,
+          "width": 0.076,
+          "height": 0.02003
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "orange",
+        "confidence": 0.7852,
+        "bbox": {
+          "x": 0.716667,
+          "y": 0.185278,
+          "width": 0.078667,
+          "height": 0.016024
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "Listenand sing.",
+        "confidence": 0.8798,
+        "bbox": {
+          "x": 0.056667,
+          "y": 0.231848,
+          "width": 0.183333,
+          "height": 0.021532
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listenand sing.",
+            "confidence": 0.8798
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Listen and sing. & 3 Sing and do.",
+            "confidence": 0.8244
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "instruction",
+        "content": "Sing and do.",
+        "confidence": 0.8212,
+        "bbox": {
+          "x": 0.382,
+          "y": 0.23335,
+          "width": 0.153333,
+          "height": 0.02003
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "Let's sing!",
+        "confidence": 0.8355,
+        "bbox": {
+          "x": 0.115333,
+          "y": 0.267902,
+          "width": 0.152667,
+          "height": 0.029544
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Let's sing!",
+            "confidence": 0.8355
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| eet ey",
+            "confidence": 0.2367
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "instruction",
+        "content": "Sing arainbow!",
+        "confidence": 0.8585,
+        "bbox": {
+          "x": 0.413333,
+          "y": 0.450676,
+          "width": 0.202667,
+          "height": 0.021532
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Sing arainbow!",
+            "confidence": 0.8585
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "’ Sing a rainbow!",
+            "confidence": 0.7725
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "Red and yellow,",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.442215,
+          "y": 0.490054,
+          "width": 0.144061,
+          "height": 0.01748
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Red and yellow,",
+            "confidence": 0.8243
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Red and yellow,",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "And pink and green,",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.417335,
+          "y": 0.515371,
+          "width": 0.192616,
+          "height": 0.01748
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "And pinkandgreen,",
+            "confidence": 0.8438
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "And pink and green,",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "Purple and orange,",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.424157,
+          "y": 0.540687,
+          "width": 0.180177,
+          "height": 0.017782
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Purple and orange,",
+            "confidence": 0.8707
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Purple and orange,",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "And blue.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.470305,
+          "y": 0.565099,
+          "width": 0.087881,
+          "height": 0.014467
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "And blue.",
+            "confidence": 0.8606
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "And blue.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "I can singa rainbow,",
+        "confidence": 0.8945,
+        "bbox": {
+          "x": 0.414,
+          "y": 0.600401,
+          "width": 0.201333,
+          "height": 0.018027
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I can singa rainbow,",
+            "confidence": 0.8945
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "I can sing a rainbow,",
+            "confidence": 0.798
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "instruction",
+        "content": "Sing a rainbow,",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.441011,
+          "y": 0.62598,
+          "width": 0.146067,
+          "height": 0.017782
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Sing a rainbow,",
+            "confidence": 0.8487
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Sing a rainbow,",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "instruction",
+        "content": "Sing a rainbow, too.",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.419743,
+          "y": 0.651296,
+          "width": 0.190209,
+          "height": 0.016878
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Sing a rainbow,too.",
+            "confidence": 0.8477
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Sing a rainbow, too.",
+            "confidence": 0.9575
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "instruction",
+        "content": "Match.",
+        "confidence": 0.8002,
+        "bbox": {
+          "x": 0.064667,
+          "y": 0.698047,
+          "width": 0.08,
+          "height": 0.017526
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "Swwo w",
+        "confidence": 0.43,
+        "bbox": {
+          "x": 0.213884,
+          "y": 0.727245,
+          "width": 0.603933,
+          "height": 0.083484
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "blue",
+        "confidence": 0.699,
+        "bbox": {
+          "x": 0.590667,
+          "y": 0.895844,
+          "width": 0.053333,
+          "height": 0.021532
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "yellow",
+        "confidence": 0.8109,
+        "bbox": {
+          "x": 0.843333,
+          "y": 0.895844,
+          "width": 0.074,
+          "height": 0.022534
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "pink",
+        "confidence": 0.7963,
+        "bbox": {
+          "x": 0.327333,
+          "y": 0.897346,
+          "width": 0.052667,
+          "height": 0.022033
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "red",
+        "confidence": 0.7498,
+        "bbox": {
+          "x": 0.224,
+          "y": 0.897847,
+          "width": 0.039333,
+          "height": 0.019029
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "purple",
+        "confidence": 0.854,
+        "bbox": {
+          "x": 0.448667,
+          "y": 0.897847,
+          "width": 0.072667,
+          "height": 0.022033
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "orange",
+        "confidence": 0.8515,
+        "bbox": {
+          "x": 0.082,
+          "y": 0.898348,
+          "width": 0.080667,
+          "height": 0.021532
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "green",
+        "confidence": 0.8308,
+        "bbox": {
+          "x": 0.712,
+          "y": 0.898848,
+          "width": 0.064,
+          "height": 0.018528
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "heading",
+        "content": "Starter",
+        "confidence": 0.8138,
+        "bbox": {
+          "x": 0.826667,
+          "y": 0.945919,
+          "width": 0.061333,
+          "height": 0.016024
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "Colors Starter",
+        "confidence": 0.855,
+        "bbox": {
+          "x": 0.753612,
+          "y": 0.94786,
+          "width": 0.131621,
+          "height": 0.009946
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Colors",
+            "confidence": 0.794
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Colors Starter",
+            "confidence": 0.855
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "yellow",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.188667,
+          "y": 0.181272,
+          "width": 0.076,
+          "height": 0.023035
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.8544
+      },
+      {
+        "word": "blue",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.857333,
+          "y": 0.181272,
+          "width": 0.052667,
+          "height": 0.019029
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.7923
+      },
+      {
+        "word": "green",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.458667,
+          "y": 0.181773,
+          "width": 0.069333,
+          "height": 0.023035
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.7551
+      },
+      {
+        "word": "red",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.083333,
+          "y": 0.182273,
+          "width": 0.043333,
+          "height": 0.021032
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.7293
+      },
+      {
+        "word": "pink",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.336667,
+          "y": 0.182273,
+          "width": 0.054667,
+          "height": 0.022534
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.7969
+      },
+      {
+        "word": "purple",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.583333,
+          "y": 0.182273,
+          "width": 0.076,
+          "height": 0.02003
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.7918
+      },
+      {
+        "word": "orange",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.716667,
+          "y": 0.185278,
+          "width": 0.078667,
+          "height": 0.016024
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.7852
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [],
+    "ocrExercises": [],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Listenand sing.",
+          "Sing and do.",
+          "Let's sing!"
+        ],
+        "position": {
+          "x": 0.036667,
+          "y": 0.211848,
+          "width": 0.518666,
+          "height": 0.105598
+        },
+        "textElementIds": [
+          "text_0012",
+          "text_0013",
+          "text_0014"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Sing arainbow!",
+          "Red and yellow,",
+          "And pink and green,",
+          "Purple and orange,",
+          "And blue.",
+          "I can singa rainbow,",
+          "Sing a rainbow,",
+          "Sing a rainbow, too."
+        ],
+        "position": {
+          "x": 0.393333,
+          "y": 0.430676,
+          "width": 0.242667,
+          "height": 0.257498
+        },
+        "textElementIds": [
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "rawOcrAudit": {
+      "rapidocr": "Lesson Four\nListen,point,andrepeat.\n08\nyellow\nblue\ngreen\nred\npink\npurple\norange\nListenand sing.\nSing and do.\nLet's sing!\nSing arainbow!\nRed and yellow,\nAnd pinkandgreen,\nPurple and orange,\nAnd blue.\nI can singa rainbow,\nSing a rainbow,\nSing a rainbow,too.\nMatch.\nblue\nyellow\npink\nred\npurple\norange\ngreen\nColors\nStarter",
+      "tesseract_psm3": "| Lesson Four\n1 Listen, point, and repeat. © os\n\nfe) o =\nST; th. BR hE\n\n2 Listen and sing. & 3 Sing and do.\n\n| eet ey\n\n’ Sing a rainbow!\nRed and yellow,\nAnd pink and green,\n\nPurple and orange,\nAnd blue.\n\nI can sing a rainbow,\nSing a rainbow,\nSing a rainbow, too.\n\nSwwo w\n\nColors Starter\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": "",
+      "footer_passes": [
+        "\\\nColors Starter i",
+        "(conse) (Cet) Conk) Coane) (Gee) Gen) Geter)\n\nColors\n\nStarter"
+      ]
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8148,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "12 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "lesson",
+    "pagePurpose": null,
+    "readingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "headings": [
+      {
+        "id": "text_0001",
+        "content": "Lesson Four",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.742376,
+          "y": 0.017782,
+          "width": 0.185795,
+          "height": 0.031344
+        },
+        "repaired": true,
+        "sourceElementIds": [
+          "text_0001"
+        ]
+      },
+      {
+        "id": "text_0002",
+        "content": "Listen, point, and repeat.",
+        "confidence": 0.908,
+        "bbox": {
+          "x": 0.05,
+          "y": 0.076615,
+          "width": 0.301333,
+          "height": 0.018027
+        },
+        "repaired": true,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "id": "text_0032",
+        "content": "Starter",
+        "confidence": 0.8138,
+        "bbox": {
+          "x": 0.826667,
+          "y": 0.945919,
+          "width": 0.061333,
+          "height": 0.016024
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0032"
+        ]
+      }
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Lesson Four",
+        "originalContent": "| Lesson Four",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.742376,
+          "y": 0.017782,
+          "width": 0.185795,
+          "height": 0.031344
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized_unicode_or_edges"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "| Lesson Four",
+            "confidence": 0.9533
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Lesson Four",
+            "confidence": 0.8511
+          }
+        ]
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Listen, point, and repeat.",
+        "originalContent": "Listen,point,andrepeat.",
+        "confidence": 0.908,
+        "bbox": {
+          "x": 0.05,
+          "y": 0.076615,
+          "width": 0.301333,
+          "height": 0.018027
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase_space_restored"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Listen, point, and repeat. © os",
+            "confidence": 0.7757
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen,point,andrepeat.",
+            "confidence": 0.908
+          }
+        ]
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "yellow",
+        "originalContent": "yellow",
+        "confidence": 0.8544,
+        "bbox": {
+          "x": 0.188667,
+          "y": 0.181272,
+          "width": 0.076,
+          "height": 0.023035
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "blue",
+        "originalContent": "blue",
+        "confidence": 0.7923,
+        "bbox": {
+          "x": 0.857333,
+          "y": 0.181272,
+          "width": 0.052667,
+          "height": 0.019029
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "green",
+        "originalContent": "green",
+        "confidence": 0.7551,
+        "bbox": {
+          "x": 0.458667,
+          "y": 0.181773,
+          "width": 0.069333,
+          "height": 0.023035
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "red",
+        "originalContent": "red",
+        "confidence": 0.7293,
+        "bbox": {
+          "x": 0.083333,
+          "y": 0.182273,
+          "width": 0.043333,
+          "height": 0.021032
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "pink",
+        "originalContent": "pink",
+        "confidence": 0.7969,
+        "bbox": {
+          "x": 0.336667,
+          "y": 0.182273,
+          "width": 0.054667,
+          "height": 0.022534
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "purple",
+        "originalContent": "purple",
+        "confidence": 0.7918,
+        "bbox": {
+          "x": 0.583333,
+          "y": 0.182273,
+          "width": 0.076,
+          "height": 0.02003
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "orange",
+        "originalContent": "orange",
+        "confidence": 0.7852,
+        "bbox": {
+          "x": 0.716667,
+          "y": 0.185278,
+          "width": 0.078667,
+          "height": 0.016024
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "Listen and sing.",
+        "originalContent": "Listenand sing.",
+        "confidence": 0.8798,
+        "bbox": {
+          "x": 0.056667,
+          "y": 0.231848,
+          "width": 0.183333,
+          "height": 0.021532
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase_space_restored"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listenand sing.",
+            "confidence": 0.8798
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Listen and sing. & 3 Sing and do.",
+            "confidence": 0.8244
+          }
+        ]
+      },
+      {
+        "id": "text_0013",
+        "type": "instruction",
+        "content": "Sing and do.",
+        "originalContent": "Sing and do.",
+        "confidence": 0.8212,
+        "bbox": {
+          "x": 0.382,
+          "y": 0.23335,
+          "width": 0.153333,
+          "height": 0.02003
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "Let's sing!",
+        "originalContent": "Let's sing!",
+        "confidence": 0.8355,
+        "bbox": {
+          "x": 0.115333,
+          "y": 0.267902,
+          "width": 0.152667,
+          "height": 0.029544
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Let's sing!",
+            "confidence": 0.8355
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| eet ey",
+            "confidence": 0.2367
+          }
+        ]
+      },
+      {
+        "id": "text_0015",
+        "type": "instruction",
+        "content": "Sing a rainbow!",
+        "originalContent": "Sing arainbow!",
+        "confidence": 0.8585,
+        "bbox": {
+          "x": 0.413333,
+          "y": 0.450676,
+          "width": 0.202667,
+          "height": 0.021532
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase_space_restored"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Sing arainbow!",
+            "confidence": 0.8585
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "’ Sing a rainbow!",
+            "confidence": 0.7725
+          }
+        ]
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "Red and yellow,",
+        "originalContent": "Red and yellow,",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.442215,
+          "y": 0.490054,
+          "width": 0.144061,
+          "height": 0.01748
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Red and yellow,",
+            "confidence": 0.8243
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Red and yellow,",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "And pink and green,",
+        "originalContent": "And pink and green,",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.417335,
+          "y": 0.515371,
+          "width": 0.192616,
+          "height": 0.01748
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "And pinkandgreen,",
+            "confidence": 0.8438
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "And pink and green,",
+            "confidence": 0.955
+          }
+        ]
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "Purple and orange,",
+        "originalContent": "Purple and orange,",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.424157,
+          "y": 0.540687,
+          "width": 0.180177,
+          "height": 0.017782
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Purple and orange,",
+            "confidence": 0.8707
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Purple and orange,",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "And blue.",
+        "originalContent": "And blue.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.470305,
+          "y": 0.565099,
+          "width": 0.087881,
+          "height": 0.014467
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "And blue.",
+            "confidence": 0.8606
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "And blue.",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "I can sing a rainbow,",
+        "originalContent": "I can singa rainbow,",
+        "confidence": 0.8945,
+        "bbox": {
+          "x": 0.414,
+          "y": 0.600401,
+          "width": 0.201333,
+          "height": 0.018027
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase_space_restored"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I can singa rainbow,",
+            "confidence": 0.8945
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "I can sing a rainbow,",
+            "confidence": 0.798
+          }
+        ]
+      },
+      {
+        "id": "text_0021",
+        "type": "instruction",
+        "content": "Sing a rainbow,",
+        "originalContent": "Sing a rainbow,",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.441011,
+          "y": 0.62598,
+          "width": 0.146067,
+          "height": 0.017782
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Sing a rainbow,",
+            "confidence": 0.8487
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Sing a rainbow,",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0022",
+        "type": "instruction",
+        "content": "Sing a rainbow, too.",
+        "originalContent": "Sing a rainbow, too.",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.419743,
+          "y": 0.651296,
+          "width": 0.190209,
+          "height": 0.016878
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Sing a rainbow,too.",
+            "confidence": 0.8477
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Sing a rainbow, too.",
+            "confidence": 0.9575
+          }
+        ]
+      },
+      {
+        "id": "text_0023",
+        "type": "instruction",
+        "content": "Match.",
+        "originalContent": "Match.",
+        "confidence": 0.8002,
+        "bbox": {
+          "x": 0.064667,
+          "y": 0.698047,
+          "width": 0.08,
+          "height": 0.017526
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "blue",
+        "originalContent": "blue",
+        "confidence": 0.699,
+        "bbox": {
+          "x": 0.590667,
+          "y": 0.895844,
+          "width": 0.053333,
+          "height": 0.021532
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "yellow",
+        "originalContent": "yellow",
+        "confidence": 0.8109,
+        "bbox": {
+          "x": 0.843333,
+          "y": 0.895844,
+          "width": 0.074,
+          "height": 0.022534
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "pink",
+        "originalContent": "pink",
+        "confidence": 0.7963,
+        "bbox": {
+          "x": 0.327333,
+          "y": 0.897346,
+          "width": 0.052667,
+          "height": 0.022033
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "red",
+        "originalContent": "red",
+        "confidence": 0.7498,
+        "bbox": {
+          "x": 0.224,
+          "y": 0.897847,
+          "width": 0.039333,
+          "height": 0.019029
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "purple",
+        "originalContent": "purple",
+        "confidence": 0.854,
+        "bbox": {
+          "x": 0.448667,
+          "y": 0.897847,
+          "width": 0.072667,
+          "height": 0.022033
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "orange",
+        "originalContent": "orange",
+        "confidence": 0.8515,
+        "bbox": {
+          "x": 0.082,
+          "y": 0.898348,
+          "width": 0.080667,
+          "height": 0.021532
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "green",
+        "originalContent": "green",
+        "confidence": 0.8308,
+        "bbox": {
+          "x": 0.712,
+          "y": 0.898848,
+          "width": 0.064,
+          "height": 0.018528
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0032",
+        "type": "heading",
+        "content": "Starter",
+        "originalContent": "Starter",
+        "confidence": 0.8138,
+        "bbox": {
+          "x": 0.826667,
+          "y": 0.945919,
+          "width": 0.061333,
+          "height": 0.016024
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "Colors Starter",
+        "originalContent": "Colors Starter",
+        "confidence": 0.855,
+        "bbox": {
+          "x": 0.753612,
+          "y": 0.94786,
+          "width": 0.131621,
+          "height": 0.009946
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Colors",
+            "confidence": 0.794
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Colors Starter",
+            "confidence": 0.855
+          }
+        ]
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Lesson Four",
+      "Listen, point, and repeat.",
+      "yellow",
+      "blue",
+      "green",
+      "red",
+      "pink",
+      "purple",
+      "orange",
+      "Listen and sing.",
+      "Sing and do.",
+      "Let's sing!",
+      "Sing a rainbow!",
+      "Red and yellow,",
+      "And pink and green,",
+      "Purple and orange,",
+      "And blue.",
+      "I can sing a rainbow,",
+      "Sing a rainbow,",
+      "Sing a rainbow, too.",
+      "Match.",
+      "blue",
+      "yellow",
+      "pink",
+      "red",
+      "purple",
+      "orange",
+      "green",
+      "Starter",
+      "Colors Starter"
+    ],
+    "paragraphs": [],
+    "sentences": [
+      {
+        "id": "text_0014",
+        "content": "Let's sing!",
+        "confidence": 0.8355,
+        "bbox": {
+          "x": 0.115333,
+          "y": 0.267902,
+          "width": 0.152667,
+          "height": 0.029544
+        },
+        "sourceElementIds": [
+          "text_0014"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "red",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "yellow",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "pink",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "green",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "purple",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "orange",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "blue",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      }
+    ],
+    "grammar": [],
+    "dialogues": [],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "listening_activity",
+        "instruction": "Listen, point, and repeat.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "listening_singing",
+        "instruction": "Listen and sing.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "song_activity",
+        "instruction": "Sing and do.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "4",
+        "type": "matching_exercise",
+        "instruction": "Match.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [
+      {
+        "lines": [
+          {
+            "content": "Sing a rainbow!",
+            "confidence": 0.99,
+            "bbox": null,
+            "sourceElementId": null,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "content": "Red and yellow,",
+            "confidence": 0.99,
+            "bbox": null,
+            "sourceElementId": null,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "content": "And pink and green,",
+            "confidence": 0.99,
+            "bbox": null,
+            "sourceElementId": null,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "content": "Purple and orange,",
+            "confidence": 0.99,
+            "bbox": null,
+            "sourceElementId": null,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "content": "And blue.",
+            "confidence": 0.99,
+            "bbox": null,
+            "sourceElementId": null,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "content": "I can sing a rainbow,",
+            "confidence": 0.99,
+            "bbox": null,
+            "sourceElementId": null,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "content": "Sing a rainbow,",
+            "confidence": 0.99,
+            "bbox": null,
+            "sourceElementId": null,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "content": "Sing a rainbow, too.",
+            "confidence": 0.99,
+            "bbox": null,
+            "sourceElementId": null,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          }
+        ],
+        "confidence": 0.99
+      }
+    ],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Listen and sing.",
+          "Sing and do.",
+          "Let's sing!"
+        ],
+        "position": {
+          "x": 0.036667,
+          "y": 0.211848,
+          "width": 0.518666,
+          "height": 0.105598
+        },
+        "textElementIds": [
+          "text_0012",
+          "text_0013",
+          "text_0014"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Sing a rainbow!",
+          "Red and yellow,",
+          "And pink and green,",
+          "Purple and orange,",
+          "And blue.",
+          "I can sing a rainbow,",
+          "Sing a rainbow,",
+          "Sing a rainbow, too."
+        ],
+        "position": {
+          "x": 0.393333,
+          "y": 0.430676,
+          "width": 0.242667,
+          "height": 0.257498
+        },
+        "textElementIds": [
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "nonEducationalText": [],
+    "excludedGarbage": [
+      {
+        "id": "text_0003",
+        "content": "08",
+        "originalContent": "08",
+        "confidence": 0.6601
+      },
+      {
+        "id": "text_0004",
+        "content": "fe) o =",
+        "originalContent": "fe) o =",
+        "confidence": 0.33
+      },
+      {
+        "id": "text_0024",
+        "content": "Swwo w",
+        "originalContent": "Swwo w",
+        "confidence": 0.43
+      }
+    ]
+  },
+  "learningContent": {
+    "pageType": "lesson",
+    "title": "Lesson Four",
+    "learningObjectives": [],
+    "targetVocabulary": [
+      {
+        "word": "red",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "yellow",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "pink",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "green",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "purple",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "orange",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "blue",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "listening_activity",
+        "instruction": "Listen, point, and repeat.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "listening_singing",
+        "instruction": "Listen and sing.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "song_activity",
+        "instruction": "Sing and do.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "4",
+        "type": "matching_exercise",
+        "instruction": "Match.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [
+      {
+        "exerciseNumber": "1",
+        "instruction": "Listen, point, and repeat.",
+        "type": "listening_activity",
+        "confidence": 0.99
+      },
+      {
+        "exerciseNumber": "2",
+        "instruction": "Listen and sing.",
+        "type": "listening_singing",
+        "confidence": 0.99
+      }
+    ],
+    "speaking": [
+      {
+        "exerciseNumber": "1",
+        "instruction": "Listen, point, and repeat.",
+        "type": "listening_activity",
+        "confidence": 0.99
+      },
+      {
+        "exerciseNumber": "2",
+        "instruction": "Listen and sing.",
+        "type": "listening_singing",
+        "confidence": 0.99
+      },
+      {
+        "exerciseNumber": "3",
+        "instruction": "Sing and do.",
+        "type": "song_activity",
+        "confidence": 0.99
+      }
+    ],
+    "writing": [
+      {
+        "exerciseNumber": "4",
+        "instruction": "Match.",
+        "type": "matching_exercise",
+        "confidence": 0.99
+      }
+    ],
+    "songsOrPoems": [
+      {
+        "lines": [
+          {
+            "content": "Sing a rainbow!",
+            "confidence": 0.99,
+            "bbox": null,
+            "sourceElementId": null,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "content": "Red and yellow,",
+            "confidence": 0.99,
+            "bbox": null,
+            "sourceElementId": null,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "content": "And pink and green,",
+            "confidence": 0.99,
+            "bbox": null,
+            "sourceElementId": null,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "content": "Purple and orange,",
+            "confidence": 0.99,
+            "bbox": null,
+            "sourceElementId": null,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "content": "And blue.",
+            "confidence": 0.99,
+            "bbox": null,
+            "sourceElementId": null,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "content": "I can sing a rainbow,",
+            "confidence": 0.99,
+            "bbox": null,
+            "sourceElementId": null,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "content": "Sing a rainbow,",
+            "confidence": 0.99,
+            "bbox": null,
+            "sourceElementId": null,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "content": "Sing a rainbow, too.",
+            "confidence": 0.99,
+            "bbox": null,
+            "sourceElementId": null,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          }
+        ],
+        "confidence": 0.99
+      }
+    ],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [],
+    "verifiedAgainstPdf": true,
+    "repairStats": {
+      "text_repaired": 5,
+      "text_kept": 30,
+      "garbage_excluded": 3,
+      "vocab_kept": 11,
+      "exercises_reconstructed": 7
+    },
+    "averageOcrConfidence": 0.8148
+  },
+  "metadata": {
+    "book": "Family and Friends 1 Student Book (American)",
+    "author": "Naomi Simmons",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_v1",
+    "originalOcrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "originalAverageConfidence": 0.8148,
+    "noHallucinationPolicy": "Definitions, translations, speaker names, answers, and grammar rules are null or omitted unless visibly supported by page OCR/PDF. Text repairs are limited to spacing, punctuation, and clear OCR character errors."
+  }
+}

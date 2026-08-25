@@ -1,0 +1,3207 @@
+{
+  "pageNumber": 84,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "verified sequential printed-footer pattern",
+  "pdfPageNumber": 85,
+  "source": {
+    "pdfFile": "Family and Friends 4 SB_Part2.pdf",
+    "pdfLocalPageNumber": 33,
+    "pageSizePoints": {
+      "width": 598.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Skills Time!",
+        "confidence": 0.8705,
+        "bbox": {
+          "x": 0.157333,
+          "y": 0.024673,
+          "width": 0.248667,
+          "height": 0.033736
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Lesson Five",
+        "confidence": 0.86,
+        "bbox": {
+          "x": 0.070667,
+          "y": 0.072004,
+          "width": 0.135333,
+          "height": 0.022155
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Reading",
+        "confidence": 0.8728,
+        "bbox": {
+          "x": 0.088667,
+          "y": 0.114804,
+          "width": 0.079333,
+          "height": 0.020645
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "instruction",
+        "content": "1 Look at the email. What is it about? 2 Listen and read. ©) 90",
+        "confidence": 0.87,
+        "bbox": {
+          "x": 0.079856,
+          "y": 0.149697,
+          "width": 0.672953,
+          "height": 0.022424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Look at the email.What is it about?",
+            "confidence": 0.8934
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Look at the email. What is it about? 2 Listen and read. ©) 90",
+            "confidence": 0.87
+          },
+          {
+            "engine": "rapidocr",
+            "content": "2Listen and read.",
+            "confidence": 0.8771
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "What is an email?",
+        "confidence": 0.8432,
+        "bbox": {
+          "x": 0.156,
+          "y": 0.189325,
+          "width": 0.223333,
+          "height": 0.023162
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "paragraph",
+        "content": "An email is a message sent from",
+        "confidence": 0.9471,
+        "bbox": {
+          "x": 0.109149,
+          "y": 0.235152,
+          "width": 0.277689,
+          "height": 0.016364
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Anemailisamessagesentfrom",
+            "confidence": 0.9404
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "An email is a message sent from",
+            "confidence": 0.9471
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "ABC",
+        "confidence": 0.6165,
+        "bbox": {
+          "x": 0.576667,
+          "y": 0.240181,
+          "width": 0.032667,
+          "height": 0.016113
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "one computer to another.",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.108347,
+          "y": 0.255758,
+          "width": 0.220305,
+          "height": 0.014848
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "onecomputertoanother.",
+            "confidence": 0.9259
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "one computer to another.",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "TO:",
+        "confidence": 0.61,
+        "bbox": {
+          "x": 0.534,
+          "y": 0.277946,
+          "width": 0.023333,
+          "height": 0.011581
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "Kate@cyberspace.com",
+        "confidence": 0.9201,
+        "bbox": {
+          "x": 0.562,
+          "y": 0.277946,
+          "width": 0.155333,
+          "height": 0.015106
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Kate@cyberspace.com",
+            "confidence": 0.9201
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ew Kate@cyberspace.com",
+            "confidence": 0.575
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "paragraph",
+        "content": "How to send an email ( From",
+        "confidence": 0.9043,
+        "bbox": {
+          "x": 0.177769,
+          "y": 0.29303,
+          "width": 0.371589,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "How tosendanemail",
+            "confidence": 0.8701
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "How to send an email ( From",
+            "confidence": 0.9043
+          },
+          {
+            "engine": "rapidocr",
+            "content": "From:",
+            "confidence": 0.6855
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "Lucy",
+        "confidence": 0.7771,
+        "bbox": {
+          "x": 0.559333,
+          "y": 0.295065,
+          "width": 0.036,
+          "height": 0.015106
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "Subject:",
+        "confidence": 0.7696,
+        "bbox": {
+          "x": 0.498,
+          "y": 0.312689,
+          "width": 0.06,
+          "height": 0.013595
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Subject Re:M birthda",
+            "confidence": 0.505
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Subject:",
+            "confidence": 0.7696
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "ReMybirthday",
+        "confidence": 0.8653,
+        "bbox": {
+          "x": 0.56,
+          "y": 0.313192,
+          "width": 0.109333,
+          "height": 0.015106
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "First,useyour mouseand click on To.",
+        "confidence": 0.8811,
+        "bbox": {
+          "x": 0.133333,
+          "y": 0.318731,
+          "width": 0.268667,
+          "height": 0.015609
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "Typetheperson's email address.",
+        "confidence": 0.8801,
+        "bbox": {
+          "x": 0.135333,
+          "y": 0.33434,
+          "width": 0.244,
+          "height": 0.015106
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Hi Kate,",
+        "confidence": 0.7933,
+        "bbox": {
+          "x": 0.494,
+          "y": 0.336858,
+          "width": 0.078,
+          "height": 0.01863
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Hi Kate,",
+            "confidence": 0.7933
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| OH Kate,",
+            "confidence": 0.7333
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "paragraph",
+        "content": "Now click on Subject and write what",
+        "confidence": 0.8609,
+        "bbox": {
+          "x": 0.132,
+          "y": 0.35851,
+          "width": 0.266,
+          "height": 0.01712
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "sentence",
+        "content": "Thanks for the invitation to your bowling party.",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.514446,
+          "y": 0.360909,
+          "width": 0.311798,
+          "height": 0.015152
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Thanks for the invitation to your bowling party",
+            "confidence": 0.922
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Thanks for the invitation to your bowling party.",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "the email is about.",
+        "confidence": 0.8177,
+        "bbox": {
+          "x": 0.133333,
+          "y": 0.373112,
+          "width": 0.136667,
+          "height": 0.016113
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "sentence",
+        "content": "Yes, | can come, You know | really like bowling!",
+        "confidence": 0.919,
+        "bbox": {
+          "x": 0.514446,
+          "y": 0.376061,
+          "width": 0.317416,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Yes.I can come.You know I really like bowling",
+            "confidence": 0.8793
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Yes, | can come, You know | really like bowling!",
+            "confidence": 0.919
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "paragraph",
+        "content": "I'm really looking forward to seeing everyone on",
+        "confidence": 0.9163,
+        "bbox": {
+          "x": 0.515249,
+          "y": 0.390606,
+          "width": 0.320626,
+          "height": 0.014848
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I'm really looking forward to seeing everyone on",
+            "confidence": 0.8727
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "I'm really looking forward to seeing everyone on",
+            "confidence": 0.9163
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "instruction",
+        "content": "Write yourmessage.",
+        "confidence": 0.8525,
+        "bbox": {
+          "x": 0.132667,
+          "y": 0.399295,
+          "width": 0.148667,
+          "height": 0.016616
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "sentence",
+        "content": "your birthday It will be really fun. | can't wait!",
+        "confidence": 0.887,
+        "bbox": {
+          "x": 0.513644,
+          "y": 0.406061,
+          "width": 0.306982,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "your birthday It will be really fun. I can't wait!",
+            "confidence": 0.8985
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "your birthday It will be really fun. | can't wait!",
+            "confidence": 0.887
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "sentence",
+        "content": "Did you have a good vacation?",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.514446,
+          "y": 0.42,
+          "width": 0.20947,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Did you have a good vacation?",
+            "confidence": 0.9082
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Did you have a good vacation?",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "paragraph",
+        "content": "You canalso send photoswith your",
+        "confidence": 0.9013,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.424471,
+          "width": 0.261333,
+          "height": 0.016616
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "email.",
+        "confidence": 0.7645,
+        "bbox": {
+          "x": 0.130667,
+          "y": 0.439577,
+          "width": 0.048667,
+          "height": 0.014602
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "See you on Saturday",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.513644,
+          "y": 0.440606,
+          "width": 0.134831,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "See you on Saturday",
+            "confidence": 0.8756
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "See you on Saturday",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "From Lucy",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.514446,
+          "y": 0.455455,
+          "width": 0.064607,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "From Lucy",
+            "confidence": 0.8929
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "From Lucy",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "Finally,click on Sendtosend your",
+        "confidence": 0.866,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.464753,
+          "width": 0.244,
+          "height": 0.016616
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "Hi Lucy,",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.513644,
+          "y": 0.480909,
+          "width": 0.050161,
+          "height": 0.014848
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Hi Llucy.",
+            "confidence": 0.7679
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Hi Lucy,",
+            "confidence": 0.95
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "message to your friend.",
+        "confidence": 0.8579,
+        "bbox": {
+          "x": 0.13,
+          "y": 0.48137,
+          "width": 0.174,
+          "height": 0.014602
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "paragraph",
+        "content": "Its my birthday next week and I'm having a bowling",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.513644,
+          "y": 0.503636,
+          "width": 0.334671,
+          "height": 0.015152
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "It's my birthday next week and I'm having a bowling",
+            "confidence": 0.9118
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Its my birthday next week and I'm having a bowling",
+            "confidence": 0.93
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "sentence",
+        "content": "party on May 8th at the Bowlplex. The bowling starts",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.512841,
+          "y": 0.518788,
+          "width": 0.351525,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "party on May 8th at the Bowlplex. The bowling starts",
+            "confidence": 0.8929
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "party on May 8th at the Bowlplex. The bowling starts",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "paragraph",
+        "content": "at 3 oclock and there will be drinks and birthday cake",
+        "confidence": 0.9455,
+        "bbox": {
+          "x": 0.512039,
+          "y": 0.532727,
+          "width": 0.354735,
+          "height": 0.015455
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "at3o'clockand therewill bedrinksandbirthday cake",
+            "confidence": 0.9047
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "at 3 oclock and there will be drinks and birthday cake",
+            "confidence": 0.9455
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "sentence",
+        "content": "afterwards. | hope you can come!",
+        "confidence": 0.875,
+        "bbox": {
+          "x": 0.512039,
+          "y": 0.548182,
+          "width": 0.219101,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "afterwards I hope you can comel",
+            "confidence": 0.8538
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "afterwards. | hope you can come!",
+            "confidence": 0.875
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "Kate",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.512841,
+          "y": 0.571818,
+          "width": 0.028491,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Kate",
+            "confidence": 0.7853
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Kate",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "instruction",
+        "content": "3 Underline these words in the text. Guess their meanings and",
+        "confidence": 0.9218,
+        "bbox": {
+          "x": 0.072632,
+          "y": 0.630303,
+          "width": 0.620385,
+          "height": 0.022727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3Underline these words in the text. Guess their meanings and",
+            "confidence": 0.9166
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Underline these words in the text. Guess their meanings and",
+            "confidence": 0.9218
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "sentence",
+        "content": "then check them in the Workbook 4 Dictionary (page 136).",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.105136,
+          "y": 0.65303,
+          "width": 0.56862,
+          "height": 0.022424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "then check them in the Workbook 4 Dictionary (page 136).",
+            "confidence": 0.9072
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "then check them in the Workbook 4 Dictionary (page 136).",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "paragraph",
+        "content": "type theemail addresssubject attach aphoto",
+        "confidence": 0.8969,
+        "bbox": {
+          "x": 0.124667,
+          "y": 0.68429,
+          "width": 0.53,
+          "height": 0.02719
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "type theemail addresssubject attach aphoto",
+            "confidence": 0.8969
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "type the email address subject attach a photo",
+            "confidence": 0.73
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "label",
+        "content": "send a message",
+        "confidence": 0.8573,
+        "bbox": {
+          "x": 0.25,
+          "y": 0.708963,
+          "width": 0.173333,
+          "height": 0.020645
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "send a message",
+            "confidence": 0.8573
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "sendamessage clickon",
+            "confidence": 0.69
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "label",
+        "content": "clickon",
+        "confidence": 0.851,
+        "bbox": {
+          "x": 0.448,
+          "y": 0.70997,
+          "width": 0.084667,
+          "height": 0.020141
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "instruction",
+        "content": "4 Read again and match.",
+        "confidence": 0.934,
+        "bbox": {
+          "x": 0.07183,
+          "y": 0.753636,
+          "width": 0.263242,
+          "height": 0.017576
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4Read again and match.",
+            "confidence": 0.8838
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 Read again and match.",
+            "confidence": 0.934
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "label",
+        "content": "D em",
+        "confidence": 0.435,
+        "bbox": {
+          "x": 0.792536,
+          "y": 0.778182,
+          "width": 0.083868,
+          "height": 0.019394
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0045",
+        "type": "sentence",
+        "content": "1 You write the person's email address here.",
+        "confidence": 0.9038,
+        "bbox": {
+          "x": 0.100667,
+          "y": 0.779456,
+          "width": 0.406667,
+          "height": 0.020141
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 You write the person's email address here. (b] re",
+            "confidence": 0.741
+          },
+          {
+            "engine": "rapidocr",
+            "content": "1 You write the person's email address here.",
+            "confidence": 0.9038
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0046",
+        "type": "sentence",
+        "content": "2 You write what the email is about here.",
+        "confidence": 0.9224,
+        "bbox": {
+          "x": 0.100667,
+          "y": 0.808661,
+          "width": 0.381333,
+          "height": 0.019134
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 You write what the email is about here. ( eo",
+            "confidence": 0.8282
+          },
+          {
+            "engine": "rapidocr",
+            "content": "2 You write what the email is about here.",
+            "confidence": 0.9224
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0047",
+        "type": "sentence",
+        "content": "3 You send your message by clicking on this.",
+        "confidence": 0.9241,
+        "bbox": {
+          "x": 0.099333,
+          "y": 0.838369,
+          "width": 0.414,
+          "height": 0.021652
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 You send your message by clicking on this. a —_ d =",
+            "confidence": 0.8662
+          },
+          {
+            "engine": "rapidocr",
+            "content": "3 You send your message by clicking on this.",
+            "confidence": 0.9241
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0048",
+        "type": "sentence",
+        "content": "4 You add pictures with this.",
+        "confidence": 0.8813,
+        "bbox": {
+          "x": 0.101333,
+          "y": 0.868077,
+          "width": 0.265333,
+          "height": 0.019134
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 You add pictures with this. ( poe \\",
+            "confidence": 0.7467
+          },
+          {
+            "engine": "rapidocr",
+            "content": "4 You add pictures with this.",
+            "confidence": 0.8813
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0049",
+        "type": "label",
+        "content": "Subject:",
+        "confidence": 0.8792,
+        "bbox": {
+          "x": 0.667333,
+          "y": 0.869084,
+          "width": 0.058667,
+          "height": 0.015609
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0050",
+        "type": "label",
+        "content": "84",
+        "confidence": 0.6648,
+        "bbox": {
+          "x": 0.036,
+          "y": 0.941088,
+          "width": 0.032,
+          "height": 0.017623
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0051",
+        "type": "heading",
+        "content": "Unit 10 Words in context: sending emails Reading: online instructions",
+        "confidence": 0.892,
+        "bbox": {
+          "x": 0.117978,
+          "y": 0.948788,
+          "width": 0.490369,
+          "height": 0.015455
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Unit 1o Words in context:sendingemails Reading:online instructions",
+            "confidence": 0.8934
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Unit 10 Words in context: sending emails Reading: online instructions",
+            "confidence": 0.892
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "ABC",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.576667,
+          "y": 0.240181,
+          "width": 0.032667,
+          "height": 0.016113
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.6165
+      },
+      {
+        "word": "Lucy",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.559333,
+          "y": 0.295065,
+          "width": 0.036,
+          "height": 0.015106
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.7771
+      },
+      {
+        "word": "ReMybirthday",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.56,
+          "y": 0.313192,
+          "width": 0.109333,
+          "height": 0.015106
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.8653
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Typetheperson's email address.",
+            "confidence": 0.8801,
+            "bbox": {
+              "x": 0.135333,
+              "y": 0.33434,
+              "width": 0.244,
+              "height": 0.015106
+            },
+            "sourceElementId": "text_0016",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Yes, | can come, You know | really like bowling!",
+            "confidence": 0.919,
+            "bbox": {
+              "x": 0.514446,
+              "y": 0.376061,
+              "width": 0.317416,
+              "height": 0.014545
+            },
+            "sourceElementId": "text_0021",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "your birthday It will be really fun. | can't wait!",
+            "confidence": 0.887,
+            "bbox": {
+              "x": 0.513644,
+              "y": 0.406061,
+              "width": 0.306982,
+              "height": 0.013333
+            },
+            "sourceElementId": "text_0024",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected spatially; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "listening_activity",
+        "instruction": "Look at the email. What is it about? 2 Listen and read. ©) 90",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0004"
+        ],
+        "confidence": 0.87
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "exercise",
+        "instruction": "Underline these words in the text. Guess their meanings and",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0038"
+        ],
+        "confidence": 0.9218
+      },
+      {
+        "exerciseNumber": "4",
+        "type": "matching_exercise",
+        "instruction": "Read again and match.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0043"
+        ],
+        "confidence": 0.934
+      },
+      {
+        "exerciseNumber": "1",
+        "type": "writing_activity",
+        "instruction": "You write the person's email address here.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0045"
+        ],
+        "confidence": 0.9038
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "writing_activity",
+        "instruction": "You write what the email is about here.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0046"
+        ],
+        "confidence": 0.9224
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "An email is a message sent from",
+          "ABC",
+          "one computer to another.",
+          "TO:",
+          "Kate@cyberspace.com",
+          "How to send an email ( From",
+          "Lucy",
+          "Subject:",
+          "ReMybirthday",
+          "First,useyour mouseand click on To.",
+          "Typetheperson's email address.",
+          "Hi Kate,",
+          "Now click on Subject and write what",
+          "Thanks for the invitation to your bowling party.",
+          "the email is about.",
+          "Yes, | can come, You know | really like bowling!",
+          "I'm really looking forward to seeing everyone on",
+          "Write yourmessage.",
+          "your birthday It will be really fun. | can't wait!",
+          "Did you have a good vacation?",
+          "You canalso send photoswith your",
+          "email.",
+          "See you on Saturday",
+          "From Lucy",
+          "Finally,click on Sendtosend your",
+          "Hi Lucy,",
+          "message to your friend."
+        ],
+        "position": {
+          "x": 0.088347,
+          "y": 0.215152,
+          "width": 0.767528,
+          "height": 0.30082
+        },
+        "textElementIds": [
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Its my birthday next week and I'm having a bowling",
+          "party on May 8th at the Bowlplex. The bowling starts",
+          "at 3 oclock and there will be drinks and birthday cake",
+          "afterwards. | hope you can come!",
+          "Kate",
+          "3 Underline these words in the text. Guess their meanings and",
+          "then check them in the Workbook 4 Dictionary (page 136).",
+          "type theemail addresssubject attach aphoto",
+          "send a message",
+          "clickon"
+        ],
+        "position": {
+          "x": 0.052632,
+          "y": 0.48363599999999995,
+          "width": 0.834142,
+          "height": 0.266475
+        },
+        "textElementIds": [
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040",
+          "text_0041",
+          "text_0042"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "4 Read again and match.",
+          "D em",
+          "1 You write the person's email address here.",
+          "2 You write what the email is about here.",
+          "3 You send your message by clicking on this."
+        ],
+        "position": {
+          "x": 0.05183,
+          "y": 0.733636,
+          "width": 0.8445739999999999,
+          "height": 0.1463850000000001
+        },
+        "textElementIds": [
+          "text_0043",
+          "text_0044",
+          "text_0045",
+          "text_0046",
+          "text_0047"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "Skills Time!\nLesson Five\nReading\nLook at the email.What is it about?\n2Listen and read.\nWhat is an email?\nAnemailisamessagesentfrom\nABC\nonecomputertoanother.\nTO:\nKate@cyberspace.com\nHow tosendanemail\nFrom:\nLucy\nSubject:\nReMybirthday\nFirst,useyour mouseand click on To.\nTypetheperson's email address.\nHi Kate,\nThanks for the invitation to your bowling party\nNow click on Subject and write what\nthe email is about.\nYes.I can come.You know I really like bowling\nI'm really looking forward to seeing everyone on\nWrite yourmessage.\nyour birthday It will be really fun. I can't wait!\nDid you have a good vacation?\nYou canalso send photoswith your\nSee you on Saturday\nemail.\nFrom Lucy\nFinally,click on Sendtosend your\nHi Llucy.\nmessage to your friend.\nIt's my birthday next week and I'm having a bowling\nparty on May 8th at the Bowlplex. The bowling starts\nat3o'clockand therewill bedrinksandbirthday cake\nafterwards I hope you can comel\nKate\n3Underline these words in the text. Guess their meanings and\nthen check them in the Workbook 4 Dictionary (page 136).\ntype theemail addresssubject attach aphoto\nsend a message\nclickon\n4Read again and match.\n1 You write the person's email address here.\n2 You write what the email is about here.\n3 You send your message by clicking on this.\n4 You add pictures with this.\nSubject:\n84\nUnit 1o Words in context:sendingemails Reading:online instructions",
+      "tesseract_psm3": "1 Look at the email. What is it about? 2 Listen and read. ©) 90\n\nAn email is a message sent from\none computer to another.\n\new Kate@cyberspace.com\n\nHow to send an email ( From\n\n2 Subject Re:M birthda\n\n| OH Kate,\n\nThanks for the invitation to your bowling party.\nYes, | can come, You know | really like bowling!\nI'm really looking forward to seeing everyone on\nyour birthday It will be really fun. | can't wait!\nDid you have a good vacation?\n\nSee you on Saturday\n\nFrom Lucy\n\nHi Lucy,\n\nIts my birthday next week and I'm having a bowling\nparty on May 8th at the Bowlplex. The bowling starts\n\nat 3 oclock and there will be drinks and birthday cake\nafterwards. | hope you can come!\n\nKate\n\n3 Underline these words in the text. Guess their meanings and\nthen check them in the Workbook 4 Dictionary (page 136).\n\ntype the email address subject attach a photo\n\nsendamessage clickon\n\n4 Read again and match.\n\n1 You write the person's email address here. (b] re\n\nD em\n2 You write what the email is about here. ( eo\n3 You send your message by clicking on this. a —_ d =\n\n4 You add pictures with this. ( poe \\\n\nUnit 10 Words in context: sending emails Reading: online instructions\n\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8675,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "8 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "skills_time",
+    "headings": [
+      "Skills Time!",
+      "Lesson Five",
+      "Reading",
+      "Unit 10 Words in context: sending emails Reading: online instructions"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Skills Time!",
+        "confidence": 0.8705,
+        "bbox": {
+          "x": 0.157333,
+          "y": 0.024673,
+          "width": 0.248667,
+          "height": 0.033736
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Lesson Five",
+        "confidence": 0.86,
+        "bbox": {
+          "x": 0.070667,
+          "y": 0.072004,
+          "width": 0.135333,
+          "height": 0.022155
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Reading",
+        "confidence": 0.8728,
+        "bbox": {
+          "x": 0.088667,
+          "y": 0.114804,
+          "width": 0.079333,
+          "height": 0.020645
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "What is an email?",
+        "confidence": 0.8432,
+        "bbox": {
+          "x": 0.156,
+          "y": 0.189325,
+          "width": 0.223333,
+          "height": 0.023162
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "paragraph",
+        "content": "An email is a message sent from",
+        "confidence": 0.9471,
+        "bbox": {
+          "x": 0.109149,
+          "y": 0.235152,
+          "width": 0.277689,
+          "height": 0.016364
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Anemailisamessagesentfrom",
+            "confidence": 0.9404
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "An email is a message sent from",
+            "confidence": 0.9471
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "ABC",
+        "confidence": 0.6165,
+        "bbox": {
+          "x": 0.576667,
+          "y": 0.240181,
+          "width": 0.032667,
+          "height": 0.016113
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "one computer to another.",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.108347,
+          "y": 0.255758,
+          "width": 0.220305,
+          "height": 0.014848
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "onecomputertoanother.",
+            "confidence": 0.9259
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "one computer to another.",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "TO",
+        "confidence": 0.61,
+        "bbox": {
+          "x": 0.534,
+          "y": 0.277946,
+          "width": 0.023333,
+          "height": 0.011581
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "Kate@cyberspace. com",
+        "confidence": 0.9201,
+        "bbox": {
+          "x": 0.562,
+          "y": 0.277946,
+          "width": 0.155333,
+          "height": 0.015106
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Kate@cyberspace.com",
+            "confidence": 0.9201
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ew Kate@cyberspace.com",
+            "confidence": 0.575
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "paragraph",
+        "content": "How to send an email ( From",
+        "confidence": 0.9043,
+        "bbox": {
+          "x": 0.177769,
+          "y": 0.29303,
+          "width": 0.371589,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "How tosendanemail",
+            "confidence": 0.8701
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "How to send an email ( From",
+            "confidence": 0.9043
+          },
+          {
+            "engine": "rapidocr",
+            "content": "From:",
+            "confidence": 0.6855
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "Lucy",
+        "confidence": 0.7771,
+        "bbox": {
+          "x": 0.559333,
+          "y": 0.295065,
+          "width": 0.036,
+          "height": 0.015106
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "Subject",
+        "confidence": 0.7696,
+        "bbox": {
+          "x": 0.498,
+          "y": 0.312689,
+          "width": 0.06,
+          "height": 0.013595
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Subject Re:M birthda",
+            "confidence": 0.505
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Subject:",
+            "confidence": 0.7696
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "Re My birthday",
+        "confidence": 0.8653,
+        "bbox": {
+          "x": 0.56,
+          "y": 0.313192,
+          "width": 0.109333,
+          "height": 0.015106
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "First, use your mouse and click on To.",
+        "confidence": 0.8811,
+        "bbox": {
+          "x": 0.133333,
+          "y": 0.318731,
+          "width": 0.268667,
+          "height": 0.015609
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "Type the person's email address.",
+        "confidence": 0.8801,
+        "bbox": {
+          "x": 0.135333,
+          "y": 0.33434,
+          "width": 0.244,
+          "height": 0.015106
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Hi Kate",
+        "confidence": 0.7933,
+        "bbox": {
+          "x": 0.494,
+          "y": 0.336858,
+          "width": 0.078,
+          "height": 0.01863
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Hi Kate,",
+            "confidence": 0.7933
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| OH Kate,",
+            "confidence": 0.7333
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "paragraph",
+        "content": "Now click on Subject and write what",
+        "confidence": 0.8609,
+        "bbox": {
+          "x": 0.132,
+          "y": 0.35851,
+          "width": 0.266,
+          "height": 0.01712
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "sentence",
+        "content": "Thanks for the invitation to your bowling party.",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.514446,
+          "y": 0.360909,
+          "width": 0.311798,
+          "height": 0.015152
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Thanks for the invitation to your bowling party",
+            "confidence": 0.922
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Thanks for the invitation to your bowling party.",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "the email is about.",
+        "confidence": 0.8177,
+        "bbox": {
+          "x": 0.133333,
+          "y": 0.373112,
+          "width": 0.136667,
+          "height": 0.016113
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "sentence",
+        "content": "Yes, | can come, You know | really like bowling!",
+        "confidence": 0.919,
+        "bbox": {
+          "x": 0.514446,
+          "y": 0.376061,
+          "width": 0.317416,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Yes.I can come.You know I really like bowling",
+            "confidence": 0.8793
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Yes, | can come, You know | really like bowling!",
+            "confidence": 0.919
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "paragraph",
+        "content": "I'm really looking forward to seeing everyone on",
+        "confidence": 0.9163,
+        "bbox": {
+          "x": 0.515249,
+          "y": 0.390606,
+          "width": 0.320626,
+          "height": 0.014848
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I'm really looking forward to seeing everyone on",
+            "confidence": 0.8727
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "I'm really looking forward to seeing everyone on",
+            "confidence": 0.9163
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "instruction",
+        "content": "Write your message.",
+        "confidence": 0.8525,
+        "bbox": {
+          "x": 0.132667,
+          "y": 0.399295,
+          "width": 0.148667,
+          "height": 0.016616
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "sentence",
+        "content": "your birthday It will be really fun. | can't wait!",
+        "confidence": 0.887,
+        "bbox": {
+          "x": 0.513644,
+          "y": 0.406061,
+          "width": 0.306982,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "your birthday It will be really fun. I can't wait!",
+            "confidence": 0.8985
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "your birthday It will be really fun. | can't wait!",
+            "confidence": 0.887
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "sentence",
+        "content": "Did you have a good vacation?",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.514446,
+          "y": 0.42,
+          "width": 0.20947,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Did you have a good vacation?",
+            "confidence": 0.9082
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Did you have a good vacation?",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "paragraph",
+        "content": "You can also send photos with your",
+        "confidence": 0.9013,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.424471,
+          "width": 0.261333,
+          "height": 0.016616
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "email.",
+        "confidence": 0.7645,
+        "bbox": {
+          "x": 0.130667,
+          "y": 0.439577,
+          "width": 0.048667,
+          "height": 0.014602
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "See you on Saturday",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.513644,
+          "y": 0.440606,
+          "width": 0.134831,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "See you on Saturday",
+            "confidence": 0.8756
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "See you on Saturday",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "From Lucy",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.514446,
+          "y": 0.455455,
+          "width": 0.064607,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "From Lucy",
+            "confidence": 0.8929
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "From Lucy",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "Finally, click on Send to send your",
+        "confidence": 0.866,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.464753,
+          "width": 0.244,
+          "height": 0.016616
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "Hi Lucy",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.513644,
+          "y": 0.480909,
+          "width": 0.050161,
+          "height": 0.014848
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Hi Llucy.",
+            "confidence": 0.7679
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Hi Lucy,",
+            "confidence": 0.95
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "message to your friend.",
+        "confidence": 0.8579,
+        "bbox": {
+          "x": 0.13,
+          "y": 0.48137,
+          "width": 0.174,
+          "height": 0.014602
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "paragraph",
+        "content": "Its my birthday next week and I'm having a bowling",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.513644,
+          "y": 0.503636,
+          "width": 0.334671,
+          "height": 0.015152
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "It's my birthday next week and I'm having a bowling",
+            "confidence": 0.9118
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Its my birthday next week and I'm having a bowling",
+            "confidence": 0.93
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "sentence",
+        "content": "party on May 8th at the Bowl plex. The bowling starts",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.512841,
+          "y": 0.518788,
+          "width": 0.351525,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "party on May 8th at the Bowlplex. The bowling starts",
+            "confidence": 0.8929
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "party on May 8th at the Bowlplex. The bowling starts",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "paragraph",
+        "content": "at 3 oclock and there will be drinks and birthday cake",
+        "confidence": 0.9455,
+        "bbox": {
+          "x": 0.512039,
+          "y": 0.532727,
+          "width": 0.354735,
+          "height": 0.015455
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "at3o'clockand therewill bedrinksandbirthday cake",
+            "confidence": 0.9047
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "at 3 oclock and there will be drinks and birthday cake",
+            "confidence": 0.9455
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "sentence",
+        "content": "afterwards. | hope you can come!",
+        "confidence": 0.875,
+        "bbox": {
+          "x": 0.512039,
+          "y": 0.548182,
+          "width": 0.219101,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "afterwards I hope you can comel",
+            "confidence": 0.8538
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "afterwards. | hope you can come!",
+            "confidence": 0.875
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "Kate",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.512841,
+          "y": 0.571818,
+          "width": 0.028491,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Kate",
+            "confidence": 0.7853
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Kate",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "instruction",
+        "content": "3 Underline these words in the text. Guess their meanings and",
+        "confidence": 0.9218,
+        "bbox": {
+          "x": 0.072632,
+          "y": 0.630303,
+          "width": 0.620385,
+          "height": 0.022727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3Underline these words in the text. Guess their meanings and",
+            "confidence": 0.9166
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Underline these words in the text. Guess their meanings and",
+            "confidence": 0.9218
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "sentence",
+        "content": "then check them in the Workbook 4 Dictionary (page 136).",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.105136,
+          "y": 0.65303,
+          "width": 0.56862,
+          "height": 0.022424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "then check them in the Workbook 4 Dictionary (page 136).",
+            "confidence": 0.9072
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "then check them in the Workbook 4 Dictionary (page 136).",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "paragraph",
+        "content": "type the email address subject attach a photo",
+        "confidence": 0.8969,
+        "bbox": {
+          "x": 0.124667,
+          "y": 0.68429,
+          "width": 0.53,
+          "height": 0.02719
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "type theemail addresssubject attach aphoto",
+            "confidence": 0.8969
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "type the email address subject attach a photo",
+            "confidence": 0.73
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "label",
+        "content": "send a message",
+        "confidence": 0.8573,
+        "bbox": {
+          "x": 0.25,
+          "y": 0.708963,
+          "width": 0.173333,
+          "height": 0.020645
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "send a message",
+            "confidence": 0.8573
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "sendamessage clickon",
+            "confidence": 0.69
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "label",
+        "content": "click on",
+        "confidence": 0.851,
+        "bbox": {
+          "x": 0.448,
+          "y": 0.70997,
+          "width": 0.084667,
+          "height": 0.020141
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "instruction",
+        "content": "4 Read again and match.",
+        "confidence": 0.934,
+        "bbox": {
+          "x": 0.07183,
+          "y": 0.753636,
+          "width": 0.263242,
+          "height": 0.017576
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4Read again and match.",
+            "confidence": 0.8838
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 Read again and match.",
+            "confidence": 0.934
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "label",
+        "content": "D em",
+        "confidence": 0.435,
+        "bbox": {
+          "x": 0.792536,
+          "y": 0.778182,
+          "width": 0.083868,
+          "height": 0.019394
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0045",
+        "type": "sentence",
+        "content": "1 You write the person's email address here.",
+        "confidence": 0.9038,
+        "bbox": {
+          "x": 0.100667,
+          "y": 0.779456,
+          "width": 0.406667,
+          "height": 0.020141
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 You write the person's email address here. (b] re",
+            "confidence": 0.741
+          },
+          {
+            "engine": "rapidocr",
+            "content": "1 You write the person's email address here.",
+            "confidence": 0.9038
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0046",
+        "type": "sentence",
+        "content": "2 You write what the email is about here.",
+        "confidence": 0.9224,
+        "bbox": {
+          "x": 0.100667,
+          "y": 0.808661,
+          "width": 0.381333,
+          "height": 0.019134
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 You write what the email is about here. ( eo",
+            "confidence": 0.8282
+          },
+          {
+            "engine": "rapidocr",
+            "content": "2 You write what the email is about here.",
+            "confidence": 0.9224
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0047",
+        "type": "sentence",
+        "content": "3 You send your message by clicking on this.",
+        "confidence": 0.9241,
+        "bbox": {
+          "x": 0.099333,
+          "y": 0.838369,
+          "width": 0.414,
+          "height": 0.021652
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 You send your message by clicking on this. a —_ d =",
+            "confidence": 0.8662
+          },
+          {
+            "engine": "rapidocr",
+            "content": "3 You send your message by clicking on this.",
+            "confidence": 0.9241
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0048",
+        "type": "sentence",
+        "content": "4 You add pictures with this.",
+        "confidence": 0.8813,
+        "bbox": {
+          "x": 0.101333,
+          "y": 0.868077,
+          "width": 0.265333,
+          "height": 0.019134
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 You add pictures with this. ( poe \\",
+            "confidence": 0.7467
+          },
+          {
+            "engine": "rapidocr",
+            "content": "4 You add pictures with this.",
+            "confidence": 0.8813
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0049",
+        "type": "label",
+        "content": "Subject",
+        "confidence": 0.8792,
+        "bbox": {
+          "x": 0.667333,
+          "y": 0.869084,
+          "width": 0.058667,
+          "height": 0.015609
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0050",
+        "type": "audio_track",
+        "content": "84",
+        "confidence": 0.6648,
+        "bbox": {
+          "x": 0.036,
+          "y": 0.941088,
+          "width": 0.032,
+          "height": 0.017623
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0051",
+        "type": "heading",
+        "content": "Unit 10 Words in context: sending emails Reading: online instructions",
+        "confidence": 0.892,
+        "bbox": {
+          "x": 0.117978,
+          "y": 0.948788,
+          "width": 0.490369,
+          "height": 0.015455
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Unit 1o Words in context:sendingemails Reading:online instructions",
+            "confidence": 0.8934
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Unit 10 Words in context: sending emails Reading: online instructions",
+            "confidence": 0.892
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Skills Time!",
+      "Lesson Five",
+      "Reading",
+      "What is an email?",
+      "An email is a message sent from",
+      "ABC",
+      "one computer to another.",
+      "TO",
+      "Kate@cyberspace. com",
+      "How to send an email ( From",
+      "Lucy",
+      "Subject",
+      "Re My birthday",
+      "First, use your mouse and click on To.",
+      "Type the person's email address.",
+      "Hi Kate",
+      "Now click on Subject and write what",
+      "Thanks for the invitation to your bowling party.",
+      "the email is about.",
+      "Yes, | can come, You know | really like bowling!",
+      "I'm really looking forward to seeing everyone on",
+      "Write your message.",
+      "your birthday It will be really fun. | can't wait!",
+      "Did you have a good vacation?",
+      "You can also send photos with your",
+      "email.",
+      "See you on Saturday",
+      "From Lucy",
+      "Finally, click on Send to send your",
+      "Hi Lucy",
+      "message to your friend.",
+      "Its my birthday next week and I'm having a bowling",
+      "party on May 8th at the Bowl plex. The bowling starts",
+      "at 3 oclock and there will be drinks and birthday cake",
+      "afterwards. | hope you can come!",
+      "Kate",
+      "3 Underline these words in the text. Guess their meanings and",
+      "then check them in the Workbook 4 Dictionary (page 136).",
+      "type the email address subject attach a photo",
+      "send a message",
+      "click on",
+      "4 Read again and match.",
+      "D em",
+      "1 You write the person's email address here.",
+      "2 You write what the email is about here.",
+      "3 You send your message by clicking on this.",
+      "4 You add pictures with this.",
+      "Subject",
+      "Unit 10 Words in context: sending emails Reading: online instructions"
+    ],
+    "paragraphs": [
+      "An email is a message sent from",
+      "How to send an email ( From",
+      "Now click on Subject and write what",
+      "I'm really looking forward to seeing everyone on",
+      "You can also send photos with your",
+      "Its my birthday next week and I'm having a bowling",
+      "at 3 oclock and there will be drinks and birthday cake",
+      "type the email address subject attach a photo"
+    ],
+    "sentences": [
+      "Skills Time",
+      "Lesson Five Reading What is an email",
+      "An email is a message sent from ABC one computer to another",
+      "TO Kate@cyberspace",
+      "com How to send an email ( From Lucy Subject Re My birthday First, use your mouse and click on To",
+      "Type the person's email address",
+      "Hi Kate Now click on Subject and write what Thanks for the invitation to your bowling party",
+      "the email is about",
+      "Yes, | can come, You know | really like bowling",
+      "I'm really looking forward to seeing everyone on Write your message",
+      "your birthday It will be really fun",
+      "| can't wait",
+      "Did you have a good vacation",
+      "You can also send photos with your email",
+      "See you on Saturday From Lucy Finally, click on Send to send your Hi Lucy message to your friend",
+      "Its my birthday next week and I'm having a bowling party on May 8th at the Bowl plex",
+      "The bowling starts at 3 oclock and there will be drinks and birthday cake afterwards",
+      "| hope you can come",
+      "Kate 3 Underline these words in the text",
+      "Guess their meanings and then check them in the Workbook 4 Dictionary (page 136)",
+      "type the email address subject attach a photo send a message click on 4 Read again and match",
+      "D em 1 You write the person's email address here",
+      "2 You write what the email is about here",
+      "3 You send your message by clicking on this",
+      "4 You add pictures with this",
+      "Subject Unit 10 Words in context: sending emails Reading: online instructions"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Type the person's email address.",
+            "confidence": 0.8801,
+            "bbox": {
+              "x": 0.135333,
+              "y": 0.33434,
+              "width": 0.244,
+              "height": 0.015106
+            },
+            "sourceElementId": "text_0016"
+          },
+          {
+            "speaker": null,
+            "content": "Yes, | can come, You know | really like bowling!",
+            "confidence": 0.919,
+            "bbox": {
+              "x": 0.514446,
+              "y": 0.376061,
+              "width": 0.317416,
+              "height": 0.014545
+            },
+            "sourceElementId": "text_0021"
+          },
+          {
+            "speaker": null,
+            "content": "your birthday It will be really fun. | can't wait!",
+            "confidence": 0.887,
+            "bbox": {
+              "x": 0.513644,
+              "y": 0.406061,
+              "width": 0.306982,
+              "height": 0.013333
+            },
+            "sourceElementId": "text_0024"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "3",
+        "type": "exercise",
+        "instruction": "Underline these words in the text. Guess their meanings and",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "4",
+        "type": "matching",
+        "instruction": "Read again and match.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "1",
+        "type": "writing",
+        "instruction": "You write the person's email address here.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "writing",
+        "instruction": "You write what the email is about here.",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "An email is a message sent from",
+          "ABC",
+          "one computer to another.",
+          "TO",
+          "Kate@cyberspace. com",
+          "How to send an email ( From",
+          "Lucy",
+          "Subject",
+          "Re My birthday",
+          "First, use your mouse and click on To.",
+          "Type the person's email address.",
+          "Hi Kate",
+          "Now click on Subject and write what",
+          "Thanks for the invitation to your bowling party.",
+          "the email is about.",
+          "Yes, | can come, You know | really like bowling!",
+          "I'm really looking forward to seeing everyone on",
+          "Write your message.",
+          "your birthday It will be really fun. | can't wait!",
+          "Did you have a good vacation?",
+          "You can also send photos with your",
+          "email.",
+          "See you on Saturday",
+          "From Lucy",
+          "Finally, click on Send to send your",
+          "Hi Lucy",
+          "message to your friend."
+        ],
+        "position": {
+          "x": 0.088347,
+          "y": 0.215152,
+          "width": 0.767528,
+          "height": 0.30082
+        },
+        "textElementIds": [
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Its my birthday next week and I'm having a bowling",
+          "party on May 8th at the Bowl plex. The bowling starts",
+          "at 3 oclock and there will be drinks and birthday cake",
+          "afterwards. | hope you can come!",
+          "Kate",
+          "3 Underline these words in the text. Guess their meanings and",
+          "then check them in the Workbook 4 Dictionary (page 136).",
+          "type the email address subject attach a photo",
+          "send a message",
+          "click on"
+        ],
+        "position": {
+          "x": 0.052632,
+          "y": 0.48363599999999995,
+          "width": 0.834142,
+          "height": 0.266475
+        },
+        "textElementIds": [
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040",
+          "text_0041",
+          "text_0042"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "4 Read again and match.",
+          "D em",
+          "1 You write the person's email address here.",
+          "2 You write what the email is about here.",
+          "3 You send your message by clicking on this."
+        ],
+        "position": {
+          "x": 0.05183,
+          "y": 0.733636,
+          "width": 0.8445739999999999,
+          "height": 0.1463850000000001
+        },
+        "textElementIds": [
+          "text_0043",
+          "text_0044",
+          "text_0045",
+          "text_0046",
+          "text_0047"
+        ]
+      }
+    ],
+    "excludedGarbage": [
+      "1 Look at the email. What is it about? 2 Listen and read. ©) 90"
+    ]
+  },
+  "learningContent": {
+    "pageType": "skills_time",
+    "title": "Skills Time!",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "Type the person's email address.",
+            "confidence": 0.8801
+          },
+          {
+            "speaker": null,
+            "content": "Yes, | can come, You know | really like bowling!",
+            "confidence": 0.919
+          },
+          {
+            "speaker": null,
+            "content": "your birthday It will be really fun. | can't wait!",
+            "confidence": 0.887
+          }
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "title": "Skills Time!",
+        "paragraphs": [
+          "An email is a message sent from",
+          "How to send an email ( From",
+          "Now click on Subject and write what",
+          "I'm really looking forward to seeing everyone on",
+          "You can also send photos with your",
+          "Its my birthday next week and I'm having a bowling",
+          "at 3 oclock and there will be drinks and birthday cake",
+          "type the email address subject attach a photo"
+        ],
+        "sentences": [
+          "Skills Time",
+          "Lesson Five Reading What is an email",
+          "An email is a message sent from ABC one computer to another",
+          "TO Kate@cyberspace",
+          "com How to send an email ( From Lucy Subject Re My birthday First, use your mouse and click on To",
+          "Type the person's email address",
+          "Hi Kate Now click on Subject and write what Thanks for the invitation to your bowling party",
+          "the email is about",
+          "Yes, | can come, You know | really like bowling",
+          "I'm really looking forward to seeing everyone on Write your message",
+          "your birthday It will be really fun",
+          "| can't wait",
+          "Did you have a good vacation",
+          "You can also send photos with your email",
+          "See you on Saturday From Lucy Finally, click on Send to send your Hi Lucy message to your friend",
+          "Its my birthday next week and I'm having a bowling party on May 8th at the Bowl plex",
+          "The bowling starts at 3 oclock and there will be drinks and birthday cake afterwards",
+          "| hope you can come",
+          "Kate 3 Underline these words in the text",
+          "Guess their meanings and then check them in the Workbook 4 Dictionary (page 136)",
+          "type the email address subject attach a photo send a message click on 4 Read again and match",
+          "D em 1 You write the person's email address here",
+          "2 You write what the email is about here",
+          "3 You send your message by clicking on this",
+          "4 You add pictures with this",
+          "Subject Unit 10 Words in context: sending emails Reading: online instructions"
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "3",
+        "type": "exercise",
+        "instruction": "Underline these words in the text. Guess their meanings and",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "4",
+        "type": "matching",
+        "instruction": "Read again and match.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "1",
+        "type": "writing",
+        "instruction": "You write the person's email address here.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "writing",
+        "instruction": "You write what the email is about here.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "8 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "1 garbage string(s) excluded"
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "garbageExcluded": 2,
+      "multiword": 1
+    },
+    "averageOcrConfidence": 0.8675,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Family and Friends 4 Student Book (American)",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_ff4_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

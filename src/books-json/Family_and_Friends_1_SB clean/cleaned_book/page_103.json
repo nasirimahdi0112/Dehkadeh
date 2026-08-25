@@ -1,0 +1,3172 @@
+{
+  "pageNumber": 102,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "verified sequential printed-footer pattern",
+  "pdfPageNumber": 103,
+  "source": {
+    "pdfFile": "Family and Friends 1 SB_Part2.pdf",
+    "pdfLocalPageNumber": 5,
+    "pageSizePoints": {
+      "width": 595.2,
+      "height": 796.32
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Review 4",
+        "confidence": 0.7743,
+        "bbox": {
+          "x": 0.057333,
+          "y": 0.046361,
+          "width": 0.122667,
+          "height": 0.022931
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0002",
+        "type": "instruction",
+        "content": "1 Circle the odd-one-out. Write.",
+        "confidence": 0.88,
+        "bbox": {
+          "x": 0.074597,
+          "y": 0.094635,
+          "width": 0.354839,
+          "height": 0.015069
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Circle theodd-one-out.Write.",
+            "confidence": 0.8846
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Circle the odd-one-out. Write.",
+            "confidence": 0.88
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "mane",
+        "confidence": 0.7055,
+        "bbox": {
+          "x": 0.815333,
+          "y": 0.126122,
+          "width": 0.063333,
+          "height": 0.013958
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "diamond",
+        "confidence": 0.8131,
+        "bbox": {
+          "x": 0.646,
+          "y": 0.12662,
+          "width": 0.095333,
+          "height": 0.016949
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "idol",
+            "confidence": 0.33
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 | triangle diamond | __mane_ __",
+            "confidence": 0.7643
+          },
+          {
+            "engine": "rapidocr",
+            "content": "diamond",
+            "confidence": 0.8131
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "heading",
+        "content": "triangle",
+        "confidence": 0.8774,
+        "bbox": {
+          "x": 0.162,
+          "y": 0.127119,
+          "width": 0.084667,
+          "height": 0.01994
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "iaG",
+            "confidence": 0.0
+          },
+          {
+            "engine": "rapidocr",
+            "content": "triangle",
+            "confidence": 0.8774
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "heading",
+        "content": "circle",
+        "confidence": 0.7152,
+        "bbox": {
+          "x": 0.350667,
+          "y": 0.127119,
+          "width": 0.056,
+          "height": 0.017946
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0007",
+        "type": "heading",
+        "content": "mane",
+        "confidence": 0.7965,
+        "bbox": {
+          "x": 0.497333,
+          "y": 0.129611,
+          "width": 0.062,
+          "height": 0.016949
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "seal",
+        "confidence": 0.79,
+        "bbox": {
+          "x": 0.533333,
+          "y": 0.170489,
+          "width": 0.049333,
+          "height": 0.021436
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "tiger",
+        "confidence": 0.7808,
+        "bbox": {
+          "x": 0.682667,
+          "y": 0.171486,
+          "width": 0.052667,
+          "height": 0.01994
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "2 | giraffe tiger",
+        "confidence": 0.9475,
+        "bbox": {
+          "x": 0.114113,
+          "y": 0.172092,
+          "width": 0.618145,
+          "height": 0.02381
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "giraffe",
+            "confidence": 0.835
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 | giraffe tiger",
+            "confidence": 0.9475
+          },
+          {
+            "engine": "rapidocr",
+            "content": "rectangle",
+            "confidence": 0.8384
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "milk",
+        "confidence": 0.7664,
+        "bbox": {
+          "x": 0.164667,
+          "y": 0.217348,
+          "width": 0.048,
+          "height": 0.018445
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "hotchocolate",
+        "confidence": 0.8575,
+        "bbox": {
+          "x": 0.44,
+          "y": 0.217348,
+          "width": 0.141333,
+          "height": 0.018943
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "3 | milk feather",
+        "confidence": 0.89,
+        "bbox": {
+          "x": 0.115323,
+          "y": 0.217601,
+          "width": 0.619355,
+          "height": 0.020494
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "feather",
+            "confidence": 0.8064
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 | milk feather",
+            "confidence": 0.89
+          },
+          {
+            "engine": "rapidocr",
+            "content": "water",
+            "confidence": 0.69
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "polarbear",
+        "confidence": 0.8951,
+        "bbox": {
+          "x": 0.626667,
+          "y": 0.260718,
+          "width": 0.110667,
+          "height": 0.020937
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 | snake ( yogurt ) polarbear | —",
+            "confidence": 0.7989
+          },
+          {
+            "engine": "rapidocr",
+            "content": "monkey",
+            "confidence": 0.7824
+          },
+          {
+            "engine": "rapidocr",
+            "content": "polarbear",
+            "confidence": 0.8951
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "snake",
+        "confidence": 0.819,
+        "bbox": {
+          "x": 0.156667,
+          "y": 0.262213,
+          "width": 0.064667,
+          "height": 0.018943
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "yogurt",
+        "confidence": 0.8503,
+        "bbox": {
+          "x": 0.3,
+          "y": 0.263709,
+          "width": 0.074,
+          "height": 0.020937
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "It has",
+        "confidence": 0.7345,
+        "bbox": {
+          "x": 0.215333,
+          "y": 0.318046,
+          "width": 0.071333,
+          "height": 0.01994
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Write.",
+            "confidence": 0.6392
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Write. Ithas It doesn't have",
+            "confidence": 0.615
+          },
+          {
+            "engine": "rapidocr",
+            "content": "It has",
+            "confidence": 0.7345
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "Itdoesn'thave",
+        "confidence": 0.8842,
+        "bbox": {
+          "x": 0.321333,
+          "y": 0.319043,
+          "width": 0.166667,
+          "height": 0.017946
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "It has",
+        "confidence": 0.7697,
+        "bbox": {
+          "x": 0.612,
+          "y": 0.373878,
+          "width": 0.069333,
+          "height": 0.019442
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "Thisanimalistall.",
+        "confidence": 0.8579,
+        "bbox": {
+          "x": 0.364667,
+          "y": 0.376869,
+          "width": 0.181333,
+          "height": 0.016451
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "a long neck.",
+            "confidence": 0.7639
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": ", This animal is tall. It has a long neck.",
+            "confidence": 0.793
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Thisanimalistall.",
+            "confidence": 0.8579
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "four legs.",
+        "confidence": 0.8589,
+        "bbox": {
+          "x": 0.54,
+          "y": 0.407278,
+          "width": 0.098667,
+          "height": 0.021934
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "four legs. big ears.",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.543548,
+          "y": 0.40868,
+          "width": 0.360484,
+          "height": 0.017782
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "big ears.",
+            "confidence": 0.8551
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "four legs. big ears.",
+            "confidence": 0.955
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "This animal is big.",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.368548,
+          "y": 0.487342,
+          "width": 0.180645,
+          "height": 0.016878
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "This animal is big.",
+            "confidence": 0.7868
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "This animal is big.",
+            "confidence": 0.9575
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "fur.",
+        "confidence": 0.777,
+        "bbox": {
+          "x": 0.543333,
+          "y": 0.517946,
+          "width": 0.039333,
+          "height": 0.019442
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "fur. fingers.",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.547984,
+          "y": 0.518385,
+          "width": 0.288306,
+          "height": 0.020193
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "fingers.",
+            "confidence": 0.8866
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "fur. fingers.",
+            "confidence": 0.955
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "This animal is little.",
+        "confidence": 0.9375,
+        "bbox": {
+          "x": 0.368548,
+          "y": 0.592224,
+          "width": 0.191935,
+          "height": 0.014165
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Thisanimalislittle.",
+            "confidence": 0.8899
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "This animal is little.",
+            "confidence": 0.9375
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "four wings.",
+        "confidence": 0.8669,
+        "bbox": {
+          "x": 0.544667,
+          "y": 0.621635,
+          "width": 0.118,
+          "height": 0.021436
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "four wings. two wings.",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.546774,
+          "y": 0.624171,
+          "width": 0.402419,
+          "height": 0.017782
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "two wings.",
+            "confidence": 0.8678
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "four wings. two wings.",
+            "confidence": 0.9575
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "This animal is long.",
+        "confidence": 0.9525,
+        "bbox": {
+          "x": 0.368548,
+          "y": 0.696805,
+          "width": 0.194355,
+          "height": 0.017782
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "This animal is long",
+            "confidence": 0.9139
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "This animal is long.",
+            "confidence": 0.9525
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "legs.",
+        "confidence": 0.8119,
+        "bbox": {
+          "x": 0.543333,
+          "y": 0.726321,
+          "width": 0.052667,
+          "height": 0.022931
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "legs. two eyes.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.549194,
+          "y": 0.727848,
+          "width": 0.320968,
+          "height": 0.019892
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "two eyes.",
+            "confidence": 0.8194
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "legs. two eyes.",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "instruction",
+        "content": "Look andwrite.",
+        "confidence": 0.8695,
+        "bbox": {
+          "x": 0.097333,
+          "y": 0.781655,
+          "width": 0.18,
+          "height": 0.017946
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Lookand write. | Take Hurry Put OK",
+            "confidence": 0.695
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Look andwrite.",
+            "confidence": 0.8695
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "Huriy",
+        "confidence": 0.6476,
+        "bbox": {
+          "x": 0.408,
+          "y": 0.782154,
+          "width": 0.066,
+          "height": 0.022433
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "Take",
+        "confidence": 0.7926,
+        "bbox": {
+          "x": 0.323333,
+          "y": 0.782652,
+          "width": 0.055333,
+          "height": 0.019442
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "Put",
+        "confidence": 0.7336,
+        "bbox": {
+          "x": 0.504667,
+          "y": 0.782652,
+          "width": 0.040667,
+          "height": 0.018943
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "OK",
+        "confidence": 0.614,
+        "bbox": {
+          "x": 0.576667,
+          "y": 0.782652,
+          "width": 0.034667,
+          "height": 0.017946
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "Hurry",
+        "confidence": 0.816,
+        "bbox": {
+          "x": 0.115333,
+          "y": 0.825523,
+          "width": 0.089333,
+          "height": 0.022931
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Hurry",
+            "confidence": 0.816
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Hurry up, please, “taal",
+            "confidence": 0.485
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "off your",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.810081,
+          "y": 0.828511,
+          "width": 0.068145,
+          "height": 0.016878
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "off your",
+            "confidence": 0.8501
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "off your",
+            "confidence": 0.94
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "up,please.",
+        "confidence": 0.8594,
+        "bbox": {
+          "x": 0.191333,
+          "y": 0.83001,
+          "width": 0.102667,
+          "height": 0.018445
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "shoes, please.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.751613,
+          "y": 0.849005,
+          "width": 0.118548,
+          "height": 0.015973
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "shoes,please.",
+            "confidence": 0.8052
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "shoes, please.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "label",
+        "content": "on your coat.",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.171774,
+          "y": 0.851417,
+          "width": 0.117339,
+          "height": 0.015069
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "on your coat.",
+            "confidence": 0.8292
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "on your coat.",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "label",
+        "content": "Yes,",
+        "confidence": 0.7563,
+        "bbox": {
+          "x": 0.274,
+          "y": 0.928215,
+          "width": 0.032,
+          "height": 0.014955
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0043",
+        "type": "label",
+        "content": "102",
+        "confidence": 0.749,
+        "bbox": {
+          "x": 0.02,
+          "y": 0.949153,
+          "width": 0.044,
+          "height": 0.018445
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0044",
+        "type": "heading",
+        "content": "Review 4",
+        "confidence": 0.945,
+        "bbox": {
+          "x": 0.109677,
+          "y": 0.953586,
+          "width": 0.067742,
+          "height": 0.010247
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Review4",
+            "confidence": 0.7949
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Review 4",
+            "confidence": 0.945
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "writing_activity",
+        "instruction": "Circle the odd-one-out. Write.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0002"
+        ],
+        "confidence": 0.88
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "milk",
+          "hotchocolate",
+          "3 | milk feather",
+          "polarbear",
+          "snake",
+          "yogurt",
+          "It has",
+          "Itdoesn'thave",
+          "It has",
+          "Thisanimalistall.",
+          "four legs.",
+          "four legs. big ears."
+        ],
+        "position": {
+          "x": 0.095323,
+          "y": 0.197348,
+          "width": 0.828709,
+          "height": 0.251864
+        },
+        "textElementIds": [
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "This animal is big.",
+          "fur.",
+          "fur. fingers.",
+          "This animal is little.",
+          "four wings.",
+          "four wings. two wings."
+        ],
+        "position": {
+          "x": 0.348548,
+          "y": 0.467342,
+          "width": 0.620645,
+          "height": 0.195729
+        },
+        "textElementIds": [
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "This animal is long.",
+          "legs.",
+          "legs. two eyes.",
+          "Look andwrite.",
+          "Huriy",
+          "Take",
+          "Put",
+          "OK",
+          "Hurry",
+          "off your",
+          "up,please.",
+          "shoes, please.",
+          "on your coat."
+        ],
+        "position": {
+          "x": 0.077333,
+          "y": 0.676805,
+          "width": 0.820893,
+          "height": 0.209681
+        },
+        "textElementIds": [
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040",
+          "text_0041"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "rawOcrAudit": {
+      "rapidocr": "Review 4\nCircle theodd-one-out.Write.\nmane\ndiamond\ntriangle\ncircle\nmane\ngiraffe\nseal\ntiger\nrectangle\nfeather\nmilk\nhotchocolate\nwater\nmonkey\npolarbear\nsnake\nyogurt\nWrite.\nIt has\nItdoesn'thave\nIt has\na long neck.\nThisanimalistall.\nbig ears.\nfour legs.\nThis animal is big.\nfingers.\nfur.\nThisanimalislittle.\ntwo wings.\nfour wings.\nThis animal is long\nlegs.\ntwo eyes.\nLook andwrite.\nHuriy\nTake\nPut\nOK\nHurry\noff your\nup,please.\nshoes,please.\non your coat.\nYes,\n102\nReview4",
+      "tesseract_psm3": "1 Circle the odd-one-out. Write.\n\n1 | triangle diamond | __mane_ __\n2 | giraffe tiger\n3 | milk feather\n4 | snake ( yogurt ) polarbear | —\n\n2 Write. Ithas It doesn't have\n\niaG\nidol\n\n, This animal is tall. It has a long neck.\n\nfour legs. big ears.\n\nThis animal is big.\n\nfur. fingers.\n\nThis animal is little.\n\nThis animal is long.\n\nlegs. two eyes.\n\n3 Lookand write. | Take Hurry Put OK\n\noff your\nshoes, please.\n\nHurry up, please, “taal\n\non your coat.\n\nReview 4\n\nfour wings. two wings.\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": "",
+      "footer_passes": [
+        "ag i) a ON\nReview 4",
+        "———l\n\nace\n\nee\n\na\n\n\\}\n\nee\n\nReview 4"
+      ]
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8416,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "16 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "review",
+    "pagePurpose": null,
+    "readingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "headings": [
+      {
+        "id": "text_0001",
+        "content": "Review 4",
+        "confidence": 0.7743,
+        "bbox": {
+          "x": 0.057333,
+          "y": 0.046361,
+          "width": 0.122667,
+          "height": 0.022931
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0001"
+        ]
+      },
+      {
+        "id": "text_0003",
+        "content": "mane",
+        "confidence": 0.7055,
+        "bbox": {
+          "x": 0.815333,
+          "y": 0.126122,
+          "width": 0.063333,
+          "height": 0.013958
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0003"
+        ]
+      },
+      {
+        "id": "text_0004",
+        "content": "diamond",
+        "confidence": 0.8131,
+        "bbox": {
+          "x": 0.646,
+          "y": 0.12662,
+          "width": 0.095333,
+          "height": 0.016949
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      },
+      {
+        "id": "text_0005",
+        "content": "triangle",
+        "confidence": 0.8774,
+        "bbox": {
+          "x": 0.162,
+          "y": 0.127119,
+          "width": 0.084667,
+          "height": 0.01994
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0005"
+        ]
+      },
+      {
+        "id": "text_0006",
+        "content": "circle",
+        "confidence": 0.7152,
+        "bbox": {
+          "x": 0.350667,
+          "y": 0.127119,
+          "width": 0.056,
+          "height": 0.017946
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0006"
+        ]
+      },
+      {
+        "id": "text_0007",
+        "content": "mane",
+        "confidence": 0.7965,
+        "bbox": {
+          "x": 0.497333,
+          "y": 0.129611,
+          "width": 0.062,
+          "height": 0.016949
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0007"
+        ]
+      },
+      {
+        "id": "text_0044",
+        "content": "Review 4",
+        "confidence": 0.945,
+        "bbox": {
+          "x": 0.109677,
+          "y": 0.953586,
+          "width": 0.067742,
+          "height": 0.010247
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0044"
+        ]
+      }
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Review 4",
+        "originalContent": "Review 4",
+        "confidence": 0.7743,
+        "bbox": {
+          "x": 0.057333,
+          "y": 0.046361,
+          "width": 0.122667,
+          "height": 0.022931
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0002",
+        "type": "instruction",
+        "content": "1 Circle the odd-one-out. Write.",
+        "originalContent": "1 Circle the odd-one-out. Write.",
+        "confidence": 0.88,
+        "bbox": {
+          "x": 0.074597,
+          "y": 0.094635,
+          "width": 0.354839,
+          "height": 0.015069
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Circle theodd-one-out.Write.",
+            "confidence": 0.8846
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Circle the odd-one-out. Write.",
+            "confidence": 0.88
+          }
+        ]
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "mane",
+        "originalContent": "mane",
+        "confidence": 0.7055,
+        "bbox": {
+          "x": 0.815333,
+          "y": 0.126122,
+          "width": 0.063333,
+          "height": 0.013958
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "diamond",
+        "originalContent": "diamond",
+        "confidence": 0.8131,
+        "bbox": {
+          "x": 0.646,
+          "y": 0.12662,
+          "width": 0.095333,
+          "height": 0.016949
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "idol",
+            "confidence": 0.33
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 | triangle diamond | __mane_ __",
+            "confidence": 0.7643
+          },
+          {
+            "engine": "rapidocr",
+            "content": "diamond",
+            "confidence": 0.8131
+          }
+        ]
+      },
+      {
+        "id": "text_0005",
+        "type": "heading",
+        "content": "triangle",
+        "originalContent": "triangle",
+        "confidence": 0.8774,
+        "bbox": {
+          "x": 0.162,
+          "y": 0.127119,
+          "width": 0.084667,
+          "height": 0.01994
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "iaG",
+            "confidence": 0.0
+          },
+          {
+            "engine": "rapidocr",
+            "content": "triangle",
+            "confidence": 0.8774
+          }
+        ]
+      },
+      {
+        "id": "text_0006",
+        "type": "heading",
+        "content": "circle",
+        "originalContent": "circle",
+        "confidence": 0.7152,
+        "bbox": {
+          "x": 0.350667,
+          "y": 0.127119,
+          "width": 0.056,
+          "height": 0.017946
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0007",
+        "type": "heading",
+        "content": "mane",
+        "originalContent": "mane",
+        "confidence": 0.7965,
+        "bbox": {
+          "x": 0.497333,
+          "y": 0.129611,
+          "width": 0.062,
+          "height": 0.016949
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "seal",
+        "originalContent": "seal",
+        "confidence": 0.79,
+        "bbox": {
+          "x": 0.533333,
+          "y": 0.170489,
+          "width": 0.049333,
+          "height": 0.021436
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "tiger",
+        "originalContent": "tiger",
+        "confidence": 0.7808,
+        "bbox": {
+          "x": 0.682667,
+          "y": 0.171486,
+          "width": 0.052667,
+          "height": 0.01994
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "2 | giraffe tiger",
+        "originalContent": "2 | giraffe tiger",
+        "confidence": 0.9475,
+        "bbox": {
+          "x": 0.114113,
+          "y": 0.172092,
+          "width": 0.618145,
+          "height": 0.02381
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "giraffe",
+            "confidence": 0.835
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 | giraffe tiger",
+            "confidence": 0.9475
+          },
+          {
+            "engine": "rapidocr",
+            "content": "rectangle",
+            "confidence": 0.8384
+          }
+        ]
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "milk",
+        "originalContent": "milk",
+        "confidence": 0.7664,
+        "bbox": {
+          "x": 0.164667,
+          "y": 0.217348,
+          "width": 0.048,
+          "height": 0.018445
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "hot chocolate",
+        "originalContent": "hotchocolate",
+        "confidence": 0.8575,
+        "bbox": {
+          "x": 0.44,
+          "y": 0.217348,
+          "width": 0.141333,
+          "height": 0.018943
+        },
+        "repaired": true,
+        "repairNotes": [
+          "missing_spaces_split"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "3 | milk feather",
+        "originalContent": "3 | milk feather",
+        "confidence": 0.89,
+        "bbox": {
+          "x": 0.115323,
+          "y": 0.217601,
+          "width": 0.619355,
+          "height": 0.020494
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "feather",
+            "confidence": 0.8064
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 | milk feather",
+            "confidence": 0.89
+          },
+          {
+            "engine": "rapidocr",
+            "content": "water",
+            "confidence": 0.69
+          }
+        ]
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "polar bear",
+        "originalContent": "polarbear",
+        "confidence": 0.8951,
+        "bbox": {
+          "x": 0.626667,
+          "y": 0.260718,
+          "width": 0.110667,
+          "height": 0.020937
+        },
+        "repaired": true,
+        "repairNotes": [
+          "missing_spaces_split"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 | snake ( yogurt ) polarbear | —",
+            "confidence": 0.7989
+          },
+          {
+            "engine": "rapidocr",
+            "content": "monkey",
+            "confidence": 0.7824
+          },
+          {
+            "engine": "rapidocr",
+            "content": "polarbear",
+            "confidence": 0.8951
+          }
+        ]
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "snake",
+        "originalContent": "snake",
+        "confidence": 0.819,
+        "bbox": {
+          "x": 0.156667,
+          "y": 0.262213,
+          "width": 0.064667,
+          "height": 0.018943
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "yogurt",
+        "originalContent": "yogurt",
+        "confidence": 0.8503,
+        "bbox": {
+          "x": 0.3,
+          "y": 0.263709,
+          "width": 0.074,
+          "height": 0.020937
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "It has",
+        "originalContent": "It has",
+        "confidence": 0.7345,
+        "bbox": {
+          "x": 0.215333,
+          "y": 0.318046,
+          "width": 0.071333,
+          "height": 0.01994
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Write.",
+            "confidence": 0.6392
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Write. Ithas It doesn't have",
+            "confidence": 0.615
+          },
+          {
+            "engine": "rapidocr",
+            "content": "It has",
+            "confidence": 0.7345
+          }
+        ]
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "It doesn't have",
+        "originalContent": "Itdoesn'thave",
+        "confidence": 0.8842,
+        "bbox": {
+          "x": 0.321333,
+          "y": 0.319043,
+          "width": 0.166667,
+          "height": 0.017946
+        },
+        "repaired": true,
+        "repairNotes": [
+          "missing_spaces_split"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "It has",
+        "originalContent": "It has",
+        "confidence": 0.7697,
+        "bbox": {
+          "x": 0.612,
+          "y": 0.373878,
+          "width": 0.069333,
+          "height": 0.019442
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "This animal is tall.",
+        "originalContent": "Thisanimalistall.",
+        "confidence": 0.8579,
+        "bbox": {
+          "x": 0.364667,
+          "y": 0.376869,
+          "width": 0.181333,
+          "height": 0.016451
+        },
+        "repaired": true,
+        "repairNotes": [
+          "missing_spaces_split"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "a long neck.",
+            "confidence": 0.7639
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": ", This animal is tall. It has a long neck.",
+            "confidence": 0.793
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Thisanimalistall.",
+            "confidence": 0.8579
+          }
+        ]
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "four legs.",
+        "originalContent": "four legs.",
+        "confidence": 0.8589,
+        "bbox": {
+          "x": 0.54,
+          "y": 0.407278,
+          "width": 0.098667,
+          "height": 0.021934
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "four legs. big ears.",
+        "originalContent": "four legs. big ears.",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.543548,
+          "y": 0.40868,
+          "width": 0.360484,
+          "height": 0.017782
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "big ears.",
+            "confidence": 0.8551
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "four legs. big ears.",
+            "confidence": 0.955
+          }
+        ]
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "This animal is big.",
+        "originalContent": "This animal is big.",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.368548,
+          "y": 0.487342,
+          "width": 0.180645,
+          "height": 0.016878
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "This animal is big.",
+            "confidence": 0.7868
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "This animal is big.",
+            "confidence": 0.9575
+          }
+        ]
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "fur.",
+        "originalContent": "fur.",
+        "confidence": 0.777,
+        "bbox": {
+          "x": 0.543333,
+          "y": 0.517946,
+          "width": 0.039333,
+          "height": 0.019442
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "fur. fingers.",
+        "originalContent": "fur. fingers.",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.547984,
+          "y": 0.518385,
+          "width": 0.288306,
+          "height": 0.020193
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "fingers.",
+            "confidence": 0.8866
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "fur. fingers.",
+            "confidence": 0.955
+          }
+        ]
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "This animal is little.",
+        "originalContent": "This animal is little.",
+        "confidence": 0.9375,
+        "bbox": {
+          "x": 0.368548,
+          "y": 0.592224,
+          "width": 0.191935,
+          "height": 0.014165
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Thisanimalislittle.",
+            "confidence": 0.8899
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "This animal is little.",
+            "confidence": 0.9375
+          }
+        ]
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "four wings.",
+        "originalContent": "four wings.",
+        "confidence": 0.8669,
+        "bbox": {
+          "x": 0.544667,
+          "y": 0.621635,
+          "width": 0.118,
+          "height": 0.021436
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "four wings. two wings.",
+        "originalContent": "four wings. two wings.",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.546774,
+          "y": 0.624171,
+          "width": 0.402419,
+          "height": 0.017782
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "two wings.",
+            "confidence": 0.8678
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "four wings. two wings.",
+            "confidence": 0.9575
+          }
+        ]
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "This animal is long.",
+        "originalContent": "This animal is long.",
+        "confidence": 0.9525,
+        "bbox": {
+          "x": 0.368548,
+          "y": 0.696805,
+          "width": 0.194355,
+          "height": 0.017782
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "This animal is long",
+            "confidence": 0.9139
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "This animal is long.",
+            "confidence": 0.9525
+          }
+        ]
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "legs.",
+        "originalContent": "legs.",
+        "confidence": 0.8119,
+        "bbox": {
+          "x": 0.543333,
+          "y": 0.726321,
+          "width": 0.052667,
+          "height": 0.022931
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "legs. two eyes.",
+        "originalContent": "legs. two eyes.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.549194,
+          "y": 0.727848,
+          "width": 0.320968,
+          "height": 0.019892
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "two eyes.",
+            "confidence": 0.8194
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "legs. two eyes.",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0032",
+        "type": "instruction",
+        "content": "Look and Write.",
+        "originalContent": "Look andwrite.",
+        "confidence": 0.8695,
+        "bbox": {
+          "x": 0.097333,
+          "y": 0.781655,
+          "width": 0.18,
+          "height": 0.017946
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase_space_restored"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Lookand write. | Take Hurry Put OK",
+            "confidence": 0.695
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Look andwrite.",
+            "confidence": 0.8695
+          }
+        ]
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "Huriy",
+        "originalContent": "Huriy",
+        "confidence": 0.6476,
+        "bbox": {
+          "x": 0.408,
+          "y": 0.782154,
+          "width": 0.066,
+          "height": 0.022433
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "Take",
+        "originalContent": "Take",
+        "confidence": 0.7926,
+        "bbox": {
+          "x": 0.323333,
+          "y": 0.782652,
+          "width": 0.055333,
+          "height": 0.019442
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "Put",
+        "originalContent": "Put",
+        "confidence": 0.7336,
+        "bbox": {
+          "x": 0.504667,
+          "y": 0.782652,
+          "width": 0.040667,
+          "height": 0.018943
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "OK",
+        "originalContent": "OK",
+        "confidence": 0.614,
+        "bbox": {
+          "x": 0.576667,
+          "y": 0.782652,
+          "width": 0.034667,
+          "height": 0.017946
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "Hurry",
+        "originalContent": "Hurry",
+        "confidence": 0.816,
+        "bbox": {
+          "x": 0.115333,
+          "y": 0.825523,
+          "width": 0.089333,
+          "height": 0.022931
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Hurry",
+            "confidence": 0.816
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Hurry up, please, “taal",
+            "confidence": 0.485
+          }
+        ]
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "off your",
+        "originalContent": "off your",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.810081,
+          "y": 0.828511,
+          "width": 0.068145,
+          "height": 0.016878
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "off your",
+            "confidence": 0.8501
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "off your",
+            "confidence": 0.94
+          }
+        ]
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "up, please.",
+        "originalContent": "up,please.",
+        "confidence": 0.8594,
+        "bbox": {
+          "x": 0.191333,
+          "y": 0.83001,
+          "width": 0.102667,
+          "height": 0.018445
+        },
+        "repaired": true,
+        "repairNotes": [
+          "missing_spaces_split"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "shoes, please.",
+        "originalContent": "shoes, please.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.751613,
+          "y": 0.849005,
+          "width": 0.118548,
+          "height": 0.015973
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "shoes,please.",
+            "confidence": 0.8052
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "shoes, please.",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0041",
+        "type": "label",
+        "content": "on your coat.",
+        "originalContent": "on your coat.",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.171774,
+          "y": 0.851417,
+          "width": 0.117339,
+          "height": 0.015069
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "on your coat.",
+            "confidence": 0.8292
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "on your coat.",
+            "confidence": 0.9533
+          }
+        ]
+      },
+      {
+        "id": "text_0042",
+        "type": "label",
+        "content": "Yes,",
+        "originalContent": "Yes,",
+        "confidence": 0.7563,
+        "bbox": {
+          "x": 0.274,
+          "y": 0.928215,
+          "width": 0.032,
+          "height": 0.014955
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0044",
+        "type": "heading",
+        "content": "Review 4",
+        "originalContent": "Review 4",
+        "confidence": 0.945,
+        "bbox": {
+          "x": 0.109677,
+          "y": 0.953586,
+          "width": 0.067742,
+          "height": 0.010247
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Review4",
+            "confidence": 0.7949
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Review 4",
+            "confidence": 0.945
+          }
+        ]
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Review 4",
+      "1 Circle the odd-one-out. Write.",
+      "mane",
+      "diamond",
+      "triangle",
+      "circle",
+      "mane",
+      "seal",
+      "tiger",
+      "2 | giraffe tiger",
+      "milk",
+      "hot chocolate",
+      "3 | milk feather",
+      "polar bear",
+      "snake",
+      "yogurt",
+      "It has",
+      "It doesn't have",
+      "It has",
+      "This animal is tall.",
+      "four legs.",
+      "four legs. big ears.",
+      "This animal is big.",
+      "fur.",
+      "fur. fingers.",
+      "This animal is little.",
+      "four wings.",
+      "four wings. two wings.",
+      "This animal is long.",
+      "legs.",
+      "legs. two eyes.",
+      "Look and Write.",
+      "Huriy",
+      "Take",
+      "Put",
+      "OK",
+      "Hurry",
+      "off your",
+      "up, please.",
+      "shoes, please.",
+      "on your coat.",
+      "Yes,",
+      "Review 4"
+    ],
+    "paragraphs": [],
+    "sentences": [
+      {
+        "id": "text_0042",
+        "content": "Yes,",
+        "confidence": 0.7563,
+        "bbox": {
+          "x": 0.274,
+          "y": 0.928215,
+          "width": 0.032,
+          "height": 0.014955
+        },
+        "sourceElementIds": [
+          "text_0042"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "mane",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7055,
+        "sourceElementIds": [
+          "text_0003"
+        ],
+        "verification": {
+          "method": "filtered",
+          "verified": false
+        }
+      },
+      {
+        "word": "diamond",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8131,
+        "sourceElementIds": [
+          "text_0004"
+        ],
+        "verification": {
+          "method": "filtered",
+          "verified": false
+        }
+      },
+      {
+        "word": "triangle",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8774,
+        "sourceElementIds": [
+          "text_0005"
+        ],
+        "verification": {
+          "method": "filtered",
+          "verified": false
+        }
+      },
+      {
+        "word": "seal",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.79,
+        "sourceElementIds": [
+          "text_0008"
+        ],
+        "verification": {
+          "method": "filtered",
+          "verified": false
+        }
+      },
+      {
+        "word": "tiger",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7808,
+        "sourceElementIds": [
+          "text_0009"
+        ],
+        "verification": {
+          "method": "filtered",
+          "verified": false
+        }
+      },
+      {
+        "word": "milk",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7664,
+        "sourceElementIds": [
+          "text_0011"
+        ],
+        "verification": {
+          "method": "filtered",
+          "verified": false
+        }
+      },
+      {
+        "word": "polar bear",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8951,
+        "sourceElementIds": [
+          "text_0014"
+        ],
+        "verification": {
+          "method": "filtered",
+          "verified": false
+        }
+      },
+      {
+        "word": "snake",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.819,
+        "sourceElementIds": [
+          "text_0015"
+        ],
+        "verification": {
+          "method": "filtered",
+          "verified": false
+        }
+      },
+      {
+        "word": "yogurt",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8503,
+        "sourceElementIds": [
+          "text_0016"
+        ],
+        "verification": {
+          "method": "filtered",
+          "verified": false
+        }
+      },
+      {
+        "word": "fur",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.777,
+        "sourceElementIds": [
+          "text_0024"
+        ],
+        "verification": {
+          "method": "filtered",
+          "verified": false
+        }
+      },
+      {
+        "word": "Hurry",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.816,
+        "sourceElementIds": [
+          "text_0037"
+        ],
+        "verification": {
+          "method": "filtered",
+          "verified": false
+        }
+      },
+      {
+        "word": "off your",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.94,
+        "sourceElementIds": [
+          "text_0038"
+        ],
+        "verification": {
+          "method": "filtered",
+          "verified": false
+        }
+      }
+    ],
+    "grammar": [],
+    "dialogues": [],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "circle_exercise",
+        "instruction": "Circle the odd-one-out. Write.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.88,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "writing_activity",
+        "instruction": "Look and Write.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8695,
+        "sourceElementIds": [
+          "text_0032"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "circle_exercise",
+        "instruction": "circle",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.7152,
+        "sourceElementIds": [
+          "text_0006"
+        ]
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "milk",
+          "hot chocolate",
+          "3 | milk feather",
+          "polar bear",
+          "snake",
+          "yogurt",
+          "It has",
+          "It doesn't have",
+          "It has",
+          "This animal is tall.",
+          "four legs.",
+          "four legs. big ears."
+        ],
+        "position": {
+          "x": 0.095323,
+          "y": 0.197348,
+          "width": 0.828709,
+          "height": 0.251864
+        },
+        "textElementIds": [
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "This animal is big.",
+          "fur.",
+          "fur. fingers.",
+          "This animal is little.",
+          "four wings.",
+          "four wings. two wings."
+        ],
+        "position": {
+          "x": 0.348548,
+          "y": 0.467342,
+          "width": 0.620645,
+          "height": 0.195729
+        },
+        "textElementIds": [
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "This animal is long.",
+          "legs.",
+          "legs. two eyes.",
+          "Look and Write.",
+          "Huriy",
+          "Take",
+          "Put",
+          "OK",
+          "Hurry",
+          "off your",
+          "up, please.",
+          "shoes, please.",
+          "on your coat."
+        ],
+        "position": {
+          "x": 0.077333,
+          "y": 0.676805,
+          "width": 0.820893,
+          "height": 0.209681
+        },
+        "textElementIds": [
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040",
+          "text_0041"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "nonEducationalText": [],
+    "excludedGarbage": [
+      {
+        "id": "text_0043",
+        "content": "102",
+        "originalContent": "102",
+        "confidence": 0.749
+      }
+    ]
+  },
+  "learningContent": {
+    "pageType": "review",
+    "title": "Review 4",
+    "learningObjectives": [],
+    "targetVocabulary": [
+      {
+        "word": "mane",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7055,
+        "sourceElementIds": [
+          "text_0003"
+        ]
+      },
+      {
+        "word": "diamond",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8131,
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      },
+      {
+        "word": "triangle",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8774,
+        "sourceElementIds": [
+          "text_0005"
+        ]
+      },
+      {
+        "word": "seal",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.79,
+        "sourceElementIds": [
+          "text_0008"
+        ]
+      },
+      {
+        "word": "tiger",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7808,
+        "sourceElementIds": [
+          "text_0009"
+        ]
+      },
+      {
+        "word": "milk",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7664,
+        "sourceElementIds": [
+          "text_0011"
+        ]
+      },
+      {
+        "word": "polar bear",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8951,
+        "sourceElementIds": [
+          "text_0014"
+        ]
+      },
+      {
+        "word": "snake",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.819,
+        "sourceElementIds": [
+          "text_0015"
+        ]
+      },
+      {
+        "word": "yogurt",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8503,
+        "sourceElementIds": [
+          "text_0016"
+        ]
+      },
+      {
+        "word": "fur",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.777,
+        "sourceElementIds": [
+          "text_0024"
+        ]
+      },
+      {
+        "word": "Hurry",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.816,
+        "sourceElementIds": [
+          "text_0037"
+        ]
+      },
+      {
+        "word": "off your",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.94,
+        "sourceElementIds": [
+          "text_0038"
+        ]
+      }
+    ],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "circle_exercise",
+        "instruction": "Circle the odd-one-out. Write.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.88,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "writing_activity",
+        "instruction": "Look and Write.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8695,
+        "sourceElementIds": [
+          "text_0032"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "circle_exercise",
+        "instruction": "circle",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.7152,
+        "sourceElementIds": [
+          "text_0006"
+        ]
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [
+      {
+        "exerciseNumber": null,
+        "instruction": "Look and Write.",
+        "type": "writing_activity",
+        "confidence": 0.8695
+      }
+    ],
+    "writing": [
+      {
+        "exerciseNumber": "1",
+        "instruction": "Circle the odd-one-out. Write.",
+        "type": "circle_exercise",
+        "confidence": 0.88
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Look and Write.",
+        "type": "writing_activity",
+        "confidence": 0.8695
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "circle",
+        "type": "circle_exercise",
+        "confidence": 0.7152
+      }
+    ],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "text_kept": 43,
+      "text_repaired": 6,
+      "garbage_excluded": 1,
+      "vocab_kept": 25,
+      "exercises_reconstructed": 3
+    },
+    "averageOcrConfidence": 0.8416
+  },
+  "metadata": {
+    "book": "Family and Friends 1 Student Book (American)",
+    "author": "Naomi Simmons",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_v1",
+    "originalOcrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "originalAverageConfidence": 0.8416,
+    "noHallucinationPolicy": "Definitions, translations, speaker names, answers, and grammar rules are null or omitted unless visibly supported by page OCR/PDF. Text repairs are limited to spacing, punctuation, and clear OCR character errors."
+  }
+}

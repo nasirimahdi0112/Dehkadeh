@@ -1,0 +1,4647 @@
+{
+  "pageNumber": 12,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 15,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 1_Part1.pdf",
+    "pdfLocalPageNumber": 15,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Names andJobs",
+        "confidence": 0.8302,
+        "bbox": {
+          "x": 0.126,
+          "y": 0.067491,
+          "width": 0.412667,
+          "height": 0.031942
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Names and Jobs",
+            "confidence": 0.6267
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Names andJobs",
+            "confidence": 0.8302
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "§) Reading 0",
+        "confidence": 0.6967,
+        "bbox": {
+          "x": 0.046667,
+          "y": 0.123333,
+          "width": 0.201961,
+          "height": 0.030606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "§) Reading 0",
+            "confidence": 0.6967
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Reading n",
+            "confidence": 0.7201
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0003",
+        "type": "label",
+        "content": "A Lookatthepictures.Whataretheirnames?",
+        "confidence": 0.9288,
+        "bbox": {
+          "x": 0.088667,
+          "y": 0.162803,
+          "width": 0.324,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Lookatthepictures.Whataretheirnames?",
+            "confidence": 0.9288
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Look at the pictures. What are their names?",
+            "confidence": 0.8778
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "sentence",
+        "content": "B Read the article. Are they all singers?",
+        "confidence": 0.9463,
+        "bbox": {
+          "x": 0.092941,
+          "y": 0.192727,
+          "width": 0.272941,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Read the article.Are they all singers?",
+            "confidence": 0.9021
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Read the article. Are they all singers?",
+            "confidence": 0.9463
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "FAMOUSNAMES",
+        "confidence": 0.878,
+        "bbox": {
+          "x": 0.12,
+          "y": 0.274601,
+          "width": 0.28,
+          "height": 0.019578
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "Zhang Ziyi is an",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.740392,
+          "y": 0.314545,
+          "width": 0.101961,
+          "height": 0.010909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Zhang Ziyi is an",
+            "confidence": 0.9073
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Zhang Ziyi is an",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Actor Tom Cruise",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.351765,
+          "y": 0.316364,
+          "width": 0.112549,
+          "height": 0.008788
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "ActorTomCruise",
+            "confidence": 0.9028
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Actor Tom Cruise",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "actress from China.",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.740784,
+          "y": 0.327576,
+          "width": 0.118824,
+          "height": 0.009091
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "actress from China.",
+            "confidence": 0.8994
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "actress from China.",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "uses his middle",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.352549,
+          "y": 0.329697,
+          "width": 0.095686,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "useshis middle",
+            "confidence": 0.8746
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "uses his middle",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "Zhang isn’t her first",
+        "confidence": 0.9425,
+        "bbox": {
+          "x": 0.740784,
+          "y": 0.340909,
+          "width": 0.117647,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Zhang isn't her first",
+            "confidence": 0.8562
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Zhang isn’t her first",
+            "confidence": 0.9425
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "instruction",
+        "content": "name as his last",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.352941,
+          "y": 0.342424,
+          "width": 0.099216,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "name as his last",
+            "confidence": 0.8392
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "name as his last",
+            "confidence": 0.9575
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "instruction",
+        "content": "name. It’s her family",
+        "confidence": 0.9175,
+        "bbox": {
+          "x": 0.741176,
+          "y": 0.353636,
+          "width": 0.121569,
+          "height": 0.010303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "name.It's her family",
+            "confidence": 0.8658
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "name. It’s her family",
+            "confidence": 0.9175
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "instruction",
+        "content": "name. His full name",
+        "confidence": 0.945,
+        "bbox": {
+          "x": 0.352941,
+          "y": 0.355455,
+          "width": 0.121961,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "name.Hisfull name",
+            "confidence": 0.8327
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "name. His full name",
+            "confidence": 0.945
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "instruction",
+        "content": "name. In China,",
+        "confidence": 0.9333,
+        "bbox": {
+          "x": 0.741569,
+          "y": 0.366667,
+          "width": 0.095686,
+          "height": 0.008788
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "name, In China,",
+            "confidence": 0.8595
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "name. In China,",
+            "confidence": 0.9333
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "is Thomas Cruise",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.352941,
+          "y": 0.368182,
+          "width": 0.107059,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "isThomasCruise",
+            "confidence": 0.8549
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "is Thomas Cruise",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "family names come",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.741961,
+          "y": 0.38,
+          "width": 0.118431,
+          "height": 0.010303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "family names come",
+            "confidence": 0.87
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "family names come",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Mapother. Tom is",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.353333,
+          "y": 0.381212,
+          "width": 0.106275,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Mapother.Tomis",
+            "confidence": 0.9
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Mapother. Tom is",
+            "confidence": 0.94
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "first.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.741961,
+          "y": 0.39303,
+          "width": 0.024706,
+          "height": 0.008182
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "first.",
+            "confidence": 0.793
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "first.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "short for Thomas.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.353333,
+          "y": 0.394242,
+          "width": 0.10902,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "short for Thomas.",
+            "confidence": 0.8875
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "short for Thomas.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "__ AES ees",
+        "confidence": 0.4233,
+        "bbox": {
+          "x": 0.770196,
+          "y": 0.437576,
+          "width": 0.068235,
+          "height": 0.007273
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "Shakira is'a singer",
+        "confidence": 0.9271,
+        "bbox": {
+          "x": 0.352667,
+          "y": 0.455435,
+          "width": 0.118667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Shakira is'a singer",
+            "confidence": 0.9271
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Shakira is‘a singer",
+            "confidence": 0.7233
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "Jay-Z is a hip-hop",
+        "confidence": 0.9325,
+        "bbox": {
+          "x": 0.742745,
+          "y": 0.456364,
+          "width": 0.113725,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Jay-Z is a hip-hop",
+            "confidence": 0.8824
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Jay-Z is a hip-hop",
+            "confidence": 0.9325
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "singer from the",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.743137,
+          "y": 0.469091,
+          "width": 0.091765,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "singerfrom the",
+            "confidence": 0.9001
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "singer from the",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "from Colombia. She",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.354118,
+          "y": 0.470303,
+          "width": 0.123922,
+          "height": 0.008788
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "from Colombia. She",
+            "confidence": 0.9533
+          },
+          {
+            "engine": "rapidocr",
+            "content": "fromColombia.She",
+            "confidence": 0.8498
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "United States. Jay-Z",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.743529,
+          "y": 0.481515,
+          "width": 0.124706,
+          "height": 0.010303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "United States. Jay-Z",
+            "confidence": 0.8912
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "United States. Jay-Z",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "uses only her first",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.35451,
+          "y": 0.483333,
+          "width": 0.107451,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "uses only her first",
+            "confidence": 0.8913
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "uses only her first",
+            "confidence": 0.9575
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "is his nickname. His",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.743529,
+          "y": 0.494848,
+          "width": 0.121176,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "ishisnickname.His",
+            "confidence": 0.9125
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "is his nickname. His",
+            "confidence": 0.9575
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "instruction",
+        "content": "name. Her full name",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.35451,
+          "y": 0.496364,
+          "width": 0.124314,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "name.Her full name",
+            "confidence": 0.8828
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "name. Her full name",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "real name is Shawn",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.743922,
+          "y": 0.507576,
+          "width": 0.119216,
+          "height": 0.008788
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "real name is Shawn",
+            "confidence": 0.811
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "real name is Shawn",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "is Shakira Isabel",
+        "confidence": 0.9333,
+        "bbox": {
+          "x": 0.355294,
+          "y": 0.509394,
+          "width": 0.098824,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "is Shakira Isabel",
+            "confidence": 0.8039
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "is Shakira Isabel",
+            "confidence": 0.9333
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "Corey Carter.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.743922,
+          "y": 0.520606,
+          "width": 0.08,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Corey Carter.",
+            "confidence": 0.8422
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Corey Carter.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "Mebarak Ripoll.",
+        "confidence": 0.865,
+        "bbox": {
+          "x": 0.355294,
+          "y": 0.522424,
+          "width": 0.095294,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Mebarak Ripoll.",
+            "confidence": 0.8341
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Mebarak Ripoll.",
+            "confidence": 0.865
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "Madonna is not a",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.74549,
+          "y": 0.597273,
+          "width": 0.110196,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Madonna is not a",
+            "confidence": 0.8744
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Madonna is not a",
+            "confidence": 0.9575
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "Pelé is a soccer",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.356471,
+          "y": 0.598788,
+          "width": 0.099216,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Pele is a soccer",
+            "confidence": 0.8734
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Pelé is a soccer",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "nickname for this",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.74549,
+          "y": 0.610303,
+          "width": 0.104314,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "nicknameforthis",
+            "confidence": 0.9052
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "nickname for this",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "player from Brazil.",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.356078,
+          "y": 0.611818,
+          "width": 0.109804,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "player from Brazil.",
+            "confidence": 0.875
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "player from Brazil.",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "singer. It's her first",
+        "confidence": 0.925,
+        "bbox": {
+          "x": 0.74549,
+          "y": 0.62303,
+          "width": 0.10902,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "singer. It's her first",
+            "confidence": 0.8275
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "singer. It's her first",
+            "confidence": 0.925
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "His full name is",
+        "confidence": 0.9375,
+        "bbox": {
+          "x": 0.356863,
+          "y": 0.624848,
+          "width": 0.092157,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Hisfull nameis",
+            "confidence": 0.8967
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "His full name is",
+            "confidence": 0.9375
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "instruction",
+        "content": "name. Her full name",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.745882,
+          "y": 0.636061,
+          "width": 0.122353,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "name. Her full name",
+            "confidence": 0.8892
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "name. Her full name",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "Edson Arantes do",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.356863,
+          "y": 0.637879,
+          "width": 0.110588,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "EdsonArantesdo",
+            "confidence": 0.8414
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Edson Arantes do",
+            "confidence": 0.93
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "label",
+        "content": "is Madonna Louise",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.745882,
+          "y": 0.648788,
+          "width": 0.115686,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "isMadonnaLouise",
+            "confidence": 0.9292
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "is Madonna Louise",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "label",
+        "content": "Nascimento.Peleis",
+        "confidence": 0.9131,
+        "bbox": {
+          "x": 0.354667,
+          "y": 0.649665,
+          "width": 0.126667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Nascimento.Peleis",
+            "confidence": 0.9131
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Nascimento. Pelé is",
+            "confidence": 0.8533
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "label",
+        "content": "Veronica Ciccone.",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.74549,
+          "y": 0.661818,
+          "width": 0.110588,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Veronica Ciccone.",
+            "confidence": 0.9135
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Veronica Ciccone.",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "label",
+        "content": "his nickname.",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.356863,
+          "y": 0.663636,
+          "width": 0.083922,
+          "height": 0.008182
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "his nickname.",
+            "confidence": 0.894
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "his nickname.",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0045",
+        "type": "sentence",
+        "content": "C Read the article again. Complete the sentences with the correct words.",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.098824,
+          "y": 0.749091,
+          "width": 0.506667,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "C Read the article again. Complete the sentences with the correct words.",
+            "confidence": 0.9199
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "C Read the article again. Complete the sentences with the correct words.",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0046",
+        "type": "paragraph",
+        "content": "1 Tom Cruise uses his middle name as 4",
+        "confidence": 0.8778,
+        "bbox": {
+          "x": 0.123529,
+          "y": 0.76697,
+          "width": 0.441176,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "middle",
+            "confidence": 0.8249
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Tom Cruise uses his middle name as 4",
+            "confidence": 0.8778
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Tom Cruiseuses his",
+            "confidence": 0.8966
+          },
+          {
+            "engine": "rapidocr",
+            "content": "nameas",
+            "confidence": 0.7791
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0047",
+        "type": "sentence",
+        "content": "Ziyi is not Zhang Ziyi’s name.",
+        "confidence": 0.9067,
+        "bbox": {
+          "x": 0.581569,
+          "y": 0.769091,
+          "width": 0.319608,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Ziyi is not Zhang Ziyi's",
+            "confidence": 0.8894
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ziyi is not Zhang Ziyi’s name.",
+            "confidence": 0.9067
+          },
+          {
+            "engine": "rapidocr",
+            "content": "name.",
+            "confidence": 0.7825
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0048",
+        "type": "label",
+        "content": "5Jay-Z's",
+        "confidence": 0.8717,
+        "bbox": {
+          "x": 0.554667,
+          "y": 0.787738,
+          "width": 0.076667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "5Jay-Z's",
+            "confidence": 0.8717
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Jay-Z's",
+            "confidence": 0.65
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0049",
+        "type": "label",
+        "content": "his last name.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.14549,
+          "y": 0.788182,
+          "width": 0.089412,
+          "height": 0.008788
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "his last name.",
+            "confidence": 0.8817
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "his last name.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0050",
+        "type": "instruction",
+        "content": "name is Shawn Corey",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.763137,
+          "y": 0.789394,
+          "width": 0.139608,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "name is Shawn Corey",
+            "confidence": 0.8824
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "name is Shawn Corey",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0051",
+        "type": "label",
+        "content": "Carter,",
+        "confidence": 0.89,
+        "bbox": {
+          "x": 0.582353,
+          "y": 0.808182,
+          "width": 0.042353,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Carter.",
+            "confidence": 0.7827
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Carter,",
+            "confidence": 0.89
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0052",
+        "type": "sentence",
+        "content": "2 Shakira uses only her name.",
+        "confidence": 0.875,
+        "bbox": {
+          "x": 0.123137,
+          "y": 0.808788,
+          "width": 0.339216,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Shakira uses only her",
+            "confidence": 0.8756
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Shakira uses only her name.",
+            "confidence": 0.875
+          },
+          {
+            "engine": "rapidocr",
+            "content": "name.",
+            "confidence": 0.7562
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0053",
+        "type": "paragraph",
+        "content": "Madonna Louise Veronica Ciccone is Madonna’s",
+        "confidence": 0.945,
+        "bbox": {
+          "x": 0.583529,
+          "y": 0.82697,
+          "width": 0.313725,
+          "height": 0.010303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Madonna LouiseVeronica CicconeisMadonna's",
+            "confidence": 0.9043
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Madonna Louise Veronica Ciccone is Madonna’s",
+            "confidence": 0.945
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0054",
+        "type": "label",
+        "content": "EdsonArantesdoNascimento's",
+        "confidence": 0.902,
+        "bbox": {
+          "x": 0.143333,
+          "y": 0.829469,
+          "width": 0.212,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "EdsonArantesdoNascimento's",
+            "confidence": 0.902
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Edson Arantes do Nascimento’s",
+            "confidence": 0.778
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0055",
+        "type": "label",
+        "content": "is Pele.",
+        "confidence": 0.8843,
+        "bbox": {
+          "x": 0.142667,
+          "y": 0.843895,
+          "width": 0.05,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "is Pele.",
+            "confidence": 0.8843
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "is Pelé,",
+            "confidence": 0.86
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0056",
+        "type": "instruction",
+        "content": "name.",
+        "confidence": 0.7791,
+        "bbox": {
+          "x": 0.711333,
+          "y": 0.84544,
+          "width": 0.044667,
+          "height": 0.010819
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "name.",
+            "confidence": 0.7791
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "__. name.",
+            "confidence": 0.58
+          }
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0057",
+        "type": "heading",
+        "content": "PAIRWORK",
+        "confidence": 0.8663,
+        "bbox": {
+          "x": 0.122,
+          "y": 0.867594,
+          "width": 0.076667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0058",
+        "type": "sentence",
+        "content": "D GANGSWORS Tell your partner about another famous person’s name.",
+        "confidence": 0.843,
+        "bbox": {
+          "x": 0.101176,
+          "y": 0.868788,
+          "width": 0.484706,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Tell yourpartneraboutanotherfamousperson'sname.",
+            "confidence": 0.8896
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "D GANGSWORS Tell your partner about another famous person’s name.",
+            "confidence": 0.843
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0059",
+        "type": "sentence",
+        "content": "\"Rain is a singer, actor, and model from South Korea. Rain is his nickname.",
+        "confidence": 0.9286,
+        "bbox": {
+          "x": 0.123922,
+          "y": 0.889697,
+          "width": 0.545882,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"Rain is a singer actor, and model from South Korea. Rain is his nickname.",
+            "confidence": 0.9131
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "\"Rain is a singer, actor, and model from South Korea. Rain is his nickname.",
+            "confidence": 0.9286
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0060",
+        "type": "label",
+        "content": "Hisreal nameis Jeong Ji-hoon.\"",
+        "confidence": 0.8768,
+        "bbox": {
+          "x": 0.123333,
+          "y": 0.908295,
+          "width": 0.236,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Hisreal nameis Jeong Ji-hoon.\"",
+            "confidence": 0.8768
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "His real name is Jeong Ji-hoon.",
+            "confidence": 0.8033
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0061",
+        "type": "label",
+        "content": "12",
+        "confidence": 0.92,
+        "bbox": {
+          "x": 0.041961,
+          "y": 0.947576,
+          "width": 0.013333,
+          "height": 0.009091
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "12",
+            "confidence": 0.6661
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "12",
+            "confidence": 0.92
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "Names andJobs",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.126,
+          "y": 0.067491,
+          "width": 0.412667,
+          "height": 0.031942
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8302
+      },
+      {
+        "word": "FAMOUSNAMES",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.12,
+          "y": 0.274601,
+          "width": 0.28,
+          "height": 0.019578
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.878
+      },
+      {
+        "word": "Zhang Ziyi is an",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.740392,
+          "y": 0.314545,
+          "width": 0.101961,
+          "height": 0.010909
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.96
+      },
+      {
+        "word": "Actor Tom Cruise",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.351765,
+          "y": 0.316364,
+          "width": 0.112549,
+          "height": 0.008788
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.96
+      },
+      {
+        "word": "uses his middle",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.352549,
+          "y": 0.329697,
+          "width": 0.095686,
+          "height": 0.008485
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.9567
+      },
+      {
+        "word": "name as his last",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.352941,
+          "y": 0.342424,
+          "width": 0.099216,
+          "height": 0.008485
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.9575
+      },
+      {
+        "word": "is Thomas Cruise",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.352941,
+          "y": 0.368182,
+          "width": 0.107059,
+          "height": 0.008485
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.95
+      },
+      {
+        "word": "family names come",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.741961,
+          "y": 0.38,
+          "width": 0.118431,
+          "height": 0.010303
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.9567
+      },
+      {
+        "word": "Shakira is'a singer",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.352667,
+          "y": 0.455435,
+          "width": 0.118667,
+          "height": 0.01391
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.9271
+      },
+      {
+        "word": "Jay-Z is a hip-hop",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.742745,
+          "y": 0.456364,
+          "width": 0.113725,
+          "height": 0.01
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.9325
+      },
+      {
+        "word": "singer from the",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.743137,
+          "y": 0.469091,
+          "width": 0.091765,
+          "height": 0.010606
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.96
+      },
+      {
+        "word": "uses only her first",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.35451,
+          "y": 0.483333,
+          "width": 0.107451,
+          "height": 0.010606
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.9575
+      },
+      {
+        "word": "real name is Shawn",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.743922,
+          "y": 0.507576,
+          "width": 0.119216,
+          "height": 0.008788
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.955
+      },
+      {
+        "word": "is Shakira Isabel",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.355294,
+          "y": 0.509394,
+          "width": 0.098824,
+          "height": 0.008485
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.9333
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "is his nickname. His",
+            "confidence": 0.9575,
+            "bbox": {
+              "x": 0.743529,
+              "y": 0.494848,
+              "width": 0.121176,
+              "height": 0.008485
+            },
+            "sourceElementId": "text_0027",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "singer. It's her first",
+            "confidence": 0.925,
+            "bbox": {
+              "x": 0.74549,
+              "y": 0.62303,
+              "width": 0.10902,
+              "height": 0.010606
+            },
+            "sourceElementId": "text_0037",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "his nickname.",
+            "confidence": 0.955,
+            "bbox": {
+              "x": 0.356863,
+              "y": 0.663636,
+              "width": 0.083922,
+              "height": 0.008182
+            },
+            "sourceElementId": "text_0044",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "his last name.",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.14549,
+              "y": 0.788182,
+              "width": 0.089412,
+              "height": 0.008788
+            },
+            "sourceElementId": "text_0049",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "is Pele.",
+            "confidence": 0.8843,
+            "bbox": {
+              "x": 0.142667,
+              "y": 0.843895,
+              "width": 0.05,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0055",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "B",
+        "type": "reading_activity",
+        "instruction": "Read the article. Are they all singers?",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0004"
+        ],
+        "confidence": 0.9463
+      },
+      {
+        "exerciseNumber": "C",
+        "type": "reading_activity",
+        "instruction": "Read the article again. Complete the sentences with the correct words.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0045"
+        ],
+        "confidence": 0.9567
+      },
+      {
+        "exerciseNumber": "1",
+        "type": "exercise",
+        "instruction": "Tom Cruise uses his middle name as 4",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0046"
+        ],
+        "confidence": 0.8778
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "exercise",
+        "instruction": "Shakira uses only her name.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0052"
+        ],
+        "confidence": 0.875
+      },
+      {
+        "exerciseNumber": "D",
+        "type": "exercise",
+        "instruction": "GANGSWORS Tell your partner about another famous person’s name.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0058"
+        ],
+        "confidence": 0.843
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "FAMOUSNAMES",
+          "Zhang Ziyi is an",
+          "Actor Tom Cruise",
+          "actress from China.",
+          "uses his middle",
+          "Zhang isn’t her first",
+          "name as his last",
+          "name. It’s her family",
+          "name. His full name",
+          "name. In China,",
+          "is Thomas Cruise",
+          "family names come",
+          "Mapother. Tom is",
+          "first.",
+          "short for Thomas.",
+          "__ AES ees",
+          "Shakira is'a singer",
+          "Jay-Z is a hip-hop",
+          "singer from the",
+          "from Colombia. She",
+          "United States. Jay-Z",
+          "uses only her first",
+          "is his nickname. His",
+          "name. Her full name",
+          "real name is Shawn",
+          "is Shakira Isabel",
+          "Corey Carter.",
+          "Mebarak Ripoll."
+        ],
+        "position": {
+          "x": 0.09999999999999999,
+          "y": 0.25460099999999997,
+          "width": 0.788235,
+          "height": 0.29782300000000006
+        },
+        "textElementIds": [
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Madonna is not a",
+          "Pelé is a soccer",
+          "nickname for this",
+          "player from Brazil.",
+          "singer. It's her first",
+          "His full name is",
+          "name. Her full name",
+          "Edson Arantes do",
+          "is Madonna Louise",
+          "Nascimento.Peleis",
+          "Veronica Ciccone.",
+          "his nickname.",
+          "C Read the article again. Complete the sentences with the correct words.",
+          "1 Tom Cruise uses his middle name as 4",
+          "Ziyi is not Zhang Ziyi’s name."
+        ],
+        "position": {
+          "x": 0.07882399999999999,
+          "y": 0.577273,
+          "width": 0.842353,
+          "height": 0.22363599999999995
+        },
+        "textElementIds": [
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040",
+          "text_0041",
+          "text_0042",
+          "text_0043",
+          "text_0044",
+          "text_0045",
+          "text_0046",
+          "text_0047"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "5Jay-Z's",
+          "his last name.",
+          "name is Shawn Corey",
+          "Carter,",
+          "2 Shakira uses only her name.",
+          "Madonna Louise Veronica Ciccone is Madonna’s",
+          "EdsonArantesdoNascimento's",
+          "is Pele.",
+          "name.",
+          "PAIRWORK",
+          "D GANGSWORS Tell your partner about another famous person’s name."
+        ],
+        "position": {
+          "x": 0.081176,
+          "y": 0.767738,
+          "width": 0.8415689999999999,
+          "height": 0.13286799999999999
+        },
+        "textElementIds": [
+          "text_0048",
+          "text_0049",
+          "text_0050",
+          "text_0051",
+          "text_0052",
+          "text_0053",
+          "text_0054",
+          "text_0055",
+          "text_0056",
+          "text_0057",
+          "text_0058"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "Names andJobs\nReading n\nA Lookatthepictures.Whataretheirnames?\nRead the article.Are they all singers?\nFAMOUSNAMES\nZhang Ziyi is an\nActorTomCruise\nactress from China.\nuseshis middle\nZhang isn't her first\nname as his last\nname.It's her family\nname.Hisfull name\nname, In China,\nisThomasCruise\nfamily names come\nMapother.Tomis\nfirst.\nshort for Thomas.\nJay-Z is a hip-hop\nShakira is'a singer\nsingerfrom the\nfromColombia.She\nUnited States. Jay-Z\nuses only her first\nishisnickname.His\nname.Her full name\nreal name is Shawn\nis Shakira Isabel\nCorey Carter.\nMebarak Ripoll.\nMadonna is not a\nPele is a soccer\nnicknameforthis\nplayer from Brazil.\nsinger. It's her first\nHisfull nameis\nname. Her full name\nEdsonArantesdo\nisMadonnaLouise\nNascimento.Peleis\nVeronica Ciccone.\nhis nickname.\nC Read the article again. Complete the sentences with the correct words.\nmiddle\nZiyi is not Zhang Ziyi's\nname.\nTom Cruiseuses his\nnameas\nhis last name.\nname is Shawn Corey\n5Jay-Z's\nCarter.\nShakira uses only her\nname.\nMadonna LouiseVeronica CicconeisMadonna's\nEdsonArantesdoNascimento's\nis Pele.\nname.\nTell yourpartneraboutanotherfamousperson'sname.\nPAIRWORK\n\"Rain is a singer actor, and model from South Korea. Rain is his nickname.\nHisreal nameis Jeong Ji-hoon.\"\n12\ndehkhodaedu.com",
+      "tesseract_psm3": "Names and Jobs\n§) Reading 0\n\nA Look at the pictures. What are their names?\n\nB Read the article. Are they all singers?\n\nActor Tom Cruise\nuses his middle\nname as his last\nname. His full name\nis Thomas Cruise\nMapother. Tom is\nshort for Thomas.\n\nShakira is‘a singer\nfrom Colombia. She\nuses only her first\nname. Her full name\nis Shakira Isabel\nMebarak Ripoll.\n\nPelé is a soccer\nplayer from Brazil.\nHis full name is\nEdson Arantes do\nNascimento. Pelé is\nhis nickname.\n\nZhang Ziyi is an\nactress from China.\nZhang isn’t her first\nname. It’s her family\nname. In China,\nfamily names come\nfirst.\n\n__ AES ees\nJay-Z is a hip-hop\nsinger from the\nUnited States. Jay-Z\nis his nickname. His\nreal name is Shawn\nCorey Carter.\n\nMadonna is not a\nnickname for this\nsinger. It's her first\nname. Her full name\nis Madonna Louise\nVeronica Ciccone.\n\nC Read the article again. Complete the sentences with the correct words.\n\n1 Tom Cruise uses his middle name as 4\nhis last name.\n2 Shakira uses only her name.\n\n3 Edson Arantes do Nascimento’s\nis Pelé,\n\nZiyi is not Zhang Ziyi’s name.\nJay-Z's\n\nCarter,\n\nname is Shawn Corey\n\nMadonna Louise Veronica Ciccone is Madonna’s\n__. name.\n\nD GANGSWORS Tell your partner about another famous person’s name.\n\n\"Rain is a singer, actor, and model from South Korea. Rain is his nickname.\n\nHis real name is Jeong Ji-hoon.\n\n12\n\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.9164,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "3 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "reading",
+    "headings": [
+      "Names and Jobs",
+      "§) Reading 0",
+      "Pair work"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Names and Jobs",
+        "confidence": 0.8302,
+        "bbox": {
+          "x": 0.126,
+          "y": 0.067491,
+          "width": 0.412667,
+          "height": 0.031942
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Names and Jobs",
+            "confidence": 0.6267
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Names andJobs",
+            "confidence": 0.8302
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "§) Reading 0",
+        "confidence": 0.6967,
+        "bbox": {
+          "x": 0.046667,
+          "y": 0.123333,
+          "width": 0.201961,
+          "height": 0.030606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "§) Reading 0",
+            "confidence": 0.6967
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Reading n",
+            "confidence": 0.7201
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0003",
+        "type": "label",
+        "content": "A Look at the pictures. What are their names?",
+        "confidence": 0.9288,
+        "bbox": {
+          "x": 0.088667,
+          "y": 0.162803,
+          "width": 0.324,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Lookatthepictures.Whataretheirnames?",
+            "confidence": 0.9288
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Look at the pictures. What are their names?",
+            "confidence": 0.8778
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "sentence",
+        "content": "B Read the article. Are they all singers?",
+        "confidence": 0.9463,
+        "bbox": {
+          "x": 0.092941,
+          "y": 0.192727,
+          "width": 0.272941,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Read the article.Are they all singers?",
+            "confidence": 0.9021
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Read the article. Are they all singers?",
+            "confidence": 0.9463
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "Famous names",
+        "confidence": 0.878,
+        "bbox": {
+          "x": 0.12,
+          "y": 0.274601,
+          "width": 0.28,
+          "height": 0.019578
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "Zhang Ziyi is an",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.740392,
+          "y": 0.314545,
+          "width": 0.101961,
+          "height": 0.010909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Zhang Ziyi is an",
+            "confidence": 0.9073
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Zhang Ziyi is an",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Actor Tom Cruise",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.351765,
+          "y": 0.316364,
+          "width": 0.112549,
+          "height": 0.008788
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "ActorTomCruise",
+            "confidence": 0.9028
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Actor Tom Cruise",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "actress from China.",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.740784,
+          "y": 0.327576,
+          "width": 0.118824,
+          "height": 0.009091
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "actress from China.",
+            "confidence": 0.8994
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "actress from China.",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "uses his middle",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.352549,
+          "y": 0.329697,
+          "width": 0.095686,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "useshis middle",
+            "confidence": 0.8746
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "uses his middle",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "Zhang isn't her first",
+        "confidence": 0.9425,
+        "bbox": {
+          "x": 0.740784,
+          "y": 0.340909,
+          "width": 0.117647,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Zhang isn't her first",
+            "confidence": 0.8562
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Zhang isn’t her first",
+            "confidence": 0.9425
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "instruction",
+        "content": "name as his last",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.352941,
+          "y": 0.342424,
+          "width": 0.099216,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "name as his last",
+            "confidence": 0.8392
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "name as his last",
+            "confidence": 0.9575
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "instruction",
+        "content": "name. It's her family",
+        "confidence": 0.9175,
+        "bbox": {
+          "x": 0.741176,
+          "y": 0.353636,
+          "width": 0.121569,
+          "height": 0.010303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "name.It's her family",
+            "confidence": 0.8658
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "name. It’s her family",
+            "confidence": 0.9175
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "instruction",
+        "content": "name. His full name",
+        "confidence": 0.945,
+        "bbox": {
+          "x": 0.352941,
+          "y": 0.355455,
+          "width": 0.121961,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "name.Hisfull name",
+            "confidence": 0.8327
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "name. His full name",
+            "confidence": 0.945
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "instruction",
+        "content": "name. In China",
+        "confidence": 0.9333,
+        "bbox": {
+          "x": 0.741569,
+          "y": 0.366667,
+          "width": 0.095686,
+          "height": 0.008788
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "name, In China,",
+            "confidence": 0.8595
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "name. In China,",
+            "confidence": 0.9333
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "is Thomas Cruise",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.352941,
+          "y": 0.368182,
+          "width": 0.107059,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "isThomasCruise",
+            "confidence": 0.8549
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "is Thomas Cruise",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "family names come",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.741961,
+          "y": 0.38,
+          "width": 0.118431,
+          "height": 0.010303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "family names come",
+            "confidence": 0.87
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "family names come",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Map other. Tom is",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.353333,
+          "y": 0.381212,
+          "width": 0.106275,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Mapother.Tomis",
+            "confidence": 0.9
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Mapother. Tom is",
+            "confidence": 0.94
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "first.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.741961,
+          "y": 0.39303,
+          "width": 0.024706,
+          "height": 0.008182
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "first.",
+            "confidence": 0.793
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "first.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "short for Thomas.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.353333,
+          "y": 0.394242,
+          "width": 0.10902,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "short for Thomas.",
+            "confidence": 0.8875
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "short for Thomas.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "AES ees",
+        "confidence": 0.4233,
+        "bbox": {
+          "x": 0.770196,
+          "y": 0.437576,
+          "width": 0.068235,
+          "height": 0.007273
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "Shakira is'a singer",
+        "confidence": 0.9271,
+        "bbox": {
+          "x": 0.352667,
+          "y": 0.455435,
+          "width": 0.118667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Shakira is'a singer",
+            "confidence": 0.9271
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Shakira is‘a singer",
+            "confidence": 0.7233
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "Jay-Z is a hip-hop",
+        "confidence": 0.9325,
+        "bbox": {
+          "x": 0.742745,
+          "y": 0.456364,
+          "width": 0.113725,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Jay-Z is a hip-hop",
+            "confidence": 0.8824
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Jay-Z is a hip-hop",
+            "confidence": 0.9325
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "singer from the",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.743137,
+          "y": 0.469091,
+          "width": 0.091765,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "singerfrom the",
+            "confidence": 0.9001
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "singer from the",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "from Colombia. She",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.354118,
+          "y": 0.470303,
+          "width": 0.123922,
+          "height": 0.008788
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "from Colombia. She",
+            "confidence": 0.9533
+          },
+          {
+            "engine": "rapidocr",
+            "content": "fromColombia.She",
+            "confidence": 0.8498
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "United States. Jay-Z",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.743529,
+          "y": 0.481515,
+          "width": 0.124706,
+          "height": 0.010303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "United States. Jay-Z",
+            "confidence": 0.8912
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "United States. Jay-Z",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "uses only her first",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.35451,
+          "y": 0.483333,
+          "width": 0.107451,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "uses only her first",
+            "confidence": 0.8913
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "uses only her first",
+            "confidence": 0.9575
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "is his nickname. His",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.743529,
+          "y": 0.494848,
+          "width": 0.121176,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "ishisnickname.His",
+            "confidence": 0.9125
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "is his nickname. His",
+            "confidence": 0.9575
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "instruction",
+        "content": "name. Her full name",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.35451,
+          "y": 0.496364,
+          "width": 0.124314,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "name.Her full name",
+            "confidence": 0.8828
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "name. Her full name",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "real name is Shawn",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.743922,
+          "y": 0.507576,
+          "width": 0.119216,
+          "height": 0.008788
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "real name is Shawn",
+            "confidence": 0.811
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "real name is Shawn",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "is Shakira Isabel",
+        "confidence": 0.9333,
+        "bbox": {
+          "x": 0.355294,
+          "y": 0.509394,
+          "width": 0.098824,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "is Shakira Isabel",
+            "confidence": 0.8039
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "is Shakira Isabel",
+            "confidence": 0.9333
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "Corey Carter.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.743922,
+          "y": 0.520606,
+          "width": 0.08,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Corey Carter.",
+            "confidence": 0.8422
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Corey Carter.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "Mebarak Ripoll.",
+        "confidence": 0.865,
+        "bbox": {
+          "x": 0.355294,
+          "y": 0.522424,
+          "width": 0.095294,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Mebarak Ripoll.",
+            "confidence": 0.8341
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Mebarak Ripoll.",
+            "confidence": 0.865
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "Madonna is not a",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.74549,
+          "y": 0.597273,
+          "width": 0.110196,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Madonna is not a",
+            "confidence": 0.8744
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Madonna is not a",
+            "confidence": 0.9575
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "Pelé is a soccer",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.356471,
+          "y": 0.598788,
+          "width": 0.099216,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Pele is a soccer",
+            "confidence": 0.8734
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Pelé is a soccer",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "nickname for this",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.74549,
+          "y": 0.610303,
+          "width": 0.104314,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "nicknameforthis",
+            "confidence": 0.9052
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "nickname for this",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "player from Brazil.",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.356078,
+          "y": 0.611818,
+          "width": 0.109804,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "player from Brazil.",
+            "confidence": 0.875
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "player from Brazil.",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "singer. It's her first",
+        "confidence": 0.925,
+        "bbox": {
+          "x": 0.74549,
+          "y": 0.62303,
+          "width": 0.10902,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "singer. It's her first",
+            "confidence": 0.8275
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "singer. It's her first",
+            "confidence": 0.925
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "His full name is",
+        "confidence": 0.9375,
+        "bbox": {
+          "x": 0.356863,
+          "y": 0.624848,
+          "width": 0.092157,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Hisfull nameis",
+            "confidence": 0.8967
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "His full name is",
+            "confidence": 0.9375
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "instruction",
+        "content": "name. Her full name",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.745882,
+          "y": 0.636061,
+          "width": 0.122353,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "name. Her full name",
+            "confidence": 0.8892
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "name. Her full name",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "Edson Arantes do",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.356863,
+          "y": 0.637879,
+          "width": 0.110588,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "EdsonArantesdo",
+            "confidence": 0.8414
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Edson Arantes do",
+            "confidence": 0.93
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "label",
+        "content": "is Madonna Louise",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.745882,
+          "y": 0.648788,
+          "width": 0.115686,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "isMadonnaLouise",
+            "confidence": 0.9292
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "is Madonna Louise",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "label",
+        "content": "Nascimento. Pele is",
+        "confidence": 0.9131,
+        "bbox": {
+          "x": 0.354667,
+          "y": 0.649665,
+          "width": 0.126667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Nascimento.Peleis",
+            "confidence": 0.9131
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Nascimento. Pelé is",
+            "confidence": 0.8533
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "label",
+        "content": "Veronica Ciccone.",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.74549,
+          "y": 0.661818,
+          "width": 0.110588,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Veronica Ciccone.",
+            "confidence": 0.9135
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Veronica Ciccone.",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "label",
+        "content": "his nickname.",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.356863,
+          "y": 0.663636,
+          "width": 0.083922,
+          "height": 0.008182
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "his nickname.",
+            "confidence": 0.894
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "his nickname.",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0045",
+        "type": "sentence",
+        "content": "C Read the article again. Complete the sentences with the correct words.",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.098824,
+          "y": 0.749091,
+          "width": 0.506667,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "C Read the article again. Complete the sentences with the correct words.",
+            "confidence": 0.9199
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "C Read the article again. Complete the sentences with the correct words.",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0046",
+        "type": "paragraph",
+        "content": "1 Tom Cruise uses his middle name as 4",
+        "confidence": 0.8778,
+        "bbox": {
+          "x": 0.123529,
+          "y": 0.76697,
+          "width": 0.441176,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "middle",
+            "confidence": 0.8249
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Tom Cruise uses his middle name as 4",
+            "confidence": 0.8778
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Tom Cruiseuses his",
+            "confidence": 0.8966
+          },
+          {
+            "engine": "rapidocr",
+            "content": "nameas",
+            "confidence": 0.7791
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0047",
+        "type": "sentence",
+        "content": "Ziyi is not Zhang Ziyi's name.",
+        "confidence": 0.9067,
+        "bbox": {
+          "x": 0.581569,
+          "y": 0.769091,
+          "width": 0.319608,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Ziyi is not Zhang Ziyi's",
+            "confidence": 0.8894
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ziyi is not Zhang Ziyi’s name.",
+            "confidence": 0.9067
+          },
+          {
+            "engine": "rapidocr",
+            "content": "name.",
+            "confidence": 0.7825
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0048",
+        "type": "label",
+        "content": "5Jay-Z's",
+        "confidence": 0.8717,
+        "bbox": {
+          "x": 0.554667,
+          "y": 0.787738,
+          "width": 0.076667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "5Jay-Z's",
+            "confidence": 0.8717
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Jay-Z's",
+            "confidence": 0.65
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0049",
+        "type": "label",
+        "content": "his last name.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.14549,
+          "y": 0.788182,
+          "width": 0.089412,
+          "height": 0.008788
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "his last name.",
+            "confidence": 0.8817
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "his last name.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0050",
+        "type": "instruction",
+        "content": "name is Shawn Corey",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.763137,
+          "y": 0.789394,
+          "width": 0.139608,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "name is Shawn Corey",
+            "confidence": 0.8824
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "name is Shawn Corey",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0051",
+        "type": "label",
+        "content": "Carter",
+        "confidence": 0.89,
+        "bbox": {
+          "x": 0.582353,
+          "y": 0.808182,
+          "width": 0.042353,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Carter.",
+            "confidence": 0.7827
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Carter,",
+            "confidence": 0.89
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0052",
+        "type": "sentence",
+        "content": "2 Shakira uses only her name.",
+        "confidence": 0.875,
+        "bbox": {
+          "x": 0.123137,
+          "y": 0.808788,
+          "width": 0.339216,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Shakira uses only her",
+            "confidence": 0.8756
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Shakira uses only her name.",
+            "confidence": 0.875
+          },
+          {
+            "engine": "rapidocr",
+            "content": "name.",
+            "confidence": 0.7562
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0053",
+        "type": "paragraph",
+        "content": "Madonna Louise Veronica Ciccone is Madonna's",
+        "confidence": 0.945,
+        "bbox": {
+          "x": 0.583529,
+          "y": 0.82697,
+          "width": 0.313725,
+          "height": 0.010303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Madonna LouiseVeronica CicconeisMadonna's",
+            "confidence": 0.9043
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Madonna Louise Veronica Ciccone is Madonna’s",
+            "confidence": 0.945
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0054",
+        "type": "label",
+        "content": "Edson Arantes do Nascimento's",
+        "confidence": 0.902,
+        "bbox": {
+          "x": 0.143333,
+          "y": 0.829469,
+          "width": 0.212,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "EdsonArantesdoNascimento's",
+            "confidence": 0.902
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Edson Arantes do Nascimento’s",
+            "confidence": 0.778
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0055",
+        "type": "label",
+        "content": "is Pele.",
+        "confidence": 0.8843,
+        "bbox": {
+          "x": 0.142667,
+          "y": 0.843895,
+          "width": 0.05,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "is Pele.",
+            "confidence": 0.8843
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "is Pelé,",
+            "confidence": 0.86
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0056",
+        "type": "instruction",
+        "content": "name.",
+        "confidence": 0.7791,
+        "bbox": {
+          "x": 0.711333,
+          "y": 0.84544,
+          "width": 0.044667,
+          "height": 0.010819
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "name.",
+            "confidence": 0.7791
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "__. name.",
+            "confidence": 0.58
+          }
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0057",
+        "type": "heading",
+        "content": "Pair work",
+        "confidence": 0.8663,
+        "bbox": {
+          "x": 0.122,
+          "y": 0.867594,
+          "width": 0.076667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0058",
+        "type": "sentence",
+        "content": "D Gangs wor's Tell your partner about another famous person's name.",
+        "confidence": 0.843,
+        "bbox": {
+          "x": 0.101176,
+          "y": 0.868788,
+          "width": 0.484706,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Tell yourpartneraboutanotherfamousperson'sname.",
+            "confidence": 0.8896
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "D GANGSWORS Tell your partner about another famous person’s name.",
+            "confidence": 0.843
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0059",
+        "type": "sentence",
+        "content": "Rain is a singer, actor, and model from South Korea. Rain is his nickname.",
+        "confidence": 0.9286,
+        "bbox": {
+          "x": 0.123922,
+          "y": 0.889697,
+          "width": 0.545882,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"Rain is a singer actor, and model from South Korea. Rain is his nickname.",
+            "confidence": 0.9131
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "\"Rain is a singer, actor, and model from South Korea. Rain is his nickname.",
+            "confidence": 0.9286
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0060",
+        "type": "label",
+        "content": "His real name is Jeong Ji-hoon.",
+        "confidence": 0.8768,
+        "bbox": {
+          "x": 0.123333,
+          "y": 0.908295,
+          "width": 0.236,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Hisreal nameis Jeong Ji-hoon.\"",
+            "confidence": 0.8768
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "His real name is Jeong Ji-hoon.",
+            "confidence": 0.8033
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0061",
+        "type": "audio_track",
+        "content": "12",
+        "confidence": 0.92,
+        "bbox": {
+          "x": 0.041961,
+          "y": 0.947576,
+          "width": 0.013333,
+          "height": 0.009091
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "12",
+            "confidence": 0.6661
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "12",
+            "confidence": 0.92
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Names and Jobs",
+      "§) Reading 0",
+      "A Look at the pictures. What are their names?",
+      "B Read the article. Are they all singers?",
+      "Famous names",
+      "Zhang Ziyi is an",
+      "Actor Tom Cruise",
+      "actress from China.",
+      "uses his middle",
+      "Zhang isn't her first",
+      "name as his last",
+      "name. It's her family",
+      "name. His full name",
+      "name. In China",
+      "is Thomas Cruise",
+      "family names come",
+      "Map other. Tom is",
+      "first.",
+      "short for Thomas.",
+      "AES ees",
+      "Shakira is'a singer",
+      "Jay-Z is a hip-hop",
+      "singer from the",
+      "from Colombia. She",
+      "United States. Jay-Z",
+      "uses only her first",
+      "is his nickname. His",
+      "name. Her full name",
+      "real name is Shawn",
+      "is Shakira Isabel",
+      "Corey Carter.",
+      "Mebarak Ripoll.",
+      "Madonna is not a",
+      "Pelé is a soccer",
+      "nickname for this",
+      "player from Brazil.",
+      "singer. It's her first",
+      "His full name is",
+      "name. Her full name",
+      "Edson Arantes do",
+      "is Madonna Louise",
+      "Nascimento. Pele is",
+      "Veronica Ciccone.",
+      "his nickname.",
+      "C Read the article again. Complete the sentences with the correct words.",
+      "1 Tom Cruise uses his middle name as 4",
+      "Ziyi is not Zhang Ziyi's name.",
+      "5Jay-Z's",
+      "his last name.",
+      "name is Shawn Corey",
+      "Carter",
+      "2 Shakira uses only her name.",
+      "Madonna Louise Veronica Ciccone is Madonna's",
+      "Edson Arantes do Nascimento's",
+      "is Pele.",
+      "name.",
+      "Pair work",
+      "D Gangs wor's Tell your partner about another famous person's name.",
+      "Rain is a singer, actor, and model from South Korea. Rain is his nickname.",
+      "His real name is Jeong Ji-hoon."
+    ],
+    "paragraphs": [
+      "1 Tom Cruise uses his middle name as 4",
+      "Madonna Louise Veronica Ciccone is Madonna's"
+    ],
+    "sentences": [
+      "Names and Jobs §) Reading 0 A Look at the pictures",
+      "What are their names",
+      "B Read the article",
+      "Are they all singers",
+      "Famous names Zhang Ziyi is an Actor Tom Cruise actress from China",
+      "uses his middle Zhang isn't her first name as his last name",
+      "It's her family name",
+      "His full name name",
+      "In China is Thomas Cruise family names come Map other",
+      "Tom is first",
+      "short for Thomas",
+      "AES ees Shakira is'a singer Jay-Z is a hip-hop singer from the from Colombia",
+      "She United States",
+      "Jay-Z uses only her first is his nickname",
+      "His name",
+      "Her full name real name is Shawn is Shakira Isabel Corey Carter",
+      "Mebarak Ripoll",
+      "Madonna is not a Pelé is a soccer nickname for this player from Brazil",
+      "singer",
+      "It's her first His full name is name",
+      "Her full name Edson Arantes do is Madonna Louise Nascimento",
+      "Pele is Veronica Ciccone",
+      "his nickname",
+      "C Read the article again",
+      "Complete the sentences with the correct words",
+      "1 Tom Cruise uses his middle name as 4 Ziyi is not Zhang Ziyi's name",
+      "5Jay-Z's his last name",
+      "name is Shawn Corey Carter 2 Shakira uses only her name",
+      "Madonna Louise Veronica Ciccone is Madonna's Edson Arantes do Nascimento's is Pele",
+      "name",
+      "Pair work D Gangs wor's Tell your partner about another famous person's name",
+      "Rain is a singer, actor, and model from South Korea",
+      "Rain is his nickname",
+      "His real name is Jeong Ji-hoon"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "is his nickname.",
+            "confidence": 0.9575,
+            "bbox": {
+              "x": 0.743529,
+              "y": 0.494848,
+              "width": 0.121176,
+              "height": 0.008485
+            },
+            "sourceElementId": "text_0027"
+          },
+          {
+            "speaker": null,
+            "content": "His",
+            "confidence": 0.9575,
+            "bbox": {
+              "x": 0.743529,
+              "y": 0.494848,
+              "width": 0.121176,
+              "height": 0.008485
+            },
+            "sourceElementId": "text_0027"
+          },
+          {
+            "speaker": null,
+            "content": "his nickname.",
+            "confidence": 0.955,
+            "bbox": {
+              "x": 0.356863,
+              "y": 0.663636,
+              "width": 0.083922,
+              "height": 0.008182
+            },
+            "sourceElementId": "text_0044"
+          },
+          {
+            "speaker": null,
+            "content": "his last name.",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.14549,
+              "y": 0.788182,
+              "width": 0.089412,
+              "height": 0.008788
+            },
+            "sourceElementId": "text_0049"
+          },
+          {
+            "speaker": null,
+            "content": "is Pele.",
+            "confidence": 0.8843,
+            "bbox": {
+              "x": 0.142667,
+              "y": 0.843895,
+              "width": 0.05,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0055"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "B",
+        "type": "singing",
+        "instruction": "Read the article. Are they all singers?",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "C",
+        "type": "reading",
+        "instruction": "Read the article again. Complete the sentences with the correct words.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "1",
+        "type": "exercise",
+        "instruction": "Tom Cruise uses his middle name as 4",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "exercise",
+        "instruction": "Shakira uses only her name.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "D",
+        "type": "exercise",
+        "instruction": "Gangs wor's Tell your partner about another famous person's name.",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Famous names",
+          "Zhang Ziyi is an",
+          "Actor Tom Cruise",
+          "actress from China.",
+          "uses his middle",
+          "Zhang isn't her first",
+          "name as his last",
+          "name. It's her family",
+          "name. His full name",
+          "name. In China",
+          "is Thomas Cruise",
+          "family names come",
+          "Map other. Tom is",
+          "first.",
+          "short for Thomas.",
+          "AES ees",
+          "Shakira is'a singer",
+          "Jay-Z is a hip-hop",
+          "singer from the",
+          "from Colombia. She",
+          "United States. Jay-Z",
+          "uses only her first",
+          "is his nickname. His",
+          "name. Her full name",
+          "real name is Shawn",
+          "is Shakira Isabel",
+          "Corey Carter.",
+          "Mebarak Ripoll."
+        ],
+        "position": {
+          "x": 0.09999999999999999,
+          "y": 0.25460099999999997,
+          "width": 0.788235,
+          "height": 0.29782300000000006
+        },
+        "textElementIds": [
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Madonna is not a",
+          "Pelé is a soccer",
+          "nickname for this",
+          "player from Brazil.",
+          "singer. It's her first",
+          "His full name is",
+          "name. Her full name",
+          "Edson Arantes do",
+          "is Madonna Louise",
+          "Nascimento. Pele is",
+          "Veronica Ciccone.",
+          "his nickname.",
+          "C Read the article again. Complete the sentences with the correct words.",
+          "1 Tom Cruise uses his middle name as 4",
+          "Ziyi is not Zhang Ziyi's name."
+        ],
+        "position": {
+          "x": 0.07882399999999999,
+          "y": 0.577273,
+          "width": 0.842353,
+          "height": 0.22363599999999995
+        },
+        "textElementIds": [
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040",
+          "text_0041",
+          "text_0042",
+          "text_0043",
+          "text_0044",
+          "text_0045",
+          "text_0046",
+          "text_0047"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "5Jay-Z's",
+          "his last name.",
+          "name is Shawn Corey",
+          "Carter",
+          "2 Shakira uses only her name.",
+          "Madonna Louise Veronica Ciccone is Madonna's",
+          "Edson Arantes do Nascimento's",
+          "is Pele.",
+          "name.",
+          "Pair work",
+          "D Gangs wor's Tell your partner about another famous person's name."
+        ],
+        "position": {
+          "x": 0.081176,
+          "y": 0.767738,
+          "width": 0.8415689999999999,
+          "height": 0.13286799999999999
+        },
+        "textElementIds": [
+          "text_0048",
+          "text_0049",
+          "text_0050",
+          "text_0051",
+          "text_0052",
+          "text_0053",
+          "text_0054",
+          "text_0055",
+          "text_0056",
+          "text_0057",
+          "text_0058"
+        ]
+      }
+    ],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "reading",
+    "title": "Names and Jobs",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "is his nickname.",
+            "confidence": 0.9575
+          },
+          {
+            "speaker": null,
+            "content": "His",
+            "confidence": 0.9575
+          },
+          {
+            "speaker": null,
+            "content": "his nickname.",
+            "confidence": 0.955
+          },
+          {
+            "speaker": null,
+            "content": "his last name.",
+            "confidence": 0.96
+          },
+          {
+            "speaker": null,
+            "content": "is Pele.",
+            "confidence": 0.8843
+          }
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "title": "Names and Jobs",
+        "paragraphs": [
+          "1 Tom Cruise uses his middle name as 4",
+          "Madonna Louise Veronica Ciccone is Madonna's"
+        ],
+        "sentences": [
+          "Names and Jobs §) Reading 0 A Look at the pictures",
+          "What are their names",
+          "B Read the article",
+          "Are they all singers",
+          "Famous names Zhang Ziyi is an Actor Tom Cruise actress from China",
+          "uses his middle Zhang isn't her first name as his last name",
+          "It's her family name",
+          "His full name name",
+          "In China is Thomas Cruise family names come Map other",
+          "Tom is first",
+          "short for Thomas",
+          "AES ees Shakira is'a singer Jay-Z is a hip-hop singer from the from Colombia",
+          "She United States",
+          "Jay-Z uses only her first is his nickname",
+          "His name",
+          "Her full name real name is Shawn is Shakira Isabel Corey Carter",
+          "Mebarak Ripoll",
+          "Madonna is not a Pelé is a soccer nickname for this player from Brazil",
+          "singer",
+          "It's her first His full name is name",
+          "Her full name Edson Arantes do is Madonna Louise Nascimento",
+          "Pele is Veronica Ciccone",
+          "his nickname",
+          "C Read the article again",
+          "Complete the sentences with the correct words",
+          "1 Tom Cruise uses his middle name as 4 Ziyi is not Zhang Ziyi's name",
+          "5Jay-Z's his last name",
+          "name is Shawn Corey Carter 2 Shakira uses only her name",
+          "Madonna Louise Veronica Ciccone is Madonna's Edson Arantes do Nascimento's is Pele",
+          "name",
+          "Pair work D Gangs wor's Tell your partner about another famous person's name",
+          "Rain is a singer, actor, and model from South Korea",
+          "Rain is his nickname",
+          "His real name is Jeong Ji-hoon"
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "B",
+        "type": "singing",
+        "instruction": "Read the article. Are they all singers?",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "C",
+        "type": "reading",
+        "instruction": "Read the article again. Complete the sentences with the correct words.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "1",
+        "type": "exercise",
+        "instruction": "Tom Cruise uses his middle name as 4",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "exercise",
+        "instruction": "Shakira uses only her name.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "D",
+        "type": "exercise",
+        "instruction": "Gangs wor's Tell your partner about another famous person's name.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "3 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "phrase": 1,
+      "dialoguesSplit": 2,
+      "garbageExcluded": 1
+    },
+    "averageOcrConfidence": 0.9164,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 1 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc1_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

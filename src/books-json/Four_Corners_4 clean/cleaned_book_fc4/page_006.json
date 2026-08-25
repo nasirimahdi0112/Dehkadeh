@@ -1,0 +1,6922 @@
+{
+  "pageNumber": 6,
+  "pageNumberDetected": false,
+  "pageNumberDetectionMethod": "fallback to PDF page number; printed book number not confidently detected",
+  "pdfPageNumber": 6,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 4_Part1.pdf",
+    "pdfLocalPageNumber": 6,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Functional",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.020392,
+          "y": 0.132727,
+          "width": 0.105098,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Functional",
+            "confidence": 0.8859
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Functional",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Speaking",
+        "confidence": 0.8867,
+        "bbox": {
+          "x": 0.551333,
+          "y": 0.132921,
+          "width": 0.099333,
+          "height": 0.021638
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Listening and",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.199216,
+          "y": 0.133636,
+          "width": 0.132941,
+          "height": 0.016667
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listening and",
+            "confidence": 0.8297
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listening and",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Reading and Speaking",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.382353,
+          "y": 0.135455,
+          "width": 0.264706,
+          "height": 0.016667
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Reading and",
+            "confidence": 0.8761
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Reading and Speaking",
+            "confidence": 0.9533
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "heading",
+        "content": "Writing",
+        "confidence": 0.7387,
+        "bbox": {
+          "x": 0.377333,
+          "y": 0.153014,
+          "width": 0.080667,
+          "height": 0.021638
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "language Writing",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.02,
+          "y": 0.153939,
+          "width": 0.433725,
+          "height": 0.018182
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "language",
+            "confidence": 0.872
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "language Writing",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Pronunciation",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.199216,
+          "y": 0.155455,
+          "width": 0.140784,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Pronunciation",
+            "confidence": 0.908
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Pronunciation",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "Snes sessees",
+        "confidence": 0,
+        "bbox": {
+          "x": 0.005098,
+          "y": 0.236364,
+          "width": 0.897647,
+          "height": 0.010303
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0009",
+        "type": "heading",
+        "content": "Listening:",
+        "confidence": 0.8989,
+        "bbox": {
+          "x": 0.194667,
+          "y": 0.24678,
+          "width": 0.064667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "Interactions:",
+        "confidence": 0.9242,
+        "bbox": {
+          "x": 0.017333,
+          "y": 0.24781,
+          "width": 0.082,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "heading",
+        "content": "Reading:",
+        "confidence": 0.8323,
+        "bbox": {
+          "x": 0.377333,
+          "y": 0.248326,
+          "width": 0.06,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "paragraph",
+        "content": "Interactions: Listening: Reading: + Information exchange about news stories",
+        "confidence": 0.9456,
+        "bbox": {
+          "x": 0.019216,
+          "y": 0.248485,
+          "width": 0.791765,
+          "height": 0.015455
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Interactions: Listening: Reading: + Information exchange about news stories",
+            "confidence": 0.9456
+          },
+          {
+            "engine": "rapidocr",
+            "content": "information exchangeabout news stories",
+            "confidence": 0.8754
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "Today's news",
+        "confidence": 0.8704,
+        "bbox": {
+          "x": 0.195333,
+          "y": 0.261206,
+          "width": 0.082,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "\"Citizen Journalism\"",
+        "confidence": 0.8556,
+        "bbox": {
+          "x": 0.378,
+          "y": 0.261721,
+          "width": 0.124667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "paragraph",
+        "content": "Agreeing with an opinion Today’s news “Citizen Journalism” + Keep talking: Interview about news-reading habits",
+        "confidence": 0.9427,
+        "bbox": {
+          "x": 0.018039,
+          "y": 0.262121,
+          "width": 0.843529,
+          "height": 0.015152
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Agreeingwithanopinion",
+            "confidence": 0.8686
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Agreeing with an opinion Today’s news “Citizen Journalism” + Keep talking: Interview about news-reading habits",
+            "confidence": 0.9427
+          },
+          {
+            "engine": "rapidocr",
+            "content": ".Keeptalking:Interview aboutnews-readinghabits",
+            "confidence": 0.9158
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Disagreeing politely News reports based A magazine article ¢ Opinions on reading the news",
+            "confidence": 0.8914
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "Disagreeing politely",
+        "confidence": 0.8813,
+        "bbox": {
+          "x": 0.016,
+          "y": 0.27254,
+          "width": 0.122,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Newsreports based",
+        "confidence": 0.9049,
+        "bbox": {
+          "x": 0.195333,
+          "y": 0.274601,
+          "width": 0.122,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "Amagazinearticle",
+        "confidence": 0.7901,
+        "bbox": {
+          "x": 0.377333,
+          "y": 0.275116,
+          "width": 0.112667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": ".Opinionsonreadingthenews",
+        "confidence": 0.8938,
+        "bbox": {
+          "x": 0.554,
+          "y": 0.277177,
+          "width": 0.188667,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "paragraph",
+        "content": "on viewer-submitted Writing: + Information exchange about headline news",
+        "confidence": 0.9033,
+        "bbox": {
+          "x": 0.210588,
+          "y": 0.287879,
+          "width": 0.611765,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Writing:",
+            "confidence": 0.825
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "on viewer-submitted Writing: + Information exchange about headline news",
+            "confidence": 0.9033
+          },
+          {
+            "engine": "rapidocr",
+            "content": "onviewer-submitted",
+            "confidence": 0.8732
+          },
+          {
+            "engine": "rapidocr",
+            "content": ".Information exchangeaboutheadlinenews",
+            "confidence": 0.9268
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "photos",
+        "confidence": 0.7884,
+        "bbox": {
+          "x": 0.208667,
+          "y": 0.299845,
+          "width": 0.045333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0022",
+        "type": "paragraph",
+        "content": "photos Become a citizen + Keep talking: Board game to practice questions",
+        "confidence": 0.8708,
+        "bbox": {
+          "x": 0.210588,
+          "y": 0.300606,
+          "width": 0.633333,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Become a citizen",
+            "confidence": 0.8304
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "photos Become a citizen + Keep talking: Board game to practice questions",
+            "confidence": 0.8708
+          },
+          {
+            "engine": "rapidocr",
+            "content": ".KeeptalkingBoard gameto practicequestions",
+            "confidence": 0.885
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "Pronunciation: journalist « Anews blog",
+        "confidence": 0.866,
+        "bbox": {
+          "x": 0.197647,
+          "y": 0.312121,
+          "width": 0.439608,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Pronunciation: journalist « Anews blog",
+            "confidence": 0.866
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Pronunciation:",
+            "confidence": 0.8971
+          },
+          {
+            "engine": "rapidocr",
+            "content": ".Anewsblog",
+            "confidence": 0.8682
+          },
+          {
+            "engine": "rapidocr",
+            "content": "journalist",
+            "confidence": 0.836
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "Reduced vowel sounds",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.197647,
+          "y": 0.325758,
+          "width": 0.134902,
+          "height": 0.008788
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Reducedvowel sounds",
+            "confidence": 0.8763
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Reduced vowel sounds",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "Interactions:",
+        "confidence": 0.9124,
+        "bbox": {
+          "x": 0.016,
+          "y": 0.362184,
+          "width": 0.082,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "heading",
+        "content": "Listening:",
+        "confidence": 0.9051,
+        "bbox": {
+          "x": 0.194,
+          "y": 0.362184,
+          "width": 0.064667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "heading",
+        "content": "Reading:",
+        "confidence": 0.8774,
+        "bbox": {
+          "x": 0.377333,
+          "y": 0.3627,
+          "width": 0.057333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "paragraph",
+        "content": "Interactions: Listening: Reading: + Discussion of improving English to communicate",
+        "confidence": 0.938,
+        "bbox": {
+          "x": 0.018039,
+          "y": 0.362727,
+          "width": 0.833725,
+          "height": 0.015455
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Interactions: Listening: Reading: + Discussion of improving English to communicate",
+            "confidence": 0.938
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Discussion of improving Englishto communicate",
+            "confidence": 0.8895
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "Expressing interest",
+        "confidence": 0.8531,
+        "bbox": {
+          "x": 0.016,
+          "y": 0.374549,
+          "width": 0.118,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "Optionsfor English",
+        "confidence": 0.8665,
+        "bbox": {
+          "x": 0.194667,
+          "y": 0.37558,
+          "width": 0.115333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "paragraph",
+        "content": "Expressing interest Options for English “Too Much Information” successfully",
+        "confidence": 0.9578,
+        "bbox": {
+          "x": 0.018039,
+          "y": 0.376667,
+          "width": 0.62,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"Too Much Information\"”",
+            "confidence": 0.8331
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Expressing interest Options for English “Too Much Information” successfully",
+            "confidence": 0.9578
+          },
+          {
+            "engine": "rapidocr",
+            "content": "successfully",
+            "confidence": 0.8837
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "Offeringopinions",
+        "confidence": 0.8721,
+        "bbox": {
+          "x": 0.016,
+          "y": 0.387429,
+          "width": 0.107333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Offeringopinions",
+            "confidence": 0.8721
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Offering opinions classes A magazine article + Keep talking: “Find someone who” activity about",
+            "confidence": 0.7957
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "classes",
+        "confidence": 0.8052,
+        "bbox": {
+          "x": 0.207333,
+          "y": 0.387429,
+          "width": 0.047333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "Amagazine article",
+        "confidence": 0.9033,
+        "bbox": {
+          "x": 0.376,
+          "y": 0.38949,
+          "width": 0.112667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": ".Keeptalking:“Find someonewho\"activityabout",
+        "confidence": 0.8678,
+        "bbox": {
+          "x": 0.553333,
+          "y": 0.39052,
+          "width": 0.300667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "heading",
+        "content": "Writing:",
+        "confidence": 0.8689,
+        "bbox": {
+          "x": 0.376,
+          "y": 0.400309,
+          "width": 0.055333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "paragraph",
+        "content": "Favorite methods of Writing: recent experiences",
+        "confidence": 0.9583,
+        "bbox": {
+          "x": 0.196863,
+          "y": 0.401818,
+          "width": 0.481569,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Favoritemethodsof",
+            "confidence": 0.889
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Favorite methods of Writing: recent experiences",
+            "confidence": 0.9583
+          },
+          {
+            "engine": "rapidocr",
+            "content": "recentexperiences",
+            "confidence": 0.8981
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "communication",
+        "confidence": 0.9073,
+        "bbox": {
+          "x": 0.208,
+          "y": 0.413189,
+          "width": 0.096667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "paragraph",
+        "content": "communication Aconversation in Role play about language class options",
+        "confidence": 0.9489,
+        "bbox": {
+          "x": 0.209804,
+          "y": 0.413939,
+          "width": 0.585098,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Aconversation in",
+            "confidence": 0.8843
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "communication Aconversation in Role play about language class options",
+            "confidence": 0.9489
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Roleplayabout languageclassoptions",
+            "confidence": 0.9144
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "heading",
+        "content": "writing",
+        "confidence": 0.8288,
+        "bbox": {
+          "x": 0.388,
+          "y": 0.424523,
+          "width": 0.05,
+          "height": 0.017517
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "paragraph",
+        "content": "Pronunciation: writing Personal anecdotes about communicating",
+        "confidence": 0.9583,
+        "bbox": {
+          "x": 0.196863,
+          "y": 0.426061,
+          "width": 0.62,
+          "height": 0.015152
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Pronunciation: writing Personal anecdotes about communicating",
+            "confidence": 0.9583
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Pronunciation:",
+            "confidence": 0.8618
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Personalanecdotesaboutcommunicating",
+            "confidence": 0.9226
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "label",
+        "content": "Unreleased final",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.196863,
+          "y": 0.44,
+          "width": 0.095686,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Unreleased final",
+            "confidence": 0.8247
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Unreleased final",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "heading",
+        "content": "Keep talking: Role play of body language",
+        "confidence": 0.9586,
+        "bbox": {
+          "x": 0.565882,
+          "y": 0.442121,
+          "width": 0.236863,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "KeeptalkingRoleplayofbody language",
+            "confidence": 0.9245
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Keep talking: Role play of body language",
+            "confidence": 0.9586
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "label",
+        "content": "consonant sounds",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.209412,
+          "y": 0.452727,
+          "width": 0.108627,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "consonant sounds",
+            "confidence": 0.874
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "consonant sounds",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0045",
+        "type": "paragraph",
+        "content": "Class survey about most popular ways of communicating",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.565882,
+          "y": 0.454545,
+          "width": 0.327451,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Class surveyaboutmostpopularwaysof communicating",
+            "confidence": 0.9227
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Class survey about most popular ways of communicating",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0046",
+        "type": "heading",
+        "content": "Listening:",
+        "confidence": 0.7555,
+        "bbox": {
+          "x": 0.194,
+          "y": 0.488408,
+          "width": 0.064,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0047",
+        "type": "heading",
+        "content": "Reading:",
+        "confidence": 0.8586,
+        "bbox": {
+          "x": 0.376667,
+          "y": 0.488923,
+          "width": 0.058,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0048",
+        "type": "paragraph",
+        "content": "Interactions: Listening: Reading: + List of popular street foods",
+        "confidence": 0.89,
+        "bbox": {
+          "x": 0.017647,
+          "y": 0.489394,
+          "width": 0.707059,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Interactions:",
+            "confidence": 0.8929
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Interactions: Listening: Reading: + List of popular street foods",
+            "confidence": 0.89
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listof popularstreetfoods",
+            "confidence": 0.9014
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0049",
+        "type": "label",
+        "content": "Giving a",
+        "confidence": 0.8055,
+        "bbox": {
+          "x": 0.014667,
+          "y": 0.500773,
+          "width": 0.052,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0050",
+        "type": "label",
+        "content": "Healthy eating habits",
+        "confidence": 0.8419,
+        "bbox": {
+          "x": 0.193333,
+          "y": 0.501803,
+          "width": 0.13,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0051",
+        "type": "paragraph",
+        "content": "Givinga Healthy eating habits “What Will You Be Eating * Keep talking: Description of festival foods",
+        "confidence": 0.9444,
+        "bbox": {
+          "x": 0.016863,
+          "y": 0.50303,
+          "width": 0.792157,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"What Will You Be Eating",
+            "confidence": 0.848
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Givinga Healthy eating habits “What Will You Be Eating * Keep talking: Description of festival foods",
+            "confidence": 0.9444
+          },
+          {
+            "engine": "rapidocr",
+            "content": "。Keeptalking:Description offestivalfoods",
+            "confidence": 0.9177
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0052",
+        "type": "sentence",
+        "content": "recommendation The San Francisco 25 Years from Today?” * Role play about finding time to cook",
+        "confidence": 0.9281,
+        "bbox": {
+          "x": 0.030196,
+          "y": 0.514545,
+          "width": 0.747843,
+          "height": 0.015152
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "recommendation",
+            "confidence": 0.8856
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "recommendation The San Francisco 25 Years from Today?” * Role play about finding time to cook",
+            "confidence": 0.9281
+          },
+          {
+            "engine": "rapidocr",
+            "content": "TheSan Francisco",
+            "confidence": 0.8477
+          },
+          {
+            "engine": "rapidocr",
+            "content": "25Years fromToday?\"",
+            "confidence": 0.8827
+          },
+          {
+            "engine": "rapidocr",
+            "content": ".Role playaboutfinding timeto cook",
+            "confidence": 0.8614
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0053",
+        "type": "label",
+        "content": "Acceptinga",
+        "confidence": 0.8876,
+        "bbox": {
+          "x": 0.014667,
+          "y": 0.526018,
+          "width": 0.073333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0054",
+        "type": "label",
+        "content": "GourmetChocolateTour",
+        "confidence": 0.8908,
+        "bbox": {
+          "x": 0.207333,
+          "y": 0.528078,
+          "width": 0.142667,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "GourmetChocolateTour",
+            "confidence": 0.8908
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Accepting a Gourmet Chocolate Tour A magazine article * Description of an original snack",
+            "confidence": 0.825
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0055",
+        "type": "label",
+        "content": "Amagazinearticle",
+        "confidence": 0.9115,
+        "bbox": {
+          "x": 0.375333,
+          "y": 0.528594,
+          "width": 0.112667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0056",
+        "type": "label",
+        "content": ".Description ofan original snack",
+        "confidence": 0.8997,
+        "bbox": {
+          "x": 0.549333,
+          "y": 0.529624,
+          "width": 0.203333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0057",
+        "type": "paragraph",
+        "content": "recommendation Pronunciation: Writing: * Keep talking: interview about fun food facts",
+        "confidence": 0.8973,
+        "bbox": {
+          "x": 0.029804,
+          "y": 0.539394,
+          "width": 0.792157,
+          "height": 0.014848
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "recommendation Pronunciation: Writing: * Keep talking: interview about fun food facts",
+            "confidence": 0.8973
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Pronunciation:",
+            "confidence": 0.9068
+          },
+          {
+            "engine": "rapidocr",
+            "content": "recommendation",
+            "confidence": 0.8926
+          },
+          {
+            "engine": "rapidocr",
+            "content": ".Keeptalking:Interviewaboutfun food facts",
+            "confidence": 0.9064
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0058",
+        "type": "heading",
+        "content": "Writing:",
+        "confidence": 0.8135,
+        "bbox": {
+          "x": 0.375333,
+          "y": 0.539413,
+          "width": 0.054667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0059",
+        "type": "label",
+        "content": "Linkedconsonant and",
+        "confidence": 0.9003,
+        "bbox": {
+          "x": 0.194,
+          "y": 0.552293,
+          "width": 0.134667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Linkedconsonant and",
+            "confidence": 0.9003
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Linked consonant and Arecipe * Aplan fora food tour",
+            "confidence": 0.8867
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0060",
+        "type": "label",
+        "content": "Arecipe",
+        "confidence": 0.8219,
+        "bbox": {
+          "x": 0.374667,
+          "y": 0.553323,
+          "width": 0.054,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0061",
+        "type": "label",
+        "content": ".Aplan forafood tour",
+        "confidence": 0.8333,
+        "bbox": {
+          "x": 0.550667,
+          "y": 0.554869,
+          "width": 0.140667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0062",
+        "type": "label",
+        "content": "vowel sounds",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.208235,
+          "y": 0.566667,
+          "width": 0.080784,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "vowel sounds",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "vowel sounds",
+            "confidence": 0.8731
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0063",
+        "type": "label",
+        "content": "Interactions:",
+        "confidence": 0.9247,
+        "bbox": {
+          "x": 0.014,
+          "y": 0.602267,
+          "width": 0.082667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0064",
+        "type": "heading",
+        "content": "Listening:",
+        "confidence": 0.8137,
+        "bbox": {
+          "x": 0.193333,
+          "y": 0.602782,
+          "width": 0.064667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0065",
+        "type": "heading",
+        "content": "Reading:",
+        "confidence": 0.8716,
+        "bbox": {
+          "x": 0.374667,
+          "y": 0.602782,
+          "width": 0.06,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Reading:",
+            "confidence": 0.8716
+          },
+          {
+            "engine": "rapidocr",
+            "content": "\"Make Someone",
+            "confidence": 0.8755
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0066",
+        "type": "paragraph",
+        "content": "Interactions: Listening: Reading: * Interviews about reactions to different situations",
+        "confidence": 0.882,
+        "bbox": {
+          "x": 0.016471,
+          "y": 0.603333,
+          "width": 0.838039,
+          "height": 0.014848
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Interactions: Listening: Reading: * Interviews about reactions to different situations",
+            "confidence": 0.882
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Interviews about reactions to different situations",
+            "confidence": 0.872
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0067",
+        "type": "label",
+        "content": "Expressingan",
+        "confidence": 0.834,
+        "bbox": {
+          "x": 0.014,
+          "y": 0.615662,
+          "width": 0.086,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0068",
+        "type": "paragraph",
+        "content": "expectation Radio talk show about Happy” to dilemmas",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.029412,
+          "y": 0.628485,
+          "width": 0.60902,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Cross-culturaldifferences",
+            "confidence": 0.9105
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Expressing an Cross-cultural differences “Make Someone * Keep talking: Information exchange about reaction",
+            "confidence": 0.9223
+          },
+          {
+            "engine": "rapidocr",
+            "content": ".Keeptalking:Informationexchangeaboutreaction",
+            "confidence": 0.9102
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "expectation Radio talk show about Happy” to dilemmas",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "expectation",
+            "confidence": 0.877
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Radiotalk showabout",
+            "confidence": 0.8854
+          },
+          {
+            "engine": "rapidocr",
+            "content": "todilemmas",
+            "confidence": 0.8699
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0069",
+        "type": "label",
+        "content": "Happy\"",
+        "confidence": 0.8214,
+        "bbox": {
+          "x": 0.375333,
+          "y": 0.630088,
+          "width": 0.048667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0070",
+        "type": "label",
+        "content": "acts ofkindness",
+        "confidence": 0.8842,
+        "bbox": {
+          "x": 0.205333,
+          "y": 0.641422,
+          "width": 0.1,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0071",
+        "type": "paragraph",
+        "content": "Acknowledging an acts of kindness A magazine article « Information exchange about customs in different",
+        "confidence": 0.892,
+        "bbox": {
+          "x": 0.015686,
+          "y": 0.642121,
+          "width": 0.838431,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Acknowledgingan",
+            "confidence": 0.8685
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Acknowledging an acts of kindness A magazine article « Information exchange about customs in different",
+            "confidence": 0.892
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Amagazine article",
+            "confidence": 0.8843
+          },
+          {
+            "engine": "rapidocr",
+            "content": ".Information exchangeaboutcustoms indifferent",
+            "confidence": 0.9278
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0072",
+        "type": "label",
+        "content": "expectation Pronunciation: Writing: countries",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.02902,
+          "y": 0.653939,
+          "width": 0.591765,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Writing:",
+            "confidence": 0.7952
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "expectation Pronunciation: Writing: countries",
+            "confidence": 0.9575
+          },
+          {
+            "engine": "rapidocr",
+            "content": "expectation",
+            "confidence": 0.8773
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Pronunciation:",
+            "confidence": 0.9011
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0073",
+        "type": "label",
+        "content": "countries",
+        "confidence": 0.8328,
+        "bbox": {
+          "x": 0.562667,
+          "y": 0.656878,
+          "width": 0.06,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0074",
+        "type": "label",
+        "content": "Reductionof have",
+        "confidence": 0.8509,
+        "bbox": {
+          "x": 0.193333,
+          "y": 0.667697,
+          "width": 0.11,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0075",
+        "type": "paragraph",
+        "content": "Reduction of have An act of kindness + Information exchange about past hypothetical situations",
+        "confidence": 0.9514,
+        "bbox": {
+          "x": 0.195686,
+          "y": 0.668182,
+          "width": 0.693725,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "An act of kindness",
+            "confidence": 0.8287
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Reduction of have An act of kindness + Information exchange about past hypothetical situations",
+            "confidence": 0.9514
+          },
+          {
+            "engine": "rapidocr",
+            "content": ".Informationexchangeabout pasthypothetical situations",
+            "confidence": 0.9076
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0076",
+        "type": "label",
+        "content": "Keeptalking:Discussion of rightandwrongdecisions",
+        "confidence": 0.9107,
+        "bbox": {
+          "x": 0.552667,
+          "y": 0.681092,
+          "width": 0.324667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Keeptalking:Discussion of rightandwrongdecisions",
+            "confidence": 0.9107
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Keep talking: Discussion of right and wrong decisions",
+            "confidence": 0.9187
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0077",
+        "type": "label",
+        "content": ".Discussion aboutkind acts",
+        "confidence": 0.9159,
+        "bbox": {
+          "x": 0.551333,
+          "y": 0.693457,
+          "width": 0.173333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": ".Discussion aboutkind acts",
+            "confidence": 0.9159
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "+ Discussion about kind acts",
+            "confidence": 0.908
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0078",
+        "type": "paragraph",
+        "content": "zee enn SF RE Pam eeioe Nia coal",
+        "confidence": 0.1938,
+        "bbox": {
+          "x": 0.00549,
+          "y": 0.715455,
+          "width": 0.894118,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0079",
+        "type": "heading",
+        "content": "Listening:",
+        "confidence": 0.9057,
+        "bbox": {
+          "x": 0.192,
+          "y": 0.730036,
+          "width": 0.064667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0080",
+        "type": "heading",
+        "content": "Reading:",
+        "confidence": 0.8821,
+        "bbox": {
+          "x": 0.375333,
+          "y": 0.730551,
+          "width": 0.058667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0081",
+        "type": "label",
+        "content": "Interactions: Listening: Reading:",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.016078,
+          "y": 0.730606,
+          "width": 0.41451,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Interactions:",
+            "confidence": 0.8296
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Interactions: Listening: Reading:",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0082",
+        "type": "label",
+        "content": "Comparison ofdifferent cities",
+        "confidence": 0.9215,
+        "bbox": {
+          "x": 0.552,
+          "y": 0.732612,
+          "width": 0.189333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Comparison ofdifferent cities",
+            "confidence": 0.9215
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "+ Comparison of different cities",
+            "confidence": 0.87
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0083",
+        "type": "label",
+        "content": "Reportingaproblem",
+        "confidence": 0.8871,
+        "bbox": {
+          "x": 0.013333,
+          "y": 0.742916,
+          "width": 0.126667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0084",
+        "type": "label",
+        "content": "Hotelproblems",
+        "confidence": 0.8766,
+        "bbox": {
+          "x": 0.192,
+          "y": 0.742916,
+          "width": 0.096,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0085",
+        "type": "label",
+        "content": "\"Welcome to Medellin,",
+        "confidence": 0.9124,
+        "bbox": {
+          "x": 0.374667,
+          "y": 0.742916,
+          "width": 0.138,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"Welcome to Medellin,",
+            "confidence": 0.9124
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Reporting a problem Hotel problems “Welcome to Medellin, + Keep talking: Travel adventure game",
+            "confidence": 0.9243
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0086",
+        "type": "label",
+        "content": "·Keep talking:Traveladventure game",
+        "confidence": 0.896,
+        "bbox": {
+          "x": 0.55,
+          "y": 0.745492,
+          "width": 0.23,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0087",
+        "type": "label",
+        "content": "Respondingto a",
+        "confidence": 0.8968,
+        "bbox": {
+          "x": 0.013333,
+          "y": 0.755281,
+          "width": 0.099333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0088",
+        "type": "label",
+        "content": "Cityfestivals",
+        "confidence": 0.8642,
+        "bbox": {
+          "x": 0.192667,
+          "y": 0.756311,
+          "width": 0.078667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0089",
+        "type": "label",
+        "content": "Columbia-The City",
+        "confidence": 0.8886,
+        "bbox": {
+          "x": 0.388,
+          "y": 0.756826,
+          "width": 0.121333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Columbia-The City",
+            "confidence": 0.8886
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Responding toa City festivals Columbia - The City ¢ Role play about a hotel situation",
+            "confidence": 0.852
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0090",
+        "type": "sentence",
+        "content": ".Role play about a hotel situation",
+        "confidence": 0.869,
+        "bbox": {
+          "x": 0.549333,
+          "y": 0.758372,
+          "width": 0.208,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0091",
+        "type": "label",
+        "content": "problem",
+        "confidence": 0.8666,
+        "bbox": {
+          "x": 0.025333,
+          "y": 0.76713,
+          "width": 0.056667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0092",
+        "type": "paragraph",
+        "content": "problem Pronunciation: of Everlasting Spring” * Advice for foreign visitors",
+        "confidence": 0.86,
+        "bbox": {
+          "x": 0.028627,
+          "y": 0.767879,
+          "width": 0.685098,
+          "height": 0.015152
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "problem Pronunciation: of Everlasting Spring” * Advice for foreign visitors",
+            "confidence": 0.86
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Pronunciation:",
+            "confidence": 0.8133
+          },
+          {
+            "engine": "rapidocr",
+            "content": "of EverlastingSpring”",
+            "confidence": 0.8691
+          },
+          {
+            "engine": "rapidocr",
+            "content": "·Adviceforforeign visitors",
+            "confidence": 0.8557
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0093",
+        "type": "label",
+        "content": "Awebsite",
+        "confidence": 0.8867,
+        "bbox": {
+          "x": 0.374667,
+          "y": 0.781041,
+          "width": 0.061333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0094",
+        "type": "paragraph",
+        "content": "Linking of same Awebsite * Keep talking: Interview about solutions to travel",
+        "confidence": 0.9283,
+        "bbox": {
+          "x": 0.194902,
+          "y": 0.782727,
+          "width": 0.650588,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Linking of same",
+            "confidence": 0.8292
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Linking of same Awebsite * Keep talking: Interview about solutions to travel",
+            "confidence": 0.9283
+          },
+          {
+            "engine": "rapidocr",
+            "content": ":Keeptalking:Interview about solutions to travel",
+            "confidence": 0.8518
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0095",
+        "type": "label",
+        "content": "consonant sounds Writing: problems",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.207451,
+          "y": 0.795152,
+          "width": 0.413333,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Writing:",
+            "confidence": 0.8221
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "consonant sounds Writing: problems",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "consonant sounds",
+            "confidence": 0.8517
+          },
+          {
+            "engine": "rapidocr",
+            "content": "problems",
+            "confidence": 0.7888
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0096",
+        "type": "label",
+        "content": "Creatinga home page",
+        "confidence": 0.878,
+        "bbox": {
+          "x": 0.374667,
+          "y": 0.807316,
+          "width": 0.132,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Creatinga home page",
+            "confidence": 0.878
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Creating a home page » Aplan fora town festival",
+            "confidence": 0.88
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0097",
+        "type": "label",
+        "content": "·Aplanforatownfestival",
+        "confidence": 0.9107,
+        "bbox": {
+          "x": 0.550667,
+          "y": 0.809892,
+          "width": 0.16,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0098",
+        "type": "label",
+        "content": "Interactions:",
+        "confidence": 0.8878,
+        "bbox": {
+          "x": 0.012667,
+          "y": 0.84441,
+          "width": 0.082667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0099",
+        "type": "heading",
+        "content": "Listening:",
+        "confidence": 0.9046,
+        "bbox": {
+          "x": 0.192,
+          "y": 0.844925,
+          "width": 0.063333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0100",
+        "type": "heading",
+        "content": "Reading:",
+        "confidence": 0.8683,
+        "bbox": {
+          "x": 0.374667,
+          "y": 0.844925,
+          "width": 0.058,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0101",
+        "type": "label",
+        "content": ".Discussion aboutjoband personalitymatches",
+        "confidence": 0.9249,
+        "bbox": {
+          "x": 0.550667,
+          "y": 0.847501,
+          "width": 0.287333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Interactions: Listening: Reading: ¢ Discussion about job and personality matches",
+            "confidence": 0.769
+          },
+          {
+            "engine": "rapidocr",
+            "content": ".Discussion aboutjoband personalitymatches",
+            "confidence": 0.9249
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0102",
+        "type": "label",
+        "content": "Interrupting politely",
+        "confidence": 0.8679,
+        "bbox": {
+          "x": 0.012,
+          "y": 0.85626,
+          "width": 0.125333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0103",
+        "type": "label",
+        "content": "\"Therapies That Work!\"",
+        "confidence": 0.9074,
+        "bbox": {
+          "x": 0.374,
+          "y": 0.85729,
+          "width": 0.142667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"Therapies That Work!\"",
+            "confidence": 0.9074
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Interrupting politely Type A and Type B “Therapies That Work!” + Keep talking: Discussion of birth order and personality",
+            "confidence": 0.8205
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0104",
+        "type": "label",
+        "content": "TypeAand TypeB",
+        "confidence": 0.8403,
+        "bbox": {
+          "x": 0.192667,
+          "y": 0.859351,
+          "width": 0.108667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0105",
+        "type": "label",
+        "content": ".Keeptalking:Discussion of birth orderand personality",
+        "confidence": 0.8927,
+        "bbox": {
+          "x": 0.55,
+          "y": 0.859866,
+          "width": 0.334,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0106",
+        "type": "label",
+        "content": "personalities",
+        "confidence": 0.9028,
+        "bbox": {
+          "x": 0.204667,
+          "y": 0.87017,
+          "width": 0.081333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "personalities",
+            "confidence": 0.9028
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Agreeing to an personalities An article ¢ Discussion about personality",
+            "confidence": 0.729
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0107",
+        "type": "label",
+        "content": "Agreeing to an",
+        "confidence": 0.8603,
+        "bbox": {
+          "x": 0.013333,
+          "y": 0.870685,
+          "width": 0.088667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0108",
+        "type": "label",
+        "content": "An article",
+        "confidence": 0.8243,
+        "bbox": {
+          "x": 0.373333,
+          "y": 0.8712,
+          "width": 0.061333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0109",
+        "type": "label",
+        "content": ".Discussion about personality",
+        "confidence": 0.881,
+        "bbox": {
+          "x": 0.549333,
+          "y": 0.872231,
+          "width": 0.187333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0110",
+        "type": "label",
+        "content": "interruption",
+        "confidence": 0.9196,
+        "bbox": {
+          "x": 0.024667,
+          "y": 0.88202,
+          "width": 0.077333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0111",
+        "type": "heading",
+        "content": "Writing:",
+        "confidence": 0.8441,
+        "bbox": {
+          "x": 0.374,
+          "y": 0.88305,
+          "width": 0.054667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0112",
+        "type": "paragraph",
+        "content": "interruption Guided imagery Writing: « Information exchange about making wishes",
+        "confidence": 0.914,
+        "bbox": {
+          "x": 0.028235,
+          "y": 0.883939,
+          "width": 0.793333,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Guided imagery",
+            "confidence": 0.8643
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "interruption Guided imagery Writing: « Information exchange about making wishes",
+            "confidence": 0.914
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Information exchangeaboutmakingwishes",
+            "confidence": 0.9179
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0113",
+        "type": "paragraph",
+        "content": "Pronunciation: About relaxation + Keep talking: Board game about wishes",
+        "confidence": 0.901,
+        "bbox": {
+          "x": 0.194118,
+          "y": 0.896364,
+          "width": 0.600392,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Pronunciation:",
+            "confidence": 0.8765
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Pronunciation: About relaxation + Keep talking: Board game about wishes",
+            "confidence": 0.901
+          },
+          {
+            "engine": "rapidocr",
+            "content": "About relaxation",
+            "confidence": 0.9064
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Keep talking:Board gameabout wishes",
+            "confidence": 0.8785
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0114",
+        "type": "label",
+        "content": "Stress in thoughtgroups",
+        "confidence": 0.8878,
+        "bbox": {
+          "x": 0.191333,
+          "y": 0.908295,
+          "width": 0.148667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Stress in thoughtgroups",
+            "confidence": 0.8878
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Stress in thought groups + Brainstorm creative ways to relax",
+            "confidence": 0.896
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0115",
+        "type": "label",
+        "content": ".Brainstorm creativeways to relax",
+        "confidence": 0.8788,
+        "bbox": {
+          "x": 0.55,
+          "y": 0.910871,
+          "width": 0.212667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0116",
+        "type": "heading",
+        "content": "Scope and sequence",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.741961,
+          "y": 0.969091,
+          "width": 0.125098,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Scope and sequence",
+            "confidence": 0.8587
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Scope and sequence",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [],
+    "ocrExercises": [],
+    "ocrTables": [
+      {
+        "title": "Scope and sequence",
+        "headers": [],
+        "rows": [
+          [
+            "Writing"
+          ],
+          [
+            "language Writing"
+          ],
+          [
+            "Pronunciation"
+          ],
+          [
+            "Snes sessees"
+          ],
+          [
+            "Listening:"
+          ],
+          [
+            "Interactions:"
+          ],
+          [
+            "Reading:"
+          ],
+          [
+            "Interactions: Listening: Reading: + Information exchange about news stories"
+          ],
+          [
+            "Today's news"
+          ],
+          [
+            "\"Citizen Journalism\""
+          ],
+          [
+            "Agreeing with an opinion Today’s news “Citizen Journalism” + Keep talking: Interview about news-reading habits"
+          ],
+          [
+            "Disagreeing politely"
+          ],
+          [
+            "Newsreports based"
+          ],
+          [
+            "Amagazinearticle"
+          ],
+          [
+            ".Opinionsonreadingthenews"
+          ],
+          [
+            "on viewer-submitted Writing: + Information exchange about headline news"
+          ],
+          [
+            "photos"
+          ],
+          [
+            "photos Become a citizen + Keep talking: Board game to practice questions"
+          ],
+          [
+            "Pronunciation: journalist « Anews blog"
+          ],
+          [
+            "Reduced vowel sounds"
+          ],
+          [
+            "Interactions:"
+          ],
+          [
+            "Listening:"
+          ],
+          [
+            "Reading:"
+          ],
+          [
+            "Interactions: Listening: Reading: + Discussion of improving English to communicate"
+          ],
+          [
+            "Expressing interest"
+          ],
+          [
+            "Optionsfor English"
+          ],
+          [
+            "Expressing interest Options for English “Too Much Information” successfully"
+          ],
+          [
+            "Offeringopinions"
+          ],
+          [
+            "classes"
+          ],
+          [
+            "Amagazine article"
+          ],
+          [
+            ".Keeptalking:“Find someonewho\"activityabout"
+          ],
+          [
+            "Writing:"
+          ],
+          [
+            "Favorite methods of Writing: recent experiences"
+          ],
+          [
+            "communication"
+          ],
+          [
+            "communication Aconversation in Role play about language class options"
+          ],
+          [
+            "writing"
+          ],
+          [
+            "Pronunciation: writing Personal anecdotes about communicating"
+          ],
+          [
+            "Unreleased final"
+          ],
+          [
+            "Keep talking: Role play of body language"
+          ],
+          [
+            "consonant sounds"
+          ],
+          [
+            "Class survey about most popular ways of communicating"
+          ],
+          [
+            "Listening:"
+          ],
+          [
+            "Reading:"
+          ],
+          [
+            "Interactions: Listening: Reading: + List of popular street foods"
+          ],
+          [
+            "Giving a"
+          ],
+          [
+            "Healthy eating habits"
+          ],
+          [
+            "Givinga Healthy eating habits “What Will You Be Eating * Keep talking: Description of festival foods"
+          ],
+          [
+            "recommendation The San Francisco 25 Years from Today?” * Role play about finding time to cook"
+          ],
+          [
+            "Acceptinga"
+          ],
+          [
+            "GourmetChocolateTour"
+          ],
+          [
+            "Amagazinearticle"
+          ],
+          [
+            ".Description ofan original snack"
+          ],
+          [
+            "recommendation Pronunciation: Writing: * Keep talking: interview about fun food facts"
+          ],
+          [
+            "Writing:"
+          ],
+          [
+            "Linkedconsonant and"
+          ],
+          [
+            "Arecipe"
+          ],
+          [
+            ".Aplan forafood tour"
+          ],
+          [
+            "vowel sounds"
+          ],
+          [
+            "Interactions:"
+          ],
+          [
+            "Listening:"
+          ],
+          [
+            "Reading:"
+          ],
+          [
+            "Interactions: Listening: Reading: * Interviews about reactions to different situations"
+          ],
+          [
+            "Expressingan"
+          ],
+          [
+            "expectation Radio talk show about Happy” to dilemmas"
+          ],
+          [
+            "Happy\""
+          ],
+          [
+            "acts ofkindness"
+          ],
+          [
+            "Acknowledging an acts of kindness A magazine article « Information exchange about customs in different"
+          ],
+          [
+            "expectation Pronunciation: Writing: countries"
+          ],
+          [
+            "countries"
+          ],
+          [
+            "Reductionof have"
+          ],
+          [
+            "Reduction of have An act of kindness + Information exchange about past hypothetical situations"
+          ],
+          [
+            "Keeptalking:Discussion of rightandwrongdecisions"
+          ],
+          [
+            ".Discussion aboutkind acts"
+          ],
+          [
+            "zee enn SF RE Pam eeioe Nia coal"
+          ],
+          [
+            "Listening:"
+          ],
+          [
+            "Reading:"
+          ],
+          [
+            "Interactions: Listening: Reading:"
+          ],
+          [
+            "Comparison ofdifferent cities"
+          ],
+          [
+            "Reportingaproblem"
+          ],
+          [
+            "Hotelproblems"
+          ],
+          [
+            "\"Welcome to Medellin,"
+          ],
+          [
+            "·Keep talking:Traveladventure game"
+          ],
+          [
+            "Respondingto a"
+          ],
+          [
+            "Cityfestivals"
+          ],
+          [
+            "Columbia-The City"
+          ],
+          [
+            ".Role play about a hotel situation"
+          ],
+          [
+            "problem"
+          ],
+          [
+            "problem Pronunciation: of Everlasting Spring” * Advice for foreign visitors"
+          ],
+          [
+            "Awebsite"
+          ],
+          [
+            "Linking of same Awebsite * Keep talking: Interview about solutions to travel"
+          ],
+          [
+            "consonant sounds Writing: problems"
+          ],
+          [
+            "Creatinga home page"
+          ],
+          [
+            "·Aplanforatownfestival"
+          ],
+          [
+            "Interactions:"
+          ],
+          [
+            "Listening:"
+          ],
+          [
+            "Reading:"
+          ],
+          [
+            ".Discussion aboutjoband personalitymatches"
+          ],
+          [
+            "Interrupting politely"
+          ],
+          [
+            "\"Therapies That Work!\""
+          ],
+          [
+            "TypeAand TypeB"
+          ],
+          [
+            ".Keeptalking:Discussion of birth orderand personality"
+          ],
+          [
+            "personalities"
+          ],
+          [
+            "Agreeing to an"
+          ],
+          [
+            "An article"
+          ],
+          [
+            ".Discussion about personality"
+          ],
+          [
+            "interruption"
+          ],
+          [
+            "Writing:"
+          ],
+          [
+            "interruption Guided imagery Writing: « Information exchange about making wishes"
+          ],
+          [
+            "Pronunciation: About relaxation + Keep talking: Board game about wishes"
+          ]
+        ],
+        "tableStructureConfidence": "low",
+        "fallbackText": "Functional Speaking Listening and Reading and Speaking Writing language Writing Pronunciation Snes sessees Listening: Interactions: Reading: Interactions: Listening: Reading: + Information exchange about news stories Today's news \"Citizen Journalism\" Agreeing with an opinion Today’s news “Citizen Journalism” + Keep talking: Interview about news-reading habits Disagreeing politely Newsreports based Amagazinearticle .Opinionsonreadingthenews on viewer-submitted Writing: + Information exchange about headline news photos photos Become a citizen + Keep talking: Board game to practice questions Pronunciation: journalist « Anews blog Reduced vowel sounds Interactions: Listening: Reading: Interactions: Listening: Reading: + Discussion of improving English to communicate Expressing interest Optionsfor English Expressing interest Options for English “Too Much Information” successfully Offeringopinions classes Amagazine article .Keeptalking:“Find someonewho\"activityabout Writing: Favorite methods of Writing: recent experiences communication communication Aconversation in Role play about language class options writing Pronunciation: writing Personal anecdotes about communicating Unreleased final Keep talking: Role play of body language consonant sounds Class survey about most popular ways of communicating Listening: Reading: Interactions: Listening: Reading: + List of popular street foods Giving a Healthy eating habits Givinga Healthy eating habits “What Will You Be Eating * Keep talking: Description of festival foods recommendation The San Francisco 25 Years from Today?” * Role play about finding time to cook Acceptinga GourmetChocolateTour Amagazinearticle .Description ofan original snack recommendation Pronunciation: Writing: * Keep talking: interview about fun food facts Writing: Linkedconsonant and Arecipe .Aplan forafood tour vowel sounds Interactions: Listening: Reading: Interactions: Listening: Reading: * Interviews about reactions to different situations Expressingan expectation Radio talk show about Happy” to dilemmas Happy\" acts ofkindness Acknowledging an acts of kindness A magazine article « Information exchange about customs in different expectation Pronunciation: Writing: countries countries Reductionof have Reduction of have An act of kindness + Information exchange about past hypothetical situations Keeptalking:Discussion of rightandwrongdecisions .Discussion aboutkind acts zee enn SF RE Pam eeioe Nia coal Listening: Reading: Interactions: Listening: Reading: Comparison ofdifferent cities Reportingaproblem Hotelproblems \"Welcome to Medellin, ·Keep talking:Traveladventure game Respondingto a Cityfestivals Columbia-The City .Role play about a hotel situation problem problem Pronunciation: of Everlasting Spring” * Advice for foreign visitors Awebsite Linking of same Awebsite * Keep talking: Interview about solutions to travel consonant sounds Writing: problems Creatinga home page ·Aplanforatownfestival Interactions: Listening: Reading: .Discussion aboutjoband personalitymatches Interrupting politely \"Therapies That Work!\" TypeAand TypeB .Keeptalking:Discussion of birth orderand personality personalities Agreeing to an An article .Discussion about personality interruption Writing: interruption Guided imagery Writing: « Information exchange about making wishes Pronunciation: About relaxation + Keep talking: Board game about wishes Stress in thoughtgroups .Brainstorm creativeways to relax Scope and sequence",
+        "sourceElementIds": [
+          "text_0001",
+          "text_0002",
+          "text_0003",
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040",
+          "text_0041",
+          "text_0042",
+          "text_0043",
+          "text_0044",
+          "text_0045",
+          "text_0046",
+          "text_0047",
+          "text_0048",
+          "text_0049",
+          "text_0050",
+          "text_0051",
+          "text_0052",
+          "text_0053",
+          "text_0054",
+          "text_0055",
+          "text_0056",
+          "text_0057",
+          "text_0058",
+          "text_0059",
+          "text_0060",
+          "text_0061",
+          "text_0062",
+          "text_0063",
+          "text_0064",
+          "text_0065",
+          "text_0066",
+          "text_0067",
+          "text_0068",
+          "text_0069",
+          "text_0070",
+          "text_0071",
+          "text_0072",
+          "text_0073",
+          "text_0074",
+          "text_0075",
+          "text_0076",
+          "text_0077",
+          "text_0078",
+          "text_0079",
+          "text_0080",
+          "text_0081",
+          "text_0082",
+          "text_0083",
+          "text_0084",
+          "text_0085",
+          "text_0086",
+          "text_0087",
+          "text_0088",
+          "text_0089",
+          "text_0090",
+          "text_0091",
+          "text_0092",
+          "text_0093",
+          "text_0094",
+          "text_0095",
+          "text_0096",
+          "text_0097",
+          "text_0098",
+          "text_0099",
+          "text_0100",
+          "text_0101",
+          "text_0102",
+          "text_0103",
+          "text_0104",
+          "text_0105",
+          "text_0106",
+          "text_0107",
+          "text_0108",
+          "text_0109",
+          "text_0110",
+          "text_0111",
+          "text_0112",
+          "text_0113",
+          "text_0114",
+          "text_0115",
+          "text_0116"
+        ]
+      }
+    ],
+    "ocrImages": [],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "Functional\nListening and\nReading and\nSpeaking\nlanguage\nWriting\nPronunciation\nListening:\nInteractions:\nReading:\ninformation exchangeabout news stories\nAgreeingwithanopinion\nToday's news\n\"Citizen Journalism\"\n.Keeptalking:Interview aboutnews-readinghabits\nDisagreeing politely\nNewsreports based\nAmagazinearticle\n.Opinionsonreadingthenews\nWriting:\nonviewer-submitted\n.Information exchangeaboutheadlinenews\nphotos\nBecome a citizen\n.KeeptalkingBoard gameto practicequestions\nPronunciation:\n.Anewsblog\njournalist\nReducedvowel sounds\nInteractions:\nListening:\nReading:\nDiscussion of improving Englishto communicate\nExpressing interest\nOptionsfor English\n\"Too Much Information\"”\nsuccessfully\nOfferingopinions\nclasses\nAmagazine article\n.Keeptalking:“Find someonewho\"activityabout\nWriting:\nFavoritemethodsof\nrecentexperiences\ncommunication\nAconversation in\nRoleplayabout languageclassoptions\nwriting\nPronunciation:\nPersonalanecdotesaboutcommunicating\nUnreleased final\nKeeptalkingRoleplayofbody language\nconsonant sounds\nClass surveyaboutmostpopularwaysof communicating\nInteractions:\nListening:\nReading:\nListof popularstreetfoods\nGiving a\nHealthy eating habits\n\"What Will You Be Eating\n。Keeptalking:Description offestivalfoods\nrecommendation\nTheSan Francisco\n25Years fromToday?\"\n.Role playaboutfinding timeto cook\nAcceptinga\nGourmetChocolateTour\nAmagazinearticle\n.Description ofan original snack\nWriting:\nPronunciation:\nrecommendation\n.Keeptalking:Interviewaboutfun food facts\nLinkedconsonant and\nArecipe\n.Aplan forafood tour\nvowel sounds\nInteractions:\nListening:\nReading:\nInterviews about reactions to different situations\nExpressingan\n\"Make Someone\nCross-culturaldifferences\n.Keeptalking:Informationexchangeaboutreaction\nexpectation\nRadiotalk showabout\nHappy\"\ntodilemmas\nAcknowledgingan\nacts ofkindness\nAmagazine article\n.Information exchangeaboutcustoms indifferent\nWriting:\nexpectation\nPronunciation:\ncountries\nReductionof have\nAn act of kindness\n.Informationexchangeabout pasthypothetical situations\nKeeptalking:Discussion of rightandwrongdecisions\n.Discussion aboutkind acts\nInteractions:\nListening:\nReading:\nComparison ofdifferent cities\nReportingaproblem\nHotelproblems\n\"Welcome to Medellin,\n·Keep talking:Traveladventure game\nRespondingto a\nCityfestivals\nColumbia-The City\n.Role play about a hotel situation\nproblem\nPronunciation:\nof EverlastingSpring”\n·Adviceforforeign visitors\nLinking of same\nAwebsite\n:Keeptalking:Interview about solutions to travel\nWriting:\nconsonant sounds\nproblems\nCreatinga home page\n·Aplanforatownfestival\nInteractions:\nListening:\nReading:\n.Discussion aboutjoband personalitymatches\nInterrupting politely\n\"Therapies That Work!\"\nTypeAand TypeB\n.Keeptalking:Discussion of birth orderand personality\npersonalities\nAgreeing to an\nAn article\n.Discussion about personality\ninterruption\nGuided imagery\nWriting:\nInformation exchangeaboutmakingwishes\nPronunciation:\nAbout relaxation\nKeep talking:Board gameabout wishes\nStress in thoughtgroups\n.Brainstorm creativeways to relax\ndehkhodaedu.com\nScope and sequence",
+      "tesseract_psm3": "Functional\n\nListening and\nPronunciation\n\nReading and Speaking\n\nlanguage Writing\n\nSnes sessees\n\nInteractions: Listening: Reading: + Information exchange about news stories\nAgreeing with an opinion Today’s news “Citizen Journalism” + Keep talking: Interview about news-reading habits\nDisagreeing politely News reports based A magazine article ¢ Opinions on reading the news\non viewer-submitted Writing: + Information exchange about headline news\nphotos Become a citizen + Keep talking: Board game to practice questions\nPronunciation: journalist « Anews blog\n\nReduced vowel sounds\n\nsnes\n\nInteractions: Listening: Reading: + Discussion of improving English to communicate\nExpressing interest Options for English “Too Much Information” successfully\nOffering opinions classes A magazine article + Keep talking: “Find someone who” activity about\nFavorite methods of Writing: recent experiences\ncommunication Aconversation in Role play about language class options\nPronunciation: writing Personal anecdotes about communicating\n\nUnreleased final\nconsonant sounds\n\nKeep talking: Role play of body language\nClass survey about most popular ways of communicating\n\nSse,\n\nInteractions: Listening: Reading: + List of popular street foods\nGivinga Healthy eating habits “What Will You Be Eating * Keep talking: Description of festival foods\nrecommendation The San Francisco 25 Years from Today?” * Role play about finding time to cook\nAccepting a Gourmet Chocolate Tour A magazine article * Description of an original snack\nrecommendation Pronunciation: Writing: * Keep talking: interview about fun food facts\nLinked consonant and Arecipe * Aplan fora food tour\n\nvowel sounds\n\nne\n\nInteractions: Listening: Reading: * Interviews about reactions to different situations\nExpressing an Cross-cultural differences “Make Someone * Keep talking: Information exchange about reaction\nexpectation Radio talk show about Happy” to dilemmas\nAcknowledging an acts of kindness A magazine article « Information exchange about customs in different\nexpectation Pronunciation: Writing: countries\nReduction of have An act of kindness + Information exchange about past hypothetical situations\n\nKeep talking: Discussion of right and wrong decisions\n+ Discussion about kind acts\n\nzee enn SF RE Pam eeioe Nia coal\nInteractions: Listening: Reading:\n\n+ Comparison of different cities\nReporting a problem Hotel problems “Welcome to Medellin, + Keep talking: Travel adventure game\nResponding toa City festivals Columbia - The City ¢ Role play about a hotel situation\nproblem Pronunciation: of Everlasting Spring” * Advice for foreign visitors\nLinking of same Awebsite * Keep talking: Interview about solutions to travel\nconsonant sounds Writing: problems\nCreating a home page » Aplan fora town festival\nInteractions: Listening: Reading: ¢ Discussion about job and personality matches\nInterrupting politely Type A and Type B “Therapies That Work!” + Keep talking: Discussion of birth order and personality\nAgreeing to an personalities An article ¢ Discussion about personality\ninterruption Guided imagery Writing: « Information exchange about making wishes\nPronunciation: About relaxation + Keep talking: Board game about wishes\nStress in thought groups + Brainstorm creative ways to relax\n\ndehkhodaedu.com ¥\nScope and sequence\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [
+      {
+        "id": "text_0025",
+        "type": "text",
+        "content": "snes",
+        "confidence": 0,
+        "bbox": {
+          "x": 0.005098,
+          "y": 0.354242,
+          "width": 0.895294,
+          "height": 0.005758
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0047",
+        "type": "text",
+        "content": "Sse,",
+        "confidence": 0,
+        "bbox": {
+          "x": 0.005882,
+          "y": 0.480606,
+          "width": 0.89451,
+          "height": 0.005758
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0065",
+        "type": "text",
+        "content": "ne",
+        "confidence": 0.29,
+        "bbox": {
+          "x": 0.005098,
+          "y": 0.595152,
+          "width": 0.894902,
+          "height": 0.005152
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "averageConfidence": 0.8781,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "Printed book page number was not confidently detected; pageNumber uses the PDF-page fallback and pageNumberDetected is false.",
+      "6 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "3 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "scope_and_sequence",
+    "headings": [
+      "Functional",
+      "Speaking",
+      "Listening and",
+      "Reading and Speaking",
+      "Writing",
+      "Listening",
+      "Reading",
+      "Listening",
+      "Reading",
+      "Writing",
+      "writing",
+      "Keep talking: Role play of body language",
+      "Listening",
+      "Reading",
+      "Writing",
+      "Listening",
+      "Reading",
+      "Listening",
+      "Reading",
+      "Listening",
+      "Reading",
+      "Writing",
+      "Scope and sequence"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Functional",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.020392,
+          "y": 0.132727,
+          "width": 0.105098,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Functional",
+            "confidence": 0.8859
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Functional",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Speaking",
+        "confidence": 0.8867,
+        "bbox": {
+          "x": 0.551333,
+          "y": 0.132921,
+          "width": 0.099333,
+          "height": 0.021638
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Listening and",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.199216,
+          "y": 0.133636,
+          "width": 0.132941,
+          "height": 0.016667
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listening and",
+            "confidence": 0.8297
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listening and",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Reading and Speaking",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.382353,
+          "y": 0.135455,
+          "width": 0.264706,
+          "height": 0.016667
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Reading and",
+            "confidence": 0.8761
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Reading and Speaking",
+            "confidence": 0.9533
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "heading",
+        "content": "Writing",
+        "confidence": 0.7387,
+        "bbox": {
+          "x": 0.377333,
+          "y": 0.153014,
+          "width": 0.080667,
+          "height": 0.021638
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "language Writing",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.02,
+          "y": 0.153939,
+          "width": 0.433725,
+          "height": 0.018182
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "language",
+            "confidence": 0.872
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "language Writing",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Pronunciation",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.199216,
+          "y": 0.155455,
+          "width": 0.140784,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Pronunciation",
+            "confidence": 0.908
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Pronunciation",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "Snes sessees",
+        "confidence": 0,
+        "bbox": {
+          "x": 0.005098,
+          "y": 0.236364,
+          "width": 0.897647,
+          "height": 0.010303
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0009",
+        "type": "heading",
+        "content": "Listening",
+        "confidence": 0.8989,
+        "bbox": {
+          "x": 0.194667,
+          "y": 0.24678,
+          "width": 0.064667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "Interactions",
+        "confidence": 0.9242,
+        "bbox": {
+          "x": 0.017333,
+          "y": 0.24781,
+          "width": 0.082,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "heading",
+        "content": "Reading",
+        "confidence": 0.8323,
+        "bbox": {
+          "x": 0.377333,
+          "y": 0.248326,
+          "width": 0.06,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "paragraph",
+        "content": "Interactions: Listening: Reading: + Information exchange about news stories",
+        "confidence": 0.9456,
+        "bbox": {
+          "x": 0.019216,
+          "y": 0.248485,
+          "width": 0.791765,
+          "height": 0.015455
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Interactions: Listening: Reading: + Information exchange about news stories",
+            "confidence": 0.9456
+          },
+          {
+            "engine": "rapidocr",
+            "content": "information exchangeabout news stories",
+            "confidence": 0.8754
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "Today's news",
+        "confidence": 0.8704,
+        "bbox": {
+          "x": 0.195333,
+          "y": 0.261206,
+          "width": 0.082,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "Citizen Journalism",
+        "confidence": 0.8556,
+        "bbox": {
+          "x": 0.378,
+          "y": 0.261721,
+          "width": 0.124667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "paragraph",
+        "content": "Agreeing with an opinion Today's news \"Citizen Journalism\" + Keep talking: Interview about news-reading habits",
+        "confidence": 0.9427,
+        "bbox": {
+          "x": 0.018039,
+          "y": 0.262121,
+          "width": 0.843529,
+          "height": 0.015152
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Agreeingwithanopinion",
+            "confidence": 0.8686
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Agreeing with an opinion Today’s news “Citizen Journalism” + Keep talking: Interview about news-reading habits",
+            "confidence": 0.9427
+          },
+          {
+            "engine": "rapidocr",
+            "content": ".Keeptalking:Interview aboutnews-readinghabits",
+            "confidence": 0.9158
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Disagreeing politely News reports based A magazine article ¢ Opinions on reading the news",
+            "confidence": 0.8914
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "Disagreeing politely",
+        "confidence": 0.8813,
+        "bbox": {
+          "x": 0.016,
+          "y": 0.27254,
+          "width": 0.122,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Newsreports based",
+        "confidence": 0.9049,
+        "bbox": {
+          "x": 0.195333,
+          "y": 0.274601,
+          "width": 0.122,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "Amagazinearticle",
+        "confidence": 0.7901,
+        "bbox": {
+          "x": 0.377333,
+          "y": 0.275116,
+          "width": 0.112667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": ". Opinionsonreadingthenews",
+        "confidence": 0.8938,
+        "bbox": {
+          "x": 0.554,
+          "y": 0.277177,
+          "width": 0.188667,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "paragraph",
+        "content": "on viewer-submitted Writing: + Information exchange about headline news",
+        "confidence": 0.9033,
+        "bbox": {
+          "x": 0.210588,
+          "y": 0.287879,
+          "width": 0.611765,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Writing:",
+            "confidence": 0.825
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "on viewer-submitted Writing: + Information exchange about headline news",
+            "confidence": 0.9033
+          },
+          {
+            "engine": "rapidocr",
+            "content": "onviewer-submitted",
+            "confidence": 0.8732
+          },
+          {
+            "engine": "rapidocr",
+            "content": ".Information exchangeaboutheadlinenews",
+            "confidence": 0.9268
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "photos",
+        "confidence": 0.7884,
+        "bbox": {
+          "x": 0.208667,
+          "y": 0.299845,
+          "width": 0.045333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0022",
+        "type": "paragraph",
+        "content": "photos Become a citizen + Keep talking: Board game to practice questions",
+        "confidence": 0.8708,
+        "bbox": {
+          "x": 0.210588,
+          "y": 0.300606,
+          "width": 0.633333,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Become a citizen",
+            "confidence": 0.8304
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "photos Become a citizen + Keep talking: Board game to practice questions",
+            "confidence": 0.8708
+          },
+          {
+            "engine": "rapidocr",
+            "content": ".KeeptalkingBoard gameto practicequestions",
+            "confidence": 0.885
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "Pronunciation: journalist « Anews blog",
+        "confidence": 0.866,
+        "bbox": {
+          "x": 0.197647,
+          "y": 0.312121,
+          "width": 0.439608,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Pronunciation: journalist « Anews blog",
+            "confidence": 0.866
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Pronunciation:",
+            "confidence": 0.8971
+          },
+          {
+            "engine": "rapidocr",
+            "content": ".Anewsblog",
+            "confidence": 0.8682
+          },
+          {
+            "engine": "rapidocr",
+            "content": "journalist",
+            "confidence": 0.836
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "Reduced vowel sounds",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.197647,
+          "y": 0.325758,
+          "width": 0.134902,
+          "height": 0.008788
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Reducedvowel sounds",
+            "confidence": 0.8763
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Reduced vowel sounds",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "Interactions",
+        "confidence": 0.9124,
+        "bbox": {
+          "x": 0.016,
+          "y": 0.362184,
+          "width": 0.082,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "heading",
+        "content": "Listening",
+        "confidence": 0.9051,
+        "bbox": {
+          "x": 0.194,
+          "y": 0.362184,
+          "width": 0.064667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "heading",
+        "content": "Reading",
+        "confidence": 0.8774,
+        "bbox": {
+          "x": 0.377333,
+          "y": 0.3627,
+          "width": 0.057333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "paragraph",
+        "content": "Interactions: Listening: Reading: + Discussion of improving English to communicate",
+        "confidence": 0.938,
+        "bbox": {
+          "x": 0.018039,
+          "y": 0.362727,
+          "width": 0.833725,
+          "height": 0.015455
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Interactions: Listening: Reading: + Discussion of improving English to communicate",
+            "confidence": 0.938
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Discussion of improving Englishto communicate",
+            "confidence": 0.8895
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "Expressing interest",
+        "confidence": 0.8531,
+        "bbox": {
+          "x": 0.016,
+          "y": 0.374549,
+          "width": 0.118,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "Optionsfor English",
+        "confidence": 0.8665,
+        "bbox": {
+          "x": 0.194667,
+          "y": 0.37558,
+          "width": 0.115333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "paragraph",
+        "content": "Expressing interest Options for English \"Too Much Information\" successfully",
+        "confidence": 0.9578,
+        "bbox": {
+          "x": 0.018039,
+          "y": 0.376667,
+          "width": 0.62,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"Too Much Information\"”",
+            "confidence": 0.8331
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Expressing interest Options for English “Too Much Information” successfully",
+            "confidence": 0.9578
+          },
+          {
+            "engine": "rapidocr",
+            "content": "successfully",
+            "confidence": 0.8837
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "Offeringopinions",
+        "confidence": 0.8721,
+        "bbox": {
+          "x": 0.016,
+          "y": 0.387429,
+          "width": 0.107333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Offeringopinions",
+            "confidence": 0.8721
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Offering opinions classes A magazine article + Keep talking: “Find someone who” activity about",
+            "confidence": 0.7957
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "classes",
+        "confidence": 0.8052,
+        "bbox": {
+          "x": 0.207333,
+          "y": 0.387429,
+          "width": 0.047333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "Amagazine article",
+        "confidence": 0.9033,
+        "bbox": {
+          "x": 0.376,
+          "y": 0.38949,
+          "width": 0.112667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": ". Keeptalking:\"Find someonewho\"activityabout",
+        "confidence": 0.8678,
+        "bbox": {
+          "x": 0.553333,
+          "y": 0.39052,
+          "width": 0.300667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "heading",
+        "content": "Writing",
+        "confidence": 0.8689,
+        "bbox": {
+          "x": 0.376,
+          "y": 0.400309,
+          "width": 0.055333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "paragraph",
+        "content": "Favorite methods of Writing: recent experiences",
+        "confidence": 0.9583,
+        "bbox": {
+          "x": 0.196863,
+          "y": 0.401818,
+          "width": 0.481569,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Favoritemethodsof",
+            "confidence": 0.889
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Favorite methods of Writing: recent experiences",
+            "confidence": 0.9583
+          },
+          {
+            "engine": "rapidocr",
+            "content": "recentexperiences",
+            "confidence": 0.8981
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "communication",
+        "confidence": 0.9073,
+        "bbox": {
+          "x": 0.208,
+          "y": 0.413189,
+          "width": 0.096667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "paragraph",
+        "content": "communication Aconversation in Role play about language class options",
+        "confidence": 0.9489,
+        "bbox": {
+          "x": 0.209804,
+          "y": 0.413939,
+          "width": 0.585098,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Aconversation in",
+            "confidence": 0.8843
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "communication Aconversation in Role play about language class options",
+            "confidence": 0.9489
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Roleplayabout languageclassoptions",
+            "confidence": 0.9144
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "heading",
+        "content": "writing",
+        "confidence": 0.8288,
+        "bbox": {
+          "x": 0.388,
+          "y": 0.424523,
+          "width": 0.05,
+          "height": 0.017517
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "paragraph",
+        "content": "Pronunciation: writing Personal anecdotes about communicating",
+        "confidence": 0.9583,
+        "bbox": {
+          "x": 0.196863,
+          "y": 0.426061,
+          "width": 0.62,
+          "height": 0.015152
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Pronunciation: writing Personal anecdotes about communicating",
+            "confidence": 0.9583
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Pronunciation:",
+            "confidence": 0.8618
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Personalanecdotesaboutcommunicating",
+            "confidence": 0.9226
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "label",
+        "content": "Unreleased final",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.196863,
+          "y": 0.44,
+          "width": 0.095686,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Unreleased final",
+            "confidence": 0.8247
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Unreleased final",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "heading",
+        "content": "Keep talking: Role play of body language",
+        "confidence": 0.9586,
+        "bbox": {
+          "x": 0.565882,
+          "y": 0.442121,
+          "width": 0.236863,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "KeeptalkingRoleplayofbody language",
+            "confidence": 0.9245
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Keep talking: Role play of body language",
+            "confidence": 0.9586
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "label",
+        "content": "consonant sounds",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.209412,
+          "y": 0.452727,
+          "width": 0.108627,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "consonant sounds",
+            "confidence": 0.874
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "consonant sounds",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0045",
+        "type": "paragraph",
+        "content": "Class survey about most popular ways of communicating",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.565882,
+          "y": 0.454545,
+          "width": 0.327451,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Class surveyaboutmostpopularwaysof communicating",
+            "confidence": 0.9227
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Class survey about most popular ways of communicating",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0046",
+        "type": "heading",
+        "content": "Listening",
+        "confidence": 0.7555,
+        "bbox": {
+          "x": 0.194,
+          "y": 0.488408,
+          "width": 0.064,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0047",
+        "type": "heading",
+        "content": "Reading",
+        "confidence": 0.8586,
+        "bbox": {
+          "x": 0.376667,
+          "y": 0.488923,
+          "width": 0.058,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0048",
+        "type": "paragraph",
+        "content": "Interactions: Listening: Reading: + List of popular street foods",
+        "confidence": 0.89,
+        "bbox": {
+          "x": 0.017647,
+          "y": 0.489394,
+          "width": 0.707059,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Interactions:",
+            "confidence": 0.8929
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Interactions: Listening: Reading: + List of popular street foods",
+            "confidence": 0.89
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listof popularstreetfoods",
+            "confidence": 0.9014
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0049",
+        "type": "label",
+        "content": "Giving a",
+        "confidence": 0.8055,
+        "bbox": {
+          "x": 0.014667,
+          "y": 0.500773,
+          "width": 0.052,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0050",
+        "type": "label",
+        "content": "Healthy eating habits",
+        "confidence": 0.8419,
+        "bbox": {
+          "x": 0.193333,
+          "y": 0.501803,
+          "width": 0.13,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0051",
+        "type": "paragraph",
+        "content": "Givinga Healthy eating habits \"What Will You Be Eating * Keep talking: Description of festival foods",
+        "confidence": 0.9444,
+        "bbox": {
+          "x": 0.016863,
+          "y": 0.50303,
+          "width": 0.792157,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"What Will You Be Eating",
+            "confidence": 0.848
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Givinga Healthy eating habits “What Will You Be Eating * Keep talking: Description of festival foods",
+            "confidence": 0.9444
+          },
+          {
+            "engine": "rapidocr",
+            "content": "。Keeptalking:Description offestivalfoods",
+            "confidence": 0.9177
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0052",
+        "type": "sentence",
+        "content": "recommendation The San Francisco 25 Years from Today?\" * Role play about finding time to cook",
+        "confidence": 0.9281,
+        "bbox": {
+          "x": 0.030196,
+          "y": 0.514545,
+          "width": 0.747843,
+          "height": 0.015152
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "recommendation",
+            "confidence": 0.8856
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "recommendation The San Francisco 25 Years from Today?” * Role play about finding time to cook",
+            "confidence": 0.9281
+          },
+          {
+            "engine": "rapidocr",
+            "content": "TheSan Francisco",
+            "confidence": 0.8477
+          },
+          {
+            "engine": "rapidocr",
+            "content": "25Years fromToday?\"",
+            "confidence": 0.8827
+          },
+          {
+            "engine": "rapidocr",
+            "content": ".Role playaboutfinding timeto cook",
+            "confidence": 0.8614
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0053",
+        "type": "label",
+        "content": "Acceptinga",
+        "confidence": 0.8876,
+        "bbox": {
+          "x": 0.014667,
+          "y": 0.526018,
+          "width": 0.073333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0054",
+        "type": "label",
+        "content": "Gourmet Chocolate Tour",
+        "confidence": 0.8908,
+        "bbox": {
+          "x": 0.207333,
+          "y": 0.528078,
+          "width": 0.142667,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "GourmetChocolateTour",
+            "confidence": 0.8908
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Accepting a Gourmet Chocolate Tour A magazine article * Description of an original snack",
+            "confidence": 0.825
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0055",
+        "type": "label",
+        "content": "Amagazinearticle",
+        "confidence": 0.9115,
+        "bbox": {
+          "x": 0.375333,
+          "y": 0.528594,
+          "width": 0.112667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0056",
+        "type": "label",
+        "content": ". Description ofan original snack",
+        "confidence": 0.8997,
+        "bbox": {
+          "x": 0.549333,
+          "y": 0.529624,
+          "width": 0.203333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0057",
+        "type": "paragraph",
+        "content": "recommendation Pronunciation: Writing: * Keep talking: interview about fun food facts",
+        "confidence": 0.8973,
+        "bbox": {
+          "x": 0.029804,
+          "y": 0.539394,
+          "width": 0.792157,
+          "height": 0.014848
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "recommendation Pronunciation: Writing: * Keep talking: interview about fun food facts",
+            "confidence": 0.8973
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Pronunciation:",
+            "confidence": 0.9068
+          },
+          {
+            "engine": "rapidocr",
+            "content": "recommendation",
+            "confidence": 0.8926
+          },
+          {
+            "engine": "rapidocr",
+            "content": ".Keeptalking:Interviewaboutfun food facts",
+            "confidence": 0.9064
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0058",
+        "type": "heading",
+        "content": "Writing",
+        "confidence": 0.8135,
+        "bbox": {
+          "x": 0.375333,
+          "y": 0.539413,
+          "width": 0.054667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0059",
+        "type": "label",
+        "content": "Linkedconsonant and",
+        "confidence": 0.9003,
+        "bbox": {
+          "x": 0.194,
+          "y": 0.552293,
+          "width": 0.134667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Linkedconsonant and",
+            "confidence": 0.9003
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Linked consonant and Arecipe * Aplan fora food tour",
+            "confidence": 0.8867
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0060",
+        "type": "label",
+        "content": "Arecipe",
+        "confidence": 0.8219,
+        "bbox": {
+          "x": 0.374667,
+          "y": 0.553323,
+          "width": 0.054,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0061",
+        "type": "label",
+        "content": ". Aplan forafood tour",
+        "confidence": 0.8333,
+        "bbox": {
+          "x": 0.550667,
+          "y": 0.554869,
+          "width": 0.140667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0062",
+        "type": "label",
+        "content": "vowel sounds",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.208235,
+          "y": 0.566667,
+          "width": 0.080784,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "vowel sounds",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "vowel sounds",
+            "confidence": 0.8731
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0063",
+        "type": "label",
+        "content": "Interactions",
+        "confidence": 0.9247,
+        "bbox": {
+          "x": 0.014,
+          "y": 0.602267,
+          "width": 0.082667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0064",
+        "type": "heading",
+        "content": "Listening",
+        "confidence": 0.8137,
+        "bbox": {
+          "x": 0.193333,
+          "y": 0.602782,
+          "width": 0.064667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0065",
+        "type": "heading",
+        "content": "Reading",
+        "confidence": 0.8716,
+        "bbox": {
+          "x": 0.374667,
+          "y": 0.602782,
+          "width": 0.06,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Reading:",
+            "confidence": 0.8716
+          },
+          {
+            "engine": "rapidocr",
+            "content": "\"Make Someone",
+            "confidence": 0.8755
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0066",
+        "type": "paragraph",
+        "content": "Interactions: Listening: Reading: * Interviews about reactions to different situations",
+        "confidence": 0.882,
+        "bbox": {
+          "x": 0.016471,
+          "y": 0.603333,
+          "width": 0.838039,
+          "height": 0.014848
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Interactions: Listening: Reading: * Interviews about reactions to different situations",
+            "confidence": 0.882
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Interviews about reactions to different situations",
+            "confidence": 0.872
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0067",
+        "type": "label",
+        "content": "Expressingan",
+        "confidence": 0.834,
+        "bbox": {
+          "x": 0.014,
+          "y": 0.615662,
+          "width": 0.086,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0068",
+        "type": "paragraph",
+        "content": "expectation Radio talk show about Happy\" to dilemmas",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.029412,
+          "y": 0.628485,
+          "width": 0.60902,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Cross-culturaldifferences",
+            "confidence": 0.9105
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Expressing an Cross-cultural differences “Make Someone * Keep talking: Information exchange about reaction",
+            "confidence": 0.9223
+          },
+          {
+            "engine": "rapidocr",
+            "content": ".Keeptalking:Informationexchangeaboutreaction",
+            "confidence": 0.9102
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "expectation Radio talk show about Happy” to dilemmas",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "expectation",
+            "confidence": 0.877
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Radiotalk showabout",
+            "confidence": 0.8854
+          },
+          {
+            "engine": "rapidocr",
+            "content": "todilemmas",
+            "confidence": 0.8699
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0069",
+        "type": "label",
+        "content": "Happy",
+        "confidence": 0.8214,
+        "bbox": {
+          "x": 0.375333,
+          "y": 0.630088,
+          "width": 0.048667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0070",
+        "type": "label",
+        "content": "acts ofkindness",
+        "confidence": 0.8842,
+        "bbox": {
+          "x": 0.205333,
+          "y": 0.641422,
+          "width": 0.1,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0071",
+        "type": "paragraph",
+        "content": "Acknowledging an acts of kindness A magazine article « Information exchange about customs in different",
+        "confidence": 0.892,
+        "bbox": {
+          "x": 0.015686,
+          "y": 0.642121,
+          "width": 0.838431,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Acknowledgingan",
+            "confidence": 0.8685
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Acknowledging an acts of kindness A magazine article « Information exchange about customs in different",
+            "confidence": 0.892
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Amagazine article",
+            "confidence": 0.8843
+          },
+          {
+            "engine": "rapidocr",
+            "content": ".Information exchangeaboutcustoms indifferent",
+            "confidence": 0.9278
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0072",
+        "type": "label",
+        "content": "expectation Pronunciation: Writing: countries",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.02902,
+          "y": 0.653939,
+          "width": 0.591765,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Writing:",
+            "confidence": 0.7952
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "expectation Pronunciation: Writing: countries",
+            "confidence": 0.9575
+          },
+          {
+            "engine": "rapidocr",
+            "content": "expectation",
+            "confidence": 0.8773
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Pronunciation:",
+            "confidence": 0.9011
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0073",
+        "type": "label",
+        "content": "countries",
+        "confidence": 0.8328,
+        "bbox": {
+          "x": 0.562667,
+          "y": 0.656878,
+          "width": 0.06,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0074",
+        "type": "label",
+        "content": "Reductionof have",
+        "confidence": 0.8509,
+        "bbox": {
+          "x": 0.193333,
+          "y": 0.667697,
+          "width": 0.11,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0075",
+        "type": "paragraph",
+        "content": "Reduction of have An act of kindness + Information exchange about past hypothetical situations",
+        "confidence": 0.9514,
+        "bbox": {
+          "x": 0.195686,
+          "y": 0.668182,
+          "width": 0.693725,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "An act of kindness",
+            "confidence": 0.8287
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Reduction of have An act of kindness + Information exchange about past hypothetical situations",
+            "confidence": 0.9514
+          },
+          {
+            "engine": "rapidocr",
+            "content": ".Informationexchangeabout pasthypothetical situations",
+            "confidence": 0.9076
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0076",
+        "type": "label",
+        "content": "Keeptalking: Discussion of rightandwrongdecisions",
+        "confidence": 0.9107,
+        "bbox": {
+          "x": 0.552667,
+          "y": 0.681092,
+          "width": 0.324667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Keeptalking:Discussion of rightandwrongdecisions",
+            "confidence": 0.9107
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Keep talking: Discussion of right and wrong decisions",
+            "confidence": 0.9187
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0077",
+        "type": "label",
+        "content": ". Discussion aboutkind acts",
+        "confidence": 0.9159,
+        "bbox": {
+          "x": 0.551333,
+          "y": 0.693457,
+          "width": 0.173333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": ".Discussion aboutkind acts",
+            "confidence": 0.9159
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "+ Discussion about kind acts",
+            "confidence": 0.908
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0078",
+        "type": "paragraph",
+        "content": "zee enn SF RE Pam eeioe Nia coal",
+        "confidence": 0.1938,
+        "bbox": {
+          "x": 0.00549,
+          "y": 0.715455,
+          "width": 0.894118,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0079",
+        "type": "heading",
+        "content": "Listening",
+        "confidence": 0.9057,
+        "bbox": {
+          "x": 0.192,
+          "y": 0.730036,
+          "width": 0.064667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0080",
+        "type": "heading",
+        "content": "Reading",
+        "confidence": 0.8821,
+        "bbox": {
+          "x": 0.375333,
+          "y": 0.730551,
+          "width": 0.058667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0081",
+        "type": "label",
+        "content": "Interactions: Listening: Reading",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.016078,
+          "y": 0.730606,
+          "width": 0.41451,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Interactions:",
+            "confidence": 0.8296
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Interactions: Listening: Reading:",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0082",
+        "type": "label",
+        "content": "Comparison ofdifferent cities",
+        "confidence": 0.9215,
+        "bbox": {
+          "x": 0.552,
+          "y": 0.732612,
+          "width": 0.189333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Comparison ofdifferent cities",
+            "confidence": 0.9215
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "+ Comparison of different cities",
+            "confidence": 0.87
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0083",
+        "type": "label",
+        "content": "Reportingaproblem",
+        "confidence": 0.8871,
+        "bbox": {
+          "x": 0.013333,
+          "y": 0.742916,
+          "width": 0.126667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0084",
+        "type": "label",
+        "content": "Hotelproblems",
+        "confidence": 0.8766,
+        "bbox": {
+          "x": 0.192,
+          "y": 0.742916,
+          "width": 0.096,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0085",
+        "type": "label",
+        "content": "Welcome to Medellin",
+        "confidence": 0.9124,
+        "bbox": {
+          "x": 0.374667,
+          "y": 0.742916,
+          "width": 0.138,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"Welcome to Medellin,",
+            "confidence": 0.9124
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Reporting a problem Hotel problems “Welcome to Medellin, + Keep talking: Travel adventure game",
+            "confidence": 0.9243
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0086",
+        "type": "label",
+        "content": "Keep talking: Traveladventure game",
+        "confidence": 0.896,
+        "bbox": {
+          "x": 0.55,
+          "y": 0.745492,
+          "width": 0.23,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0087",
+        "type": "label",
+        "content": "Respondingto a",
+        "confidence": 0.8968,
+        "bbox": {
+          "x": 0.013333,
+          "y": 0.755281,
+          "width": 0.099333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0088",
+        "type": "label",
+        "content": "Cityfestivals",
+        "confidence": 0.8642,
+        "bbox": {
+          "x": 0.192667,
+          "y": 0.756311,
+          "width": 0.078667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0089",
+        "type": "label",
+        "content": "Columbia-The City",
+        "confidence": 0.8886,
+        "bbox": {
+          "x": 0.388,
+          "y": 0.756826,
+          "width": 0.121333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Columbia-The City",
+            "confidence": 0.8886
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Responding toa City festivals Columbia - The City ¢ Role play about a hotel situation",
+            "confidence": 0.852
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0090",
+        "type": "sentence",
+        "content": ". Role play about a hotel situation",
+        "confidence": 0.869,
+        "bbox": {
+          "x": 0.549333,
+          "y": 0.758372,
+          "width": 0.208,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0091",
+        "type": "label",
+        "content": "problem",
+        "confidence": 0.8666,
+        "bbox": {
+          "x": 0.025333,
+          "y": 0.76713,
+          "width": 0.056667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0092",
+        "type": "paragraph",
+        "content": "problem Pronunciation: of Everlasting Spring\" * Advice for foreign visitors",
+        "confidence": 0.86,
+        "bbox": {
+          "x": 0.028627,
+          "y": 0.767879,
+          "width": 0.685098,
+          "height": 0.015152
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "problem Pronunciation: of Everlasting Spring” * Advice for foreign visitors",
+            "confidence": 0.86
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Pronunciation:",
+            "confidence": 0.8133
+          },
+          {
+            "engine": "rapidocr",
+            "content": "of EverlastingSpring”",
+            "confidence": 0.8691
+          },
+          {
+            "engine": "rapidocr",
+            "content": "·Adviceforforeign visitors",
+            "confidence": 0.8557
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0093",
+        "type": "label",
+        "content": "Awebsite",
+        "confidence": 0.8867,
+        "bbox": {
+          "x": 0.374667,
+          "y": 0.781041,
+          "width": 0.061333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0094",
+        "type": "paragraph",
+        "content": "Linking of same Awebsite * Keep talking: Interview about solutions to travel",
+        "confidence": 0.9283,
+        "bbox": {
+          "x": 0.194902,
+          "y": 0.782727,
+          "width": 0.650588,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Linking of same",
+            "confidence": 0.8292
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Linking of same Awebsite * Keep talking: Interview about solutions to travel",
+            "confidence": 0.9283
+          },
+          {
+            "engine": "rapidocr",
+            "content": ":Keeptalking:Interview about solutions to travel",
+            "confidence": 0.8518
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0095",
+        "type": "label",
+        "content": "consonant sounds Writing: problems",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.207451,
+          "y": 0.795152,
+          "width": 0.413333,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Writing:",
+            "confidence": 0.8221
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "consonant sounds Writing: problems",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "consonant sounds",
+            "confidence": 0.8517
+          },
+          {
+            "engine": "rapidocr",
+            "content": "problems",
+            "confidence": 0.7888
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0096",
+        "type": "label",
+        "content": "Creatinga home page",
+        "confidence": 0.878,
+        "bbox": {
+          "x": 0.374667,
+          "y": 0.807316,
+          "width": 0.132,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Creatinga home page",
+            "confidence": 0.878
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Creating a home page » Aplan fora town festival",
+            "confidence": 0.88
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0097",
+        "type": "label",
+        "content": "Aplanforatownfestival",
+        "confidence": 0.9107,
+        "bbox": {
+          "x": 0.550667,
+          "y": 0.809892,
+          "width": 0.16,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0098",
+        "type": "label",
+        "content": "Interactions",
+        "confidence": 0.8878,
+        "bbox": {
+          "x": 0.012667,
+          "y": 0.84441,
+          "width": 0.082667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0099",
+        "type": "heading",
+        "content": "Listening",
+        "confidence": 0.9046,
+        "bbox": {
+          "x": 0.192,
+          "y": 0.844925,
+          "width": 0.063333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0100",
+        "type": "heading",
+        "content": "Reading",
+        "confidence": 0.8683,
+        "bbox": {
+          "x": 0.374667,
+          "y": 0.844925,
+          "width": 0.058,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0101",
+        "type": "label",
+        "content": ". Discussion aboutjoband personalitymatches",
+        "confidence": 0.9249,
+        "bbox": {
+          "x": 0.550667,
+          "y": 0.847501,
+          "width": 0.287333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Interactions: Listening: Reading: ¢ Discussion about job and personality matches",
+            "confidence": 0.769
+          },
+          {
+            "engine": "rapidocr",
+            "content": ".Discussion aboutjoband personalitymatches",
+            "confidence": 0.9249
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0102",
+        "type": "label",
+        "content": "Interrupting politely",
+        "confidence": 0.8679,
+        "bbox": {
+          "x": 0.012,
+          "y": 0.85626,
+          "width": 0.125333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0103",
+        "type": "label",
+        "content": "Therapies That Work!",
+        "confidence": 0.9074,
+        "bbox": {
+          "x": 0.374,
+          "y": 0.85729,
+          "width": 0.142667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"Therapies That Work!\"",
+            "confidence": 0.9074
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Interrupting politely Type A and Type B “Therapies That Work!” + Keep talking: Discussion of birth order and personality",
+            "confidence": 0.8205
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0104",
+        "type": "label",
+        "content": "Type Aand Type B",
+        "confidence": 0.8403,
+        "bbox": {
+          "x": 0.192667,
+          "y": 0.859351,
+          "width": 0.108667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0105",
+        "type": "label",
+        "content": ". Keeptalking: Discussion of birth orderand personality",
+        "confidence": 0.8927,
+        "bbox": {
+          "x": 0.55,
+          "y": 0.859866,
+          "width": 0.334,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0106",
+        "type": "label",
+        "content": "personalities",
+        "confidence": 0.9028,
+        "bbox": {
+          "x": 0.204667,
+          "y": 0.87017,
+          "width": 0.081333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "personalities",
+            "confidence": 0.9028
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Agreeing to an personalities An article ¢ Discussion about personality",
+            "confidence": 0.729
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0107",
+        "type": "label",
+        "content": "Agreeing to an",
+        "confidence": 0.8603,
+        "bbox": {
+          "x": 0.013333,
+          "y": 0.870685,
+          "width": 0.088667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0108",
+        "type": "label",
+        "content": "An article",
+        "confidence": 0.8243,
+        "bbox": {
+          "x": 0.373333,
+          "y": 0.8712,
+          "width": 0.061333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0109",
+        "type": "label",
+        "content": ". Discussion about personality",
+        "confidence": 0.881,
+        "bbox": {
+          "x": 0.549333,
+          "y": 0.872231,
+          "width": 0.187333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0110",
+        "type": "label",
+        "content": "interruption",
+        "confidence": 0.9196,
+        "bbox": {
+          "x": 0.024667,
+          "y": 0.88202,
+          "width": 0.077333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0111",
+        "type": "heading",
+        "content": "Writing",
+        "confidence": 0.8441,
+        "bbox": {
+          "x": 0.374,
+          "y": 0.88305,
+          "width": 0.054667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0112",
+        "type": "paragraph",
+        "content": "interruption Guided imagery Writing: « Information exchange about making wishes",
+        "confidence": 0.914,
+        "bbox": {
+          "x": 0.028235,
+          "y": 0.883939,
+          "width": 0.793333,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Guided imagery",
+            "confidence": 0.8643
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "interruption Guided imagery Writing: « Information exchange about making wishes",
+            "confidence": 0.914
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Information exchangeaboutmakingwishes",
+            "confidence": 0.9179
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0113",
+        "type": "paragraph",
+        "content": "Pronunciation: About relaxation + Keep talking: Board game about wishes",
+        "confidence": 0.901,
+        "bbox": {
+          "x": 0.194118,
+          "y": 0.896364,
+          "width": 0.600392,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Pronunciation:",
+            "confidence": 0.8765
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Pronunciation: About relaxation + Keep talking: Board game about wishes",
+            "confidence": 0.901
+          },
+          {
+            "engine": "rapidocr",
+            "content": "About relaxation",
+            "confidence": 0.9064
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Keep talking:Board gameabout wishes",
+            "confidence": 0.8785
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0114",
+        "type": "label",
+        "content": "Stress in thoughtgroups",
+        "confidence": 0.8878,
+        "bbox": {
+          "x": 0.191333,
+          "y": 0.908295,
+          "width": 0.148667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Stress in thoughtgroups",
+            "confidence": 0.8878
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Stress in thought groups + Brainstorm creative ways to relax",
+            "confidence": 0.896
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0115",
+        "type": "label",
+        "content": ". Brainstorm creativeways to relax",
+        "confidence": 0.8788,
+        "bbox": {
+          "x": 0.55,
+          "y": 0.910871,
+          "width": 0.212667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0116",
+        "type": "heading",
+        "content": "Scope and sequence",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.741961,
+          "y": 0.969091,
+          "width": 0.125098,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Scope and sequence",
+            "confidence": 0.8587
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Scope and sequence",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Functional",
+      "Speaking",
+      "Listening and",
+      "Reading and Speaking",
+      "Writing",
+      "language Writing",
+      "Pronunciation",
+      "Snes sessees",
+      "Listening",
+      "Interactions",
+      "Reading",
+      "Interactions: Listening: Reading: + Information exchange about news stories",
+      "Today's news",
+      "Citizen Journalism",
+      "Agreeing with an opinion Today's news \"Citizen Journalism\" + Keep talking: Interview about news-reading habits",
+      "Disagreeing politely",
+      "Newsreports based",
+      "Amagazinearticle",
+      ". Opinionsonreadingthenews",
+      "on viewer-submitted Writing: + Information exchange about headline news",
+      "photos",
+      "photos Become a citizen + Keep talking: Board game to practice questions",
+      "Pronunciation: journalist « Anews blog",
+      "Reduced vowel sounds",
+      "Interactions",
+      "Listening",
+      "Reading",
+      "Interactions: Listening: Reading: + Discussion of improving English to communicate",
+      "Expressing interest",
+      "Optionsfor English",
+      "Expressing interest Options for English \"Too Much Information\" successfully",
+      "Offeringopinions",
+      "classes",
+      "Amagazine article",
+      ". Keeptalking:\"Find someonewho\"activityabout",
+      "Writing",
+      "Favorite methods of Writing: recent experiences",
+      "communication",
+      "communication Aconversation in Role play about language class options",
+      "writing",
+      "Pronunciation: writing Personal anecdotes about communicating",
+      "Unreleased final",
+      "Keep talking: Role play of body language",
+      "consonant sounds",
+      "Class survey about most popular ways of communicating",
+      "Listening",
+      "Reading",
+      "Interactions: Listening: Reading: + List of popular street foods",
+      "Giving a",
+      "Healthy eating habits",
+      "Givinga Healthy eating habits \"What Will You Be Eating * Keep talking: Description of festival foods",
+      "recommendation The San Francisco 25 Years from Today?\" * Role play about finding time to cook",
+      "Acceptinga",
+      "Gourmet Chocolate Tour",
+      "Amagazinearticle",
+      ". Description ofan original snack",
+      "recommendation Pronunciation: Writing: * Keep talking: interview about fun food facts",
+      "Writing",
+      "Linkedconsonant and",
+      "Arecipe",
+      ". Aplan forafood tour",
+      "vowel sounds",
+      "Interactions",
+      "Listening",
+      "Reading",
+      "Interactions: Listening: Reading: * Interviews about reactions to different situations",
+      "Expressingan",
+      "expectation Radio talk show about Happy\" to dilemmas",
+      "Happy",
+      "acts ofkindness",
+      "Acknowledging an acts of kindness A magazine article « Information exchange about customs in different",
+      "expectation Pronunciation: Writing: countries",
+      "countries",
+      "Reductionof have",
+      "Reduction of have An act of kindness + Information exchange about past hypothetical situations",
+      "Keeptalking: Discussion of rightandwrongdecisions",
+      ". Discussion aboutkind acts",
+      "zee enn SF RE Pam eeioe Nia coal",
+      "Listening",
+      "Reading",
+      "Interactions: Listening: Reading",
+      "Comparison ofdifferent cities",
+      "Reportingaproblem",
+      "Hotelproblems",
+      "Welcome to Medellin",
+      "Keep talking: Traveladventure game",
+      "Respondingto a",
+      "Cityfestivals",
+      "Columbia-The City",
+      ". Role play about a hotel situation",
+      "problem",
+      "problem Pronunciation: of Everlasting Spring\" * Advice for foreign visitors",
+      "Awebsite",
+      "Linking of same Awebsite * Keep talking: Interview about solutions to travel",
+      "consonant sounds Writing: problems",
+      "Creatinga home page",
+      "Aplanforatownfestival",
+      "Interactions",
+      "Listening",
+      "Reading",
+      ". Discussion aboutjoband personalitymatches",
+      "Interrupting politely",
+      "Therapies That Work!",
+      "Type Aand Type B",
+      ". Keeptalking: Discussion of birth orderand personality",
+      "personalities",
+      "Agreeing to an",
+      "An article",
+      ". Discussion about personality",
+      "interruption",
+      "Writing",
+      "interruption Guided imagery Writing: « Information exchange about making wishes",
+      "Pronunciation: About relaxation + Keep talking: Board game about wishes",
+      "Stress in thoughtgroups",
+      ". Brainstorm creativeways to relax",
+      "Scope and sequence"
+    ],
+    "paragraphs": [
+      "Interactions: Listening: Reading: + Information exchange about news stories",
+      "Agreeing with an opinion Today's news \"Citizen Journalism\" + Keep talking: Interview about news-reading habits",
+      "on viewer-submitted Writing: + Information exchange about headline news",
+      "photos Become a citizen + Keep talking: Board game to practice questions",
+      "Interactions: Listening: Reading: + Discussion of improving English to communicate",
+      "Expressing interest Options for English \"Too Much Information\" successfully",
+      "Favorite methods of Writing: recent experiences",
+      "communication Aconversation in Role play about language class options",
+      "Pronunciation: writing Personal anecdotes about communicating",
+      "Class survey about most popular ways of communicating",
+      "Interactions: Listening: Reading: + List of popular street foods",
+      "Givinga Healthy eating habits \"What Will You Be Eating * Keep talking: Description of festival foods",
+      "recommendation Pronunciation: Writing: * Keep talking: interview about fun food facts",
+      "Interactions: Listening: Reading: * Interviews about reactions to different situations",
+      "expectation Radio talk show about Happy\" to dilemmas",
+      "Acknowledging an acts of kindness A magazine article « Information exchange about customs in different",
+      "Reduction of have An act of kindness + Information exchange about past hypothetical situations",
+      "zee enn SF RE Pam eeioe Nia coal",
+      "problem Pronunciation: of Everlasting Spring\" * Advice for foreign visitors",
+      "Linking of same Awebsite * Keep talking: Interview about solutions to travel",
+      "interruption Guided imagery Writing: « Information exchange about making wishes",
+      "Pronunciation: About relaxation + Keep talking: Board game about wishes"
+    ],
+    "sentences": [
+      "Functional Speaking Listening and Reading and Speaking Writing language Writing Pronunciation Snes sessees Listening Interactions Reading Interactions: Listening: Reading: + Information exchange about news stories Today's news Citizen Journalism Agreeing with an opinion Today's news \"Citizen Journalism\" + Keep talking: Interview about news-reading habits Disagreeing politely Newsreports based Amagazinearticle",
+      "Opinionsonreadingthenews on viewer-submitted Writing: + Information exchange about headline news photos photos Become a citizen + Keep talking: Board game to practice questions Pronunciation: journalist « Anews blog Reduced vowel sounds Interactions Listening Reading Interactions: Listening: Reading: + Discussion of improving English to communicate Expressing interest Optionsfor English Expressing interest Options for English \"Too Much Information\" successfully Offeringopinions classes Amagazine article",
+      "Keeptalking:\"Find someonewho\"activityabout Writing Favorite methods of Writing: recent experiences communication communication Aconversation in Role play about language class options writing Pronunciation: writing Personal anecdotes about communicating Unreleased final Keep talking: Role play of body language consonant sounds Class survey about most popular ways of communicating Listening Reading Interactions: Listening: Reading: + List of popular street foods Giving a Healthy eating habits Givinga Healthy eating habits \"What Will You Be Eating * Keep talking: Description of festival foods recommendation The San Francisco 25 Years from Today",
+      "\" * Role play about finding time to cook Acceptinga Gourmet Chocolate Tour Amagazinearticle",
+      "Description ofan original snack recommendation Pronunciation: Writing: * Keep talking: interview about fun food facts Writing Linkedconsonant and Arecipe",
+      "Aplan forafood tour vowel sounds Interactions Listening Reading Interactions: Listening: Reading: * Interviews about reactions to different situations Expressingan expectation Radio talk show about Happy\" to dilemmas Happy acts ofkindness Acknowledging an acts of kindness A magazine article « Information exchange about customs in different expectation Pronunciation: Writing: countries countries Reductionof have Reduction of have An act of kindness + Information exchange about past hypothetical situations Keeptalking: Discussion of rightandwrongdecisions",
+      "Discussion aboutkind acts zee enn SF RE Pam eeioe Nia coal Listening Reading Interactions: Listening: Reading Comparison ofdifferent cities Reportingaproblem Hotelproblems Welcome to Medellin Keep talking: Traveladventure game Respondingto a Cityfestivals Columbia-The City",
+      "Role play about a hotel situation problem problem Pronunciation: of Everlasting Spring\" * Advice for foreign visitors Awebsite Linking of same Awebsite * Keep talking: Interview about solutions to travel consonant sounds Writing: problems Creatinga home page Aplanforatownfestival Interactions Listening Reading",
+      "Discussion aboutjoband personalitymatches Interrupting politely Therapies That Work",
+      "Type Aand Type B",
+      "Keeptalking: Discussion of birth orderand personality personalities Agreeing to an An article",
+      "Discussion about personality interruption Writing interruption Guided imagery Writing: « Information exchange about making wishes Pronunciation: About relaxation + Keep talking: Board game about wishes Stress in thoughtgroups",
+      "Brainstorm creativeways to relax Scope and sequence"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [],
+    "exercises": [],
+    "tables": [
+      {
+        "title": "Scope and sequence",
+        "headers": [],
+        "rows": [
+          [
+            "Writing"
+          ],
+          [
+            "language Writing"
+          ],
+          [
+            "Pronunciation"
+          ],
+          [
+            "Snes sessees"
+          ],
+          [
+            "Listening"
+          ],
+          [
+            "Interactions"
+          ],
+          [
+            "Reading"
+          ],
+          [
+            "Interactions: Listening: Reading: + Information exchange about news stories"
+          ],
+          [
+            "Today's news"
+          ],
+          [
+            "Citizen Journalism"
+          ],
+          [
+            "Agreeing with an opinion Today's news \"Citizen Journalism\" + Keep talking: Interview about news-reading habits"
+          ],
+          [
+            "Disagreeing politely"
+          ],
+          [
+            "Newsreports based"
+          ],
+          [
+            "Amagazinearticle"
+          ],
+          [
+            ". Opinionsonreadingthenews"
+          ],
+          [
+            "on viewer-submitted Writing: + Information exchange about headline news"
+          ],
+          [
+            "photos"
+          ],
+          [
+            "photos Become a citizen + Keep talking: Board game to practice questions"
+          ],
+          [
+            "Pronunciation: journalist « Anews blog"
+          ],
+          [
+            "Reduced vowel sounds"
+          ],
+          [
+            "Interactions"
+          ],
+          [
+            "Listening"
+          ],
+          [
+            "Reading"
+          ],
+          [
+            "Interactions: Listening: Reading: + Discussion of improving English to communicate"
+          ],
+          [
+            "Expressing interest"
+          ],
+          [
+            "Optionsfor English"
+          ],
+          [
+            "Expressing interest Options for English \"Too Much Information\" successfully"
+          ],
+          [
+            "Offeringopinions"
+          ],
+          [
+            "classes"
+          ],
+          [
+            "Amagazine article"
+          ],
+          [
+            ". Keeptalking:\"Find someonewho\"activityabout"
+          ],
+          [
+            "Writing"
+          ],
+          [
+            "Favorite methods of Writing: recent experiences"
+          ],
+          [
+            "communication"
+          ],
+          [
+            "communication Aconversation in Role play about language class options"
+          ],
+          [
+            "writing"
+          ],
+          [
+            "Pronunciation: writing Personal anecdotes about communicating"
+          ],
+          [
+            "Unreleased final"
+          ],
+          [
+            "Keep talking: Role play of body language"
+          ],
+          [
+            "consonant sounds"
+          ],
+          [
+            "Class survey about most popular ways of communicating"
+          ],
+          [
+            "Listening"
+          ],
+          [
+            "Reading"
+          ],
+          [
+            "Interactions: Listening: Reading: + List of popular street foods"
+          ],
+          [
+            "Giving a"
+          ],
+          [
+            "Healthy eating habits"
+          ],
+          [
+            "Givinga Healthy eating habits \"What Will You Be Eating * Keep talking: Description of festival foods"
+          ],
+          [
+            "recommendation The San Francisco 25 Years from Today?\" * Role play about finding time to cook"
+          ],
+          [
+            "Acceptinga"
+          ],
+          [
+            "Gourmet Chocolate Tour"
+          ],
+          [
+            "Amagazinearticle"
+          ],
+          [
+            ". Description ofan original snack"
+          ],
+          [
+            "recommendation Pronunciation: Writing: * Keep talking: interview about fun food facts"
+          ],
+          [
+            "Writing"
+          ],
+          [
+            "Linkedconsonant and"
+          ],
+          [
+            "Arecipe"
+          ],
+          [
+            ". Aplan forafood tour"
+          ],
+          [
+            "vowel sounds"
+          ],
+          [
+            "Interactions"
+          ],
+          [
+            "Listening"
+          ],
+          [
+            "Reading"
+          ],
+          [
+            "Interactions: Listening: Reading: * Interviews about reactions to different situations"
+          ],
+          [
+            "Expressingan"
+          ],
+          [
+            "expectation Radio talk show about Happy\" to dilemmas"
+          ],
+          [
+            "Happy"
+          ],
+          [
+            "acts ofkindness"
+          ],
+          [
+            "Acknowledging an acts of kindness A magazine article « Information exchange about customs in different"
+          ],
+          [
+            "expectation Pronunciation: Writing: countries"
+          ],
+          [
+            "countries"
+          ],
+          [
+            "Reductionof have"
+          ],
+          [
+            "Reduction of have An act of kindness + Information exchange about past hypothetical situations"
+          ],
+          [
+            "Keeptalking: Discussion of rightandwrongdecisions"
+          ],
+          [
+            ". Discussion aboutkind acts"
+          ],
+          [
+            "zee enn SF RE Pam eeioe Nia coal"
+          ],
+          [
+            "Listening"
+          ],
+          [
+            "Reading"
+          ],
+          [
+            "Interactions: Listening: Reading"
+          ],
+          [
+            "Comparison ofdifferent cities"
+          ],
+          [
+            "Reportingaproblem"
+          ],
+          [
+            "Hotelproblems"
+          ],
+          [
+            "Welcome to Medellin"
+          ],
+          [
+            "Keep talking: Traveladventure game"
+          ],
+          [
+            "Respondingto a"
+          ],
+          [
+            "Cityfestivals"
+          ],
+          [
+            "Columbia-The City"
+          ],
+          [
+            ". Role play about a hotel situation"
+          ],
+          [
+            "problem"
+          ],
+          [
+            "problem Pronunciation: of Everlasting Spring\" * Advice for foreign visitors"
+          ],
+          [
+            "Awebsite"
+          ],
+          [
+            "Linking of same Awebsite * Keep talking: Interview about solutions to travel"
+          ],
+          [
+            "consonant sounds Writing: problems"
+          ],
+          [
+            "Creatinga home page"
+          ],
+          [
+            "Aplanforatownfestival"
+          ],
+          [
+            "Interactions"
+          ],
+          [
+            "Listening"
+          ],
+          [
+            "Reading"
+          ],
+          [
+            ". Discussion aboutjoband personalitymatches"
+          ],
+          [
+            "Interrupting politely"
+          ],
+          [
+            "Therapies That Work!"
+          ],
+          [
+            "Type Aand Type B"
+          ],
+          [
+            ". Keeptalking: Discussion of birth orderand personality"
+          ],
+          [
+            "personalities"
+          ],
+          [
+            "Agreeing to an"
+          ],
+          [
+            "An article"
+          ],
+          [
+            ". Discussion about personality"
+          ],
+          [
+            "interruption"
+          ],
+          [
+            "Writing"
+          ],
+          [
+            "interruption Guided imagery Writing: « Information exchange about making wishes"
+          ],
+          [
+            "Pronunciation: About relaxation + Keep talking: Board game about wishes"
+          ]
+        ],
+        "tableStructureConfidence": 0.5
+      }
+    ],
+    "songsOrPoems": [],
+    "images": [],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "scope_and_sequence",
+    "title": "Functional",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [],
+    "reading": [],
+    "exercises": [],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": [
+      {
+        "title": "Scope and sequence",
+        "headers": [],
+        "rows": [
+          [
+            "Writing"
+          ],
+          [
+            "language Writing"
+          ],
+          [
+            "Pronunciation"
+          ],
+          [
+            "Snes sessees"
+          ],
+          [
+            "Listening"
+          ],
+          [
+            "Interactions"
+          ],
+          [
+            "Reading"
+          ],
+          [
+            "Interactions: Listening: Reading: + Information exchange about news stories"
+          ],
+          [
+            "Today's news"
+          ],
+          [
+            "Citizen Journalism"
+          ],
+          [
+            "Agreeing with an opinion Today's news \"Citizen Journalism\" + Keep talking: Interview about news-reading habits"
+          ],
+          [
+            "Disagreeing politely"
+          ],
+          [
+            "Newsreports based"
+          ],
+          [
+            "Amagazinearticle"
+          ],
+          [
+            ". Opinionsonreadingthenews"
+          ],
+          [
+            "on viewer-submitted Writing: + Information exchange about headline news"
+          ],
+          [
+            "photos"
+          ],
+          [
+            "photos Become a citizen + Keep talking: Board game to practice questions"
+          ],
+          [
+            "Pronunciation: journalist « Anews blog"
+          ],
+          [
+            "Reduced vowel sounds"
+          ],
+          [
+            "Interactions"
+          ],
+          [
+            "Listening"
+          ],
+          [
+            "Reading"
+          ],
+          [
+            "Interactions: Listening: Reading: + Discussion of improving English to communicate"
+          ],
+          [
+            "Expressing interest"
+          ],
+          [
+            "Optionsfor English"
+          ],
+          [
+            "Expressing interest Options for English \"Too Much Information\" successfully"
+          ],
+          [
+            "Offeringopinions"
+          ],
+          [
+            "classes"
+          ],
+          [
+            "Amagazine article"
+          ],
+          [
+            ". Keeptalking:\"Find someonewho\"activityabout"
+          ],
+          [
+            "Writing"
+          ],
+          [
+            "Favorite methods of Writing: recent experiences"
+          ],
+          [
+            "communication"
+          ],
+          [
+            "communication Aconversation in Role play about language class options"
+          ],
+          [
+            "writing"
+          ],
+          [
+            "Pronunciation: writing Personal anecdotes about communicating"
+          ],
+          [
+            "Unreleased final"
+          ],
+          [
+            "Keep talking: Role play of body language"
+          ],
+          [
+            "consonant sounds"
+          ],
+          [
+            "Class survey about most popular ways of communicating"
+          ],
+          [
+            "Listening"
+          ],
+          [
+            "Reading"
+          ],
+          [
+            "Interactions: Listening: Reading: + List of popular street foods"
+          ],
+          [
+            "Giving a"
+          ],
+          [
+            "Healthy eating habits"
+          ],
+          [
+            "Givinga Healthy eating habits \"What Will You Be Eating * Keep talking: Description of festival foods"
+          ],
+          [
+            "recommendation The San Francisco 25 Years from Today?\" * Role play about finding time to cook"
+          ],
+          [
+            "Acceptinga"
+          ],
+          [
+            "Gourmet Chocolate Tour"
+          ],
+          [
+            "Amagazinearticle"
+          ],
+          [
+            ". Description ofan original snack"
+          ],
+          [
+            "recommendation Pronunciation: Writing: * Keep talking: interview about fun food facts"
+          ],
+          [
+            "Writing"
+          ],
+          [
+            "Linkedconsonant and"
+          ],
+          [
+            "Arecipe"
+          ],
+          [
+            ". Aplan forafood tour"
+          ],
+          [
+            "vowel sounds"
+          ],
+          [
+            "Interactions"
+          ],
+          [
+            "Listening"
+          ],
+          [
+            "Reading"
+          ],
+          [
+            "Interactions: Listening: Reading: * Interviews about reactions to different situations"
+          ],
+          [
+            "Expressingan"
+          ],
+          [
+            "expectation Radio talk show about Happy\" to dilemmas"
+          ],
+          [
+            "Happy"
+          ],
+          [
+            "acts ofkindness"
+          ],
+          [
+            "Acknowledging an acts of kindness A magazine article « Information exchange about customs in different"
+          ],
+          [
+            "expectation Pronunciation: Writing: countries"
+          ],
+          [
+            "countries"
+          ],
+          [
+            "Reductionof have"
+          ],
+          [
+            "Reduction of have An act of kindness + Information exchange about past hypothetical situations"
+          ],
+          [
+            "Keeptalking: Discussion of rightandwrongdecisions"
+          ],
+          [
+            ". Discussion aboutkind acts"
+          ],
+          [
+            "zee enn SF RE Pam eeioe Nia coal"
+          ],
+          [
+            "Listening"
+          ],
+          [
+            "Reading"
+          ],
+          [
+            "Interactions: Listening: Reading"
+          ],
+          [
+            "Comparison ofdifferent cities"
+          ],
+          [
+            "Reportingaproblem"
+          ],
+          [
+            "Hotelproblems"
+          ],
+          [
+            "Welcome to Medellin"
+          ],
+          [
+            "Keep talking: Traveladventure game"
+          ],
+          [
+            "Respondingto a"
+          ],
+          [
+            "Cityfestivals"
+          ],
+          [
+            "Columbia-The City"
+          ],
+          [
+            ". Role play about a hotel situation"
+          ],
+          [
+            "problem"
+          ],
+          [
+            "problem Pronunciation: of Everlasting Spring\" * Advice for foreign visitors"
+          ],
+          [
+            "Awebsite"
+          ],
+          [
+            "Linking of same Awebsite * Keep talking: Interview about solutions to travel"
+          ],
+          [
+            "consonant sounds Writing: problems"
+          ],
+          [
+            "Creatinga home page"
+          ],
+          [
+            "Aplanforatownfestival"
+          ],
+          [
+            "Interactions"
+          ],
+          [
+            "Listening"
+          ],
+          [
+            "Reading"
+          ],
+          [
+            ". Discussion aboutjoband personalitymatches"
+          ],
+          [
+            "Interrupting politely"
+          ],
+          [
+            "Therapies That Work!"
+          ],
+          [
+            "Type Aand Type B"
+          ],
+          [
+            ". Keeptalking: Discussion of birth orderand personality"
+          ],
+          [
+            "personalities"
+          ],
+          [
+            "Agreeing to an"
+          ],
+          [
+            "An article"
+          ],
+          [
+            ". Discussion about personality"
+          ],
+          [
+            "interruption"
+          ],
+          [
+            "Writing"
+          ],
+          [
+            "interruption Guided imagery Writing: « Information exchange about making wishes"
+          ],
+          [
+            "Pronunciation: About relaxation + Keep talking: Board game about wishes"
+          ]
+        ],
+        "tableStructureConfidence": 0.5
+      }
+    ]
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "Printed book page number was not confidently detected; pageNumber uses the PDF-page fallback and pageNumberDetected is false.",
+      "6 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "3 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {},
+    "averageOcrConfidence": 0.8781,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 4 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc4_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

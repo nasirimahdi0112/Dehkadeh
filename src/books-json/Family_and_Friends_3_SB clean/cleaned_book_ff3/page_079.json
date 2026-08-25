@@ -1,0 +1,3223 @@
+{
+  "pageNumber": 78,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "verified sequential printed-footer pattern",
+  "pdfPageNumber": 79,
+  "source": {
+    "pdfFile": "Family and Friends 3 SB_Part1.pdf",
+    "pdfLocalPageNumber": 79,
+    "pageSizePoints": {
+      "width": 586.56,
+      "height": 785.04
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Review3",
+        "confidence": 0.7914,
+        "bbox": {
+          "x": 0.053333,
+          "y": 0.023916,
+          "width": 0.126,
+          "height": 0.02292
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Complete the crossword.",
+        "confidence": 0.9153,
+        "bbox": {
+          "x": 0.086,
+          "y": 0.072247,
+          "width": 0.253333,
+          "height": 0.019432
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Down",
+        "confidence": 0.7913,
+        "bbox": {
+          "x": 0.085333,
+          "y": 0.099153,
+          "width": 0.064,
+          "height": 0.018435
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Across",
+        "confidence": 0.8519,
+        "bbox": {
+          "x": 0.790667,
+          "y": 0.102641,
+          "width": 0.07,
+          "height": 0.016941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "instruction",
+        "content": "2 Write the correct words.",
+        "confidence": 0.932,
+        "bbox": {
+          "x": 0.049509,
+          "y": 0.457658,
+          "width": 0.272913,
+          "height": 0.015286
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Writethecorrectwords.",
+            "confidence": 0.9151
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Write the correct words.",
+            "confidence": 0.932
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "cafe",
+        "confidence": 0.6847,
+        "bbox": {
+          "x": 0.099333,
+          "y": 0.490782,
+          "width": 0.049333,
+          "height": 0.019432
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "library",
+        "confidence": 0.7836,
+        "bbox": {
+          "x": 0.174,
+          "y": 0.490782,
+          "width": 0.072,
+          "height": 0.020927
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "shopping mall",
+        "confidence": 0.8487,
+        "bbox": {
+          "x": 0.272,
+          "y": 0.492277,
+          "width": 0.143333,
+          "height": 0.01993
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "shopping mall",
+            "confidence": 0.8487
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "café library shoppingmall sportscenter movietheater swimming poor",
+            "confidence": 0.4986
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "movietheater",
+        "confidence": 0.8245,
+        "bbox": {
+          "x": 0.602,
+          "y": 0.493772,
+          "width": 0.136667,
+          "height": 0.017937
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "sportscenter",
+        "confidence": 0.8317,
+        "bbox": {
+          "x": 0.444,
+          "y": 0.495267,
+          "width": 0.128,
+          "height": 0.015944
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "swimming pool",
+        "confidence": 0.8909,
+        "bbox": {
+          "x": 0.77,
+          "y": 0.496761,
+          "width": 0.151333,
+          "height": 0.016442
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "paragraph",
+        "content": "Lisa does lots of things on the weekend. She always goes",
+        "confidence": 0.9582,
+        "bbox": {
+          "x": 0.081424,
+          "y": 0.534699,
+          "width": 0.535597,
+          "height": 0.018037
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Lisadoes lots of things on theweekend.She always goes",
+            "confidence": 0.8881
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Lisa does lots of things on the weekend. She always goes",
+            "confidence": 0.9582
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "paragraph",
+        "content": "swimming at the ' swimming pool. She sometimes shops at",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.080196,
+          "y": 0.555793,
+          "width": 0.579378,
+          "height": 0.022317
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "swimmingattheswimming pool.Shesometimes shopsat",
+            "confidence": 0.907
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "swimming at the ' swimming pool. She sometimes shops at",
+            "confidence": 0.9
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "the2",
+        "confidence": 0.76,
+        "bbox": {
+          "x": 0.073333,
+          "y": 0.576482,
+          "width": 0.056,
+          "height": 0.020927
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0015",
+        "type": "paragraph",
+        "content": "the? _ and she sometimes goes to a movie at",
+        "confidence": 0.917,
+        "bbox": {
+          "x": 0.078969,
+          "y": 0.580251,
+          "width": 0.583879,
+          "height": 0.018037
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "and shesometimesgoestoa movieat",
+            "confidence": 0.9052
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "the? _ and she sometimes goes to a movie at",
+            "confidence": 0.917
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": ".Shealwayseatsicecreamatthe",
+        "confidence": 0.9079,
+        "bbox": {
+          "x": 0.292,
+          "y": 0.603388,
+          "width": 0.32,
+          "height": 0.017439
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "the 3",
+            "confidence": 0.5775
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "the? . She always eats ice cream at the",
+            "confidence": 0.85
+          },
+          {
+            "engine": "rapidocr",
+            "content": ".Shealwayseatsicecreamatthe",
+            "confidence": 0.9079
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "withherfriendsandshesometimesreads",
+        "confidence": 0.9501,
+        "bbox": {
+          "x": 0.261333,
+          "y": 0.625311,
+          "width": 0.394667,
+          "height": 0.018435
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "withherfriendsandshesometimesreads",
+            "confidence": 0.9501
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": ": with her friends and she sometimes reads",
+            "confidence": 0.8775
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "booksatthe5",
+        "confidence": 0.8374,
+        "bbox": {
+          "x": 0.078,
+          "y": 0.647733,
+          "width": 0.131333,
+          "height": 0.016442
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": ".Shealwaysplaystennisat",
+        "confidence": 0.8911,
+        "bbox": {
+          "x": 0.376667,
+          "y": 0.648729,
+          "width": 0.268667,
+          "height": 0.01993
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": ".Shealwaysplaystennisat",
+            "confidence": 0.8911
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "books at the ° ____. She always plays tennis at",
+            "confidence": 0.851
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "too.Lisalovesweekends!",
+        "confidence": 0.9034,
+        "bbox": {
+          "x": 0.293333,
+          "y": 0.673144,
+          "width": 0.246,
+          "height": 0.014948
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "the\"",
+            "confidence": 0.683
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "thes , too. Lisa loves weekends!",
+            "confidence": 0.8117
+          },
+          {
+            "engine": "rapidocr",
+            "content": "too.Lisalovesweekends!",
+            "confidence": 0.9034
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "Vw=always",
+        "confidence": 0.7204,
+        "bbox": {
+          "x": 0.371333,
+          "y": 0.73991,
+          "width": 0.124667,
+          "height": 0.02292
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0022",
+        "type": "instruction",
+        "content": "Complete the sentences.",
+        "confidence": 0.8704,
+        "bbox": {
+          "x": 0.071333,
+          "y": 0.742402,
+          "width": 0.254667,
+          "height": 0.01993
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Complete the sentences.",
+            "confidence": 0.8704
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Complete the sentences. Y/Y =alwoys W=sometines &=never",
+            "confidence": 0.5887
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "-sometimes",
+        "confidence": 0.8164,
+        "bbox": {
+          "x": 0.556667,
+          "y": 0.744395,
+          "width": 0.123333,
+          "height": 0.015944
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "x=never",
+        "confidence": 0.7312,
+        "bbox": {
+          "x": 0.722,
+          "y": 0.744395,
+          "width": 0.092,
+          "height": 0.018435
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "1Katie",
+        "confidence": 0.792,
+        "bbox": {
+          "x": 0.07,
+          "y": 0.768311,
+          "width": 0.082,
+          "height": 0.018934
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "sometimes",
+        "confidence": 0.8669,
+        "bbox": {
+          "x": 0.180667,
+          "y": 0.770802,
+          "width": 0.113333,
+          "height": 0.016442
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "sometimes",
+            "confidence": 0.8669
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Katie sometimes (W) eats seafood.",
+            "confidence": 0.7783
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "()eatsseafood.",
+        "confidence": 0.9036,
+        "bbox": {
+          "x": 0.325333,
+          "y": 0.771799,
+          "width": 0.163333,
+          "height": 0.016442
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "2Theboys",
+        "confidence": 0.8445,
+        "bbox": {
+          "x": 0.07,
+          "y": 0.790234,
+          "width": 0.116,
+          "height": 0.022422
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2Theboys",
+            "confidence": 0.8445
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 The boys — (%) go to the museum.",
+            "confidence": 0.7867
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "(x)gotothemuseum.",
+        "confidence": 0.8663,
+        "bbox": {
+          "x": 0.359333,
+          "y": 0.794718,
+          "width": 0.212667,
+          "height": 0.017937
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "3You",
+        "confidence": 0.792,
+        "bbox": {
+          "x": 0.071333,
+          "y": 0.815645,
+          "width": 0.064667,
+          "height": 0.017439
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0031",
+        "type": "paragraph",
+        "content": "3 You _(W) ride your bike to school.",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.074468,
+          "y": 0.817487,
+          "width": 0.516367,
+          "height": 0.01712
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "()rideyourbiketoschool.",
+            "confidence": 0.9109
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 You _(W) ride your bike to school.",
+            "confidence": 0.9
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "4 Jack",
+        "confidence": 0.7808,
+        "bbox": {
+          "x": 0.070667,
+          "y": 0.837569,
+          "width": 0.074,
+          "height": 0.018934
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0033",
+        "type": "paragraph",
+        "content": "4 Jack _ (W) has fruit after dinner.",
+        "confidence": 0.8612,
+        "bbox": {
+          "x": 0.074468,
+          "y": 0.839804,
+          "width": 0.477087,
+          "height": 0.01712
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "(V)has fruit afterdinner.",
+            "confidence": 0.857
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 Jack _ (W) has fruit after dinner.",
+            "confidence": 0.8612
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "()havebreakfast inthemorning.",
+        "confidence": 0.9297,
+        "bbox": {
+          "x": 0.304,
+          "y": 0.860987,
+          "width": 0.348,
+          "height": 0.021425
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "()havebreakfast inthemorning.",
+            "confidence": 0.9297
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 We _ (WH) have breakfast in the morning.",
+            "confidence": 0.7556
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "5 We",
+        "confidence": 0.7251,
+        "bbox": {
+          "x": 0.070667,
+          "y": 0.861485,
+          "width": 0.059333,
+          "height": 0.017439
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "6 Myfriends",
+        "confidence": 0.8387,
+        "bbox": {
+          "x": 0.073333,
+          "y": 0.884903,
+          "width": 0.123333,
+          "height": 0.016941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "6 Myfriends",
+            "confidence": 0.8387
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "6 My friends ____ (%) watch movies.",
+            "confidence": 0.7657
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "(x)watchmovies.",
+        "confidence": 0.8683,
+        "bbox": {
+          "x": 0.372667,
+          "y": 0.886398,
+          "width": 0.166667,
+          "height": 0.016442
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "78",
+        "confidence": 0.6628,
+        "bbox": {
+          "x": 0.013333,
+          "y": 0.956652,
+          "width": 0.030667,
+          "height": 0.018435
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "Roulew 3",
+        "confidence": 0.6504,
+        "bbox": {
+          "x": 0.094,
+          "y": 0.961136,
+          "width": 0.070667,
+          "height": 0.013453
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "Complete the crossword.",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.086,
+          "y": 0.072247,
+          "width": 0.253333,
+          "height": 0.019432
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.9153
+      },
+      {
+        "word": "Down",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.085333,
+          "y": 0.099153,
+          "width": 0.064,
+          "height": 0.018435
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.7913
+      },
+      {
+        "word": "Across",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.790667,
+          "y": 0.102641,
+          "width": 0.07,
+          "height": 0.016941
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8519
+      },
+      {
+        "word": "cafe",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.099333,
+          "y": 0.490782,
+          "width": 0.049333,
+          "height": 0.019432
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.6847
+      },
+      {
+        "word": "library",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.174,
+          "y": 0.490782,
+          "width": 0.072,
+          "height": 0.020927
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.7836
+      },
+      {
+        "word": "shopping mall",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.272,
+          "y": 0.492277,
+          "width": 0.143333,
+          "height": 0.01993
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8487
+      },
+      {
+        "word": "movietheater",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.602,
+          "y": 0.493772,
+          "width": 0.136667,
+          "height": 0.017937
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8245
+      },
+      {
+        "word": "sportscenter",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.444,
+          "y": 0.495267,
+          "width": 0.128,
+          "height": 0.015944
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8317
+      },
+      {
+        "word": "swimming pool",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.77,
+          "y": 0.496761,
+          "width": 0.151333,
+          "height": 0.016442
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8909
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "2",
+        "type": "writing_activity",
+        "instruction": "Write the correct words.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0005"
+        ],
+        "confidence": 0.932
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "2 Write the correct words.",
+          "cafe",
+          "library",
+          "shopping mall",
+          "movietheater",
+          "sportscenter",
+          "swimming pool",
+          "Lisa does lots of things on the weekend. She always goes",
+          "swimming at the ' swimming pool. She sometimes shops at",
+          "the2",
+          "the? _ and she sometimes goes to a movie at",
+          ".Shealwayseatsicecreamatthe",
+          "withherfriendsandshesometimesreads",
+          "booksatthe5",
+          ".Shealwaysplaystennisat",
+          "too.Lisalovesweekends!"
+        ],
+        "position": {
+          "x": 0.029509,
+          "y": 0.437658,
+          "width": 0.911824,
+          "height": 0.270434
+        },
+        "textElementIds": [
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Vw=always",
+          "Complete the sentences.",
+          "-sometimes",
+          "x=never",
+          "1Katie",
+          "sometimes",
+          "()eatsseafood.",
+          "2Theboys",
+          "(x)gotothemuseum.",
+          "3You",
+          "3 You _(W) ride your bike to school.",
+          "4 Jack",
+          "4 Jack _ (W) has fruit after dinner."
+        ],
+        "position": {
+          "x": 0.05,
+          "y": 0.71991,
+          "width": 0.784,
+          "height": 0.157014
+        },
+        "textElementIds": [
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "rawOcrAudit": {
+      "rapidocr": "Review3\nComplete the crossword.\nDown\nAcross\nWritethecorrectwords.\ncafe\nlibrary\nshopping mall\nmovietheater\nsportscenter\nswimming pool\nLisadoes lots of things on theweekend.She always goes\nswimmingattheswimming pool.Shesometimes shopsat\nthe2\nand shesometimesgoestoa movieat\nthe 3\n.Shealwayseatsicecreamatthe\nwithherfriendsandshesometimesreads\nbooksatthe5\n.Shealwaysplaystennisat\nthe\"\ntoo.Lisalovesweekends!\nVw=always\nComplete the sentences.\n-sometimes\nx=never\n1Katie\nsometimes\n()eatsseafood.\n2Theboys\n(x)gotothemuseum.\n3You\n()rideyourbiketoschool.\n4 Jack\n(V)has fruit afterdinner.\n()havebreakfast inthemorning.\n5 We\n6 Myfriends\n(x)watchmovies.\n78\nRoulew 3",
+      "tesseract_psm3": "2 Write the correct words.\n\ncafé library shoppingmall sportscenter movietheater swimming poor\n\nLisa does lots of things on the weekend. She always goes\nswimming at the ' swimming pool. She sometimes shops at\n\nthe? _ and she sometimes goes to a movie at\nthe? . She always eats ice cream at the\n\n: with her friends and she sometimes reads\nbooks at the ° ____. She always plays tennis at\nthes , too. Lisa loves weekends!\n\n3 Complete the sentences. Y/Y =alwoys W=sometines &=never\n\n1 Katie sometimes (W) eats seafood.\n\n2 The boys — (%) go to the museum.\n\n3 You _(W) ride your bike to school.\n\n4 Jack _ (W) has fruit after dinner.\n\n5 We _ (WH) have breakfast in the morning.\n6 My friends ____ (%) watch movies.\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": "",
+      "footer_passes": [
+        "6 My friends (¥) watch movies. -\nReview 3",
+        "6 My friends\n\n(¥) watch movies.\n\nReview 3"
+      ]
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8357,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "13 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "review",
+    "pagePurpose": null,
+    "readingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "headings": [
+      {
+        "id": "text_0001",
+        "content": "Review 3",
+        "confidence": 0.7914,
+        "bbox": {
+          "x": 0.053333,
+          "y": 0.023916,
+          "width": 0.126,
+          "height": 0.02292
+        },
+        "repaired": true,
+        "sourceElementIds": [
+          "text_0001"
+        ]
+      },
+      {
+        "id": "text_0002",
+        "content": "Complete the crossword.",
+        "confidence": 0.9153,
+        "bbox": {
+          "x": 0.086,
+          "y": 0.072247,
+          "width": 0.253333,
+          "height": 0.019432
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "id": "text_0003",
+        "content": "Down",
+        "confidence": 0.7913,
+        "bbox": {
+          "x": 0.085333,
+          "y": 0.099153,
+          "width": 0.064,
+          "height": 0.018435
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0003"
+        ]
+      },
+      {
+        "id": "text_0004",
+        "content": "Across",
+        "confidence": 0.8519,
+        "bbox": {
+          "x": 0.790667,
+          "y": 0.102641,
+          "width": 0.07,
+          "height": 0.016941
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      }
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Review 3",
+        "originalContent": "Review3",
+        "confidence": 0.7914,
+        "bbox": {
+          "x": 0.053333,
+          "y": 0.023916,
+          "width": 0.126,
+          "height": 0.02292
+        },
+        "repaired": true,
+        "repairNotes": [
+          "heading"
+        ],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Complete the crossword.",
+        "originalContent": "Complete the crossword.",
+        "confidence": 0.9153,
+        "bbox": {
+          "x": 0.086,
+          "y": 0.072247,
+          "width": 0.253333,
+          "height": 0.019432
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Down",
+        "originalContent": "Down",
+        "confidence": 0.7913,
+        "bbox": {
+          "x": 0.085333,
+          "y": 0.099153,
+          "width": 0.064,
+          "height": 0.018435
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Across",
+        "originalContent": "Across",
+        "confidence": 0.8519,
+        "bbox": {
+          "x": 0.790667,
+          "y": 0.102641,
+          "width": 0.07,
+          "height": 0.016941
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0005",
+        "type": "instruction",
+        "content": "2 Write the correct words.",
+        "originalContent": "2 Write the correct words.",
+        "confidence": 0.932,
+        "bbox": {
+          "x": 0.049509,
+          "y": 0.457658,
+          "width": 0.272913,
+          "height": 0.015286
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Writethecorrectwords.",
+            "confidence": 0.9151
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Write the correct words.",
+            "confidence": 0.932
+          }
+        ]
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "cafe",
+        "originalContent": "cafe",
+        "confidence": 0.6847,
+        "bbox": {
+          "x": 0.099333,
+          "y": 0.490782,
+          "width": 0.049333,
+          "height": 0.019432
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "library",
+        "originalContent": "library",
+        "confidence": 0.7836,
+        "bbox": {
+          "x": 0.174,
+          "y": 0.490782,
+          "width": 0.072,
+          "height": 0.020927
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "shopping mall",
+        "originalContent": "shopping mall",
+        "confidence": 0.8487,
+        "bbox": {
+          "x": 0.272,
+          "y": 0.492277,
+          "width": 0.143333,
+          "height": 0.01993
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "shopping mall",
+            "confidence": 0.8487
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "café library shoppingmall sportscenter movietheater swimming poor",
+            "confidence": 0.4986
+          }
+        ]
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "movie theater",
+        "originalContent": "movietheater",
+        "confidence": 0.8245,
+        "bbox": {
+          "x": 0.602,
+          "y": 0.493772,
+          "width": 0.136667,
+          "height": 0.017937
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "sportscenter",
+        "originalContent": "sportscenter",
+        "confidence": 0.8317,
+        "bbox": {
+          "x": 0.444,
+          "y": 0.495267,
+          "width": 0.128,
+          "height": 0.015944
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "swimming pool",
+        "originalContent": "swimming pool",
+        "confidence": 0.8909,
+        "bbox": {
+          "x": 0.77,
+          "y": 0.496761,
+          "width": 0.151333,
+          "height": 0.016442
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0012",
+        "type": "paragraph",
+        "content": "Lisa does lots of things on the weekend. She always goes",
+        "originalContent": "Lisa does lots of things on the weekend. She always goes",
+        "confidence": 0.9582,
+        "bbox": {
+          "x": 0.081424,
+          "y": 0.534699,
+          "width": 0.535597,
+          "height": 0.018037
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Lisadoes lots of things on theweekend.She always goes",
+            "confidence": 0.8881
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Lisa does lots of things on the weekend. She always goes",
+            "confidence": 0.9582
+          }
+        ]
+      },
+      {
+        "id": "text_0013",
+        "type": "paragraph",
+        "content": "swimming at the ' swimming pool. She sometimes shops at",
+        "originalContent": "swimming at the ' swimming pool. She sometimes shops at",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.080196,
+          "y": 0.555793,
+          "width": 0.579378,
+          "height": 0.022317
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "swimmingattheswimming pool.Shesometimes shopsat",
+            "confidence": 0.907
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "swimming at the ' swimming pool. She sometimes shops at",
+            "confidence": 0.9
+          }
+        ]
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "the2",
+        "originalContent": "the2",
+        "confidence": 0.76,
+        "bbox": {
+          "x": 0.073333,
+          "y": 0.576482,
+          "width": 0.056,
+          "height": 0.020927
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0015",
+        "type": "paragraph",
+        "content": "the? _ and she sometimes goes to a movie at",
+        "originalContent": "the? _ and she sometimes goes to a movie at",
+        "confidence": 0.917,
+        "bbox": {
+          "x": 0.078969,
+          "y": 0.580251,
+          "width": 0.583879,
+          "height": 0.018037
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "and shesometimesgoestoa movieat",
+            "confidence": 0.9052
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "the? _ and she sometimes goes to a movie at",
+            "confidence": 0.917
+          }
+        ]
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": ". She always eats icecream at the",
+        "originalContent": ".Shealwayseatsicecreamatthe",
+        "confidence": 0.9079,
+        "bbox": {
+          "x": 0.292,
+          "y": 0.603388,
+          "width": 0.32,
+          "height": 0.017439
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "the 3",
+            "confidence": 0.5775
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "the? . She always eats ice cream at the",
+            "confidence": 0.85
+          },
+          {
+            "engine": "rapidocr",
+            "content": ".Shealwayseatsicecreamatthe",
+            "confidence": 0.9079
+          }
+        ]
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "with her friends and she sometimes reads",
+        "originalContent": "withherfriendsandshesometimesreads",
+        "confidence": 0.9501,
+        "bbox": {
+          "x": 0.261333,
+          "y": 0.625311,
+          "width": 0.394667,
+          "height": 0.018435
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "withherfriendsandshesometimesreads",
+            "confidence": 0.9501
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": ": with her friends and she sometimes reads",
+            "confidence": 0.8775
+          }
+        ]
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "booksatthe5",
+        "originalContent": "booksatthe5",
+        "confidence": 0.8374,
+        "bbox": {
+          "x": 0.078,
+          "y": 0.647733,
+          "width": 0.131333,
+          "height": 0.016442
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": ". She always plays tennis at",
+        "originalContent": ".Shealwaysplaystennisat",
+        "confidence": 0.8911,
+        "bbox": {
+          "x": 0.376667,
+          "y": 0.648729,
+          "width": 0.268667,
+          "height": 0.01993
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": ".Shealwaysplaystennisat",
+            "confidence": 0.8911
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "books at the ° ____. She always plays tennis at",
+            "confidence": 0.851
+          }
+        ]
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "too. Lisa loves weekends!",
+        "originalContent": "too.Lisalovesweekends!",
+        "confidence": 0.9034,
+        "bbox": {
+          "x": 0.293333,
+          "y": 0.673144,
+          "width": 0.246,
+          "height": 0.014948
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "the\"",
+            "confidence": 0.683
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "thes , too. Lisa loves weekends!",
+            "confidence": 0.8117
+          },
+          {
+            "engine": "rapidocr",
+            "content": "too.Lisalovesweekends!",
+            "confidence": 0.9034
+          }
+        ]
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "Vw=always",
+        "originalContent": "Vw=always",
+        "confidence": 0.7204,
+        "bbox": {
+          "x": 0.371333,
+          "y": 0.73991,
+          "width": 0.124667,
+          "height": 0.02292
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0022",
+        "type": "instruction",
+        "content": "Complete the sentences.",
+        "originalContent": "Complete the sentences.",
+        "confidence": 0.8704,
+        "bbox": {
+          "x": 0.071333,
+          "y": 0.742402,
+          "width": 0.254667,
+          "height": 0.01993
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Complete the sentences.",
+            "confidence": 0.8704
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Complete the sentences. Y/Y =alwoys W=sometines &=never",
+            "confidence": 0.5887
+          }
+        ]
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "-sometimes",
+        "originalContent": "-sometimes",
+        "confidence": 0.8164,
+        "bbox": {
+          "x": 0.556667,
+          "y": 0.744395,
+          "width": 0.123333,
+          "height": 0.015944
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "x=never",
+        "originalContent": "x=never",
+        "confidence": 0.7312,
+        "bbox": {
+          "x": 0.722,
+          "y": 0.744395,
+          "width": 0.092,
+          "height": 0.018435
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "1 Katie",
+        "originalContent": "1Katie",
+        "confidence": 0.792,
+        "bbox": {
+          "x": 0.07,
+          "y": 0.768311,
+          "width": 0.082,
+          "height": 0.018934
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "sometimes",
+        "originalContent": "sometimes",
+        "confidence": 0.8669,
+        "bbox": {
+          "x": 0.180667,
+          "y": 0.770802,
+          "width": 0.113333,
+          "height": 0.016442
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "sometimes",
+            "confidence": 0.8669
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Katie sometimes (W) eats seafood.",
+            "confidence": 0.7783
+          }
+        ]
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "()eats seafood.",
+        "originalContent": "()eatsseafood.",
+        "confidence": 0.9036,
+        "bbox": {
+          "x": 0.325333,
+          "y": 0.771799,
+          "width": 0.163333,
+          "height": 0.016442
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "2 Theboys",
+        "originalContent": "2Theboys",
+        "confidence": 0.8445,
+        "bbox": {
+          "x": 0.07,
+          "y": 0.790234,
+          "width": 0.116,
+          "height": 0.022422
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2Theboys",
+            "confidence": 0.8445
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 The boys — (%) go to the museum.",
+            "confidence": 0.7867
+          }
+        ]
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "(x)goto the museum.",
+        "originalContent": "(x)gotothemuseum.",
+        "confidence": 0.8663,
+        "bbox": {
+          "x": 0.359333,
+          "y": 0.794718,
+          "width": 0.212667,
+          "height": 0.017937
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "3 You",
+        "originalContent": "3You",
+        "confidence": 0.792,
+        "bbox": {
+          "x": 0.071333,
+          "y": 0.815645,
+          "width": 0.064667,
+          "height": 0.017439
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0031",
+        "type": "paragraph",
+        "content": "3 You _(W) ride your bike to school.",
+        "originalContent": "3 You _(W) ride your bike to school.",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.074468,
+          "y": 0.817487,
+          "width": 0.516367,
+          "height": 0.01712
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "()rideyourbiketoschool.",
+            "confidence": 0.9109
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 You _(W) ride your bike to school.",
+            "confidence": 0.9
+          }
+        ]
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "4 Jack",
+        "originalContent": "4 Jack",
+        "confidence": 0.7808,
+        "bbox": {
+          "x": 0.070667,
+          "y": 0.837569,
+          "width": 0.074,
+          "height": 0.018934
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0033",
+        "type": "paragraph",
+        "content": "4 Jack _ (W) has fruit after dinner.",
+        "originalContent": "4 Jack _ (W) has fruit after dinner.",
+        "confidence": 0.8612,
+        "bbox": {
+          "x": 0.074468,
+          "y": 0.839804,
+          "width": 0.477087,
+          "height": 0.01712
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "(V)has fruit afterdinner.",
+            "confidence": 0.857
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 Jack _ (W) has fruit after dinner.",
+            "confidence": 0.8612
+          }
+        ]
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "()have breakfast in the morning.",
+        "originalContent": "()havebreakfast inthemorning.",
+        "confidence": 0.9297,
+        "bbox": {
+          "x": 0.304,
+          "y": 0.860987,
+          "width": 0.348,
+          "height": 0.021425
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "()havebreakfast inthemorning.",
+            "confidence": 0.9297
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 We _ (WH) have breakfast in the morning.",
+            "confidence": 0.7556
+          }
+        ]
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "5 We",
+        "originalContent": "5 We",
+        "confidence": 0.7251,
+        "bbox": {
+          "x": 0.070667,
+          "y": 0.861485,
+          "width": 0.059333,
+          "height": 0.017439
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "6 My friends",
+        "originalContent": "6 Myfriends",
+        "confidence": 0.8387,
+        "bbox": {
+          "x": 0.073333,
+          "y": 0.884903,
+          "width": 0.123333,
+          "height": 0.016941
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "6 Myfriends",
+            "confidence": 0.8387
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "6 My friends ____ (%) watch movies.",
+            "confidence": 0.7657
+          }
+        ]
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "(x)watch movies.",
+        "originalContent": "(x)watchmovies.",
+        "confidence": 0.8683,
+        "bbox": {
+          "x": 0.372667,
+          "y": 0.886398,
+          "width": 0.166667,
+          "height": 0.016442
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "Roulew 3",
+        "originalContent": "Roulew 3",
+        "confidence": 0.6504,
+        "bbox": {
+          "x": 0.094,
+          "y": 0.961136,
+          "width": 0.070667,
+          "height": 0.013453
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Review 3",
+      "Complete the crossword.",
+      "Down",
+      "Across",
+      "2 Write the correct words.",
+      "cafe",
+      "library",
+      "shopping mall",
+      "movie theater",
+      "sportscenter",
+      "swimming pool",
+      "Lisa does lots of things on the weekend. She always goes",
+      "swimming at the ' swimming pool. She sometimes shops at",
+      "the2",
+      "the? _ and she sometimes goes to a movie at",
+      ". She always eats icecream at the",
+      "with her friends and she sometimes reads",
+      "booksatthe5",
+      ". She always plays tennis at",
+      "too. Lisa loves weekends!",
+      "Vw=always",
+      "Complete the sentences.",
+      "-sometimes",
+      "x=never",
+      "1 Katie",
+      "sometimes",
+      "()eats seafood.",
+      "2 Theboys",
+      "(x)goto the museum.",
+      "3 You",
+      "3 You _(W) ride your bike to school.",
+      "4 Jack",
+      "4 Jack _ (W) has fruit after dinner.",
+      "()have breakfast in the morning.",
+      "5 We",
+      "6 My friends",
+      "(x)watch movies.",
+      "Roulew 3"
+    ],
+    "paragraphs": [
+      {
+        "id": "text_0012",
+        "content": "Lisa does lots of things on the weekend. She always goes",
+        "confidence": 0.9582,
+        "bbox": {
+          "x": 0.081424,
+          "y": 0.534699,
+          "width": 0.535597,
+          "height": 0.018037
+        },
+        "sourceElementIds": [
+          "text_0012"
+        ]
+      },
+      {
+        "id": "text_0013",
+        "content": "swimming at the ' swimming pool. She sometimes shops at",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.080196,
+          "y": 0.555793,
+          "width": 0.579378,
+          "height": 0.022317
+        },
+        "sourceElementIds": [
+          "text_0013"
+        ]
+      },
+      {
+        "id": "text_0015",
+        "content": "the? _ and she sometimes goes to a movie at",
+        "confidence": 0.917,
+        "bbox": {
+          "x": 0.078969,
+          "y": 0.580251,
+          "width": 0.583879,
+          "height": 0.018037
+        },
+        "sourceElementIds": [
+          "text_0015"
+        ]
+      },
+      {
+        "id": "text_0031",
+        "content": "3 You _(W) ride your bike to school.",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.074468,
+          "y": 0.817487,
+          "width": 0.516367,
+          "height": 0.01712
+        },
+        "sourceElementIds": [
+          "text_0031"
+        ]
+      },
+      {
+        "id": "text_0033",
+        "content": "4 Jack _ (W) has fruit after dinner.",
+        "confidence": 0.8612,
+        "bbox": {
+          "x": 0.074468,
+          "y": 0.839804,
+          "width": 0.477087,
+          "height": 0.01712
+        },
+        "sourceElementIds": [
+          "text_0033"
+        ]
+      }
+    ],
+    "sentences": [],
+    "vocabulary": [
+      {
+        "word": "cafe",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.6847,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "library",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7836,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "shopping mall",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8487,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "movie theater",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8245,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "sportscenter",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8317,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "swimming pool",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8909,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "the2",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.76,
+        "sourceElementIds": [
+          "text_0014"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "booksatthe5",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8374,
+        "sourceElementIds": [
+          "text_0018"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "Vw=always",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7204,
+        "sourceElementIds": [
+          "text_0021"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "-sometimes",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8164,
+        "sourceElementIds": [
+          "text_0023"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "x=never",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7312,
+        "sourceElementIds": [
+          "text_0024"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "1 Katie",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.792,
+        "sourceElementIds": [
+          "text_0025"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "sometimes",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8669,
+        "sourceElementIds": [
+          "text_0026"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "()eats seafood",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.9036,
+        "sourceElementIds": [
+          "text_0027"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "2 Theboys",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8445,
+        "sourceElementIds": [
+          "text_0028"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "(x)goto the museum",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8663,
+        "sourceElementIds": [
+          "text_0029"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "3 You",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.792,
+        "sourceElementIds": [
+          "text_0030"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "4 Jack",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7808,
+        "sourceElementIds": [
+          "text_0032"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "5 We",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7251,
+        "sourceElementIds": [
+          "text_0035"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "6 My friends",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8387,
+        "sourceElementIds": [
+          "text_0036"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "(x)watch movies",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8683,
+        "sourceElementIds": [
+          "text_0037"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "Roulew 3",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.6504,
+        "sourceElementIds": [
+          "text_0039"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      }
+    ],
+    "grammar": [],
+    "dialogues": [],
+    "exercises": [
+      {
+        "exerciseNumber": "2",
+        "type": "writing_activity",
+        "instruction": "Write the correct words.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.932,
+        "sourceElementIds": [
+          "text_0005"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "activity",
+        "instruction": "Complete the crossword.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.9153,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "activity",
+        "instruction": "Complete the sentences.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8704,
+        "sourceElementIds": [
+          "text_0022"
+        ]
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "2 Write the correct words.",
+          "cafe",
+          "library",
+          "shopping mall",
+          "movie theater",
+          "sportscenter",
+          "swimming pool",
+          "Lisa does lots of things on the weekend. She always goes",
+          "swimming at the ' swimming pool. She sometimes shops at",
+          "the2",
+          "the? _ and she sometimes goes to a movie at",
+          ". She always eats icecream at the",
+          "with her friends and she sometimes reads",
+          "booksatthe5",
+          ". She always plays tennis at",
+          "too. Lisa loves weekends!"
+        ],
+        "position": {
+          "x": 0.029509,
+          "y": 0.437658,
+          "width": 0.911824,
+          "height": 0.270434
+        },
+        "textElementIds": [
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Vw=always",
+          "Complete the sentences.",
+          "-sometimes",
+          "x=never",
+          "1 Katie",
+          "sometimes",
+          "()eats seafood.",
+          "2 Theboys",
+          "(x)goto the museum.",
+          "3 You",
+          "3 You _(W) ride your bike to school.",
+          "4 Jack",
+          "4 Jack _ (W) has fruit after dinner."
+        ],
+        "position": {
+          "x": 0.05,
+          "y": 0.71991,
+          "width": 0.784,
+          "height": 0.157014
+        },
+        "textElementIds": [
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "nonEducationalText": [],
+    "excludedGarbage": [
+      {
+        "id": "text_0038",
+        "content": "78",
+        "originalContent": "78",
+        "confidence": 0.6628
+      }
+    ]
+  },
+  "learningContent": {
+    "pageType": "review",
+    "title": "Review 3",
+    "learningObjectives": [],
+    "targetVocabulary": [
+      {
+        "word": "cafe",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.6847,
+        "sourceElementIds": []
+      },
+      {
+        "word": "library",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7836,
+        "sourceElementIds": []
+      },
+      {
+        "word": "shopping mall",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8487,
+        "sourceElementIds": []
+      },
+      {
+        "word": "movie theater",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8245,
+        "sourceElementIds": []
+      },
+      {
+        "word": "sportscenter",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8317,
+        "sourceElementIds": []
+      },
+      {
+        "word": "swimming pool",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8909,
+        "sourceElementIds": []
+      },
+      {
+        "word": "the2",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.76,
+        "sourceElementIds": [
+          "text_0014"
+        ]
+      },
+      {
+        "word": "booksatthe5",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8374,
+        "sourceElementIds": [
+          "text_0018"
+        ]
+      },
+      {
+        "word": "Vw=always",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7204,
+        "sourceElementIds": [
+          "text_0021"
+        ]
+      },
+      {
+        "word": "-sometimes",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8164,
+        "sourceElementIds": [
+          "text_0023"
+        ]
+      },
+      {
+        "word": "x=never",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7312,
+        "sourceElementIds": [
+          "text_0024"
+        ]
+      },
+      {
+        "word": "1 Katie",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.792,
+        "sourceElementIds": [
+          "text_0025"
+        ]
+      },
+      {
+        "word": "sometimes",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8669,
+        "sourceElementIds": [
+          "text_0026"
+        ]
+      },
+      {
+        "word": "()eats seafood",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.9036,
+        "sourceElementIds": [
+          "text_0027"
+        ]
+      },
+      {
+        "word": "2 Theboys",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8445,
+        "sourceElementIds": [
+          "text_0028"
+        ]
+      },
+      {
+        "word": "(x)goto the museum",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8663,
+        "sourceElementIds": [
+          "text_0029"
+        ]
+      },
+      {
+        "word": "3 You",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.792,
+        "sourceElementIds": [
+          "text_0030"
+        ]
+      },
+      {
+        "word": "4 Jack",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7808,
+        "sourceElementIds": [
+          "text_0032"
+        ]
+      },
+      {
+        "word": "5 We",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7251,
+        "sourceElementIds": [
+          "text_0035"
+        ]
+      },
+      {
+        "word": "6 My friends",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8387,
+        "sourceElementIds": [
+          "text_0036"
+        ]
+      },
+      {
+        "word": "(x)watch movies",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8683,
+        "sourceElementIds": [
+          "text_0037"
+        ]
+      },
+      {
+        "word": "Roulew 3",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.6504,
+        "sourceElementIds": [
+          "text_0039"
+        ]
+      }
+    ],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "2",
+        "type": "writing_activity",
+        "instruction": "Write the correct words.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.932,
+        "sourceElementIds": [
+          "text_0005"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "activity",
+        "instruction": "Complete the crossword.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.9153,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "activity",
+        "instruction": "Complete the sentences.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8704,
+        "sourceElementIds": [
+          "text_0022"
+        ]
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [
+      {
+        "exerciseNumber": "2",
+        "instruction": "Write the correct words.",
+        "type": "writing_activity",
+        "confidence": 0.932
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Complete the crossword.",
+        "type": "activity",
+        "confidence": 0.9153
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Complete the sentences.",
+        "type": "activity",
+        "confidence": 0.8704
+      }
+    ],
+    "writing": [
+      {
+        "exerciseNumber": "2",
+        "instruction": "Write the correct words.",
+        "type": "writing_activity",
+        "confidence": 0.932
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Complete the crossword.",
+        "type": "activity",
+        "confidence": 0.9153
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Complete the sentences.",
+        "type": "activity",
+        "confidence": 0.8704
+      }
+    ],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "text_repaired": 14,
+      "text_kept": 38,
+      "garbage_excluded": 1,
+      "vocab_rejected": 1,
+      "vocab_kept": 24,
+      "exercises_reconstructed": 3
+    },
+    "averageOcrConfidence": 0.8357
+  },
+  "metadata": {
+    "book": "Family and Friends 3 Student Book (American)",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_ff3_v1",
+    "originalOcrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "originalAverageConfidence": 0.8357,
+    "noHallucinationPolicy": "Definitions, translations, speaker names, answers, and grammar rules are null or omitted unless visibly supported by page OCR/PDF. Text repairs are limited to spacing, punctuation, and clear OCR character errors."
+  }
+}
