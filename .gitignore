@@ -1,30 +1,30 @@
+```
+# Next.js build outputs
+.next/
 
-# next.js
-/.next/
-/out/
+# Environment variables
+.env.local
+.env
 
-# production
-/build
+# Logs
+*.log
 
-# misc
+# Dependencies
+node_modules/
+
+# OS generated files
 .DS_Store
-*.pem
+Thumbs.db
 
-# debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+# Coverage directory used by testing tools
+coverage/
+htmlcov/
+.coverage
 
-# local env files
-.env*.local
-
-# vercel
-.vercel
-
-# typescript
-*.tsbuildinfo
-next-env.d.ts
-
-# Prevent PDF files from being committed
-src/books/*.pdf
-node_modules
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+```
