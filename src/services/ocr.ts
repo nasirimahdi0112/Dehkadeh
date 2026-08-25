@@ -12,11 +12,9 @@ import { createWorker } from 'tesseract.js';
 export async function performOCR(imageBuffer: Buffer, width: number, height: number): Promise<string> {
   const worker = await createWorker('eng');
   try {
-    // Tesseract.js can work with raw pixel data (a buffer of RGBA values)
-    const { data: { text } } = await worker.recognize(imageBuffer, {
-        width,
-        height,
-    });
+    void width;
+    void height;
+    const { data: { text } } = await worker.recognize(imageBuffer);
     return text;
   } catch (error) {
     console.error('OCR failed:', error);
