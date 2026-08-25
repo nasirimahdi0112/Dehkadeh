@@ -10,6 +10,7 @@
 
 import {ai} from '@/ai/genkit';
 import {z} from 'genkit';
+import {runWithQuestionGenerationModelFallback} from '@/ai/gemini-models';
 import { getBookContentTool } from '../tools/getBookContentTool';
 
 const GenerateQuestionsInputSchema = z.object({
@@ -89,7 +90,9 @@ const generateQuestionsFlow = ai.defineFlow(
     outputSchema: GenerateQuestionsOutputSchema,
   },
   async (input) => {
-    const { output } = await prompt(input);
+    const { output } = await runWithQuestionGenerationModelFallback((model) =>
+      prompt(input, {model})
+    );
     
     if (!output || !output.questions) {
       throw new Error("Failed to generate questions. The AI model did not return a valid response.");
