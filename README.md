@@ -1,12 +1,54 @@
 # DehkadehQuiz
 
-An AI-powered quiz generation tool designed for English language teachers at **Dehkadeh-e-Zaban**. Automatically create pedagogically sound pop quizzes from your textbooks using Google's Gemini AI.
+DehkadehQuiz is a Next.js quiz-generation app for English teachers at **Dehkadeh-e-Zaban**. It turns pre-processed textbook content into printable, editable quizzes using Genkit and the Gemini API.
 
 ![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)
 ![Genkit](https://img.shields.io/badge/Genkit-AI-orange?logo=google)
+![Gemini](https://img.shields.io/badge/Gemini-API-blue?logo=google)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?logo=tailwind-css)
 
-## 🚀 Features
+## What the app does
+
+- **Generates textbook-based quizzes** from selected books, page ranges, difficulty levels, question types, and optional topics.
+- **Uses a Gemini fallback chain** for question generation and regeneration:
+  1. `gemini-3.7-flash`
+  2. `gemini-3.6-flash`
+  3. `gemini-3.5-flash-lite`
+  4. `gemini-3.1-flash-lite`
+- **Falls back automatically** if a model call fails, so the app tries the next configured Gemini model before returning an error.
+- **Grounds questions in local book content** using pre-processed JSON files in `src/books-json` and the Genkit `getBookContent` tool.
+- **Supports multiple question formats**: multiple choice, fill in the blank, true/false, and short answer.
+- **Exports generated quizzes** as PDF, Word (`.docx`), or CSV.
+- **Allows question regeneration** when a teacher wants a different version of a specific question.
+
+## Tech stack
+
+| Area | Technology |
+| --- | --- |
+| App framework | Next.js 15 App Router |
+| UI | React 18, Tailwind CSS, Radix UI |
+| AI orchestration | Genkit |
+| AI provider | Google Gemini API via `@genkit-ai/google-genai` |
+| Book content | Local pre-processed JSON files |
+| Exports | `jspdf`, `html2canvas`, `docx`, CSV generation |
+| OCR helper | `tesseract.js` |
+
+## Project structure
+
+```text
+src/
+├── ai/
+│   ├── flows/              # Genkit flows for quiz generation and question regeneration
+│   ├── tools/              # Genkit tools, including getBookContent
+│   ├── gemini-models.ts    # Ordered Gemini fallback configuration
+│   └── genkit.ts           # Shared Genkit instance and Google AI plugin setup
+├── app/                    # Next.js App Router entry points
+├── books-json/             # Pre-processed textbook JSON content
+├── components/             # UI components for the quiz builder and preview
+├── hooks/                  # Shared React hooks
+├── lib/                    # Types, schemas, and utilities
+└── services/               # Book inventory and OCR services
+```
 
 - **AI-Generated Questions**: Uses the Gemini API through Genkit with an ordered fallback chain (`gemini-3.7-flash` → `gemini-3.6-flash` → `gemini-3.5-flash-lite` → `gemini-3.1-flash-lite`) to create context-aware questions based on specific textbook pages.
 - **Multiple Question Types**: Supports Multiple Choice, Fill-in-the-Blank, True/False, and Short Answer formats.
@@ -17,7 +59,9 @@ An AI-powered quiz generation tool designed for English language teachers at **D
   - 📝 **Word (.docx)** (Editable format)
   - 📊 **CSV** (Data import)
 
-## 🛠️ Tech Stack
+- Node.js 18 or newer
+- npm
+- A Gemini API key from Google AI Studio
 
 - **Framework**: Next.js 15 (App Router)
 - **AI Engine**: Genkit with Google Gemini API model fallback
@@ -25,17 +69,11 @@ An AI-powered quiz generation tool designed for English language teachers at **D
 - **Export Libraries**: `jspdf`, `html2canvas`, `docx`
 - **State Management**: React Context + Hooks
 
-## 📂 Project Structure
+Create `.env.local` in the repository root:
 
-```bash
-src/
-├── ai/                 # Genkit flows, prompts, and tools
-│   ├── flows/          # Main quiz generation logic
-│   └── tools/          # Custom tools (e.g., getBookContentTool)
-├── books-json/         # Pre-processed textbook content (JSON)
-├── components/         # Reusable React UI components
-├── services/           # Business logic (Book inventory, OCR helpers)
-└── app/                # Next.js App Router pages
+```env
+GENKIT_ENV=dev
+GOOGLE_API_KEY=your-gemini-api-key
 ```
 
 ## 🏃 Getting Started
@@ -46,15 +84,10 @@ src/
 - npm or yarn
 - A Gemini API key from Google AI Studio
 
-### Installation
+## Getting started
 
-1. **Clone the repository**
-   ```bash
-   git clone <repository-url>
-   cd DehkadehQuiz
-   ```
+1. **Install dependencies**
 
-2. **Install dependencies**
    ```bash
    npm install
    ```
@@ -70,20 +103,59 @@ src/
    
    You need to run both the Next.js app and the Genkit AI server.
 
-   **Terminal 1 (Genkit):**
    ```bash
    npm run genkit:dev
    ```
 
-   **Terminal 2 (Next.js App):**
+3. **Start the Next.js app in another terminal**
+
    ```bash
    npm run dev
    ```
 
-5. **Open the App**
-   Navigate to [http://localhost:3000](http://localhost:3000) in your browser.
+4. **Open the app**
 
-## 📖 How It Works
+   Visit [http://localhost:3000](http://localhost:3000).
+
+## How quiz generation works
+
+1. A teacher selects a book and enters a page range such as `10-15`.
+2. The app sends the quiz settings to the `generateQuestions` Genkit flow.
+3. The flow asks the model to call `getBookContent` for the selected book and page range.
+4. The retrieved textbook text is used to create structured quiz output.
+5. The flow tries the configured Gemini models in order. If one model fails, the next model is used automatically.
+6. The UI displays the questions and answers, and the teacher can export the quiz.
+
+## Question regeneration flow
+
+When a teacher regenerates one question:
+
+1. The app sends the original question and quiz settings to the `regenerateQuestion` flow.
+2. The flow retrieves the same source pages with `getBookContent`.
+3. The Gemini fallback chain is used again.
+4. A new question, answer, and multiple-choice options when applicable are returned to the UI.
+
+## Available scripts
+
+| Command | Description |
+| --- | --- |
+| `npm run dev` | Start the Next.js development server with Turbopack. |
+| `npm run genkit:dev` | Start the Genkit developer server for local AI flows. |
+| `npm run genkit:watch` | Start Genkit in watch mode. |
+| `npm run build` | Build the production Next.js app. |
+| `npm run start` | Start the production Next.js server after a build. |
+| `npm run lint` | Run the project ESLint checks. |
+| `npm run typecheck` | Run TypeScript type checking without emitting files. |
+
+## Validation checklist
+
+Before opening a pull request, run:
+
+```bash
+npm run typecheck
+npm run lint
+npm run build
+```
 
 1. **Selection**: The teacher selects a textbook (e.g., *Four Corners Level 2*) and defines the scope (Unit 3, Pages 10-15).
 2. **Retrieval**: The system uses `getBookContentTool` to fetch the pre-processed text for the specified pages from the `books-json` directory.
@@ -91,19 +163,16 @@ src/
 4. **Refinement**: Regenerating a question uses the same retrieved page content and Gemini fallback chain, then returns structured JSON containing the new question, options when needed, and the correct answer.
 5. **Export**: The user previews the quiz, makes manual edits if needed, and exports to PDF/Word.
 
-## 🤝 Contributing
+## Notes for deployment
 
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/amazing-feature`).
-3. Commit your changes (`git commit -m 'Add some amazing feature'`).
-4. Push to the branch (`git push origin feature/amazing-feature`).
-5. Open a Pull Request.
+- Firebase App Hosting settings live in `apphosting.yaml`.
+- The production environment must include a valid Gemini API key.
+- The configured model IDs must be available to the Gemini API key used by the deployment. If the first model is unavailable, the app will try the next model in the fallback chain.
 
-## 📄 License
+## License
 
 This project is proprietary software developed for Dehkadeh-e-Zaban. All rights reserved.
 
-## 📞 Support
+## Support
 
-For internal support, please contact the development team at Dehkadeh-e-Zaban.
+For internal support, contact the Dehkadeh-e-Zaban development team.
