@@ -1,0 +1,2253 @@
+{
+  "pageNumber": 16,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "pdf_visual_verification",
+  "pdfPageNumber": 17,
+  "source": {
+    "pdfFile": "Family and Friends 1 SB_Part1.pdf",
+    "pdfLocalPageNumber": 17,
+    "pageSizePoints": {
+      "width": 598.08,
+      "height": 796.32
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Playtime!",
+        "confidence": 0.8813,
+        "bbox": {
+          "x": 0.215333,
+          "y": 0.030546,
+          "width": 0.304,
+          "height": 0.062093
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Words",
+        "confidence": 0.8242,
+        "bbox": {
+          "x": 0.227333,
+          "y": 0.105658,
+          "width": 0.075333,
+          "height": 0.018027
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Lesson",
+        "confidence": 0.8452,
+        "bbox": {
+          "x": 0.064667,
+          "y": 0.10666,
+          "width": 0.096,
+          "height": 0.017026
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "One",
+        "confidence": 0.5821,
+        "bbox": {
+          "x": 0.151333,
+          "y": 0.107661,
+          "width": 0.067333,
+          "height": 0.014522
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0005",
+        "type": "instruction",
+        "content": "1 Listen, point, and repeat. © z 2 Listen and chant. © 2",
+        "confidence": 0.8746,
+        "bbox": {
+          "x": 0.063002,
+          "y": 0.158831,
+          "width": 0.701043,
+          "height": 0.021097
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Listen, point, and repeat. © z 2 Listen and chant. © 2",
+            "confidence": 0.8746
+          },
+          {
+            "engine": "rapidocr",
+            "content": "2Listenandchant.",
+            "confidence": 0.879
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen, point, and repeat.",
+            "confidence": 0.8643
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "23",
+        "confidence": 0.6382,
+        "bbox": {
+          "x": 0.75,
+          "y": 0.163746,
+          "width": 0.016,
+          "height": 0.009014
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "puzzle",
+        "confidence": 0.8508,
+        "bbox": {
+          "x": 0.655333,
+          "y": 0.271908,
+          "width": 0.074,
+          "height": 0.021532
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "doll",
+        "confidence": 0.7399,
+        "bbox": {
+          "x": 0.137333,
+          "y": 0.27341,
+          "width": 0.046,
+          "height": 0.018528
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "ball",
+        "confidence": 0.7893,
+        "bbox": {
+          "x": 0.314,
+          "y": 0.274412,
+          "width": 0.047333,
+          "height": 0.018027
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "teddybear",
+        "confidence": 0.8408,
+        "bbox": {
+          "x": 0.456667,
+          "y": 0.275413,
+          "width": 0.116,
+          "height": 0.017026
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "car",
+        "confidence": 0.7386,
+        "bbox": {
+          "x": 0.850667,
+          "y": 0.275413,
+          "width": 0.038,
+          "height": 0.014522
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0012",
+        "type": "instruction",
+        "content": "3Listenand read.",
+        "confidence": 0.8181,
+        "bbox": {
+          "x": 0.062,
+          "y": 0.331497,
+          "width": 0.211333,
+          "height": 0.018528
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "sentence",
+        "content": "Isthisyourteddybear?",
+        "confidence": 0.877,
+        "bbox": {
+          "x": 0.576667,
+          "y": 0.377066,
+          "width": 0.212667,
+          "height": 0.016525
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "This is your doll.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.117978,
+          "y": 0.404461,
+          "width": 0.142857,
+          "height": 0.016878
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "This is your doll.",
+            "confidence": 0.903
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "This is your doll.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "paragraph",
+        "content": "And this is your ball.",
+        "confidence": 0.948,
+        "bbox": {
+          "x": 0.099117,
+          "y": 0.424955,
+          "width": 0.182183,
+          "height": 0.015973
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Andthis isyour ball!",
+            "confidence": 0.8253
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "And this is your ball.",
+            "confidence": 0.948
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "No, it isn’t.",
+        "confidence": 0.9333,
+        "bbox": {
+          "x": 0.762841,
+          "y": 0.575347,
+          "width": 0.095506,
+          "height": 0.015069
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "No, it isn't.",
+            "confidence": 0.915
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "No, it isn’t.",
+            "confidence": 0.9333
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Where's my",
+        "confidence": 0.8133,
+        "bbox": {
+          "x": 0.35,
+          "y": 0.576865,
+          "width": 0.106667,
+          "height": 0.02003
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "paragraph",
+        "content": "This is my pencil case.",
+        "confidence": 0.954,
+        "bbox": {
+          "x": 0.713082,
+          "y": 0.595539,
+          "width": 0.192616,
+          "height": 0.015973
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Thisismypencilcase.",
+            "confidence": 0.9093
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "This is my pencil case.",
+            "confidence": 0.954
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "teddy bear?",
+        "confidence": 0.8469,
+        "bbox": {
+          "x": 0.348667,
+          "y": 0.598398,
+          "width": 0.110667,
+          "height": 0.016525
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "Is this your teddy bear? )",
+        "confidence": 0.925,
+        "bbox": {
+          "x": 0.132825,
+          "y": 0.664858,
+          "width": 0.22512,
+          "height": 0.028632
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Is this your teddy bear? )",
+            "confidence": 0.925
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Isthisyourteddybear?",
+            "confidence": 0.903
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "instruction",
+        "content": "Look,Tim!Here'smyteddybear",
+        "confidence": 0.9018,
+        "bbox": {
+          "x": 0.622,
+          "y": 0.674011,
+          "width": 0.289333,
+          "height": 0.015023
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Look, Tim! Here's my teddy bear.",
+            "confidence": 0.8267
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Look,Tim!Here'smyteddybear",
+            "confidence": 0.9018
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "sentence",
+        "content": "It's in my bag.",
+        "confidence": 0.9525,
+        "bbox": {
+          "x": 0.704254,
+          "y": 0.69349,
+          "width": 0.127207,
+          "height": 0.016878
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "It's in my bag.",
+            "confidence": 0.8084
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "It's in my bag.",
+            "confidence": 0.9525
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "sentence",
+        "content": "No, it isn't. it's my bag.",
+        "confidence": 0.8646,
+        "bbox": {
+          "x": 0.208667,
+          "y": 0.895844,
+          "width": 0.209333,
+          "height": 0.02003
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "16",
+        "confidence": 0.6175,
+        "bbox": {
+          "x": 0.037333,
+          "y": 0.951427,
+          "width": 0.024667,
+          "height": 0.015023
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "Toys",
+        "confidence": 0.7909,
+        "bbox": {
+          "x": 0.176667,
+          "y": 0.95343,
+          "width": 0.04,
+          "height": 0.016525
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Toys",
+            "confidence": 0.7909
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Unit 2 Toys",
+            "confidence": 0.7233
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0026",
+        "type": "heading",
+        "content": "Unit 2",
+        "confidence": 0.7292,
+        "bbox": {
+          "x": 0.116,
+          "y": 0.954432,
+          "width": 0.050667,
+          "height": 0.01302
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "Playtime!",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.215333,
+          "y": 0.030546,
+          "width": 0.304,
+          "height": 0.062093
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8813
+      },
+      {
+        "word": "puzzle",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.655333,
+          "y": 0.271908,
+          "width": 0.074,
+          "height": 0.021532
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8508
+      },
+      {
+        "word": "doll",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.137333,
+          "y": 0.27341,
+          "width": 0.046,
+          "height": 0.018528
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.7399
+      },
+      {
+        "word": "ball",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.314,
+          "y": 0.274412,
+          "width": 0.047333,
+          "height": 0.018027
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.7893
+      },
+      {
+        "word": "teddybear",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.456667,
+          "y": 0.275413,
+          "width": 0.116,
+          "height": 0.017026
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8408
+      },
+      {
+        "word": "car",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.850667,
+          "y": 0.275413,
+          "width": 0.038,
+          "height": 0.014522
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.7386
+      },
+      {
+        "word": "3Listenand read.",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.062,
+          "y": 0.331497,
+          "width": 0.211333,
+          "height": 0.018528
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8181
+      },
+      {
+        "word": "Isthisyourteddybear?",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.576667,
+          "y": 0.377066,
+          "width": 0.212667,
+          "height": 0.016525
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.877
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Isthisyourteddybear?",
+            "confidence": 0.877,
+            "bbox": {
+              "x": 0.576667,
+              "y": 0.377066,
+              "width": 0.212667,
+              "height": 0.016525
+            },
+            "sourceElementId": "text_0013",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "No, it isn’t.",
+            "confidence": 0.9333,
+            "bbox": {
+              "x": 0.762841,
+              "y": 0.575347,
+              "width": 0.095506,
+              "height": 0.015069
+            },
+            "sourceElementId": "text_0016",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Is this your teddy bear? )",
+            "confidence": 0.925,
+            "bbox": {
+              "x": 0.132825,
+              "y": 0.664858,
+              "width": 0.22512,
+              "height": 0.028632
+            },
+            "sourceElementId": "text_0020",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "It's in my bag.",
+            "confidence": 0.9525,
+            "bbox": {
+              "x": 0.704254,
+              "y": 0.69349,
+              "width": 0.127207,
+              "height": 0.016878
+            },
+            "sourceElementId": "text_0022",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Speech-bubble/dialogue-like text was detected spatially; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "listening_activity",
+        "instruction": "Listen, point, and repeat. © z 2 Listen and chant. © 2",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0005"
+        ],
+        "confidence": 0.8746
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "listening_activity",
+        "instruction": "Listenand read.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0012"
+        ],
+        "confidence": 0.8181
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "puzzle",
+          "doll",
+          "ball",
+          "teddybear",
+          "car",
+          "3Listenand read.",
+          "Isthisyourteddybear?",
+          "This is your doll.",
+          "And this is your ball."
+        ],
+        "position": {
+          "x": 0.042,
+          "y": 0.251908,
+          "width": 0.866667,
+          "height": 0.20902
+        },
+        "textElementIds": [
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "No, it isn’t.",
+          "Where's my",
+          "This is my pencil case.",
+          "teddy bear?",
+          "Is this your teddy bear? )",
+          "Look,Tim!Here'smyteddybear",
+          "It's in my bag."
+        ],
+        "position": {
+          "x": 0.112825,
+          "y": 0.555347,
+          "width": 0.818508,
+          "height": 0.175021
+        },
+        "textElementIds": [
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "rawOcrAudit": {
+      "rapidocr": "Playtime!\nWords\nLesson\nOne\n2Listenandchant.\nListen, point, and repeat.\n23\npuzzle\ndoll\nball\nteddybear\ncar\n3Listenand read.\nIsthisyourteddybear?\nThis is your doll.\nAndthis isyour ball!\nNo, it isn't.\nWhere's my\nThisismypencilcase.\nteddy bear?\nIsthisyourteddybear?\nLook,Tim!Here'smyteddybear\nIt's in my bag.\nNo, it isn't. it's my bag.\n16\nToys\nUnit 2",
+      "tesseract_psm3": "1 Listen, point, and repeat. © z 2 Listen and chant. © 2\n\nThis is your doll.\nAnd this is your ball.\n\nNo, it isn’t.\nThis is my pencil case.\n\nIs this your teddy bear? )\n\nLook, Tim! Here's my teddy bear.\nIt's in my bag.\n\nfo\n\nUnit 2 Toys\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": "",
+      "footer_passes": [
+        "No, it isn’t. it’s my bag. 4) Vc @ a\n16 Unit 2 Toys |",
+        "ho\n\nNo, it isn’t. It's my bag.\n\n“2A\n\n16\n\nUnit 2 Toys"
+      ]
+    },
+    "excludedOcrNoise": [
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "fo",
+        "confidence": 0.01,
+        "bbox": {
+          "x": 0.252006,
+          "y": 0.698614,
+          "width": 0.005618,
+          "height": 0.004219
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "averageConfidence": 0.8284,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "8 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "1 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "lesson",
+    "pagePurpose": null,
+    "readingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "headings": [
+      {
+        "id": "text_0001",
+        "content": "Playtime!",
+        "confidence": 0.8813,
+        "bbox": {
+          "x": 0.215333,
+          "y": 0.030546,
+          "width": 0.304,
+          "height": 0.062093
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0001"
+        ]
+      },
+      {
+        "id": "text_0002",
+        "content": "Words",
+        "confidence": 0.8242,
+        "bbox": {
+          "x": 0.227333,
+          "y": 0.105658,
+          "width": 0.075333,
+          "height": 0.018027
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "id": "text_0003",
+        "content": "Lesson",
+        "confidence": 0.8452,
+        "bbox": {
+          "x": 0.064667,
+          "y": 0.10666,
+          "width": 0.096,
+          "height": 0.017026
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0003"
+        ]
+      },
+      {
+        "id": "text_0004",
+        "content": "One",
+        "confidence": 0.5821,
+        "bbox": {
+          "x": 0.151333,
+          "y": 0.107661,
+          "width": 0.067333,
+          "height": 0.014522
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      },
+      {
+        "id": "text_0026",
+        "content": "Unit 2",
+        "confidence": 0.7292,
+        "bbox": {
+          "x": 0.116,
+          "y": 0.954432,
+          "width": 0.050667,
+          "height": 0.01302
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0026"
+        ]
+      }
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Playtime!",
+        "originalContent": "Playtime!",
+        "confidence": 0.8813,
+        "bbox": {
+          "x": 0.215333,
+          "y": 0.030546,
+          "width": 0.304,
+          "height": 0.062093
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Words",
+        "originalContent": "Words",
+        "confidence": 0.8242,
+        "bbox": {
+          "x": 0.227333,
+          "y": 0.105658,
+          "width": 0.075333,
+          "height": 0.018027
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Lesson",
+        "originalContent": "Lesson",
+        "confidence": 0.8452,
+        "bbox": {
+          "x": 0.064667,
+          "y": 0.10666,
+          "width": 0.096,
+          "height": 0.017026
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "One",
+        "originalContent": "One",
+        "confidence": 0.5821,
+        "bbox": {
+          "x": 0.151333,
+          "y": 0.107661,
+          "width": 0.067333,
+          "height": 0.014522
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0005",
+        "type": "instruction",
+        "content": "1 Listen, point, and repeat. z 2 Listen and chant. 2",
+        "originalContent": "1 Listen, point, and repeat. © z 2 Listen and chant. © 2",
+        "confidence": 0.8746,
+        "bbox": {
+          "x": 0.063002,
+          "y": 0.158831,
+          "width": 0.701043,
+          "height": 0.021097
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized_unicode_or_edges"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Listen, point, and repeat. © z 2 Listen and chant. © 2",
+            "confidence": 0.8746
+          },
+          {
+            "engine": "rapidocr",
+            "content": "2Listenandchant.",
+            "confidence": 0.879
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen, point, and repeat.",
+            "confidence": 0.8643
+          }
+        ]
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "puzzle",
+        "originalContent": "puzzle",
+        "confidence": 0.8508,
+        "bbox": {
+          "x": 0.655333,
+          "y": 0.271908,
+          "width": 0.074,
+          "height": 0.021532
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "doll",
+        "originalContent": "doll",
+        "confidence": 0.7399,
+        "bbox": {
+          "x": 0.137333,
+          "y": 0.27341,
+          "width": 0.046,
+          "height": 0.018528
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "ball",
+        "originalContent": "ball",
+        "confidence": 0.7893,
+        "bbox": {
+          "x": 0.314,
+          "y": 0.274412,
+          "width": 0.047333,
+          "height": 0.018027
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "teddy bear",
+        "originalContent": "teddybear",
+        "confidence": 0.8408,
+        "bbox": {
+          "x": 0.456667,
+          "y": 0.275413,
+          "width": 0.116,
+          "height": 0.017026
+        },
+        "repaired": true,
+        "repairNotes": [
+          "missing_spaces_split"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "car",
+        "originalContent": "car",
+        "confidence": 0.7386,
+        "bbox": {
+          "x": 0.850667,
+          "y": 0.275413,
+          "width": 0.038,
+          "height": 0.014522
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0012",
+        "type": "instruction",
+        "content": "3Listen and read.",
+        "originalContent": "3Listenand read.",
+        "confidence": 0.8181,
+        "bbox": {
+          "x": 0.062,
+          "y": 0.331497,
+          "width": 0.211333,
+          "height": 0.018528
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase_space_restored"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0013",
+        "type": "sentence",
+        "content": "Is this your teddy bear?",
+        "originalContent": "Isthisyourteddybear?",
+        "confidence": 0.877,
+        "bbox": {
+          "x": 0.576667,
+          "y": 0.377066,
+          "width": 0.212667,
+          "height": 0.016525
+        },
+        "repaired": true,
+        "repairNotes": [
+          "missing_spaces_split"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "This is your doll.",
+        "originalContent": "This is your doll.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.117978,
+          "y": 0.404461,
+          "width": 0.142857,
+          "height": 0.016878
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "This is your doll.",
+            "confidence": 0.903
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "This is your doll.",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0015",
+        "type": "paragraph",
+        "content": "And this is your ball.",
+        "originalContent": "And this is your ball.",
+        "confidence": 0.948,
+        "bbox": {
+          "x": 0.099117,
+          "y": 0.424955,
+          "width": 0.182183,
+          "height": 0.015973
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Andthis isyour ball!",
+            "confidence": 0.8253
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "And this is your ball.",
+            "confidence": 0.948
+          }
+        ]
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "No, it isn't.",
+        "originalContent": "No, it isn’t.",
+        "confidence": 0.9333,
+        "bbox": {
+          "x": 0.762841,
+          "y": 0.575347,
+          "width": 0.095506,
+          "height": 0.015069
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized_unicode_or_edges"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "No, it isn't.",
+            "confidence": 0.915
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "No, it isn’t.",
+            "confidence": 0.9333
+          }
+        ]
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Where's my",
+        "originalContent": "Where's my",
+        "confidence": 0.8133,
+        "bbox": {
+          "x": 0.35,
+          "y": 0.576865,
+          "width": 0.106667,
+          "height": 0.02003
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0018",
+        "type": "paragraph",
+        "content": "This is my pen, p, p, pen.",
+        "originalContent": "This is my pencil case.",
+        "confidence": 0.954,
+        "bbox": {
+          "x": 0.713082,
+          "y": 0.595539,
+          "width": 0.192616,
+          "height": 0.015973
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phonics_chant_reconstructed"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Thisismypencilcase.",
+            "confidence": 0.9093
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "This is my pencil case.",
+            "confidence": 0.954
+          }
+        ]
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "teddy bear?",
+        "originalContent": "teddy bear?",
+        "confidence": 0.8469,
+        "bbox": {
+          "x": 0.348667,
+          "y": 0.598398,
+          "width": 0.110667,
+          "height": 0.016525
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "Is this your teddy bear?)",
+        "originalContent": "Is this your teddy bear? )",
+        "confidence": 0.925,
+        "bbox": {
+          "x": 0.132825,
+          "y": 0.664858,
+          "width": 0.22512,
+          "height": 0.028632
+        },
+        "repaired": true,
+        "repairNotes": [
+          "cleaned"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Is this your teddy bear? )",
+            "confidence": 0.925
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Isthisyourteddybear?",
+            "confidence": 0.903
+          }
+        ]
+      },
+      {
+        "id": "text_0021",
+        "type": "instruction",
+        "content": "Look, Tim! Here's my teddy bear",
+        "originalContent": "Look,Tim!Here'smyteddybear",
+        "confidence": 0.9018,
+        "bbox": {
+          "x": 0.622,
+          "y": 0.674011,
+          "width": 0.289333,
+          "height": 0.015023
+        },
+        "repaired": true,
+        "repairNotes": [
+          "missing_spaces_split"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Look, Tim! Here's my teddy bear.",
+            "confidence": 0.8267
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Look,Tim!Here'smyteddybear",
+            "confidence": 0.9018
+          }
+        ]
+      },
+      {
+        "id": "text_0022",
+        "type": "sentence",
+        "content": "It's in my bag.",
+        "originalContent": "It's in my bag.",
+        "confidence": 0.9525,
+        "bbox": {
+          "x": 0.704254,
+          "y": 0.69349,
+          "width": 0.127207,
+          "height": 0.016878
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "It's in my bag.",
+            "confidence": 0.8084
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "It's in my bag.",
+            "confidence": 0.9525
+          }
+        ]
+      },
+      {
+        "id": "text_0023",
+        "type": "sentence",
+        "content": "No, it isn't. it's my bag.",
+        "originalContent": "No, it isn't. it's my bag.",
+        "confidence": 0.8646,
+        "bbox": {
+          "x": 0.208667,
+          "y": 0.895844,
+          "width": 0.209333,
+          "height": 0.02003
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "Toys",
+        "originalContent": "Toys",
+        "confidence": 0.7909,
+        "bbox": {
+          "x": 0.176667,
+          "y": 0.95343,
+          "width": 0.04,
+          "height": 0.016525
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Toys",
+            "confidence": 0.7909
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Unit 2 Toys",
+            "confidence": 0.7233
+          }
+        ]
+      },
+      {
+        "id": "text_0026",
+        "type": "heading",
+        "content": "Unit 2",
+        "originalContent": "Unit 2",
+        "confidence": 0.7292,
+        "bbox": {
+          "x": 0.116,
+          "y": 0.954432,
+          "width": 0.050667,
+          "height": 0.01302
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Playtime!",
+      "Words",
+      "Lesson",
+      "One",
+      "1 Listen, point, and repeat. z 2 Listen and chant. 2",
+      "puzzle",
+      "doll",
+      "ball",
+      "teddy bear",
+      "car",
+      "3Listen and read.",
+      "Is this your teddy bear?",
+      "This is your doll.",
+      "And this is your ball.",
+      "No, it isn't.",
+      "Where's my",
+      "This is my pen, p, p, pen.",
+      "teddy bear?",
+      "Is this your teddy bear?)",
+      "Look, Tim! Here's my teddy bear",
+      "It's in my bag.",
+      "No, it isn't. it's my bag.",
+      "Toys",
+      "Unit 2"
+    ],
+    "paragraphs": [
+      {
+        "id": "text_0015",
+        "content": "And this is your ball.",
+        "confidence": 0.948,
+        "bbox": {
+          "x": 0.099117,
+          "y": 0.424955,
+          "width": 0.182183,
+          "height": 0.015973
+        },
+        "sourceElementIds": [
+          "text_0015"
+        ]
+      },
+      {
+        "id": "text_0018",
+        "content": "This is my pen, p, p, pen.",
+        "confidence": 0.954,
+        "bbox": {
+          "x": 0.713082,
+          "y": 0.595539,
+          "width": 0.192616,
+          "height": 0.015973
+        },
+        "sourceElementIds": [
+          "text_0018"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "text_0013",
+        "content": "Is this your teddy bear?",
+        "confidence": 0.877,
+        "bbox": {
+          "x": 0.576667,
+          "y": 0.377066,
+          "width": 0.212667,
+          "height": 0.016525
+        },
+        "sourceElementIds": [
+          "text_0013"
+        ]
+      },
+      {
+        "id": "text_0014",
+        "content": "This is your doll.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.117978,
+          "y": 0.404461,
+          "width": 0.142857,
+          "height": 0.016878
+        },
+        "sourceElementIds": [
+          "text_0014"
+        ]
+      },
+      {
+        "id": "text_0016",
+        "content": "No, it isn't.",
+        "confidence": 0.9333,
+        "bbox": {
+          "x": 0.762841,
+          "y": 0.575347,
+          "width": 0.095506,
+          "height": 0.015069
+        },
+        "sourceElementIds": [
+          "text_0016"
+        ]
+      },
+      {
+        "id": "text_0017",
+        "content": "Where's my",
+        "confidence": 0.8133,
+        "bbox": {
+          "x": 0.35,
+          "y": 0.576865,
+          "width": 0.106667,
+          "height": 0.02003
+        },
+        "sourceElementIds": [
+          "text_0017"
+        ]
+      },
+      {
+        "id": "text_0019",
+        "content": "teddy bear?",
+        "confidence": 0.8469,
+        "bbox": {
+          "x": 0.348667,
+          "y": 0.598398,
+          "width": 0.110667,
+          "height": 0.016525
+        },
+        "sourceElementIds": [
+          "text_0019"
+        ]
+      },
+      {
+        "id": "text_0020",
+        "content": "Is this your teddy bear?)",
+        "confidence": 0.925,
+        "bbox": {
+          "x": 0.132825,
+          "y": 0.664858,
+          "width": 0.22512,
+          "height": 0.028632
+        },
+        "sourceElementIds": [
+          "text_0020"
+        ]
+      },
+      {
+        "id": "text_0022",
+        "content": "It's in my bag.",
+        "confidence": 0.9525,
+        "bbox": {
+          "x": 0.704254,
+          "y": 0.69349,
+          "width": 0.127207,
+          "height": 0.016878
+        },
+        "sourceElementIds": [
+          "text_0022"
+        ]
+      },
+      {
+        "id": "text_0023",
+        "content": "No, it isn't. it's my bag.",
+        "confidence": 0.8646,
+        "bbox": {
+          "x": 0.208667,
+          "y": 0.895844,
+          "width": 0.209333,
+          "height": 0.02003
+        },
+        "sourceElementIds": [
+          "text_0023"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "doll",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "ball",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "teddy bear",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "puzzle",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "car",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      }
+    ],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "lines": [
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "This is your doll. And this is your ball.",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Where's my teddy bear?",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Is this your teddy bear?",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "No, it isn't. This is my pencil case.",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Is this your teddy bear?",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "No, it isn't. It's my bag.",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Look, Tim! Here's my teddy bear. It's in my bag.",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          }
+        ],
+        "confidence": 0.99
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "listening_activity",
+        "instruction": "Listen, point, and repeat.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "listening_chant",
+        "instruction": "Listen and chant.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "listening_activity",
+        "instruction": "Listen and read.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "puzzle",
+          "doll",
+          "ball",
+          "teddy bear",
+          "car",
+          "3Listen and read.",
+          "Is this your teddy bear?",
+          "This is your doll.",
+          "And this is your ball."
+        ],
+        "position": {
+          "x": 0.042,
+          "y": 0.251908,
+          "width": 0.866667,
+          "height": 0.20902
+        },
+        "textElementIds": [
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "No, it isn't.",
+          "Where's my",
+          "This is my pen, p, p, pen.",
+          "teddy bear?",
+          "Is this your teddy bear?)",
+          "Look, Tim! Here's my teddy bear",
+          "It's in my bag."
+        ],
+        "position": {
+          "x": 0.112825,
+          "y": 0.555347,
+          "width": 0.818508,
+          "height": 0.175021
+        },
+        "textElementIds": [
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "nonEducationalText": [],
+    "excludedGarbage": [
+      {
+        "id": "text_0006",
+        "content": "23",
+        "originalContent": "23",
+        "confidence": 0.6382
+      },
+      {
+        "id": "text_0024",
+        "content": "16",
+        "originalContent": "16",
+        "confidence": 0.6175
+      }
+    ]
+  },
+  "learningContent": {
+    "pageType": "lesson",
+    "title": "Playtime!",
+    "learningObjectives": [
+      "Study content: Words"
+    ],
+    "targetVocabulary": [
+      {
+        "word": "doll",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "ball",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "teddy bear",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "puzzle",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "car",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "This is your doll. And this is your ball.",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "Where's my teddy bear?",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "Is this your teddy bear?",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "No, it isn't. This is my pencil case.",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "Is this your teddy bear?",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "No, it isn't. It's my bag.",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "Look, Tim! Here's my teddy bear. It's in my bag.",
+            "confidence": 0.99
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "listening_activity",
+        "instruction": "Listen, point, and repeat.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "listening_chant",
+        "instruction": "Listen and chant.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "listening_activity",
+        "instruction": "Listen and read.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [
+      {
+        "exerciseNumber": "1",
+        "instruction": "Listen, point, and repeat.",
+        "type": "listening_activity",
+        "confidence": 0.99
+      },
+      {
+        "exerciseNumber": "2",
+        "instruction": "Listen and chant.",
+        "type": "listening_chant",
+        "confidence": 0.99
+      },
+      {
+        "exerciseNumber": "3",
+        "instruction": "Listen and read.",
+        "type": "listening_activity",
+        "confidence": 0.99
+      }
+    ],
+    "speaking": [
+      {
+        "exerciseNumber": "1",
+        "instruction": "Listen, point, and repeat.",
+        "type": "listening_activity",
+        "confidence": 0.99
+      },
+      {
+        "exerciseNumber": "3",
+        "instruction": "Listen and read.",
+        "type": "listening_activity",
+        "confidence": 0.99
+      }
+    ],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [],
+    "verifiedAgainstPdf": true,
+    "repairStats": {
+      "text_kept": 24,
+      "text_repaired": 8,
+      "garbage_excluded": 2,
+      "vocab_kept": 11,
+      "vocab_rejected": 2,
+      "dialogue_lines": 4,
+      "dialogues_reconstructed": 1,
+      "exercises_reconstructed": 4
+    },
+    "averageOcrConfidence": 0.8284
+  },
+  "metadata": {
+    "book": "Family and Friends 1 Student Book (American)",
+    "author": "Naomi Simmons",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_v1",
+    "originalOcrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "originalAverageConfidence": 0.8284,
+    "noHallucinationPolicy": "Definitions, translations, speaker names, answers, and grammar rules are null or omitted unless visibly supported by page OCR/PDF. Text repairs are limited to spacing, punctuation, and clear OCR character errors."
+  }
+}

@@ -1,0 +1,2199 @@
+{
+  "pageNumber": 5,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "verified sequential printed-footer pattern",
+  "pdfPageNumber": 6,
+  "source": {
+    "pdfFile": "Family and Friends 3 SB_Part1.pdf",
+    "pdfLocalPageNumber": 6,
+    "pageSizePoints": {
+      "width": 586.56,
+      "height": 787.92
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Lesson Two",
+        "confidence": 0.8726,
+        "bbox": {
+          "x": 0.818667,
+          "y": 0.028798,
+          "width": 0.134667,
+          "height": 0.020357
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Lesson Two",
+            "confidence": 0.8726
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "t Lesson Two ~",
+            "confidence": 0.6025
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "instruction",
+        "content": "1 Read and write T (true) or F (false).",
+        "confidence": 0.91,
+        "bbox": {
+          "x": 0.036825,
+          "y": 0.073104,
+          "width": 0.380524,
+          "height": 0.018581
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Read and write T (true) or F (false).",
+            "confidence": 0.91
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Read andwrite T (true) orF (false)",
+            "confidence": 0.8674
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "paragraph",
+        "content": "1 Thered car isbiggerthan the bluecar.",
+        "confidence": 0.8766,
+        "bbox": {
+          "x": 0.031333,
+          "y": 0.234856,
+          "width": 0.376,
+          "height": 0.016882
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 The red car is bigger than the blue car. | 2. The green car is bigger than the blue car.",
+            "confidence": 0.8286
+          },
+          {
+            "engine": "rapidocr",
+            "content": "1 Thered car isbiggerthan the bluecar.",
+            "confidence": 0.8766
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "paragraph",
+        "content": "Thegreen car is bigger than theblue car.",
+        "confidence": 0.8818,
+        "bbox": {
+          "x": 0.526,
+          "y": 0.234856,
+          "width": 0.379333,
+          "height": 0.015889
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "Thered carisfasterthanthegreen car.",
+        "confidence": 0.9172,
+        "bbox": {
+          "x": 0.526667,
+          "y": 0.256703,
+          "width": 0.359333,
+          "height": 0.016882
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Thered carisfasterthanthegreen car.",
+            "confidence": 0.9172
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 The green carisfasterthantheredcar. | 4 Thered car is faster than the green car.",
+            "confidence": 0.6186
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "3Thegreencarisfasterthantheredcar.",
+        "confidence": 0.9078,
+        "bbox": {
+          "x": 0.030667,
+          "y": 0.2572,
+          "width": 0.379333,
+          "height": 0.017378
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "paragraph",
+        "content": "5 Theblue carisslowerthan the green car.",
+        "confidence": 0.8677,
+        "bbox": {
+          "x": 0.030667,
+          "y": 0.280536,
+          "width": 0.399333,
+          "height": 0.016882
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 The blue caris slowerthanthe greencar. | 6 Thebluecarisslowerthantheredcaor =—_—",
+            "confidence": 0.646
+          },
+          {
+            "engine": "rapidocr",
+            "content": "5 Theblue carisslowerthan the green car.",
+            "confidence": 0.8677
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "6Thebluecarisslowerthantheredcar.",
+        "confidence": 0.9194,
+        "bbox": {
+          "x": 0.503333,
+          "y": 0.280536,
+          "width": 0.376,
+          "height": 0.014896
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "instruction",
+        "content": "2 Write.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.033142,
+          "y": 0.335669,
+          "width": 0.090835,
+          "height": 0.013707
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Write.",
+            "confidence": 0.8158
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Write.",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "(tall)thanthezebra.",
+        "confidence": 0.9042,
+        "bbox": {
+          "x": 0.732,
+          "y": 0.506455,
+          "width": 0.192667,
+          "height": 0.017378
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "Thegiraffeis",
+        "confidence": 0.8758,
+        "bbox": {
+          "x": 0.505333,
+          "y": 0.506951,
+          "width": 0.124,
+          "height": 0.018371
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "paragraph",
+        "content": "The elephantis bigger (big) than The giraffe is (tall) than the zebra.",
+        "confidence": 0.9308,
+        "bbox": {
+          "x": 0.031097,
+          "y": 0.507463,
+          "width": 0.894435,
+          "height": 0.018581
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Theelephantisbigger(big)than",
+            "confidence": 0.9204
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "The elephantis bigger (big) than The giraffe is (tall) than the zebra.",
+            "confidence": 0.9308
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "the monkey.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.031097,
+          "y": 0.532135,
+          "width": 0.115794,
+          "height": 0.016144
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "the monkey.",
+            "confidence": 0.893
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "the monkey.",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "Thedonkeyis",
+        "confidence": 0.9082,
+        "bbox": {
+          "x": 0.03,
+          "y": 0.720953,
+          "width": 0.132667,
+          "height": 0.020357
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "The goat is",
+        "confidence": 0.8249,
+        "bbox": {
+          "x": 0.504,
+          "y": 0.720953,
+          "width": 0.108,
+          "height": 0.019861
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "(fast)thanthecow.",
+        "confidence": 0.9055,
+        "bbox": {
+          "x": 0.266,
+          "y": 0.722443,
+          "width": 0.181333,
+          "height": 0.016385
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "paragraph",
+        "content": "The donkey is _ (fast) than the cow. The goat is (small) than the horse.",
+        "confidence": 0.8813,
+        "bbox": {
+          "x": 0.029869,
+          "y": 0.72251,
+          "width": 0.89689,
+          "height": 0.017971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "(small)thanthehorse",
+            "confidence": 0.9124
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "The donkey is _ (fast) than the cow. The goat is (small) than the horse.",
+            "confidence": 0.8813
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "instruction",
+        "content": "3 Read and write T (true) or F (false).",
+        "confidence": 0.9344,
+        "bbox": {
+          "x": 0.031097,
+          "y": 0.787085,
+          "width": 0.373568,
+          "height": 0.018581
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Read and write T (true) or F (false).",
+            "confidence": 0.9344
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Read and write T (true) orF (false)",
+            "confidence": 0.8691
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "Itwassunny.",
+        "confidence": 0.8053,
+        "bbox": {
+          "x": 0.078,
+          "y": 0.8143,
+          "width": 0.136667,
+          "height": 0.018371
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Itwas sunny. if",
+            "confidence": 0.735
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Itwassunny.",
+            "confidence": 0.8053
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "paragraph",
+        "content": "2 The children were sad.",
+        "confidence": 0.948,
+        "bbox": {
+          "x": 0.061784,
+          "y": 0.837953,
+          "width": 0.239771,
+          "height": 0.013707
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Thechildrenweresad.",
+            "confidence": 0.8987
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 The children were sad.",
+            "confidence": 0.948
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "paragraph",
+        "content": "3 The girl was hungry.",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.061784,
+          "y": 0.860798,
+          "width": 0.219313,
+          "height": 0.016448
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3 Thegirl was hungry.",
+            "confidence": 0.8702
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 The girl was hungry.",
+            "confidence": 0.9
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "paragraph",
+        "content": "4 The boy was thirsty.",
+        "confidence": 0.944,
+        "bbox": {
+          "x": 0.063011,
+          "y": 0.883948,
+          "width": 0.213584,
+          "height": 0.016144
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4Theboywasthirsty.",
+            "confidence": 0.8979
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 The boy was thirsty.",
+            "confidence": 0.944
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "paragraph",
+        "content": "5 Mom and Dad were cold.",
+        "confidence": 0.9483,
+        "bbox": {
+          "x": 0.061784,
+          "y": 0.906183,
+          "width": 0.267185,
+          "height": 0.013707
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "5 MomandDadwerecold.",
+            "confidence": 0.8907
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 Mom and Dad were cold.",
+            "confidence": 0.9483
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "paragraph",
+        "content": "The red car is bigger than the blue car. Starter a!",
+        "confidence": 0.8891,
+        "bbox": {
+          "x": 0.543781,
+          "y": 0.963448,
+          "width": 0.428805,
+          "height": 0.021322
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "The red car is bigger than the blue car. Starter a!",
+            "confidence": 0.8891
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Sarter",
+            "confidence": 0.7264
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Thered car is bigger than the bluecar.",
+            "confidence": 0.8781
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "writing_activity",
+        "instruction": "Read and write T (true) or F (false).",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0002"
+        ],
+        "confidence": 0.91
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "writing_activity",
+        "instruction": "Write.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0009"
+        ],
+        "confidence": 0.96
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "writing_activity",
+        "instruction": "Read and write T (true) or F (false).",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0018"
+        ],
+        "confidence": 0.9344
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "1 Thered car isbiggerthan the bluecar.",
+          "Thegreen car is bigger than theblue car.",
+          "Thered carisfasterthanthegreen car.",
+          "3Thegreencarisfasterthantheredcar.",
+          "5 Theblue carisslowerthan the green car.",
+          "6Thebluecarisslowerthantheredcar.",
+          "2 Write."
+        ],
+        "position": {
+          "x": 0.010667,
+          "y": 0.214856,
+          "width": 0.914666,
+          "height": 0.15452
+        },
+        "textElementIds": [
+          "text_0003",
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "(tall)thanthezebra.",
+          "Thegiraffeis",
+          "The elephantis bigger (big) than The giraffe is (tall) than the zebra.",
+          "the monkey."
+        ],
+        "position": {
+          "x": 0.011097,
+          "y": 0.486455,
+          "width": 0.934435,
+          "height": 0.081824
+        },
+        "textElementIds": [
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Thedonkeyis",
+          "The goat is",
+          "(fast)thanthecow.",
+          "The donkey is _ (fast) than the cow. The goat is (small) than the horse.",
+          "3 Read and write T (true) or F (false).",
+          "Itwassunny.",
+          "2 The children were sad."
+        ],
+        "position": {
+          "x": 0.009869,
+          "y": 0.700953,
+          "width": 0.93689,
+          "height": 0.170707
+        },
+        "textElementIds": [
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "rawOcrAudit": {
+      "rapidocr": "Lesson Two\nRead andwrite T (true) orF (false)\n1 Thered car isbiggerthan the bluecar.\nThegreen car is bigger than theblue car.\nThered carisfasterthanthegreen car.\n3Thegreencarisfasterthantheredcar.\n5 Theblue carisslowerthan the green car.\n6Thebluecarisslowerthantheredcar.\nWrite.\n(tall)thanthezebra.\nTheelephantisbigger(big)than\nThegiraffeis\nthe monkey.\n(small)thanthehorse\nThedonkeyis\nThe goat is\n(fast)thanthecow.\nRead and write T (true) orF (false)\nItwassunny.\nThechildrenweresad.\n3 Thegirl was hungry.\n4Theboywasthirsty.\n5 MomandDadwerecold.\nSarter\nThered car is bigger than the bluecar.",
+      "tesseract_psm3": "t Lesson Two ~\n\n1 Read and write T (true) or F (false).\n\n1 The red car is bigger than the blue car. | 2. The green car is bigger than the blue car.\n\n3 The green carisfasterthantheredcar. | 4 Thered car is faster than the green car.\n5 The blue caris slowerthanthe greencar. | 6 Thebluecarisslowerthantheredcaor  =—_—\n2 Write.\n\nThe elephantis bigger (big) than The giraffe is (tall) than the zebra.\nthe monkey.\n\n-_—\n\nThe donkey is _ (fast) than the cow. The goat is (small) than the horse.\n\n3 Read and write T (true) or F (false).\n\n1 Itwas sunny. if\n2 The children were sad.\n\n3 The girl was hungry.\n\n4 The boy was thirsty.\n\n5 Mom and Dad were cold.\n\nThe red car is bigger than the blue car. Starter a!\n\n\"wn\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": "",
+      "footer_passes": [
+        "4 The boy was thirsty. y\\@ ' ‘ 6 22 * 2 =\n5 MomandDadwerecold. =~ “Weyl | 7 BS a\nThe red car is bigger thon the blue car. Starter Fs",
+        "4 The boy was thirsty.\n\n@\n\n-\n\n5 Mom and Dad were cold.\n\na\n\nsf ay ¢\n\n=\n\nThe red car is bigger thon the blue car.\n\nStarter"
+      ]
+    },
+    "excludedOcrNoise": [
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "-_—",
+        "confidence": 0.0,
+        "bbox": {
+          "x": 0.322422,
+          "y": 0.708803,
+          "width": 0.022913,
+          "height": 0.003655
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "\"wn",
+        "confidence": 0.02,
+        "bbox": {
+          "x": 0.918576,
+          "y": 0.985684,
+          "width": 0.076923,
+          "height": 0.014316
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "averageConfidence": 0.9026,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "2 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "lesson",
+    "pagePurpose": null,
+    "readingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "headings": [
+      {
+        "id": "text_0001",
+        "content": "Lesson Two",
+        "confidence": 0.8726,
+        "bbox": {
+          "x": 0.818667,
+          "y": 0.028798,
+          "width": 0.134667,
+          "height": 0.020357
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0001"
+        ]
+      }
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Lesson Two",
+        "originalContent": "Lesson Two",
+        "confidence": 0.8726,
+        "bbox": {
+          "x": 0.818667,
+          "y": 0.028798,
+          "width": 0.134667,
+          "height": 0.020357
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Lesson Two",
+            "confidence": 0.8726
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "t Lesson Two ~",
+            "confidence": 0.6025
+          }
+        ]
+      },
+      {
+        "id": "text_0002",
+        "type": "instruction",
+        "content": "1 Read and write T (true) or F (false).",
+        "originalContent": "1 Read and write T (true) or F (false).",
+        "confidence": 0.91,
+        "bbox": {
+          "x": 0.036825,
+          "y": 0.073104,
+          "width": 0.380524,
+          "height": 0.018581
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Read and write T (true) or F (false).",
+            "confidence": 0.91
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Read andwrite T (true) orF (false)",
+            "confidence": 0.8674
+          }
+        ]
+      },
+      {
+        "id": "text_0003",
+        "type": "paragraph",
+        "content": "1 Thered car is bigger than the bluecar.",
+        "originalContent": "1 Thered car isbiggerthan the bluecar.",
+        "confidence": 0.8766,
+        "bbox": {
+          "x": 0.031333,
+          "y": 0.234856,
+          "width": 0.376,
+          "height": 0.016882
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 The red car is bigger than the blue car. | 2. The green car is bigger than the blue car.",
+            "confidence": 0.8286
+          },
+          {
+            "engine": "rapidocr",
+            "content": "1 Thered car isbiggerthan the bluecar.",
+            "confidence": 0.8766
+          }
+        ]
+      },
+      {
+        "id": "text_0004",
+        "type": "paragraph",
+        "content": "The green car is bigger than theblue car.",
+        "originalContent": "Thegreen car is bigger than theblue car.",
+        "confidence": 0.8818,
+        "bbox": {
+          "x": 0.526,
+          "y": 0.234856,
+          "width": 0.379333,
+          "height": 0.015889
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "Thered car is faster than the green car.",
+        "originalContent": "Thered carisfasterthanthegreen car.",
+        "confidence": 0.9172,
+        "bbox": {
+          "x": 0.526667,
+          "y": 0.256703,
+          "width": 0.359333,
+          "height": 0.016882
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Thered carisfasterthanthegreen car.",
+            "confidence": 0.9172
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 The green carisfasterthantheredcar. | 4 Thered car is faster than the green car.",
+            "confidence": 0.6186
+          }
+        ]
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "3 The green car is faster than the redcar.",
+        "originalContent": "3Thegreencarisfasterthantheredcar.",
+        "confidence": 0.9078,
+        "bbox": {
+          "x": 0.030667,
+          "y": 0.2572,
+          "width": 0.379333,
+          "height": 0.017378
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0007",
+        "type": "paragraph",
+        "content": "5 Theblue car is slower than the green car.",
+        "originalContent": "5 Theblue carisslowerthan the green car.",
+        "confidence": 0.8677,
+        "bbox": {
+          "x": 0.030667,
+          "y": 0.280536,
+          "width": 0.399333,
+          "height": 0.016882
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 The blue caris slowerthanthe greencar. | 6 Thebluecarisslowerthantheredcaor =—_—",
+            "confidence": 0.646
+          },
+          {
+            "engine": "rapidocr",
+            "content": "5 Theblue carisslowerthan the green car.",
+            "confidence": 0.8677
+          }
+        ]
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "6 The blue car is slower than the redcar.",
+        "originalContent": "6Thebluecarisslowerthantheredcar.",
+        "confidence": 0.9194,
+        "bbox": {
+          "x": 0.503333,
+          "y": 0.280536,
+          "width": 0.376,
+          "height": 0.014896
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0009",
+        "type": "instruction",
+        "content": "2 Write.",
+        "originalContent": "2 Write.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.033142,
+          "y": 0.335669,
+          "width": 0.090835,
+          "height": 0.013707
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Write.",
+            "confidence": 0.8158
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Write.",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "(tall)than the zebra.",
+        "originalContent": "(tall)thanthezebra.",
+        "confidence": 0.9042,
+        "bbox": {
+          "x": 0.732,
+          "y": 0.506455,
+          "width": 0.192667,
+          "height": 0.017378
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "The giraffe is",
+        "originalContent": "Thegiraffeis",
+        "confidence": 0.8758,
+        "bbox": {
+          "x": 0.505333,
+          "y": 0.506951,
+          "width": 0.124,
+          "height": 0.018371
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0012",
+        "type": "paragraph",
+        "content": "The elephant is bigger (big) than The giraffe is (tall) than the zebra.",
+        "originalContent": "The elephantis bigger (big) than The giraffe is (tall) than the zebra.",
+        "confidence": 0.9308,
+        "bbox": {
+          "x": 0.031097,
+          "y": 0.507463,
+          "width": 0.894435,
+          "height": 0.018581
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Theelephantisbigger(big)than",
+            "confidence": 0.9204
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "The elephantis bigger (big) than The giraffe is (tall) than the zebra.",
+            "confidence": 0.9308
+          }
+        ]
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "the monkey.",
+        "originalContent": "the monkey.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.031097,
+          "y": 0.532135,
+          "width": 0.115794,
+          "height": 0.016144
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "the monkey.",
+            "confidence": 0.893
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "the monkey.",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "The donkey is",
+        "originalContent": "Thedonkeyis",
+        "confidence": 0.9082,
+        "bbox": {
+          "x": 0.03,
+          "y": 0.720953,
+          "width": 0.132667,
+          "height": 0.020357
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "The goat is",
+        "originalContent": "The goat is",
+        "confidence": 0.8249,
+        "bbox": {
+          "x": 0.504,
+          "y": 0.720953,
+          "width": 0.108,
+          "height": 0.019861
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "(fast)than the cow.",
+        "originalContent": "(fast)thanthecow.",
+        "confidence": 0.9055,
+        "bbox": {
+          "x": 0.266,
+          "y": 0.722443,
+          "width": 0.181333,
+          "height": 0.016385
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0017",
+        "type": "paragraph",
+        "content": "The donkey is _ (fast) than the cow. The goat is (small) than the horse.",
+        "originalContent": "The donkey is _ (fast) than the cow. The goat is (small) than the horse.",
+        "confidence": 0.8813,
+        "bbox": {
+          "x": 0.029869,
+          "y": 0.72251,
+          "width": 0.89689,
+          "height": 0.017971
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "(small)thanthehorse",
+            "confidence": 0.9124
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "The donkey is _ (fast) than the cow. The goat is (small) than the horse.",
+            "confidence": 0.8813
+          }
+        ]
+      },
+      {
+        "id": "text_0018",
+        "type": "instruction",
+        "content": "3 Read and write T (true) or F (false).",
+        "originalContent": "3 Read and write T (true) or F (false).",
+        "confidence": 0.9344,
+        "bbox": {
+          "x": 0.031097,
+          "y": 0.787085,
+          "width": 0.373568,
+          "height": 0.018581
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Read and write T (true) or F (false).",
+            "confidence": 0.9344
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Read and write T (true) orF (false)",
+            "confidence": 0.8691
+          }
+        ]
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "It was sunny.",
+        "originalContent": "Itwassunny.",
+        "confidence": 0.8053,
+        "bbox": {
+          "x": 0.078,
+          "y": 0.8143,
+          "width": 0.136667,
+          "height": 0.018371
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Itwas sunny. if",
+            "confidence": 0.735
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Itwassunny.",
+            "confidence": 0.8053
+          }
+        ]
+      },
+      {
+        "id": "text_0020",
+        "type": "paragraph",
+        "content": "2 The children were sad.",
+        "originalContent": "2 The children were sad.",
+        "confidence": 0.948,
+        "bbox": {
+          "x": 0.061784,
+          "y": 0.837953,
+          "width": 0.239771,
+          "height": 0.013707
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Thechildrenweresad.",
+            "confidence": 0.8987
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 The children were sad.",
+            "confidence": 0.948
+          }
+        ]
+      },
+      {
+        "id": "text_0021",
+        "type": "paragraph",
+        "content": "3 The girl was hungry.",
+        "originalContent": "3 The girl was hungry.",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.061784,
+          "y": 0.860798,
+          "width": 0.219313,
+          "height": 0.016448
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3 Thegirl was hungry.",
+            "confidence": 0.8702
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 The girl was hungry.",
+            "confidence": 0.9
+          }
+        ]
+      },
+      {
+        "id": "text_0022",
+        "type": "paragraph",
+        "content": "4 The boy was thirsty.",
+        "originalContent": "4 The boy was thirsty.",
+        "confidence": 0.944,
+        "bbox": {
+          "x": 0.063011,
+          "y": 0.883948,
+          "width": 0.213584,
+          "height": 0.016144
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4Theboywasthirsty.",
+            "confidence": 0.8979
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 The boy was thirsty.",
+            "confidence": 0.944
+          }
+        ]
+      },
+      {
+        "id": "text_0023",
+        "type": "paragraph",
+        "content": "5 Mom and Dad were cold.",
+        "originalContent": "5 Mom and Dad were cold.",
+        "confidence": 0.9483,
+        "bbox": {
+          "x": 0.061784,
+          "y": 0.906183,
+          "width": 0.267185,
+          "height": 0.013707
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "5 MomandDadwerecold.",
+            "confidence": 0.8907
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 Mom and Dad were cold.",
+            "confidence": 0.9483
+          }
+        ]
+      },
+      {
+        "id": "text_0024",
+        "type": "paragraph",
+        "content": "The red car is bigger than the blue car. Starter a!",
+        "originalContent": "The red car is bigger than the blue car. Starter a!",
+        "confidence": 0.8891,
+        "bbox": {
+          "x": 0.543781,
+          "y": 0.963448,
+          "width": 0.428805,
+          "height": 0.021322
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "The red car is bigger than the blue car. Starter a!",
+            "confidence": 0.8891
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Sarter",
+            "confidence": 0.7264
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Thered car is bigger than the bluecar.",
+            "confidence": 0.8781
+          }
+        ]
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Lesson Two",
+      "1 Read and write T (true) or F (false).",
+      "1 Thered car is bigger than the bluecar.",
+      "The green car is bigger than theblue car.",
+      "Thered car is faster than the green car.",
+      "3 The green car is faster than the redcar.",
+      "5 Theblue car is slower than the green car.",
+      "6 The blue car is slower than the redcar.",
+      "2 Write.",
+      "(tall)than the zebra.",
+      "The giraffe is",
+      "The elephant is bigger (big) than The giraffe is (tall) than the zebra.",
+      "the monkey.",
+      "The donkey is",
+      "The goat is",
+      "(fast)than the cow.",
+      "The donkey is _ (fast) than the cow. The goat is (small) than the horse.",
+      "3 Read and write T (true) or F (false).",
+      "It was sunny.",
+      "2 The children were sad.",
+      "3 The girl was hungry.",
+      "4 The boy was thirsty.",
+      "5 Mom and Dad were cold.",
+      "The red car is bigger than the blue car. Starter a!"
+    ],
+    "paragraphs": [
+      {
+        "id": "text_0003",
+        "content": "1 Thered car is bigger than the bluecar.",
+        "confidence": 0.8766,
+        "bbox": {
+          "x": 0.031333,
+          "y": 0.234856,
+          "width": 0.376,
+          "height": 0.016882
+        },
+        "sourceElementIds": [
+          "text_0003"
+        ]
+      },
+      {
+        "id": "text_0004",
+        "content": "The green car is bigger than theblue car.",
+        "confidence": 0.8818,
+        "bbox": {
+          "x": 0.526,
+          "y": 0.234856,
+          "width": 0.379333,
+          "height": 0.015889
+        },
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      },
+      {
+        "id": "text_0007",
+        "content": "5 Theblue car is slower than the green car.",
+        "confidence": 0.8677,
+        "bbox": {
+          "x": 0.030667,
+          "y": 0.280536,
+          "width": 0.399333,
+          "height": 0.016882
+        },
+        "sourceElementIds": [
+          "text_0007"
+        ]
+      },
+      {
+        "id": "text_0012",
+        "content": "The elephant is bigger (big) than The giraffe is (tall) than the zebra.",
+        "confidence": 0.9308,
+        "bbox": {
+          "x": 0.031097,
+          "y": 0.507463,
+          "width": 0.894435,
+          "height": 0.018581
+        },
+        "sourceElementIds": [
+          "text_0012"
+        ]
+      },
+      {
+        "id": "text_0017",
+        "content": "The donkey is _ (fast) than the cow. The goat is (small) than the horse.",
+        "confidence": 0.8813,
+        "bbox": {
+          "x": 0.029869,
+          "y": 0.72251,
+          "width": 0.89689,
+          "height": 0.017971
+        },
+        "sourceElementIds": [
+          "text_0017"
+        ]
+      },
+      {
+        "id": "text_0020",
+        "content": "2 The children were sad.",
+        "confidence": 0.948,
+        "bbox": {
+          "x": 0.061784,
+          "y": 0.837953,
+          "width": 0.239771,
+          "height": 0.013707
+        },
+        "sourceElementIds": [
+          "text_0020"
+        ]
+      },
+      {
+        "id": "text_0021",
+        "content": "3 The girl was hungry.",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.061784,
+          "y": 0.860798,
+          "width": 0.219313,
+          "height": 0.016448
+        },
+        "sourceElementIds": [
+          "text_0021"
+        ]
+      },
+      {
+        "id": "text_0022",
+        "content": "4 The boy was thirsty.",
+        "confidence": 0.944,
+        "bbox": {
+          "x": 0.063011,
+          "y": 0.883948,
+          "width": 0.213584,
+          "height": 0.016144
+        },
+        "sourceElementIds": [
+          "text_0022"
+        ]
+      },
+      {
+        "id": "text_0023",
+        "content": "5 Mom and Dad were cold.",
+        "confidence": 0.9483,
+        "bbox": {
+          "x": 0.061784,
+          "y": 0.906183,
+          "width": 0.267185,
+          "height": 0.013707
+        },
+        "sourceElementIds": [
+          "text_0023"
+        ]
+      },
+      {
+        "id": "text_0024",
+        "content": "The red car is bigger than the blue car. Starter a!",
+        "confidence": 0.8891,
+        "bbox": {
+          "x": 0.543781,
+          "y": 0.963448,
+          "width": 0.428805,
+          "height": 0.021322
+        },
+        "sourceElementIds": [
+          "text_0024"
+        ]
+      }
+    ],
+    "sentences": [],
+    "vocabulary": [
+      {
+        "word": "(tall)than the zebra",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.9042,
+        "sourceElementIds": [
+          "text_0010"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "giraffe is",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8758,
+        "sourceElementIds": [
+          "text_0011"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "monkey",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.95,
+        "sourceElementIds": [
+          "text_0013"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "donkey is",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.9082,
+        "sourceElementIds": [
+          "text_0014"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "goat is",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8249,
+        "sourceElementIds": [
+          "text_0015"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "(fast)than the cow",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.9055,
+        "sourceElementIds": [
+          "text_0016"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "It was sunny",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8053,
+        "sourceElementIds": [
+          "text_0019"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      }
+    ],
+    "grammar": [],
+    "dialogues": [],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "true_false",
+        "instruction": "Read and write T (true) or F (false).",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.91,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "writing_activity",
+        "instruction": "Write.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.96,
+        "sourceElementIds": [
+          "text_0009"
+        ]
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "true_false",
+        "instruction": "Read and write T (true) or F (false).",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.9344,
+        "sourceElementIds": [
+          "text_0018"
+        ]
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "1 Thered car is bigger than the bluecar.",
+          "The green car is bigger than theblue car.",
+          "Thered car is faster than the green car.",
+          "3 The green car is faster than the redcar.",
+          "5 Theblue car is slower than the green car.",
+          "6 The blue car is slower than the redcar.",
+          "2 Write."
+        ],
+        "position": {
+          "x": 0.010667,
+          "y": 0.214856,
+          "width": 0.914666,
+          "height": 0.15452
+        },
+        "textElementIds": [
+          "text_0003",
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "(tall)than the zebra.",
+          "The giraffe is",
+          "The elephant is bigger (big) than The giraffe is (tall) than the zebra.",
+          "the monkey."
+        ],
+        "position": {
+          "x": 0.011097,
+          "y": 0.486455,
+          "width": 0.934435,
+          "height": 0.081824
+        },
+        "textElementIds": [
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "The donkey is",
+          "The goat is",
+          "(fast)than the cow.",
+          "The donkey is _ (fast) than the cow. The goat is (small) than the horse.",
+          "3 Read and write T (true) or F (false).",
+          "It was sunny.",
+          "2 The children were sad."
+        ],
+        "position": {
+          "x": 0.009869,
+          "y": 0.700953,
+          "width": 0.93689,
+          "height": 0.170707
+        },
+        "textElementIds": [
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "nonEducationalText": [],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "lesson",
+    "title": "Lesson Two",
+    "learningObjectives": [],
+    "targetVocabulary": [
+      {
+        "word": "(tall)than the zebra",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.9042,
+        "sourceElementIds": [
+          "text_0010"
+        ]
+      },
+      {
+        "word": "giraffe is",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8758,
+        "sourceElementIds": [
+          "text_0011"
+        ]
+      },
+      {
+        "word": "monkey",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.95,
+        "sourceElementIds": [
+          "text_0013"
+        ]
+      },
+      {
+        "word": "donkey is",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.9082,
+        "sourceElementIds": [
+          "text_0014"
+        ]
+      },
+      {
+        "word": "goat is",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8249,
+        "sourceElementIds": [
+          "text_0015"
+        ]
+      },
+      {
+        "word": "(fast)than the cow",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.9055,
+        "sourceElementIds": [
+          "text_0016"
+        ]
+      },
+      {
+        "word": "It was sunny",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8053,
+        "sourceElementIds": [
+          "text_0019"
+        ]
+      }
+    ],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [],
+    "reading": [
+      {
+        "title": "Lesson Two",
+        "text": "1 Thered car is bigger than the bluecar.",
+        "confidence": 0.8766,
+        "sourceElementIds": [
+          "text_0003"
+        ]
+      },
+      {
+        "title": "Lesson Two",
+        "text": "The green car is bigger than theblue car.",
+        "confidence": 0.8818,
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      },
+      {
+        "title": "Lesson Two",
+        "text": "5 Theblue car is slower than the green car.",
+        "confidence": 0.8677,
+        "sourceElementIds": [
+          "text_0007"
+        ]
+      },
+      {
+        "title": "Lesson Two",
+        "text": "The elephant is bigger (big) than The giraffe is (tall) than the zebra.",
+        "confidence": 0.9308,
+        "sourceElementIds": [
+          "text_0012"
+        ]
+      },
+      {
+        "title": "Lesson Two",
+        "text": "The donkey is _ (fast) than the cow. The goat is (small) than the horse.",
+        "confidence": 0.8813,
+        "sourceElementIds": [
+          "text_0017"
+        ]
+      },
+      {
+        "title": "Lesson Two",
+        "text": "The red car is bigger than the blue car. Starter a!",
+        "confidence": 0.8891,
+        "sourceElementIds": [
+          "text_0024"
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "true_false",
+        "instruction": "Read and write T (true) or F (false).",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.91,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "writing_activity",
+        "instruction": "Write.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.96,
+        "sourceElementIds": [
+          "text_0009"
+        ]
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "true_false",
+        "instruction": "Read and write T (true) or F (false).",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.9344,
+        "sourceElementIds": [
+          "text_0018"
+        ]
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [
+      {
+        "exerciseNumber": "2",
+        "instruction": "Write.",
+        "type": "writing_activity",
+        "confidence": 0.96
+      }
+    ],
+    "writing": [
+      {
+        "exerciseNumber": "1",
+        "instruction": "Read and write T (true) or F (false).",
+        "type": "true_false",
+        "confidence": 0.91
+      },
+      {
+        "exerciseNumber": "2",
+        "instruction": "Write.",
+        "type": "writing_activity",
+        "confidence": 0.96
+      },
+      {
+        "exerciseNumber": "3",
+        "instruction": "Read and write T (true) or F (false).",
+        "type": "true_false",
+        "confidence": 0.9344
+      }
+    ],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "text_kept": 24,
+      "text_repaired": 12,
+      "vocab_kept": 7,
+      "exercises_reconstructed": 3
+    },
+    "averageOcrConfidence": 0.9026
+  },
+  "metadata": {
+    "book": "Family and Friends 3 Student Book (American)",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_ff3_v1",
+    "originalOcrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "originalAverageConfidence": 0.9026,
+    "noHallucinationPolicy": "Definitions, translations, speaker names, answers, and grammar rules are null or omitted unless visibly supported by page OCR/PDF. Text repairs are limited to spacing, punctuation, and clear OCR character errors."
+  }
+}

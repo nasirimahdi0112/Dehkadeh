@@ -1,0 +1,3455 @@
+{
+  "pageNumber": 67,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 70,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 1_Part3.pdf",
+    "pdfLocalPageNumber": 17,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.841961,
+          "y": 0.027273,
+          "width": 0.028235,
+          "height": 0.009091
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "unit",
+            "confidence": 0.6548
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "unit",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Grammar n Count and noncountnouns;someandany",
+        "confidence": 0.8797,
+        "bbox": {
+          "x": 0.110667,
+          "y": 0.087584,
+          "width": 0.74,
+          "height": 0.023699
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Grammar n Count and noncountnouns;someandany",
+            "confidence": 0.8797
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ora narial © Count and noncount nouns; some and any",
+            "confidence": 0.722
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "06 & wy",
+        "confidence": 0.4333,
+        "bbox": {
+          "x": 0.125882,
+          "y": 0.12303,
+          "width": 0.696471,
+          "height": 0.060606
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Countnouns",
+        "confidence": 0.9056,
+        "bbox": {
+          "x": 0.266,
+          "y": 0.124678,
+          "width": 0.091333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Count nouns",
+            "confidence": 0.48
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Countnouns",
+            "confidence": 0.9056
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "heading",
+        "content": "Noncountnouns",
+        "confidence": 0.8926,
+        "bbox": {
+          "x": 0.66,
+          "y": 0.126224,
+          "width": 0.116667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "apples",
+        "confidence": 0.7828,
+        "bbox": {
+          "x": 0.236667,
+          "y": 0.183926,
+          "width": 0.047333,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "milk",
+        "confidence": 0.779,
+        "bbox": {
+          "x": 0.577333,
+          "y": 0.184441,
+          "width": 0.032667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "anapple",
+        "confidence": 0.85,
+        "bbox": {
+          "x": 0.125333,
+          "y": 0.185471,
+          "width": 0.056667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "paragraph",
+        "content": "an apple apples a tomato tomatoes milk rice",
+        "confidence": 0.7775,
+        "bbox": {
+          "x": 0.128235,
+          "y": 0.186364,
+          "width": 0.672549,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "atomato",
+        "confidence": 0.8439,
+        "bbox": {
+          "x": 0.33,
+          "y": 0.187017,
+          "width": 0.056,
+          "height": 0.010819
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "tomatoes",
+        "confidence": 0.8411,
+        "bbox": {
+          "x": 0.43,
+          "y": 0.188047,
+          "width": 0.061333,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "rice",
+        "confidence": 0.7669,
+        "bbox": {
+          "x": 0.776667,
+          "y": 0.189593,
+          "width": 0.026667,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0013",
+        "type": "sentence",
+        "content": "Do you have any apples? Do you have any milk?",
+        "confidence": 0.959,
+        "bbox": {
+          "x": 0.118824,
+          "y": 0.213939,
+          "width": 0.555294,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Do you have any apples?",
+            "confidence": 0.8725
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Do you have any apples? Do you have any milk?",
+            "confidence": 0.959
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Do you have any milk?",
+            "confidence": 0.8487
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "Yes, | have some (apples). Yes, | have some (milk).",
+        "confidence": 0.953,
+        "bbox": {
+          "x": 0.140392,
+          "y": 0.231212,
+          "width": 0.561961,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Yes,Ihavesome(apples)",
+            "confidence": 0.8923
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Yes, | have some (apples). Yes, | have some (milk).",
+            "confidence": 0.953
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Yes,I have some (milk)",
+            "confidence": 0.8615
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "No, | don’t have any (apples). No, | don’t have any (milk).",
+        "confidence": 0.9325,
+        "bbox": {
+          "x": 0.141176,
+          "y": 0.248485,
+          "width": 0.584706,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "No,Idon'thaveany (apples)",
+            "confidence": 0.8665
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "No, | don’t have any (apples). No, | don’t have any (milk).",
+            "confidence": 0.9325
+          },
+          {
+            "engine": "rapidocr",
+            "content": "No,I don'thaveany (milk)",
+            "confidence": 0.8924
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "A Complete the chart with the food words from Exercise 1. Then compare with a partner.",
+        "confidence": 0.9462,
+        "bbox": {
+          "x": 0.111765,
+          "y": 0.282424,
+          "width": 0.612549,
+          "height": 0.016061
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Complete the chart with the food words from Exercise 1. Then compare with a partner.",
+            "confidence": 0.9462
+          },
+          {
+            "engine": "rapidocr",
+            "content": "A Complete the chart with the food words from Exercise 1. Then compare with a partner.",
+            "confidence": 0.9104
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Countnouns",
+        "confidence": 0.8657,
+        "bbox": {
+          "x": 0.264667,
+          "y": 0.309634,
+          "width": 0.092667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "Count nouns Noncount nouns",
+        "confidence": 0.945,
+        "bbox": {
+          "x": 0.267059,
+          "y": 0.312727,
+          "width": 0.512549,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Noncount nouns",
+            "confidence": 0.8994
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Count nouns Noncount nouns",
+            "confidence": 0.945
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "apples milk",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.190196,
+          "y": 0.33303,
+          "width": 0.452157,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "apples",
+            "confidence": 0.8159
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "apples milk",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "tomatoes",
+        "confidence": 0.8133,
+        "bbox": {
+          "x": 0.174667,
+          "y": 0.352911,
+          "width": 0.080667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "tomatoes jane ____cereal _",
+            "confidence": 0.455
+          },
+          {
+            "engine": "rapidocr",
+            "content": "tomatoes",
+            "confidence": 0.8133
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "cereal",
+        "confidence": 0.808,
+        "bbox": {
+          "x": 0.603333,
+          "y": 0.352911,
+          "width": 0.050667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "sentence",
+        "content": "B Circle the correct words. Then practice with a partner.",
+        "confidence": 0.954,
+        "bbox": {
+          "x": 0.112941,
+          "y": 0.43697,
+          "width": 0.390588,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B Circle the correct words.Then practice with a partner.",
+            "confidence": 0.9104
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Circle the correct words. Then practice with a partner.",
+            "confidence": 0.954
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "sentence",
+        "content": "What do you want for lunch, Amy?",
+        "confidence": 0.9104,
+        "bbox": {
+          "x": 0.154667,
+          "y": 0.457496,
+          "width": 0.231333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What do you want for lunch, Amy?",
+            "confidence": 0.9104
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A What do you want for lunch, Amy?",
+            "confidence": 0.8975
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "sentence",
+        "content": "8 Let’s just make Some)/ any pasta.",
+        "confidence": 0.8557,
+        "bbox": {
+          "x": 0.135686,
+          "y": 0.475758,
+          "width": 0.241961,
+          "height": 0.019697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "8 Let’s just make Some)/ any pasta.",
+            "confidence": 0.8557
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Let's just makesome/any pasta.",
+            "confidence": 0.8485
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "Goodidea.Wehavesome/anypasta.",
+        "confidence": 0.9409,
+        "bbox": {
+          "x": 0.155333,
+          "y": 0.497682,
+          "width": 0.255333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Goodidea.Wehavesome/anypasta.",
+            "confidence": 0.9409
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Good idea. We have some / any pasta.",
+            "confidence": 0.8989
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "B",
+        "confidence": 0.91,
+        "bbox": {
+          "x": 0.136078,
+          "y": 0.520303,
+          "width": 0.007059,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "sentence",
+        "content": "Let’s see. We have some / any carrots.",
+        "confidence": 0.9363,
+        "bbox": {
+          "x": 0.158824,
+          "y": 0.521818,
+          "width": 0.250196,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Let's see. We have some / any carrots.",
+            "confidence": 0.9012
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Let’s see. We have some / any carrots.",
+            "confidence": 0.9363
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "sentence",
+        "content": "We don’t have some / any tomatoes.",
+        "confidence": 0.9386,
+        "bbox": {
+          "x": 0.158039,
+          "y": 0.538485,
+          "width": 0.243137,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "We don't have some /any tomatoes.",
+            "confidence": 0.8999
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "We don’t have some / any tomatoes.",
+            "confidence": 0.9386
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "sentence",
+        "content": "OK, | can get some / any at the store. What else?",
+        "confidence": 0.9408,
+        "bbox": {
+          "x": 0.158039,
+          "y": 0.559697,
+          "width": 0.318431,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "OK, I can get some /any at the store. What else?",
+            "confidence": 0.8869
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "OK, | can get some / any at the store. What else?",
+            "confidence": 0.9408
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "sentence",
+        "content": "Do we have some / any cheese?",
+        "confidence": 0.92,
+        "bbox": {
+          "x": 0.158824,
+          "y": 0.580303,
+          "width": 0.210588,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Do we have some /any cheese?",
+            "confidence": 0.867
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Do we have some / any cheese?",
+            "confidence": 0.92
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "sentence",
+        "content": "No, we don’t have some / any. | can get some / any.",
+        "confidence": 0.8869,
+        "bbox": {
+          "x": 0.158824,
+          "y": 0.600909,
+          "width": 0.342353,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "No,wedon't have some/any.I canget some/any.",
+            "confidence": 0.8467
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "No, we don’t have some / any. | can get some / any.",
+            "confidence": 0.8869
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "heading",
+        "content": "PAIRWORK",
+        "confidence": 0.8732,
+        "bbox": {
+          "x": 0.135333,
+          "y": 0.625966,
+          "width": 0.079333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "GT Practice the conversation again.",
+            "confidence": 0.818
+          },
+          {
+            "engine": "rapidocr",
+            "content": "PAIRWORK",
+            "confidence": 0.8732
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "instruction",
+        "content": "Practice the conversation again.",
+        "confidence": 0.8866,
+        "bbox": {
+          "x": 0.216,
+          "y": 0.626996,
+          "width": 0.223333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "sentence",
+        "content": "Use other food words from Exercise 1.",
+        "confidence": 0.9571,
+        "bbox": {
+          "x": 0.136863,
+          "y": 0.645455,
+          "width": 0.256471,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "UseotherfoodwordsfromExercisel.",
+            "confidence": 0.9214
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Use other food words from Exercise 1.",
+            "confidence": 0.9571
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "heading",
+        "content": "Speaking What do you eat?",
+        "confidence": 0.954,
+        "bbox": {
+          "x": 0.114118,
+          "y": 0.679091,
+          "width": 0.38,
+          "height": 0.021818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Speaking What do you eat?",
+            "confidence": 0.8912
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Speaking What do you eat?",
+            "confidence": 0.954
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "sentence",
+        "content": "A Writeyour answers to the questions in the chart.",
+        "confidence": 0.8678,
+        "bbox": {
+          "x": 0.112,
+          "y": 0.712519,
+          "width": 0.358,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Writeyour answers to the questions in the chart.",
+            "confidence": 0.8678
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ie Write your answers to we ad in the ener",
+            "confidence": 0.667
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "sentence",
+        "content": "What do you often eat for...?",
+        "confidence": 0.8585,
+        "bbox": {
+          "x": 0.117333,
+          "y": 0.735703,
+          "width": 0.202667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "Me",
+        "confidence": 0.5245,
+        "bbox": {
+          "x": 0.354,
+          "y": 0.736218,
+          "width": 0.026,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0039",
+        "type": "instruction",
+        "content": "Name:",
+        "confidence": 0.7968,
+        "bbox": {
+          "x": 0.524667,
+          "y": 0.736734,
+          "width": 0.049333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0040",
+        "type": "instruction",
+        "content": "Name:",
+        "confidence": 0.6696,
+        "bbox": {
+          "x": 0.726,
+          "y": 0.738279,
+          "width": 0.048667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0041",
+        "type": "label",
+        "content": "breakfast",
+        "confidence": 0.7693,
+        "bbox": {
+          "x": 0.118667,
+          "y": 0.756826,
+          "width": 0.065333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "brea akfast",
+            "confidence": 0.515
+          },
+          {
+            "engine": "rapidocr",
+            "content": "breakfast",
+            "confidence": 0.7693
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0042",
+        "type": "label",
+        "content": "lunch",
+        "confidence": 0.8238,
+        "bbox": {
+          "x": 0.116,
+          "y": 0.775889,
+          "width": 0.044667,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "label",
+        "content": "dinner",
+        "confidence": 0.8168,
+        "bbox": {
+          "x": 0.119333,
+          "y": 0.799073,
+          "width": 0.046667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "dinner ae 7 [ : 7 | ;",
+            "confidence": 0.45
+          },
+          {
+            "engine": "rapidocr",
+            "content": "dinner",
+            "confidence": 0.8168
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "label",
+        "content": "Interviewtwoclassmates.Completethechartwiththeiranswers.",
+        "confidence": 0.9505,
+        "bbox": {
+          "x": 0.234667,
+          "y": 0.828439,
+          "width": 0.454667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "GROUPWORK",
+            "confidence": 0.7994
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B KeAeitS interview two classmates. Complete the chart with their answers.",
+            "confidence": 0.8545
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Interviewtwoclassmates.Completethechartwiththeiranswers.",
+            "confidence": 0.9505
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0045",
+        "type": "heading",
+        "content": "Keep talking!",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.115686,
+          "y": 0.863939,
+          "width": 0.197647,
+          "height": 0.022121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Keep talking!",
+            "confidence": 0.8558
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Keep talking!",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0046",
+        "type": "label",
+        "content": "Gotopage139formorepractice.",
+        "confidence": 0.8795,
+        "bbox": {
+          "x": 0.116667,
+          "y": 0.891293,
+          "width": 0.227333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0047",
+        "type": "label",
+        "content": "67",
+        "confidence": 0.5354,
+        "bbox": {
+          "x": 0.919333,
+          "y": 0.938176,
+          "width": 0.023333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0048",
+        "type": "label",
+        "content": "can say what meals Ieat.",
+        "confidence": 0.8964,
+        "bbox": {
+          "x": 0.702,
+          "y": 0.946419,
+          "width": 0.152667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "| can say what meals | eat. ®",
+            "confidence": 0.8387
+          },
+          {
+            "engine": "rapidocr",
+            "content": "can say what meals Ieat.",
+            "confidence": 0.8964
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "Countnouns",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.266,
+          "y": 0.124678,
+          "width": 0.091333,
+          "height": 0.014426
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.9056
+      },
+      {
+        "word": "Noncountnouns",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.66,
+          "y": 0.126224,
+          "width": 0.116667,
+          "height": 0.01288
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8926
+      },
+      {
+        "word": "apples",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.236667,
+          "y": 0.183926,
+          "width": 0.047333,
+          "height": 0.017002
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.7828
+      },
+      {
+        "word": "milk",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.577333,
+          "y": 0.184441,
+          "width": 0.032667,
+          "height": 0.014941
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.779
+      },
+      {
+        "word": "anapple",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.125333,
+          "y": 0.185471,
+          "width": 0.056667,
+          "height": 0.01391
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.85
+      },
+      {
+        "word": "atomato",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.33,
+          "y": 0.187017,
+          "width": 0.056,
+          "height": 0.010819
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8439
+      },
+      {
+        "word": "tomatoes",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.43,
+          "y": 0.188047,
+          "width": 0.061333,
+          "height": 0.010304
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8411
+      },
+      {
+        "word": "rice",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.776667,
+          "y": 0.189593,
+          "width": 0.026667,
+          "height": 0.011334
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.7669
+      },
+      {
+        "word": "Count nouns Noncount nouns",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.267059,
+          "y": 0.312727,
+          "width": 0.512549,
+          "height": 0.009394
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.945
+      },
+      {
+        "word": "apples milk",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.190196,
+          "y": 0.33303,
+          "width": 0.452157,
+          "height": 0.014242
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.96
+      },
+      {
+        "word": "cereal",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.603333,
+          "y": 0.352911,
+          "width": 0.050667,
+          "height": 0.015456
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.808
+      }
+    ],
+    "ocrGrammar": [
+      {
+        "topic": "Grammar n Count and noncountnouns;someandany",
+        "rule": [
+          "Grammar n Count and noncountnouns;someandany",
+          "an apple apples a tomato tomatoes milk rice",
+          "Count nouns Noncount nouns",
+          "B Circle the correct words. Then practice with a partner.",
+          "Practice the conversation again.",
+          "Use other food words from Exercise 1.",
+          "A Writeyour answers to the questions in the chart."
+        ],
+        "form": null,
+        "positiveExamples": [
+          "Do you have any apples? Do you have any milk?",
+          "Yes, | have some (apples). Yes, | have some (milk).",
+          "No, | don’t have any (apples). No, | don’t have any (milk).",
+          "A Complete the chart with the food words from Exercise 1. Then compare with a partner.",
+          "What do you want for lunch, Amy?",
+          "Goodidea.Wehavesome/anypasta.",
+          "Let’s see. We have some / any carrots.",
+          "We don’t have some / any tomatoes.",
+          "OK, | can get some / any at the store. What else?",
+          "Do we have some / any cheese?",
+          "No, we don’t have some / any. | can get some / any.",
+          "Speaking What do you eat?",
+          "What do you often eat for...?",
+          "can say what meals Ieat."
+        ],
+        "negativeExamples": [],
+        "questionForms": [],
+        "shortAnswers": [],
+        "exceptions": [],
+        "usageNotes": [],
+        "practice": [
+          "06 & wy",
+          "8 Let’s just make Some)/ any pasta.",
+          "67"
+        ],
+        "confidence": 0.8562
+      }
+    ],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Do you have any apples? Do you have any milk?",
+            "confidence": 0.959,
+            "bbox": {
+              "x": 0.118824,
+              "y": 0.213939,
+              "width": 0.555294,
+              "height": 0.014242
+            },
+            "sourceElementId": "text_0013",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Yes, | have some (apples). Yes, | have some (milk).",
+            "confidence": 0.953,
+            "bbox": {
+              "x": 0.140392,
+              "y": 0.231212,
+              "width": 0.561961,
+              "height": 0.013636
+            },
+            "sourceElementId": "text_0014",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "No, | don’t have any (apples). No, | don’t have any (milk).",
+            "confidence": 0.9325,
+            "bbox": {
+              "x": 0.141176,
+              "y": 0.248485,
+              "width": 0.584706,
+              "height": 0.014242
+            },
+            "sourceElementId": "text_0015",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "What do you want for lunch, Amy?",
+            "confidence": 0.9104,
+            "bbox": {
+              "x": 0.154667,
+              "y": 0.457496,
+              "width": 0.231333,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0023",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "We don’t have some / any tomatoes.",
+            "confidence": 0.9386,
+            "bbox": {
+              "x": 0.158039,
+              "y": 0.538485,
+              "width": 0.243137,
+              "height": 0.011818
+            },
+            "sourceElementId": "text_0028",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Do we have some / any cheese?",
+            "confidence": 0.92,
+            "bbox": {
+              "x": 0.158824,
+              "y": 0.580303,
+              "width": 0.210588,
+              "height": 0.011212
+            },
+            "sourceElementId": "text_0030",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "No, we don’t have some / any. | can get some / any.",
+            "confidence": 0.8869,
+            "bbox": {
+              "x": 0.158824,
+              "y": 0.600909,
+              "width": 0.342353,
+              "height": 0.011818
+            },
+            "sourceElementId": "text_0031",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "What do you often eat for...?",
+            "confidence": 0.8585,
+            "bbox": {
+              "x": 0.117333,
+              "y": 0.735703,
+              "width": 0.202667,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0037",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "writing_activity",
+        "instruction": "Complete the chart with the food words from Exercise 1. Then compare with a partner.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0016"
+        ],
+        "confidence": 0.9462
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "selection_exercise",
+        "instruction": "Circle the correct words. Then practice with a partner.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0022"
+        ],
+        "confidence": 0.954
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Do you have any apples? Do you have any milk?",
+          "Yes, | have some (apples). Yes, | have some (milk).",
+          "No, | don’t have any (apples). No, | don’t have any (milk).",
+          "A Complete the chart with the food words from Exercise 1. Then compare with a partner.",
+          "Countnouns",
+          "Count nouns Noncount nouns",
+          "apples milk",
+          "tomatoes",
+          "cereal"
+        ],
+        "position": {
+          "x": 0.091765,
+          "y": 0.193939,
+          "width": 0.7078430000000001,
+          "height": 0.19442800000000002
+        },
+        "textElementIds": [
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "B Circle the correct words. Then practice with a partner.",
+          "What do you want for lunch, Amy?",
+          "8 Let’s just make Some)/ any pasta.",
+          "Goodidea.Wehavesome/anypasta.",
+          "B",
+          "Let’s see. We have some / any carrots.",
+          "We don’t have some / any tomatoes.",
+          "OK, | can get some / any at the store. What else?",
+          "Do we have some / any cheese?",
+          "No, we don’t have some / any. | can get some / any.",
+          "PAIRWORK",
+          "Practice the conversation again.",
+          "Use other food words from Exercise 1."
+        ],
+        "position": {
+          "x": 0.092941,
+          "y": 0.41697,
+          "width": 0.430588,
+          "height": 0.25818199999999997
+        },
+        "textElementIds": [
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Speaking What do you eat?",
+          "A Writeyour answers to the questions in the chart.",
+          "What do you often eat for...?",
+          "Me",
+          "Name:",
+          "Name:",
+          "breakfast",
+          "lunch",
+          "dinner",
+          "Interviewtwoclassmates.Completethechartwiththeiranswers.",
+          "Keep talking!"
+        ],
+        "position": {
+          "x": 0.092,
+          "y": 0.659091,
+          "width": 0.702667,
+          "height": 0.246969
+        },
+        "textElementIds": [
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040",
+          "text_0041",
+          "text_0042",
+          "text_0043",
+          "text_0044",
+          "text_0045"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "unit\nGrammar n Count and noncountnouns;someandany\nCountnouns\nNoncountnouns\napples\nmilk\nanapple\natomato\ntomatoes\nrice\nDo you have any apples?\nDo you have any milk?\nYes,Ihavesome(apples)\nYes,I have some (milk)\nNo,Idon'thaveany (apples)\nNo,I don'thaveany (milk)\nA Complete the chart with the food words from Exercise 1. Then compare with a partner.\nCountnouns\nNoncount nouns\napples\ntomatoes\ncereal\nB Circle the correct words.Then practice with a partner.\nWhat do you want for lunch, Amy?\nLet's just makesome/any pasta.\nGoodidea.Wehavesome/anypasta.\nLet's see. We have some / any carrots.\nWe don't have some /any tomatoes.\nOK, I can get some /any at the store. What else?\nDo we have some /any cheese?\nNo,wedon't have some/any.I canget some/any.\nPAIRWORK\nPractice the conversation again.\nUseotherfoodwordsfromExercisel.\nSpeaking What do you eat?\nA Writeyour answers to the questions in the chart.\nWhat do you often eat for...?\nMe\nName:\nName:\nbreakfast\nlunch\ndinner\nGROUPWORK\nInterviewtwoclassmates.Completethechartwiththeiranswers.\nKeep talking!\nGotopage139formorepractice.\n67\ncan say what meals Ieat.\ndehkhodaedu.com",
+      "tesseract_psm3": "unit\n\nOra narial © Count and noncount nouns; some and any\nCount nouns\n\n06 & wy\n\nan apple apples a tomato tomatoes milk rice\nDo you have any apples? Do you have any milk?\nYes, | have some (apples). Yes, | have some (milk).\nNo, | don’t have any (apples). No, | don’t have any (milk).\n\nA Complete the chart with the food words from Exercise 1. Then compare with a partner.\n\nCount nouns Noncount nouns\napples milk\ntomatoes jane ____cereal _\n\nB Circle the correct words. Then practice with a partner.\nA What do you want for lunch, Amy?\n8 Let’s just make Some)/ any pasta.\nA Good idea. We have some / any pasta.\nB\n\nLet’s see. We have some / any carrots.\nWe don’t have some / any tomatoes.\n\n>\n\nOK, | can get some / any at the store. What else?\nDo we have some / any cheese?\n\nNo, we don’t have some / any. | can get some / any.\n\nGT Practice the conversation again.\nUse other food words from Exercise 1.\n\nSpeaking What do you eat?\nie Write your answers to we ad in the ener\n\nbrea akfast\n\ndinner ae 7 [ : 7 | ;\n\nB KeAeitS interview two classmates. Complete the chart with their answers.\n\nKeep talking!\n\n| can say what meals | eat. ®\n\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [
+      {
+        "id": "text_0029",
+        "type": "text",
+        "content": ">",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.135294,
+          "y": 0.558485,
+          "width": 0.007843,
+          "height": 0.008182
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "averageConfidence": 0.8561,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "10 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "1 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "grammar",
+    "headings": [
+      "unit",
+      "Grammar n Count and non count nouns; some and any",
+      "06 & wy",
+      "Count nouns",
+      "Non count nouns",
+      "Pair work",
+      "Speaking What do you eat?",
+      "Keep talking!"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.841961,
+          "y": 0.027273,
+          "width": 0.028235,
+          "height": 0.009091
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "unit",
+            "confidence": 0.6548
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "unit",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Grammar n Count and non count nouns; some and any",
+        "confidence": 0.8797,
+        "bbox": {
+          "x": 0.110667,
+          "y": 0.087584,
+          "width": 0.74,
+          "height": 0.023699
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Grammar n Count and noncountnouns;someandany",
+            "confidence": 0.8797
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ora narial © Count and noncount nouns; some and any",
+            "confidence": 0.722
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "06 & wy",
+        "confidence": 0.4333,
+        "bbox": {
+          "x": 0.125882,
+          "y": 0.12303,
+          "width": 0.696471,
+          "height": 0.060606
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Count nouns",
+        "confidence": 0.9056,
+        "bbox": {
+          "x": 0.266,
+          "y": 0.124678,
+          "width": 0.091333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Count nouns",
+            "confidence": 0.48
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Countnouns",
+            "confidence": 0.9056
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "heading",
+        "content": "Non count nouns",
+        "confidence": 0.8926,
+        "bbox": {
+          "x": 0.66,
+          "y": 0.126224,
+          "width": 0.116667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "apples",
+        "confidence": 0.7828,
+        "bbox": {
+          "x": 0.236667,
+          "y": 0.183926,
+          "width": 0.047333,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "milk",
+        "confidence": 0.779,
+        "bbox": {
+          "x": 0.577333,
+          "y": 0.184441,
+          "width": 0.032667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "an apple",
+        "confidence": 0.85,
+        "bbox": {
+          "x": 0.125333,
+          "y": 0.185471,
+          "width": 0.056667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "paragraph",
+        "content": "an apple apples a tomato tomatoes milk rice",
+        "confidence": 0.7775,
+        "bbox": {
+          "x": 0.128235,
+          "y": 0.186364,
+          "width": 0.672549,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "a tomato",
+        "confidence": 0.8439,
+        "bbox": {
+          "x": 0.33,
+          "y": 0.187017,
+          "width": 0.056,
+          "height": 0.010819
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "tomatoes",
+        "confidence": 0.8411,
+        "bbox": {
+          "x": 0.43,
+          "y": 0.188047,
+          "width": 0.061333,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "rice",
+        "confidence": 0.7669,
+        "bbox": {
+          "x": 0.776667,
+          "y": 0.189593,
+          "width": 0.026667,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0013",
+        "type": "sentence",
+        "content": "Do you have any apples? Do you have any milk?",
+        "confidence": 0.959,
+        "bbox": {
+          "x": 0.118824,
+          "y": 0.213939,
+          "width": 0.555294,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Do you have any apples?",
+            "confidence": 0.8725
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Do you have any apples? Do you have any milk?",
+            "confidence": 0.959
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Do you have any milk?",
+            "confidence": 0.8487
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "Yes, | have some (apples). Yes, | have some (milk).",
+        "confidence": 0.953,
+        "bbox": {
+          "x": 0.140392,
+          "y": 0.231212,
+          "width": 0.561961,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Yes,Ihavesome(apples)",
+            "confidence": 0.8923
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Yes, | have some (apples). Yes, | have some (milk).",
+            "confidence": 0.953
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Yes,I have some (milk)",
+            "confidence": 0.8615
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "No, | don't have any (apples). No, | don't have any (milk).",
+        "confidence": 0.9325,
+        "bbox": {
+          "x": 0.141176,
+          "y": 0.248485,
+          "width": 0.584706,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "No,Idon'thaveany (apples)",
+            "confidence": 0.8665
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "No, | don’t have any (apples). No, | don’t have any (milk).",
+            "confidence": 0.9325
+          },
+          {
+            "engine": "rapidocr",
+            "content": "No,I don'thaveany (milk)",
+            "confidence": 0.8924
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "A Complete the chart with the food words from Exercise 1. Then compare with a partner.",
+        "confidence": 0.9462,
+        "bbox": {
+          "x": 0.111765,
+          "y": 0.282424,
+          "width": 0.612549,
+          "height": 0.016061
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Complete the chart with the food words from Exercise 1. Then compare with a partner.",
+            "confidence": 0.9462
+          },
+          {
+            "engine": "rapidocr",
+            "content": "A Complete the chart with the food words from Exercise 1. Then compare with a partner.",
+            "confidence": 0.9104
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Count nouns",
+        "confidence": 0.8657,
+        "bbox": {
+          "x": 0.264667,
+          "y": 0.309634,
+          "width": 0.092667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "Count nouns Non count nouns",
+        "confidence": 0.945,
+        "bbox": {
+          "x": 0.267059,
+          "y": 0.312727,
+          "width": 0.512549,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Noncount nouns",
+            "confidence": 0.8994
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Count nouns Noncount nouns",
+            "confidence": 0.945
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "apples milk",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.190196,
+          "y": 0.33303,
+          "width": 0.452157,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "apples",
+            "confidence": 0.8159
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "apples milk",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "tomatoes",
+        "confidence": 0.8133,
+        "bbox": {
+          "x": 0.174667,
+          "y": 0.352911,
+          "width": 0.080667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "tomatoes jane ____cereal _",
+            "confidence": 0.455
+          },
+          {
+            "engine": "rapidocr",
+            "content": "tomatoes",
+            "confidence": 0.8133
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "cereal",
+        "confidence": 0.808,
+        "bbox": {
+          "x": 0.603333,
+          "y": 0.352911,
+          "width": 0.050667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "sentence",
+        "content": "B Circle the correct words. Then practice with a partner.",
+        "confidence": 0.954,
+        "bbox": {
+          "x": 0.112941,
+          "y": 0.43697,
+          "width": 0.390588,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B Circle the correct words.Then practice with a partner.",
+            "confidence": 0.9104
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Circle the correct words. Then practice with a partner.",
+            "confidence": 0.954
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "sentence",
+        "content": "What do you want for lunch, Amy?",
+        "confidence": 0.9104,
+        "bbox": {
+          "x": 0.154667,
+          "y": 0.457496,
+          "width": 0.231333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What do you want for lunch, Amy?",
+            "confidence": 0.9104
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A What do you want for lunch, Amy?",
+            "confidence": 0.8975
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "sentence",
+        "content": "8 Let's just make Some)/ any pasta.",
+        "confidence": 0.8557,
+        "bbox": {
+          "x": 0.135686,
+          "y": 0.475758,
+          "width": 0.241961,
+          "height": 0.019697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "8 Let’s just make Some)/ any pasta.",
+            "confidence": 0.8557
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Let's just makesome/any pasta.",
+            "confidence": 0.8485
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "Good idea. We have some/any pasta.",
+        "confidence": 0.9409,
+        "bbox": {
+          "x": 0.155333,
+          "y": 0.497682,
+          "width": 0.255333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Goodidea.Wehavesome/anypasta.",
+            "confidence": 0.9409
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Good idea. We have some / any pasta.",
+            "confidence": 0.8989
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "B",
+        "confidence": 0.91,
+        "bbox": {
+          "x": 0.136078,
+          "y": 0.520303,
+          "width": 0.007059,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "sentence",
+        "content": "Let's see. We have some / any carrots.",
+        "confidence": 0.9363,
+        "bbox": {
+          "x": 0.158824,
+          "y": 0.521818,
+          "width": 0.250196,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Let's see. We have some / any carrots.",
+            "confidence": 0.9012
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Let’s see. We have some / any carrots.",
+            "confidence": 0.9363
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "sentence",
+        "content": "We don't have some / any tomatoes.",
+        "confidence": 0.9386,
+        "bbox": {
+          "x": 0.158039,
+          "y": 0.538485,
+          "width": 0.243137,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "We don't have some /any tomatoes.",
+            "confidence": 0.8999
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "We don’t have some / any tomatoes.",
+            "confidence": 0.9386
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "sentence",
+        "content": "OK, | can get some / any at the store. What else?",
+        "confidence": 0.9408,
+        "bbox": {
+          "x": 0.158039,
+          "y": 0.559697,
+          "width": 0.318431,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "OK, I can get some /any at the store. What else?",
+            "confidence": 0.8869
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "OK, | can get some / any at the store. What else?",
+            "confidence": 0.9408
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "sentence",
+        "content": "Do we have some / any cheese?",
+        "confidence": 0.92,
+        "bbox": {
+          "x": 0.158824,
+          "y": 0.580303,
+          "width": 0.210588,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Do we have some /any cheese?",
+            "confidence": 0.867
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Do we have some / any cheese?",
+            "confidence": 0.92
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "sentence",
+        "content": "No, we don't have some / any. | can get some / any.",
+        "confidence": 0.8869,
+        "bbox": {
+          "x": 0.158824,
+          "y": 0.600909,
+          "width": 0.342353,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "No,wedon't have some/any.I canget some/any.",
+            "confidence": 0.8467
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "No, we don’t have some / any. | can get some / any.",
+            "confidence": 0.8869
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "heading",
+        "content": "Pair work",
+        "confidence": 0.8732,
+        "bbox": {
+          "x": 0.135333,
+          "y": 0.625966,
+          "width": 0.079333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "GT Practice the conversation again.",
+            "confidence": 0.818
+          },
+          {
+            "engine": "rapidocr",
+            "content": "PAIRWORK",
+            "confidence": 0.8732
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "instruction",
+        "content": "Practice the conversation again.",
+        "confidence": 0.8866,
+        "bbox": {
+          "x": 0.216,
+          "y": 0.626996,
+          "width": 0.223333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "sentence",
+        "content": "Use other food words from Exercise 1.",
+        "confidence": 0.9571,
+        "bbox": {
+          "x": 0.136863,
+          "y": 0.645455,
+          "width": 0.256471,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "UseotherfoodwordsfromExercisel.",
+            "confidence": 0.9214
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Use other food words from Exercise 1.",
+            "confidence": 0.9571
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "heading",
+        "content": "Speaking What do you eat?",
+        "confidence": 0.954,
+        "bbox": {
+          "x": 0.114118,
+          "y": 0.679091,
+          "width": 0.38,
+          "height": 0.021818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Speaking What do you eat?",
+            "confidence": 0.8912
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Speaking What do you eat?",
+            "confidence": 0.954
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "sentence",
+        "content": "A Write your answers to the questions in the chart.",
+        "confidence": 0.8678,
+        "bbox": {
+          "x": 0.112,
+          "y": 0.712519,
+          "width": 0.358,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Writeyour answers to the questions in the chart.",
+            "confidence": 0.8678
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ie Write your answers to we ad in the ener",
+            "confidence": 0.667
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "sentence",
+        "content": "What do you often eat for...?",
+        "confidence": 0.8585,
+        "bbox": {
+          "x": 0.117333,
+          "y": 0.735703,
+          "width": 0.202667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "Me",
+        "confidence": 0.5245,
+        "bbox": {
+          "x": 0.354,
+          "y": 0.736218,
+          "width": 0.026,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0039",
+        "type": "instruction",
+        "content": "Name",
+        "confidence": 0.7968,
+        "bbox": {
+          "x": 0.524667,
+          "y": 0.736734,
+          "width": 0.049333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0040",
+        "type": "instruction",
+        "content": "Name",
+        "confidence": 0.6696,
+        "bbox": {
+          "x": 0.726,
+          "y": 0.738279,
+          "width": 0.048667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0041",
+        "type": "label",
+        "content": "breakfast",
+        "confidence": 0.7693,
+        "bbox": {
+          "x": 0.118667,
+          "y": 0.756826,
+          "width": 0.065333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "brea akfast",
+            "confidence": 0.515
+          },
+          {
+            "engine": "rapidocr",
+            "content": "breakfast",
+            "confidence": 0.7693
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0042",
+        "type": "label",
+        "content": "lunch",
+        "confidence": 0.8238,
+        "bbox": {
+          "x": 0.116,
+          "y": 0.775889,
+          "width": 0.044667,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "label",
+        "content": "dinner",
+        "confidence": 0.8168,
+        "bbox": {
+          "x": 0.119333,
+          "y": 0.799073,
+          "width": 0.046667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "dinner ae 7 [ : 7 | ;",
+            "confidence": 0.45
+          },
+          {
+            "engine": "rapidocr",
+            "content": "dinner",
+            "confidence": 0.8168
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "label",
+        "content": "Interview two classmates. Complete the chart with their answers.",
+        "confidence": 0.9505,
+        "bbox": {
+          "x": 0.234667,
+          "y": 0.828439,
+          "width": 0.454667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "GROUPWORK",
+            "confidence": 0.7994
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B KeAeitS interview two classmates. Complete the chart with their answers.",
+            "confidence": 0.8545
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Interviewtwoclassmates.Completethechartwiththeiranswers.",
+            "confidence": 0.9505
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0045",
+        "type": "heading",
+        "content": "Keep talking!",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.115686,
+          "y": 0.863939,
+          "width": 0.197647,
+          "height": 0.022121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Keep talking!",
+            "confidence": 0.8558
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Keep talking!",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0046",
+        "type": "label",
+        "content": "Goto page 139for more practice.",
+        "confidence": 0.8795,
+        "bbox": {
+          "x": 0.116667,
+          "y": 0.891293,
+          "width": 0.227333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0047",
+        "type": "audio_track",
+        "content": "67",
+        "confidence": 0.5354,
+        "bbox": {
+          "x": 0.919333,
+          "y": 0.938176,
+          "width": 0.023333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0048",
+        "type": "label",
+        "content": "can say what meals Ieat.",
+        "confidence": 0.8964,
+        "bbox": {
+          "x": 0.702,
+          "y": 0.946419,
+          "width": 0.152667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "| can say what meals | eat. ®",
+            "confidence": 0.8387
+          },
+          {
+            "engine": "rapidocr",
+            "content": "can say what meals Ieat.",
+            "confidence": 0.8964
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "unit",
+      "Grammar n Count and non count nouns; some and any",
+      "06 & wy",
+      "Count nouns",
+      "Non count nouns",
+      "apples",
+      "milk",
+      "an apple",
+      "an apple apples a tomato tomatoes milk rice",
+      "a tomato",
+      "tomatoes",
+      "rice",
+      "Do you have any apples? Do you have any milk?",
+      "Yes, | have some (apples). Yes, | have some (milk).",
+      "No, | don't have any (apples). No, | don't have any (milk).",
+      "A Complete the chart with the food words from Exercise 1. Then compare with a partner.",
+      "Count nouns",
+      "Count nouns Non count nouns",
+      "apples milk",
+      "tomatoes",
+      "cereal",
+      "B Circle the correct words. Then practice with a partner.",
+      "What do you want for lunch, Amy?",
+      "8 Let's just make Some)/ any pasta.",
+      "Good idea. We have some/any pasta.",
+      "B",
+      "Let's see. We have some / any carrots.",
+      "We don't have some / any tomatoes.",
+      "OK, | can get some / any at the store. What else?",
+      "Do we have some / any cheese?",
+      "No, we don't have some / any. | can get some / any.",
+      "Pair work",
+      "Practice the conversation again.",
+      "Use other food words from Exercise 1.",
+      "Speaking What do you eat?",
+      "A Write your answers to the questions in the chart.",
+      "What do you often eat for...?",
+      "Me",
+      "Name",
+      "Name",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "Interview two classmates. Complete the chart with their answers.",
+      "Keep talking!",
+      "Goto page 139for more practice.",
+      "can say what meals Ieat."
+    ],
+    "paragraphs": [
+      "an apple apples a tomato tomatoes milk rice"
+    ],
+    "sentences": [
+      "unit Grammar n Count and non count nouns; some and any 06 & wy Count nouns Non count nouns apples milk an apple an apple apples a tomato tomatoes milk rice a tomato tomatoes rice Do you have any apples",
+      "Do you have any milk",
+      "Yes, | have some (apples)",
+      "Yes, | have some (milk)",
+      "No, | don't have any (apples)",
+      "No, | don't have any (milk)",
+      "A Complete the chart with the food words from Exercise 1",
+      "Then compare with a partner",
+      "Count nouns Count nouns Non count nouns apples milk tomatoes cereal B Circle the correct words",
+      "Then practice with a partner",
+      "What do you want for lunch, Amy",
+      "8 Let's just make Some)/ any pasta",
+      "Good idea",
+      "We have some/any pasta",
+      "B Let's see",
+      "We have some / any carrots",
+      "We don't have some / any tomatoes",
+      "OK, | can get some / any at the store",
+      "What else",
+      "Do we have some / any cheese",
+      "No, we don't have some / any",
+      "| can get some / any",
+      "Pair work Practice the conversation again",
+      "Use other food words from Exercise 1",
+      "Speaking What do you eat",
+      "A Write your answers to the questions in the chart",
+      "What do you often eat for",
+      "Me Name Name breakfast lunch dinner Interview two classmates",
+      "Complete the chart with their answers",
+      "Keep talking",
+      "Goto page 139for more practice",
+      "can say what meals Ieat"
+    ],
+    "vocabulary": [],
+    "grammar": [
+      {
+        "topic": "Count and noncount nouns; some and any",
+        "rule": [
+          "Grammar n Count and non count nouns; some and any",
+          "an apple apples a tomato tomatoes milk rice",
+          "Count nouns Non count nouns",
+          "B Circle the correct words. Then practice with a partner.",
+          "Practice the conversation again.",
+          "Use other food words from Exercise 1.",
+          "A Write your answers to the questions in the chart."
+        ],
+        "positiveExamples": [
+          "Do you have any apples? Do you have any milk?",
+          "Yes, | have some (apples). Yes, | have some (milk).",
+          "No, | don't have any (apples). No, | don't have any (milk).",
+          "A Complete the chart with the food words from Exercise 1. Then compare with a partner.",
+          "What do you want for lunch, Amy?",
+          "Good idea. We have some/any pasta.",
+          "Let's see. We have some / any carrots.",
+          "We don't have some / any tomatoes.",
+          "OK, | can get some / any at the store. What else?",
+          "Do we have some / any cheese?",
+          "No, we don't have some / any. | can get some / any.",
+          "Speaking What do you eat?",
+          "What do you often eat for...?",
+          "can say what meals Ieat."
+        ],
+        "usageNotes": [],
+        "practice": [
+          "06 & wy",
+          "8 Let's just make Some)/ any pasta.",
+          "67"
+        ]
+      }
+    ],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Do you have any apples?",
+            "confidence": 0.959,
+            "bbox": {
+              "x": 0.118824,
+              "y": 0.213939,
+              "width": 0.555294,
+              "height": 0.014242
+            },
+            "sourceElementId": "text_0013"
+          },
+          {
+            "speaker": null,
+            "content": "Do you have any milk?",
+            "confidence": 0.959,
+            "bbox": {
+              "x": 0.118824,
+              "y": 0.213939,
+              "width": 0.555294,
+              "height": 0.014242
+            },
+            "sourceElementId": "text_0013"
+          },
+          {
+            "speaker": null,
+            "content": "Yes, | have some (apples).",
+            "confidence": 0.953,
+            "bbox": {
+              "x": 0.140392,
+              "y": 0.231212,
+              "width": 0.561961,
+              "height": 0.013636
+            },
+            "sourceElementId": "text_0014"
+          },
+          {
+            "speaker": null,
+            "content": "Yes, | have some (milk).",
+            "confidence": 0.953,
+            "bbox": {
+              "x": 0.140392,
+              "y": 0.231212,
+              "width": 0.561961,
+              "height": 0.013636
+            },
+            "sourceElementId": "text_0014"
+          },
+          {
+            "speaker": null,
+            "content": "No, | don't have any (apples).",
+            "confidence": 0.9325,
+            "bbox": {
+              "x": 0.141176,
+              "y": 0.248485,
+              "width": 0.584706,
+              "height": 0.014242
+            },
+            "sourceElementId": "text_0015"
+          },
+          {
+            "speaker": null,
+            "content": "No, | don't have any (milk).",
+            "confidence": 0.9325,
+            "bbox": {
+              "x": 0.141176,
+              "y": 0.248485,
+              "width": 0.584706,
+              "height": 0.014242
+            },
+            "sourceElementId": "text_0015"
+          },
+          {
+            "speaker": null,
+            "content": "What do you want for lunch, Amy?",
+            "confidence": 0.9104,
+            "bbox": {
+              "x": 0.154667,
+              "y": 0.457496,
+              "width": 0.231333,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0023"
+          },
+          {
+            "speaker": null,
+            "content": "We don't have some / any tomatoes.",
+            "confidence": 0.9386,
+            "bbox": {
+              "x": 0.158039,
+              "y": 0.538485,
+              "width": 0.243137,
+              "height": 0.011818
+            },
+            "sourceElementId": "text_0028"
+          },
+          {
+            "speaker": null,
+            "content": "Do we have some / any cheese?",
+            "confidence": 0.92,
+            "bbox": {
+              "x": 0.158824,
+              "y": 0.580303,
+              "width": 0.210588,
+              "height": 0.011212
+            },
+            "sourceElementId": "text_0030"
+          },
+          {
+            "speaker": null,
+            "content": "No, we don't have some / any. | can get some / any.",
+            "confidence": 0.8869,
+            "bbox": {
+              "x": 0.158824,
+              "y": 0.600909,
+              "width": 0.342353,
+              "height": 0.011818
+            },
+            "sourceElementId": "text_0031"
+          },
+          {
+            "speaker": null,
+            "content": "What do you often eat for...?",
+            "confidence": 0.8585,
+            "bbox": {
+              "x": 0.117333,
+              "y": 0.735703,
+              "width": 0.202667,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0037"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "writing_activity",
+        "instruction": "Complete the chart with the food words from Exercise 1. Then compare with a partner.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "circling",
+        "instruction": "Circle the correct words. Then practice with a partner.",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Do you have any apples? Do you have any milk?",
+          "Yes, | have some (apples). Yes, | have some (milk).",
+          "No, | don't have any (apples). No, | don't have any (milk).",
+          "A Complete the chart with the food words from Exercise 1. Then compare with a partner.",
+          "Count nouns",
+          "Count nouns Non count nouns",
+          "apples milk",
+          "tomatoes",
+          "cereal"
+        ],
+        "position": {
+          "x": 0.091765,
+          "y": 0.193939,
+          "width": 0.7078430000000001,
+          "height": 0.19442800000000002
+        },
+        "textElementIds": [
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "B Circle the correct words. Then practice with a partner.",
+          "What do you want for lunch, Amy?",
+          "8 Let's just make Some)/ any pasta.",
+          "Good idea. We have some/any pasta.",
+          "B",
+          "Let's see. We have some / any carrots.",
+          "We don't have some / any tomatoes.",
+          "OK, | can get some / any at the store. What else?",
+          "Do we have some / any cheese?",
+          "No, we don't have some / any. | can get some / any.",
+          "Pair work",
+          "Practice the conversation again.",
+          "Use other food words from Exercise 1."
+        ],
+        "position": {
+          "x": 0.092941,
+          "y": 0.41697,
+          "width": 0.430588,
+          "height": 0.25818199999999997
+        },
+        "textElementIds": [
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Speaking What do you eat?",
+          "A Write your answers to the questions in the chart.",
+          "What do you often eat for...?",
+          "Me",
+          "Name",
+          "Name",
+          "breakfast",
+          "lunch",
+          "dinner",
+          "Interview two classmates. Complete the chart with their answers.",
+          "Keep talking!"
+        ],
+        "position": {
+          "x": 0.092,
+          "y": 0.659091,
+          "width": 0.702667,
+          "height": 0.246969
+        },
+        "textElementIds": [
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040",
+          "text_0041",
+          "text_0042",
+          "text_0043",
+          "text_0044",
+          "text_0045"
+        ]
+      }
+    ],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "grammar",
+    "title": "unit",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [
+      {
+        "topic": "Count and noncount nouns; some and any",
+        "rule": [
+          "Grammar n Count and non count nouns; some and any",
+          "an apple apples a tomato tomatoes milk rice",
+          "Count nouns Non count nouns",
+          "B Circle the correct words. Then practice with a partner.",
+          "Practice the conversation again.",
+          "Use other food words from Exercise 1.",
+          "A Write your answers to the questions in the chart."
+        ],
+        "positiveExamples": [
+          "Do you have any apples? Do you have any milk?",
+          "Yes, | have some (apples). Yes, | have some (milk).",
+          "No, | don't have any (apples). No, | don't have any (milk).",
+          "A Complete the chart with the food words from Exercise 1. Then compare with a partner.",
+          "What do you want for lunch, Amy?",
+          "Good idea. We have some/any pasta.",
+          "Let's see. We have some / any carrots.",
+          "We don't have some / any tomatoes.",
+          "OK, | can get some / any at the store. What else?",
+          "Do we have some / any cheese?",
+          "No, we don't have some / any. | can get some / any.",
+          "Speaking What do you eat?",
+          "What do you often eat for...?",
+          "can say what meals Ieat."
+        ],
+        "usageNotes": [],
+        "practice": [
+          "06 & wy",
+          "8 Let's just make Some)/ any pasta.",
+          "67"
+        ]
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "Do you have any apples?",
+            "confidence": 0.959
+          },
+          {
+            "speaker": null,
+            "content": "Do you have any milk?",
+            "confidence": 0.959
+          },
+          {
+            "speaker": null,
+            "content": "Yes, | have some (apples).",
+            "confidence": 0.953
+          },
+          {
+            "speaker": null,
+            "content": "Yes, | have some (milk).",
+            "confidence": 0.953
+          },
+          {
+            "speaker": null,
+            "content": "No, | don't have any (apples).",
+            "confidence": 0.9325
+          },
+          {
+            "speaker": null,
+            "content": "No, | don't have any (milk).",
+            "confidence": 0.9325
+          },
+          {
+            "speaker": null,
+            "content": "What do you want for lunch, Amy?",
+            "confidence": 0.9104
+          },
+          {
+            "speaker": null,
+            "content": "We don't have some / any tomatoes.",
+            "confidence": 0.9386
+          },
+          {
+            "speaker": null,
+            "content": "Do we have some / any cheese?",
+            "confidence": 0.92
+          },
+          {
+            "speaker": null,
+            "content": "No, we don't have some / any. | can get some / any.",
+            "confidence": 0.8869
+          },
+          {
+            "speaker": null,
+            "content": "What do you often eat for...?",
+            "confidence": 0.8585
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "writing_activity",
+        "instruction": "Complete the chart with the food words from Exercise 1. Then compare with a partner.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "circling",
+        "instruction": "Circle the correct words. Then practice with a partner.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "10 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "1 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "dialoguesSplit": 6,
+      "grammarTopicOverride": 1
+    },
+    "averageOcrConfidence": 0.8561,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 1 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc1_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

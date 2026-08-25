@@ -1,0 +1,1682 @@
+{
+  "pageNumber": 103,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "verified sequential printed-footer pattern",
+  "pdfPageNumber": 104,
+  "source": {
+    "pdfFile": "Family and Friends 1 SB_Part2.pdf",
+    "pdfLocalPageNumber": 6,
+    "pageSizePoints": {
+      "width": 595.2,
+      "height": 796.32
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Review 4",
+        "confidence": 0.8584,
+        "bbox": {
+          "x": 0.817333,
+          "y": 0.045364,
+          "width": 0.121333,
+          "height": 0.021436
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Review",
+            "confidence": 0.12
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Review 4",
+            "confidence": 0.8584
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "instruction",
+        "content": "4 Look at the pictures. Read and circle.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.033871,
+          "y": 0.079265,
+          "width": 0.446371,
+          "height": 0.01959
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4 Look at the pictures.Read and circle.",
+            "confidence": 0.8727
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 Look at the pictures. Read and circle.",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "label",
+        "content": "like",
+        "confidence": 0.6918,
+        "bbox": {
+          "x": 0.271333,
+          "y": 0.342473,
+          "width": 0.039333,
+          "height": 0.016451
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0004",
+        "type": "sentence",
+        "content": "don't like juice and I likedon't likefish.",
+        "confidence": 0.8722,
+        "bbox": {
+          "x": 0.324667,
+          "y": 0.342971,
+          "width": 0.39,
+          "height": 0.015952
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "(ike | don’t like juice and | like / don't like fish.",
+            "confidence": 0.7492
+          },
+          {
+            "engine": "rapidocr",
+            "content": "don't like juice and I likedon't likefish.",
+            "confidence": 0.8722
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "paragraph",
+        "content": "| like / don’t like yogurt.",
+        "confidence": 0.845,
+        "bbox": {
+          "x": 0.375,
+          "y": 0.374925,
+          "width": 0.227419,
+          "height": 0.018686
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I like/ don't likeyogurt.",
+            "confidence": 0.8538
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| like / don’t like yogurt.",
+            "confidence": 0.845
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "paragraph",
+        "content": "| like | don’t like yogurt and | like / don’t like fish.",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.23629,
+          "y": 0.442134,
+          "width": 0.470968,
+          "height": 0.022303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I like / don't like yogurt and I like / don't like fish.",
+            "confidence": 0.8673
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| like | don’t like yogurt and | like / don’t like fish.",
+            "confidence": 0.9
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "paragraph",
+        "content": "| like | don’t like juice.",
+        "confidence": 0.92,
+        "bbox": {
+          "x": 0.367339,
+          "y": 0.475588,
+          "width": 0.208871,
+          "height": 0.019289
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I like/ don't like juice.",
+            "confidence": 0.8571
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| like | don’t like juice.",
+            "confidence": 0.92
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "instruction",
+        "content": "5 Look at the pictures and write.",
+        "confidence": 0.9271,
+        "bbox": {
+          "x": 0.030645,
+          "y": 0.533755,
+          "width": 0.377419,
+          "height": 0.020494
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "5 Look atthepictures and write.",
+            "confidence": 0.8928
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 Look at the pictures and write.",
+            "confidence": 0.9271
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "a |",
+        "confidence": 0.56,
+        "bbox": {
+          "x": 0.074597,
+          "y": 0.564195,
+          "width": 0.175403,
+          "height": 0.086197
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "bed",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.82379,
+          "y": 0.637734,
+          "width": 0.039516,
+          "height": 0.016878
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "bed",
+            "confidence": 0.6756
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "bed",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "Sah |",
+        "confidence": 0.375,
+        "bbox": {
+          "x": 0.072177,
+          "y": 0.658529,
+          "width": 0.176613,
+          "height": 0.084991
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0012",
+        "type": "instruction",
+        "content": "6 Read and color.",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.030645,
+          "y": 0.774563,
+          "width": 0.206855,
+          "height": 0.016878
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "6 Read and color.",
+            "confidence": 0.9575
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Read and color.",
+            "confidence": 0.8314
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "paragraph",
+        "content": "My work in Units 10, 11, and 12 is",
+        "confidence": 0.9578,
+        "bbox": {
+          "x": 0.072177,
+          "y": 0.810729,
+          "width": 0.477016,
+          "height": 0.022905
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "My work in Units 10.11. and 12 is",
+            "confidence": 0.7979
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My work in Units 10, 11, and 12 is",
+            "confidence": 0.9578
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "Excellent",
+        "confidence": 0.854,
+        "bbox": {
+          "x": 0.736,
+          "y": 0.854935,
+          "width": 0.129333,
+          "height": 0.021436
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "(oo) ()) Good feos) °°) Excellent |",
+            "confidence": 0.5386
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Excellent",
+            "confidence": 0.854
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "Online",
+        "confidence": 0.8182,
+        "bbox": {
+          "x": 0.094667,
+          "y": 0.908774,
+          "width": 0.046,
+          "height": 0.015952
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "instruction",
+        "content": "play",
+        "confidence": 0.707,
+        "bbox": {
+          "x": 0.050667,
+          "y": 0.910768,
+          "width": 0.098667,
+          "height": 0.044367
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "play Eerrenrs",
+            "confidence": 0.29
+          },
+          {
+            "engine": "rapidocr",
+            "content": "play",
+            "confidence": 0.707
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Playagame!",
+        "confidence": 0.8166,
+        "bbox": {
+          "x": 0.154,
+          "y": 0.925224,
+          "width": 0.112667,
+          "height": 0.016949
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "103",
+        "confidence": 0.7495,
+        "bbox": {
+          "x": 0.926,
+          "y": 0.94666,
+          "width": 0.044,
+          "height": 0.017946
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0019",
+        "type": "heading",
+        "content": "Review 4",
+        "confidence": 0.7865,
+        "bbox": {
+          "x": 0.817333,
+          "y": 0.95015,
+          "width": 0.076,
+          "height": 0.012961
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "4",
+        "type": "selection_exercise",
+        "instruction": "Look at the pictures. Read and circle.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0002"
+        ],
+        "confidence": 0.95
+      },
+      {
+        "exerciseNumber": "5",
+        "type": "writing_activity",
+        "instruction": "Look at the pictures and write.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0008"
+        ],
+        "confidence": 0.9271
+      },
+      {
+        "exerciseNumber": "6",
+        "type": "reading_activity",
+        "instruction": "Read and color.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0012"
+        ],
+        "confidence": 0.9575
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "like",
+          "don't like juice and I likedon't likefish.",
+          "| like / don’t like yogurt.",
+          "| like | don’t like yogurt and | like / don’t like fish.",
+          "| like | don’t like juice."
+        ],
+        "position": {
+          "x": 0.21629,
+          "y": 0.322473,
+          "width": 0.518377,
+          "height": 0.192404
+        },
+        "textElementIds": [
+          "text_0003",
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "5 Look at the pictures and write.",
+          "a |",
+          "bed",
+          "Sah |"
+        ],
+        "position": {
+          "x": 0.010645,
+          "y": 0.513755,
+          "width": 0.872661,
+          "height": 0.249765
+        },
+        "textElementIds": [
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "6 Read and color.",
+          "My work in Units 10, 11, and 12 is",
+          "Excellent"
+        ],
+        "position": {
+          "x": 0.010645,
+          "y": 0.754563,
+          "width": 0.874688,
+          "height": 0.141808
+        },
+        "textElementIds": [
+          "text_0012",
+          "text_0013",
+          "text_0014"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "rawOcrAudit": {
+      "rapidocr": "Review 4\n4 Look at the pictures.Read and circle.\nlike\ndon't like juice and I likedon't likefish.\nI like/ don't likeyogurt.\nI like / don't like yogurt and I like / don't like fish.\nI like/ don't like juice.\n5 Look atthepictures and write.\nbed\nRead and color.\nMy work in Units 10.11. and 12 is\nExcellent\nOnline\nplay\nPlayagame!\n103\nReview 4",
+      "tesseract_psm3": "Review\n\n4 Look at the pictures. Read and circle.\n\n(ike | don’t like juice and | like / don't like fish.\n| like / don’t like yogurt.\n\n| like | don’t like yogurt and | like / don’t like fish.\n\n| like | don’t like juice.\n\n5 Look at the pictures and write.\n\na |\nSah |\n\n6 Read and color.\nMy work in Units 10, 11, and 12 is\n\n(oo) ()) Good feos) °°) Excellent |\n\nplay Eerrenrs\n\nbed\n\nwo\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": "",
+      "footer_passes": [
+        ",_-__ 2 ln ll f\nlay\nplay EeererTs\nReview 4",
+        "ec\n\ni\n\n‘a\n\na\n\nrs\n\n=\n\nOnling\n\npl\n\nby\n\nReview 4"
+      ]
+    },
+    "excludedOcrNoise": [
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "wo",
+        "confidence": 0.19,
+        "bbox": {
+          "x": 0.070161,
+          "y": 0.85654,
+          "width": 0.108468,
+          "height": 0.03044
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "averageConfidence": 0.8161,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "6 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "1 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "review",
+    "pagePurpose": null,
+    "readingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "headings": [
+      {
+        "id": "text_0001",
+        "content": "Review 4",
+        "confidence": 0.8584,
+        "bbox": {
+          "x": 0.817333,
+          "y": 0.045364,
+          "width": 0.121333,
+          "height": 0.021436
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0001"
+        ]
+      },
+      {
+        "id": "text_0019",
+        "content": "Review 4",
+        "confidence": 0.7865,
+        "bbox": {
+          "x": 0.817333,
+          "y": 0.95015,
+          "width": 0.076,
+          "height": 0.012961
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0019"
+        ]
+      }
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Review 4",
+        "originalContent": "Review 4",
+        "confidence": 0.8584,
+        "bbox": {
+          "x": 0.817333,
+          "y": 0.045364,
+          "width": 0.121333,
+          "height": 0.021436
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Review",
+            "confidence": 0.12
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Review 4",
+            "confidence": 0.8584
+          }
+        ]
+      },
+      {
+        "id": "text_0002",
+        "type": "instruction",
+        "content": "4 Look at the pictures. Read and Circle.",
+        "originalContent": "4 Look at the pictures. Read and circle.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.033871,
+          "y": 0.079265,
+          "width": 0.446371,
+          "height": 0.01959
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase_space_restored"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4 Look at the pictures.Read and circle.",
+            "confidence": 0.8727
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 Look at the pictures. Read and circle.",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "id": "text_0003",
+        "type": "label",
+        "content": "like",
+        "originalContent": "like",
+        "confidence": 0.6918,
+        "bbox": {
+          "x": 0.271333,
+          "y": 0.342473,
+          "width": 0.039333,
+          "height": 0.016451
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0004",
+        "type": "sentence",
+        "content": "don't like juice and I likedon't likefish.",
+        "originalContent": "don't like juice and I likedon't likefish.",
+        "confidence": 0.8722,
+        "bbox": {
+          "x": 0.324667,
+          "y": 0.342971,
+          "width": 0.39,
+          "height": 0.015952
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "(ike | don’t like juice and | like / don't like fish.",
+            "confidence": 0.7492
+          },
+          {
+            "engine": "rapidocr",
+            "content": "don't like juice and I likedon't likefish.",
+            "confidence": 0.8722
+          }
+        ]
+      },
+      {
+        "id": "text_0005",
+        "type": "paragraph",
+        "content": "like / don't like yogurt.",
+        "originalContent": "| like / don’t like yogurt.",
+        "confidence": 0.845,
+        "bbox": {
+          "x": 0.375,
+          "y": 0.374925,
+          "width": 0.227419,
+          "height": 0.018686
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized_unicode_or_edges"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I like/ don't likeyogurt.",
+            "confidence": 0.8538
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| like / don’t like yogurt.",
+            "confidence": 0.845
+          }
+        ]
+      },
+      {
+        "id": "text_0006",
+        "type": "paragraph",
+        "content": "like | don't like yogurt and | like / don't like fish.",
+        "originalContent": "| like | don’t like yogurt and | like / don’t like fish.",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.23629,
+          "y": 0.442134,
+          "width": 0.470968,
+          "height": 0.022303
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized_unicode_or_edges"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I like / don't like yogurt and I like / don't like fish.",
+            "confidence": 0.8673
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| like | don’t like yogurt and | like / don’t like fish.",
+            "confidence": 0.9
+          }
+        ]
+      },
+      {
+        "id": "text_0007",
+        "type": "paragraph",
+        "content": "like | don't like juice.",
+        "originalContent": "| like | don’t like juice.",
+        "confidence": 0.92,
+        "bbox": {
+          "x": 0.367339,
+          "y": 0.475588,
+          "width": 0.208871,
+          "height": 0.019289
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized_unicode_or_edges"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I like/ don't like juice.",
+            "confidence": 0.8571
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| like | don’t like juice.",
+            "confidence": 0.92
+          }
+        ]
+      },
+      {
+        "id": "text_0008",
+        "type": "instruction",
+        "content": "5 Look at the pictures and Write.",
+        "originalContent": "5 Look at the pictures and write.",
+        "confidence": 0.9271,
+        "bbox": {
+          "x": 0.030645,
+          "y": 0.533755,
+          "width": 0.377419,
+          "height": 0.020494
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase_space_restored"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "5 Look atthepictures and write.",
+            "confidence": 0.8928
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 Look at the pictures and write.",
+            "confidence": 0.9271
+          }
+        ]
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "a",
+        "originalContent": "a |",
+        "confidence": 0.56,
+        "bbox": {
+          "x": 0.074597,
+          "y": 0.564195,
+          "width": 0.175403,
+          "height": 0.086197
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized_unicode_or_edges"
+        ],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "bed",
+        "originalContent": "bed",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.82379,
+          "y": 0.637734,
+          "width": 0.039516,
+          "height": 0.016878
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "bed",
+            "confidence": 0.6756
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "bed",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "Sah",
+        "originalContent": "Sah |",
+        "confidence": 0.375,
+        "bbox": {
+          "x": 0.072177,
+          "y": 0.658529,
+          "width": 0.176613,
+          "height": 0.084991
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized_unicode_or_edges"
+        ],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0012",
+        "type": "instruction",
+        "content": "6 Read and color.",
+        "originalContent": "6 Read and color.",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.030645,
+          "y": 0.774563,
+          "width": 0.206855,
+          "height": 0.016878
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "6 Read and color.",
+            "confidence": 0.9575
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Read and color.",
+            "confidence": 0.8314
+          }
+        ]
+      },
+      {
+        "id": "text_0013",
+        "type": "paragraph",
+        "content": "My work in Units 10, 11, and 12 is",
+        "originalContent": "My work in Units 10, 11, and 12 is",
+        "confidence": 0.9578,
+        "bbox": {
+          "x": 0.072177,
+          "y": 0.810729,
+          "width": 0.477016,
+          "height": 0.022905
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "My work in Units 10.11. and 12 is",
+            "confidence": 0.7979
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My work in Units 10, 11, and 12 is",
+            "confidence": 0.9578
+          }
+        ]
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "Excellent",
+        "originalContent": "Excellent",
+        "confidence": 0.854,
+        "bbox": {
+          "x": 0.736,
+          "y": 0.854935,
+          "width": 0.129333,
+          "height": 0.021436
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "(oo) ()) Good feos) °°) Excellent |",
+            "confidence": 0.5386
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Excellent",
+            "confidence": 0.854
+          }
+        ]
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "Online",
+        "originalContent": "Online",
+        "confidence": 0.8182,
+        "bbox": {
+          "x": 0.094667,
+          "y": 0.908774,
+          "width": 0.046,
+          "height": 0.015952
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0016",
+        "type": "instruction",
+        "content": "play",
+        "originalContent": "play",
+        "confidence": 0.707,
+        "bbox": {
+          "x": 0.050667,
+          "y": 0.910768,
+          "width": 0.098667,
+          "height": 0.044367
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "play Eerrenrs",
+            "confidence": 0.29
+          },
+          {
+            "engine": "rapidocr",
+            "content": "play",
+            "confidence": 0.707
+          }
+        ]
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Play a game!",
+        "originalContent": "Playagame!",
+        "confidence": 0.8166,
+        "bbox": {
+          "x": 0.154,
+          "y": 0.925224,
+          "width": 0.112667,
+          "height": 0.016949
+        },
+        "repaired": true,
+        "repairNotes": [
+          "missing_spaces_split"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0019",
+        "type": "heading",
+        "content": "Review 4",
+        "originalContent": "Review 4",
+        "confidence": 0.7865,
+        "bbox": {
+          "x": 0.817333,
+          "y": 0.95015,
+          "width": 0.076,
+          "height": 0.012961
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Review 4",
+      "4 Look at the pictures. Read and Circle.",
+      "like",
+      "don't like juice and I likedon't likefish.",
+      "like / don't like yogurt.",
+      "like | don't like yogurt and | like / don't like fish.",
+      "like | don't like juice.",
+      "5 Look at the pictures and Write.",
+      "a",
+      "bed",
+      "Sah",
+      "6 Read and color.",
+      "My work in Units 10, 11, and 12 is",
+      "Excellent",
+      "Online",
+      "play",
+      "Play a game!",
+      "Review 4"
+    ],
+    "paragraphs": [
+      {
+        "id": "text_0005",
+        "content": "like / don't like yogurt.",
+        "confidence": 0.845,
+        "bbox": {
+          "x": 0.375,
+          "y": 0.374925,
+          "width": 0.227419,
+          "height": 0.018686
+        },
+        "sourceElementIds": [
+          "text_0005"
+        ]
+      },
+      {
+        "id": "text_0006",
+        "content": "like | don't like yogurt and | like / don't like fish.",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.23629,
+          "y": 0.442134,
+          "width": 0.470968,
+          "height": 0.022303
+        },
+        "sourceElementIds": [
+          "text_0006"
+        ]
+      },
+      {
+        "id": "text_0007",
+        "content": "like | don't like juice.",
+        "confidence": 0.92,
+        "bbox": {
+          "x": 0.367339,
+          "y": 0.475588,
+          "width": 0.208871,
+          "height": 0.019289
+        },
+        "sourceElementIds": [
+          "text_0007"
+        ]
+      },
+      {
+        "id": "text_0013",
+        "content": "My work in Units 10, 11, and 12 is",
+        "confidence": 0.9578,
+        "bbox": {
+          "x": 0.072177,
+          "y": 0.810729,
+          "width": 0.477016,
+          "height": 0.022905
+        },
+        "sourceElementIds": [
+          "text_0013"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "text_0004",
+        "content": "don't like juice and I likedon't likefish.",
+        "confidence": 0.8722,
+        "bbox": {
+          "x": 0.324667,
+          "y": 0.342971,
+          "width": 0.39,
+          "height": 0.015952
+        },
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "bed",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.96,
+        "sourceElementIds": [
+          "text_0010"
+        ],
+        "verification": {
+          "method": "filtered",
+          "verified": false
+        }
+      },
+      {
+        "word": "Sah",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.375,
+        "sourceElementIds": [
+          "text_0011"
+        ],
+        "verification": {
+          "method": "filtered",
+          "verified": false
+        }
+      },
+      {
+        "word": "Online",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8182,
+        "sourceElementIds": [
+          "text_0015"
+        ],
+        "verification": {
+          "method": "filtered",
+          "verified": false
+        }
+      }
+    ],
+    "grammar": [],
+    "dialogues": [],
+    "exercises": [
+      {
+        "exerciseNumber": "4",
+        "type": "circle_exercise",
+        "instruction": "Look at the pictures. Read and Circle.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.95,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "exerciseNumber": "5",
+        "type": "writing_activity",
+        "instruction": "Look at the pictures and Write.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.9271,
+        "sourceElementIds": [
+          "text_0008"
+        ]
+      },
+      {
+        "exerciseNumber": "6",
+        "type": "reading_activity",
+        "instruction": "Read and color.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.9575,
+        "sourceElementIds": [
+          "text_0012"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "activity",
+        "instruction": "Play a game!",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8166,
+        "sourceElementIds": [
+          "text_0017"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "activity",
+        "instruction": "play",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.707,
+        "sourceElementIds": [
+          "text_0016"
+        ]
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "like",
+          "don't like juice and I likedon't likefish.",
+          "like / don't like yogurt.",
+          "like | don't like yogurt and | like / don't like fish.",
+          "like | don't like juice."
+        ],
+        "position": {
+          "x": 0.21629,
+          "y": 0.322473,
+          "width": 0.518377,
+          "height": 0.192404
+        },
+        "textElementIds": [
+          "text_0003",
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "5 Look at the pictures and Write.",
+          "a",
+          "bed",
+          "Sah"
+        ],
+        "position": {
+          "x": 0.010645,
+          "y": 0.513755,
+          "width": 0.872661,
+          "height": 0.249765
+        },
+        "textElementIds": [
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "6 Read and color.",
+          "My work in Units 10, 11, and 12 is",
+          "Excellent"
+        ],
+        "position": {
+          "x": 0.010645,
+          "y": 0.754563,
+          "width": 0.874688,
+          "height": 0.141808
+        },
+        "textElementIds": [
+          "text_0012",
+          "text_0013",
+          "text_0014"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "nonEducationalText": [],
+    "excludedGarbage": [
+      {
+        "id": "text_0018",
+        "content": "103",
+        "originalContent": "103",
+        "confidence": 0.7495
+      }
+    ]
+  },
+  "learningContent": {
+    "pageType": "review",
+    "title": "Review 4",
+    "learningObjectives": [],
+    "targetVocabulary": [
+      {
+        "word": "bed",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.96,
+        "sourceElementIds": [
+          "text_0010"
+        ]
+      },
+      {
+        "word": "Sah",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.375,
+        "sourceElementIds": [
+          "text_0011"
+        ]
+      },
+      {
+        "word": "Online",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8182,
+        "sourceElementIds": [
+          "text_0015"
+        ]
+      }
+    ],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "4",
+        "type": "circle_exercise",
+        "instruction": "Look at the pictures. Read and Circle.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.95,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "exerciseNumber": "5",
+        "type": "writing_activity",
+        "instruction": "Look at the pictures and Write.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.9271,
+        "sourceElementIds": [
+          "text_0008"
+        ]
+      },
+      {
+        "exerciseNumber": "6",
+        "type": "reading_activity",
+        "instruction": "Read and color.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.9575,
+        "sourceElementIds": [
+          "text_0012"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "activity",
+        "instruction": "Play a game!",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8166,
+        "sourceElementIds": [
+          "text_0017"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "activity",
+        "instruction": "play",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.707,
+        "sourceElementIds": [
+          "text_0016"
+        ]
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [
+      {
+        "exerciseNumber": "5",
+        "instruction": "Look at the pictures and Write.",
+        "type": "writing_activity",
+        "confidence": 0.9271
+      },
+      {
+        "exerciseNumber": "6",
+        "instruction": "Read and color.",
+        "type": "reading_activity",
+        "confidence": 0.9575
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Play a game!",
+        "type": "activity",
+        "confidence": 0.8166
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "play",
+        "type": "activity",
+        "confidence": 0.707
+      }
+    ],
+    "writing": [
+      {
+        "exerciseNumber": "4",
+        "instruction": "Look at the pictures. Read and Circle.",
+        "type": "circle_exercise",
+        "confidence": 0.95
+      },
+      {
+        "exerciseNumber": "5",
+        "instruction": "Look at the pictures and Write.",
+        "type": "writing_activity",
+        "confidence": 0.9271
+      }
+    ],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "text_kept": 18,
+      "text_repaired": 8,
+      "garbage_excluded": 1,
+      "vocab_kept": 6,
+      "exercises_reconstructed": 5
+    },
+    "averageOcrConfidence": 0.8161
+  },
+  "metadata": {
+    "book": "Family and Friends 1 Student Book (American)",
+    "author": "Naomi Simmons",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_v1",
+    "originalOcrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "originalAverageConfidence": 0.8161,
+    "noHallucinationPolicy": "Definitions, translations, speaker names, answers, and grammar rules are null or omitted unless visibly supported by page OCR/PDF. Text repairs are limited to spacing, punctuation, and clear OCR character errors."
+  }
+}

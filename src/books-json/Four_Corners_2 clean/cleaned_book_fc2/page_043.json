@@ -1,0 +1,2882 @@
+{
+  "pageNumber": 36,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 43,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 2_Part2.pdf",
+    "pdfLocalPageNumber": 21,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "There’s a lot of light.",
+        "confidence": 0.934,
+        "bbox": {
+          "x": 0.134902,
+          "y": 0.050909,
+          "width": 0.503922,
+          "height": 0.036667
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "There's a lot of light",
+            "confidence": 0.8996
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "There’s a lot of light.",
+            "confidence": 0.934
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Vocabulary Things in a home",
+        "confidence": 0.8885,
+        "bbox": {
+          "x": 0.101333,
+          "y": 0.131891,
+          "width": 0.418667,
+          "height": 0.02576
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Vocabulary Things in a home",
+            "confidence": 0.8885
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Vocabulary Things ina home",
+            "confidence": 0.5025
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "sentence",
+        "content": "A Label the pictures with the correct words. Then listen and check your answers.",
+        "confidence": 0.9593,
+        "bbox": {
+          "x": 0.10902,
+          "y": 0.169091,
+          "width": 0.587059,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A  Label the pictures with the correct words. Then listen and check your answers.",
+            "confidence": 0.9015
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Label the pictures with the correct words. Then listen and check your answers.",
+            "confidence": 0.9593
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "bed",
+        "confidence": 0.6957,
+        "bbox": {
+          "x": 0.202,
+          "y": 0.196291,
+          "width": 0.034,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "bathtub",
+        "confidence": 0.8148,
+        "bbox": {
+          "x": 0.116,
+          "y": 0.197321,
+          "width": 0.06,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "coffee table",
+        "confidence": 0.8463,
+        "bbox": {
+          "x": 0.262,
+          "y": 0.198351,
+          "width": 0.083333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "bathtub bed coffee table refrigerator",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.120392,
+          "y": 0.199394,
+          "width": 0.331373,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "refrigerator",
+            "confidence": 0.8758
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "bathtub bed coffee table refrigerator",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "a. curtains",
+        "confidence": 0.8756,
+        "bbox": {
+          "x": 0.704,
+          "y": 0.238537,
+          "width": 0.073333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "a. curtains",
+            "confidence": 0.8756
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "~ 7} a. curtains",
+            "confidence": 0.6325
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "c. shower",
+        "confidence": 0.8574,
+        "bbox": {
+          "x": 0.318,
+          "y": 0.251932,
+          "width": 0.065333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "c. closet",
+        "confidence": 0.8947,
+        "bbox": {
+          "x": 0.542,
+          "y": 0.259145,
+          "width": 0.06,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "c. closet",
+            "confidence": 0.8947
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "c. closet ? -",
+            "confidence": 0.6075
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "b. dresser",
+        "confidence": 0.888,
+        "bbox": {
+          "x": 0.844,
+          "y": 0.278722,
+          "width": 0.070667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "b. toilet",
+        "confidence": 0.8275,
+        "bbox": {
+          "x": 0.180667,
+          "y": 0.290572,
+          "width": 0.058,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "a. sink",
+        "confidence": 0.8394,
+        "bbox": {
+          "x": 0.391333,
+          "y": 0.302937,
+          "width": 0.05,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "d.",
+        "confidence": 0.5948,
+        "bbox": {
+          "x": 0.208,
+          "y": 0.38949,
+          "width": 0.010667,
+          "height": 0.009789
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "bathroom",
+        "confidence": 0.8865,
+        "bbox": {
+          "x": 0.116667,
+          "y": 0.391036,
+          "width": 0.077333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "bedroom",
+        "confidence": 0.8266,
+        "bbox": {
+          "x": 0.537333,
+          "y": 0.391551,
+          "width": 0.073333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Bhcdroon",
+            "confidence": 0
+          },
+          {
+            "engine": "rapidocr",
+            "content": "bedroom",
+            "confidence": 0.8266
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "— a airs: ee",
+        "confidence": 0.3225,
+        "bbox": {
+          "x": 0.11451,
+          "y": 0.413636,
+          "width": 0.362745,
+          "height": 0.01697
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "— a airs: ee",
+            "confidence": 0.3225
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "; ' b. nl acai E ie hi",
+            "confidence": 0.2375
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "b.cupboards",
+        "confidence": 0.885,
+        "bbox": {
+          "x": 0.26,
+          "y": 0.430706,
+          "width": 0.086667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "b. shelves",
+        "confidence": 0.7871,
+        "bbox": {
+          "x": 0.666,
+          "y": 0.472437,
+          "width": 0.068667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "armchairs",
+        "confidence": 0.8348,
+        "bbox": {
+          "x": 0.836,
+          "y": 0.504379,
+          "width": 0.076667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "a. sofa",
+        "confidence": 0.8337,
+        "bbox": {
+          "x": 0.564,
+          "y": 0.523442,
+          "width": 0.049333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "c. stove",
+        "confidence": 0.7543,
+        "bbox": {
+          "x": 0.310667,
+          "y": 0.526533,
+          "width": 0.052667,
+          "height": 0.010819
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "d. dishwasher",
+        "confidence": 0.8665,
+        "bbox": {
+          "x": 0.272,
+          "y": 0.569294,
+          "width": 0.094667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "living room",
+        "confidence": 0.787,
+        "bbox": {
+          "x": 0.533333,
+          "y": 0.582174,
+          "width": 0.093333,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "kitchen",
+        "confidence": 0.8674,
+        "bbox": {
+          "x": 0.116667,
+          "y": 0.583205,
+          "width": 0.062667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "heading",
+        "content": "PAIRWORK",
+        "confidence": 0.8562,
+        "bbox": {
+          "x": 0.132,
+          "y": 0.612571,
+          "width": 0.078,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "sentence",
+        "content": "B Which of the things in Part A do you have in your home? Tell your partner.",
+        "confidence": 0.9559,
+        "bbox": {
+          "x": 0.11098,
+          "y": 0.614545,
+          "width": 0.612157,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Which of the things in Part A do you have in your home? Tell your partner.",
+            "confidence": 0.8684
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Which of the things in Part A do you have in your home? Tell your partner.",
+            "confidence": 0.9559
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "paragraph",
+        "content": "Language in context A new apartment",
+        "confidence": 0.9467,
+        "bbox": {
+          "x": 0.112157,
+          "y": 0.649394,
+          "width": 0.555294,
+          "height": 0.022121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Language in context Anew apartment",
+            "confidence": 0.8935
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Language in context A new apartment",
+            "confidence": 0.9467
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "sentence",
+        "content": "A Listen to the conversation. Beth has a new apartment. Which room does Lori like?",
+        "confidence": 0.958,
+        "bbox": {
+          "x": 0.109804,
+          "y": 0.684848,
+          "width": 0.609804,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A  Listen to the conversation. Beth has a new apartment. Which room does Lori like?",
+            "confidence": 0.9363
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Listen to the conversation. Beth has a new apartment. Which room does Lori like?",
+            "confidence": 0.958
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "LoriYournewplaceisnice.How",
+        "confidence": 0.9288,
+        "bbox": {
+          "x": 0.111333,
+          "y": 0.807316,
+          "width": 0.228,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "Lori Ireally likeyourkitchen.",
+        "confidence": 0.8741,
+        "bbox": {
+          "x": 0.39,
+          "y": 0.808861,
+          "width": 0.207333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "sentence",
+        "content": "Your new place is nice. How | really like your kitchen. Look at all the windows in your",
+        "confidence": 0.9478,
+        "bbox": {
+          "x": 0.152157,
+          "y": 0.810303,
+          "width": 0.772549,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "LoriLookatallthewindowsinyour",
+            "confidence": 0.9318
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Your new place is nice. How | really like your kitchen. Look at all the windows in your",
+            "confidence": 0.9478
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "living room!",
+        "confidence": 0.8758,
+        "bbox": {
+          "x": 0.714667,
+          "y": 0.825863,
+          "width": 0.086667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "sentence",
+        "content": "many rooms are there? Beth Thanks. There aren’t many living room!",
+        "confidence": 0.9545,
+        "bbox": {
+          "x": 0.153333,
+          "y": 0.827879,
+          "width": 0.643922,
+          "height": 0.015455
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "many rooms are there?",
+            "confidence": 0.8895
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "many rooms are there? Beth Thanks. There aren’t many living room!",
+            "confidence": 0.9545
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Beth Thanks.There aren't many",
+            "confidence": 0.9259
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "paragraph",
+        "content": "Beth Yeah, there's a lot of light in",
+        "confidence": 0.8818,
+        "bbox": {
+          "x": 0.674667,
+          "y": 0.846471,
+          "width": 0.226,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "cupboards, and there isn't",
+        "confidence": 0.9148,
+        "bbox": {
+          "x": 0.432,
+          "y": 0.848016,
+          "width": 0.18,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "paragraph",
+        "content": "Beth There are four - a kitchen, a cupboards, and there isn’t Beth Yeah, there’s a lot of light in",
+        "confidence": 0.9365,
+        "bbox": {
+          "x": 0.113725,
+          "y": 0.848182,
+          "width": 0.786275,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "BethTherearefour-akitchen,a",
+            "confidence": 0.9035
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Beth There are four - a kitchen, a cupboards, and there isn’t Beth Yeah, there’s a lot of light in",
+            "confidence": 0.9365
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "here. But...there's also a lot",
+        "confidence": 0.8714,
+        "bbox": {
+          "x": 0.715333,
+          "y": 0.863988,
+          "width": 0.198667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "livingroom,abathroom,anda",
+        "confidence": 0.9144,
+        "bbox": {
+          "x": 0.151333,
+          "y": 0.864503,
+          "width": 0.21,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "sentence",
+        "content": "living room, a bathroom, anda much space, but that’s OK. | here. But... there’s also a lot",
+        "confidence": 0.9324,
+        "bbox": {
+          "x": 0.153333,
+          "y": 0.865758,
+          "width": 0.758824,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "muchspace,but that's OK.1",
+            "confidence": 0.8415
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "living room, a bathroom, anda much space, but that’s OK. | here. But... there’s also a lot",
+            "confidence": 0.9324
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "label",
+        "content": "bedroom.",
+        "confidence": 0.8397,
+        "bbox": {
+          "x": 0.15,
+          "y": 0.880474,
+          "width": 0.071333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "label",
+        "content": "of noise!",
+        "confidence": 0.8478,
+        "bbox": {
+          "x": 0.715333,
+          "y": 0.881504,
+          "width": 0.062667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "sentence",
+        "content": "bedroom. hardly ever cook. of noise!",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.153725,
+          "y": 0.88303,
+          "width": 0.620392,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "hardlyevercook.",
+            "confidence": 0.9037
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "bedroom. hardly ever cook. of noise!",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "sentence",
+        "content": "B What about you? What is important to you when you move into a new house or apartment?",
+        "confidence": 0.9578,
+        "bbox": {
+          "x": 0.112549,
+          "y": 0.91,
+          "width": 0.650196,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B What about you? What is important to you when you move into a new house or apartment?",
+            "confidence": 0.9073
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B What about you? What is important to you when you move into a new house or apartment?",
+            "confidence": 0.9578
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0045",
+        "type": "label",
+        "content": "36",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.056863,
+          "y": 0.941515,
+          "width": 0.017255,
+          "height": 0.009091
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "36",
+            "confidence": 0.5239
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "36",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "Vocabulary Things in a home",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.101333,
+          "y": 0.131891,
+          "width": 0.418667,
+          "height": 0.02576
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8885
+      },
+      {
+        "word": "bed",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.202,
+          "y": 0.196291,
+          "width": 0.034,
+          "height": 0.017002
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.6957
+      },
+      {
+        "word": "bathtub",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.116,
+          "y": 0.197321,
+          "width": 0.06,
+          "height": 0.015456
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8148
+      },
+      {
+        "word": "coffee table",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.262,
+          "y": 0.198351,
+          "width": 0.083333,
+          "height": 0.01391
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8463
+      },
+      {
+        "word": "bathtub bed coffee table refrigerator",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.120392,
+          "y": 0.199394,
+          "width": 0.331373,
+          "height": 0.01303
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.96
+      },
+      {
+        "word": "bathroom",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.116667,
+          "y": 0.391036,
+          "width": 0.077333,
+          "height": 0.012365
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8865
+      },
+      {
+        "word": "bedroom",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.537333,
+          "y": 0.391551,
+          "width": 0.073333,
+          "height": 0.01391
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8266
+      },
+      {
+        "word": "armchairs",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.836,
+          "y": 0.504379,
+          "width": 0.076667,
+          "height": 0.013395
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8348
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "selection_exercise",
+        "instruction": "Label the pictures with the correct words. Then listen and check your answers.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0003"
+        ],
+        "confidence": 0.9593
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "exercise",
+        "instruction": "Which of the things in Part A do you have in your home? Tell your partner.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0027"
+        ],
+        "confidence": 0.9559
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen to the conversation. Beth has a new apartment. Which room does Lori like?",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0029"
+        ],
+        "confidence": 0.958
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "a. curtains",
+          "c. shower",
+          "c. closet",
+          "b. dresser",
+          "b. toilet",
+          "a. sink",
+          "d.",
+          "bathroom",
+          "bedroom",
+          "— a airs: ee",
+          "b.cupboards"
+        ],
+        "position": {
+          "x": 0.09451,
+          "y": 0.218537,
+          "width": 0.840157,
+          "height": 0.24401899999999996
+        },
+        "textElementIds": [
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "b. shelves",
+          "armchairs",
+          "a. sofa",
+          "c. stove",
+          "d. dishwasher",
+          "living room",
+          "kitchen",
+          "PAIRWORK",
+          "B Which of the things in Part A do you have in your home? Tell your partner.",
+          "Language in context A new apartment",
+          "A Listen to the conversation. Beth has a new apartment. Which room does Lori like?"
+        ],
+        "position": {
+          "x": 0.089804,
+          "y": 0.452437,
+          "width": 0.842863,
+          "height": 0.26544100000000004
+        },
+        "textElementIds": [
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "LoriYournewplaceisnice.How",
+          "Lori Ireally likeyourkitchen.",
+          "Your new place is nice. How | really like your kitchen. Look at all the windows in your",
+          "living room!",
+          "many rooms are there? Beth Thanks. There aren’t many living room!",
+          "Beth Yeah, there's a lot of light in",
+          "cupboards, and there isn't",
+          "Beth There are four - a kitchen, a cupboards, and there isn’t Beth Yeah, there’s a lot of light in",
+          "here. But...there's also a lot",
+          "livingroom,abathroom,anda",
+          "living room, a bathroom, anda much space, but that’s OK. | here. But... there’s also a lot"
+        ],
+        "position": {
+          "x": 0.091333,
+          "y": 0.787316,
+          "width": 0.853373,
+          "height": 0.11058200000000007
+        },
+        "textElementIds": [
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "There's a lot of light\nVocabulary Things in a home\nA  Label the pictures with the correct words. Then listen and check your answers.\nbed\nbathtub\ncoffee table\nrefrigerator\na. curtains\nc. shower\nc. closet\nb. dresser\nb. toilet\na. sink\nd.\nbathroom\nbedroom\nb.cupboards\nb. shelves\narmchairs\na. sofa\nc. stove\nd. dishwasher\nliving room\nkitchen\nPAIRWORK\nWhich of the things in Part A do you have in your home? Tell your partner.\nLanguage in context Anew apartment\nA  Listen to the conversation. Beth has a new apartment. Which room does Lori like?\nLoriYournewplaceisnice.How\nLoriLookatallthewindowsinyour\nLori Ireally likeyourkitchen.\nmany rooms are there?\nliving room!\nBeth Thanks.There aren't many\nBethTherearefour-akitchen,a\nBeth Yeah, there's a lot of light in\ncupboards, and there isn't\nhere. But...there's also a lot\nlivingroom,abathroom,anda\nmuchspace,but that's OK.1\nbedroom.\nof noise!\nhardlyevercook.\nB What about you? What is important to you when you move into a new house or apartment?\n36\ndehkhodaedu.com",
+      "tesseract_psm3": "36\n\nThere’s a lot of light.\n\nVocabulary Things ina home\n\nA Label the pictures with the correct words. Then listen and check your answers.\n\nbathtub bed coffee table refrigerator\n\n~ 7} a. curtains\n\nc. closet ? -\n\nBhcdroon\n\n— a airs: ee\n; ' b. nl acai E ie hi\n\nB Which of the things in Part A do you have in your home? Tell your partner.\n\nLanguage in context A new apartment\n\nA Listen to the conversation. Beth has a new apartment. Which room does Lori like?\n\nYour new place is nice. How | really like your kitchen. Look at all the windows in your\n\nmany rooms are there? Beth Thanks. There aren’t many living room!\n\nBeth There are four - a kitchen, a cupboards, and there isn’t Beth Yeah, there’s a lot of light in\nliving room, a bathroom, anda much space, but that’s OK. | here. But... there’s also a lot\nbedroom. hardly ever cook. of noise!\n\nB What about you? What is important to you when you move into a new house or apartment?\n\ndehkhodaedu.com\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8633,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "6 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "lesson",
+    "headings": [
+      "There's a lot of light.",
+      "Vocabulary Things in a home",
+      "PAIRWORK"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "There's a lot of light.",
+        "confidence": 0.934,
+        "bbox": {
+          "x": 0.134902,
+          "y": 0.050909,
+          "width": 0.503922,
+          "height": 0.036667
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "There's a lot of light",
+            "confidence": 0.8996
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "There’s a lot of light.",
+            "confidence": 0.934
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Vocabulary Things in a home",
+        "confidence": 0.8885,
+        "bbox": {
+          "x": 0.101333,
+          "y": 0.131891,
+          "width": 0.418667,
+          "height": 0.02576
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Vocabulary Things in a home",
+            "confidence": 0.8885
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Vocabulary Things ina home",
+            "confidence": 0.5025
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "sentence",
+        "content": "A Label the pictures with the correct words. Then listen and check your answers.",
+        "confidence": 0.9593,
+        "bbox": {
+          "x": 0.10902,
+          "y": 0.169091,
+          "width": 0.587059,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A  Label the pictures with the correct words. Then listen and check your answers.",
+            "confidence": 0.9015
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Label the pictures with the correct words. Then listen and check your answers.",
+            "confidence": 0.9593
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "bed",
+        "confidence": 0.6957,
+        "bbox": {
+          "x": 0.202,
+          "y": 0.196291,
+          "width": 0.034,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "bathtub",
+        "confidence": 0.8148,
+        "bbox": {
+          "x": 0.116,
+          "y": 0.197321,
+          "width": 0.06,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "coffee table",
+        "confidence": 0.8463,
+        "bbox": {
+          "x": 0.262,
+          "y": 0.198351,
+          "width": 0.083333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "bathtub bed coffee table refrigerator",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.120392,
+          "y": 0.199394,
+          "width": 0.331373,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "refrigerator",
+            "confidence": 0.8758
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "bathtub bed coffee table refrigerator",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "a. curtains",
+        "confidence": 0.8756,
+        "bbox": {
+          "x": 0.704,
+          "y": 0.238537,
+          "width": 0.073333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "a. curtains",
+            "confidence": 0.8756
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "~ 7} a. curtains",
+            "confidence": 0.6325
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "c. shower",
+        "confidence": 0.8574,
+        "bbox": {
+          "x": 0.318,
+          "y": 0.251932,
+          "width": 0.065333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "c. closet",
+        "confidence": 0.8947,
+        "bbox": {
+          "x": 0.542,
+          "y": 0.259145,
+          "width": 0.06,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "c. closet",
+            "confidence": 0.8947
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "c. closet ? -",
+            "confidence": 0.6075
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "b. dresser",
+        "confidence": 0.888,
+        "bbox": {
+          "x": 0.844,
+          "y": 0.278722,
+          "width": 0.070667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "b. toilet",
+        "confidence": 0.8275,
+        "bbox": {
+          "x": 0.180667,
+          "y": 0.290572,
+          "width": 0.058,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "a. sink",
+        "confidence": 0.8394,
+        "bbox": {
+          "x": 0.391333,
+          "y": 0.302937,
+          "width": 0.05,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "d.",
+        "confidence": 0.5948,
+        "bbox": {
+          "x": 0.208,
+          "y": 0.38949,
+          "width": 0.010667,
+          "height": 0.009789
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "bathroom",
+        "confidence": 0.8865,
+        "bbox": {
+          "x": 0.116667,
+          "y": 0.391036,
+          "width": 0.077333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "bedroom",
+        "confidence": 0.8266,
+        "bbox": {
+          "x": 0.537333,
+          "y": 0.391551,
+          "width": 0.073333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Bhcdroon",
+            "confidence": 0
+          },
+          {
+            "engine": "rapidocr",
+            "content": "bedroom",
+            "confidence": 0.8266
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "a airs: ee",
+        "confidence": 0.3225,
+        "bbox": {
+          "x": 0.11451,
+          "y": 0.413636,
+          "width": 0.362745,
+          "height": 0.01697
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "— a airs: ee",
+            "confidence": 0.3225
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "; ' b. nl acai E ie hi",
+            "confidence": 0.2375
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "b. cupboards",
+        "confidence": 0.885,
+        "bbox": {
+          "x": 0.26,
+          "y": 0.430706,
+          "width": 0.086667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "b. shelves",
+        "confidence": 0.7871,
+        "bbox": {
+          "x": 0.666,
+          "y": 0.472437,
+          "width": 0.068667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "armchairs",
+        "confidence": 0.8348,
+        "bbox": {
+          "x": 0.836,
+          "y": 0.504379,
+          "width": 0.076667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "a. sofa",
+        "confidence": 0.8337,
+        "bbox": {
+          "x": 0.564,
+          "y": 0.523442,
+          "width": 0.049333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "c. stove",
+        "confidence": 0.7543,
+        "bbox": {
+          "x": 0.310667,
+          "y": 0.526533,
+          "width": 0.052667,
+          "height": 0.010819
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "d. dishwasher",
+        "confidence": 0.8665,
+        "bbox": {
+          "x": 0.272,
+          "y": 0.569294,
+          "width": 0.094667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "living room",
+        "confidence": 0.787,
+        "bbox": {
+          "x": 0.533333,
+          "y": 0.582174,
+          "width": 0.093333,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "kitchen",
+        "confidence": 0.8674,
+        "bbox": {
+          "x": 0.116667,
+          "y": 0.583205,
+          "width": 0.062667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "heading",
+        "content": "PAIRWORK",
+        "confidence": 0.8562,
+        "bbox": {
+          "x": 0.132,
+          "y": 0.612571,
+          "width": 0.078,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "sentence",
+        "content": "B Which of the things in Part A do you have in your home? Tell your partner.",
+        "confidence": 0.9559,
+        "bbox": {
+          "x": 0.11098,
+          "y": 0.614545,
+          "width": 0.612157,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Which of the things in Part A do you have in your home? Tell your partner.",
+            "confidence": 0.8684
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Which of the things in Part A do you have in your home? Tell your partner.",
+            "confidence": 0.9559
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "paragraph",
+        "content": "Language in context A new apartment",
+        "confidence": 0.9467,
+        "bbox": {
+          "x": 0.112157,
+          "y": 0.649394,
+          "width": 0.555294,
+          "height": 0.022121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Language in context Anew apartment",
+            "confidence": 0.8935
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Language in context A new apartment",
+            "confidence": 0.9467
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "sentence",
+        "content": "A Listen to the conversation. Beth has a new apartment. Which room does Lori like?",
+        "confidence": 0.958,
+        "bbox": {
+          "x": 0.109804,
+          "y": 0.684848,
+          "width": 0.609804,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A  Listen to the conversation. Beth has a new apartment. Which room does Lori like?",
+            "confidence": 0.9363
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Listen to the conversation. Beth has a new apartment. Which room does Lori like?",
+            "confidence": 0.958
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "Lori Yournewplaceisnice. How",
+        "confidence": 0.9288,
+        "bbox": {
+          "x": 0.111333,
+          "y": 0.807316,
+          "width": 0.228,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "Lori Ireally likeyourkitchen.",
+        "confidence": 0.8741,
+        "bbox": {
+          "x": 0.39,
+          "y": 0.808861,
+          "width": 0.207333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "sentence",
+        "content": "Your new place is nice. How | really like your kitchen. Look at all the windows in your",
+        "confidence": 0.9478,
+        "bbox": {
+          "x": 0.152157,
+          "y": 0.810303,
+          "width": 0.772549,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "LoriLookatallthewindowsinyour",
+            "confidence": 0.9318
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Your new place is nice. How | really like your kitchen. Look at all the windows in your",
+            "confidence": 0.9478
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "living room!",
+        "confidence": 0.8758,
+        "bbox": {
+          "x": 0.714667,
+          "y": 0.825863,
+          "width": 0.086667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "sentence",
+        "content": "many rooms are there? Beth Thanks. There aren't many living room!",
+        "confidence": 0.9545,
+        "bbox": {
+          "x": 0.153333,
+          "y": 0.827879,
+          "width": 0.643922,
+          "height": 0.015455
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "many rooms are there?",
+            "confidence": 0.8895
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "many rooms are there? Beth Thanks. There aren’t many living room!",
+            "confidence": 0.9545
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Beth Thanks.There aren't many",
+            "confidence": 0.9259
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "paragraph",
+        "content": "Beth Yeah, there's a lot of light in",
+        "confidence": 0.8818,
+        "bbox": {
+          "x": 0.674667,
+          "y": 0.846471,
+          "width": 0.226,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "cupboards, and there isn't",
+        "confidence": 0.9148,
+        "bbox": {
+          "x": 0.432,
+          "y": 0.848016,
+          "width": 0.18,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "paragraph",
+        "content": "Beth There are four - a kitchen, a cupboards, and there isn't Beth Yeah, there's a lot of light in",
+        "confidence": 0.9365,
+        "bbox": {
+          "x": 0.113725,
+          "y": 0.848182,
+          "width": 0.786275,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "BethTherearefour-akitchen,a",
+            "confidence": 0.9035
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Beth There are four - a kitchen, a cupboards, and there isn’t Beth Yeah, there’s a lot of light in",
+            "confidence": 0.9365
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "here. But... there's also a lot",
+        "confidence": 0.8714,
+        "bbox": {
+          "x": 0.715333,
+          "y": 0.863988,
+          "width": 0.198667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "livingroom, abathroom, anda",
+        "confidence": 0.9144,
+        "bbox": {
+          "x": 0.151333,
+          "y": 0.864503,
+          "width": 0.21,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "sentence",
+        "content": "living room, a bathroom, anda much space, but that's OK. | here. But... there's also a lot",
+        "confidence": 0.9324,
+        "bbox": {
+          "x": 0.153333,
+          "y": 0.865758,
+          "width": 0.758824,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "muchspace,but that's OK.1",
+            "confidence": 0.8415
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "living room, a bathroom, anda much space, but that’s OK. | here. But... there’s also a lot",
+            "confidence": 0.9324
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "label",
+        "content": "bedroom.",
+        "confidence": 0.8397,
+        "bbox": {
+          "x": 0.15,
+          "y": 0.880474,
+          "width": 0.071333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "label",
+        "content": "of noise!",
+        "confidence": 0.8478,
+        "bbox": {
+          "x": 0.715333,
+          "y": 0.881504,
+          "width": 0.062667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "sentence",
+        "content": "bedroom. hardly ever cook. of noise!",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.153725,
+          "y": 0.88303,
+          "width": 0.620392,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "hardlyevercook.",
+            "confidence": 0.9037
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "bedroom. hardly ever cook. of noise!",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "sentence",
+        "content": "B What about you? What is important to you when you move into a new house or apartment?",
+        "confidence": 0.9578,
+        "bbox": {
+          "x": 0.112549,
+          "y": 0.91,
+          "width": 0.650196,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B What about you? What is important to you when you move into a new house or apartment?",
+            "confidence": 0.9073
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B What about you? What is important to you when you move into a new house or apartment?",
+            "confidence": 0.9578
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0045",
+        "type": "audio_track",
+        "content": "36",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.056863,
+          "y": 0.941515,
+          "width": 0.017255,
+          "height": 0.009091
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "36",
+            "confidence": 0.5239
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "36",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "There's a lot of light.",
+      "Vocabulary Things in a home",
+      "A Label the pictures with the correct words. Then listen and check your answers.",
+      "bed",
+      "bathtub",
+      "coffee table",
+      "bathtub bed coffee table refrigerator",
+      "a. curtains",
+      "c. shower",
+      "c. closet",
+      "b. dresser",
+      "b. toilet",
+      "a. sink",
+      "d.",
+      "bathroom",
+      "bedroom",
+      "a airs: ee",
+      "b. cupboards",
+      "b. shelves",
+      "armchairs",
+      "a. sofa",
+      "c. stove",
+      "d. dishwasher",
+      "living room",
+      "kitchen",
+      "PAIRWORK",
+      "B Which of the things in Part A do you have in your home? Tell your partner.",
+      "Language in context A new apartment",
+      "A Listen to the conversation. Beth has a new apartment. Which room does Lori like?",
+      "Lori Yournewplaceisnice. How",
+      "Lori Ireally likeyourkitchen.",
+      "Your new place is nice. How | really like your kitchen. Look at all the windows in your",
+      "living room!",
+      "many rooms are there? Beth Thanks. There aren't many living room!",
+      "Beth Yeah, there's a lot of light in",
+      "cupboards, and there isn't",
+      "Beth There are four - a kitchen, a cupboards, and there isn't Beth Yeah, there's a lot of light in",
+      "here. But... there's also a lot",
+      "livingroom, abathroom, anda",
+      "living room, a bathroom, anda much space, but that's OK. | here. But... there's also a lot",
+      "bedroom.",
+      "of noise!",
+      "bedroom. hardly ever cook. of noise!",
+      "B What about you? What is important to you when you move into a new house or apartment?"
+    ],
+    "paragraphs": [
+      "Language in context A new apartment",
+      "Beth Yeah, there's a lot of light in",
+      "Beth There are four - a kitchen, a cupboards, and there isn't Beth Yeah, there's a lot of light in"
+    ],
+    "sentences": [
+      "There's a lot of light",
+      "Vocabulary Things in a home A Label the pictures with the correct words",
+      "Then listen and check your answers",
+      "bed bathtub coffee table bathtub bed coffee table refrigerator a",
+      "curtains c",
+      "shower c",
+      "closet b",
+      "dresser b",
+      "toilet a",
+      "sink d",
+      "bathroom bedroom a airs: ee b",
+      "cupboards b",
+      "shelves armchairs a",
+      "sofa c",
+      "stove d",
+      "dishwasher living room kitchen PAIRWORK B Which of the things in Part A do you have in your home",
+      "Tell your partner",
+      "Language in context A new apartment A Listen to the conversation",
+      "Beth has a new apartment",
+      "Which room does Lori like",
+      "Lori Yournewplaceisnice",
+      "How Lori Ireally likeyourkitchen",
+      "Your new place is nice",
+      "How | really like your kitchen",
+      "Look at all the windows in your living room",
+      "many rooms are there",
+      "Beth Thanks",
+      "There aren't many living room",
+      "Beth Yeah, there's a lot of light in cupboards, and there isn't Beth There are four - a kitchen, a cupboards, and there isn't Beth Yeah, there's a lot of light in here",
+      "But",
+      "there's also a lot livingroom, abathroom, anda living room, a bathroom, anda much space, but that's OK",
+      "| here",
+      "But",
+      "there's also a lot bedroom",
+      "of noise",
+      "bedroom",
+      "hardly ever cook",
+      "of noise",
+      "B What about you",
+      "What is important to you when you move into a new house or apartment"
+    ],
+    "vocabulary": [
+      {
+        "word": "bed",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "bathtub",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "coffee table",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "refrigerator",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "curtains",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "shower",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "closet",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "dresser",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "toilet",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "sink",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "bathroom",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "bedroom",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "cupboards",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "shelves",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "armchairs",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "sofa",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "stove",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "dishwasher",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "living room",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "kitchen",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      }
+    ],
+    "grammar": [],
+    "dialogues": [],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Label the pictures with the correct words. Then listen and check your answers.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "exercise",
+        "instruction": "Which of the things in Part A do you have in your home? Tell your partner.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen to the conversation. Beth has a new apartment. Which room does Lori like?",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "a. curtains",
+          "c. shower",
+          "c. closet",
+          "b. dresser",
+          "b. toilet",
+          "a. sink",
+          "d.",
+          "bathroom",
+          "bedroom",
+          "a airs: ee",
+          "b. cupboards"
+        ],
+        "position": {
+          "x": 0.09451,
+          "y": 0.218537,
+          "width": 0.840157,
+          "height": 0.24401899999999996
+        },
+        "textElementIds": [
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "b. shelves",
+          "armchairs",
+          "a. sofa",
+          "c. stove",
+          "d. dishwasher",
+          "living room",
+          "kitchen",
+          "PAIRWORK",
+          "B Which of the things in Part A do you have in your home? Tell your partner.",
+          "Language in context A new apartment",
+          "A Listen to the conversation. Beth has a new apartment. Which room does Lori like?"
+        ],
+        "position": {
+          "x": 0.089804,
+          "y": 0.452437,
+          "width": 0.842863,
+          "height": 0.26544100000000004
+        },
+        "textElementIds": [
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Lori Yournewplaceisnice. How",
+          "Lori Ireally likeyourkitchen.",
+          "Your new place is nice. How | really like your kitchen. Look at all the windows in your",
+          "living room!",
+          "many rooms are there? Beth Thanks. There aren't many living room!",
+          "Beth Yeah, there's a lot of light in",
+          "cupboards, and there isn't",
+          "Beth There are four - a kitchen, a cupboards, and there isn't Beth Yeah, there's a lot of light in",
+          "here. But... there's also a lot",
+          "livingroom, abathroom, anda",
+          "living room, a bathroom, anda much space, but that's OK. | here. But... there's also a lot"
+        ],
+        "position": {
+          "x": 0.091333,
+          "y": 0.787316,
+          "width": 0.853373,
+          "height": 0.11058200000000007
+        },
+        "textElementIds": [
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040"
+        ]
+      }
+    ],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "lesson",
+    "title": "There's a lot of light.",
+    "learningObjectives": [],
+    "targetVocabulary": [
+      {
+        "word": "bed",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "bathtub",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "coffee table",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "refrigerator",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "curtains",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "shower",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "closet",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "dresser",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "toilet",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "sink",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "bathroom",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "bedroom",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "cupboards",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "shelves",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "armchairs",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "sofa",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "stove",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "dishwasher",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "living room",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "kitchen",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Label the pictures with the correct words. Then listen and check your answers.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "exercise",
+        "instruction": "Which of the things in Part A do you have in your home? Tell your partner.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen to the conversation. Beth has a new apartment. Which room does Lori like?",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "6 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ],
+    "verifiedAgainstPdf": true,
+    "repairStats": {},
+    "averageOcrConfidence": 0.8633,
+    "verificationMethod": "independent_ocr_crosscheck"
+  },
+  "metadata": {
+    "book": "Four Corners 2 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc2_v1",
+    "verificationMethod": "independent_ocr_crosscheck",
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

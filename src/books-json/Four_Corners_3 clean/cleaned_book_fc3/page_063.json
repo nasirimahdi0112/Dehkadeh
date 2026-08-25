@@ -1,0 +1,2425 @@
+{
+  "pageNumber": 56,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 63,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 3_Part3.pdf",
+    "pdfLocalPageNumber": 16,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Can I take a message?",
+        "confidence": 0.8789,
+        "bbox": {
+          "x": 0.148667,
+          "y": 0.053581,
+          "width": 0.568,
+          "height": 0.03967
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "§) Interactions Phone messages",
+        "confidence": 0.905,
+        "bbox": {
+          "x": 0.073725,
+          "y": 0.120606,
+          "width": 0.469804,
+          "height": 0.023939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "§) Interactions Phone messages",
+            "confidence": 0.905
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Interactions Phone messages",
+            "confidence": 0.8559
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "sentence",
+        "content": "A How many phone calls do you make in a week? Do you leave many messages?",
+        "confidence": 0.925,
+        "bbox": {
+          "x": 0.119608,
+          "y": 0.159091,
+          "width": 0.564706,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A How many phone calls do you make in a week? Do you leave many messages?",
+            "confidence": 0.9054
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A How many phone calls do you make in a week? Do you leave many messages?",
+            "confidence": 0.925
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "sentence",
+        "content": "B Listen to the conversation. What message does Rex leave for Jake?",
+        "confidence": 0.9236,
+        "bbox": {
+          "x": 0.116667,
+          "y": 0.184441,
+          "width": 0.515333,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B  Listen to the conversation. What message does Rex leave for Jake?",
+            "confidence": 0.9236
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B {Listen to the conversation. What message does Rex leave for Jake?",
+            "confidence": 0.8742
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "Then practice the conversation.",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.143137,
+          "y": 0.205758,
+          "width": 0.220392,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Then practice the conversation.",
+            "confidence": 0.9114
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Then practice the conversation.",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "Ben",
+        "confidence": 0.7277,
+        "bbox": {
+          "x": 0.141333,
+          "y": 0.448223,
+          "width": 0.034,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Hello?",
+        "confidence": 0.8321,
+        "bbox": {
+          "x": 0.191333,
+          "y": 0.448223,
+          "width": 0.046,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Hello?",
+            "confidence": 0.8321
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ben Hello?",
+            "confidence": 0.435
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "Rex",
+        "confidence": 0.7469,
+        "bbox": {
+          "x": 0.142667,
+          "y": 0.469861,
+          "width": 0.030667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0009",
+        "type": "sentence",
+        "content": "Hi. Can I please speak to Jake?",
+        "confidence": 0.8908,
+        "bbox": {
+          "x": 0.192667,
+          "y": 0.469861,
+          "width": 0.208667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Hi. Can I please speak to Jake?",
+            "confidence": 0.8908
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Rex Hi. Can | please speak to Jake?",
+            "confidence": 0.8237
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "Ben",
+        "confidence": 0.6725,
+        "bbox": {
+          "x": 0.142,
+          "y": 0.490469,
+          "width": 0.033333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0011",
+        "type": "paragraph",
+        "content": "Ben Um, sorry. Jake’s not here right now. | think he might be at the gym. Can | take a message?",
+        "confidence": 0.901,
+        "bbox": {
+          "x": 0.145098,
+          "y": 0.491515,
+          "width": 0.659216,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Um, sorry. Jake's not here right now. I think he might be at the gym. Can I take a message?",
+            "confidence": 0.8837
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ben Um, sorry. Jake’s not here right now. | think he might be at the gym. Can | take a message?",
+            "confidence": 0.901
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "Rex",
+        "confidence": 0.7475,
+        "bbox": {
+          "x": 0.142667,
+          "y": 0.512107,
+          "width": 0.030667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0013",
+        "type": "sentence",
+        "content": "Rex Uh, sure. This is Rex Hanson. I’m calling about our class trip. Please tell him that we’re",
+        "confidence": 0.9167,
+        "bbox": {
+          "x": 0.14549,
+          "y": 0.512727,
+          "width": 0.630588,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Uh, sure. This is Rex Hanson. I'm calling about our class trip. Please tell him that we're",
+            "confidence": 0.8997
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Rex Uh, sure. This is Rex Hanson. I’m calling about our class trip. Please tell him that we’re",
+            "confidence": 0.9167
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "leaving tomorrow at 8:00, not 9:00.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.19451,
+          "y": 0.530909,
+          "width": 0.23451,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "leaving tomorrow at 8:00, not 9:00.",
+            "confidence": 0.8868
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "leaving tomorrow at 8:00, not 9:00.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "Ben",
+        "confidence": 0.7495,
+        "bbox": {
+          "x": 0.143333,
+          "y": 0.550747,
+          "width": 0.031333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "OK, got it. I'll give him the message.",
+        "confidence": 0.8827,
+        "bbox": {
+          "x": 0.192667,
+          "y": 0.551262,
+          "width": 0.242,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "OK, got it. I'll give him the message.",
+            "confidence": 0.8827
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ben OK, got it. I'll give him the message.",
+            "confidence": 0.8211
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Rex",
+        "confidence": 0.7363,
+        "bbox": {
+          "x": 0.142667,
+          "y": 0.57084,
+          "width": 0.032667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "Great. Thanks a lot. Bye.",
+        "confidence": 0.8973,
+        "bbox": {
+          "x": 0.192,
+          "y": 0.571355,
+          "width": 0.166,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Great. Thanks a lot. Bye.",
+            "confidence": 0.8973
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Rex Great. Thanks a lot. Bye.",
+            "confidence": 0.8183
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "Good-bye.",
+        "confidence": 0.8991,
+        "bbox": {
+          "x": 0.191333,
+          "y": 0.591448,
+          "width": 0.074,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Good-bye.",
+            "confidence": 0.8991
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ben Good-bye.",
+            "confidence": 0.65
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "Ben",
+        "confidence": 0.6975,
+        "bbox": {
+          "x": 0.142667,
+          "y": 0.592478,
+          "width": 0.033333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0021",
+        "type": "instruction",
+        "content": "Read the expressions below.Complete each box witha similar expression from",
+        "confidence": 0.9114,
+        "bbox": {
+          "x": 0.138,
+          "y": 0.619268,
+          "width": 0.584,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Read the expressions below.Complete each box witha similar expression from",
+            "confidence": 0.9114
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "C £} Read the expressions below. Complete each box with a similar expression from",
+            "confidence": 0.8843
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "sentence",
+        "content": "the conversation. Then listen and check your answers.",
+        "confidence": 0.9587,
+        "bbox": {
+          "x": 0.145882,
+          "y": 0.64,
+          "width": 0.379608,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "the conversation.Then listen and check your answers.",
+            "confidence": 0.9195
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "the conversation. Then listen and check your answers.",
+            "confidence": 0.9587
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "Leaving a message",
+        "confidence": 0.9182,
+        "bbox": {
+          "x": 0.558667,
+          "y": 0.666667,
+          "width": 0.151333,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "paragraph",
+        "content": "Offering to take a message Leaving a message",
+        "confidence": 0.9587,
+        "bbox": {
+          "x": 0.131373,
+          "y": 0.669697,
+          "width": 0.576471,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Offering to take a message",
+            "confidence": 0.91
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Offering to take a message Leaving a message",
+            "confidence": 0.9587
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "Can youtell...that...?",
+        "confidence": 0.9016,
+        "bbox": {
+          "x": 0.594,
+          "y": 0.729521,
+          "width": 0.167333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "Doyouwantto leavea message?",
+        "confidence": 0.8966,
+        "bbox": {
+          "x": 0.168,
+          "y": 0.731582,
+          "width": 0.224667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "Could you let...know that...",
+        "confidence": 0.8899,
+        "bbox": {
+          "x": 0.593333,
+          "y": 0.763009,
+          "width": 0.215333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "sentence",
+        "content": "Would you like to leave a message?",
+        "confidence": 0.8937,
+        "bbox": {
+          "x": 0.166667,
+          "y": 0.764039,
+          "width": 0.242,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "sentence",
+        "content": "D Have conversations like the one in Part B. Use these ideas.",
+        "confidence": 0.9517,
+        "bbox": {
+          "x": 0.124314,
+          "y": 0.815758,
+          "width": 0.514118,
+          "height": 0.010303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAIRWORK",
+            "confidence": 0.8723
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "D Have conversations like the one in Part B. Use these ideas.",
+            "confidence": 0.9517
+          },
+          {
+            "engine": "rapidocr",
+            "content": "HaveconversationsliketheoneinPartB.Usetheseideas.",
+            "confidence": 0.9521
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "paragraph",
+        "content": "You’re calling your friend Gary at work, but he’s in",
+        "confidence": 0.949,
+        "bbox": {
+          "x": 0.574118,
+          "y": 0.852121,
+          "width": 0.336863,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "You're callingyour friend Gary at work, but he's in",
+            "confidence": 0.8948
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "You’re calling your friend Gary at work, but he’s in",
+            "confidence": 0.949
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "paragraph",
+        "content": "You're calling your friend Carrie at home, but she's at",
+        "confidence": 0.9019,
+        "bbox": {
+          "x": 0.141333,
+          "y": 0.852138,
+          "width": 0.344667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "You're calling your friend Carrie at home, but she's at",
+            "confidence": 0.9019
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "You're calling your friend Carrie at home, but she’s at",
+            "confidence": 0.877
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "soccer practice.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.142745,
+          "y": 0.870909,
+          "width": 0.099608,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "soccer practice.",
+            "confidence": 0.8533
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "soccer practice.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "a meeting.",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.574902,
+          "y": 0.870909,
+          "width": 0.071373,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "a meeting.",
+            "confidence": 0.8295
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "a meeting.",
+            "confidence": 0.93
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "sentence",
+        "content": "She needs to bring her laptop to class.",
+        "confidence": 0.8882,
+        "bbox": {
+          "x": 0.141333,
+          "y": 0.889748,
+          "width": 0.247333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "sentence",
+        "content": "She needs to bring her laptop to class. The birthday party starts at 7:00, not 8:00.",
+        "confidence": 0.9581,
+        "bbox": {
+          "x": 0.143529,
+          "y": 0.890606,
+          "width": 0.714118,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "The birthday partystarts at 7:00, not 8:00.",
+            "confidence": 0.8938
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "She needs to bring her laptop to class. The birthday party starts at 7:00, not 8:00.",
+            "confidence": 0.9581
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "56",
+        "confidence": 0.6664,
+        "bbox": {
+          "x": 0.059333,
+          "y": 0.954147,
+          "width": 0.024667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Hello?",
+            "confidence": 0.8321,
+            "bbox": {
+              "x": 0.191333,
+              "y": 0.448223,
+              "width": 0.046,
+              "height": 0.01288
+            },
+            "sourceElementId": "text_0007",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Hi. Can I please speak to Jake?",
+            "confidence": 0.8908,
+            "bbox": {
+              "x": 0.192667,
+              "y": 0.469861,
+              "width": 0.208667,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0009",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "OK, got it. I'll give him the message.",
+            "confidence": 0.8827,
+            "bbox": {
+              "x": 0.192667,
+              "y": 0.551262,
+              "width": 0.242,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0016",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Can youtell...that...?",
+            "confidence": 0.9016,
+            "bbox": {
+              "x": 0.594,
+              "y": 0.729521,
+              "width": 0.167333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0025",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Doyouwantto leavea message?",
+            "confidence": 0.8966,
+            "bbox": {
+              "x": 0.168,
+              "y": 0.731582,
+              "width": 0.224667,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0026",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "She needs to bring her laptop to class.",
+            "confidence": 0.8882,
+            "bbox": {
+              "x": 0.141333,
+              "y": 0.889748,
+              "width": 0.247333,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0034",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "She needs to bring her laptop to class. The birthday party starts at 7:00, not 8:00.",
+            "confidence": 0.9581,
+            "bbox": {
+              "x": 0.143529,
+              "y": 0.890606,
+              "width": 0.714118,
+              "height": 0.014242
+            },
+            "sourceElementId": "text_0035",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "B",
+        "type": "listening_activity",
+        "instruction": "Listen to the conversation. What message does Rex leave for Jake?",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0004"
+        ],
+        "confidence": 0.9236
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Ben",
+          "Hello?",
+          "Rex",
+          "Hi. Can I please speak to Jake?",
+          "Ben",
+          "Ben Um, sorry. Jake’s not here right now. | think he might be at the gym. Can | take a message?",
+          "Rex",
+          "Rex Uh, sure. This is Rex Hanson. I’m calling about our class trip. Please tell him that we’re",
+          "leaving tomorrow at 8:00, not 9:00.",
+          "Ben",
+          "OK, got it. I'll give him the message.",
+          "Rex",
+          "Great. Thanks a lot. Bye.",
+          "Good-bye.",
+          "Ben",
+          "Read the expressions below.Complete each box witha similar expression from",
+          "the conversation. Then listen and check your answers."
+        ],
+        "position": {
+          "x": 0.11800000000000001,
+          "y": 0.42822299999999996,
+          "width": 0.706314,
+          "height": 0.24329200000000012
+        },
+        "textElementIds": [
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Leaving a message",
+          "Offering to take a message Leaving a message",
+          "Can youtell...that...?",
+          "Doyouwantto leavea message?",
+          "Could you let...know that...",
+          "Would you like to leave a message?",
+          "D Have conversations like the one in Part B. Use these ideas.",
+          "You’re calling your friend Gary at work, but he’s in",
+          "You're calling your friend Carrie at home, but she's at",
+          "soccer practice.",
+          "a meeting."
+        ],
+        "position": {
+          "x": 0.10431399999999999,
+          "y": 0.646667,
+          "width": 0.826667,
+          "height": 0.2557570000000001
+        },
+        "textElementIds": [
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "Can I take a message?\nInteractions Phone messages\nA How many phone calls do you make in a week? Do you leave many messages?\nB  Listen to the conversation. What message does Rex leave for Jake?\nThen practice the conversation.\nBen\nHello?\nRex\nHi. Can I please speak to Jake?\nBen\nUm, sorry. Jake's not here right now. I think he might be at the gym. Can I take a message?\nUh, sure. This is Rex Hanson. I'm calling about our class trip. Please tell him that we're\nRex\nleaving tomorrow at 8:00, not 9:00.\nBen\nOK, got it. I'll give him the message.\nRex\nGreat. Thanks a lot. Bye.\nGood-bye.\nBen\nRead the expressions below.Complete each box witha similar expression from\nthe conversation.Then listen and check your answers.\nLeaving a message\nOffering to take a message\nCan youtell...that...?\nDoyouwantto leavea message?\nCould you let...know that...\nWould you like to leave a message?\nPAIRWORK\nHaveconversationsliketheoneinPartB.Usetheseideas.\nYou're callingyour friend Gary at work, but he's in\nYou're calling your friend Carrie at home, but she's at\na meeting.\nsoccer practice.\nShe needs to bring her laptop to class.\nThe birthday partystarts at 7:00, not 8:00.\ndehkhodaedu.com\n56",
+      "tesseract_psm3": "§) Interactions Phone messages\n\nA How many phone calls do you make in a week? Do you leave many messages?\n\nB {Listen to the conversation. What message does Rex leave for Jake?\nThen practice the conversation.\n\nBen Hello?\nRex Hi. Can | please speak to Jake?\nBen Um, sorry. Jake’s not here right now. | think he might be at the gym. Can | take a message?\n\nRex Uh, sure. This is Rex Hanson. I’m calling about our class trip. Please tell him that we’re\nleaving tomorrow at 8:00, not 9:00.\n\nBen OK, got it. I'll give him the message.\nRex Great. Thanks a lot. Bye.\nBen Good-bye.\n\nC £} Read the expressions below. Complete each box with a similar expression from\nthe conversation. Then listen and check your answers.\n\nOffering to take a message Leaving a message\n\nD Have conversations like the one in Part B. Use these ideas.\n\nYou're calling your friend Carrie at home, but she’s at\nsoccer practice.\n\nYou’re calling your friend Gary at work, but he’s in\na meeting.\n\nShe needs to bring her laptop to class. The birthday party starts at 7:00, not 8:00.\n\n|\n\n56 dehkhodaedu.com\n\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [
+      {
+        "id": "text_0030",
+        "type": "text",
+        "content": "|",
+        "confidence": 0.81,
+        "bbox": {
+          "x": 0.55451,
+          "y": 0.841212,
+          "width": 0.001569,
+          "height": 0.034848
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "averageConfidence": 0.872,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "8 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "1 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "page",
+    "headings": [
+      "Can I take a message?",
+      "§) Interactions Phone messages"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Can I take a message?",
+        "confidence": 0.8789,
+        "bbox": {
+          "x": 0.148667,
+          "y": 0.053581,
+          "width": 0.568,
+          "height": 0.03967
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "§) Interactions Phone messages",
+        "confidence": 0.905,
+        "bbox": {
+          "x": 0.073725,
+          "y": 0.120606,
+          "width": 0.469804,
+          "height": 0.023939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "§) Interactions Phone messages",
+            "confidence": 0.905
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Interactions Phone messages",
+            "confidence": 0.8559
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "sentence",
+        "content": "A How many phone calls do you make in a week? Do you leave many messages?",
+        "confidence": 0.925,
+        "bbox": {
+          "x": 0.119608,
+          "y": 0.159091,
+          "width": 0.564706,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A How many phone calls do you make in a week? Do you leave many messages?",
+            "confidence": 0.9054
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A How many phone calls do you make in a week? Do you leave many messages?",
+            "confidence": 0.925
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "sentence",
+        "content": "B Listen to the conversation. What message does Rex leave for Jake?",
+        "confidence": 0.9236,
+        "bbox": {
+          "x": 0.116667,
+          "y": 0.184441,
+          "width": 0.515333,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B  Listen to the conversation. What message does Rex leave for Jake?",
+            "confidence": 0.9236
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B {Listen to the conversation. What message does Rex leave for Jake?",
+            "confidence": 0.8742
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "Then practice the conversation.",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.143137,
+          "y": 0.205758,
+          "width": 0.220392,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Then practice the conversation.",
+            "confidence": 0.9114
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Then practice the conversation.",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "Ben",
+        "confidence": 0.7277,
+        "bbox": {
+          "x": 0.141333,
+          "y": 0.448223,
+          "width": 0.034,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Hello?",
+        "confidence": 0.8321,
+        "bbox": {
+          "x": 0.191333,
+          "y": 0.448223,
+          "width": 0.046,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Hello?",
+            "confidence": 0.8321
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ben Hello?",
+            "confidence": 0.435
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "Rex",
+        "confidence": 0.7469,
+        "bbox": {
+          "x": 0.142667,
+          "y": 0.469861,
+          "width": 0.030667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0009",
+        "type": "sentence",
+        "content": "Hi. Can I please speak to Jake?",
+        "confidence": 0.8908,
+        "bbox": {
+          "x": 0.192667,
+          "y": 0.469861,
+          "width": 0.208667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Hi. Can I please speak to Jake?",
+            "confidence": 0.8908
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Rex Hi. Can | please speak to Jake?",
+            "confidence": 0.8237
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "Ben",
+        "confidence": 0.6725,
+        "bbox": {
+          "x": 0.142,
+          "y": 0.490469,
+          "width": 0.033333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0011",
+        "type": "paragraph",
+        "content": "Ben Um, sorry. Jake's not here right now. | think he might be at the gym. Can | take a message?",
+        "confidence": 0.901,
+        "bbox": {
+          "x": 0.145098,
+          "y": 0.491515,
+          "width": 0.659216,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Um, sorry. Jake's not here right now. I think he might be at the gym. Can I take a message?",
+            "confidence": 0.8837
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ben Um, sorry. Jake’s not here right now. | think he might be at the gym. Can | take a message?",
+            "confidence": 0.901
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "Rex",
+        "confidence": 0.7475,
+        "bbox": {
+          "x": 0.142667,
+          "y": 0.512107,
+          "width": 0.030667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0013",
+        "type": "sentence",
+        "content": "Rex Uh, sure. This is Rex Hanson. I'm calling about our class trip. Please tell him that we're",
+        "confidence": 0.9167,
+        "bbox": {
+          "x": 0.14549,
+          "y": 0.512727,
+          "width": 0.630588,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Uh, sure. This is Rex Hanson. I'm calling about our class trip. Please tell him that we're",
+            "confidence": 0.8997
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Rex Uh, sure. This is Rex Hanson. I’m calling about our class trip. Please tell him that we’re",
+            "confidence": 0.9167
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "leaving tomorrow at 8:00, not 9:00.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.19451,
+          "y": 0.530909,
+          "width": 0.23451,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "leaving tomorrow at 8:00, not 9:00.",
+            "confidence": 0.8868
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "leaving tomorrow at 8:00, not 9:00.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "Ben",
+        "confidence": 0.7495,
+        "bbox": {
+          "x": 0.143333,
+          "y": 0.550747,
+          "width": 0.031333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "OK, got it. I'll give him the message.",
+        "confidence": 0.8827,
+        "bbox": {
+          "x": 0.192667,
+          "y": 0.551262,
+          "width": 0.242,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "OK, got it. I'll give him the message.",
+            "confidence": 0.8827
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ben OK, got it. I'll give him the message.",
+            "confidence": 0.8211
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Rex",
+        "confidence": 0.7363,
+        "bbox": {
+          "x": 0.142667,
+          "y": 0.57084,
+          "width": 0.032667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "Great. Thanks a lot. Bye.",
+        "confidence": 0.8973,
+        "bbox": {
+          "x": 0.192,
+          "y": 0.571355,
+          "width": 0.166,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Great. Thanks a lot. Bye.",
+            "confidence": 0.8973
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Rex Great. Thanks a lot. Bye.",
+            "confidence": 0.8183
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "Good-bye.",
+        "confidence": 0.8991,
+        "bbox": {
+          "x": 0.191333,
+          "y": 0.591448,
+          "width": 0.074,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Good-bye.",
+            "confidence": 0.8991
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ben Good-bye.",
+            "confidence": 0.65
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "Ben",
+        "confidence": 0.6975,
+        "bbox": {
+          "x": 0.142667,
+          "y": 0.592478,
+          "width": 0.033333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0021",
+        "type": "instruction",
+        "content": "Read the expressions below. Complete each box witha similar expression from",
+        "confidence": 0.9114,
+        "bbox": {
+          "x": 0.138,
+          "y": 0.619268,
+          "width": 0.584,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Read the expressions below.Complete each box witha similar expression from",
+            "confidence": 0.9114
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "C £} Read the expressions below. Complete each box with a similar expression from",
+            "confidence": 0.8843
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "sentence",
+        "content": "the conversation. Then listen and check your answers.",
+        "confidence": 0.9587,
+        "bbox": {
+          "x": 0.145882,
+          "y": 0.64,
+          "width": 0.379608,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "the conversation.Then listen and check your answers.",
+            "confidence": 0.9195
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "the conversation. Then listen and check your answers.",
+            "confidence": 0.9587
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "Leaving a message",
+        "confidence": 0.9182,
+        "bbox": {
+          "x": 0.558667,
+          "y": 0.666667,
+          "width": 0.151333,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "paragraph",
+        "content": "Offering to take a message Leaving a message",
+        "confidence": 0.9587,
+        "bbox": {
+          "x": 0.131373,
+          "y": 0.669697,
+          "width": 0.576471,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Offering to take a message",
+            "confidence": 0.91
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Offering to take a message Leaving a message",
+            "confidence": 0.9587
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "Can youtell... that...?",
+        "confidence": 0.9016,
+        "bbox": {
+          "x": 0.594,
+          "y": 0.729521,
+          "width": 0.167333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "Doyouwantto leavea message?",
+        "confidence": 0.8966,
+        "bbox": {
+          "x": 0.168,
+          "y": 0.731582,
+          "width": 0.224667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "Could you let... know that...",
+        "confidence": 0.8899,
+        "bbox": {
+          "x": 0.593333,
+          "y": 0.763009,
+          "width": 0.215333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "sentence",
+        "content": "Would you like to leave a message?",
+        "confidence": 0.8937,
+        "bbox": {
+          "x": 0.166667,
+          "y": 0.764039,
+          "width": 0.242,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "sentence",
+        "content": "D Have conversations like the one in Part B. Use these ideas.",
+        "confidence": 0.9517,
+        "bbox": {
+          "x": 0.124314,
+          "y": 0.815758,
+          "width": 0.514118,
+          "height": 0.010303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAIRWORK",
+            "confidence": 0.8723
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "D Have conversations like the one in Part B. Use these ideas.",
+            "confidence": 0.9517
+          },
+          {
+            "engine": "rapidocr",
+            "content": "HaveconversationsliketheoneinPartB.Usetheseideas.",
+            "confidence": 0.9521
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "paragraph",
+        "content": "You're calling your friend Gary at work, but he's in",
+        "confidence": 0.949,
+        "bbox": {
+          "x": 0.574118,
+          "y": 0.852121,
+          "width": 0.336863,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "You're callingyour friend Gary at work, but he's in",
+            "confidence": 0.8948
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "You’re calling your friend Gary at work, but he’s in",
+            "confidence": 0.949
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "paragraph",
+        "content": "You're calling your friend Carrie at home, but she's at",
+        "confidence": 0.9019,
+        "bbox": {
+          "x": 0.141333,
+          "y": 0.852138,
+          "width": 0.344667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "You're calling your friend Carrie at home, but she's at",
+            "confidence": 0.9019
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "You're calling your friend Carrie at home, but she’s at",
+            "confidence": 0.877
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "soccer practice.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.142745,
+          "y": 0.870909,
+          "width": 0.099608,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "soccer practice.",
+            "confidence": 0.8533
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "soccer practice.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "a meeting.",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.574902,
+          "y": 0.870909,
+          "width": 0.071373,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "a meeting.",
+            "confidence": 0.8295
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "a meeting.",
+            "confidence": 0.93
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "sentence",
+        "content": "She needs to bring her laptop to class.",
+        "confidence": 0.8882,
+        "bbox": {
+          "x": 0.141333,
+          "y": 0.889748,
+          "width": 0.247333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "sentence",
+        "content": "She needs to bring her laptop to class. The birthday party starts at 7:00, not 8:00.",
+        "confidence": 0.9581,
+        "bbox": {
+          "x": 0.143529,
+          "y": 0.890606,
+          "width": 0.714118,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "The birthday partystarts at 7:00, not 8:00.",
+            "confidence": 0.8938
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "She needs to bring her laptop to class. The birthday party starts at 7:00, not 8:00.",
+            "confidence": 0.9581
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "audio_track",
+        "content": "56",
+        "confidence": 0.6664,
+        "bbox": {
+          "x": 0.059333,
+          "y": 0.954147,
+          "width": 0.024667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Can I take a message?",
+      "§) Interactions Phone messages",
+      "A How many phone calls do you make in a week? Do you leave many messages?",
+      "B Listen to the conversation. What message does Rex leave for Jake?",
+      "Then practice the conversation.",
+      "Ben",
+      "Hello?",
+      "Rex",
+      "Hi. Can I please speak to Jake?",
+      "Ben",
+      "Ben Um, sorry. Jake's not here right now. | think he might be at the gym. Can | take a message?",
+      "Rex",
+      "Rex Uh, sure. This is Rex Hanson. I'm calling about our class trip. Please tell him that we're",
+      "leaving tomorrow at 8:00, not 9:00.",
+      "Ben",
+      "OK, got it. I'll give him the message.",
+      "Rex",
+      "Great. Thanks a lot. Bye.",
+      "Good-bye.",
+      "Ben",
+      "Read the expressions below. Complete each box witha similar expression from",
+      "the conversation. Then listen and check your answers.",
+      "Leaving a message",
+      "Offering to take a message Leaving a message",
+      "Can youtell... that...?",
+      "Doyouwantto leavea message?",
+      "Could you let... know that...",
+      "Would you like to leave a message?",
+      "D Have conversations like the one in Part B. Use these ideas.",
+      "You're calling your friend Gary at work, but he's in",
+      "You're calling your friend Carrie at home, but she's at",
+      "soccer practice.",
+      "a meeting.",
+      "She needs to bring her laptop to class.",
+      "She needs to bring her laptop to class. The birthday party starts at 7:00, not 8:00."
+    ],
+    "paragraphs": [
+      "Ben Um, sorry. Jake's not here right now. | think he might be at the gym. Can | take a message?",
+      "Offering to take a message Leaving a message",
+      "You're calling your friend Gary at work, but he's in",
+      "You're calling your friend Carrie at home, but she's at"
+    ],
+    "sentences": [
+      "Can I take a message",
+      "§) Interactions Phone messages A How many phone calls do you make in a week",
+      "Do you leave many messages",
+      "B Listen to the conversation",
+      "What message does Rex leave for Jake",
+      "Then practice the conversation",
+      "Ben Hello",
+      "Rex Hi",
+      "Can I please speak to Jake",
+      "Ben Ben Um, sorry",
+      "Jake's not here right now",
+      "| think he might be at the gym",
+      "Can | take a message",
+      "Rex Rex Uh, sure",
+      "This is Rex Hanson",
+      "I'm calling about our class trip",
+      "Please tell him that we're leaving tomorrow at 8:00, not 9:00",
+      "Ben OK, got it",
+      "I'll give him the message",
+      "Rex Great",
+      "Thanks a lot",
+      "Bye",
+      "Good-bye",
+      "Ben Read the expressions below",
+      "Complete each box witha similar expression from the conversation",
+      "Then listen and check your answers",
+      "Leaving a message Offering to take a message Leaving a message Can youtell",
+      "that",
+      "Doyouwantto leavea message",
+      "Could you let",
+      "know that",
+      "Would you like to leave a message",
+      "D Have conversations like the one in Part B",
+      "Use these ideas",
+      "You're calling your friend Gary at work, but he's in You're calling your friend Carrie at home, but she's at soccer practice",
+      "a meeting",
+      "She needs to bring her laptop to class",
+      "She needs to bring her laptop to class",
+      "The birthday party starts at 7:00, not 8:00"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Hello?",
+            "confidence": 0.8321,
+            "bbox": {
+              "x": 0.191333,
+              "y": 0.448223,
+              "width": 0.046,
+              "height": 0.01288
+            },
+            "sourceElementId": "text_0007"
+          },
+          {
+            "speaker": null,
+            "content": "Hi.",
+            "confidence": 0.8908,
+            "bbox": {
+              "x": 0.192667,
+              "y": 0.469861,
+              "width": 0.208667,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0009"
+          },
+          {
+            "speaker": null,
+            "content": "Can I",
+            "confidence": 0.8908,
+            "bbox": {
+              "x": 0.192667,
+              "y": 0.469861,
+              "width": 0.208667,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0009"
+          },
+          {
+            "speaker": null,
+            "content": "please speak to Jake?",
+            "confidence": 0.8908,
+            "bbox": {
+              "x": 0.192667,
+              "y": 0.469861,
+              "width": 0.208667,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0009"
+          },
+          {
+            "speaker": null,
+            "content": "OK, got it.",
+            "confidence": 0.8827,
+            "bbox": {
+              "x": 0.192667,
+              "y": 0.551262,
+              "width": 0.242,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0016"
+          },
+          {
+            "speaker": null,
+            "content": "I'll give him the message.",
+            "confidence": 0.8827,
+            "bbox": {
+              "x": 0.192667,
+              "y": 0.551262,
+              "width": 0.242,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0016"
+          },
+          {
+            "speaker": null,
+            "content": "Can youtell... that...?",
+            "confidence": 0.9016,
+            "bbox": {
+              "x": 0.594,
+              "y": 0.729521,
+              "width": 0.167333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0025"
+          },
+          {
+            "speaker": null,
+            "content": "Doyouwantto leavea message?",
+            "confidence": 0.8966,
+            "bbox": {
+              "x": 0.168,
+              "y": 0.731582,
+              "width": 0.224667,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0026"
+          },
+          {
+            "speaker": null,
+            "content": "She needs to bring her laptop to class.",
+            "confidence": 0.8882,
+            "bbox": {
+              "x": 0.141333,
+              "y": 0.889748,
+              "width": 0.247333,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0034"
+          },
+          {
+            "speaker": null,
+            "content": "She needs to bring her laptop to class.",
+            "confidence": 0.9581,
+            "bbox": {
+              "x": 0.143529,
+              "y": 0.890606,
+              "width": 0.714118,
+              "height": 0.014242
+            },
+            "sourceElementId": "text_0035"
+          },
+          {
+            "speaker": null,
+            "content": "The birthday party starts at 7:00, not 8:00.",
+            "confidence": 0.9581,
+            "bbox": {
+              "x": 0.143529,
+              "y": 0.890606,
+              "width": 0.714118,
+              "height": 0.014242
+            },
+            "sourceElementId": "text_0035"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "B",
+        "type": "listening_activity",
+        "instruction": "Listen to the conversation. What message does Rex leave for Jake?",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Ben",
+          "Hello?",
+          "Rex",
+          "Hi. Can I please speak to Jake?",
+          "Ben",
+          "Ben Um, sorry. Jake's not here right now. | think he might be at the gym. Can | take a message?",
+          "Rex",
+          "Rex Uh, sure. This is Rex Hanson. I'm calling about our class trip. Please tell him that we're",
+          "leaving tomorrow at 8:00, not 9:00.",
+          "Ben",
+          "OK, got it. I'll give him the message.",
+          "Rex",
+          "Great. Thanks a lot. Bye.",
+          "Good-bye.",
+          "Ben",
+          "Read the expressions below. Complete each box witha similar expression from",
+          "the conversation. Then listen and check your answers."
+        ],
+        "position": {
+          "x": 0.11800000000000001,
+          "y": 0.42822299999999996,
+          "width": 0.706314,
+          "height": 0.24329200000000012
+        },
+        "textElementIds": [
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Leaving a message",
+          "Offering to take a message Leaving a message",
+          "Can youtell... that...?",
+          "Doyouwantto leavea message?",
+          "Could you let... know that...",
+          "Would you like to leave a message?",
+          "D Have conversations like the one in Part B. Use these ideas.",
+          "You're calling your friend Gary at work, but he's in",
+          "You're calling your friend Carrie at home, but she's at",
+          "soccer practice.",
+          "a meeting."
+        ],
+        "position": {
+          "x": 0.10431399999999999,
+          "y": 0.646667,
+          "width": 0.826667,
+          "height": 0.2557570000000001
+        },
+        "textElementIds": [
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033"
+        ]
+      }
+    ],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "page",
+    "title": "Can I take a message?",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "Hello?",
+            "confidence": 0.8321
+          },
+          {
+            "speaker": null,
+            "content": "Hi.",
+            "confidence": 0.8908
+          },
+          {
+            "speaker": null,
+            "content": "Can I",
+            "confidence": 0.8908
+          },
+          {
+            "speaker": null,
+            "content": "please speak to Jake?",
+            "confidence": 0.8908
+          },
+          {
+            "speaker": null,
+            "content": "OK, got it.",
+            "confidence": 0.8827
+          },
+          {
+            "speaker": null,
+            "content": "I'll give him the message.",
+            "confidence": 0.8827
+          },
+          {
+            "speaker": null,
+            "content": "Can youtell... that...?",
+            "confidence": 0.9016
+          },
+          {
+            "speaker": null,
+            "content": "Doyouwantto leavea message?",
+            "confidence": 0.8966
+          },
+          {
+            "speaker": null,
+            "content": "She needs to bring her laptop to class.",
+            "confidence": 0.8882
+          },
+          {
+            "speaker": null,
+            "content": "She needs to bring her laptop to class.",
+            "confidence": 0.9581
+          },
+          {
+            "speaker": null,
+            "content": "The birthday party starts at 7:00, not 8:00.",
+            "confidence": 0.9581
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "B",
+        "type": "listening_activity",
+        "instruction": "Listen to the conversation. What message does Rex leave for Jake?",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "8 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "1 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "dialoguesSplit": 7
+    },
+    "averageOcrConfidence": 0.872,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 3 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc3_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

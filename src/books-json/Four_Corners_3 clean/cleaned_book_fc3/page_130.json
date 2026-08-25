@@ -1,0 +1,1818 @@
+{
+  "pageNumber": 123,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 130,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 3_Part6.pdf",
+    "pdfLocalPageNumber": 14,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Keeptalking!",
+        "confidence": 0.8146,
+        "bbox": {
+          "x": 0.611333,
+          "y": 0.030397,
+          "width": 0.277333,
+          "height": 0.036064
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Lesson A",
+        "confidence": 0.8133,
+        "bbox": {
+          "x": 0.164667,
+          "y": 0.034518,
+          "width": 0.186667,
+          "height": 0.023699
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "ms | LessonA",
+            "confidence": 0.5667
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Lesson A",
+            "confidence": 0.8133
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.7994,
+        "bbox": {
+          "x": 0.042667,
+          "y": 0.044307,
+          "width": 0.038667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Finding out more",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.084706,
+          "y": 0.112727,
+          "width": 0.267843,
+          "height": 0.023333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Finding out more",
+            "confidence": 0.9533
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Finding out more",
+            "confidence": 0.9143
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "heading",
+        "content": "A Read the chart. Then add two more.",
+        "confidence": 0.88,
+        "bbox": {
+          "x": 0.082353,
+          "y": 0.149091,
+          "width": 0.275294,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "AReadthechart.Thenaddtwomore.",
+            "confidence": 0.8888
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Read the chart. Then add two more.",
+            "confidence": 0.88
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "aol",
+        "confidence": 0.41,
+        "bbox": {
+          "x": 0.844314,
+          "y": 0.175152,
+          "width": 0.016471,
+          "height": 0.007576
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0007",
+        "type": "instruction",
+        "content": "Find someone who..",
+        "confidence": 0.8425,
+        "bbox": {
+          "x": 0.112667,
+          "y": 0.177743,
+          "width": 0.152,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "instruction",
+        "content": "Name",
+        "confidence": 0.7966,
+        "bbox": {
+          "x": 0.395333,
+          "y": 0.178259,
+          "width": 0.046667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "Extrainformation",
+        "confidence": 0.8762,
+        "bbox": {
+          "x": 0.560667,
+          "y": 0.179289,
+          "width": 0.123333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "paragraph",
+        "content": "is saving money for something special",
+        "confidence": 0.9393,
+        "bbox": {
+          "x": 0.112,
+          "y": 0.199382,
+          "width": 0.262667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "paragraph",
+        "content": "is in a good mood today",
+        "confidence": 0.91,
+        "bbox": {
+          "x": 0.111333,
+          "y": 0.220505,
+          "width": 0.166,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "hasonebrotherandonesister",
+        "confidence": 0.8868,
+        "bbox": {
+          "x": 0.112,
+          "y": 0.242143,
+          "width": 0.209333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "is reading an interesting book",
+        "confidence": 0.9013,
+        "bbox": {
+          "x": 0.110667,
+          "y": 0.263266,
+          "width": 0.206,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "wants to get a pet",
+        "confidence": 0.888,
+        "bbox": {
+          "x": 0.111333,
+          "y": 0.285935,
+          "width": 0.124667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "is taking a different class",
+        "confidence": 0.9296,
+        "bbox": {
+          "x": 0.11,
+          "y": 0.306028,
+          "width": 0.172667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "works on weekends",
+        "confidence": 0.8872,
+        "bbox": {
+          "x": 0.110667,
+          "y": 0.326636,
+          "width": 0.138667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "thinks Engtish is fun",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.112941,
+          "y": 0.35,
+          "width": 0.134902,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "thinks English is fun",
+            "confidence": 0.8584
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "thinks Engtish is fun",
+            "confidence": 0.93
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "paragraph",
+        "content": "hates to talk on the phone",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.113333,
+          "y": 0.371212,
+          "width": 0.178039,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "hatestotalkonthephone",
+            "confidence": 0.9072
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "hates to talk on the phone",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "CLASSACTIVITY",
+        "confidence": 0.9044,
+        "bbox": {
+          "x": 0.102667,
+          "y": 0.787738,
+          "width": 0.109333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "B Find classmates who do or are doing each thing in Part A. Write their names.",
+        "confidence": 0.9581,
+        "bbox": {
+          "x": 0.081176,
+          "y": 0.788182,
+          "width": 0.671373,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Find classmates who do or are doing each thing in Part A. Write their names.",
+            "confidence": 0.9106
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Find classmates who do or are doing each thing in Part A. Write their names.",
+            "confidence": 0.9581
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "instruction",
+        "content": "Ask questions for more information.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.103529,
+          "y": 0.80697,
+          "width": 0.253725,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Ask questions for more information.",
+            "confidence": 0.8611
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ask questions for more information.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "dialogue_line",
+        "content": "A: Are you saving money for something Special?",
+        "confidence": 0.8994,
+        "bbox": {
+          "x": 0.101333,
+          "y": 0.826378,
+          "width": 0.368667,
+          "height": 0.017517
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: Are you saving money for something Special?",
+            "confidence": 0.8994
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: Are you saving money for something special?",
+            "confidence": 0.84
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "dialogue_line",
+        "content": "B: Yes, I am.",
+        "confidence": 0.841,
+        "bbox": {
+          "x": 0.103333,
+          "y": 0.850077,
+          "width": 0.092,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B: Yes, I am.",
+            "confidence": 0.841
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: Yes, | am.",
+            "confidence": 0.7
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "dialogue_line",
+        "content": "A: Oh, really? What do you want to buy?",
+        "confidence": 0.9444,
+        "bbox": {
+          "x": 0.103529,
+          "y": 0.87303,
+          "width": 0.304314,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: Oh, really? What do you want to buy?",
+            "confidence": 0.9215
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: Oh, really? What do you want to buy?",
+            "confidence": 0.9444
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "sentence",
+        "content": "Cc Share the most interesting information.",
+        "confidence": 0.9083,
+        "bbox": {
+          "x": 0.078824,
+          "y": 0.899394,
+          "width": 0.418824,
+          "height": 0.017273
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Cc Share the most interesting information.",
+            "confidence": 0.9083
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Sharethemostinterestinginformation",
+            "confidence": 0.9165
+          },
+          {
+            "engine": "rapidocr",
+            "content": "CLASSACTIVITY",
+            "confidence": 0.8863
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "123",
+        "confidence": 0.7457,
+        "bbox": {
+          "x": 0.901333,
+          "y": 0.957754,
+          "width": 0.028667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0027",
+        "type": "heading",
+        "content": "Keep talking!",
+        "confidence": 0.898,
+        "bbox": {
+          "x": 0.773333,
+          "y": 0.967027,
+          "width": 0.086667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "Finding out more",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.084706,
+          "y": 0.112727,
+          "width": 0.267843,
+          "height": 0.023333
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.9533
+      },
+      {
+        "word": "aol",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.844314,
+          "y": 0.175152,
+          "width": 0.016471,
+          "height": 0.007576
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.41
+      },
+      {
+        "word": "Name",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.395333,
+          "y": 0.178259,
+          "width": 0.046667,
+          "height": 0.014941
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.7966
+      },
+      {
+        "word": "Extrainformation",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.560667,
+          "y": 0.179289,
+          "width": 0.123333,
+          "height": 0.013395
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8762
+      },
+      {
+        "word": "hasonebrotherandonesister",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.112,
+          "y": 0.242143,
+          "width": 0.209333,
+          "height": 0.013395
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8868
+      },
+      {
+        "word": "is reading an interesting book",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.110667,
+          "y": 0.263266,
+          "width": 0.206,
+          "height": 0.014941
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.9013
+      },
+      {
+        "word": "wants to get a pet",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.111333,
+          "y": 0.285935,
+          "width": 0.124667,
+          "height": 0.013395
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.888
+      },
+      {
+        "word": "is taking a different class",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.11,
+          "y": 0.306028,
+          "width": 0.172667,
+          "height": 0.014426
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.9296
+      },
+      {
+        "word": "works on weekends",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.110667,
+          "y": 0.326636,
+          "width": 0.138667,
+          "height": 0.014426
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8872
+      },
+      {
+        "word": "thinks Engtish is fun",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.112941,
+          "y": 0.35,
+          "width": 0.134902,
+          "height": 0.012424
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.93
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "A: Are you saving money for something Special?",
+            "confidence": 0.8994,
+            "bbox": {
+              "x": 0.101333,
+              "y": 0.826378,
+              "width": 0.368667,
+              "height": 0.017517
+            },
+            "sourceElementId": "text_0022",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "B: Yes, I am.",
+            "confidence": 0.841,
+            "bbox": {
+              "x": 0.103333,
+              "y": 0.850077,
+              "width": 0.092,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0023",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "A: Oh, really? What do you want to buy?",
+            "confidence": 0.9444,
+            "bbox": {
+              "x": 0.103529,
+              "y": 0.87303,
+              "width": 0.304314,
+              "height": 0.014545
+            },
+            "sourceElementId": "text_0024",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "reading_activity",
+        "instruction": "Read the chart. Then add two more.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0005"
+        ],
+        "confidence": 0.88
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "writing_activity",
+        "instruction": "Find classmates who do or are doing each thing in Part A. Write their names.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0020"
+        ],
+        "confidence": 0.9581
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "is in a good mood today",
+          "hasonebrotherandonesister",
+          "is reading an interesting book",
+          "wants to get a pet",
+          "is taking a different class",
+          "works on weekends",
+          "thinks Engtish is fun",
+          "hates to talk on the phone"
+        ],
+        "position": {
+          "x": 0.09,
+          "y": 0.20050500000000002,
+          "width": 0.25133300000000003,
+          "height": 0.20313099999999998
+        },
+        "textElementIds": [
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "CLASSACTIVITY",
+          "B Find classmates who do or are doing each thing in Part A. Write their names.",
+          "Ask questions for more information.",
+          "A: Are you saving money for something Special?",
+          "B: Yes, I am.",
+          "A: Oh, really? What do you want to buy?"
+        ],
+        "position": {
+          "x": 0.061175999999999994,
+          "y": 0.767738,
+          "width": 0.711373,
+          "height": 0.139837
+        },
+        "textElementIds": [
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "Keeptalking!\nLesson A\nunit\nFinding out more\nAReadthechart.Thenaddtwomore.\nFind someone who..\nName\nExtrainformation\nis saving money for something special\nis in a good mood today\nhasonebrotherandonesister\nis reading an interesting book\nwants to get a pet\nis taking a different class\nworks on weekends\nthinks English is fun\nhatestotalkonthephone\nCLASSACTIVITY\nFind classmates who do or are doing each thing in Part A. Write their names.\nAsk questions for more information.\nA: Are you saving money for something Special?\nB: Yes, I am.\nA: Oh, really? What do you want to buy?\nSharethemostinterestinginformation\nCLASSACTIVITY\ndehkhodaedu.com\n123\nKeep talking!",
+      "tesseract_psm3": "ms | LessonA\n\nFinding out more\n\nA Read the chart. Then add two more.\n\naol\n\nthinks Engtish is fun\n\nhates to talk on the phone\n\nB Find classmates who do or are doing each thing in Part A. Write their names.\nAsk questions for more information.\n\nA: Are you saving money for something special?\nB: Yes, | am.\nA: Oh, really? What do you want to buy?\n\nCc Share the most interesting information.\n\ndehkhodaedu.com 123\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8719,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "4 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "reading",
+    "headings": [
+      "Keeptalking!",
+      "Lesson A",
+      "unit",
+      "Finding out more",
+      "A Read the chart. Then add two more.",
+      "Keep talking!"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Keeptalking!",
+        "confidence": 0.8146,
+        "bbox": {
+          "x": 0.611333,
+          "y": 0.030397,
+          "width": 0.277333,
+          "height": 0.036064
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Lesson A",
+        "confidence": 0.8133,
+        "bbox": {
+          "x": 0.164667,
+          "y": 0.034518,
+          "width": 0.186667,
+          "height": 0.023699
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "ms | LessonA",
+            "confidence": 0.5667
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Lesson A",
+            "confidence": 0.8133
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.7994,
+        "bbox": {
+          "x": 0.042667,
+          "y": 0.044307,
+          "width": 0.038667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Finding out more",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.084706,
+          "y": 0.112727,
+          "width": 0.267843,
+          "height": 0.023333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Finding out more",
+            "confidence": 0.9533
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Finding out more",
+            "confidence": 0.9143
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "heading",
+        "content": "A Read the chart. Then add two more.",
+        "confidence": 0.88,
+        "bbox": {
+          "x": 0.082353,
+          "y": 0.149091,
+          "width": 0.275294,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "AReadthechart.Thenaddtwomore.",
+            "confidence": 0.8888
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Read the chart. Then add two more.",
+            "confidence": 0.88
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "aol",
+        "confidence": 0.41,
+        "bbox": {
+          "x": 0.844314,
+          "y": 0.175152,
+          "width": 0.016471,
+          "height": 0.007576
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0007",
+        "type": "instruction",
+        "content": "Find someone who..",
+        "confidence": 0.8425,
+        "bbox": {
+          "x": 0.112667,
+          "y": 0.177743,
+          "width": 0.152,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "instruction",
+        "content": "Name",
+        "confidence": 0.7966,
+        "bbox": {
+          "x": 0.395333,
+          "y": 0.178259,
+          "width": 0.046667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "Extrainformation",
+        "confidence": 0.8762,
+        "bbox": {
+          "x": 0.560667,
+          "y": 0.179289,
+          "width": 0.123333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "paragraph",
+        "content": "is saving money for something special",
+        "confidence": 0.9393,
+        "bbox": {
+          "x": 0.112,
+          "y": 0.199382,
+          "width": 0.262667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "paragraph",
+        "content": "is in a good mood today",
+        "confidence": 0.91,
+        "bbox": {
+          "x": 0.111333,
+          "y": 0.220505,
+          "width": 0.166,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "hasonebrotherandonesister",
+        "confidence": 0.8868,
+        "bbox": {
+          "x": 0.112,
+          "y": 0.242143,
+          "width": 0.209333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "is reading an interesting book",
+        "confidence": 0.9013,
+        "bbox": {
+          "x": 0.110667,
+          "y": 0.263266,
+          "width": 0.206,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "wants to get a pet",
+        "confidence": 0.888,
+        "bbox": {
+          "x": 0.111333,
+          "y": 0.285935,
+          "width": 0.124667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "is taking a different class",
+        "confidence": 0.9296,
+        "bbox": {
+          "x": 0.11,
+          "y": 0.306028,
+          "width": 0.172667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "works on weekends",
+        "confidence": 0.8872,
+        "bbox": {
+          "x": 0.110667,
+          "y": 0.326636,
+          "width": 0.138667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "thinks Engtish is fun",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.112941,
+          "y": 0.35,
+          "width": 0.134902,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "thinks English is fun",
+            "confidence": 0.8584
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "thinks Engtish is fun",
+            "confidence": 0.93
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "paragraph",
+        "content": "hates to talk on the phone",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.113333,
+          "y": 0.371212,
+          "width": 0.178039,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "hatestotalkonthephone",
+            "confidence": 0.9072
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "hates to talk on the phone",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "CLASSACTIVITY",
+        "confidence": 0.9044,
+        "bbox": {
+          "x": 0.102667,
+          "y": 0.787738,
+          "width": 0.109333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "B Find classmates who do or are doing each thing in Part A. Write their names.",
+        "confidence": 0.9581,
+        "bbox": {
+          "x": 0.081176,
+          "y": 0.788182,
+          "width": 0.671373,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Find classmates who do or are doing each thing in Part A. Write their names.",
+            "confidence": 0.9106
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Find classmates who do or are doing each thing in Part A. Write their names.",
+            "confidence": 0.9581
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "instruction",
+        "content": "Ask questions for more information.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.103529,
+          "y": 0.80697,
+          "width": 0.253725,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Ask questions for more information.",
+            "confidence": 0.8611
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ask questions for more information.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "dialogue_line",
+        "content": "A: Are you saving money for something Special?",
+        "confidence": 0.8994,
+        "bbox": {
+          "x": 0.101333,
+          "y": 0.826378,
+          "width": 0.368667,
+          "height": 0.017517
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: Are you saving money for something Special?",
+            "confidence": 0.8994
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: Are you saving money for something special?",
+            "confidence": 0.84
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "dialogue_line",
+        "content": "B: Yes, I am.",
+        "confidence": 0.841,
+        "bbox": {
+          "x": 0.103333,
+          "y": 0.850077,
+          "width": 0.092,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B: Yes, I am.",
+            "confidence": 0.841
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: Yes, | am.",
+            "confidence": 0.7
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "dialogue_line",
+        "content": "A: Oh, really? What do you want to buy?",
+        "confidence": 0.9444,
+        "bbox": {
+          "x": 0.103529,
+          "y": 0.87303,
+          "width": 0.304314,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: Oh, really? What do you want to buy?",
+            "confidence": 0.9215
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: Oh, really? What do you want to buy?",
+            "confidence": 0.9444
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "sentence",
+        "content": "Cc Share the most interesting information.",
+        "confidence": 0.9083,
+        "bbox": {
+          "x": 0.078824,
+          "y": 0.899394,
+          "width": 0.418824,
+          "height": 0.017273
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Cc Share the most interesting information.",
+            "confidence": 0.9083
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Sharethemostinterestinginformation",
+            "confidence": 0.9165
+          },
+          {
+            "engine": "rapidocr",
+            "content": "CLASSACTIVITY",
+            "confidence": 0.8863
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "heading",
+        "content": "Keep talking!",
+        "confidence": 0.898,
+        "bbox": {
+          "x": 0.773333,
+          "y": 0.967027,
+          "width": 0.086667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Keeptalking!",
+      "Lesson A",
+      "unit",
+      "Finding out more",
+      "A Read the chart. Then add two more.",
+      "aol",
+      "Find someone who..",
+      "Name",
+      "Extrainformation",
+      "is saving money for something special",
+      "is in a good mood today",
+      "hasonebrotherandonesister",
+      "is reading an interesting book",
+      "wants to get a pet",
+      "is taking a different class",
+      "works on weekends",
+      "thinks Engtish is fun",
+      "hates to talk on the phone",
+      "CLASSACTIVITY",
+      "B Find classmates who do or are doing each thing in Part A. Write their names.",
+      "Ask questions for more information.",
+      "A: Are you saving money for something Special?",
+      "B: Yes, I am.",
+      "A: Oh, really? What do you want to buy?",
+      "Cc Share the most interesting information.",
+      "Keep talking!"
+    ],
+    "paragraphs": [
+      "is saving money for something special",
+      "is in a good mood today",
+      "hates to talk on the phone"
+    ],
+    "sentences": [
+      "Keeptalking",
+      "Lesson A unit Finding out more A Read the chart",
+      "Then add two more",
+      "aol Find someone who",
+      "Name Extrainformation is saving money for something special is in a good mood today hasonebrotherandonesister is reading an interesting book wants to get a pet is taking a different class works on weekends thinks Engtish is fun hates to talk on the phone CLASSACTIVITY B Find classmates who do or are doing each thing in Part A",
+      "Write their names",
+      "Ask questions for more information",
+      "A: Are you saving money for something Special",
+      "B: Yes, I am",
+      "A: Oh, really",
+      "What do you want to buy",
+      "Cc Share the most interesting information",
+      "Keep talking"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "A: Are you saving money for something Special?",
+            "confidence": 0.8994,
+            "bbox": {
+              "x": 0.101333,
+              "y": 0.826378,
+              "width": 0.368667,
+              "height": 0.017517
+            },
+            "sourceElementId": "text_0022"
+          },
+          {
+            "speaker": null,
+            "content": "B: Yes, I am.",
+            "confidence": 0.841,
+            "bbox": {
+              "x": 0.103333,
+              "y": 0.850077,
+              "width": 0.092,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0023"
+          },
+          {
+            "speaker": null,
+            "content": "A: Oh, really?",
+            "confidence": 0.9444,
+            "bbox": {
+              "x": 0.103529,
+              "y": 0.87303,
+              "width": 0.304314,
+              "height": 0.014545
+            },
+            "sourceElementId": "text_0024"
+          },
+          {
+            "speaker": null,
+            "content": "What do you want to buy?",
+            "confidence": 0.9444,
+            "bbox": {
+              "x": 0.103529,
+              "y": 0.87303,
+              "width": 0.304314,
+              "height": 0.014545
+            },
+            "sourceElementId": "text_0024"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "reading",
+        "instruction": "Read the chart. Then add two more.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "writing",
+        "instruction": "Find classmates who do or are doing each thing in Part A. Write their names.",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "is in a good mood today",
+          "hasonebrotherandonesister",
+          "is reading an interesting book",
+          "wants to get a pet",
+          "is taking a different class",
+          "works on weekends",
+          "thinks Engtish is fun",
+          "hates to talk on the phone"
+        ],
+        "position": {
+          "x": 0.09,
+          "y": 0.20050500000000002,
+          "width": 0.25133300000000003,
+          "height": 0.20313099999999998
+        },
+        "textElementIds": [
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "CLASSACTIVITY",
+          "B Find classmates who do or are doing each thing in Part A. Write their names.",
+          "Ask questions for more information.",
+          "A: Are you saving money for something Special?",
+          "B: Yes, I am.",
+          "A: Oh, really? What do you want to buy?"
+        ],
+        "position": {
+          "x": 0.061175999999999994,
+          "y": 0.767738,
+          "width": 0.711373,
+          "height": 0.139837
+        },
+        "textElementIds": [
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024"
+        ]
+      }
+    ],
+    "excludedGarbage": [
+      "123"
+    ]
+  },
+  "learningContent": {
+    "pageType": "reading",
+    "title": "Keeptalking!",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "A: Are you saving money for something Special?",
+            "confidence": 0.8994
+          },
+          {
+            "speaker": null,
+            "content": "B: Yes, I am.",
+            "confidence": 0.841
+          },
+          {
+            "speaker": null,
+            "content": "A: Oh, really?",
+            "confidence": 0.9444
+          },
+          {
+            "speaker": null,
+            "content": "What do you want to buy?",
+            "confidence": 0.9444
+          }
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "title": "Keeptalking!",
+        "paragraphs": [
+          "is saving money for something special",
+          "is in a good mood today",
+          "hates to talk on the phone"
+        ],
+        "sentences": [
+          "Keeptalking",
+          "Lesson A unit Finding out more A Read the chart",
+          "Then add two more",
+          "aol Find someone who",
+          "Name Extrainformation is saving money for something special is in a good mood today hasonebrotherandonesister is reading an interesting book wants to get a pet is taking a different class works on weekends thinks Engtish is fun hates to talk on the phone CLASSACTIVITY B Find classmates who do or are doing each thing in Part A",
+          "Write their names",
+          "Ask questions for more information",
+          "A: Are you saving money for something Special",
+          "B: Yes, I am",
+          "A: Oh, really",
+          "What do you want to buy",
+          "Cc Share the most interesting information",
+          "Keep talking"
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "reading",
+        "instruction": "Read the chart. Then add two more.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "writing",
+        "instruction": "Find classmates who do or are doing each thing in Part A. Write their names.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "4 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content.",
+      "1 garbage string(s) excluded"
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "garbageExcluded": 1,
+      "dialoguesSplit": 2
+    },
+    "averageOcrConfidence": 0.8719,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 3 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc3_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

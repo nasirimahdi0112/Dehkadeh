@@ -1,0 +1,2257 @@
+{
+  "pageNumber": 9,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "pdf_visual_verification",
+  "pdfPageNumber": 10,
+  "source": {
+    "pdfFile": "Family and Friends 1 SB_Part1.pdf",
+    "pdfLocalPageNumber": 10,
+    "pageSizePoints": {
+      "width": 598.08,
+      "height": 796.32
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "LessonTwoGrammar",
+        "confidence": 0.839,
+        "bbox": {
+          "x": 0.66,
+          "y": 0.028042,
+          "width": 0.276,
+          "height": 0.024036
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Lesson Two Grammar",
+            "confidence": 0.72
+          },
+          {
+            "engine": "rapidocr",
+            "content": "LessonTwoGrammar",
+            "confidence": 0.839
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Listen to the story again and repeat.Act.",
+        "confidence": 0.8858,
+        "bbox": {
+          "x": 0.060667,
+          "y": 0.070105,
+          "width": 0.474,
+          "height": 0.024036
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listen to the story again and repeat.Act.",
+            "confidence": 0.8858
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "! 1 Listen to the story again and repeat. Act.",
+            "confidence": 0.82
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "instruction",
+        "content": "2 Look and say.",
+        "confidence": 0.9375,
+        "bbox": {
+          "x": 0.041734,
+          "y": 0.103978,
+          "width": 0.183387,
+          "height": 0.020193
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2 Look and say.",
+            "confidence": 0.8808
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Look and say.",
+            "confidence": 0.9375
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Let's learn!",
+        "confidence": 0.885,
+        "bbox": {
+          "x": 0.093499,
+          "y": 0.147077,
+          "width": 0.162921,
+          "height": 0.019289
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Let's learn!",
+            "confidence": 0.8549
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Let's learn!",
+            "confidence": 0.885
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "sentence",
+        "content": "What's this?",
+        "confidence": 0.85,
+        "bbox": {
+          "x": 0.65931,
+          "y": 0.283906,
+          "width": 0.126003,
+          "height": 0.014165
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What's this?",
+            "confidence": 0.8615
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What's this?",
+            "confidence": 0.85
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "sentence",
+        "content": "It's a pen.",
+        "confidence": 0.8633,
+        "bbox": {
+          "x": 0.67175,
+          "y": 0.309222,
+          "width": 0.101124,
+          "height": 0.018385
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "It's a pen.",
+            "confidence": 0.8254
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "It's a pen.",
+            "confidence": 0.8633
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "What's = What is",
+        "confidence": 0.9225,
+        "bbox": {
+          "x": 0.707464,
+          "y": 0.402049,
+          "width": 0.171348,
+          "height": 0.015069
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What's=What is",
+            "confidence": 0.8157
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What's = What is",
+            "confidence": 0.9225
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "It's= Itis",
+        "confidence": 0.7173,
+        "bbox": {
+          "x": 0.745333,
+          "y": 0.426139,
+          "width": 0.098,
+          "height": 0.018528
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "It's= Itis",
+            "confidence": 0.7173
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ir's=Itis",
+            "confidence": 0.7
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0009",
+        "type": "instruction",
+        "content": "3 Write.",
+        "confidence": 0.7838,
+        "bbox": {
+          "x": 0.034,
+          "y": 0.457186,
+          "width": 0.101333,
+          "height": 0.021532
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0010",
+        "type": "sentence",
+        "content": "What's this?",
+        "confidence": 0.8349,
+        "bbox": {
+          "x": 0.284,
+          "y": 0.631447,
+          "width": 0.124,
+          "height": 0.019029
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "sentence",
+        "content": "What's this? What's this? What's this? What's this?",
+        "confidence": 0.9462,
+        "bbox": {
+          "x": 0.066212,
+          "y": 0.63261,
+          "width": 0.784109,
+          "height": 0.017782
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What's this?",
+            "confidence": 0.9111
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What's this? What's this? What's this? What's this?",
+            "confidence": 0.9462
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "It's",
+        "confidence": 0.7026,
+        "bbox": {
+          "x": 0.083333,
+          "y": 0.659489,
+          "width": 0.041333,
+          "height": 0.019029
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0013",
+        "type": "sentence",
+        "content": "It’s apen. an eraser. a pencil. a ruler.",
+        "confidence": 0.8262,
+        "bbox": {
+          "x": 0.086677,
+          "y": 0.660639,
+          "width": 0.792937,
+          "height": 0.022001
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "apen.",
+            "confidence": 0.7805
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "It’s apen. an eraser. a pencil. a ruler.",
+            "confidence": 0.8262
+          },
+          {
+            "engine": "rapidocr",
+            "content": "a ruler.",
+            "confidence": 0.7825
+          },
+          {
+            "engine": "rapidocr",
+            "content": "a pencil.",
+            "confidence": 0.7527
+          },
+          {
+            "engine": "rapidocr",
+            "content": "aneraser.",
+            "confidence": 0.8303
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "instruction",
+        "content": "4Point,ask,andanswer.",
+        "confidence": 0.8622,
+        "bbox": {
+          "x": 0.034667,
+          "y": 0.708062,
+          "width": 0.290667,
+          "height": 0.023035
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4Point,ask,andanswer.",
+            "confidence": 0.8622
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 Point,ask,and answer. | pen pencil eraser ruler book",
+            "confidence": 0.7333
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "pen",
+        "confidence": 0.7488,
+        "bbox": {
+          "x": 0.369333,
+          "y": 0.71357,
+          "width": 0.047333,
+          "height": 0.022534
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "pencil",
+        "confidence": 0.8175,
+        "bbox": {
+          "x": 0.448,
+          "y": 0.71357,
+          "width": 0.066667,
+          "height": 0.021032
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "ruler",
+        "confidence": 0.8296,
+        "bbox": {
+          "x": 0.648,
+          "y": 0.714572,
+          "width": 0.053333,
+          "height": 0.018528
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "book",
+        "confidence": 0.7986,
+        "bbox": {
+          "x": 0.730667,
+          "y": 0.714572,
+          "width": 0.059333,
+          "height": 0.02003
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "eraser",
+        "confidence": 0.753,
+        "bbox": {
+          "x": 0.548,
+          "y": 0.717076,
+          "width": 0.068,
+          "height": 0.016024
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "What's this?",
+        "confidence": 0.8902,
+        "bbox": {
+          "x": 0.11,
+          "y": 0.758137,
+          "width": 0.116667,
+          "height": 0.018027
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "sentence",
+        "content": "It's a pencil.",
+        "confidence": 0.8987,
+        "bbox": {
+          "x": 0.125333,
+          "y": 0.803205,
+          "width": 0.112667,
+          "height": 0.020531
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "‘It’s a pencil. ~_",
+            "confidence": 0.69
+          },
+          {
+            "engine": "rapidocr",
+            "content": "It's a pencil.",
+            "confidence": 0.8987
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "sentence",
+        "content": "What'sthis?It'sa....",
+        "confidence": 0.8836,
+        "bbox": {
+          "x": 0.647333,
+          "y": 0.952429,
+          "width": 0.153333,
+          "height": 0.015023
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "What's this? It'sa... Unit 1 da",
+            "confidence": 0.785
+          },
+          {
+            "engine": "rapidocr",
+            "content": "What'sthis?It'sa....",
+            "confidence": 0.8836
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "heading",
+        "content": "Unit1",
+        "confidence": 0.7892,
+        "bbox": {
+          "x": 0.826667,
+          "y": 0.95343,
+          "width": 0.052667,
+          "height": 0.014522
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [
+      {
+        "topic": "LessonTwoGrammar",
+        "rule": [
+          "It's a pen.",
+          "It’s apen. an eraser. a pencil. a ruler.",
+          "It's a pencil."
+        ],
+        "form": null,
+        "positiveExamples": [
+          "What's this?",
+          "What's = What is",
+          "What's this?",
+          "What's this? What's this? What's this? What's this?",
+          "What's this?",
+          "What'sthis?It'sa...."
+        ],
+        "negativeExamples": [],
+        "questionForms": [],
+        "shortAnswers": [],
+        "exceptions": [],
+        "usageNotes": [],
+        "practice": [
+          "Listen to the story again and repeat.Act.",
+          "2 Look and say.",
+          "3 Write."
+        ],
+        "confidence": 0.8376
+      }
+    ],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "What's this?",
+            "confidence": 0.85,
+            "bbox": {
+              "x": 0.65931,
+              "y": 0.283906,
+              "width": 0.126003,
+              "height": 0.014165
+            },
+            "sourceElementId": "text_0005",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "It's a pen.",
+            "confidence": 0.8633,
+            "bbox": {
+              "x": 0.67175,
+              "y": 0.309222,
+              "width": 0.101124,
+              "height": 0.018385
+            },
+            "sourceElementId": "text_0006",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "What's this?",
+            "confidence": 0.8349,
+            "bbox": {
+              "x": 0.284,
+              "y": 0.631447,
+              "width": 0.124,
+              "height": 0.019029
+            },
+            "sourceElementId": "text_0010",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "What's this? What's this? What's this? What's this?",
+            "confidence": 0.9462,
+            "bbox": {
+              "x": 0.066212,
+              "y": 0.63261,
+              "width": 0.784109,
+              "height": 0.017782
+            },
+            "sourceElementId": "text_0011",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "It’s apen. an eraser. a pencil. a ruler.",
+            "confidence": 0.8262,
+            "bbox": {
+              "x": 0.086677,
+              "y": 0.660639,
+              "width": 0.792937,
+              "height": 0.022001
+            },
+            "sourceElementId": "text_0013",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "What's this?",
+            "confidence": 0.8902,
+            "bbox": {
+              "x": 0.11,
+              "y": 0.758137,
+              "width": 0.116667,
+              "height": 0.018027
+            },
+            "sourceElementId": "text_0020",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "It's a pencil.",
+            "confidence": 0.8987,
+            "bbox": {
+              "x": 0.125333,
+              "y": 0.803205,
+              "width": 0.112667,
+              "height": 0.020531
+            },
+            "sourceElementId": "text_0021",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Speech-bubble/dialogue-like text was detected spatially; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "2",
+        "type": "speaking_activity",
+        "instruction": "Look and say.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0003"
+        ],
+        "confidence": 0.9375
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "writing_activity",
+        "instruction": "Write.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0009"
+        ],
+        "confidence": 0.7838
+      },
+      {
+        "exerciseNumber": "4",
+        "type": "speaking_activity",
+        "instruction": "Point,ask,andanswer.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0014"
+        ],
+        "confidence": 0.8622
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "What's this?",
+          "It's a pen.",
+          "What's = What is",
+          "It's= Itis",
+          "3 Write."
+        ],
+        "position": {
+          "x": 0.014,
+          "y": 0.263906,
+          "width": 0.884812,
+          "height": 0.234812
+        },
+        "textElementIds": [
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "What's this?",
+          "What's this? What's this? What's this? What's this?",
+          "It's",
+          "It’s apen. an eraser. a pencil. a ruler.",
+          "4Point,ask,andanswer.",
+          "pen",
+          "pencil",
+          "ruler",
+          "book",
+          "eraser",
+          "What's this?",
+          "It's a pencil."
+        ],
+        "position": {
+          "x": 0.014667,
+          "y": 0.611447,
+          "width": 0.884947,
+          "height": 0.232289
+        },
+        "textElementIds": [
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "rawOcrAudit": {
+      "rapidocr": "LessonTwoGrammar\nListen to the story again and repeat.Act.\n2 Look and say.\nLet's learn!\nWhat's this?\nIt's a pen.\nWhat's=What is\nIt's= Itis\n3 Write.\nWhat's this?\nWhat's this?\nWhat's this?\nWhat's this?\nIt's\napen.\na ruler.\na pencil.\naneraser.\n4Point,ask,andanswer.\npen\npencil\nruler\nbook\neraser\nWhat's this?\nIt's a pencil.\nWhat'sthis?It'sa....\nUnit1",
+      "tesseract_psm3": "Lesson Two Grammar\n\n! 1 Listen to the story again and repeat. Act.\n2 Look and say.\n\nLet's learn!\n\nWhat's this?\nIt's a pen.\n\nWhat's = What is\nIr's=Itis\n\nWhat's this? What's this? What's this? What's this?\n\nIt’s apen. an eraser. a pencil. a ruler.\n\n4 Point,ask,and answer. | pen pencil eraser ruler book\n\na\n\n‘It’s a pencil. ~_\n\nWhat's this? It'sa... Unit 1 da\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": "",
+      "footer_passes": [
+        "What's this? It'sa... Unit 1 da",
+        "eS\n\nWhat's this? It's a...\n\nUnit 1"
+      ]
+    },
+    "excludedOcrNoise": [
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "a",
+        "confidence": 0.05,
+        "bbox": {
+          "x": 0.191413,
+          "y": 0.750151,
+          "width": 0.039326,
+          "height": 0.003315
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "averageConfidence": 0.8376,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "7 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "1 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "grammar",
+    "pagePurpose": null,
+    "readingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "headings": [
+      {
+        "id": "text_0001",
+        "content": "Lesson Two Grammar",
+        "confidence": 0.839,
+        "bbox": {
+          "x": 0.66,
+          "y": 0.028042,
+          "width": 0.276,
+          "height": 0.024036
+        },
+        "repaired": true,
+        "sourceElementIds": [
+          "text_0001"
+        ]
+      },
+      {
+        "id": "text_0002",
+        "content": "Listen to the story again and repeat. Act.",
+        "confidence": 0.8858,
+        "bbox": {
+          "x": 0.060667,
+          "y": 0.070105,
+          "width": 0.474,
+          "height": 0.024036
+        },
+        "repaired": true,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "id": "text_0004",
+        "content": "Let's learn!",
+        "confidence": 0.885,
+        "bbox": {
+          "x": 0.093499,
+          "y": 0.147077,
+          "width": 0.162921,
+          "height": 0.019289
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      },
+      {
+        "id": "text_0023",
+        "content": "Unit 1",
+        "confidence": 0.7892,
+        "bbox": {
+          "x": 0.826667,
+          "y": 0.95343,
+          "width": 0.052667,
+          "height": 0.014522
+        },
+        "repaired": true,
+        "sourceElementIds": [
+          "text_0023"
+        ]
+      }
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Lesson Two Grammar",
+        "originalContent": "LessonTwoGrammar",
+        "confidence": 0.839,
+        "bbox": {
+          "x": 0.66,
+          "y": 0.028042,
+          "width": 0.276,
+          "height": 0.024036
+        },
+        "repaired": true,
+        "repairNotes": [
+          "heading_normalized"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Lesson Two Grammar",
+            "confidence": 0.72
+          },
+          {
+            "engine": "rapidocr",
+            "content": "LessonTwoGrammar",
+            "confidence": 0.839
+          }
+        ]
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Listen to the story again and repeat. Act.",
+        "originalContent": "Listen to the story again and repeat.Act.",
+        "confidence": 0.8858,
+        "bbox": {
+          "x": 0.060667,
+          "y": 0.070105,
+          "width": 0.474,
+          "height": 0.024036
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase_space_restored"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listen to the story again and repeat.Act.",
+            "confidence": 0.8858
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "! 1 Listen to the story again and repeat. Act.",
+            "confidence": 0.82
+          }
+        ]
+      },
+      {
+        "id": "text_0003",
+        "type": "instruction",
+        "content": "2 Look and say.",
+        "originalContent": "2 Look and say.",
+        "confidence": 0.9375,
+        "bbox": {
+          "x": 0.041734,
+          "y": 0.103978,
+          "width": 0.183387,
+          "height": 0.020193
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2 Look and say.",
+            "confidence": 0.8808
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Look and say.",
+            "confidence": 0.9375
+          }
+        ]
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Let's learn!",
+        "originalContent": "Let's learn!",
+        "confidence": 0.885,
+        "bbox": {
+          "x": 0.093499,
+          "y": 0.147077,
+          "width": 0.162921,
+          "height": 0.019289
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Let's learn!",
+            "confidence": 0.8549
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Let's learn!",
+            "confidence": 0.885
+          }
+        ]
+      },
+      {
+        "id": "text_0005",
+        "type": "sentence",
+        "content": "What's this?",
+        "originalContent": "What's this?",
+        "confidence": 0.85,
+        "bbox": {
+          "x": 0.65931,
+          "y": 0.283906,
+          "width": 0.126003,
+          "height": 0.014165
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What's this?",
+            "confidence": 0.8615
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What's this?",
+            "confidence": 0.85
+          }
+        ]
+      },
+      {
+        "id": "text_0006",
+        "type": "sentence",
+        "content": "It's a pen.",
+        "originalContent": "It's a pen.",
+        "confidence": 0.8633,
+        "bbox": {
+          "x": 0.67175,
+          "y": 0.309222,
+          "width": 0.101124,
+          "height": 0.018385
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "It's a pen.",
+            "confidence": 0.8254
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "It's a pen.",
+            "confidence": 0.8633
+          }
+        ]
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "What's = What is",
+        "originalContent": "What's = What is",
+        "confidence": 0.9225,
+        "bbox": {
+          "x": 0.707464,
+          "y": 0.402049,
+          "width": 0.171348,
+          "height": 0.015069
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What's=What is",
+            "confidence": 0.8157
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What's = What is",
+            "confidence": 0.9225
+          }
+        ]
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "It's = It is",
+        "originalContent": "It's= Itis",
+        "confidence": 0.7173,
+        "bbox": {
+          "x": 0.745333,
+          "y": 0.426139,
+          "width": 0.098,
+          "height": 0.018528
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase_space_restored"
+        ],
+        "lowConfidence": true,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "It's= Itis",
+            "confidence": 0.7173
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ir's=Itis",
+            "confidence": 0.7
+          }
+        ]
+      },
+      {
+        "id": "text_0009",
+        "type": "instruction",
+        "content": "3 Write.",
+        "originalContent": "3 Write.",
+        "confidence": 0.7838,
+        "bbox": {
+          "x": 0.034,
+          "y": 0.457186,
+          "width": 0.101333,
+          "height": 0.021532
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0010",
+        "type": "sentence",
+        "content": "What's this?",
+        "originalContent": "What's this?",
+        "confidence": 0.8349,
+        "bbox": {
+          "x": 0.284,
+          "y": 0.631447,
+          "width": 0.124,
+          "height": 0.019029
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0011",
+        "type": "sentence",
+        "content": "What's this? What's this? What's this? What's this?",
+        "originalContent": "What's this? What's this? What's this? What's this?",
+        "confidence": 0.9462,
+        "bbox": {
+          "x": 0.066212,
+          "y": 0.63261,
+          "width": 0.784109,
+          "height": 0.017782
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What's this?",
+            "confidence": 0.9111
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What's this? What's this? What's this? What's this?",
+            "confidence": 0.9462
+          }
+        ]
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "It's",
+        "originalContent": "It's",
+        "confidence": 0.7026,
+        "bbox": {
+          "x": 0.083333,
+          "y": 0.659489,
+          "width": 0.041333,
+          "height": 0.019029
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0013",
+        "type": "sentence",
+        "content": "It's a pen. an eraser. a pencil. a ruler.",
+        "originalContent": "It’s apen. an eraser. a pencil. a ruler.",
+        "confidence": 0.8262,
+        "bbox": {
+          "x": 0.086677,
+          "y": 0.660639,
+          "width": 0.792937,
+          "height": 0.022001
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized_unicode_or_edges",
+          "regex_fix:\\bIt's apen\\b"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "apen.",
+            "confidence": 0.7805
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "It’s apen. an eraser. a pencil. a ruler.",
+            "confidence": 0.8262
+          },
+          {
+            "engine": "rapidocr",
+            "content": "a ruler.",
+            "confidence": 0.7825
+          },
+          {
+            "engine": "rapidocr",
+            "content": "a pencil.",
+            "confidence": 0.7527
+          },
+          {
+            "engine": "rapidocr",
+            "content": "aneraser.",
+            "confidence": 0.8303
+          }
+        ]
+      },
+      {
+        "id": "text_0014",
+        "type": "instruction",
+        "content": "4Point, ask, and answer.",
+        "originalContent": "4Point,ask,andanswer.",
+        "confidence": 0.8622,
+        "bbox": {
+          "x": 0.034667,
+          "y": 0.708062,
+          "width": 0.290667,
+          "height": 0.023035
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase_space_restored"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4Point,ask,andanswer.",
+            "confidence": 0.8622
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 Point,ask,and answer. | pen pencil eraser ruler book",
+            "confidence": 0.7333
+          }
+        ]
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "pen",
+        "originalContent": "pen",
+        "confidence": 0.7488,
+        "bbox": {
+          "x": 0.369333,
+          "y": 0.71357,
+          "width": 0.047333,
+          "height": 0.022534
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "pencil",
+        "originalContent": "pencil",
+        "confidence": 0.8175,
+        "bbox": {
+          "x": 0.448,
+          "y": 0.71357,
+          "width": 0.066667,
+          "height": 0.021032
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "ruler",
+        "originalContent": "ruler",
+        "confidence": 0.8296,
+        "bbox": {
+          "x": 0.648,
+          "y": 0.714572,
+          "width": 0.053333,
+          "height": 0.018528
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "book",
+        "originalContent": "book",
+        "confidence": 0.7986,
+        "bbox": {
+          "x": 0.730667,
+          "y": 0.714572,
+          "width": 0.059333,
+          "height": 0.02003
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "eraser",
+        "originalContent": "eraser",
+        "confidence": 0.753,
+        "bbox": {
+          "x": 0.548,
+          "y": 0.717076,
+          "width": 0.068,
+          "height": 0.016024
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "What's this?",
+        "originalContent": "What's this?",
+        "confidence": 0.8902,
+        "bbox": {
+          "x": 0.11,
+          "y": 0.758137,
+          "width": 0.116667,
+          "height": 0.018027
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0021",
+        "type": "sentence",
+        "content": "It's a pencil.",
+        "originalContent": "It's a pencil.",
+        "confidence": 0.8987,
+        "bbox": {
+          "x": 0.125333,
+          "y": 0.803205,
+          "width": 0.112667,
+          "height": 0.020531
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "‘It’s a pencil. ~_",
+            "confidence": 0.69
+          },
+          {
+            "engine": "rapidocr",
+            "content": "It's a pencil.",
+            "confidence": 0.8987
+          }
+        ]
+      },
+      {
+        "id": "text_0022",
+        "type": "sentence",
+        "content": "What's this? It's a....",
+        "originalContent": "What'sthis?It'sa....",
+        "confidence": 0.8836,
+        "bbox": {
+          "x": 0.647333,
+          "y": 0.952429,
+          "width": 0.153333,
+          "height": 0.015023
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase_space_restored",
+          "missing_spaces_split"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "What's this? It'sa... Unit 1 da",
+            "confidence": 0.785
+          },
+          {
+            "engine": "rapidocr",
+            "content": "What'sthis?It'sa....",
+            "confidence": 0.8836
+          }
+        ]
+      },
+      {
+        "id": "text_0023",
+        "type": "heading",
+        "content": "Unit 1",
+        "originalContent": "Unit1",
+        "confidence": 0.7892,
+        "bbox": {
+          "x": 0.826667,
+          "y": 0.95343,
+          "width": 0.052667,
+          "height": 0.014522
+        },
+        "repaired": true,
+        "repairNotes": [
+          "heading_normalized"
+        ],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Lesson Two Grammar",
+      "Listen to the story again and repeat. Act.",
+      "2 Look and say.",
+      "Let's learn!",
+      "What's this?",
+      "It's a pen.",
+      "What's = What is",
+      "It's = It is",
+      "3 Write.",
+      "What's this?",
+      "What's this? What's this? What's this? What's this?",
+      "It's",
+      "It's a pen. an eraser. a pencil. a ruler.",
+      "4Point, ask, and answer.",
+      "pen",
+      "pencil",
+      "ruler",
+      "book",
+      "eraser",
+      "What's this?",
+      "It's a pencil.",
+      "What's this? It's a....",
+      "Unit 1"
+    ],
+    "paragraphs": [],
+    "sentences": [
+      {
+        "id": "text_0005",
+        "content": "What's this?",
+        "confidence": 0.85,
+        "bbox": {
+          "x": 0.65931,
+          "y": 0.283906,
+          "width": 0.126003,
+          "height": 0.014165
+        },
+        "sourceElementIds": [
+          "text_0005"
+        ]
+      },
+      {
+        "id": "text_0006",
+        "content": "It's a pen.",
+        "confidence": 0.8633,
+        "bbox": {
+          "x": 0.67175,
+          "y": 0.309222,
+          "width": 0.101124,
+          "height": 0.018385
+        },
+        "sourceElementIds": [
+          "text_0006"
+        ]
+      },
+      {
+        "id": "text_0007",
+        "content": "What's = What is",
+        "confidence": 0.9225,
+        "bbox": {
+          "x": 0.707464,
+          "y": 0.402049,
+          "width": 0.171348,
+          "height": 0.015069
+        },
+        "sourceElementIds": [
+          "text_0007"
+        ]
+      },
+      {
+        "id": "text_0008",
+        "content": "It's = It is",
+        "confidence": 0.7173,
+        "bbox": {
+          "x": 0.745333,
+          "y": 0.426139,
+          "width": 0.098,
+          "height": 0.018528
+        },
+        "sourceElementIds": [
+          "text_0008"
+        ]
+      },
+      {
+        "id": "text_0010",
+        "content": "What's this?",
+        "confidence": 0.8349,
+        "bbox": {
+          "x": 0.284,
+          "y": 0.631447,
+          "width": 0.124,
+          "height": 0.019029
+        },
+        "sourceElementIds": [
+          "text_0010"
+        ]
+      },
+      {
+        "id": "text_0011",
+        "content": "What's this? What's this? What's this? What's this?",
+        "confidence": 0.9462,
+        "bbox": {
+          "x": 0.066212,
+          "y": 0.63261,
+          "width": 0.784109,
+          "height": 0.017782
+        },
+        "sourceElementIds": [
+          "text_0011"
+        ]
+      },
+      {
+        "id": "text_0013",
+        "content": "It's a pen. an eraser. a pencil. a ruler.",
+        "confidence": 0.8262,
+        "bbox": {
+          "x": 0.086677,
+          "y": 0.660639,
+          "width": 0.792937,
+          "height": 0.022001
+        },
+        "sourceElementIds": [
+          "text_0013"
+        ]
+      },
+      {
+        "id": "text_0020",
+        "content": "What's this?",
+        "confidence": 0.8902,
+        "bbox": {
+          "x": 0.11,
+          "y": 0.758137,
+          "width": 0.116667,
+          "height": 0.018027
+        },
+        "sourceElementIds": [
+          "text_0020"
+        ]
+      },
+      {
+        "id": "text_0021",
+        "content": "It's a pencil.",
+        "confidence": 0.8987,
+        "bbox": {
+          "x": 0.125333,
+          "y": 0.803205,
+          "width": 0.112667,
+          "height": 0.020531
+        },
+        "sourceElementIds": [
+          "text_0021"
+        ]
+      },
+      {
+        "id": "text_0022",
+        "content": "What's this? It's a....",
+        "confidence": 0.8836,
+        "bbox": {
+          "x": 0.647333,
+          "y": 0.952429,
+          "width": 0.153333,
+          "height": 0.015023
+        },
+        "sourceElementIds": [
+          "text_0022"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "pen",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "pencil",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "ruler",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "book",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "eraser",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "topic": "What's this? / It's a ...",
+        "rule": [
+          "What's this?",
+          "It's a + noun"
+        ],
+        "form": null,
+        "positiveExamples": [
+          "What's this?",
+          "It's a pen.",
+          "It's a pencil."
+        ],
+        "negativeExamples": [],
+        "questionForms": [],
+        "shortAnswers": [],
+        "exceptions": [],
+        "usageNotes": [
+          "What's = What is",
+          "It's = It is"
+        ],
+        "practice": [
+          "Listen to the story again and repeat. Act.",
+          "Look and say.",
+          "Write.",
+          "Point, ask, and answer."
+        ],
+        "confidence": 0.99
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "lines": [
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "What's this?",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "It's a pen.",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "What's this?",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "It's a pencil.",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          }
+        ],
+        "confidence": 0.99
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "listening_activity",
+        "instruction": "Listen to the story again and repeat. Act.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "speaking_activity",
+        "instruction": "Look and say.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "writing_activity",
+        "instruction": "Write.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "4",
+        "type": "speaking_activity",
+        "instruction": "Point, ask, and answer.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "What's this?",
+          "It's a pen.",
+          "What's = What is",
+          "It's = It is",
+          "3 Write."
+        ],
+        "position": {
+          "x": 0.014,
+          "y": 0.263906,
+          "width": 0.884812,
+          "height": 0.234812
+        },
+        "textElementIds": [
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "What's this?",
+          "What's this? What's this? What's this? What's this?",
+          "It's",
+          "It's a pen. an eraser. a pencil. a ruler.",
+          "4Point, ask, and answer.",
+          "pen",
+          "pencil",
+          "ruler",
+          "book",
+          "eraser",
+          "What's this?",
+          "It's a pencil."
+        ],
+        "position": {
+          "x": 0.014667,
+          "y": 0.611447,
+          "width": 0.884947,
+          "height": 0.232289
+        },
+        "textElementIds": [
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "nonEducationalText": [],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "grammar",
+    "title": "Lesson Two Grammar",
+    "learningObjectives": [
+      "Study content: Lesson Two Grammar"
+    ],
+    "targetVocabulary": [
+      {
+        "word": "pen",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "pencil",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "ruler",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "book",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "eraser",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "What's this?",
+        "meaning": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "grammar": [
+      {
+        "topic": "What's this? / It's a ...",
+        "rule": [
+          "What's this?",
+          "It's a + noun"
+        ],
+        "form": null,
+        "positiveExamples": [
+          "What's this?",
+          "It's a pen.",
+          "It's a pencil."
+        ],
+        "negativeExamples": [],
+        "questionForms": [],
+        "shortAnswers": [],
+        "exceptions": [],
+        "usageNotes": [
+          "What's = What is",
+          "It's = It is"
+        ],
+        "practice": [
+          "Listen to the story again and repeat. Act.",
+          "Look and say.",
+          "Write.",
+          "Point, ask, and answer."
+        ],
+        "confidence": 0.99
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "What's this?",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "It's a pen.",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "What's this?",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "It's a pencil.",
+            "confidence": 0.99
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "listening_activity",
+        "instruction": "Listen to the story again and repeat. Act.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "speaking_activity",
+        "instruction": "Look and say.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "writing_activity",
+        "instruction": "Write.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "4",
+        "type": "speaking_activity",
+        "instruction": "Point, ask, and answer.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [
+      {
+        "exerciseNumber": "1",
+        "instruction": "Listen to the story again and repeat. Act.",
+        "type": "listening_activity",
+        "confidence": 0.99
+      }
+    ],
+    "speaking": [
+      {
+        "exerciseNumber": "1",
+        "instruction": "Listen to the story again and repeat. Act.",
+        "type": "listening_activity",
+        "confidence": 0.99
+      },
+      {
+        "exerciseNumber": "2",
+        "instruction": "Look and say.",
+        "type": "speaking_activity",
+        "confidence": 0.99
+      },
+      {
+        "exerciseNumber": "3",
+        "instruction": "Write.",
+        "type": "writing_activity",
+        "confidence": 0.99
+      },
+      {
+        "exerciseNumber": "4",
+        "instruction": "Point, ask, and answer.",
+        "type": "speaking_activity",
+        "confidence": 0.99
+      }
+    ],
+    "writing": [
+      {
+        "exerciseNumber": "3",
+        "instruction": "Write.",
+        "type": "writing_activity",
+        "confidence": 0.99
+      }
+    ],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [],
+    "verifiedAgainstPdf": true,
+    "repairStats": {
+      "text_repaired": 7,
+      "text_kept": 23,
+      "vocab_kept": 8,
+      "grammar_items": 1,
+      "dialogue_lines": 13,
+      "dialogues_reconstructed": 1,
+      "exercises_reconstructed": 5
+    },
+    "averageOcrConfidence": 0.8376
+  },
+  "metadata": {
+    "book": "Family and Friends 1 Student Book (American)",
+    "author": "Naomi Simmons",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_v1",
+    "originalOcrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "originalAverageConfidence": 0.8376,
+    "noHallucinationPolicy": "Definitions, translations, speaker names, answers, and grammar rules are null or omitted unless visibly supported by page OCR/PDF. Text repairs are limited to spacing, punctuation, and clear OCR character errors."
+  }
+}

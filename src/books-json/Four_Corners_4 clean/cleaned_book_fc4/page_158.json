@@ -1,0 +1,90 @@
+{
+  "pageNumber": 151,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "sequential inference from neighboring footers",
+  "pdfPageNumber": 158,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 4_Part7.pdf",
+    "pdfLocalPageNumber": 16,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [],
+    "ocrExercises": [],
+    "ocrTables": [],
+    "ocrImages": [],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "dehkhodaedu.com",
+      "tesseract_psm3": "dehkhodaedu.com\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.91,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "page",
+    "headings": [],
+    "textElements": [],
+    "fullTextReadingOrder": [],
+    "paragraphs": [],
+    "sentences": [],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [],
+    "exercises": [],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "page",
+    "title": "",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [],
+    "reading": [],
+    "exercises": [],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {},
+    "averageOcrConfidence": 0.91,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 4 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc4_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

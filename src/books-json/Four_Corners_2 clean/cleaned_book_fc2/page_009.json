@@ -1,0 +1,1145 @@
+{
+  "pageNumber": 2,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "sequential inference from neighboring footers",
+  "pdfPageNumber": 9,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 2_Part1.pdf",
+    "pdfLocalPageNumber": 9,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Welcome",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.075294,
+          "y": 0.076667,
+          "width": 0.237255,
+          "height": 0.028485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Welcome",
+            "confidence": 0.8679
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Welcome",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "1 Working with a partner",
+        "confidence": 0.8718,
+        "bbox": {
+          "x": 0.074667,
+          "y": 0.14271,
+          "width": 0.405333,
+          "height": 0.028336
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "1 Working with a partner",
+            "confidence": 0.8718
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "\\) Working with a partner",
+            "confidence": 0.768
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "sentence",
+        "content": "A Complete the conversations with the correct sentences. Then listen and check your answers.",
+        "confidence": 0.9536,
+        "bbox": {
+          "x": 0.118824,
+          "y": 0.180303,
+          "width": 0.684314,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Complete the conversations with the correct sentences.Then listen and check your answers.",
+            "confidence": 0.9095
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Complete the conversations with the correct sentences. Then listen and check your answers.",
+            "confidence": 0.9536
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "Whose turn is it?",
+        "confidence": 0.8899,
+        "bbox": {
+          "x": 0.432,
+          "y": 0.20711,
+          "width": 0.112,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "sentence",
+        "content": "@ Can| borrow your pen? @ Whose turn is it?",
+        "confidence": 0.806,
+        "bbox": {
+          "x": 0.150588,
+          "y": 0.207879,
+          "width": 0.391765,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "CanIborrowyourpen?",
+            "confidence": 0.9084
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "@ Can| borrow your pen? @ Whose turn is it?",
+            "confidence": 0.806
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "Are you ready?",
+        "confidence": 0.8257,
+        "bbox": {
+          "x": 0.432667,
+          "y": 0.228233,
+          "width": 0.099333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "sentence",
+        "content": "@ Let’s compare our answers! @ Areyou ready?",
+        "confidence": 0.9213,
+        "bbox": {
+          "x": 0.150588,
+          "y": 0.229091,
+          "width": 0.380392,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Let's compare ouranswers!",
+            "confidence": 0.8659
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "@ Let’s compare our answers! @ Areyou ready?",
+            "confidence": 0.9213
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "Sure.Hereyou go",
+        "confidence": 0.845,
+        "bbox": {
+          "x": 0.683333,
+          "y": 0.308604,
+          "width": 0.120667,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "Notyet.Justa second.",
+        "confidence": 0.8959,
+        "bbox": {
+          "x": 0.248,
+          "y": 0.465224,
+          "width": 0.148667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "Whatdoyouhavefornumberone?",
+        "confidence": 0.9509,
+        "bbox": {
+          "x": 0.268667,
+          "y": 0.710459,
+          "width": 0.23,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "It's your turn.",
+        "confidence": 0.8645,
+        "bbox": {
+          "x": 0.790667,
+          "y": 0.736734,
+          "width": 0.089333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "CORNERS",
+        "confidence": 0.6738,
+        "bbox": {
+          "x": 0.253333,
+          "y": 0.766615,
+          "width": 0.043333,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "Practicetheconversations.",
+        "confidence": 0.9252,
+        "bbox": {
+          "x": 0.229333,
+          "y": 0.927872,
+          "width": 0.186667,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "ATM Practice the conversations.",
+            "confidence": 0.81
+          },
+          {
+            "engine": "rapidocr",
+            "content": "PAIRWORK",
+            "confidence": 0.8498
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Practicetheconversations.",
+            "confidence": 0.9252
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Whose turn is it?",
+            "confidence": 0.8899,
+            "bbox": {
+              "x": 0.432,
+              "y": 0.20711,
+              "width": 0.112,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0004",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Are you ready?",
+            "confidence": 0.8257,
+            "bbox": {
+              "x": 0.432667,
+              "y": 0.228233,
+              "width": 0.099333,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0006",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Notyet.Justa second.",
+            "confidence": 0.8959,
+            "bbox": {
+              "x": 0.248,
+              "y": 0.465224,
+              "width": 0.148667,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0009",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Whatdoyouhavefornumberone?",
+            "confidence": 0.9509,
+            "bbox": {
+              "x": 0.268667,
+              "y": 0.710459,
+              "width": 0.23,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0010",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "It's your turn.",
+            "confidence": 0.8645,
+            "bbox": {
+              "x": 0.790667,
+              "y": 0.736734,
+              "width": 0.089333,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0011",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "selection_exercise",
+        "instruction": "Complete the conversations with the correct sentences. Then listen and check your answers.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0003"
+        ],
+        "confidence": 0.9536
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Whose turn is it?",
+          "@ Can| borrow your pen? @ Whose turn is it?",
+          "Are you ready?",
+          "@ Let’s compare our answers! @ Areyou ready?",
+          "Sure.Hereyou go"
+        ],
+        "position": {
+          "x": 0.130588,
+          "y": 0.18711,
+          "width": 0.6934119999999999,
+          "height": 0.15798
+        },
+        "textElementIds": [
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Whatdoyouhavefornumberone?",
+          "It's your turn.",
+          "CORNERS"
+        ],
+        "position": {
+          "x": 0.23333299999999998,
+          "y": 0.6904589999999999,
+          "width": 0.666667,
+          "height": 0.11264200000000013
+        },
+        "textElementIds": [
+          "text_0010",
+          "text_0011",
+          "text_0012"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "Welcome\n1 Working with a partner\nA Complete the conversations with the correct sentences.Then listen and check your answers.\nWhose turn is it?\nCanIborrowyourpen?\nLet's compare ouranswers!\nAre you ready?\nSure.Hereyou go\nNotyet.Justa second.\nWhatdoyouhavefornumberone?\nIt's your turn.\nCORNERS\nPAIRWORK\nPracticetheconversations.\ndehkhodaedu.com",
+      "tesseract_psm3": "Welcome\n\n\\) Working with a partner\n\nA Complete the conversations with the correct sentences. Then listen and check your answers.\n\n@ Can| borrow your pen? @ Whose turn is it?\n@ Let’s compare our answers! @ Areyou ready?\n\nATM Practice the conversations.\n\ndehkhodaedu.com\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8774,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "1 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "page",
+    "headings": [
+      "Welcome",
+      "1 Working with a partner"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Welcome",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.075294,
+          "y": 0.076667,
+          "width": 0.237255,
+          "height": 0.028485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Welcome",
+            "confidence": 0.8679
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Welcome",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "1 Working with a partner",
+        "confidence": 0.8718,
+        "bbox": {
+          "x": 0.074667,
+          "y": 0.14271,
+          "width": 0.405333,
+          "height": 0.028336
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "1 Working with a partner",
+            "confidence": 0.8718
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "\\) Working with a partner",
+            "confidence": 0.768
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "sentence",
+        "content": "A Complete the conversations with the correct sentences. Then listen and check your answers.",
+        "confidence": 0.9536,
+        "bbox": {
+          "x": 0.118824,
+          "y": 0.180303,
+          "width": 0.684314,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Complete the conversations with the correct sentences.Then listen and check your answers.",
+            "confidence": 0.9095
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Complete the conversations with the correct sentences. Then listen and check your answers.",
+            "confidence": 0.9536
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "Whose turn is it?",
+        "confidence": 0.8899,
+        "bbox": {
+          "x": 0.432,
+          "y": 0.20711,
+          "width": 0.112,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "sentence",
+        "content": "Can| borrow your pen? @ Whose turn is it?",
+        "confidence": 0.806,
+        "bbox": {
+          "x": 0.150588,
+          "y": 0.207879,
+          "width": 0.391765,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "CanIborrowyourpen?",
+            "confidence": 0.9084
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "@ Can| borrow your pen? @ Whose turn is it?",
+            "confidence": 0.806
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "Are you ready?",
+        "confidence": 0.8257,
+        "bbox": {
+          "x": 0.432667,
+          "y": 0.228233,
+          "width": 0.099333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "sentence",
+        "content": "Let's compare our answers! @ Areyou ready?",
+        "confidence": 0.9213,
+        "bbox": {
+          "x": 0.150588,
+          "y": 0.229091,
+          "width": 0.380392,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Let's compare ouranswers!",
+            "confidence": 0.8659
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "@ Let’s compare our answers! @ Areyou ready?",
+            "confidence": 0.9213
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "Sure. Hereyou go",
+        "confidence": 0.845,
+        "bbox": {
+          "x": 0.683333,
+          "y": 0.308604,
+          "width": 0.120667,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "Notyet. Justa second.",
+        "confidence": 0.8959,
+        "bbox": {
+          "x": 0.248,
+          "y": 0.465224,
+          "width": 0.148667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "Whatdoyouhavefornumberone?",
+        "confidence": 0.9509,
+        "bbox": {
+          "x": 0.268667,
+          "y": 0.710459,
+          "width": 0.23,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "It's your turn.",
+        "confidence": 0.8645,
+        "bbox": {
+          "x": 0.790667,
+          "y": 0.736734,
+          "width": 0.089333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "CORNERS",
+        "confidence": 0.6738,
+        "bbox": {
+          "x": 0.253333,
+          "y": 0.766615,
+          "width": 0.043333,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "Practicetheconversations.",
+        "confidence": 0.9252,
+        "bbox": {
+          "x": 0.229333,
+          "y": 0.927872,
+          "width": 0.186667,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "ATM Practice the conversations.",
+            "confidence": 0.81
+          },
+          {
+            "engine": "rapidocr",
+            "content": "PAIRWORK",
+            "confidence": 0.8498
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Practicetheconversations.",
+            "confidence": 0.9252
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Welcome",
+      "1 Working with a partner",
+      "A Complete the conversations with the correct sentences. Then listen and check your answers.",
+      "Whose turn is it?",
+      "Can| borrow your pen? @ Whose turn is it?",
+      "Are you ready?",
+      "Let's compare our answers! @ Areyou ready?",
+      "Sure. Hereyou go",
+      "Notyet. Justa second.",
+      "Whatdoyouhavefornumberone?",
+      "It's your turn.",
+      "CORNERS",
+      "Practicetheconversations."
+    ],
+    "paragraphs": [],
+    "sentences": [
+      "Welcome 1 Working with a partner A Complete the conversations with the correct sentences",
+      "Then listen and check your answers",
+      "Whose turn is it",
+      "Can| borrow your pen",
+      "@ Whose turn is it",
+      "Are you ready",
+      "Let's compare our answers",
+      "@ Areyou ready",
+      "Sure",
+      "Hereyou go Notyet",
+      "Justa second",
+      "Whatdoyouhavefornumberone",
+      "It's your turn",
+      "CORNERS Practicetheconversations"
+    ],
+    "vocabulary": [
+      {
+        "word": "Whose turn is it?",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "Can I borrow your pen?",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "Let's compare our answers!",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "Are you ready?",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "Sure. Here you go.",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "Not yet. Just a second.",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "What do you have for number one?",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "It's your turn.",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      }
+    ],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Whose turn is it?",
+            "confidence": 0.8899,
+            "bbox": {
+              "x": 0.432,
+              "y": 0.20711,
+              "width": 0.112,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0004"
+          },
+          {
+            "speaker": null,
+            "content": "Are you ready?",
+            "confidence": 0.8257,
+            "bbox": {
+              "x": 0.432667,
+              "y": 0.228233,
+              "width": 0.099333,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0006"
+          },
+          {
+            "speaker": null,
+            "content": "Notyet.",
+            "confidence": 0.8959,
+            "bbox": {
+              "x": 0.248,
+              "y": 0.465224,
+              "width": 0.148667,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0009"
+          },
+          {
+            "speaker": null,
+            "content": "Justa second.",
+            "confidence": 0.8959,
+            "bbox": {
+              "x": 0.248,
+              "y": 0.465224,
+              "width": 0.148667,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0009"
+          },
+          {
+            "speaker": null,
+            "content": "Whatdoyouhavefornumberone?",
+            "confidence": 0.9509,
+            "bbox": {
+              "x": 0.268667,
+              "y": 0.710459,
+              "width": 0.23,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0010"
+          },
+          {
+            "speaker": null,
+            "content": "It's your turn.",
+            "confidence": 0.8645,
+            "bbox": {
+              "x": 0.790667,
+              "y": 0.736734,
+              "width": 0.089333,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0011"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Complete the conversations with the correct sentences. Then listen and check your answers.",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Whose turn is it?",
+          "Can| borrow your pen? @ Whose turn is it?",
+          "Are you ready?",
+          "Let's compare our answers! @ Areyou ready?",
+          "Sure. Hereyou go"
+        ],
+        "position": {
+          "x": 0.130588,
+          "y": 0.18711,
+          "width": 0.6934119999999999,
+          "height": 0.15798
+        },
+        "textElementIds": [
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Whatdoyouhavefornumberone?",
+          "It's your turn.",
+          "CORNERS"
+        ],
+        "position": {
+          "x": 0.23333299999999998,
+          "y": 0.6904589999999999,
+          "width": 0.666667,
+          "height": 0.11264200000000013
+        },
+        "textElementIds": [
+          "text_0010",
+          "text_0011",
+          "text_0012"
+        ]
+      }
+    ],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "page",
+    "title": "Welcome",
+    "learningObjectives": [],
+    "targetVocabulary": [
+      {
+        "word": "Whose turn is it?",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "Can I borrow your pen?",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "Let's compare our answers!",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "Are you ready?",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "Sure. Here you go.",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "Not yet. Just a second.",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "What do you have for number one?",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "It's your turn.",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "Whose turn is it?",
+            "confidence": 0.8899
+          },
+          {
+            "speaker": null,
+            "content": "Are you ready?",
+            "confidence": 0.8257
+          },
+          {
+            "speaker": null,
+            "content": "Notyet.",
+            "confidence": 0.8959
+          },
+          {
+            "speaker": null,
+            "content": "Justa second.",
+            "confidence": 0.8959
+          },
+          {
+            "speaker": null,
+            "content": "Whatdoyouhavefornumberone?",
+            "confidence": 0.9509
+          },
+          {
+            "speaker": null,
+            "content": "It's your turn.",
+            "confidence": 0.8645
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Complete the conversations with the correct sentences. Then listen and check your answers.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "1 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ],
+    "verifiedAgainstPdf": true,
+    "repairStats": {
+      "dialoguesSplit": 2
+    },
+    "averageOcrConfidence": 0.8774,
+    "verificationMethod": "independent_ocr_crosscheck"
+  },
+  "metadata": {
+    "book": "Four Corners 2 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc2_v1",
+    "verificationMethod": "independent_ocr_crosscheck",
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

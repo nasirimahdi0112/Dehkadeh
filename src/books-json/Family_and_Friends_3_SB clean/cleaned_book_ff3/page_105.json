@@ -1,0 +1,3219 @@
+{
+  "pageNumber": 100,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "verified sequential printed-footer pattern after duplicate source pages",
+  "pdfPageNumber": 105,
+  "source": {
+    "pdfFile": "Family and Friends 3 SB_Part2.pdf",
+    "pdfLocalPageNumber": 14,
+    "pageSizePoints": {
+      "width": 586.56,
+      "height": 785.04
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Skills Time!",
+        "confidence": 0.8487,
+        "bbox": {
+          "x": 0.116667,
+          "y": 0.027902,
+          "width": 0.313333,
+          "height": 0.037867
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Lesson Five",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.055237,
+          "y": 0.077958,
+          "width": 0.134206,
+          "height": 0.01712
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Lesson Five",
+            "confidence": 0.8256
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Lesson Five",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Reading",
+        "confidence": 0.8673,
+        "bbox": {
+          "x": 0.057333,
+          "y": 0.118585,
+          "width": 0.082667,
+          "height": 0.01993
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Listen,point, and repeat.",
+        "confidence": 0.8359,
+        "bbox": {
+          "x": 0.077333,
+          "y": 0.151968,
+          "width": 0.283333,
+          "height": 0.015944
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Listen, point, and repeat. ©) 1",
+            "confidence": 0.8086
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen,point, and repeat.",
+            "confidence": 0.8359
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "121",
+        "confidence": 0.6865,
+        "bbox": {
+          "x": 0.374,
+          "y": 0.153961,
+          "width": 0.019333,
+          "height": 0.011958
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "az",
+        "confidence": 0.87,
+        "bbox": {
+          "x": 0.243044,
+          "y": 0.17915,
+          "width": 0.251227,
+          "height": 0.070926
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "az",
+            "confidence": 0.87
+          },
+          {
+            "engine": "rapidocr",
+            "content": "sad",
+            "confidence": 0.5819
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "cheerful",
+        "confidence": 0.8807,
+        "bbox": {
+          "x": 0.066,
+          "y": 0.252118,
+          "width": 0.095333,
+          "height": 0.022422
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "worried",
+        "confidence": 0.787,
+        "bbox": {
+          "x": 0.541333,
+          "y": 0.253114,
+          "width": 0.090667,
+          "height": 0.020927
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "relaxed",
+        "confidence": 0.8406,
+        "bbox": {
+          "x": 0.386667,
+          "y": 0.254111,
+          "width": 0.086,
+          "height": 0.018934
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "generous",
+        "confidence": 0.8622,
+        "bbox": {
+          "x": 0.849333,
+          "y": 0.255107,
+          "width": 0.107333,
+          "height": 0.018934
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "mean",
+        "confidence": 0.7823,
+        "bbox": {
+          "x": 0.712,
+          "y": 0.2571,
+          "width": 0.066667,
+          "height": 0.015446
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0012",
+        "type": "paragraph",
+        "content": "2 Describe what you can see in the pictures below.",
+        "confidence": 0.945,
+        "bbox": {
+          "x": 0.045827,
+          "y": 0.295628,
+          "width": 0.525368,
+          "height": 0.018037
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2 Describe what you can see in the pictures below.",
+            "confidence": 0.8867
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Describe what you can see in the pictures below.",
+            "confidence": 0.945
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "instruction",
+        "content": "3Listen and read.122",
+        "confidence": 0.8473,
+        "bbox": {
+          "x": 0.044,
+          "y": 0.330842,
+          "width": 0.261333,
+          "height": 0.019432
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3Listen and read.122",
+            "confidence": 0.8473
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Listen and read. () 122",
+            "confidence": 0.7633
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "Her egeswerebright and blue",
+        "confidence": 0.8793,
+        "bbox": {
+          "x": 0.394667,
+          "y": 0.387643,
+          "width": 0.284667,
+          "height": 0.025909
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "When my grandma was a gurl.",
+            "confidence": 0.8585
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Her egeswerebright and blue",
+            "confidence": 0.8793
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Shehod long,black, straighthair",
+            "confidence": 0.8405
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "Hexr face uras pretty,too.",
+        "confidence": 0.7952,
+        "bbox": {
+          "x": 0.396667,
+          "y": 0.42003,
+          "width": 0.237333,
+          "height": 0.019432
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Hexr face uras pretty,too.",
+            "confidence": 0.7952
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Inthvs photo I cansee,",
+            "confidence": 0.7628
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "Grandma",
+        "confidence": 0.7373,
+        "bbox": {
+          "x": 0.114,
+          "y": 0.428002,
+          "width": 0.229333,
+          "height": 0.044843
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Grandmawasa Lot Likeme.",
+        "confidence": 0.8492,
+        "bbox": {
+          "x": 0.397333,
+          "y": 0.462382,
+          "width": 0.267333,
+          "height": 0.021425
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Whatgrandma uas luke then.",
+            "confidence": 0.8279
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Grandmawasa Lot Likeme.",
+            "confidence": 0.8492
+          },
+          {
+            "engine": "rapidocr",
+            "content": "When she was only tan.",
+            "confidence": 0.7962
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "paragraph",
+        "content": "Grandma had her wedding day",
+        "confidence": 0.8943,
+        "bbox": {
+          "x": 0.293333,
+          "y": 0.498754,
+          "width": 0.296,
+          "height": 0.041854
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Grandma had her wedding day",
+            "confidence": 0.8943
+          },
+          {
+            "engine": "rapidocr",
+            "content": "when she wastwenty-two.",
+            "confidence": 0.7977
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "paragraph",
+        "content": "Next they had a baby boy.",
+        "confidence": 0.8633,
+        "bbox": {
+          "x": 0.279333,
+          "y": 0.585451,
+          "width": 0.260667,
+          "height": 0.03986
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "And I am very glad.",
+            "confidence": 0.8376
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Next they had a baby boy.",
+            "confidence": 0.8633
+          },
+          {
+            "engine": "rapidocr",
+            "content": "That baby was my dad.",
+            "confidence": 0.8789
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "She'svery cheerful all the time.",
+        "confidence": 0.843,
+        "bbox": {
+          "x": 0.350667,
+          "y": 0.675635,
+          "width": 0.297333,
+          "height": 0.027902
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "/ Now my grandma's",
+            "confidence": 0.54
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Her hair is shontand gray",
+            "confidence": 0.8218
+          },
+          {
+            "engine": "rapidocr",
+            "content": "She'svery cheerful all the time.",
+            "confidence": 0.843
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "She's very",
+            "confidence": 0.805
+          },
+          {
+            "engine": "rapidocr",
+            "content": "She's happy every day:",
+            "confidence": 0.8559
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "She'salways rice and generous,",
+        "confidence": 0.8585,
+        "bbox": {
+          "x": 0.348,
+          "y": 0.705032,
+          "width": 0.3,
+          "height": 0.028899
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "She'salways rice and generous,",
+            "confidence": 0.8585
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Ithinkthat you can See,",
+            "confidence": 0.8395
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "AndIknowthat she lovesme",
+        "confidence": 0.8436,
+        "bbox": {
+          "x": 0.346,
+          "y": 0.748381,
+          "width": 0.280667,
+          "height": 0.025909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "And If know that she. ea Bee",
+            "confidence": 0.6043
+          },
+          {
+            "engine": "rapidocr",
+            "content": "AndIknowthat she lovesme",
+            "confidence": 0.8436
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "instruction",
+        "content": "4 Read again and write T (true) or F (false).",
+        "confidence": 0.915,
+        "bbox": {
+          "x": 0.043781,
+          "y": 0.822378,
+          "width": 0.447218,
+          "height": 0.019566
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4Read again and writeT (true)orF (false).",
+            "confidence": 0.8846
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 Read again and write T (true) or F (false).",
+            "confidence": 0.915
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "1Grandmahadshorthairwhen",
+        "confidence": 0.9251,
+        "bbox": {
+          "x": 0.074,
+          "y": 0.850523,
+          "width": 0.314667,
+          "height": 0.014948
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "paragraph",
+        "content": "1 Grandma had short hair when 2 Grandma was pretty when",
+        "confidence": 0.9455,
+        "bbox": {
+          "x": 0.074468,
+          "y": 0.85081,
+          "width": 0.747954,
+          "height": 0.015592
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2 Grandmawasprettywhen",
+            "confidence": 0.8743
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Grandma had short hair when 2 Grandma was pretty when",
+            "confidence": 0.9455
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "sentence",
+        "content": "she was a girl. hi she was a girl.",
+        "confidence": 0.8744,
+        "bbox": {
+          "x": 0.098609,
+          "y": 0.871293,
+          "width": 0.604337,
+          "height": 0.020483
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "she was a girl. hi she was a girl.",
+            "confidence": 0.8744
+          },
+          {
+            "engine": "rapidocr",
+            "content": "she was a girl.",
+            "confidence": 0.848
+          },
+          {
+            "engine": "rapidocr",
+            "content": "shewas a girl.",
+            "confidence": 0.8909
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "4 Grandmaissometimessad.",
+        "confidence": 0.8655,
+        "bbox": {
+          "x": 0.544,
+          "y": 0.895864,
+          "width": 0.288,
+          "height": 0.014948
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "paragraph",
+        "content": "3 Grandma is sixty now. 4 Grandma is sometimes sad.",
+        "confidence": 0.943,
+        "bbox": {
+          "x": 0.074468,
+          "y": 0.896362,
+          "width": 0.756956,
+          "height": 0.016203
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3 Grandmais sixty now.",
+            "confidence": 0.837
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Grandma is sixty now. 4 Grandma is sometimes sad.",
+            "confidence": 0.943
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "5 Grandmaisnevergenerous.",
+        "confidence": 0.8674,
+        "bbox": {
+          "x": 0.073333,
+          "y": 0.918784,
+          "width": 0.293333,
+          "height": 0.016941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "paragraph",
+        "content": "5 Grandma is never generous. 6 Grandma has gray hair now.",
+        "confidence": 0.9527,
+        "bbox": {
+          "x": 0.074468,
+          "y": 0.919596,
+          "width": 0.766367,
+          "height": 0.016203
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "6 Grandma hasgray hairnow.",
+            "confidence": 0.8672
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 Grandma is never generous. 6 Grandma has gray hair now.",
+            "confidence": 0.9527
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "100",
+        "confidence": 0.7462,
+        "bbox": {
+          "x": 0.015333,
+          "y": 0.965122,
+          "width": 0.041333,
+          "height": 0.018435
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "Reading:apoem",
+        "confidence": 0.8284,
+        "bbox": {
+          "x": 0.418,
+          "y": 0.967613,
+          "width": 0.124,
+          "height": 0.015944
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "heading",
+        "content": "Unit 12 Adjectives to describe people Reading: a poem",
+        "confidence": 0.9078,
+        "bbox": {
+          "x": 0.097381,
+          "y": 0.969123,
+          "width": 0.442717,
+          "height": 0.01284
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Unit 1zAdjectivesto describepeople",
+            "confidence": 0.8761
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Unit 12 Adjectives to describe people Reading: a poem",
+            "confidence": 0.9078
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "az",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.243044,
+          "y": 0.17915,
+          "width": 0.251227,
+          "height": 0.070926
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.87
+      },
+      {
+        "word": "cheerful",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.066,
+          "y": 0.252118,
+          "width": 0.095333,
+          "height": 0.022422
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.8807
+      },
+      {
+        "word": "worried",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.541333,
+          "y": 0.253114,
+          "width": 0.090667,
+          "height": 0.020927
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.787
+      },
+      {
+        "word": "relaxed",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.386667,
+          "y": 0.254111,
+          "width": 0.086,
+          "height": 0.018934
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.8406
+      },
+      {
+        "word": "generous",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.849333,
+          "y": 0.255107,
+          "width": 0.107333,
+          "height": 0.018934
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.8622
+      },
+      {
+        "word": "mean",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.712,
+          "y": 0.2571,
+          "width": 0.066667,
+          "height": 0.015446
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.7823
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "She'svery cheerful all the time.",
+            "confidence": 0.843,
+            "bbox": {
+              "x": 0.350667,
+              "y": 0.675635,
+              "width": 0.297333,
+              "height": 0.027902
+            },
+            "sourceElementId": "text_0020",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "she was a girl. hi she was a girl.",
+            "confidence": 0.8744,
+            "bbox": {
+              "x": 0.098609,
+              "y": 0.871293,
+              "width": 0.604337,
+              "height": 0.020483
+            },
+            "sourceElementId": "text_0026",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Speech-bubble/dialogue-like text was detected spatially; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "3",
+        "type": "listening_activity",
+        "instruction": "Listen and read.122",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0013"
+        ],
+        "confidence": 0.8473
+      },
+      {
+        "exerciseNumber": "4",
+        "type": "writing_activity",
+        "instruction": "Read again and write T (true) or F (false).",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0023"
+        ],
+        "confidence": 0.915
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "cheerful",
+          "worried",
+          "relaxed",
+          "generous",
+          "mean",
+          "2 Describe what you can see in the pictures below.",
+          "3Listen and read.122",
+          "Her egeswerebright and blue"
+        ],
+        "position": {
+          "x": 0.024,
+          "y": 0.232118,
+          "width": 0.952666,
+          "height": 0.201434
+        },
+        "textElementIds": [
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Hexr face uras pretty,too.",
+          "Grandma",
+          "Grandmawasa Lot Likeme.",
+          "Grandma had her wedding day"
+        ],
+        "position": {
+          "x": 0.094,
+          "y": 0.40003,
+          "width": 0.590666,
+          "height": 0.160578
+        },
+        "textElementIds": [
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Next they had a baby boy.",
+          "She'svery cheerful all the time.",
+          "She'salways rice and generous,",
+          "AndIknowthat she lovesme"
+        ],
+        "position": {
+          "x": 0.259333,
+          "y": 0.565451,
+          "width": 0.408667,
+          "height": 0.228839
+        },
+        "textElementIds": [
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "4 Read again and write T (true) or F (false).",
+          "1Grandmahadshorthairwhen",
+          "1 Grandma had short hair when 2 Grandma was pretty when"
+        ],
+        "position": {
+          "x": 0.023781,
+          "y": 0.802378,
+          "width": 0.818641,
+          "height": 0.084024
+        },
+        "textElementIds": [
+          "text_0023",
+          "text_0024",
+          "text_0025"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [
+      {
+        "content": "3Listen and read.122",
+        "confidence": 0.8473,
+        "bbox": {
+          "x": 0.044,
+          "y": 0.330842,
+          "width": 0.261333,
+          "height": 0.019432
+        },
+        "sourceElementId": "text_0013"
+      },
+      {
+        "content": "Her egeswerebright and blue",
+        "confidence": 0.8793,
+        "bbox": {
+          "x": 0.394667,
+          "y": 0.387643,
+          "width": 0.284667,
+          "height": 0.025909
+        },
+        "sourceElementId": "text_0014"
+      },
+      {
+        "content": "Hexr face uras pretty,too.",
+        "confidence": 0.7952,
+        "bbox": {
+          "x": 0.396667,
+          "y": 0.42003,
+          "width": 0.237333,
+          "height": 0.019432
+        },
+        "sourceElementId": "text_0015"
+      },
+      {
+        "content": "Grandmawasa Lot Likeme.",
+        "confidence": 0.8492,
+        "bbox": {
+          "x": 0.397333,
+          "y": 0.462382,
+          "width": 0.267333,
+          "height": 0.021425
+        },
+        "sourceElementId": "text_0017"
+      },
+      {
+        "content": "Grandma had her wedding day",
+        "confidence": 0.8943,
+        "bbox": {
+          "x": 0.293333,
+          "y": 0.498754,
+          "width": 0.296,
+          "height": 0.041854
+        },
+        "sourceElementId": "text_0018"
+      },
+      {
+        "content": "Next they had a baby boy.",
+        "confidence": 0.8633,
+        "bbox": {
+          "x": 0.279333,
+          "y": 0.585451,
+          "width": 0.260667,
+          "height": 0.03986
+        },
+        "sourceElementId": "text_0019"
+      },
+      {
+        "content": "She'svery cheerful all the time.",
+        "confidence": 0.843,
+        "bbox": {
+          "x": 0.350667,
+          "y": 0.675635,
+          "width": 0.297333,
+          "height": 0.027902
+        },
+        "sourceElementId": "text_0020"
+      },
+      {
+        "content": "She'salways rice and generous,",
+        "confidence": 0.8585,
+        "bbox": {
+          "x": 0.348,
+          "y": 0.705032,
+          "width": 0.3,
+          "height": 0.028899
+        },
+        "sourceElementId": "text_0021"
+      },
+      {
+        "content": "AndIknowthat she lovesme",
+        "confidence": 0.8436,
+        "bbox": {
+          "x": 0.346,
+          "y": 0.748381,
+          "width": 0.280667,
+          "height": 0.025909
+        },
+        "sourceElementId": "text_0022"
+      },
+      {
+        "content": "she was a girl. hi she was a girl.",
+        "confidence": 0.8744,
+        "bbox": {
+          "x": 0.098609,
+          "y": 0.871293,
+          "width": 0.604337,
+          "height": 0.020483
+        },
+        "sourceElementId": "text_0026"
+      },
+      {
+        "content": "Unit 12 Adjectives to describe people Reading: a poem",
+        "confidence": 0.9078,
+        "bbox": {
+          "x": 0.097381,
+          "y": 0.969123,
+          "width": 0.442717,
+          "height": 0.01284
+        },
+        "sourceElementId": "text_0033"
+      }
+    ],
+    "rawOcrAudit": {
+      "rapidocr": "Skills Time!\nLesson Five\nReading\nListen,point, and repeat.\n121\ncheerful\nsad\nworried\nrelaxed\ngenerous\nmean\n2 Describe what you can see in the pictures below.\n3Listen and read.122\nWhen my grandma was a gurl.\nHer egeswerebright and blue\nShehod long,black, straighthair\nHexr face uras pretty,too.\nGrandma\nInthvs photo I cansee,\nWhatgrandma uas luke then.\nGrandmawasa Lot Likeme.\nWhen she was only tan.\nGrandma had her wedding day\nwhen she wastwenty-two.\nAnd I am very glad.\nNext they had a baby boy.\nThat baby was my dad.\nHer hair is shontand gray\nShe'svery cheerful all the time.\nShe's happy every day:\nShe'salways rice and generous,\nIthinkthat you can See,\nAndIknowthat she lovesme\n4Read again and writeT (true)orF (false).\n2 Grandmawasprettywhen\n1Grandmahadshorthairwhen\nshe was a girl.\nshewas a girl.\n3 Grandmais sixty now.\n4 Grandmaissometimessad.\n6 Grandma hasgray hairnow.\n5 Grandmaisnevergenerous.\n100\nReading:apoem\nUnit 1zAdjectivesto describepeople",
+      "tesseract_psm3": "Lesson Five\n\n1 Listen, point, and repeat. ©) 1\n\naz\n\n2 Describe what you can see in the pictures below.\n\n3 Listen and read. () 122\n\n/ Now my grandma's\nShe's very\n\nAnd If know that she. ea Bee\n\n4 Read again and write T (true) or F (false).\n\n1 Grandma had short hair when 2 Grandma was pretty when\nshe was a girl. hi she was a girl.\n\n3 Grandma is sixty now. 4 Grandma is sometimes sad.\n\n5 Grandma is never generous. 6 Grandma has gray hair now.\n\nUnit 12 Adjectives to describe people Reading: a poem\n\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": "",
+      "footer_passes": [
+        "Se Se gee hs ST Wek ee —\n3 Grandma is sixty now. = 4 Grandma is sometimes sad. _\n5 Grandma is never generous. . 6 Grandma has gray hair now.\noN Unit 12 Adjectives to describe people § Reading: a poem",
+        "ee\n\nHe WWiaso A\n\nTia\n\n3 Grandma is sixty now.\n\n4% Grandma is sometimes sad.\n\n5 Grandma is never generous.\n\n6 Grandma has gray hair now\n\nUnit 12 Adjectives to describe people\n\nReading: a poem"
+      ]
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.859,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "6 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "skills_time",
+    "pagePurpose": null,
+    "readingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "headings": [
+      {
+        "id": "text_0001",
+        "content": "Skills Time!",
+        "confidence": 0.8487,
+        "bbox": {
+          "x": 0.116667,
+          "y": 0.027902,
+          "width": 0.313333,
+          "height": 0.037867
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0001"
+        ]
+      },
+      {
+        "id": "text_0002",
+        "content": "Lesson Five",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.055237,
+          "y": 0.077958,
+          "width": 0.134206,
+          "height": 0.01712
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "id": "text_0003",
+        "content": "Reading",
+        "confidence": 0.8673,
+        "bbox": {
+          "x": 0.057333,
+          "y": 0.118585,
+          "width": 0.082667,
+          "height": 0.01993
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0003"
+        ]
+      },
+      {
+        "id": "text_0004",
+        "content": "Listen, point, and repeat.",
+        "confidence": 0.8359,
+        "bbox": {
+          "x": 0.077333,
+          "y": 0.151968,
+          "width": 0.283333,
+          "height": 0.015944
+        },
+        "repaired": true,
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      },
+      {
+        "id": "text_0033",
+        "content": "Unit 12 Adjectives to describe people Reading: a poem",
+        "confidence": 0.9078,
+        "bbox": {
+          "x": 0.097381,
+          "y": 0.969123,
+          "width": 0.442717,
+          "height": 0.01284
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0033"
+        ]
+      }
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Skills Time!",
+        "originalContent": "Skills Time!",
+        "confidence": 0.8487,
+        "bbox": {
+          "x": 0.116667,
+          "y": 0.027902,
+          "width": 0.313333,
+          "height": 0.037867
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Lesson Five",
+        "originalContent": "Lesson Five",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.055237,
+          "y": 0.077958,
+          "width": 0.134206,
+          "height": 0.01712
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Lesson Five",
+            "confidence": 0.8256
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Lesson Five",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Reading",
+        "originalContent": "Reading",
+        "confidence": 0.8673,
+        "bbox": {
+          "x": 0.057333,
+          "y": 0.118585,
+          "width": 0.082667,
+          "height": 0.01993
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Listen, point, and repeat.",
+        "originalContent": "Listen,point, and repeat.",
+        "confidence": 0.8359,
+        "bbox": {
+          "x": 0.077333,
+          "y": 0.151968,
+          "width": 0.283333,
+          "height": 0.015944
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Listen, point, and repeat. ©) 1",
+            "confidence": 0.8086
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen,point, and repeat.",
+            "confidence": 0.8359
+          }
+        ]
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "az",
+        "originalContent": "az",
+        "confidence": 0.87,
+        "bbox": {
+          "x": 0.243044,
+          "y": 0.17915,
+          "width": 0.251227,
+          "height": 0.070926
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "az",
+            "confidence": 0.87
+          },
+          {
+            "engine": "rapidocr",
+            "content": "sad",
+            "confidence": 0.5819
+          }
+        ]
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "cheerful",
+        "originalContent": "cheerful",
+        "confidence": 0.8807,
+        "bbox": {
+          "x": 0.066,
+          "y": 0.252118,
+          "width": 0.095333,
+          "height": 0.022422
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "worried",
+        "originalContent": "worried",
+        "confidence": 0.787,
+        "bbox": {
+          "x": 0.541333,
+          "y": 0.253114,
+          "width": 0.090667,
+          "height": 0.020927
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "relaxed",
+        "originalContent": "relaxed",
+        "confidence": 0.8406,
+        "bbox": {
+          "x": 0.386667,
+          "y": 0.254111,
+          "width": 0.086,
+          "height": 0.018934
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "generous",
+        "originalContent": "generous",
+        "confidence": 0.8622,
+        "bbox": {
+          "x": 0.849333,
+          "y": 0.255107,
+          "width": 0.107333,
+          "height": 0.018934
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "mean",
+        "originalContent": "mean",
+        "confidence": 0.7823,
+        "bbox": {
+          "x": 0.712,
+          "y": 0.2571,
+          "width": 0.066667,
+          "height": 0.015446
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0012",
+        "type": "paragraph",
+        "content": "2 Describe what you can see in the pictures below.",
+        "originalContent": "2 Describe what you can see in the pictures below.",
+        "confidence": 0.945,
+        "bbox": {
+          "x": 0.045827,
+          "y": 0.295628,
+          "width": 0.525368,
+          "height": 0.018037
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2 Describe what you can see in the pictures below.",
+            "confidence": 0.8867
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Describe what you can see in the pictures below.",
+            "confidence": 0.945
+          }
+        ]
+      },
+      {
+        "id": "text_0013",
+        "type": "instruction",
+        "content": "3 Listen and read.122",
+        "originalContent": "3Listen and read.122",
+        "confidence": 0.8473,
+        "bbox": {
+          "x": 0.044,
+          "y": 0.330842,
+          "width": 0.261333,
+          "height": 0.019432
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3Listen and read.122",
+            "confidence": 0.8473
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Listen and read. () 122",
+            "confidence": 0.7633
+          }
+        ]
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "Her e ges were bright and blue",
+        "originalContent": "Her egeswerebright and blue",
+        "confidence": 0.8793,
+        "bbox": {
+          "x": 0.394667,
+          "y": 0.387643,
+          "width": 0.284667,
+          "height": 0.025909
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "When my grandma was a gurl.",
+            "confidence": 0.8585
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Her egeswerebright and blue",
+            "confidence": 0.8793
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Shehod long,black, straighthair",
+            "confidence": 0.8405
+          }
+        ]
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "Hexr face uras pretty, too.",
+        "originalContent": "Hexr face uras pretty,too.",
+        "confidence": 0.7952,
+        "bbox": {
+          "x": 0.396667,
+          "y": 0.42003,
+          "width": 0.237333,
+          "height": 0.019432
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": true,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Hexr face uras pretty,too.",
+            "confidence": 0.7952
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Inthvs photo I cansee,",
+            "confidence": 0.7628
+          }
+        ]
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "Grandma",
+        "originalContent": "Grandma",
+        "confidence": 0.7373,
+        "bbox": {
+          "x": 0.114,
+          "y": 0.428002,
+          "width": 0.229333,
+          "height": 0.044843
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Grandma was a Lot Likeme.",
+        "originalContent": "Grandmawasa Lot Likeme.",
+        "confidence": 0.8492,
+        "bbox": {
+          "x": 0.397333,
+          "y": 0.462382,
+          "width": 0.267333,
+          "height": 0.021425
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Whatgrandma uas luke then.",
+            "confidence": 0.8279
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Grandmawasa Lot Likeme.",
+            "confidence": 0.8492
+          },
+          {
+            "engine": "rapidocr",
+            "content": "When she was only tan.",
+            "confidence": 0.7962
+          }
+        ]
+      },
+      {
+        "id": "text_0018",
+        "type": "paragraph",
+        "content": "Grandma had her wedding day",
+        "originalContent": "Grandma had her wedding day",
+        "confidence": 0.8943,
+        "bbox": {
+          "x": 0.293333,
+          "y": 0.498754,
+          "width": 0.296,
+          "height": 0.041854
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Grandma had her wedding day",
+            "confidence": 0.8943
+          },
+          {
+            "engine": "rapidocr",
+            "content": "when she wastwenty-two.",
+            "confidence": 0.7977
+          }
+        ]
+      },
+      {
+        "id": "text_0019",
+        "type": "paragraph",
+        "content": "Next they had a baby boy.",
+        "originalContent": "Next they had a baby boy.",
+        "confidence": 0.8633,
+        "bbox": {
+          "x": 0.279333,
+          "y": 0.585451,
+          "width": 0.260667,
+          "height": 0.03986
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "And I am very glad.",
+            "confidence": 0.8376
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Next they had a baby boy.",
+            "confidence": 0.8633
+          },
+          {
+            "engine": "rapidocr",
+            "content": "That baby was my dad.",
+            "confidence": 0.8789
+          }
+        ]
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "She's very cheerful all the time.",
+        "originalContent": "She'svery cheerful all the time.",
+        "confidence": 0.843,
+        "bbox": {
+          "x": 0.350667,
+          "y": 0.675635,
+          "width": 0.297333,
+          "height": 0.027902
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "/ Now my grandma's",
+            "confidence": 0.54
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Her hair is shontand gray",
+            "confidence": 0.8218
+          },
+          {
+            "engine": "rapidocr",
+            "content": "She'svery cheerful all the time.",
+            "confidence": 0.843
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "She's very",
+            "confidence": 0.805
+          },
+          {
+            "engine": "rapidocr",
+            "content": "She's happy every day:",
+            "confidence": 0.8559
+          }
+        ]
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "She's always rice and generous,",
+        "originalContent": "She'salways rice and generous,",
+        "confidence": 0.8585,
+        "bbox": {
+          "x": 0.348,
+          "y": 0.705032,
+          "width": 0.3,
+          "height": 0.028899
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "She'salways rice and generous,",
+            "confidence": 0.8585
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Ithinkthat you can See,",
+            "confidence": 0.8395
+          }
+        ]
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "And I know that she lovesme",
+        "originalContent": "AndIknowthat she lovesme",
+        "confidence": 0.8436,
+        "bbox": {
+          "x": 0.346,
+          "y": 0.748381,
+          "width": 0.280667,
+          "height": 0.025909
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "And If know that she. ea Bee",
+            "confidence": 0.6043
+          },
+          {
+            "engine": "rapidocr",
+            "content": "AndIknowthat she lovesme",
+            "confidence": 0.8436
+          }
+        ]
+      },
+      {
+        "id": "text_0023",
+        "type": "instruction",
+        "content": "4 Read again and write T (true) or F (false).",
+        "originalContent": "4 Read again and write T (true) or F (false).",
+        "confidence": 0.915,
+        "bbox": {
+          "x": 0.043781,
+          "y": 0.822378,
+          "width": 0.447218,
+          "height": 0.019566
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4Read again and writeT (true)orF (false).",
+            "confidence": 0.8846
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 Read again and write T (true) or F (false).",
+            "confidence": 0.915
+          }
+        ]
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "1 Grandma had shorthair when",
+        "originalContent": "1Grandmahadshorthairwhen",
+        "confidence": 0.9251,
+        "bbox": {
+          "x": 0.074,
+          "y": 0.850523,
+          "width": 0.314667,
+          "height": 0.014948
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0025",
+        "type": "paragraph",
+        "content": "1 Grandma had short hair when 2 Grandma was pretty when",
+        "originalContent": "1 Grandma had short hair when 2 Grandma was pretty when",
+        "confidence": 0.9455,
+        "bbox": {
+          "x": 0.074468,
+          "y": 0.85081,
+          "width": 0.747954,
+          "height": 0.015592
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2 Grandmawasprettywhen",
+            "confidence": 0.8743
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Grandma had short hair when 2 Grandma was pretty when",
+            "confidence": 0.9455
+          }
+        ]
+      },
+      {
+        "id": "text_0026",
+        "type": "sentence",
+        "content": "she was a girl. hi she was a girl.",
+        "originalContent": "she was a girl. hi she was a girl.",
+        "confidence": 0.8744,
+        "bbox": {
+          "x": 0.098609,
+          "y": 0.871293,
+          "width": 0.604337,
+          "height": 0.020483
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "she was a girl. hi she was a girl.",
+            "confidence": 0.8744
+          },
+          {
+            "engine": "rapidocr",
+            "content": "she was a girl.",
+            "confidence": 0.848
+          },
+          {
+            "engine": "rapidocr",
+            "content": "shewas a girl.",
+            "confidence": 0.8909
+          }
+        ]
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "4 Grandma is sometimes sad.",
+        "originalContent": "4 Grandmaissometimessad.",
+        "confidence": 0.8655,
+        "bbox": {
+          "x": 0.544,
+          "y": 0.895864,
+          "width": 0.288,
+          "height": 0.014948
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0028",
+        "type": "paragraph",
+        "content": "3 Grandma is sixty now. 4 Grandma is sometimes sad.",
+        "originalContent": "3 Grandma is sixty now. 4 Grandma is sometimes sad.",
+        "confidence": 0.943,
+        "bbox": {
+          "x": 0.074468,
+          "y": 0.896362,
+          "width": 0.756956,
+          "height": 0.016203
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3 Grandmais sixty now.",
+            "confidence": 0.837
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Grandma is sixty now. 4 Grandma is sometimes sad.",
+            "confidence": 0.943
+          }
+        ]
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "5 Grandma is never generous.",
+        "originalContent": "5 Grandmaisnevergenerous.",
+        "confidence": 0.8674,
+        "bbox": {
+          "x": 0.073333,
+          "y": 0.918784,
+          "width": 0.293333,
+          "height": 0.016941
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0030",
+        "type": "paragraph",
+        "content": "5 Grandma is never generous. 6 Grandma has gray hair now.",
+        "originalContent": "5 Grandma is never generous. 6 Grandma has gray hair now.",
+        "confidence": 0.9527,
+        "bbox": {
+          "x": 0.074468,
+          "y": 0.919596,
+          "width": 0.766367,
+          "height": 0.016203
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "6 Grandma hasgray hairnow.",
+            "confidence": 0.8672
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 Grandma is never generous. 6 Grandma has gray hair now.",
+            "confidence": 0.9527
+          }
+        ]
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "Reading: apoem",
+        "originalContent": "Reading:apoem",
+        "confidence": 0.8284,
+        "bbox": {
+          "x": 0.418,
+          "y": 0.967613,
+          "width": 0.124,
+          "height": 0.015944
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0033",
+        "type": "heading",
+        "content": "Unit 12 Adjectives to describe people Reading: a poem",
+        "originalContent": "Unit 12 Adjectives to describe people Reading: a poem",
+        "confidence": 0.9078,
+        "bbox": {
+          "x": 0.097381,
+          "y": 0.969123,
+          "width": 0.442717,
+          "height": 0.01284
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Unit 1zAdjectivesto describepeople",
+            "confidence": 0.8761
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Unit 12 Adjectives to describe people Reading: a poem",
+            "confidence": 0.9078
+          }
+        ]
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Skills Time!",
+      "Lesson Five",
+      "Reading",
+      "Listen, point, and repeat.",
+      "az",
+      "cheerful",
+      "worried",
+      "relaxed",
+      "generous",
+      "mean",
+      "2 Describe what you can see in the pictures below.",
+      "3 Listen and read.122",
+      "Her e ges were bright and blue",
+      "Hexr face uras pretty, too.",
+      "Grandma",
+      "Grandma was a Lot Likeme.",
+      "Grandma had her wedding day",
+      "Next they had a baby boy.",
+      "She's very cheerful all the time.",
+      "She's always rice and generous,",
+      "And I know that she lovesme",
+      "4 Read again and write T (true) or F (false).",
+      "1 Grandma had shorthair when",
+      "1 Grandma had short hair when 2 Grandma was pretty when",
+      "she was a girl. hi she was a girl.",
+      "4 Grandma is sometimes sad.",
+      "3 Grandma is sixty now. 4 Grandma is sometimes sad.",
+      "5 Grandma is never generous.",
+      "5 Grandma is never generous. 6 Grandma has gray hair now.",
+      "Reading: apoem",
+      "Unit 12 Adjectives to describe people Reading: a poem"
+    ],
+    "paragraphs": [
+      {
+        "id": "text_0012",
+        "content": "2 Describe what you can see in the pictures below.",
+        "confidence": 0.945,
+        "bbox": {
+          "x": 0.045827,
+          "y": 0.295628,
+          "width": 0.525368,
+          "height": 0.018037
+        },
+        "sourceElementIds": [
+          "text_0012"
+        ]
+      },
+      {
+        "id": "text_0018",
+        "content": "Grandma had her wedding day",
+        "confidence": 0.8943,
+        "bbox": {
+          "x": 0.293333,
+          "y": 0.498754,
+          "width": 0.296,
+          "height": 0.041854
+        },
+        "sourceElementIds": [
+          "text_0018"
+        ]
+      },
+      {
+        "id": "text_0019",
+        "content": "Next they had a baby boy.",
+        "confidence": 0.8633,
+        "bbox": {
+          "x": 0.279333,
+          "y": 0.585451,
+          "width": 0.260667,
+          "height": 0.03986
+        },
+        "sourceElementIds": [
+          "text_0019"
+        ]
+      },
+      {
+        "id": "text_0025",
+        "content": "1 Grandma had short hair when 2 Grandma was pretty when",
+        "confidence": 0.9455,
+        "bbox": {
+          "x": 0.074468,
+          "y": 0.85081,
+          "width": 0.747954,
+          "height": 0.015592
+        },
+        "sourceElementIds": [
+          "text_0025"
+        ]
+      },
+      {
+        "id": "text_0028",
+        "content": "3 Grandma is sixty now. 4 Grandma is sometimes sad.",
+        "confidence": 0.943,
+        "bbox": {
+          "x": 0.074468,
+          "y": 0.896362,
+          "width": 0.756956,
+          "height": 0.016203
+        },
+        "sourceElementIds": [
+          "text_0028"
+        ]
+      },
+      {
+        "id": "text_0030",
+        "content": "5 Grandma is never generous. 6 Grandma has gray hair now.",
+        "confidence": 0.9527,
+        "bbox": {
+          "x": 0.074468,
+          "y": 0.919596,
+          "width": 0.766367,
+          "height": 0.016203
+        },
+        "sourceElementIds": [
+          "text_0030"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "text_0020",
+        "content": "She's very cheerful all the time.",
+        "confidence": 0.843,
+        "bbox": {
+          "x": 0.350667,
+          "y": 0.675635,
+          "width": 0.297333,
+          "height": 0.027902
+        },
+        "sourceElementIds": [
+          "text_0020"
+        ]
+      },
+      {
+        "id": "text_0021",
+        "content": "She's always rice and generous,",
+        "confidence": 0.8585,
+        "bbox": {
+          "x": 0.348,
+          "y": 0.705032,
+          "width": 0.3,
+          "height": 0.028899
+        },
+        "sourceElementIds": [
+          "text_0021"
+        ]
+      },
+      {
+        "id": "text_0026",
+        "content": "she was a girl. hi she was a girl.",
+        "confidence": 0.8744,
+        "bbox": {
+          "x": 0.098609,
+          "y": 0.871293,
+          "width": 0.604337,
+          "height": 0.020483
+        },
+        "sourceElementIds": [
+          "text_0026"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "cheerful",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      },
+      {
+        "word": "worried",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      },
+      {
+        "word": "relaxed",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      },
+      {
+        "word": "generous",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      },
+      {
+        "word": "mean",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      }
+    ],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "lines": [
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "She's very cheerful all the time.",
+            "confidence": 0.843,
+            "bbox": {
+              "x": 0.350667,
+              "y": 0.675635,
+              "width": 0.297333,
+              "height": 0.027902
+            },
+            "sourceElementId": "text_0020",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "she was a girl.",
+            "confidence": 0.8744,
+            "bbox": {
+              "x": 0.098609,
+              "y": 0.871293,
+              "width": 0.604337,
+              "height": 0.020483
+            },
+            "sourceElementId": "text_0026",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "hi she was a girl.",
+            "confidence": 0.8744,
+            "bbox": {
+              "x": 0.098609,
+              "y": 0.871293,
+              "width": 0.604337,
+              "height": 0.020483
+            },
+            "sourceElementId": "text_0026",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          }
+        ],
+        "confidence": 0.8639333333333333
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "3",
+        "type": "listening_activity",
+        "instruction": "Listen and read.122",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8473,
+        "sourceElementIds": [
+          "text_0013"
+        ]
+      },
+      {
+        "exerciseNumber": "4",
+        "type": "true_false",
+        "instruction": "Read again and write T (true) or F (false).",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.915,
+        "sourceElementIds": [
+          "text_0023"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "listening_activity",
+        "instruction": "Listen, point, and repeat.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8359,
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [
+      {
+        "lines": [
+          {
+            "content": "Her e ges were bright and blue",
+            "confidence": 0.8793,
+            "bbox": {
+              "x": 0.394667,
+              "y": 0.387643,
+              "width": 0.284667,
+              "height": 0.025909
+            },
+            "sourceElementId": "text_0014",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "Hexr face uras pretty, too.",
+            "confidence": 0.7952,
+            "bbox": {
+              "x": 0.396667,
+              "y": 0.42003,
+              "width": 0.237333,
+              "height": 0.019432
+            },
+            "sourceElementId": "text_0015",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "Grandma was a Lot Likeme.",
+            "confidence": 0.8492,
+            "bbox": {
+              "x": 0.397333,
+              "y": 0.462382,
+              "width": 0.267333,
+              "height": 0.021425
+            },
+            "sourceElementId": "text_0017",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "Grandma had her wedding day",
+            "confidence": 0.8943,
+            "bbox": {
+              "x": 0.293333,
+              "y": 0.498754,
+              "width": 0.296,
+              "height": 0.041854
+            },
+            "sourceElementId": "text_0018",
+            "repairNotes": []
+          },
+          {
+            "content": "Next they had a baby boy.",
+            "confidence": 0.8633,
+            "bbox": {
+              "x": 0.279333,
+              "y": 0.585451,
+              "width": 0.260667,
+              "height": 0.03986
+            },
+            "sourceElementId": "text_0019",
+            "repairNotes": []
+          },
+          {
+            "content": "She's very cheerful all the time.",
+            "confidence": 0.843,
+            "bbox": {
+              "x": 0.350667,
+              "y": 0.675635,
+              "width": 0.297333,
+              "height": 0.027902
+            },
+            "sourceElementId": "text_0020",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "She's always rice and generous,",
+            "confidence": 0.8585,
+            "bbox": {
+              "x": 0.348,
+              "y": 0.705032,
+              "width": 0.3,
+              "height": 0.028899
+            },
+            "sourceElementId": "text_0021",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "And I know that she lovesme",
+            "confidence": 0.8436,
+            "bbox": {
+              "x": 0.346,
+              "y": 0.748381,
+              "width": 0.280667,
+              "height": 0.025909
+            },
+            "sourceElementId": "text_0022",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "she was a girl. hi she was a girl.",
+            "confidence": 0.8744,
+            "bbox": {
+              "x": 0.098609,
+              "y": 0.871293,
+              "width": 0.604337,
+              "height": 0.020483
+            },
+            "sourceElementId": "text_0026",
+            "repairNotes": []
+          }
+        ],
+        "confidence": 0.86086
+      }
+    ],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "cheerful",
+          "worried",
+          "relaxed",
+          "generous",
+          "mean",
+          "2 Describe what you can see in the pictures below.",
+          "3 Listen and read.122",
+          "Her e ges were bright and blue"
+        ],
+        "position": {
+          "x": 0.024,
+          "y": 0.232118,
+          "width": 0.952666,
+          "height": 0.201434
+        },
+        "textElementIds": [
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Hexr face uras pretty, too.",
+          "Grandma",
+          "Grandma was a Lot Likeme.",
+          "Grandma had her wedding day"
+        ],
+        "position": {
+          "x": 0.094,
+          "y": 0.40003,
+          "width": 0.590666,
+          "height": 0.160578
+        },
+        "textElementIds": [
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Next they had a baby boy.",
+          "She's very cheerful all the time.",
+          "She's always rice and generous,",
+          "And I know that she lovesme"
+        ],
+        "position": {
+          "x": 0.259333,
+          "y": 0.565451,
+          "width": 0.408667,
+          "height": 0.228839
+        },
+        "textElementIds": [
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "4 Read again and write T (true) or F (false).",
+          "1 Grandma had shorthair when",
+          "1 Grandma had short hair when 2 Grandma was pretty when"
+        ],
+        "position": {
+          "x": 0.023781,
+          "y": 0.802378,
+          "width": 0.818641,
+          "height": 0.084024
+        },
+        "textElementIds": [
+          "text_0023",
+          "text_0024",
+          "text_0025"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "nonEducationalText": [],
+    "excludedGarbage": [
+      {
+        "id": "text_0005",
+        "content": "121",
+        "originalContent": "121",
+        "confidence": 0.6865
+      },
+      {
+        "id": "text_0031",
+        "content": "100",
+        "originalContent": "100",
+        "confidence": 0.7462
+      }
+    ]
+  },
+  "learningContent": {
+    "pageType": "skills_time",
+    "title": "Skills Time!",
+    "learningObjectives": [
+      "Study content: Reading",
+      "Study content: Unit 12 Adjectives to describe people Reading: a poem"
+    ],
+    "targetVocabulary": [
+      {
+        "word": "cheerful",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "worried",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "relaxed",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "generous",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "mean",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "She's very cheerful all the time.",
+        "meaning": null,
+        "confidence": 0.843,
+        "sourceElementIds": [
+          "text_0020"
+        ]
+      },
+      {
+        "expression": "hi she was a girl.",
+        "meaning": null,
+        "confidence": 0.8744,
+        "sourceElementIds": [
+          "text_0026"
+        ]
+      }
+    ],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "She's very cheerful all the time.",
+            "confidence": 0.843
+          },
+          {
+            "speaker": null,
+            "content": "she was a girl.",
+            "confidence": 0.8744
+          },
+          {
+            "speaker": null,
+            "content": "hi she was a girl.",
+            "confidence": 0.8744
+          }
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "title": "Skills Time!",
+        "text": "2 Describe what you can see in the pictures below.",
+        "confidence": 0.945,
+        "sourceElementIds": [
+          "text_0012"
+        ]
+      },
+      {
+        "title": "Skills Time!",
+        "text": "1 Grandma had short hair when 2 Grandma was pretty when",
+        "confidence": 0.9455,
+        "sourceElementIds": [
+          "text_0025"
+        ]
+      },
+      {
+        "title": "Skills Time!",
+        "text": "3 Grandma is sixty now. 4 Grandma is sometimes sad.",
+        "confidence": 0.943,
+        "sourceElementIds": [
+          "text_0028"
+        ]
+      },
+      {
+        "title": "Skills Time!",
+        "text": "5 Grandma is never generous. 6 Grandma has gray hair now.",
+        "confidence": 0.9527,
+        "sourceElementIds": [
+          "text_0030"
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "3",
+        "type": "listening_activity",
+        "instruction": "Listen and read.122",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8473,
+        "sourceElementIds": [
+          "text_0013"
+        ]
+      },
+      {
+        "exerciseNumber": "4",
+        "type": "true_false",
+        "instruction": "Read again and write T (true) or F (false).",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.915,
+        "sourceElementIds": [
+          "text_0023"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "listening_activity",
+        "instruction": "Listen, point, and repeat.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8359,
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      }
+    ],
+    "pronunciation": [],
+    "listening": [
+      {
+        "exerciseNumber": "3",
+        "instruction": "Listen and read.122",
+        "type": "listening_activity",
+        "confidence": 0.8473
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Listen, point, and repeat.",
+        "type": "listening_activity",
+        "confidence": 0.8359
+      }
+    ],
+    "speaking": [
+      {
+        "exerciseNumber": "3",
+        "instruction": "Listen and read.122",
+        "type": "listening_activity",
+        "confidence": 0.8473
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Listen, point, and repeat.",
+        "type": "listening_activity",
+        "confidence": 0.8359
+      }
+    ],
+    "writing": [
+      {
+        "exerciseNumber": "4",
+        "instruction": "Read again and write T (true) or F (false).",
+        "type": "true_false",
+        "confidence": 0.915
+      }
+    ],
+    "songsOrPoems": [
+      {
+        "lines": [
+          {
+            "content": "Her e ges were bright and blue",
+            "confidence": 0.8793,
+            "bbox": {
+              "x": 0.394667,
+              "y": 0.387643,
+              "width": 0.284667,
+              "height": 0.025909
+            },
+            "sourceElementId": "text_0014",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "Hexr face uras pretty, too.",
+            "confidence": 0.7952,
+            "bbox": {
+              "x": 0.396667,
+              "y": 0.42003,
+              "width": 0.237333,
+              "height": 0.019432
+            },
+            "sourceElementId": "text_0015",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "Grandma was a Lot Likeme.",
+            "confidence": 0.8492,
+            "bbox": {
+              "x": 0.397333,
+              "y": 0.462382,
+              "width": 0.267333,
+              "height": 0.021425
+            },
+            "sourceElementId": "text_0017",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "Grandma had her wedding day",
+            "confidence": 0.8943,
+            "bbox": {
+              "x": 0.293333,
+              "y": 0.498754,
+              "width": 0.296,
+              "height": 0.041854
+            },
+            "sourceElementId": "text_0018",
+            "repairNotes": []
+          },
+          {
+            "content": "Next they had a baby boy.",
+            "confidence": 0.8633,
+            "bbox": {
+              "x": 0.279333,
+              "y": 0.585451,
+              "width": 0.260667,
+              "height": 0.03986
+            },
+            "sourceElementId": "text_0019",
+            "repairNotes": []
+          },
+          {
+            "content": "She's very cheerful all the time.",
+            "confidence": 0.843,
+            "bbox": {
+              "x": 0.350667,
+              "y": 0.675635,
+              "width": 0.297333,
+              "height": 0.027902
+            },
+            "sourceElementId": "text_0020",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "She's always rice and generous,",
+            "confidence": 0.8585,
+            "bbox": {
+              "x": 0.348,
+              "y": 0.705032,
+              "width": 0.3,
+              "height": 0.028899
+            },
+            "sourceElementId": "text_0021",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "And I know that she lovesme",
+            "confidence": 0.8436,
+            "bbox": {
+              "x": 0.346,
+              "y": 0.748381,
+              "width": 0.280667,
+              "height": 0.025909
+            },
+            "sourceElementId": "text_0022",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "she was a girl. hi she was a girl.",
+            "confidence": 0.8744,
+            "bbox": {
+              "x": 0.098609,
+              "y": 0.871293,
+              "width": 0.604337,
+              "height": 0.020483
+            },
+            "sourceElementId": "text_0026",
+            "repairNotes": []
+          }
+        ],
+        "confidence": 0.86086
+      }
+    ],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [],
+    "verifiedAgainstPdf": true,
+    "repairStats": {
+      "text_kept": 31,
+      "text_repaired": 12,
+      "garbage_excluded": 2,
+      "vocab_rejected": 1,
+      "vocab_kept": 5,
+      "dialogue_lines": 3,
+      "dialogues_reconstructed": 1,
+      "exercises_reconstructed": 3,
+      "song_lines": 10
+    },
+    "averageOcrConfidence": 0.859
+  },
+  "metadata": {
+    "book": "Family and Friends 3 Student Book (American)",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_ff3_v1",
+    "originalOcrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "originalAverageConfidence": 0.859,
+    "noHallucinationPolicy": "Definitions, translations, speaker names, answers, and grammar rules are null or omitted unless visibly supported by page OCR/PDF. Text repairs are limited to spacing, punctuation, and clear OCR character errors."
+  }
+}

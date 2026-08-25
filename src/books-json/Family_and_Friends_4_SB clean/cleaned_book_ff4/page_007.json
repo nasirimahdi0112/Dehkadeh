@@ -1,0 +1,2130 @@
+{
+  "pageNumber": 6,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "verified sequential printed-footer pattern",
+  "pdfPageNumber": 7,
+  "source": {
+    "pdfFile": "Family and Friends 4 SB_Part1.pdf",
+    "pdfLocalPageNumber": 7,
+    "pageSizePoints": {
+      "width": 588.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Lesson Three",
+        "confidence": 0.8879,
+        "bbox": {
+          "x": 0.062667,
+          "y": 0.027228,
+          "width": 0.158,
+          "height": 0.022277
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "read a comic book",
+        "confidence": 0.8558,
+        "bbox": {
+          "x": 0.396667,
+          "y": 0.061881,
+          "width": 0.176,
+          "height": 0.014851
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "watch TV",
+        "confidence": 0.8815,
+        "bbox": {
+          "x": 0.615333,
+          "y": 0.062376,
+          "width": 0.088,
+          "height": 0.014851
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "read a comic book watch TV visit his grandma",
+        "confidence": 0.9578,
+        "bbox": {
+          "x": 0.4,
+          "y": 0.06303,
+          "width": 0.503265,
+          "height": 0.015758
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "visit his grandma",
+            "confidence": 0.846
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "read a comic book watch TV visit his grandma",
+            "confidence": 0.9578
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "heading",
+        "content": "Speaking",
+        "confidence": 0.8704,
+        "bbox": {
+          "x": 0.109333,
+          "y": 0.073762,
+          "width": 0.078,
+          "height": 0.014851
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "heading",
+        "content": "Ask and answer.",
+        "confidence": 0.872,
+        "bbox": {
+          "x": 0.200667,
+          "y": 0.073762,
+          "width": 0.163333,
+          "height": 0.015842
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "heading",
+        "content": "play volleyball",
+        "confidence": 0.8817,
+        "bbox": {
+          "x": 0.604,
+          "y": 0.083663,
+          "width": 0.14,
+          "height": 0.018317
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "heading",
+        "content": "play chess",
+        "confidence": 0.8479,
+        "bbox": {
+          "x": 0.783333,
+          "y": 0.084158,
+          "width": 0.098667,
+          "height": 0.018317
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "heading",
+        "content": "play the guitar play volleyball play chess",
+        "confidence": 0.9586,
+        "bbox": {
+          "x": 0.425306,
+          "y": 0.085455,
+          "width": 0.453469,
+          "height": 0.015758
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "play the guitar",
+            "confidence": 0.9202
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "play the guitar play volleyball play chess",
+            "confidence": 0.9586
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "sentence",
+        "content": "What are they going to do?",
+        "confidence": 0.8574,
+        "bbox": {
+          "x": 0.618,
+          "y": 0.306436,
+          "width": 0.246667,
+          "height": 0.017822
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "sentence",
+        "content": "What's he going todo this weekend?",
+        "confidence": 0.8564,
+        "bbox": {
+          "x": 0.119333,
+          "y": 0.307426,
+          "width": 0.326667,
+          "height": 0.014851
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "He's going to",
+        "confidence": 0.8624,
+        "bbox": {
+          "x": 0.186,
+          "y": 0.35495,
+          "width": 0.122,
+          "height": 0.016832
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "They're going to",
+        "confidence": 0.9341,
+        "bbox": {
+          "x": 0.652,
+          "y": 0.35495,
+          "width": 0.146667,
+          "height": 0.020297
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "instruction",
+        "content": "2 Write about what you are going to do this weekend.",
+        "confidence": 0.9291,
+        "bbox": {
+          "x": 0.065714,
+          "y": 0.401818,
+          "width": 0.547347,
+          "height": 0.017273
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Write about what you are going to do this weekend.",
+            "confidence": 0.927
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Write about what you are going to do this weekend.",
+            "confidence": 0.9291
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "This weekend, I’m going to ...",
+        "confidence": 0.9283,
+        "bbox": {
+          "x": 0.099184,
+          "y": 0.428182,
+          "width": 0.311429,
+          "height": 0.019394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "This weekend, I'm going to ...",
+            "confidence": 0.9095
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "This weekend, I’m going to ...",
+            "confidence": 0.9283
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "nd",
+        "confidence": 0.666,
+        "bbox": {
+          "x": 0.603333,
+          "y": 0.467822,
+          "width": 0.031333,
+          "height": 0.017822
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "ld",
+        "confidence": 0.5202,
+        "bbox": {
+          "x": 0.488,
+          "y": 0.468812,
+          "width": 0.022,
+          "height": 0.015347
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "mp",
+        "confidence": 0.6662,
+        "bbox": {
+          "x": 0.347333,
+          "y": 0.469307,
+          "width": 0.038,
+          "height": 0.018317
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "Completethewords.",
+        "confidence": 0.9055,
+        "bbox": {
+          "x": 0.076,
+          "y": 0.469802,
+          "width": 0.226667,
+          "height": 0.016337
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Complete the words. mp nt ld lt nd",
+            "confidence": 0.7767
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Completethewords.",
+            "confidence": 0.9055
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "nt",
+        "confidence": 0.6656,
+        "bbox": {
+          "x": 0.424,
+          "y": 0.470297,
+          "width": 0.024,
+          "height": 0.014851
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0021",
+        "type": "paragraph",
+        "content": "There is a la mp next to",
+        "confidence": 0.8862,
+        "bbox": {
+          "x": 0.095333,
+          "y": 0.64505,
+          "width": 0.217333,
+          "height": 0.019307
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "paragraph",
+        "content": "There is a big plagrowing",
+        "confidence": 0.8883,
+        "bbox": {
+          "x": 0.69,
+          "y": 0.64604,
+          "width": 0.267333,
+          "height": 0.019802
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "There is a big plagrowing",
+            "confidence": 0.8883
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "There is a lamp next to Next to the green fie __ sis There is a big pla___ growing",
+            "confidence": 0.8211
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "paragraph",
+        "content": "Next to the green fies is",
+        "confidence": 0.8309,
+        "bbox": {
+          "x": 0.394,
+          "y": 0.647525,
+          "width": 0.241333,
+          "height": 0.014851
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "paragraph",
+        "content": "a beach with white sa",
+        "confidence": 0.8842,
+        "bbox": {
+          "x": 0.392,
+          "y": 0.668317,
+          "width": 0.23,
+          "height": 0.021782
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "a beach with white sa",
+            "confidence": 0.8842
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "my te__! a beach with white sa_. inthe po_.",
+            "confidence": 0.6778
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "my te",
+        "confidence": 0.7116,
+        "bbox": {
+          "x": 0.095333,
+          "y": 0.669802,
+          "width": 0.082667,
+          "height": 0.019307
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "in the po",
+        "confidence": 0.7962,
+        "bbox": {
+          "x": 0.688667,
+          "y": 0.670297,
+          "width": 0.11,
+          "height": 0.020297
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "TICKETS",
+        "confidence": 0.8178,
+        "bbox": {
+          "x": 0.86,
+          "y": 0.70495,
+          "width": 0.072,
+          "height": 0.027723
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "sentence",
+        "content": "I have a new be.",
+        "confidence": 0.833,
+        "bbox": {
+          "x": 0.094,
+          "y": 0.85,
+          "width": 0.16,
+          "height": 0.017822
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "instruction",
+        "content": "Look at this beautiful qui",
+        "confidence": 0.92,
+        "bbox": {
+          "x": 0.392667,
+          "y": 0.85,
+          "width": 0.233333,
+          "height": 0.018812
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Look at this beautiful qui",
+            "confidence": 0.92
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ihaveanewbe_. Look at this beautifulqui__. “Tickets for six chi__renand",
+            "confidence": 0.7411
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "\"Tickets for six chi",
+        "confidence": 0.9282,
+        "bbox": {
+          "x": 0.691333,
+          "y": 0.851485,
+          "width": 0.165333,
+          "height": 0.016337
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "ren and",
+        "confidence": 0.7744,
+        "bbox": {
+          "x": 0.874667,
+          "y": 0.85297,
+          "width": 0.076667,
+          "height": 0.014851
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "two adu__s, please\"",
+        "confidence": 0.8733,
+        "bbox": {
+          "x": 0.688667,
+          "y": 0.876238,
+          "width": 0.194,
+          "height": 0.017822
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "two adu__s, please\"",
+            "confidence": 0.8733
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "two adu _ s, please.’",
+            "confidence": 0.602
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "What'she goingto do?",
+        "confidence": 0.8784,
+        "bbox": {
+          "x": 0.198,
+          "y": 0.94505,
+          "width": 0.162,
+          "height": 0.013366
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Starter © What's he going to do?",
+            "confidence": 0.82
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Starter",
+            "confidence": 0.8401
+          },
+          {
+            "engine": "rapidocr",
+            "content": "What'she goingto do?",
+            "confidence": 0.8784
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "watch TV",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.615333,
+          "y": 0.062376,
+          "width": 0.088,
+          "height": 0.014851
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8815
+      },
+      {
+        "word": "Speaking",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.109333,
+          "y": 0.073762,
+          "width": 0.078,
+          "height": 0.014851
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8704
+      },
+      {
+        "word": "Ask and answer.",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.200667,
+          "y": 0.073762,
+          "width": 0.163333,
+          "height": 0.015842
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.872
+      },
+      {
+        "word": "play volleyball",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.604,
+          "y": 0.083663,
+          "width": 0.14,
+          "height": 0.018317
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8817
+      },
+      {
+        "word": "play chess",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.783333,
+          "y": 0.084158,
+          "width": 0.098667,
+          "height": 0.018317
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8479
+      },
+      {
+        "word": "He's going to",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.186,
+          "y": 0.35495,
+          "width": 0.122,
+          "height": 0.016832
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8624
+      },
+      {
+        "word": "They're going to",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.652,
+          "y": 0.35495,
+          "width": 0.146667,
+          "height": 0.020297
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.9341
+      },
+      {
+        "word": "nd",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.603333,
+          "y": 0.467822,
+          "width": 0.031333,
+          "height": 0.017822
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.666
+      },
+      {
+        "word": "ld",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.488,
+          "y": 0.468812,
+          "width": 0.022,
+          "height": 0.015347
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.5202
+      },
+      {
+        "word": "mp",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.347333,
+          "y": 0.469307,
+          "width": 0.038,
+          "height": 0.018317
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.6662
+      },
+      {
+        "word": "Completethewords.",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.076,
+          "y": 0.469802,
+          "width": 0.226667,
+          "height": 0.016337
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.9055
+      },
+      {
+        "word": "nt",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.424,
+          "y": 0.470297,
+          "width": 0.024,
+          "height": 0.014851
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.6656
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "What are they going to do?",
+            "confidence": 0.8574,
+            "bbox": {
+              "x": 0.618,
+              "y": 0.306436,
+              "width": 0.246667,
+              "height": 0.017822
+            },
+            "sourceElementId": "text_0010",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "What's he going todo this weekend?",
+            "confidence": 0.8564,
+            "bbox": {
+              "x": 0.119333,
+              "y": 0.307426,
+              "width": 0.326667,
+              "height": 0.014851
+            },
+            "sourceElementId": "text_0011",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I have a new be.",
+            "confidence": 0.833,
+            "bbox": {
+              "x": 0.094,
+              "y": 0.85,
+              "width": 0.16,
+              "height": 0.017822
+            },
+            "sourceElementId": "text_0028",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected spatially; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "2",
+        "type": "writing_activity",
+        "instruction": "Write about what you are going to do this weekend.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0014"
+        ],
+        "confidence": 0.9291
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "What are they going to do?",
+          "What's he going todo this weekend?",
+          "He's going to",
+          "They're going to",
+          "2 Write about what you are going to do this weekend.",
+          "This weekend, I’m going to ...",
+          "nd",
+          "ld",
+          "mp",
+          "Completethewords.",
+          "nt"
+        ],
+        "position": {
+          "x": 0.04571399999999999,
+          "y": 0.28643599999999997,
+          "width": 0.838953,
+          "height": 0.221188
+        },
+        "textElementIds": [
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "There is a la mp next to",
+          "There is a big plagrowing",
+          "Next to the green fies is",
+          "a beach with white sa",
+          "my te",
+          "in the po",
+          "TICKETS"
+        ],
+        "position": {
+          "x": 0.075333,
+          "y": 0.62505,
+          "width": 0.902,
+          "height": 0.12762300000000004
+        },
+        "textElementIds": [
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "I have a new be.",
+          "Look at this beautiful qui",
+          "\"Tickets for six chi",
+          "ren and"
+        ],
+        "position": {
+          "x": 0.074,
+          "y": 0.83,
+          "width": 0.8973340000000001,
+          "height": 0.058812000000000086
+        },
+        "textElementIds": [
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "Lesson Three\nread a comic book\nvisit his grandma\nwatch TV\nSpeaking\nAsk and answer.\nplay volleyball\nplay chess\nplay the guitar\nWhat are they going to do?\nWhat's he going todo this weekend?\nHe's going to\nThey're going to\nWrite about what you are going to do this weekend.\nThis weekend, I'm going to ...\nnd\nld\nmp\nCompletethewords.\nnt\nThere is a la mp next to\nThere is a big plagrowing\nNext to the green fies is\na beach with white sa\nmy te\nin the po\nTICKETS\nI have a new be.\nLook at this beautiful qui\n\"Tickets for six chi\nren and\ntwo adu__s, please\"\nStarter\nWhat'she goingto do?",
+      "tesseract_psm3": "read a comic book watch TV visit his grandma\nplay the guitar play volleyball play chess\n\n2 Write about what you are going to do this weekend.\nThis weekend, I’m going to ...\n\n3 Complete the words. mp nt ld lt nd\n\nThere is a lamp next to Next to the green fie __ sis There is a big pla___ growing\nmy te__! a beach with white sa_. inthe po_.\n\nIhaveanewbe_. Look at this beautifulqui__. “Tickets for six chi__renand\ntwo adu _ s, please.’\n\nStarter © What's he going to do?\n\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8433,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "7 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "lesson",
+    "headings": [
+      "Lesson Three",
+      "read a comic book",
+      "watch TV",
+      "read a comic book watch TV visit his grandma",
+      "Speaking",
+      "Ask and answer.",
+      "play volleyball",
+      "play chess",
+      "play the guitar play volleyball play chess"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Lesson Three",
+        "confidence": 0.8879,
+        "bbox": {
+          "x": 0.062667,
+          "y": 0.027228,
+          "width": 0.158,
+          "height": 0.022277
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "read a comic book",
+        "confidence": 0.8558,
+        "bbox": {
+          "x": 0.396667,
+          "y": 0.061881,
+          "width": 0.176,
+          "height": 0.014851
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "watch TV",
+        "confidence": 0.8815,
+        "bbox": {
+          "x": 0.615333,
+          "y": 0.062376,
+          "width": 0.088,
+          "height": 0.014851
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "read a comic book watch TV visit his grandma",
+        "confidence": 0.9578,
+        "bbox": {
+          "x": 0.4,
+          "y": 0.06303,
+          "width": 0.503265,
+          "height": 0.015758
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "visit his grandma",
+            "confidence": 0.846
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "read a comic book watch TV visit his grandma",
+            "confidence": 0.9578
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "heading",
+        "content": "Speaking",
+        "confidence": 0.8704,
+        "bbox": {
+          "x": 0.109333,
+          "y": 0.073762,
+          "width": 0.078,
+          "height": 0.014851
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "heading",
+        "content": "Ask and answer.",
+        "confidence": 0.872,
+        "bbox": {
+          "x": 0.200667,
+          "y": 0.073762,
+          "width": 0.163333,
+          "height": 0.015842
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "heading",
+        "content": "play volleyball",
+        "confidence": 0.8817,
+        "bbox": {
+          "x": 0.604,
+          "y": 0.083663,
+          "width": 0.14,
+          "height": 0.018317
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "heading",
+        "content": "play chess",
+        "confidence": 0.8479,
+        "bbox": {
+          "x": 0.783333,
+          "y": 0.084158,
+          "width": 0.098667,
+          "height": 0.018317
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "heading",
+        "content": "play the guitar play volleyball play chess",
+        "confidence": 0.9586,
+        "bbox": {
+          "x": 0.425306,
+          "y": 0.085455,
+          "width": 0.453469,
+          "height": 0.015758
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "play the guitar",
+            "confidence": 0.9202
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "play the guitar play volleyball play chess",
+            "confidence": 0.9586
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "sentence",
+        "content": "What are they going to do?",
+        "confidence": 0.8574,
+        "bbox": {
+          "x": 0.618,
+          "y": 0.306436,
+          "width": 0.246667,
+          "height": 0.017822
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "sentence",
+        "content": "What's he going todo this weekend?",
+        "confidence": 0.8564,
+        "bbox": {
+          "x": 0.119333,
+          "y": 0.307426,
+          "width": 0.326667,
+          "height": 0.014851
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "He's going to",
+        "confidence": 0.8624,
+        "bbox": {
+          "x": 0.186,
+          "y": 0.35495,
+          "width": 0.122,
+          "height": 0.016832
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "They're going to",
+        "confidence": 0.9341,
+        "bbox": {
+          "x": 0.652,
+          "y": 0.35495,
+          "width": 0.146667,
+          "height": 0.020297
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "instruction",
+        "content": "2 Write about what you are going to do this weekend.",
+        "confidence": 0.9291,
+        "bbox": {
+          "x": 0.065714,
+          "y": 0.401818,
+          "width": 0.547347,
+          "height": 0.017273
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Write about what you are going to do this weekend.",
+            "confidence": 0.927
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Write about what you are going to do this weekend.",
+            "confidence": 0.9291
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "This weekend, I'm going to ...",
+        "confidence": 0.9283,
+        "bbox": {
+          "x": 0.099184,
+          "y": 0.428182,
+          "width": 0.311429,
+          "height": 0.019394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "This weekend, I'm going to ...",
+            "confidence": 0.9095
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "This weekend, I’m going to ...",
+            "confidence": 0.9283
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "nd",
+        "confidence": 0.666,
+        "bbox": {
+          "x": 0.603333,
+          "y": 0.467822,
+          "width": 0.031333,
+          "height": 0.017822
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "ld",
+        "confidence": 0.5202,
+        "bbox": {
+          "x": 0.488,
+          "y": 0.468812,
+          "width": 0.022,
+          "height": 0.015347
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "mp",
+        "confidence": 0.6662,
+        "bbox": {
+          "x": 0.347333,
+          "y": 0.469307,
+          "width": 0.038,
+          "height": 0.018317
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "Complete the words.",
+        "confidence": 0.9055,
+        "bbox": {
+          "x": 0.076,
+          "y": 0.469802,
+          "width": 0.226667,
+          "height": 0.016337
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Complete the words. mp nt ld lt nd",
+            "confidence": 0.7767
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Completethewords.",
+            "confidence": 0.9055
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "nt",
+        "confidence": 0.6656,
+        "bbox": {
+          "x": 0.424,
+          "y": 0.470297,
+          "width": 0.024,
+          "height": 0.014851
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0021",
+        "type": "paragraph",
+        "content": "There is a la mp next to",
+        "confidence": 0.8862,
+        "bbox": {
+          "x": 0.095333,
+          "y": 0.64505,
+          "width": 0.217333,
+          "height": 0.019307
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "paragraph",
+        "content": "There is a big pla growing",
+        "confidence": 0.8883,
+        "bbox": {
+          "x": 0.69,
+          "y": 0.64604,
+          "width": 0.267333,
+          "height": 0.019802
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "There is a big plagrowing",
+            "confidence": 0.8883
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "There is a lamp next to Next to the green fie __ sis There is a big pla___ growing",
+            "confidence": 0.8211
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "paragraph",
+        "content": "Next to the green fies is",
+        "confidence": 0.8309,
+        "bbox": {
+          "x": 0.394,
+          "y": 0.647525,
+          "width": 0.241333,
+          "height": 0.014851
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "paragraph",
+        "content": "a beach with white sa",
+        "confidence": 0.8842,
+        "bbox": {
+          "x": 0.392,
+          "y": 0.668317,
+          "width": 0.23,
+          "height": 0.021782
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "a beach with white sa",
+            "confidence": 0.8842
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "my te__! a beach with white sa_. inthe po_.",
+            "confidence": 0.6778
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "my te",
+        "confidence": 0.7116,
+        "bbox": {
+          "x": 0.095333,
+          "y": 0.669802,
+          "width": 0.082667,
+          "height": 0.019307
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "in the po",
+        "confidence": 0.7962,
+        "bbox": {
+          "x": 0.688667,
+          "y": 0.670297,
+          "width": 0.11,
+          "height": 0.020297
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "TICKETS",
+        "confidence": 0.8178,
+        "bbox": {
+          "x": 0.86,
+          "y": 0.70495,
+          "width": 0.072,
+          "height": 0.027723
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "sentence",
+        "content": "I have a new be.",
+        "confidence": 0.833,
+        "bbox": {
+          "x": 0.094,
+          "y": 0.85,
+          "width": 0.16,
+          "height": 0.017822
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "instruction",
+        "content": "Look at this beautiful qui",
+        "confidence": 0.92,
+        "bbox": {
+          "x": 0.392667,
+          "y": 0.85,
+          "width": 0.233333,
+          "height": 0.018812
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Look at this beautiful qui",
+            "confidence": 0.92
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ihaveanewbe_. Look at this beautifulqui__. “Tickets for six chi__renand",
+            "confidence": 0.7411
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "Tickets for six chi",
+        "confidence": 0.9282,
+        "bbox": {
+          "x": 0.691333,
+          "y": 0.851485,
+          "width": 0.165333,
+          "height": 0.016337
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "ren and",
+        "confidence": 0.7744,
+        "bbox": {
+          "x": 0.874667,
+          "y": 0.85297,
+          "width": 0.076667,
+          "height": 0.014851
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "two adu__s, please",
+        "confidence": 0.8733,
+        "bbox": {
+          "x": 0.688667,
+          "y": 0.876238,
+          "width": 0.194,
+          "height": 0.017822
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "two adu__s, please\"",
+            "confidence": 0.8733
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "two adu _ s, please.’",
+            "confidence": 0.602
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "What's he going to do?",
+        "confidence": 0.8784,
+        "bbox": {
+          "x": 0.198,
+          "y": 0.94505,
+          "width": 0.162,
+          "height": 0.013366
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Starter © What's he going to do?",
+            "confidence": 0.82
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Starter",
+            "confidence": 0.8401
+          },
+          {
+            "engine": "rapidocr",
+            "content": "What'she goingto do?",
+            "confidence": 0.8784
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Lesson Three",
+      "read a comic book",
+      "watch TV",
+      "read a comic book watch TV visit his grandma",
+      "Speaking",
+      "Ask and answer.",
+      "play volleyball",
+      "play chess",
+      "play the guitar play volleyball play chess",
+      "What are they going to do?",
+      "What's he going todo this weekend?",
+      "He's going to",
+      "They're going to",
+      "2 Write about what you are going to do this weekend.",
+      "This weekend, I'm going to ...",
+      "nd",
+      "ld",
+      "mp",
+      "Complete the words.",
+      "nt",
+      "There is a la mp next to",
+      "There is a big pla growing",
+      "Next to the green fies is",
+      "a beach with white sa",
+      "my te",
+      "in the po",
+      "TICKETS",
+      "I have a new be.",
+      "Look at this beautiful qui",
+      "Tickets for six chi",
+      "ren and",
+      "two adu__s, please",
+      "What's he going to do?"
+    ],
+    "paragraphs": [
+      "There is a la mp next to",
+      "There is a big pla growing",
+      "Next to the green fies is",
+      "a beach with white sa"
+    ],
+    "sentences": [
+      "Lesson Three read a comic book watch TV read a comic book watch TV visit his grandma Speaking Ask and answer",
+      "play volleyball play chess play the guitar play volleyball play chess What are they going to do",
+      "What's he going todo this weekend",
+      "He's going to They're going to 2 Write about what you are going to do this weekend",
+      "This weekend, I'm going to",
+      "nd ld mp Complete the words",
+      "nt There is a la mp next to There is a big pla growing Next to the green fies is a beach with white sa my te in the po TICKETS I have a new be",
+      "Look at this beautiful qui Tickets for six chi ren and two adu__s, please What's he going to do"
+    ],
+    "vocabulary": [
+      {
+        "word": "read a comic book",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "visit his grandma",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "watch TV",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "play volleyball",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "play chess",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "play the guitar",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      }
+    ],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "What are they going to do?",
+            "confidence": 0.8574,
+            "bbox": {
+              "x": 0.618,
+              "y": 0.306436,
+              "width": 0.246667,
+              "height": 0.017822
+            },
+            "sourceElementId": "text_0010"
+          },
+          {
+            "speaker": null,
+            "content": "What's he going todo this weekend?",
+            "confidence": 0.8564,
+            "bbox": {
+              "x": 0.119333,
+              "y": 0.307426,
+              "width": 0.326667,
+              "height": 0.014851
+            },
+            "sourceElementId": "text_0011"
+          },
+          {
+            "speaker": null,
+            "content": "I have a new be.",
+            "confidence": 0.833,
+            "bbox": {
+              "x": 0.094,
+              "y": 0.85,
+              "width": 0.16,
+              "height": 0.017822
+            },
+            "sourceElementId": "text_0028"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "2",
+        "type": "writing",
+        "instruction": "Write about what you are going to do this weekend.",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "What are they going to do?",
+          "What's he going todo this weekend?",
+          "He's going to",
+          "They're going to",
+          "2 Write about what you are going to do this weekend.",
+          "This weekend, I'm going to ...",
+          "nd",
+          "ld",
+          "mp",
+          "Complete the words.",
+          "nt"
+        ],
+        "position": {
+          "x": 0.04571399999999999,
+          "y": 0.28643599999999997,
+          "width": 0.838953,
+          "height": 0.221188
+        },
+        "textElementIds": [
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "There is a la mp next to",
+          "There is a big pla growing",
+          "Next to the green fies is",
+          "a beach with white sa",
+          "my te",
+          "in the po",
+          "TICKETS"
+        ],
+        "position": {
+          "x": 0.075333,
+          "y": 0.62505,
+          "width": 0.902,
+          "height": 0.12762300000000004
+        },
+        "textElementIds": [
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "I have a new be.",
+          "Look at this beautiful qui",
+          "Tickets for six chi",
+          "ren and"
+        ],
+        "position": {
+          "x": 0.074,
+          "y": 0.83,
+          "width": 0.8973340000000001,
+          "height": 0.058812000000000086
+        },
+        "textElementIds": [
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031"
+        ]
+      }
+    ],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "lesson",
+    "title": "Lesson Three",
+    "learningObjectives": [],
+    "targetVocabulary": [
+      {
+        "word": "read a comic book",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "visit his grandma",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "watch TV",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "play volleyball",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "play chess",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "play the guitar",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "What are they going to do?",
+            "confidence": 0.8574
+          },
+          {
+            "speaker": null,
+            "content": "What's he going todo this weekend?",
+            "confidence": 0.8564
+          },
+          {
+            "speaker": null,
+            "content": "I have a new be.",
+            "confidence": 0.833
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "2",
+        "type": "writing",
+        "instruction": "Write about what you are going to do this weekend.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "7 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved."
+    ],
+    "verifiedAgainstPdf": true,
+    "repairStats": {
+      "vocabFromLabels": 4,
+      "vocabPdfVerified": 1
+    },
+    "averageOcrConfidence": 0.8433,
+    "verificationMethod": "independent_ocr_crosscheck"
+  },
+  "metadata": {
+    "book": "Family and Friends 4 Student Book (American)",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_ff4_v1",
+    "verificationMethod": "independent_ocr_crosscheck",
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

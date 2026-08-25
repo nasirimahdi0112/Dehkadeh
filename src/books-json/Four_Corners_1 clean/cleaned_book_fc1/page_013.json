@@ -1,0 +1,3062 @@
+{
+  "pageNumber": 10,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 13,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 1_Part1.pdf",
+    "pdfLocalPageNumber": 13,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Are you a student?",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.127451,
+          "y": 0.069091,
+          "width": 0.464706,
+          "height": 0.034545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Are you a student?",
+            "confidence": 0.8744
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Are you a student?",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Vocabulary Interesting jobs",
+        "confidence": 0.9367,
+        "bbox": {
+          "x": 0.094902,
+          "y": 0.129394,
+          "width": 0.383529,
+          "height": 0.021212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Vocabulary Interesting jobs",
+            "confidence": 0.9003
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Vocabulary Interesting jobs",
+            "confidence": 0.9367
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "label",
+        "content": "A Listen and repeat.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.094902,
+          "y": 0.163636,
+          "width": 0.166667,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A  Listen and repeat.",
+            "confidence": 0.8679
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Listen and repeat.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "AFTRA",
+        "confidence": 0.6964,
+        "bbox": {
+          "x": 0.271333,
+          "y": 0.22205,
+          "width": 0.066667,
+          "height": 0.021638
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "AFTRA",
+            "confidence": 0.6964
+          },
+          {
+            "engine": "rapidocr",
+            "content": "ATI",
+            "confidence": 0.5428
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "Salma Hayek isanactress.",
+        "confidence": 0.8642,
+        "bbox": {
+          "x": 0.102667,
+          "y": 0.326121,
+          "width": 0.176667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "Alex Hornest isanartist.",
+        "confidence": 0.8894,
+        "bbox": {
+          "x": 0.662,
+          "y": 0.326121,
+          "width": 0.160667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "sentence",
+        "content": "Salma Hayek is an actress. Tadanobu Asano is an actor. Alex Hornest is an artist.",
+        "confidence": 0.9413,
+        "bbox": {
+          "x": 0.103922,
+          "y": 0.326667,
+          "width": 0.719216,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "TadanobuAsanoisanactor",
+            "confidence": 0.8805
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Salma Hayek is an actress. Tadanobu Asano is an actor. Alex Hornest is an artist.",
+            "confidence": 0.9413
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "He'sfrom Japan.",
+        "confidence": 0.8585,
+        "bbox": {
+          "x": 0.379333,
+          "y": 0.345183,
+          "width": 0.113333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "He's from Brazil.",
+        "confidence": 0.8367,
+        "bbox": {
+          "x": 0.661333,
+          "y": 0.345183,
+          "width": 0.107333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "sentence",
+        "content": "She’s from Mexico. He’s from Japan. He’s from Brazil.",
+        "confidence": 0.9267,
+        "bbox": {
+          "x": 0.104314,
+          "y": 0.346061,
+          "width": 0.664706,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "She'sfrom Mexico.",
+            "confidence": 0.8839
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "She’s from Mexico. He’s from Japan. He’s from Brazil.",
+            "confidence": 0.9267
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "ESI",
+        "confidence": 0.6538,
+        "bbox": {
+          "x": 0.271333,
+          "y": 0.379701,
+          "width": 0.076667,
+          "height": 0.034003
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "Rihanna isa singer",
+        "confidence": 0.8691,
+        "bbox": {
+          "x": 0.662,
+          "y": 0.514168,
+          "width": 0.129333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "sentence",
+        "content": "Kendall Jenner is a model. Lang Lang is a musician. Rihanna is a singer.",
+        "confidence": 0.9471,
+        "bbox": {
+          "x": 0.105098,
+          "y": 0.516061,
+          "width": 0.687059,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Kendall Jenner is amodel.",
+            "confidence": 0.86
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Kendall Jenner is a model. Lang Lang is a musician. Rihanna is a singer.",
+            "confidence": 0.9471
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Lang Lang is a musician.",
+            "confidence": 0.8998
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "She's from the United States.",
+        "confidence": 0.8641,
+        "bbox": {
+          "x": 0.104667,
+          "y": 0.534261,
+          "width": 0.192,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "She's from the United States.",
+            "confidence": 0.8641
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "She's from the United States. He’s from China. She’s from Barbados.",
+            "confidence": 0.8709
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "She's from Barbados.",
+        "confidence": 0.9014,
+        "bbox": {
+          "x": 0.664,
+          "y": 0.534261,
+          "width": 0.14,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "He's from China.",
+        "confidence": 0.9307,
+        "bbox": {
+          "x": 0.380667,
+          "y": 0.535291,
+          "width": 0.112,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "sentence",
+        "content": "B Name other people for each job.",
+        "confidence": 0.9529,
+        "bbox": {
+          "x": 0.098824,
+          "y": 0.569394,
+          "width": 0.324314,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAIRWORK",
+            "confidence": 0.8747
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Name other people for each job.",
+            "confidence": 0.9529
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Nameotherpeopleforeachjob",
+            "confidence": 0.9377
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "dialogue_line",
+        "content": "A:JetLiisanactor.",
+        "confidence": 0.8974,
+        "bbox": {
+          "x": 0.12,
+          "y": 0.590933,
+          "width": 0.149333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A:JetLiisanactor.",
+            "confidence": 0.8974
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: Jet Li is an actor.",
+            "confidence": 0.7233
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "dialogue_line",
+        "content": "B: Yes. And Meryl Streep is an actress,",
+        "confidence": 0.9387,
+        "bbox": {
+          "x": 0.121961,
+          "y": 0.613636,
+          "width": 0.292549,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B:Yes.And Meryl Streepis an actress.",
+            "confidence": 0.8988
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: Yes. And Meryl Streep is an actress,",
+            "confidence": 0.9387
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "Conversation My friend the musician",
+        "confidence": 0.956,
+        "bbox": {
+          "x": 0.099216,
+          "y": 0.647879,
+          "width": 0.50902,
+          "height": 0.021212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Conversation My friend the musician",
+            "confidence": 0.956
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Conversation Myfriend the musician",
+            "confidence": 0.8817
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "instruction",
+        "content": "Listen and practice.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.122745,
+          "y": 0.684242,
+          "width": 0.131373,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listen and practice.",
+            "confidence": 0.8682
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listen and practice.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "Hey, Jacob!",
+        "confidence": 0.855,
+        "bbox": {
+          "x": 0.182,
+          "y": 0.702731,
+          "width": 0.081333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Hey, Jacob!",
+            "confidence": 0.855
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "j Hey, Jacob!",
+            "confidence": 0.87
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "Sandy",
+        "confidence": 0.8264,
+        "bbox": {
+          "x": 0.12,
+          "y": 0.703246,
+          "width": 0.045333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "Jacob",
+        "confidence": 0.8078,
+        "bbox": {
+          "x": 0.12,
+          "y": 0.724369,
+          "width": 0.043333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "sentence",
+        "content": "Jacob Oh, hi, Sandy. How’s it going?",
+        "confidence": 0.7943,
+        "bbox": {
+          "x": 0.122353,
+          "y": 0.725758,
+          "width": 0.257255,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Oh, hi, Sandy. How's it going?",
+            "confidence": 0.8701
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Jacob Oh, hi, Sandy. How’s it going?",
+            "confidence": 0.7943
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "Sandy",
+        "confidence": 0.8084,
+        "bbox": {
+          "x": 0.12,
+          "y": 0.744462,
+          "width": 0.046,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "sentence",
+        "content": "Good, thanks. This is my friend Kevin.",
+        "confidence": 0.9557,
+        "bbox": {
+          "x": 0.185882,
+          "y": 0.746364,
+          "width": 0.248627,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Good,thanks.ThisismyfriendKevin.",
+            "confidence": 0.9298
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Good, thanks. This is my friend Kevin.",
+            "confidence": 0.9557
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "Hi. Nice to meet you.",
+        "confidence": 0.8887,
+        "bbox": {
+          "x": 0.184667,
+          "y": 0.76507,
+          "width": 0.138667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Hi. Nice to meet you.",
+            "confidence": 0.8887
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Jacob Hi. Nice to meet you.",
+            "confidence": 0.73
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "Jacob",
+        "confidence": 0.8296,
+        "bbox": {
+          "x": 0.120667,
+          "y": 0.765585,
+          "width": 0.043333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "Kevin",
+        "confidence": 0.8322,
+        "bbox": {
+          "x": 0.118667,
+          "y": 0.786193,
+          "width": 0.043333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "sentence",
+        "content": "Kevin Nice to meet you, Jacob.",
+        "confidence": 0.815,
+        "bbox": {
+          "x": 0.122745,
+          "y": 0.787879,
+          "width": 0.22549,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Nice to meet you, Jacob.",
+            "confidence": 0.8752
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Kevin Nice to meet you, Jacob.",
+            "confidence": 0.815
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "Jacob",
+        "confidence": 0.8119,
+        "bbox": {
+          "x": 0.120667,
+          "y": 0.807316,
+          "width": 0.043333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "Are you a student here?",
+        "confidence": 0.9084,
+        "bbox": {
+          "x": 0.184,
+          "y": 0.807316,
+          "width": 0.16,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Are you a student here?",
+            "confidence": 0.9084
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Jacob Are you a student here?",
+            "confidence": 0.3817
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "Kevin",
+        "confidence": 0.831,
+        "bbox": {
+          "x": 0.119333,
+          "y": 0.827924,
+          "width": 0.043333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Kevin",
+            "confidence": 0.831
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Kevin No, ’'m not. |’m a musician.",
+            "confidence": 0.7771
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "No,I'mnot.I'mamusician.",
+        "confidence": 0.9187,
+        "bbox": {
+          "x": 0.185333,
+          "y": 0.828439,
+          "width": 0.182667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "Sandy",
+        "confidence": 0.8268,
+        "bbox": {
+          "x": 0.119333,
+          "y": 0.846471,
+          "width": 0.048,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "Kevin is from England.",
+        "confidence": 0.9475,
+        "bbox": {
+          "x": 0.187451,
+          "y": 0.849697,
+          "width": 0.146667,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Kevin is from England.",
+            "confidence": 0.8343
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Kevin is from England.",
+            "confidence": 0.9475
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "Jacob",
+        "confidence": 0.8249,
+        "bbox": {
+          "x": 0.121333,
+          "y": 0.86914,
+          "width": 0.043333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "Oh?Are you from London?",
+        "confidence": 0.9133,
+        "bbox": {
+          "x": 0.186,
+          "y": 0.86914,
+          "width": 0.178667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Oh?Are you from London?",
+            "confidence": 0.9133
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Jacob Oh? Are you from London?",
+            "confidence": 0.5983
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "Kevin",
+        "confidence": 0.7584,
+        "bbox": {
+          "x": 0.120667,
+          "y": 0.890778,
+          "width": 0.042,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0041",
+        "type": "label",
+        "content": "No,I'm not.I'mfromLiverpool.",
+        "confidence": 0.8913,
+        "bbox": {
+          "x": 0.186,
+          "y": 0.890778,
+          "width": 0.208,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "No,I'm not.I'mfromLiverpool.",
+            "confidence": 0.8913
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Kevin No, !I’mnot. |'m from Liverpool.",
+            "confidence": 0.4783
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "label",
+        "content": "10",
+        "confidence": 0.6638,
+        "bbox": {
+          "x": 0.038667,
+          "y": 0.942813,
+          "width": 0.019333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "He'sfrom Japan.",
+            "confidence": 0.8585,
+            "bbox": {
+              "x": 0.379333,
+              "y": 0.345183,
+              "width": 0.113333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0008",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "He's from Brazil.",
+            "confidence": 0.8367,
+            "bbox": {
+              "x": 0.661333,
+              "y": 0.345183,
+              "width": 0.107333,
+              "height": 0.012365
+            },
+            "sourceElementId": "text_0009",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "She’s from Mexico. He’s from Japan. He’s from Brazil.",
+            "confidence": 0.9267,
+            "bbox": {
+              "x": 0.104314,
+              "y": 0.346061,
+              "width": 0.664706,
+              "height": 0.011818
+            },
+            "sourceElementId": "text_0010",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "She's from the United States.",
+            "confidence": 0.8641,
+            "bbox": {
+              "x": 0.104667,
+              "y": 0.534261,
+              "width": 0.192,
+              "height": 0.01288
+            },
+            "sourceElementId": "text_0014",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "She's from Barbados.",
+            "confidence": 0.9014,
+            "bbox": {
+              "x": 0.664,
+              "y": 0.534261,
+              "width": 0.14,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0015",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "He's from China.",
+            "confidence": 0.9307,
+            "bbox": {
+              "x": 0.380667,
+              "y": 0.535291,
+              "width": 0.112,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0016",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "A:JetLiisanactor.",
+            "confidence": 0.8974,
+            "bbox": {
+              "x": 0.12,
+              "y": 0.590933,
+              "width": 0.149333,
+              "height": 0.01288
+            },
+            "sourceElementId": "text_0018",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "B: Yes. And Meryl Streep is an actress,",
+            "confidence": 0.9387,
+            "bbox": {
+              "x": 0.121961,
+              "y": 0.613636,
+              "width": 0.292549,
+              "height": 0.013939
+            },
+            "sourceElementId": "text_0019",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Hi. Nice to meet you.",
+            "confidence": 0.8887,
+            "bbox": {
+              "x": 0.184667,
+              "y": 0.76507,
+              "width": 0.138667,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0028",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Are you a student here?",
+            "confidence": 0.9084,
+            "bbox": {
+              "x": 0.184,
+              "y": 0.807316,
+              "width": 0.16,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0033",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "No,I'mnot.I'mamusician.",
+            "confidence": 0.9187,
+            "bbox": {
+              "x": 0.185333,
+              "y": 0.828439,
+              "width": 0.182667,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0035",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "No,I'm not.I'mfromLiverpool.",
+            "confidence": 0.8913,
+            "bbox": {
+              "x": 0.186,
+              "y": 0.890778,
+              "width": 0.208,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0041",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen and repeat.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0003"
+        ],
+        "confidence": 0.96
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "exercise",
+        "instruction": "Name other people for each job.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0017"
+        ],
+        "confidence": 0.9529
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "AFTRA",
+          "Salma Hayek isanactress.",
+          "Alex Hornest isanartist.",
+          "Salma Hayek is an actress. Tadanobu Asano is an actor. Alex Hornest is an artist.",
+          "He'sfrom Japan.",
+          "He's from Brazil.",
+          "She’s from Mexico. He’s from Japan. He’s from Brazil.",
+          "ESI"
+        ],
+        "position": {
+          "x": 0.08266699999999999,
+          "y": 0.20205,
+          "width": 0.7604709999999999,
+          "height": 0.23165400000000003
+        },
+        "textElementIds": [
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Rihanna isa singer",
+          "Kendall Jenner is a model. Lang Lang is a musician. Rihanna is a singer.",
+          "She's from the United States.",
+          "She's from Barbados.",
+          "He's from China.",
+          "B Name other people for each job.",
+          "A:JetLiisanactor.",
+          "B: Yes. And Meryl Streep is an actress,",
+          "Conversation My friend the musician",
+          "Listen and practice.",
+          "Hey, Jacob!",
+          "Sandy",
+          "Jacob",
+          "Jacob Oh, hi, Sandy. How’s it going?"
+        ],
+        "position": {
+          "x": 0.07882399999999999,
+          "y": 0.49416799999999994,
+          "width": 0.7451760000000001,
+          "height": 0.26310500000000014
+        },
+        "textElementIds": [
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Sandy",
+          "Good, thanks. This is my friend Kevin.",
+          "Hi. Nice to meet you.",
+          "Jacob",
+          "Kevin",
+          "Kevin Nice to meet you, Jacob.",
+          "Jacob",
+          "Are you a student here?",
+          "Kevin",
+          "No,I'mnot.I'mamusician.",
+          "Sandy",
+          "Kevin is from England.",
+          "Jacob",
+          "Oh?Are you from London?"
+        ],
+        "position": {
+          "x": 0.09866699999999999,
+          "y": 0.7244619999999999,
+          "width": 0.355842,
+          "height": 0.17807300000000015
+        },
+        "textElementIds": [
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "Are you a student?\nVocabulary Interesting jobs\nA  Listen and repeat.\nAFTRA\nATI\nSalma Hayek isanactress.\nAlex Hornest isanartist.\nTadanobuAsanoisanactor\nShe'sfrom Mexico.\nHe'sfrom Japan.\nHe's from Brazil.\nESI\nRihanna isa singer\nKendall Jenner is amodel.\nLang Lang is a musician.\nShe's from the United States.\nShe's from Barbados.\nHe's from China.\nPAIRWORK\nNameotherpeopleforeachjob\nA:JetLiisanactor.\nB:Yes.And Meryl Streepis an actress.\nConversation Myfriend the musician\nListen and practice.\nHey, Jacob!\nSandy\nOh, hi, Sandy. How's it going?\nJacob\nSandy\nGood,thanks.ThisismyfriendKevin.\nHi. Nice to meet you.\nJacob\nKevin\nNice to meet you, Jacob.\nJacob\nAre you a student here?\nKevin\nNo,I'mnot.I'mamusician.\nSandy\nKevin is from England.\nJacob\nOh?Are you from London?\nKevin\nNo,I'm not.I'mfromLiverpool.\n10\ndehkhodaedu.com",
+      "tesseract_psm3": "Are you a student?\n\nVocabulary Interesting jobs\n\nA Listen and repeat.\n\nSalma Hayek is an actress. Tadanobu Asano is an actor. Alex Hornest is an artist.\n\nShe’s from Mexico. He’s from Japan. He’s from Brazil.\n\nYY\n\n=\nKendall Jenner is a model. Lang Lang is a musician. Rihanna is a singer.\nShe's from the United States. He’s from China. She’s from Barbados.\n\nB Name other people for each job.\nA: Jet Li is an actor.\nB: Yes. And Meryl Streep is an actress,\n\nConversation My friend the musician\n\nListen and practice.\nj Hey, Jacob!\nJacob Oh, hi, Sandy. How’s it going?\nGood, thanks. This is my friend Kevin.\nJacob Hi. Nice to meet you.\nKevin Nice to meet you, Jacob.\nJacob Are you a student here?\nKevin No, ’'m not. |’m a musician.\nKevin is from England.\n\nJacob Oh? Are you from London?\n\nKevin No, !I’mnot. |'m from Liverpool.\n\ndehkhodaedu.com\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [
+      {
+        "id": "text_0012",
+        "type": "text",
+        "content": "YY",
+        "confidence": 0.1,
+        "bbox": {
+          "x": 0.283529,
+          "y": 0.441212,
+          "width": 0.06,
+          "height": 0.025758
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0013",
+        "type": "text",
+        "content": "=",
+        "confidence": 0.66,
+        "bbox": {
+          "x": 0.107451,
+          "y": 0.5,
+          "width": 0.026275,
+          "height": 0.008788
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "averageConfidence": 0.8682,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "5 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "2 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "page",
+    "headings": [
+      "Are you a student?",
+      "Vocabulary Interesting jobs"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Are you a student?",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.127451,
+          "y": 0.069091,
+          "width": 0.464706,
+          "height": 0.034545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Are you a student?",
+            "confidence": 0.8744
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Are you a student?",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Vocabulary Interesting jobs",
+        "confidence": 0.9367,
+        "bbox": {
+          "x": 0.094902,
+          "y": 0.129394,
+          "width": 0.383529,
+          "height": 0.021212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Vocabulary Interesting jobs",
+            "confidence": 0.9003
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Vocabulary Interesting jobs",
+            "confidence": 0.9367
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "label",
+        "content": "A Listen and repeat.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.094902,
+          "y": 0.163636,
+          "width": 0.166667,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A  Listen and repeat.",
+            "confidence": 0.8679
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Listen and repeat.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "AFTRA",
+        "confidence": 0.6964,
+        "bbox": {
+          "x": 0.271333,
+          "y": 0.22205,
+          "width": 0.066667,
+          "height": 0.021638
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "AFTRA",
+            "confidence": 0.6964
+          },
+          {
+            "engine": "rapidocr",
+            "content": "ATI",
+            "confidence": 0.5428
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "Salma Hayek is an actress.",
+        "confidence": 0.8642,
+        "bbox": {
+          "x": 0.102667,
+          "y": 0.326121,
+          "width": 0.176667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "Alex Horne st is an artist.",
+        "confidence": 0.8894,
+        "bbox": {
+          "x": 0.662,
+          "y": 0.326121,
+          "width": 0.160667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "sentence",
+        "content": "Salma Hayek is an actress. Tada no bu Asano is an actor. Alex Horne st is an artist.",
+        "confidence": 0.9413,
+        "bbox": {
+          "x": 0.103922,
+          "y": 0.326667,
+          "width": 0.719216,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "TadanobuAsanoisanactor",
+            "confidence": 0.8805
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Salma Hayek is an actress. Tadanobu Asano is an actor. Alex Hornest is an artist.",
+            "confidence": 0.9413
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "He's from Japan.",
+        "confidence": 0.8585,
+        "bbox": {
+          "x": 0.379333,
+          "y": 0.345183,
+          "width": 0.113333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "He's from Brazil.",
+        "confidence": 0.8367,
+        "bbox": {
+          "x": 0.661333,
+          "y": 0.345183,
+          "width": 0.107333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "sentence",
+        "content": "She's from Mexico. He's from Japan. He's from Brazil.",
+        "confidence": 0.9267,
+        "bbox": {
+          "x": 0.104314,
+          "y": 0.346061,
+          "width": 0.664706,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "She'sfrom Mexico.",
+            "confidence": 0.8839
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "She’s from Mexico. He’s from Japan. He’s from Brazil.",
+            "confidence": 0.9267
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "ESI",
+        "confidence": 0.6538,
+        "bbox": {
+          "x": 0.271333,
+          "y": 0.379701,
+          "width": 0.076667,
+          "height": 0.034003
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "Rihanna isa singer",
+        "confidence": 0.8691,
+        "bbox": {
+          "x": 0.662,
+          "y": 0.514168,
+          "width": 0.129333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "sentence",
+        "content": "Kendall Jenner is a model. Lang Lang is a musician. Rihanna is a singer.",
+        "confidence": 0.9471,
+        "bbox": {
+          "x": 0.105098,
+          "y": 0.516061,
+          "width": 0.687059,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Kendall Jenner is amodel.",
+            "confidence": 0.86
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Kendall Jenner is a model. Lang Lang is a musician. Rihanna is a singer.",
+            "confidence": 0.9471
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Lang Lang is a musician.",
+            "confidence": 0.8998
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "She's from the United States.",
+        "confidence": 0.8641,
+        "bbox": {
+          "x": 0.104667,
+          "y": 0.534261,
+          "width": 0.192,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "She's from the United States.",
+            "confidence": 0.8641
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "She's from the United States. He’s from China. She’s from Barbados.",
+            "confidence": 0.8709
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "She's from Barbados.",
+        "confidence": 0.9014,
+        "bbox": {
+          "x": 0.664,
+          "y": 0.534261,
+          "width": 0.14,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "He's from China.",
+        "confidence": 0.9307,
+        "bbox": {
+          "x": 0.380667,
+          "y": 0.535291,
+          "width": 0.112,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "sentence",
+        "content": "B Name other people for each job.",
+        "confidence": 0.9529,
+        "bbox": {
+          "x": 0.098824,
+          "y": 0.569394,
+          "width": 0.324314,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAIRWORK",
+            "confidence": 0.8747
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Name other people for each job.",
+            "confidence": 0.9529
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Nameotherpeopleforeachjob",
+            "confidence": 0.9377
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "dialogue_line",
+        "content": "A: Jet Li is an actor.",
+        "confidence": 0.8974,
+        "bbox": {
+          "x": 0.12,
+          "y": 0.590933,
+          "width": 0.149333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A:JetLiisanactor.",
+            "confidence": 0.8974
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: Jet Li is an actor.",
+            "confidence": 0.7233
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "dialogue_line",
+        "content": "B: Yes. And Meryl Streep is an actress",
+        "confidence": 0.9387,
+        "bbox": {
+          "x": 0.121961,
+          "y": 0.613636,
+          "width": 0.292549,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B:Yes.And Meryl Streepis an actress.",
+            "confidence": 0.8988
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: Yes. And Meryl Streep is an actress,",
+            "confidence": 0.9387
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "Conversation My friend the musician",
+        "confidence": 0.956,
+        "bbox": {
+          "x": 0.099216,
+          "y": 0.647879,
+          "width": 0.50902,
+          "height": 0.021212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Conversation My friend the musician",
+            "confidence": 0.956
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Conversation Myfriend the musician",
+            "confidence": 0.8817
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "instruction",
+        "content": "Listen and practice.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.122745,
+          "y": 0.684242,
+          "width": 0.131373,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listen and practice.",
+            "confidence": 0.8682
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listen and practice.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "Hey, Jacob!",
+        "confidence": 0.855,
+        "bbox": {
+          "x": 0.182,
+          "y": 0.702731,
+          "width": 0.081333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Hey, Jacob!",
+            "confidence": 0.855
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "j Hey, Jacob!",
+            "confidence": 0.87
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "Sandy",
+        "confidence": 0.8264,
+        "bbox": {
+          "x": 0.12,
+          "y": 0.703246,
+          "width": 0.045333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "Jacob",
+        "confidence": 0.8078,
+        "bbox": {
+          "x": 0.12,
+          "y": 0.724369,
+          "width": 0.043333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "sentence",
+        "content": "Jacob Oh, hi, Sandy. How's it going?",
+        "confidence": 0.7943,
+        "bbox": {
+          "x": 0.122353,
+          "y": 0.725758,
+          "width": 0.257255,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Oh, hi, Sandy. How's it going?",
+            "confidence": 0.8701
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Jacob Oh, hi, Sandy. How’s it going?",
+            "confidence": 0.7943
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "Sandy",
+        "confidence": 0.8084,
+        "bbox": {
+          "x": 0.12,
+          "y": 0.744462,
+          "width": 0.046,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "sentence",
+        "content": "Good, thanks. This is my friend Kevin.",
+        "confidence": 0.9557,
+        "bbox": {
+          "x": 0.185882,
+          "y": 0.746364,
+          "width": 0.248627,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Good,thanks.ThisismyfriendKevin.",
+            "confidence": 0.9298
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Good, thanks. This is my friend Kevin.",
+            "confidence": 0.9557
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "Hi. Nice to meet you.",
+        "confidence": 0.8887,
+        "bbox": {
+          "x": 0.184667,
+          "y": 0.76507,
+          "width": 0.138667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Hi. Nice to meet you.",
+            "confidence": 0.8887
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Jacob Hi. Nice to meet you.",
+            "confidence": 0.73
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "Jacob",
+        "confidence": 0.8296,
+        "bbox": {
+          "x": 0.120667,
+          "y": 0.765585,
+          "width": 0.043333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "Kevin",
+        "confidence": 0.8322,
+        "bbox": {
+          "x": 0.118667,
+          "y": 0.786193,
+          "width": 0.043333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "sentence",
+        "content": "Kevin Nice to meet you, Jacob.",
+        "confidence": 0.815,
+        "bbox": {
+          "x": 0.122745,
+          "y": 0.787879,
+          "width": 0.22549,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Nice to meet you, Jacob.",
+            "confidence": 0.8752
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Kevin Nice to meet you, Jacob.",
+            "confidence": 0.815
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "Jacob",
+        "confidence": 0.8119,
+        "bbox": {
+          "x": 0.120667,
+          "y": 0.807316,
+          "width": 0.043333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "Are you a student here?",
+        "confidence": 0.9084,
+        "bbox": {
+          "x": 0.184,
+          "y": 0.807316,
+          "width": 0.16,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Are you a student here?",
+            "confidence": 0.9084
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Jacob Are you a student here?",
+            "confidence": 0.3817
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "Kevin",
+        "confidence": 0.831,
+        "bbox": {
+          "x": 0.119333,
+          "y": 0.827924,
+          "width": 0.043333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Kevin",
+            "confidence": 0.831
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Kevin No, ’'m not. |’m a musician.",
+            "confidence": 0.7771
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "No, I'm not. I'm a musician.",
+        "confidence": 0.9187,
+        "bbox": {
+          "x": 0.185333,
+          "y": 0.828439,
+          "width": 0.182667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "Sandy",
+        "confidence": 0.8268,
+        "bbox": {
+          "x": 0.119333,
+          "y": 0.846471,
+          "width": 0.048,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "Kevin is from England.",
+        "confidence": 0.9475,
+        "bbox": {
+          "x": 0.187451,
+          "y": 0.849697,
+          "width": 0.146667,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Kevin is from England.",
+            "confidence": 0.8343
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Kevin is from England.",
+            "confidence": 0.9475
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "Jacob",
+        "confidence": 0.8249,
+        "bbox": {
+          "x": 0.121333,
+          "y": 0.86914,
+          "width": 0.043333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "Oh? Are you from London?",
+        "confidence": 0.9133,
+        "bbox": {
+          "x": 0.186,
+          "y": 0.86914,
+          "width": 0.178667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Oh?Are you from London?",
+            "confidence": 0.9133
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Jacob Oh? Are you from London?",
+            "confidence": 0.5983
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "Kevin",
+        "confidence": 0.7584,
+        "bbox": {
+          "x": 0.120667,
+          "y": 0.890778,
+          "width": 0.042,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0041",
+        "type": "label",
+        "content": "No, I'm not. I'm from Liverpool.",
+        "confidence": 0.8913,
+        "bbox": {
+          "x": 0.186,
+          "y": 0.890778,
+          "width": 0.208,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "No,I'm not.I'mfromLiverpool.",
+            "confidence": 0.8913
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Kevin No, !I’mnot. |'m from Liverpool.",
+            "confidence": 0.4783
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "audio_track",
+        "content": "10",
+        "confidence": 0.6638,
+        "bbox": {
+          "x": 0.038667,
+          "y": 0.942813,
+          "width": 0.019333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Are you a student?",
+      "Vocabulary Interesting jobs",
+      "A Listen and repeat.",
+      "AFTRA",
+      "Salma Hayek is an actress.",
+      "Alex Horne st is an artist.",
+      "Salma Hayek is an actress. Tada no bu Asano is an actor. Alex Horne st is an artist.",
+      "He's from Japan.",
+      "He's from Brazil.",
+      "She's from Mexico. He's from Japan. He's from Brazil.",
+      "ESI",
+      "Rihanna isa singer",
+      "Kendall Jenner is a model. Lang Lang is a musician. Rihanna is a singer.",
+      "She's from the United States.",
+      "She's from Barbados.",
+      "He's from China.",
+      "B Name other people for each job.",
+      "A: Jet Li is an actor.",
+      "B: Yes. And Meryl Streep is an actress",
+      "Conversation My friend the musician",
+      "Listen and practice.",
+      "Hey, Jacob!",
+      "Sandy",
+      "Jacob",
+      "Jacob Oh, hi, Sandy. How's it going?",
+      "Sandy",
+      "Good, thanks. This is my friend Kevin.",
+      "Hi. Nice to meet you.",
+      "Jacob",
+      "Kevin",
+      "Kevin Nice to meet you, Jacob.",
+      "Jacob",
+      "Are you a student here?",
+      "Kevin",
+      "No, I'm not. I'm a musician.",
+      "Sandy",
+      "Kevin is from England.",
+      "Jacob",
+      "Oh? Are you from London?",
+      "Kevin",
+      "No, I'm not. I'm from Liverpool."
+    ],
+    "paragraphs": [],
+    "sentences": [
+      "Are you a student",
+      "Vocabulary Interesting jobs A Listen and repeat",
+      "AFTRA Salma Hayek is an actress",
+      "Alex Horne st is an artist",
+      "Salma Hayek is an actress",
+      "Tada no bu Asano is an actor",
+      "Alex Horne st is an artist",
+      "He's from Japan",
+      "He's from Brazil",
+      "She's from Mexico",
+      "He's from Japan",
+      "He's from Brazil",
+      "ESI Rihanna isa singer Kendall Jenner is a model",
+      "Lang Lang is a musician",
+      "Rihanna is a singer",
+      "She's from the United States",
+      "She's from Barbados",
+      "He's from China",
+      "B Name other people for each job",
+      "A: Jet Li is an actor",
+      "B: Yes",
+      "And Meryl Streep is an actress Conversation My friend the musician Listen and practice",
+      "Hey, Jacob",
+      "Sandy Jacob Jacob Oh, hi, Sandy",
+      "How's it going",
+      "Sandy Good, thanks",
+      "This is my friend Kevin",
+      "Hi",
+      "Nice to meet you",
+      "Jacob Kevin Kevin Nice to meet you, Jacob",
+      "Jacob Are you a student here",
+      "Kevin No, I'm not",
+      "I'm a musician",
+      "Sandy Kevin is from England",
+      "Jacob Oh",
+      "Are you from London",
+      "Kevin No, I'm not",
+      "I'm from Liverpool"
+    ],
+    "vocabulary": [
+      {
+        "word": "actress",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "actor",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "artist",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "model",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "musician",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "singer",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      }
+    ],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "He's from Japan.",
+            "confidence": 0.8585,
+            "bbox": {
+              "x": 0.379333,
+              "y": 0.345183,
+              "width": 0.113333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0008"
+          },
+          {
+            "speaker": null,
+            "content": "He's from Brazil.",
+            "confidence": 0.8367,
+            "bbox": {
+              "x": 0.661333,
+              "y": 0.345183,
+              "width": 0.107333,
+              "height": 0.012365
+            },
+            "sourceElementId": "text_0009"
+          },
+          {
+            "speaker": null,
+            "content": "She's from Mexico.",
+            "confidence": 0.9267,
+            "bbox": {
+              "x": 0.104314,
+              "y": 0.346061,
+              "width": 0.664706,
+              "height": 0.011818
+            },
+            "sourceElementId": "text_0010"
+          },
+          {
+            "speaker": null,
+            "content": "He's from Japan.",
+            "confidence": 0.9267,
+            "bbox": {
+              "x": 0.104314,
+              "y": 0.346061,
+              "width": 0.664706,
+              "height": 0.011818
+            },
+            "sourceElementId": "text_0010"
+          },
+          {
+            "speaker": null,
+            "content": "He's from Brazil.",
+            "confidence": 0.9267,
+            "bbox": {
+              "x": 0.104314,
+              "y": 0.346061,
+              "width": 0.664706,
+              "height": 0.011818
+            },
+            "sourceElementId": "text_0010"
+          },
+          {
+            "speaker": null,
+            "content": "She's from the United States.",
+            "confidence": 0.8641,
+            "bbox": {
+              "x": 0.104667,
+              "y": 0.534261,
+              "width": 0.192,
+              "height": 0.01288
+            },
+            "sourceElementId": "text_0014"
+          },
+          {
+            "speaker": null,
+            "content": "She's from Barbados.",
+            "confidence": 0.9014,
+            "bbox": {
+              "x": 0.664,
+              "y": 0.534261,
+              "width": 0.14,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0015"
+          },
+          {
+            "speaker": null,
+            "content": "He's from China.",
+            "confidence": 0.9307,
+            "bbox": {
+              "x": 0.380667,
+              "y": 0.535291,
+              "width": 0.112,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0016"
+          },
+          {
+            "speaker": null,
+            "content": "A: Jet Li is an actor.",
+            "confidence": 0.8974,
+            "bbox": {
+              "x": 0.12,
+              "y": 0.590933,
+              "width": 0.149333,
+              "height": 0.01288
+            },
+            "sourceElementId": "text_0018"
+          },
+          {
+            "speaker": null,
+            "content": "B: Yes.",
+            "confidence": 0.9387,
+            "bbox": {
+              "x": 0.121961,
+              "y": 0.613636,
+              "width": 0.292549,
+              "height": 0.013939
+            },
+            "sourceElementId": "text_0019"
+          },
+          {
+            "speaker": null,
+            "content": "And Meryl Streep is an actress",
+            "confidence": 0.9387,
+            "bbox": {
+              "x": 0.121961,
+              "y": 0.613636,
+              "width": 0.292549,
+              "height": 0.013939
+            },
+            "sourceElementId": "text_0019"
+          },
+          {
+            "speaker": null,
+            "content": "Hi.",
+            "confidence": 0.8887,
+            "bbox": {
+              "x": 0.184667,
+              "y": 0.76507,
+              "width": 0.138667,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0028"
+          },
+          {
+            "speaker": null,
+            "content": "Nice to meet you.",
+            "confidence": 0.8887,
+            "bbox": {
+              "x": 0.184667,
+              "y": 0.76507,
+              "width": 0.138667,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0028"
+          },
+          {
+            "speaker": null,
+            "content": "Are you a student here?",
+            "confidence": 0.9084,
+            "bbox": {
+              "x": 0.184,
+              "y": 0.807316,
+              "width": 0.16,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0033"
+          },
+          {
+            "speaker": null,
+            "content": "No, I'm not.",
+            "confidence": 0.9187,
+            "bbox": {
+              "x": 0.185333,
+              "y": 0.828439,
+              "width": 0.182667,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0035"
+          },
+          {
+            "speaker": null,
+            "content": "I'm a musician.",
+            "confidence": 0.9187,
+            "bbox": {
+              "x": 0.185333,
+              "y": 0.828439,
+              "width": 0.182667,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0035"
+          },
+          {
+            "speaker": null,
+            "content": "No, I'm not.",
+            "confidence": 0.8913,
+            "bbox": {
+              "x": 0.186,
+              "y": 0.890778,
+              "width": 0.208,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0041"
+          },
+          {
+            "speaker": null,
+            "content": "I'm from Liverpool.",
+            "confidence": 0.8913,
+            "bbox": {
+              "x": 0.186,
+              "y": 0.890778,
+              "width": 0.208,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0041"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen and repeat.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "exercise",
+        "instruction": "Name other people for each job.",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "AFTRA",
+          "Salma Hayek is an actress.",
+          "Alex Horne st is an artist.",
+          "Salma Hayek is an actress. Tada no bu Asano is an actor. Alex Horne st is an artist.",
+          "He's from Japan.",
+          "He's from Brazil.",
+          "She's from Mexico. He's from Japan. He's from Brazil.",
+          "ESI"
+        ],
+        "position": {
+          "x": 0.08266699999999999,
+          "y": 0.20205,
+          "width": 0.7604709999999999,
+          "height": 0.23165400000000003
+        },
+        "textElementIds": [
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Rihanna isa singer",
+          "Kendall Jenner is a model. Lang Lang is a musician. Rihanna is a singer.",
+          "She's from the United States.",
+          "She's from Barbados.",
+          "He's from China.",
+          "B Name other people for each job.",
+          "A: Jet Li is an actor.",
+          "B: Yes. And Meryl Streep is an actress",
+          "Conversation My friend the musician",
+          "Listen and practice.",
+          "Hey, Jacob!",
+          "Sandy",
+          "Jacob",
+          "Jacob Oh, hi, Sandy. How's it going?"
+        ],
+        "position": {
+          "x": 0.07882399999999999,
+          "y": 0.49416799999999994,
+          "width": 0.7451760000000001,
+          "height": 0.26310500000000014
+        },
+        "textElementIds": [
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Sandy",
+          "Good, thanks. This is my friend Kevin.",
+          "Hi. Nice to meet you.",
+          "Jacob",
+          "Kevin",
+          "Kevin Nice to meet you, Jacob.",
+          "Jacob",
+          "Are you a student here?",
+          "Kevin",
+          "No, I'm not. I'm a musician.",
+          "Sandy",
+          "Kevin is from England.",
+          "Jacob",
+          "Oh? Are you from London?"
+        ],
+        "position": {
+          "x": 0.09866699999999999,
+          "y": 0.7244619999999999,
+          "width": 0.355842,
+          "height": 0.17807300000000015
+        },
+        "textElementIds": [
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039"
+        ]
+      }
+    ],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "page",
+    "title": "Are you a student?",
+    "learningObjectives": [],
+    "targetVocabulary": [
+      {
+        "word": "actress",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "actor",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "artist",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "model",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "musician",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "singer",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "He's from Japan.",
+            "confidence": 0.8585
+          },
+          {
+            "speaker": null,
+            "content": "He's from Brazil.",
+            "confidence": 0.8367
+          },
+          {
+            "speaker": null,
+            "content": "She's from Mexico.",
+            "confidence": 0.9267
+          },
+          {
+            "speaker": null,
+            "content": "He's from Japan.",
+            "confidence": 0.9267
+          },
+          {
+            "speaker": null,
+            "content": "He's from Brazil.",
+            "confidence": 0.9267
+          },
+          {
+            "speaker": null,
+            "content": "She's from the United States.",
+            "confidence": 0.8641
+          },
+          {
+            "speaker": null,
+            "content": "She's from Barbados.",
+            "confidence": 0.9014
+          },
+          {
+            "speaker": null,
+            "content": "He's from China.",
+            "confidence": 0.9307
+          },
+          {
+            "speaker": null,
+            "content": "A: Jet Li is an actor.",
+            "confidence": 0.8974
+          },
+          {
+            "speaker": null,
+            "content": "B: Yes.",
+            "confidence": 0.9387
+          },
+          {
+            "speaker": null,
+            "content": "And Meryl Streep is an actress",
+            "confidence": 0.9387
+          },
+          {
+            "speaker": null,
+            "content": "Hi.",
+            "confidence": 0.8887
+          },
+          {
+            "speaker": null,
+            "content": "Nice to meet you.",
+            "confidence": 0.8887
+          },
+          {
+            "speaker": null,
+            "content": "Are you a student here?",
+            "confidence": 0.9084
+          },
+          {
+            "speaker": null,
+            "content": "No, I'm not.",
+            "confidence": 0.9187
+          },
+          {
+            "speaker": null,
+            "content": "I'm a musician.",
+            "confidence": 0.9187
+          },
+          {
+            "speaker": null,
+            "content": "No, I'm not.",
+            "confidence": 0.8913
+          },
+          {
+            "speaker": null,
+            "content": "I'm from Liverpool.",
+            "confidence": 0.8913
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen and repeat.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "exercise",
+        "instruction": "Name other people for each job.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "5 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "2 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ],
+    "verifiedAgainstPdf": true,
+    "repairStats": {
+      "dialoguesSplit": 11
+    },
+    "averageOcrConfidence": 0.8682,
+    "verificationMethod": "independent_ocr_crosscheck"
+  },
+  "metadata": {
+    "book": "Four Corners 1 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc1_v1",
+    "verificationMethod": "independent_ocr_crosscheck",
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

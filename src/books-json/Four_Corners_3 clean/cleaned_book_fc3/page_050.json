@@ -1,0 +1,2338 @@
+{
+  "pageNumber": 43,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 50,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 3_Part3.pdf",
+    "pdfLocalPageNumber": 3,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Our world",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.170588,
+          "y": 0.070909,
+          "width": 0.562353,
+          "height": 0.064545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Our world",
+            "confidence": 0.8459
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Our world",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "label",
+        "content": "LessonA",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.046667,
+          "y": 0.168182,
+          "width": 0.090588,
+          "height": 0.010909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Lesson A",
+            "confidence": 0.8385
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "LessonA",
+            "confidence": 0.9
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "label",
+        "content": "Lesson B Lesson C",
+        "confidence": 0.9125,
+        "bbox": {
+          "x": 0.27098,
+          "y": 0.17,
+          "width": 0.314118,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Lesson C",
+            "confidence": 0.7818
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Lesson B Lesson C",
+            "confidence": 0.9125
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Lesson B",
+            "confidence": 0.7995
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "Lesson D",
+        "confidence": 0.92,
+        "bbox": {
+          "x": 0.718824,
+          "y": 0.171212,
+          "width": 0.091373,
+          "height": 0.010909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Lesson D",
+            "confidence": 0.7879
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Lesson D",
+            "confidence": 0.92
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "e Expressing @ Geographical",
+        "confidence": 0.8775,
+        "bbox": {
+          "x": 0.272549,
+          "y": 0.190606,
+          "width": 0.365098,
+          "height": 0.020909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "e Expressing @ Geographical",
+            "confidence": 0.8775
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Expressing",
+            "confidence": 0.8169
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Geographical",
+            "confidence": 0.9164
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "@ Human-made",
+        "confidence": 0.865,
+        "bbox": {
+          "x": 0.054118,
+          "y": 0.195455,
+          "width": 0.138824,
+          "height": 0.010909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Human-made",
+            "confidence": 0.866
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "@ Human-made",
+            "confidence": 0.865
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "@ Reading “Seven",
+        "confidence": 0.9267,
+        "bbox": {
+          "x": 0.726667,
+          "y": 0.198485,
+          "width": 0.15451,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Reading\"Seven",
+            "confidence": 0.8969
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "@ Reading “Seven",
+            "confidence": 0.9267
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "disbelief features",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.302745,
+          "y": 0.212424,
+          "width": 0.292549,
+          "height": 0.016364
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "disbelief features",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "disbelief",
+            "confidence": 0.8344
+          },
+          {
+            "engine": "rapidocr",
+            "content": "features",
+            "confidence": 0.887
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "wonders",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.078039,
+          "y": 0.21303,
+          "width": 0.071765,
+          "height": 0.010909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "wonders",
+            "confidence": 0.8234
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "wonders",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "Wonders of the",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.750588,
+          "y": 0.216061,
+          "width": 0.12549,
+          "height": 0.010909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Wonders of the",
+            "confidence": 0.856
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Wonders of the",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "Natural World”",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.751373,
+          "y": 0.233636,
+          "width": 0.123529,
+          "height": 0.010909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Natural World",
+            "confidence": 0.8588
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Natural World”",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "Saying you don't",
+        "confidence": 0.886,
+        "bbox": {
+          "x": 0.300667,
+          "y": 0.2339,
+          "width": 0.144667,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Saying you don't",
+            "confidence": 0.886
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "@ Saying you don't @ Superlatives",
+            "confidence": 0.7783
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "Superlatives",
+        "confidence": 0.9147,
+        "bbox": {
+          "x": 0.525333,
+          "y": 0.234415,
+          "width": 0.108667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "@ Comparisons",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.053725,
+          "y": 0.234545,
+          "width": 0.134118,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Comparisons",
+            "confidence": 0.8081
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "@ Comparisons",
+            "confidence": 0.93
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "with adjectives",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.078039,
+          "y": 0.251818,
+          "width": 0.126667,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "withadjectives",
+            "confidence": 0.8751
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "with adjectives",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "know",
+        "confidence": 0.7406,
+        "bbox": {
+          "x": 0.3,
+          "y": 0.251932,
+          "width": 0.050667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "know with adjectives",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.302745,
+          "y": 0.252727,
+          "width": 0.350196,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "with adjectives",
+            "confidence": 0.8706
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "know with adjectives",
+            "confidence": 0.9567
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "@ Writing: A natural",
+        "confidence": 0.9125,
+        "bbox": {
+          "x": 0.726667,
+          "y": 0.254848,
+          "width": 0.168235,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Writing:Anatural",
+            "confidence": 0.8995
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "@ Writing: A natural",
+            "confidence": 0.9125
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "and nouns",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.078039,
+          "y": 0.269394,
+          "width": 0.087059,
+          "height": 0.010909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "and nouns",
+            "confidence": 0.95
+          },
+          {
+            "engine": "rapidocr",
+            "content": "and nouns",
+            "confidence": 0.7961
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "and nouns",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.527059,
+          "y": 0.271515,
+          "width": 0.087451,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "and nouns",
+            "confidence": 0.8488
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "and nouns",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "wonder",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.75098,
+          "y": 0.272121,
+          "width": 0.063137,
+          "height": 0.010909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "wonder",
+            "confidence": 0.7416
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "wonder",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "Burj Khalifa-the U.A.E.",
+        "confidence": 0.864,
+        "bbox": {
+          "x": 0.073333,
+          "y": 0.31221,
+          "width": 0.17,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "| | Burj Khalifa - the U.A.E.",
+            "confidence": 0.7957
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Burj Khalifa-the U.A.E.",
+            "confidence": 0.864
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "ChichenItza-Mexico",
+        "confidence": 0.9177,
+        "bbox": {
+          "x": 0.584667,
+          "y": 0.313756,
+          "width": 0.153333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "E Icehotel - Sweden",
+        "confidence": 0.8925,
+        "bbox": {
+          "x": 0.04549,
+          "y": 0.483939,
+          "width": 0.156078,
+          "height": 0.017576
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "E Icehotel - Sweden",
+            "confidence": 0.8925
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Icehotel-Sweden",
+            "confidence": 0.8703
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "CinqueTerre-Italy",
+        "confidence": 0.8662,
+        "bbox": {
+          "x": 0.584,
+          "y": 0.488408,
+          "width": 0.14,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "Yellowstone National Park -the U.S.A.",
+        "confidence": 0.8717,
+        "bbox": {
+          "x": 0.070667,
+          "y": 0.659969,
+          "width": 0.277333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "Kinkaku-jiTemple-Japan",
+        "confidence": 0.9175,
+        "bbox": {
+          "x": 0.584667,
+          "y": 0.66203,
+          "width": 0.191333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "al Kinkaku-ji Temple - Japan",
+            "confidence": 0.78
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Kinkaku-jiTemple-Japan",
+            "confidence": 0.9175
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "Warm Up",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.042745,
+          "y": 0.848182,
+          "width": 0.129412,
+          "height": 0.019394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Warm Up",
+            "confidence": 0.8043
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Warm Up",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "sentence",
+        "content": "A Look at the pictures. Rank the places you would like to visit from 1 (the most)",
+        "confidence": 0.9335,
+        "bbox": {
+          "x": 0.088627,
+          "y": 0.881515,
+          "width": 0.563529,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Look at the pictures. Rank the places you would like to visit from 1 (the most)",
+            "confidence": 0.8885
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Look at the pictures. Rank the places you would like to visit from 1 (the most)",
+            "confidence": 0.9335
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "to 6 (the least).",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.112157,
+          "y": 0.900606,
+          "width": 0.104706,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "to 6 (the least).",
+            "confidence": 0.9056
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "to 6 (the least).",
+            "confidence": 0.9575
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "sentence",
+        "content": "B Why do you want to visit your top three places?",
+        "confidence": 0.9063,
+        "bbox": {
+          "x": 0.086,
+          "y": 0.925296,
+          "width": 0.359333,
+          "height": 0.018547
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B Why do you want to visit your top three places?",
+            "confidence": 0.9063
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Why do you want to visit your top three places?",
+            "confidence": 0.8609
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "43",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.909412,
+          "y": 0.957879,
+          "width": 0.018039,
+          "height": 0.009091
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "43",
+            "confidence": 0.6665
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "43",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "Our world",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.170588,
+          "y": 0.070909,
+          "width": 0.562353,
+          "height": 0.064545
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.95
+      },
+      {
+        "word": "LessonA",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.046667,
+          "y": 0.168182,
+          "width": 0.090588,
+          "height": 0.010909
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.9
+      },
+      {
+        "word": "disbelief features",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.302745,
+          "y": 0.212424,
+          "width": 0.292549,
+          "height": 0.016364
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.96
+      },
+      {
+        "word": "wonders",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.078039,
+          "y": 0.21303,
+          "width": 0.071765,
+          "height": 0.010909
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.96
+      },
+      {
+        "word": "Wonders of the",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.750588,
+          "y": 0.216061,
+          "width": 0.12549,
+          "height": 0.010909
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.96
+      },
+      {
+        "word": "Saying you don't",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.300667,
+          "y": 0.2339,
+          "width": 0.144667,
+          "height": 0.016486
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.886
+      },
+      {
+        "word": "Superlatives",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.525333,
+          "y": 0.234415,
+          "width": 0.108667,
+          "height": 0.015456
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.9147
+      },
+      {
+        "word": "with adjectives",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.078039,
+          "y": 0.251818,
+          "width": 0.126667,
+          "height": 0.013636
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.955
+      },
+      {
+        "word": "know",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.3,
+          "y": 0.251932,
+          "width": 0.050667,
+          "height": 0.014426
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.7406
+      },
+      {
+        "word": "know with adjectives",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.302745,
+          "y": 0.252727,
+          "width": 0.350196,
+          "height": 0.014545
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.9567
+      },
+      {
+        "word": "and nouns",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.078039,
+          "y": 0.269394,
+          "width": 0.087059,
+          "height": 0.010909
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.95
+      },
+      {
+        "word": "wonder",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.75098,
+          "y": 0.272121,
+          "width": 0.063137,
+          "height": 0.010909
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.96
+      },
+      {
+        "word": "ChichenItza-Mexico",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.584667,
+          "y": 0.313756,
+          "width": 0.153333,
+          "height": 0.01288
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.9177
+      },
+      {
+        "word": "E Icehotel - Sweden",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.04549,
+          "y": 0.483939,
+          "width": 0.156078,
+          "height": 0.017576
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8925
+      },
+      {
+        "word": "CinqueTerre-Italy",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.584,
+          "y": 0.488408,
+          "width": 0.14,
+          "height": 0.01288
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8662
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "exercise",
+        "instruction": "Look at the pictures. Rank the places you would like to visit from 1 (the most)",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0029"
+        ],
+        "confidence": 0.9335
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "disbelief features",
+          "wonders",
+          "Wonders of the",
+          "Natural World”",
+          "Saying you don't",
+          "Superlatives",
+          "@ Comparisons",
+          "with adjectives",
+          "know",
+          "know with adjectives",
+          "@ Writing: A natural",
+          "and nouns",
+          "and nouns",
+          "wonder",
+          "Burj Khalifa-the U.A.E.",
+          "ChichenItza-Mexico"
+        ],
+        "position": {
+          "x": 0.033725000000000005,
+          "y": 0.192424,
+          "width": 0.881177,
+          "height": 0.154212
+        },
+        "textElementIds": [
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "Our world\nLesson A\nLesson C\nLesson B\nLesson D\nExpressing\nHuman-made\nGeographical\nReading\"Seven\nwonders\ndisbelief\nfeatures\nWonders of the\nNatural World\nComparisons\nSaying you don't\nSuperlatives\nwithadjectives\nknow\nwith adjectives\nWriting:Anatural\nand nouns\nand nouns\nwonder\nBurj Khalifa-the U.A.E.\nChichenItza-Mexico\nIcehotel-Sweden\nCinqueTerre-Italy\nYellowstone National Park -the U.S.A.\nKinkaku-jiTemple-Japan\nWarm Up\nA Look at the pictures. Rank the places you would like to visit from 1 (the most)\nto 6 (the least).\nB Why do you want to visit your top three places?\ndehkhodaedu.com\n43",
+      "tesseract_psm3": "Our world\n\nLessonA\n\n@ Human-made\nwonders\n\n@ Comparisons\nwith adjectives\nand nouns\n\n| | Burj Khalifa - the U.A.E.\n\nE Icehotel - Sweden\n\nWarm Up\n\nA Look at the pictures. Rank the places you would like to visit from 1 (the most)\n\nto 6 (the least).\n\nLesson B Lesson C\n\ne Expressing @ Geographical\n\ndisbelief features\n@ Saying you don't @ Superlatives\nknow with adjectives\nand nouns\n\nLesson D\n\n@ Reading “Seven\nWonders of the\nNatural World”\n\n@ Writing: A natural\nwonder\n\nal Kinkaku-ji Temple - Japan\n\nB Why do you want to visit your top three places?\n\ndehkhodaedu.com\n\n43\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.9181,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "1 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "reading",
+    "headings": [
+      "Our world",
+      "Lesson A",
+      "Lesson B Lesson C",
+      "Lesson D"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Our world",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.170588,
+          "y": 0.070909,
+          "width": 0.562353,
+          "height": 0.064545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Our world",
+            "confidence": 0.8459
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Our world",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "label",
+        "content": "Lesson A",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.046667,
+          "y": 0.168182,
+          "width": 0.090588,
+          "height": 0.010909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Lesson A",
+            "confidence": 0.8385
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "LessonA",
+            "confidence": 0.9
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "label",
+        "content": "Lesson B Lesson C",
+        "confidence": 0.9125,
+        "bbox": {
+          "x": 0.27098,
+          "y": 0.17,
+          "width": 0.314118,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Lesson C",
+            "confidence": 0.7818
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Lesson B Lesson C",
+            "confidence": 0.9125
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Lesson B",
+            "confidence": 0.7995
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "Lesson D",
+        "confidence": 0.92,
+        "bbox": {
+          "x": 0.718824,
+          "y": 0.171212,
+          "width": 0.091373,
+          "height": 0.010909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Lesson D",
+            "confidence": 0.7879
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Lesson D",
+            "confidence": 0.92
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "e Expressing @ Geographical",
+        "confidence": 0.8775,
+        "bbox": {
+          "x": 0.272549,
+          "y": 0.190606,
+          "width": 0.365098,
+          "height": 0.020909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "e Expressing @ Geographical",
+            "confidence": 0.8775
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Expressing",
+            "confidence": 0.8169
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Geographical",
+            "confidence": 0.9164
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "Human-made",
+        "confidence": 0.865,
+        "bbox": {
+          "x": 0.054118,
+          "y": 0.195455,
+          "width": 0.138824,
+          "height": 0.010909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Human-made",
+            "confidence": 0.866
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "@ Human-made",
+            "confidence": 0.865
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Reading \"Seven",
+        "confidence": 0.9267,
+        "bbox": {
+          "x": 0.726667,
+          "y": 0.198485,
+          "width": 0.15451,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Reading\"Seven",
+            "confidence": 0.8969
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "@ Reading “Seven",
+            "confidence": 0.9267
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "disbelief features",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.302745,
+          "y": 0.212424,
+          "width": 0.292549,
+          "height": 0.016364
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "disbelief features",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "disbelief",
+            "confidence": 0.8344
+          },
+          {
+            "engine": "rapidocr",
+            "content": "features",
+            "confidence": 0.887
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "wonders",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.078039,
+          "y": 0.21303,
+          "width": 0.071765,
+          "height": 0.010909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "wonders",
+            "confidence": 0.8234
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "wonders",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "Wonders of the",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.750588,
+          "y": 0.216061,
+          "width": 0.12549,
+          "height": 0.010909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Wonders of the",
+            "confidence": 0.856
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Wonders of the",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "Natural World",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.751373,
+          "y": 0.233636,
+          "width": 0.123529,
+          "height": 0.010909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Natural World",
+            "confidence": 0.8588
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Natural World”",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "Saying you don't",
+        "confidence": 0.886,
+        "bbox": {
+          "x": 0.300667,
+          "y": 0.2339,
+          "width": 0.144667,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Saying you don't",
+            "confidence": 0.886
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "@ Saying you don't @ Superlatives",
+            "confidence": 0.7783
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "Superlatives",
+        "confidence": 0.9147,
+        "bbox": {
+          "x": 0.525333,
+          "y": 0.234415,
+          "width": 0.108667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "Comparisons",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.053725,
+          "y": 0.234545,
+          "width": 0.134118,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Comparisons",
+            "confidence": 0.8081
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "@ Comparisons",
+            "confidence": 0.93
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "with adjectives",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.078039,
+          "y": 0.251818,
+          "width": 0.126667,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "withadjectives",
+            "confidence": 0.8751
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "with adjectives",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "know",
+        "confidence": 0.7406,
+        "bbox": {
+          "x": 0.3,
+          "y": 0.251932,
+          "width": 0.050667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "know with adjectives",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.302745,
+          "y": 0.252727,
+          "width": 0.350196,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "with adjectives",
+            "confidence": 0.8706
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "know with adjectives",
+            "confidence": 0.9567
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "Writing: A natural",
+        "confidence": 0.9125,
+        "bbox": {
+          "x": 0.726667,
+          "y": 0.254848,
+          "width": 0.168235,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Writing:Anatural",
+            "confidence": 0.8995
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "@ Writing: A natural",
+            "confidence": 0.9125
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "and nouns",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.078039,
+          "y": 0.269394,
+          "width": 0.087059,
+          "height": 0.010909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "and nouns",
+            "confidence": 0.95
+          },
+          {
+            "engine": "rapidocr",
+            "content": "and nouns",
+            "confidence": 0.7961
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "and nouns",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.527059,
+          "y": 0.271515,
+          "width": 0.087451,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "and nouns",
+            "confidence": 0.8488
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "and nouns",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "wonder",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.75098,
+          "y": 0.272121,
+          "width": 0.063137,
+          "height": 0.010909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "wonder",
+            "confidence": 0.7416
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "wonder",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "Burj Khalifa-the U. A. E.",
+        "confidence": 0.864,
+        "bbox": {
+          "x": 0.073333,
+          "y": 0.31221,
+          "width": 0.17,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "| | Burj Khalifa - the U.A.E.",
+            "confidence": 0.7957
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Burj Khalifa-the U.A.E.",
+            "confidence": 0.864
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "Chichen Itza-Mexico",
+        "confidence": 0.9177,
+        "bbox": {
+          "x": 0.584667,
+          "y": 0.313756,
+          "width": 0.153333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "E Icehotel - Sweden",
+        "confidence": 0.8925,
+        "bbox": {
+          "x": 0.04549,
+          "y": 0.483939,
+          "width": 0.156078,
+          "height": 0.017576
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "E Icehotel - Sweden",
+            "confidence": 0.8925
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Icehotel-Sweden",
+            "confidence": 0.8703
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "Cinque Terre-Italy",
+        "confidence": 0.8662,
+        "bbox": {
+          "x": 0.584,
+          "y": 0.488408,
+          "width": 0.14,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "Yellowstone National Park -the U. S. A.",
+        "confidence": 0.8717,
+        "bbox": {
+          "x": 0.070667,
+          "y": 0.659969,
+          "width": 0.277333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "Kinkaku-ji Temple-Japan",
+        "confidence": 0.9175,
+        "bbox": {
+          "x": 0.584667,
+          "y": 0.66203,
+          "width": 0.191333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "al Kinkaku-ji Temple - Japan",
+            "confidence": 0.78
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Kinkaku-jiTemple-Japan",
+            "confidence": 0.9175
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "Warm Up",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.042745,
+          "y": 0.848182,
+          "width": 0.129412,
+          "height": 0.019394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Warm Up",
+            "confidence": 0.8043
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Warm Up",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "sentence",
+        "content": "A Look at the pictures. Rank the places you would like to visit from 1 (the most)",
+        "confidence": 0.9335,
+        "bbox": {
+          "x": 0.088627,
+          "y": 0.881515,
+          "width": 0.563529,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Look at the pictures. Rank the places you would like to visit from 1 (the most)",
+            "confidence": 0.8885
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Look at the pictures. Rank the places you would like to visit from 1 (the most)",
+            "confidence": 0.9335
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "to 6 (the least).",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.112157,
+          "y": 0.900606,
+          "width": 0.104706,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "to 6 (the least).",
+            "confidence": 0.9056
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "to 6 (the least).",
+            "confidence": 0.9575
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "sentence",
+        "content": "B Why do you want to visit your top three places?",
+        "confidence": 0.9063,
+        "bbox": {
+          "x": 0.086,
+          "y": 0.925296,
+          "width": 0.359333,
+          "height": 0.018547
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B Why do you want to visit your top three places?",
+            "confidence": 0.9063
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Why do you want to visit your top three places?",
+            "confidence": 0.8609
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "audio_track",
+        "content": "43",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.909412,
+          "y": 0.957879,
+          "width": 0.018039,
+          "height": 0.009091
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "43",
+            "confidence": 0.6665
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "43",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Our world",
+      "Lesson A",
+      "Lesson B Lesson C",
+      "Lesson D",
+      "e Expressing @ Geographical",
+      "Human-made",
+      "Reading \"Seven",
+      "disbelief features",
+      "wonders",
+      "Wonders of the",
+      "Natural World",
+      "Saying you don't",
+      "Superlatives",
+      "Comparisons",
+      "with adjectives",
+      "know",
+      "know with adjectives",
+      "Writing: A natural",
+      "and nouns",
+      "and nouns",
+      "wonder",
+      "Burj Khalifa-the U. A. E.",
+      "Chichen Itza-Mexico",
+      "E Icehotel - Sweden",
+      "Cinque Terre-Italy",
+      "Yellowstone National Park -the U. S. A.",
+      "Kinkaku-ji Temple-Japan",
+      "Warm Up",
+      "A Look at the pictures. Rank the places you would like to visit from 1 (the most)",
+      "to 6 (the least).",
+      "B Why do you want to visit your top three places?"
+    ],
+    "paragraphs": [],
+    "sentences": [
+      "Our world Lesson A Lesson B Lesson C Lesson D e Expressing @ Geographical Human-made Reading \"Seven disbelief features wonders Wonders of the Natural World Saying you don't Superlatives Comparisons with adjectives know know with adjectives Writing: A natural and nouns and nouns wonder Burj Khalifa-the U",
+      "A",
+      "E",
+      "Chichen Itza-Mexico E Icehotel - Sweden Cinque Terre-Italy Yellowstone National Park -the U",
+      "S",
+      "A",
+      "Kinkaku-ji Temple-Japan Warm Up A Look at the pictures",
+      "Rank the places you would like to visit from 1 (the most) to 6 (the least)",
+      "B Why do you want to visit your top three places"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "exercise",
+        "instruction": "Look at the pictures. Rank the places you would like to visit from 1 (the most)",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "disbelief features",
+          "wonders",
+          "Wonders of the",
+          "Natural World",
+          "Saying you don't",
+          "Superlatives",
+          "Comparisons",
+          "with adjectives",
+          "know",
+          "know with adjectives",
+          "Writing: A natural",
+          "and nouns",
+          "and nouns",
+          "wonder",
+          "Burj Khalifa-the U. A. E.",
+          "Chichen Itza-Mexico"
+        ],
+        "position": {
+          "x": 0.033725000000000005,
+          "y": 0.192424,
+          "width": 0.881177,
+          "height": 0.154212
+        },
+        "textElementIds": [
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023"
+        ]
+      }
+    ],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "reading",
+    "title": "Our world",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [],
+    "reading": [
+      {
+        "title": "Our world",
+        "paragraphs": [],
+        "sentences": [
+          "Our world Lesson A Lesson B Lesson C Lesson D e Expressing @ Geographical Human-made Reading \"Seven disbelief features wonders Wonders of the Natural World Saying you don't Superlatives Comparisons with adjectives know know with adjectives Writing: A natural and nouns and nouns wonder Burj Khalifa-the U",
+          "A",
+          "E",
+          "Chichen Itza-Mexico E Icehotel - Sweden Cinque Terre-Italy Yellowstone National Park -the U",
+          "S",
+          "A",
+          "Kinkaku-ji Temple-Japan Warm Up A Look at the pictures",
+          "Rank the places you would like to visit from 1 (the most) to 6 (the least)",
+          "B Why do you want to visit your top three places"
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "exercise",
+        "instruction": "Look at the pictures. Rank the places you would like to visit from 1 (the most)",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "1 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {},
+    "averageOcrConfidence": 0.9181,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 3 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc3_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

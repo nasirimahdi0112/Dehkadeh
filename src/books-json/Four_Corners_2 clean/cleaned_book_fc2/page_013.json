@@ -1,0 +1,3005 @@
+{
+  "pageNumber": 6,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "sequential inference from neighboring footers",
+  "pdfPageNumber": 13,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 2_Part1.pdf",
+    "pdfLocalPageNumber": 13,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "’m interested in fashion.",
+        "confidence": 0.8725,
+        "bbox": {
+          "x": 0.150196,
+          "y": 0.052727,
+          "width": 0.611373,
+          "height": 0.030606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I'm interested in fashion.",
+            "confidence": 0.8358
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "’m interested in fashion.",
+            "confidence": 0.8725
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Vocabulary Interests",
+        "confidence": 0.8693,
+        "bbox": {
+          "x": 0.106667,
+          "y": 0.136528,
+          "width": 0.302,
+          "height": 0.022669
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Vocabulary Interests",
+            "confidence": 0.8693
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Vocabulary Interests",
+            "confidence": 0.725
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "sentence",
+        "content": "A Match the words and the pictures. Then listen and check your answers.",
+        "confidence": 0.9592,
+        "bbox": {
+          "x": 0.11098,
+          "y": 0.172424,
+          "width": 0.537255,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Match the words and the pictures. Then listen and check your answers.",
+            "confidence": 0.8983
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Match the words and the pictures. Then listen and check your answers.",
+            "confidence": 0.9592
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "art",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.165882,
+          "y": 0.205758,
+          "width": 0.018431,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "art",
+            "confidence": 0.7487
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "art",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "fashion",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.16549,
+          "y": 0.225455,
+          "width": 0.048627,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "fashion",
+            "confidence": 0.8477
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "fashion",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "TRAGEDES",
+        "confidence": 0.627,
+        "bbox": {
+          "x": 0.396667,
+          "y": 0.231324,
+          "width": 0.058,
+          "height": 0.010819
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "languages",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.166275,
+          "y": 0.246667,
+          "width": 0.067451,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "languages",
+            "confidence": 0.8718
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "languages",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "literature",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.166667,
+          "y": 0.267576,
+          "width": 0.061176,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "literature",
+            "confidence": 0.7942
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "literature",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "politics",
+        "confidence": 0.97,
+        "bbox": {
+          "x": 0.166667,
+          "y": 0.288182,
+          "width": 0.048235,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "politics",
+            "confidence": 0.8882
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "politics",
+            "confidence": 0.97
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "pop culture",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.167059,
+          "y": 0.309091,
+          "width": 0.076078,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "pop culture",
+            "confidence": 0.8755
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "pop culture",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "sports",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.166667,
+          "y": 0.330909,
+          "width": 0.041176,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "sports",
+            "confidence": 0.8558
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "sports",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "IIRAGENON SURVEILLEE",
+        "confidence": 0.7176,
+        "bbox": {
+          "x": 0.558667,
+          "y": 0.346213,
+          "width": 0.087333,
+          "height": 0.022669
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "RHAOVGADA",
+            "confidence": 0.6438
+          },
+          {
+            "engine": "rapidocr",
+            "content": "IIRAGENON SURVEILLEE",
+            "confidence": 0.7176
+          },
+          {
+            "engine": "rapidocr",
+            "content": "SE INGUARDED BEACH",
+            "confidence": 0.6926
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "technology",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.166667,
+          "y": 0.350909,
+          "width": 0.075294,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "technology",
+            "confidence": 0.8981
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "technology",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "travel",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.166667,
+          "y": 0.371818,
+          "width": 0.037647,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "travel",
+            "confidence": 0.8554
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "travel",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "LABENACHTERSTRAND",
+        "confidence": 0.7146,
+        "bbox": {
+          "x": 0.566667,
+          "y": 0.378156,
+          "width": 0.078667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "Language in context Find new friends!",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.116078,
+          "y": 0.581818,
+          "width": 0.551373,
+          "height": 0.023333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Language in context Find new friends!",
+            "confidence": 0.9533
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Languagein context Find newfriends!",
+            "confidence": 0.9054
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "sentence",
+        "content": "A Read the survey. Then complete the survey with your own information.",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.114118,
+          "y": 0.617879,
+          "width": 0.537647,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A  Read the survey. Then complete the survey with your own information.",
+            "confidence": 0.9232
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Read the survey. Then complete the survey with your own information.",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "ee",
+        "confidence": 0.35,
+        "bbox": {
+          "x": 0.123922,
+          "y": 0.646061,
+          "width": 0.030196,
+          "height": 0.008182
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "LOOKINGFOR NEW FRIENDS?",
+        "confidence": 0.864,
+        "bbox": {
+          "x": 0.380667,
+          "y": 0.678516,
+          "width": 0.284667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "ss LOOKING FOR NEW FRIENDS?",
+            "confidence": 0.764
+          },
+          {
+            "engine": "rapidocr",
+            "content": "LOOKINGFOR NEW FRIENDS?",
+            "confidence": 0.864
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "instruction",
+        "content": "FIND SOMEONE WITH SIMILAR INTERESTS!",
+        "confidence": 0.958,
+        "bbox": {
+          "x": 0.32,
+          "y": 0.693939,
+          "width": 0.411373,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "FIND SOMEONE WITH SIMILAR INTERESTS!",
+            "confidence": 0.8628
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "FIND SOMEONE WITH SIMILAR INTERESTS!",
+            "confidence": 0.958
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "Who's your favorite..,?",
+        "confidence": 0.8757,
+        "bbox": {
+          "x": 0.451333,
+          "y": 0.718187,
+          "width": 0.168,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "What'syour name?",
+        "confidence": 0.8483,
+        "bbox": {
+          "x": 0.132,
+          "y": 0.721793,
+          "width": 0.131333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "actor",
+        "confidence": 0.823,
+        "bbox": {
+          "x": 0.469333,
+          "y": 0.73931,
+          "width": 0.041333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "Where are you from?",
+        "confidence": 0.8319,
+        "bbox": {
+          "x": 0.132667,
+          "y": 0.74034,
+          "width": 0.144,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "actress",
+        "confidence": 0.7939,
+        "bbox": {
+          "x": 0.47,
+          "y": 0.758372,
+          "width": 0.054,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "How old are you?",
+        "confidence": 0.8584,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.759402,
+          "width": 0.12,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "singer",
+        "confidence": 0.8269,
+        "bbox": {
+          "x": 0.47,
+          "y": 0.77795,
+          "width": 0.048,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "Areyousingle or married?",
+        "confidence": 0.8935,
+        "bbox": {
+          "x": 0.132,
+          "y": 0.778465,
+          "width": 0.184,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "What's your favorite..?",
+        "confidence": 0.787,
+        "bbox": {
+          "x": 0.452667,
+          "y": 0.801133,
+          "width": 0.167333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "Areyou interested in..",
+        "confidence": 0.8466,
+        "bbox": {
+          "x": 0.133333,
+          "y": 0.802679,
+          "width": 0.161333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "TV show",
+        "confidence": 0.791,
+        "bbox": {
+          "x": 0.471333,
+          "y": 0.820711,
+          "width": 0.062,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "travel",
+        "confidence": 0.8529,
+        "bbox": {
+          "x": 0.150667,
+          "y": 0.822257,
+          "width": 0.043333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "yes",
+        "confidence": 0.744,
+        "bbox": {
+          "x": 0.249333,
+          "y": 0.823802,
+          "width": 0.032667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "no",
+        "confidence": 0.6443,
+        "bbox": {
+          "x": 0.324667,
+          "y": 0.824833,
+          "width": 0.02,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "movie",
+        "confidence": 0.7614,
+        "bbox": {
+          "x": 0.47,
+          "y": 0.840804,
+          "width": 0.046,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "sports",
+        "confidence": 0.8476,
+        "bbox": {
+          "x": 0.150667,
+          "y": 0.841319,
+          "width": 0.048667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "yes",
+        "confidence": 0.7475,
+        "bbox": {
+          "x": 0.254,
+          "y": 0.843895,
+          "width": 0.026667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "no",
+        "confidence": 0.6525,
+        "bbox": {
+          "x": 0.324667,
+          "y": 0.84441,
+          "width": 0.020667,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "video game",
+        "confidence": 0.8735,
+        "bbox": {
+          "x": 0.472,
+          "y": 0.860381,
+          "width": 0.082,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "fashion",
+        "confidence": 0.8245,
+        "bbox": {
+          "x": 0.152,
+          "y": 0.861412,
+          "width": 0.053333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "label",
+        "content": "yes",
+        "confidence": 0.7314,
+        "bbox": {
+          "x": 0.252,
+          "y": 0.862442,
+          "width": 0.03,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0042",
+        "type": "label",
+        "content": "no",
+        "confidence": 0.634,
+        "bbox": {
+          "x": 0.324667,
+          "y": 0.862957,
+          "width": 0.020667,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0043",
+        "type": "heading",
+        "content": "GROUPWORK",
+        "confidence": 0.8738,
+        "bbox": {
+          "x": 0.14,
+          "y": 0.906749,
+          "width": 0.094667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "sentence",
+        "content": "B Kexelliaifelii§ Compare your information. Who are you similar to? How?",
+        "confidence": 0.8473,
+        "bbox": {
+          "x": 0.118824,
+          "y": 0.907576,
+          "width": 0.519608,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Compareyourinformation.Whoareyou similarto?How?",
+            "confidence": 0.9347
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Kexelliaifelii§ Compare your information. Who are you similar to? How?",
+            "confidence": 0.8473
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0045",
+        "type": "sentence",
+        "content": "“Ming and | are similar. Our favorite movie is...”",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.140784,
+          "y": 0.929091,
+          "width": 0.349804,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"Ming and I are similar. Our favorite movie is .",
+            "confidence": 0.8837
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "“Ming and | are similar. Our favorite movie is...”",
+            "confidence": 0.93
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "Vocabulary Interests",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.106667,
+          "y": 0.136528,
+          "width": 0.302,
+          "height": 0.022669
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8693
+      },
+      {
+        "word": "art",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.165882,
+          "y": 0.205758,
+          "width": 0.018431,
+          "height": 0.008485
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.96
+      },
+      {
+        "word": "fashion",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.16549,
+          "y": 0.225455,
+          "width": 0.048627,
+          "height": 0.009697
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.96
+      },
+      {
+        "word": "TRAGEDES",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.396667,
+          "y": 0.231324,
+          "width": 0.058,
+          "height": 0.010819
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.627
+      },
+      {
+        "word": "languages",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.166275,
+          "y": 0.246667,
+          "width": 0.067451,
+          "height": 0.012121
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.96
+      },
+      {
+        "word": "literature",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.166667,
+          "y": 0.267576,
+          "width": 0.061176,
+          "height": 0.009394
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.96
+      },
+      {
+        "word": "politics",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.166667,
+          "y": 0.288182,
+          "width": 0.048235,
+          "height": 0.012121
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.97
+      },
+      {
+        "word": "pop culture",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.167059,
+          "y": 0.309091,
+          "width": 0.076078,
+          "height": 0.013939
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.96
+      },
+      {
+        "word": "sports",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.166667,
+          "y": 0.330909,
+          "width": 0.041176,
+          "height": 0.011212
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.96
+      },
+      {
+        "word": "IIRAGENON SURVEILLEE",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.558667,
+          "y": 0.346213,
+          "width": 0.087333,
+          "height": 0.022669
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.7176
+      },
+      {
+        "word": "technology",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.166667,
+          "y": 0.350909,
+          "width": 0.075294,
+          "height": 0.011818
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.96
+      },
+      {
+        "word": "travel",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.166667,
+          "y": 0.371818,
+          "width": 0.037647,
+          "height": 0.009697
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.96
+      },
+      {
+        "word": "LABENACHTERSTRAND",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.566667,
+          "y": 0.378156,
+          "width": 0.078667,
+          "height": 0.01391
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.7146
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Who's your favorite..,?",
+            "confidence": 0.8757,
+            "bbox": {
+              "x": 0.451333,
+              "y": 0.718187,
+              "width": 0.168,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0021",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "What'syour name?",
+            "confidence": 0.8483,
+            "bbox": {
+              "x": 0.132,
+              "y": 0.721793,
+              "width": 0.131333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0022",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Where are you from?",
+            "confidence": 0.8319,
+            "bbox": {
+              "x": 0.132667,
+              "y": 0.74034,
+              "width": 0.144,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0024",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "How old are you?",
+            "confidence": 0.8584,
+            "bbox": {
+              "x": 0.131333,
+              "y": 0.759402,
+              "width": 0.12,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0026",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Areyousingle or married?",
+            "confidence": 0.8935,
+            "bbox": {
+              "x": 0.132,
+              "y": 0.778465,
+              "width": 0.184,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0028",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "What's your favorite..?",
+            "confidence": 0.787,
+            "bbox": {
+              "x": 0.452667,
+              "y": 0.801133,
+              "width": 0.167333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0029",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Areyou interested in..",
+            "confidence": 0.8466,
+            "bbox": {
+              "x": 0.133333,
+              "y": 0.802679,
+              "width": 0.161333,
+              "height": 0.01288
+            },
+            "sourceElementId": "text_0030",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "matching_exercise",
+        "instruction": "Match the words and the pictures. Then listen and check your answers.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0003"
+        ],
+        "confidence": 0.9592
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "reading_activity",
+        "instruction": "Read the survey. Then complete the survey with your own information.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0017"
+        ],
+        "confidence": 0.9567
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "art",
+          "fashion",
+          "TRAGEDES",
+          "languages",
+          "literature",
+          "politics",
+          "pop culture",
+          "sports",
+          "IIRAGENON SURVEILLEE",
+          "technology",
+          "travel",
+          "LABENACHTERSTRAND"
+        ],
+        "position": {
+          "x": 0.14549,
+          "y": 0.185758,
+          "width": 0.52051,
+          "height": 0.22630799999999998
+        },
+        "textElementIds": [
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Language in context Find new friends!",
+          "A Read the survey. Then complete the survey with your own information.",
+          "ee",
+          "LOOKINGFOR NEW FRIENDS?",
+          "FIND SOMEONE WITH SIMILAR INTERESTS!",
+          "Who's your favorite..,?",
+          "What'syour name?",
+          "actor",
+          "Where are you from?",
+          "actress",
+          "How old are you?",
+          "singer",
+          "Areyousingle or married?",
+          "What's your favorite..?",
+          "Areyou interested in..",
+          "TV show",
+          "travel",
+          "yes",
+          "no",
+          "movie",
+          "sports",
+          "yes",
+          "no",
+          "video game",
+          "fashion",
+          "yes",
+          "no"
+        ],
+        "position": {
+          "x": 0.094118,
+          "y": 0.5618179999999999,
+          "width": 0.657255,
+          "height": 0.33350400000000013
+        },
+        "textElementIds": [
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040",
+          "text_0041",
+          "text_0042"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "I'm interested in fashion.\nVocabulary Interests\nMatch the words and the pictures. Then listen and check your answers.\nart\nfashion\nTRAGEDES\nlanguages\nliterature\npolitics\npop culture\nsports\nRHAOVGADA\nIIRAGENON SURVEILLEE\ntechnology\nSE INGUARDED BEACH\ntravel\nLABENACHTERSTRAND\nLanguagein context Find newfriends!\nA  Read the survey. Then complete the survey with your own information.\nLOOKINGFOR NEW FRIENDS?\nFIND SOMEONE WITH SIMILAR INTERESTS!\nWho's your favorite..,?\nWhat'syour name?\nactor\nWhere are you from?\nactress\nHow old are you?\nsinger\nAreyousingle or married?\nWhat's your favorite..?\nAreyou interested in..\nTV show\ntravel\nyes\nno\nmovie\nsports\nyes\nno\nvideo game\nfashion\nyes\nno\nCompareyourinformation.Whoareyou similarto?How?\nGROUPWORK\n\"Ming and I are similar. Our favorite movie is .\ndehkhodaedu.com",
+      "tesseract_psm3": "’m interested in fashion.\n\nVocabulary Interests\nA Match the words and the pictures. Then listen and check your answers.\n\nart\nfashion\nlanguages\nliterature\n\npolitics\n\npop culture\n\nsports\ntechnology\n\ntravel\n\nLanguage in context Find new friends!\n\nA Read the survey. Then complete the survey with your own information.\n\nee\nss LOOKING FOR NEW FRIENDS?\nFIND SOMEONE WITH SIMILAR INTERESTS!\n\nB Kexelliaifelii§ Compare your information. Who are you similar to? How?\n\n“Ming and | are similar. Our favorite movie is...”\n\ndehkhodaedu.com\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8379,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "14 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "lesson",
+    "headings": [
+      "m interested in fashion.",
+      "Vocabulary Interests",
+      "GROUPWORK"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "m interested in fashion.",
+        "confidence": 0.8725,
+        "bbox": {
+          "x": 0.150196,
+          "y": 0.052727,
+          "width": 0.611373,
+          "height": 0.030606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I'm interested in fashion.",
+            "confidence": 0.8358
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "’m interested in fashion.",
+            "confidence": 0.8725
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Vocabulary Interests",
+        "confidence": 0.8693,
+        "bbox": {
+          "x": 0.106667,
+          "y": 0.136528,
+          "width": 0.302,
+          "height": 0.022669
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Vocabulary Interests",
+            "confidence": 0.8693
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Vocabulary Interests",
+            "confidence": 0.725
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "sentence",
+        "content": "A Match the words and the pictures. Then listen and check your answers.",
+        "confidence": 0.9592,
+        "bbox": {
+          "x": 0.11098,
+          "y": 0.172424,
+          "width": 0.537255,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Match the words and the pictures. Then listen and check your answers.",
+            "confidence": 0.8983
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Match the words and the pictures. Then listen and check your answers.",
+            "confidence": 0.9592
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "art",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.165882,
+          "y": 0.205758,
+          "width": 0.018431,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "art",
+            "confidence": 0.7487
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "art",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "fashion",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.16549,
+          "y": 0.225455,
+          "width": 0.048627,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "fashion",
+            "confidence": 0.8477
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "fashion",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "TRAGEDES",
+        "confidence": 0.627,
+        "bbox": {
+          "x": 0.396667,
+          "y": 0.231324,
+          "width": 0.058,
+          "height": 0.010819
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "languages",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.166275,
+          "y": 0.246667,
+          "width": 0.067451,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "languages",
+            "confidence": 0.8718
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "languages",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "literature",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.166667,
+          "y": 0.267576,
+          "width": 0.061176,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "literature",
+            "confidence": 0.7942
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "literature",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "politics",
+        "confidence": 0.97,
+        "bbox": {
+          "x": 0.166667,
+          "y": 0.288182,
+          "width": 0.048235,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "politics",
+            "confidence": 0.8882
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "politics",
+            "confidence": 0.97
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "pop culture",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.167059,
+          "y": 0.309091,
+          "width": 0.076078,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "pop culture",
+            "confidence": 0.8755
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "pop culture",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "sports",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.166667,
+          "y": 0.330909,
+          "width": 0.041176,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "sports",
+            "confidence": 0.8558
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "sports",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "IIRAGENON SURVEILLEE",
+        "confidence": 0.7176,
+        "bbox": {
+          "x": 0.558667,
+          "y": 0.346213,
+          "width": 0.087333,
+          "height": 0.022669
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "RHAOVGADA",
+            "confidence": 0.6438
+          },
+          {
+            "engine": "rapidocr",
+            "content": "IIRAGENON SURVEILLEE",
+            "confidence": 0.7176
+          },
+          {
+            "engine": "rapidocr",
+            "content": "SE INGUARDED BEACH",
+            "confidence": 0.6926
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "technology",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.166667,
+          "y": 0.350909,
+          "width": 0.075294,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "technology",
+            "confidence": 0.8981
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "technology",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "travel",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.166667,
+          "y": 0.371818,
+          "width": 0.037647,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "travel",
+            "confidence": 0.8554
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "travel",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "LABENACHTERSTRAND",
+        "confidence": 0.7146,
+        "bbox": {
+          "x": 0.566667,
+          "y": 0.378156,
+          "width": 0.078667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "Language in context Find new friends!",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.116078,
+          "y": 0.581818,
+          "width": 0.551373,
+          "height": 0.023333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Language in context Find new friends!",
+            "confidence": 0.9533
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Languagein context Find newfriends!",
+            "confidence": 0.9054
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "sentence",
+        "content": "A Read the survey. Then complete the survey with your own information.",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.114118,
+          "y": 0.617879,
+          "width": 0.537647,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A  Read the survey. Then complete the survey with your own information.",
+            "confidence": 0.9232
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Read the survey. Then complete the survey with your own information.",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "ee",
+        "confidence": 0.35,
+        "bbox": {
+          "x": 0.123922,
+          "y": 0.646061,
+          "width": 0.030196,
+          "height": 0.008182
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "LOOKINGFOR NEW FRIENDS?",
+        "confidence": 0.864,
+        "bbox": {
+          "x": 0.380667,
+          "y": 0.678516,
+          "width": 0.284667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "ss LOOKING FOR NEW FRIENDS?",
+            "confidence": 0.764
+          },
+          {
+            "engine": "rapidocr",
+            "content": "LOOKINGFOR NEW FRIENDS?",
+            "confidence": 0.864
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "instruction",
+        "content": "FIND SOMEONE WITH SIMILAR INTERESTS!",
+        "confidence": 0.958,
+        "bbox": {
+          "x": 0.32,
+          "y": 0.693939,
+          "width": 0.411373,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "FIND SOMEONE WITH SIMILAR INTERESTS!",
+            "confidence": 0.8628
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "FIND SOMEONE WITH SIMILAR INTERESTS!",
+            "confidence": 0.958
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "Who's your favorite..,?",
+        "confidence": 0.8757,
+        "bbox": {
+          "x": 0.451333,
+          "y": 0.718187,
+          "width": 0.168,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "What's your name?",
+        "confidence": 0.8483,
+        "bbox": {
+          "x": 0.132,
+          "y": 0.721793,
+          "width": 0.131333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "actor",
+        "confidence": 0.823,
+        "bbox": {
+          "x": 0.469333,
+          "y": 0.73931,
+          "width": 0.041333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "Where are you from?",
+        "confidence": 0.8319,
+        "bbox": {
+          "x": 0.132667,
+          "y": 0.74034,
+          "width": 0.144,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "actress",
+        "confidence": 0.7939,
+        "bbox": {
+          "x": 0.47,
+          "y": 0.758372,
+          "width": 0.054,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "How old are you?",
+        "confidence": 0.8584,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.759402,
+          "width": 0.12,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "singer",
+        "confidence": 0.8269,
+        "bbox": {
+          "x": 0.47,
+          "y": 0.77795,
+          "width": 0.048,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "Areyousingle or married?",
+        "confidence": 0.8935,
+        "bbox": {
+          "x": 0.132,
+          "y": 0.778465,
+          "width": 0.184,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "What's your favorite..?",
+        "confidence": 0.787,
+        "bbox": {
+          "x": 0.452667,
+          "y": 0.801133,
+          "width": 0.167333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "Areyou interested in..",
+        "confidence": 0.8466,
+        "bbox": {
+          "x": 0.133333,
+          "y": 0.802679,
+          "width": 0.161333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "TV show",
+        "confidence": 0.791,
+        "bbox": {
+          "x": 0.471333,
+          "y": 0.820711,
+          "width": 0.062,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "travel",
+        "confidence": 0.8529,
+        "bbox": {
+          "x": 0.150667,
+          "y": 0.822257,
+          "width": 0.043333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "yes",
+        "confidence": 0.744,
+        "bbox": {
+          "x": 0.249333,
+          "y": 0.823802,
+          "width": 0.032667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "no",
+        "confidence": 0.6443,
+        "bbox": {
+          "x": 0.324667,
+          "y": 0.824833,
+          "width": 0.02,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "movie",
+        "confidence": 0.7614,
+        "bbox": {
+          "x": 0.47,
+          "y": 0.840804,
+          "width": 0.046,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "sports",
+        "confidence": 0.8476,
+        "bbox": {
+          "x": 0.150667,
+          "y": 0.841319,
+          "width": 0.048667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "yes",
+        "confidence": 0.7475,
+        "bbox": {
+          "x": 0.254,
+          "y": 0.843895,
+          "width": 0.026667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "no",
+        "confidence": 0.6525,
+        "bbox": {
+          "x": 0.324667,
+          "y": 0.84441,
+          "width": 0.020667,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "video game",
+        "confidence": 0.8735,
+        "bbox": {
+          "x": 0.472,
+          "y": 0.860381,
+          "width": 0.082,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "fashion",
+        "confidence": 0.8245,
+        "bbox": {
+          "x": 0.152,
+          "y": 0.861412,
+          "width": 0.053333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "label",
+        "content": "yes",
+        "confidence": 0.7314,
+        "bbox": {
+          "x": 0.252,
+          "y": 0.862442,
+          "width": 0.03,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0042",
+        "type": "label",
+        "content": "no",
+        "confidence": 0.634,
+        "bbox": {
+          "x": 0.324667,
+          "y": 0.862957,
+          "width": 0.020667,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0043",
+        "type": "heading",
+        "content": "GROUPWORK",
+        "confidence": 0.8738,
+        "bbox": {
+          "x": 0.14,
+          "y": 0.906749,
+          "width": 0.094667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "sentence",
+        "content": "B Kexelliaifelii§ Compare your information. Who are you similar to? How?",
+        "confidence": 0.8473,
+        "bbox": {
+          "x": 0.118824,
+          "y": 0.907576,
+          "width": 0.519608,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Compareyourinformation.Whoareyou similarto?How?",
+            "confidence": 0.9347
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Kexelliaifelii§ Compare your information. Who are you similar to? How?",
+            "confidence": 0.8473
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0045",
+        "type": "sentence",
+        "content": "Ming and | are similar. Our favorite movie is...",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.140784,
+          "y": 0.929091,
+          "width": 0.349804,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"Ming and I are similar. Our favorite movie is .",
+            "confidence": 0.8837
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "“Ming and | are similar. Our favorite movie is...”",
+            "confidence": 0.93
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "m interested in fashion.",
+      "Vocabulary Interests",
+      "A Match the words and the pictures. Then listen and check your answers.",
+      "art",
+      "fashion",
+      "TRAGEDES",
+      "languages",
+      "literature",
+      "politics",
+      "pop culture",
+      "sports",
+      "IIRAGENON SURVEILLEE",
+      "technology",
+      "travel",
+      "LABENACHTERSTRAND",
+      "Language in context Find new friends!",
+      "A Read the survey. Then complete the survey with your own information.",
+      "ee",
+      "LOOKINGFOR NEW FRIENDS?",
+      "FIND SOMEONE WITH SIMILAR INTERESTS!",
+      "Who's your favorite..,?",
+      "What's your name?",
+      "actor",
+      "Where are you from?",
+      "actress",
+      "How old are you?",
+      "singer",
+      "Areyousingle or married?",
+      "What's your favorite..?",
+      "Areyou interested in..",
+      "TV show",
+      "travel",
+      "yes",
+      "no",
+      "movie",
+      "sports",
+      "yes",
+      "no",
+      "video game",
+      "fashion",
+      "yes",
+      "no",
+      "GROUPWORK",
+      "B Kexelliaifelii§ Compare your information. Who are you similar to? How?",
+      "Ming and | are similar. Our favorite movie is..."
+    ],
+    "paragraphs": [],
+    "sentences": [
+      "m interested in fashion",
+      "Vocabulary Interests A Match the words and the pictures",
+      "Then listen and check your answers",
+      "art fashion TRAGEDES languages literature politics pop culture sports IIRAGENON SURVEILLEE technology travel LABENACHTERSTRAND Language in context Find new friends",
+      "A Read the survey",
+      "Then complete the survey with your own information",
+      "ee LOOKINGFOR NEW FRIENDS",
+      "FIND SOMEONE WITH SIMILAR INTERESTS",
+      "Who's your favorite",
+      ",",
+      "What's your name",
+      "actor Where are you from",
+      "actress How old are you",
+      "singer Areyousingle or married",
+      "What's your favorite",
+      "Areyou interested in",
+      "TV show travel yes no movie sports yes no video game fashion yes no GROUPWORK B Kexelliaifelii§ Compare your information",
+      "Who are you similar to",
+      "How",
+      "Ming and | are similar",
+      "Our favorite movie is"
+    ],
+    "vocabulary": [
+      {
+        "word": "art",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "fashion",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "languages",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "literature",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "politics",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "pop culture",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "sports",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "technology",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "travel",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      }
+    ],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Who's your favorite..,?",
+            "confidence": 0.8757,
+            "bbox": {
+              "x": 0.451333,
+              "y": 0.718187,
+              "width": 0.168,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0021"
+          },
+          {
+            "speaker": null,
+            "content": "What's your name?",
+            "confidence": 0.8483,
+            "bbox": {
+              "x": 0.132,
+              "y": 0.721793,
+              "width": 0.131333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0022"
+          },
+          {
+            "speaker": null,
+            "content": "Where are you from?",
+            "confidence": 0.8319,
+            "bbox": {
+              "x": 0.132667,
+              "y": 0.74034,
+              "width": 0.144,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0024"
+          },
+          {
+            "speaker": null,
+            "content": "How old are you?",
+            "confidence": 0.8584,
+            "bbox": {
+              "x": 0.131333,
+              "y": 0.759402,
+              "width": 0.12,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0026"
+          },
+          {
+            "speaker": null,
+            "content": "Areyousingle or married?",
+            "confidence": 0.8935,
+            "bbox": {
+              "x": 0.132,
+              "y": 0.778465,
+              "width": 0.184,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0028"
+          },
+          {
+            "speaker": null,
+            "content": "What's your favorite..?",
+            "confidence": 0.787,
+            "bbox": {
+              "x": 0.452667,
+              "y": 0.801133,
+              "width": 0.167333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0029"
+          },
+          {
+            "speaker": null,
+            "content": "Areyou interested in..",
+            "confidence": 0.8466,
+            "bbox": {
+              "x": 0.133333,
+              "y": 0.802679,
+              "width": 0.161333,
+              "height": 0.01288
+            },
+            "sourceElementId": "text_0030"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Match the words and the pictures. Then listen and check your answers.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "reading",
+        "instruction": "Read the survey. Then complete the survey with your own information.",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "art",
+          "fashion",
+          "TRAGEDES",
+          "languages",
+          "literature",
+          "politics",
+          "pop culture",
+          "sports",
+          "IIRAGENON SURVEILLEE",
+          "technology",
+          "travel",
+          "LABENACHTERSTRAND"
+        ],
+        "position": {
+          "x": 0.14549,
+          "y": 0.185758,
+          "width": 0.52051,
+          "height": 0.22630799999999998
+        },
+        "textElementIds": [
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Language in context Find new friends!",
+          "A Read the survey. Then complete the survey with your own information.",
+          "ee",
+          "LOOKINGFOR NEW FRIENDS?",
+          "FIND SOMEONE WITH SIMILAR INTERESTS!",
+          "Who's your favorite..,?",
+          "What's your name?",
+          "actor",
+          "Where are you from?",
+          "actress",
+          "How old are you?",
+          "singer",
+          "Areyousingle or married?",
+          "What's your favorite..?",
+          "Areyou interested in..",
+          "TV show",
+          "travel",
+          "yes",
+          "no",
+          "movie",
+          "sports",
+          "yes",
+          "no",
+          "video game",
+          "fashion",
+          "yes",
+          "no"
+        ],
+        "position": {
+          "x": 0.094118,
+          "y": 0.5618179999999999,
+          "width": 0.657255,
+          "height": 0.33350400000000013
+        },
+        "textElementIds": [
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040",
+          "text_0041",
+          "text_0042"
+        ]
+      }
+    ],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "lesson",
+    "title": "m interested in fashion.",
+    "learningObjectives": [],
+    "targetVocabulary": [
+      {
+        "word": "art",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "fashion",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "languages",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "literature",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "politics",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "pop culture",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "sports",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "technology",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "travel",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "Who's your favorite..,?",
+            "confidence": 0.8757
+          },
+          {
+            "speaker": null,
+            "content": "What's your name?",
+            "confidence": 0.8483
+          },
+          {
+            "speaker": null,
+            "content": "Where are you from?",
+            "confidence": 0.8319
+          },
+          {
+            "speaker": null,
+            "content": "How old are you?",
+            "confidence": 0.8584
+          },
+          {
+            "speaker": null,
+            "content": "Areyousingle or married?",
+            "confidence": 0.8935
+          },
+          {
+            "speaker": null,
+            "content": "What's your favorite..?",
+            "confidence": 0.787
+          },
+          {
+            "speaker": null,
+            "content": "Areyou interested in..",
+            "confidence": 0.8466
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Match the words and the pictures. Then listen and check your answers.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "reading",
+        "instruction": "Read the survey. Then complete the survey with your own information.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "14 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ],
+    "verifiedAgainstPdf": true,
+    "repairStats": {},
+    "averageOcrConfidence": 0.8379,
+    "verificationMethod": "independent_ocr_crosscheck"
+  },
+  "metadata": {
+    "book": "Four Corners 2 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc2_v1",
+    "verificationMethod": "independent_ocr_crosscheck",
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

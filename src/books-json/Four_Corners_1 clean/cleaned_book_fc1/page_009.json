@@ -1,0 +1,2272 @@
+{
+  "pageNumber": 6,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "sequential inference from neighboring footers",
+  "pdfPageNumber": 9,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 1_Part1.pdf",
+    "pdfLocalPageNumber": 9,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "What’s your name?",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.132941,
+          "y": 0.064242,
+          "width": 0.476471,
+          "height": 0.034545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What's your name?",
+            "confidence": 0.9199
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What’s your name?",
+            "confidence": 0.94
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Language in context First day of class",
+        "confidence": 0.9586,
+        "bbox": {
+          "x": 0.092941,
+          "y": 0.142121,
+          "width": 0.532157,
+          "height": 0.021818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Language in context First day of class",
+            "confidence": 0.8865
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Language in context First day of class",
+            "confidence": 0.9586
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "sentence",
+        "content": "ListentoMs.Peters meet her students on the first day of class.Underline the names.",
+        "confidence": 0.8915,
+        "bbox": {
+          "x": 0.090667,
+          "y": 0.175167,
+          "width": 0.601333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "ListentoMs.Peters meet her students on the first day of class.Underline the names.",
+            "confidence": 0.8915
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "& # Listen to Ms. Peters meet her students on the first day of class. Underline the names.",
+            "confidence": 0.8539
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "Hello, everyone. I'm your teacher,",
+        "confidence": 0.9119,
+        "bbox": {
+          "x": 0.094,
+          "y": 0.20711,
+          "width": 0.221333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Hello, everyone. i’m your teacher, .",
+            "confidence": 0.77
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Hello, everyone. I'm your teacher,",
+            "confidence": 0.9119
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "Hi.What's your name?",
+        "confidence": 0.8914,
+        "bbox": {
+          "x": 0.644,
+          "y": 0.216383,
+          "width": 0.146,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Hi.What's your name?",
+            "confidence": 0.8914
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Hi. What's your name?",
+            "confidence": 0.855
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "Weleome",
+        "confidence": 0.6941,
+        "bbox": {
+          "x": 0.366667,
+          "y": 0.217929,
+          "width": 0.18,
+          "height": 0.047913
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0007",
+        "type": "sentence",
+        "content": "Ms. Peters, My first name is Linda.",
+        "confidence": 0.9257,
+        "bbox": {
+          "x": 0.093725,
+          "y": 0.223636,
+          "width": 0.218039,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Ms.Peters.My firstname is Linda.",
+            "confidence": 0.8978
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ms. Peters, My first name is Linda.",
+            "confidence": 0.9257
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "MynameisMariaGomez",
+        "confidence": 0.9088,
+        "bbox": {
+          "x": 0.719333,
+          "y": 0.373004,
+          "width": 0.162,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "A",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.707451,
+          "y": 0.382424,
+          "width": 0.01098,
+          "height": 0.006667
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "sentence",
+        "content": "Hi. I’m Marta. What are your names?",
+        "confidence": 0.87,
+        "bbox": {
+          "x": 0.107843,
+          "y": 0.473333,
+          "width": 0.231373,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Hi.I'm Maria Whatareyour names?",
+            "confidence": 0.8541
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Hi. I’m Marta. What are your names?",
+            "confidence": 0.87
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "Whataretheirnames?",
+        "confidence": 0.8943,
+        "bbox": {
+          "x": 0.697333,
+          "y": 0.478104,
+          "width": 0.146,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "My name ts Ricardo.",
+        "confidence": 0.92,
+        "bbox": {
+          "x": 0.274118,
+          "y": 0.551818,
+          "width": 0.130588,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "My name is Ricardo.",
+            "confidence": 0.8609
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My name ts Ricardo.",
+            "confidence": 0.92
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "And I'm Yoko.Nicetomeetyou",
+        "confidence": 0.858,
+        "bbox": {
+          "x": 0.386,
+          "y": 0.63524,
+          "width": 0.206,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "HernameisYoko.HisnameisRicardo",
+        "confidence": 0.9226,
+        "bbox": {
+          "x": 0.628,
+          "y": 0.639876,
+          "width": 0.247333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "Vocabulary Names and titles",
+        "confidence": 0.9475,
+        "bbox": {
+          "x": 0.094118,
+          "y": 0.712424,
+          "width": 0.403922,
+          "height": 0.021212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "VocabularyNamesandtitles",
+            "confidence": 0.8933
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Vocabulary Names and titles",
+            "confidence": 0.9475
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "instruction",
+        "content": "Listen and repeat.",
+        "confidence": 0.8743,
+        "bbox": {
+          "x": 0.106667,
+          "y": 0.744977,
+          "width": 0.157333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listen and repeat.",
+            "confidence": 0.8743
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A ( } Listen and repeat.",
+            "confidence": 0.7417
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "first name",
+        "confidence": 0.7681,
+        "bbox": {
+          "x": 0.090667,
+          "y": 0.766615,
+          "width": 0.070667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "last/familyname",
+        "confidence": 0.9242,
+        "bbox": {
+          "x": 0.311333,
+          "y": 0.767646,
+          "width": 0.122,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "middlename",
+        "confidence": 0.8845,
+        "bbox": {
+          "x": 0.191333,
+          "y": 0.768161,
+          "width": 0.090667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "paragraph",
+        "content": "first name middle name last / family name Miss Gomez =a single woman",
+        "confidence": 0.9485,
+        "bbox": {
+          "x": 0.093333,
+          "y": 0.768485,
+          "width": 0.627451,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "MissGomez=asinglewoman",
+            "confidence": 0.8986
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "first name middle name last / family name Miss Gomez =a single woman",
+            "confidence": 0.9485
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "x",
+        "confidence": 0.43,
+        "bbox": {
+          "x": 0.329412,
+          "y": 0.780909,
+          "width": 0.030196,
+          "height": 0.010303
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "Mrs. Chow =a married woman",
+        "confidence": 0.952,
+        "bbox": {
+          "x": 0.524706,
+          "y": 0.789091,
+          "width": 0.200784,
+          "height": 0.009091
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Mrs.Chow=amarriedwoman",
+            "confidence": 0.9405
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Mrs. Chow =a married woman",
+            "confidence": 0.952
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "Jennifer Ann Wilson",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.125098,
+          "y": 0.797273,
+          "width": 0.272941,
+          "height": 0.015455
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Jennifer Ann Wilson",
+            "confidence": 0.8501
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Jennifer Ann Wilson",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "sentence",
+        "content": "Ms. Peters = a single or married woman",
+        "confidence": 0.9375,
+        "bbox": {
+          "x": 0.526275,
+          "y": 0.809697,
+          "width": 0.259216,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Ms.Peters=asingleormarriedwoman",
+            "confidence": 0.9262
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ms. Peters = a single or married woman",
+            "confidence": 0.9375
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "full name",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.231765,
+          "y": 0.824545,
+          "width": 0.061569,
+          "height": 0.009091
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "full name",
+            "confidence": 0.7956
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "full name",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "sentence",
+        "content": "Mr. Adams = a single or married man",
+        "confidence": 0.9237,
+        "bbox": {
+          "x": 0.525098,
+          "y": 0.830606,
+          "width": 0.240392,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Mr.Adams=a single ormarriedman",
+            "confidence": 0.8733
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Mr. Adams = a single or married man",
+            "confidence": 0.9237
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "heading",
+        "content": "PAIRWORK",
+        "confidence": 0.8208,
+        "bbox": {
+          "x": 0.118667,
+          "y": 0.85626,
+          "width": 0.074667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "sentence",
+        "content": "B Gxiaitelts Complete the sentences with your own information. Then compare answers.",
+        "confidence": 0.8675,
+        "bbox": {
+          "x": 0.096863,
+          "y": 0.857576,
+          "width": 0.629412,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Completethesentences with your owninformation.Then compare answers.",
+            "confidence": 0.9192
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Gxiaitelts Complete the sentences with your own information. Then compare answers.",
+            "confidence": 0.8675
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "My first name is",
+        "confidence": 0.7923,
+        "bbox": {
+          "x": 0.117333,
+          "y": 0.876352,
+          "width": 0.107333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "My first name is",
+            "confidence": 0.7923
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My first name is _ sepa My full name is __-",
+            "confidence": 0.62
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "Myfullnameis",
+        "confidence": 0.9057,
+        "bbox": {
+          "x": 0.456,
+          "y": 0.878413,
+          "width": 0.102667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "My family name is",
+        "confidence": 0.8905,
+        "bbox": {
+          "x": 0.116667,
+          "y": 0.896445,
+          "width": 0.123333,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "paragraph",
+        "content": "My family name is — My teacher’s name is~",
+        "confidence": 0.7956,
+        "bbox": {
+          "x": 0.12,
+          "y": 0.899394,
+          "width": 0.480392,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "My teacher's nameis'",
+            "confidence": 0.8545
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My family name is — My teacher’s name is~",
+            "confidence": 0.7956
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "Weleome",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.366667,
+          "y": 0.217929,
+          "width": 0.18,
+          "height": 0.047913
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.6941
+      },
+      {
+        "word": "MynameisMariaGomez",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.719333,
+          "y": 0.373004,
+          "width": 0.162,
+          "height": 0.01185
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.9088
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Hello, everyone. I'm your teacher,",
+            "confidence": 0.9119,
+            "bbox": {
+              "x": 0.094,
+              "y": 0.20711,
+              "width": 0.221333,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0004",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Hi.What's your name?",
+            "confidence": 0.8914,
+            "bbox": {
+              "x": 0.644,
+              "y": 0.216383,
+              "width": 0.146,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0005",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Hi. I’m Marta. What are your names?",
+            "confidence": 0.87,
+            "bbox": {
+              "x": 0.107843,
+              "y": 0.473333,
+              "width": 0.231373,
+              "height": 0.011212
+            },
+            "sourceElementId": "text_0010",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Whataretheirnames?",
+            "confidence": 0.8943,
+            "bbox": {
+              "x": 0.697333,
+              "y": 0.478104,
+              "width": 0.146,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0011",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "My name ts Ricardo.",
+            "confidence": 0.92,
+            "bbox": {
+              "x": 0.274118,
+              "y": 0.551818,
+              "width": 0.130588,
+              "height": 0.013939
+            },
+            "sourceElementId": "text_0012",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "And I'm Yoko.Nicetomeetyou",
+            "confidence": 0.858,
+            "bbox": {
+              "x": 0.386,
+              "y": 0.63524,
+              "width": 0.206,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0013",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "B",
+        "type": "writing_activity",
+        "instruction": "Gxiaitelts Complete the sentences with your own information. Then compare answers.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0028"
+        ],
+        "confidence": 0.8675
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Hello, everyone. I'm your teacher,",
+          "Hi.What's your name?",
+          "Weleome",
+          "Ms. Peters, My first name is Linda."
+        ],
+        "position": {
+          "x": 0.073725,
+          "y": 0.18711,
+          "width": 0.736275,
+          "height": 0.09873200000000004
+        },
+        "textElementIds": [
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "MynameisMariaGomez",
+          "A",
+          "Hi. I’m Marta. What are your names?",
+          "Whataretheirnames?",
+          "My name ts Ricardo."
+        ],
+        "position": {
+          "x": 0.08784299999999999,
+          "y": 0.353004,
+          "width": 0.81349,
+          "height": 0.2327530000000001
+        },
+        "textElementIds": [
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "And I'm Yoko.Nicetomeetyou",
+          "HernameisYoko.HisnameisRicardo",
+          "Vocabulary Names and titles",
+          "Listen and repeat.",
+          "first name",
+          "last/familyname",
+          "middlename",
+          "first name middle name last / family name Miss Gomez =a single woman",
+          "x",
+          "Mrs. Chow =a married woman",
+          "Jennifer Ann Wilson",
+          "Ms. Peters = a single or married woman",
+          "full name",
+          "Mr. Adams = a single or married man",
+          "PAIRWORK",
+          "B Gxiaitelts Complete the sentences with your own information. Then compare answers.",
+          "My first name is",
+          "Myfullnameis"
+        ],
+        "position": {
+          "x": 0.070667,
+          "y": 0.61524,
+          "width": 0.824666,
+          "height": 0.296053
+        },
+        "textElementIds": [
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "What's your name?\nLanguage in context First day of class\nListentoMs.Peters meet her students on the first day of class.Underline the names.\nHello, everyone. I'm your teacher,\nHi.What's your name?\nWeleome\nMs.Peters.My firstname is Linda.\nMynameisMariaGomez\nHi.I'm Maria Whatareyour names?\nWhataretheirnames?\nMy name is Ricardo.\nAnd I'm Yoko.Nicetomeetyou\nHernameisYoko.HisnameisRicardo\nVocabularyNamesandtitles\nListen and repeat.\nfirst name\nlast/familyname\nmiddlename\nMissGomez=asinglewoman\nMrs.Chow=amarriedwoman\nJennifer Ann Wilson\nMs.Peters=asingleormarriedwoman\nfull name\nMr.Adams=a single ormarriedman\nPAIRWORK\nCompletethesentences with your owninformation.Then compare answers.\nMy first name is\nMyfullnameis\nMy family name is\nMy teacher's nameis'\ndehkhodaedu.com",
+      "tesseract_psm3": "What’s your name?\n\nLanguage in context First day of class\n\n& # Listen to Ms. Peters meet her students on the first day of class. Underline the names.\n\nHi. What's your name?\n\n4\n\nHello, everyone. i’m your teacher, .\nMs. Peters, My first name is Linda.\n\nA\n\n—\n\nHi. I’m Marta. What are your names?\n\nMy name ts Ricardo.\n\nVocabulary Names and titles\n\nA ( } Listen and repeat.\nfirst name middle name last / family name Miss Gomez =a single woman\nx\n\nMrs. Chow =a married woman\n\nJennifer Ann Wilson\n\nMs. Peters = a single or married woman\nfull name\n\nMr. Adams = a single or married man\n\nB Gxiaitelts Complete the sentences with your own information. Then compare answers.\n\nMy first name is _ sepa My full name is __-\n\nMy family name is — My teacher’s name is~\n\ndehkhodaedu.com\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [
+      {
+        "id": "text_0008",
+        "type": "text",
+        "content": "4",
+        "confidence": 0.29,
+        "bbox": {
+          "x": 0.708627,
+          "y": 0.240606,
+          "width": 0.004314,
+          "height": 0.002424
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0011",
+        "type": "text",
+        "content": "—",
+        "confidence": 0.75,
+        "bbox": {
+          "x": 0.741176,
+          "y": 0.456667,
+          "width": 0.018039,
+          "height": 0.003333
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "averageConfidence": 0.8793,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "5 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "2 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "lesson",
+    "headings": [
+      "What's your name?",
+      "Language in context First day of class",
+      "Pair work"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "What's your name?",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.132941,
+          "y": 0.064242,
+          "width": 0.476471,
+          "height": 0.034545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What's your name?",
+            "confidence": 0.9199
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What’s your name?",
+            "confidence": 0.94
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Language in context First day of class",
+        "confidence": 0.9586,
+        "bbox": {
+          "x": 0.092941,
+          "y": 0.142121,
+          "width": 0.532157,
+          "height": 0.021818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Language in context First day of class",
+            "confidence": 0.8865
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Language in context First day of class",
+            "confidence": 0.9586
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "sentence",
+        "content": "Listen to Ms. Peters meet her students on the first day of class. Underline the names.",
+        "confidence": 0.8915,
+        "bbox": {
+          "x": 0.090667,
+          "y": 0.175167,
+          "width": 0.601333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "ListentoMs.Peters meet her students on the first day of class.Underline the names.",
+            "confidence": 0.8915
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "& # Listen to Ms. Peters meet her students on the first day of class. Underline the names.",
+            "confidence": 0.8539
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "Hello, everyone. I'm your teacher",
+        "confidence": 0.9119,
+        "bbox": {
+          "x": 0.094,
+          "y": 0.20711,
+          "width": 0.221333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Hello, everyone. i’m your teacher, .",
+            "confidence": 0.77
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Hello, everyone. I'm your teacher,",
+            "confidence": 0.9119
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "Hi. What's your name?",
+        "confidence": 0.8914,
+        "bbox": {
+          "x": 0.644,
+          "y": 0.216383,
+          "width": 0.146,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Hi.What's your name?",
+            "confidence": 0.8914
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Hi. What's your name?",
+            "confidence": 0.855
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "We leo me",
+        "confidence": 0.6941,
+        "bbox": {
+          "x": 0.366667,
+          "y": 0.217929,
+          "width": 0.18,
+          "height": 0.047913
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0007",
+        "type": "sentence",
+        "content": "Ms. Peters, My first name is Linda.",
+        "confidence": 0.9257,
+        "bbox": {
+          "x": 0.093725,
+          "y": 0.223636,
+          "width": 0.218039,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Ms.Peters.My firstname is Linda.",
+            "confidence": 0.8978
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ms. Peters, My first name is Linda.",
+            "confidence": 0.9257
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "My name is Maria Gomez",
+        "confidence": 0.9088,
+        "bbox": {
+          "x": 0.719333,
+          "y": 0.373004,
+          "width": 0.162,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "A",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.707451,
+          "y": 0.382424,
+          "width": 0.01098,
+          "height": 0.006667
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "sentence",
+        "content": "Hi. I'm Marta. What are your names?",
+        "confidence": 0.87,
+        "bbox": {
+          "x": 0.107843,
+          "y": 0.473333,
+          "width": 0.231373,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Hi.I'm Maria Whatareyour names?",
+            "confidence": 0.8541
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Hi. I’m Marta. What are your names?",
+            "confidence": 0.87
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "What are their names?",
+        "confidence": 0.8943,
+        "bbox": {
+          "x": 0.697333,
+          "y": 0.478104,
+          "width": 0.146,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "My name ts Ricardo.",
+        "confidence": 0.92,
+        "bbox": {
+          "x": 0.274118,
+          "y": 0.551818,
+          "width": 0.130588,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "My name is Ricardo.",
+            "confidence": 0.8609
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My name ts Ricardo.",
+            "confidence": 0.92
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "And I'm Yoko. Nice to meet you",
+        "confidence": 0.858,
+        "bbox": {
+          "x": 0.386,
+          "y": 0.63524,
+          "width": 0.206,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "Her name is Yoko. His name is Ricardo",
+        "confidence": 0.9226,
+        "bbox": {
+          "x": 0.628,
+          "y": 0.639876,
+          "width": 0.247333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "Vocabulary Names and titles",
+        "confidence": 0.9475,
+        "bbox": {
+          "x": 0.094118,
+          "y": 0.712424,
+          "width": 0.403922,
+          "height": 0.021212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "VocabularyNamesandtitles",
+            "confidence": 0.8933
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Vocabulary Names and titles",
+            "confidence": 0.9475
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "instruction",
+        "content": "Listen and repeat.",
+        "confidence": 0.8743,
+        "bbox": {
+          "x": 0.106667,
+          "y": 0.744977,
+          "width": 0.157333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listen and repeat.",
+            "confidence": 0.8743
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A ( } Listen and repeat.",
+            "confidence": 0.7417
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "first name",
+        "confidence": 0.7681,
+        "bbox": {
+          "x": 0.090667,
+          "y": 0.766615,
+          "width": 0.070667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "last/family name",
+        "confidence": 0.9242,
+        "bbox": {
+          "x": 0.311333,
+          "y": 0.767646,
+          "width": 0.122,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "middle name",
+        "confidence": 0.8845,
+        "bbox": {
+          "x": 0.191333,
+          "y": 0.768161,
+          "width": 0.090667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "paragraph",
+        "content": "first name middle name last / family name Miss Gomez =a single woman",
+        "confidence": 0.9485,
+        "bbox": {
+          "x": 0.093333,
+          "y": 0.768485,
+          "width": 0.627451,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "MissGomez=asinglewoman",
+            "confidence": 0.8986
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "first name middle name last / family name Miss Gomez =a single woman",
+            "confidence": 0.9485
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "x",
+        "confidence": 0.43,
+        "bbox": {
+          "x": 0.329412,
+          "y": 0.780909,
+          "width": 0.030196,
+          "height": 0.010303
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "Mrs. Chow =a married woman",
+        "confidence": 0.952,
+        "bbox": {
+          "x": 0.524706,
+          "y": 0.789091,
+          "width": 0.200784,
+          "height": 0.009091
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Mrs.Chow=amarriedwoman",
+            "confidence": 0.9405
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Mrs. Chow =a married woman",
+            "confidence": 0.952
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "Jennifer Ann Wilson",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.125098,
+          "y": 0.797273,
+          "width": 0.272941,
+          "height": 0.015455
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Jennifer Ann Wilson",
+            "confidence": 0.8501
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Jennifer Ann Wilson",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "sentence",
+        "content": "Ms. Peters = a single or married woman",
+        "confidence": 0.9375,
+        "bbox": {
+          "x": 0.526275,
+          "y": 0.809697,
+          "width": 0.259216,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Ms.Peters=asingleormarriedwoman",
+            "confidence": 0.9262
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ms. Peters = a single or married woman",
+            "confidence": 0.9375
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "full name",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.231765,
+          "y": 0.824545,
+          "width": 0.061569,
+          "height": 0.009091
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "full name",
+            "confidence": 0.7956
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "full name",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "sentence",
+        "content": "Mr. Adams = a single or married man",
+        "confidence": 0.9237,
+        "bbox": {
+          "x": 0.525098,
+          "y": 0.830606,
+          "width": 0.240392,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Mr.Adams=a single ormarriedman",
+            "confidence": 0.8733
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Mr. Adams = a single or married man",
+            "confidence": 0.9237
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "heading",
+        "content": "Pair work",
+        "confidence": 0.8208,
+        "bbox": {
+          "x": 0.118667,
+          "y": 0.85626,
+          "width": 0.074667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "sentence",
+        "content": "B Gxiaitelts Complete the sentences with your own information. Then compare answers.",
+        "confidence": 0.8675,
+        "bbox": {
+          "x": 0.096863,
+          "y": 0.857576,
+          "width": 0.629412,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Completethesentences with your owninformation.Then compare answers.",
+            "confidence": 0.9192
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Gxiaitelts Complete the sentences with your own information. Then compare answers.",
+            "confidence": 0.8675
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "My first name is",
+        "confidence": 0.7923,
+        "bbox": {
+          "x": 0.117333,
+          "y": 0.876352,
+          "width": 0.107333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "My first name is",
+            "confidence": 0.7923
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My first name is _ sepa My full name is __-",
+            "confidence": 0.62
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "My full name is",
+        "confidence": 0.9057,
+        "bbox": {
+          "x": 0.456,
+          "y": 0.878413,
+          "width": 0.102667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "My family name is",
+        "confidence": 0.8905,
+        "bbox": {
+          "x": 0.116667,
+          "y": 0.896445,
+          "width": 0.123333,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "paragraph",
+        "content": "My family name is - My teacher's name is~",
+        "confidence": 0.7956,
+        "bbox": {
+          "x": 0.12,
+          "y": 0.899394,
+          "width": 0.480392,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "My teacher's nameis'",
+            "confidence": 0.8545
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My family name is — My teacher’s name is~",
+            "confidence": 0.7956
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      }
+    ],
+    "fullTextReadingOrder": [
+      "What's your name?",
+      "Language in context First day of class",
+      "Listen to Ms. Peters meet her students on the first day of class. Underline the names.",
+      "Hello, everyone. I'm your teacher",
+      "Hi. What's your name?",
+      "We leo me",
+      "Ms. Peters, My first name is Linda.",
+      "My name is Maria Gomez",
+      "A",
+      "Hi. I'm Marta. What are your names?",
+      "What are their names?",
+      "My name ts Ricardo.",
+      "And I'm Yoko. Nice to meet you",
+      "Her name is Yoko. His name is Ricardo",
+      "Vocabulary Names and titles",
+      "Listen and repeat.",
+      "first name",
+      "last/family name",
+      "middle name",
+      "first name middle name last / family name Miss Gomez =a single woman",
+      "x",
+      "Mrs. Chow =a married woman",
+      "Jennifer Ann Wilson",
+      "Ms. Peters = a single or married woman",
+      "full name",
+      "Mr. Adams = a single or married man",
+      "Pair work",
+      "B Gxiaitelts Complete the sentences with your own information. Then compare answers.",
+      "My first name is",
+      "My full name is",
+      "My family name is",
+      "My family name is - My teacher's name is~"
+    ],
+    "paragraphs": [
+      "first name middle name last / family name Miss Gomez =a single woman",
+      "My family name is - My teacher's name is~"
+    ],
+    "sentences": [
+      "What's your name",
+      "Language in context First day of class Listen to Ms",
+      "Peters meet her students on the first day of class",
+      "Underline the names",
+      "Hello, everyone",
+      "I'm your teacher Hi",
+      "What's your name",
+      "We leo me Ms",
+      "Peters, My first name is Linda",
+      "My name is Maria Gomez A Hi",
+      "I'm Marta",
+      "What are your names",
+      "What are their names",
+      "My name ts Ricardo",
+      "And I'm Yoko",
+      "Nice to meet you Her name is Yoko",
+      "His name is Ricardo Vocabulary Names and titles Listen and repeat",
+      "first name last/family name middle name first name middle name last / family name Miss Gomez =a single woman x Mrs",
+      "Chow =a married woman Jennifer Ann Wilson Ms",
+      "Peters = a single or married woman full name Mr",
+      "Adams = a single or married man Pair work B Gxiaitelts Complete the sentences with your own information",
+      "Then compare answers",
+      "My first name is My full name is My family name is My family name is - My teacher's name is~"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Hello, everyone.",
+            "confidence": 0.9119,
+            "bbox": {
+              "x": 0.094,
+              "y": 0.20711,
+              "width": 0.221333,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0004"
+          },
+          {
+            "speaker": null,
+            "content": "I'm your teacher",
+            "confidence": 0.9119,
+            "bbox": {
+              "x": 0.094,
+              "y": 0.20711,
+              "width": 0.221333,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0004"
+          },
+          {
+            "speaker": null,
+            "content": "Hi.",
+            "confidence": 0.8914,
+            "bbox": {
+              "x": 0.644,
+              "y": 0.216383,
+              "width": 0.146,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0005"
+          },
+          {
+            "speaker": null,
+            "content": "What's your name?",
+            "confidence": 0.8914,
+            "bbox": {
+              "x": 0.644,
+              "y": 0.216383,
+              "width": 0.146,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0005"
+          },
+          {
+            "speaker": null,
+            "content": "Hi.",
+            "confidence": 0.87,
+            "bbox": {
+              "x": 0.107843,
+              "y": 0.473333,
+              "width": 0.231373,
+              "height": 0.011212
+            },
+            "sourceElementId": "text_0010"
+          },
+          {
+            "speaker": null,
+            "content": "I'm Marta.",
+            "confidence": 0.87,
+            "bbox": {
+              "x": 0.107843,
+              "y": 0.473333,
+              "width": 0.231373,
+              "height": 0.011212
+            },
+            "sourceElementId": "text_0010"
+          },
+          {
+            "speaker": null,
+            "content": "What are your names?",
+            "confidence": 0.87,
+            "bbox": {
+              "x": 0.107843,
+              "y": 0.473333,
+              "width": 0.231373,
+              "height": 0.011212
+            },
+            "sourceElementId": "text_0010"
+          },
+          {
+            "speaker": null,
+            "content": "What are their names?",
+            "confidence": 0.8943,
+            "bbox": {
+              "x": 0.697333,
+              "y": 0.478104,
+              "width": 0.146,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0011"
+          },
+          {
+            "speaker": null,
+            "content": "My name ts Ricardo.",
+            "confidence": 0.92,
+            "bbox": {
+              "x": 0.274118,
+              "y": 0.551818,
+              "width": 0.130588,
+              "height": 0.013939
+            },
+            "sourceElementId": "text_0012"
+          },
+          {
+            "speaker": null,
+            "content": "And I'm Yoko.",
+            "confidence": 0.858,
+            "bbox": {
+              "x": 0.386,
+              "y": 0.63524,
+              "width": 0.206,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0013"
+          },
+          {
+            "speaker": null,
+            "content": "Nice to meet you",
+            "confidence": 0.858,
+            "bbox": {
+              "x": 0.386,
+              "y": 0.63524,
+              "width": 0.206,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0013"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "B",
+        "type": "asking_answering",
+        "instruction": "Gxiaitelts Complete the sentences with your own information. Then compare answers.",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Hello, everyone. I'm your teacher",
+          "Hi. What's your name?",
+          "We leo me",
+          "Ms. Peters, My first name is Linda."
+        ],
+        "position": {
+          "x": 0.073725,
+          "y": 0.18711,
+          "width": 0.736275,
+          "height": 0.09873200000000004
+        },
+        "textElementIds": [
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "My name is Maria Gomez",
+          "A",
+          "Hi. I'm Marta. What are your names?",
+          "What are their names?",
+          "My name ts Ricardo."
+        ],
+        "position": {
+          "x": 0.08784299999999999,
+          "y": 0.353004,
+          "width": 0.81349,
+          "height": 0.2327530000000001
+        },
+        "textElementIds": [
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "And I'm Yoko. Nice to meet you",
+          "Her name is Yoko. His name is Ricardo",
+          "Vocabulary Names and titles",
+          "Listen and repeat.",
+          "first name",
+          "last/family name",
+          "middle name",
+          "first name middle name last / family name Miss Gomez =a single woman",
+          "x",
+          "Mrs. Chow =a married woman",
+          "Jennifer Ann Wilson",
+          "Ms. Peters = a single or married woman",
+          "full name",
+          "Mr. Adams = a single or married man",
+          "Pair work",
+          "B Gxiaitelts Complete the sentences with your own information. Then compare answers.",
+          "My first name is",
+          "My full name is"
+        ],
+        "position": {
+          "x": 0.070667,
+          "y": 0.61524,
+          "width": 0.824666,
+          "height": 0.296053
+        },
+        "textElementIds": [
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030"
+        ]
+      }
+    ],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "lesson",
+    "title": "What's your name?",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "Hello, everyone.",
+            "confidence": 0.9119
+          },
+          {
+            "speaker": null,
+            "content": "I'm your teacher",
+            "confidence": 0.9119
+          },
+          {
+            "speaker": null,
+            "content": "Hi.",
+            "confidence": 0.8914
+          },
+          {
+            "speaker": null,
+            "content": "What's your name?",
+            "confidence": 0.8914
+          },
+          {
+            "speaker": null,
+            "content": "Hi.",
+            "confidence": 0.87
+          },
+          {
+            "speaker": null,
+            "content": "I'm Marta.",
+            "confidence": 0.87
+          },
+          {
+            "speaker": null,
+            "content": "What are your names?",
+            "confidence": 0.87
+          },
+          {
+            "speaker": null,
+            "content": "What are their names?",
+            "confidence": 0.8943
+          },
+          {
+            "speaker": null,
+            "content": "My name ts Ricardo.",
+            "confidence": 0.92
+          },
+          {
+            "speaker": null,
+            "content": "And I'm Yoko.",
+            "confidence": 0.858
+          },
+          {
+            "speaker": null,
+            "content": "Nice to meet you",
+            "confidence": 0.858
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "B",
+        "type": "asking_answering",
+        "instruction": "Gxiaitelts Complete the sentences with your own information. Then compare answers.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "5 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "2 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "dialoguesSplit": 9
+    },
+    "averageOcrConfidence": 0.8793,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 1 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc1_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

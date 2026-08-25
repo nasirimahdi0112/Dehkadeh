@@ -1,0 +1,3922 @@
+{
+  "pageNumber": 55,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "verified sequential printed-footer pattern",
+  "pdfPageNumber": 56,
+  "source": {
+    "pdfFile": "Family and Friends 3 SB_Part1.pdf",
+    "pdfLocalPageNumber": 56,
+    "pageSizePoints": {
+      "width": 586.56,
+      "height": 785.04
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Review2",
+        "confidence": 0.8229,
+        "bbox": {
+          "x": 0.857333,
+          "y": 0.024913,
+          "width": 0.124,
+          "height": 0.021923
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Match the questions with the answers.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.078151,
+          "y": 0.081321,
+          "width": 0.388707,
+          "height": 0.016509
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4 Match the questions with the answers.",
+            "confidence": 0.8861
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Match the questions with the answers.",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "paragraph",
+        "content": "1 Is Tom good at surfing? (d] a Yes, she is. She can play the piano.",
+        "confidence": 0.9075,
+        "bbox": {
+          "x": 0.076923,
+          "y": 0.099052,
+          "width": 0.809738,
+          "height": 0.026903
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Is Tom good at surfing? (d] a Yes, she is. She can play the piano.",
+            "confidence": 0.9075
+          },
+          {
+            "engine": "rapidocr",
+            "content": "aYes,sheis.Shecanplaythepiano.",
+            "confidence": 0.8506
+          },
+          {
+            "engine": "rapidocr",
+            "content": "1 Is Tom good at surfing?",
+            "confidence": 0.8063
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "b Yes, they are.",
+        "confidence": 0.8934,
+        "bbox": {
+          "x": 0.535333,
+          "y": 0.135526,
+          "width": 0.149333,
+          "height": 0.01993
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Are you good at basketball? OC) b Yes, they are.",
+            "confidence": 0.8673
+          },
+          {
+            "engine": "rapidocr",
+            "content": "b Yes, they are.",
+            "confidence": 0.8934
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "paragraph",
+        "content": "2 Areyou good at basketball?",
+        "confidence": 0.8326,
+        "bbox": {
+          "x": 0.074,
+          "y": 0.136522,
+          "width": 0.292667,
+          "height": 0.01993
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "paragraph",
+        "content": "3 Is Maria good at music? eo c No.I'm terrible at throwing.",
+        "confidence": 0.8825,
+        "bbox": {
+          "x": 0.075696,
+          "y": 0.158973,
+          "width": 0.744272,
+          "height": 0.027209
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Is Maria good at music? eo c No.I'm terrible at throwing.",
+            "confidence": 0.8825
+          },
+          {
+            "engine": "rapidocr",
+            "content": "cNo.I'm terrible atthrowing.",
+            "confidence": 0.88
+          },
+          {
+            "engine": "rapidocr",
+            "content": "3 Is Maria good at music?",
+            "confidence": 0.8733
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "paragraph",
+        "content": "4 Are you good at art? (a) d Yes, he is. He’s good at diving, too.",
+        "confidence": 0.9187,
+        "bbox": {
+          "x": 0.076923,
+          "y": 0.18985,
+          "width": 0.80401,
+          "height": 0.026597
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 Are you good at art? (a) d Yes, he is. He’s good at diving, too.",
+            "confidence": 0.9187
+          },
+          {
+            "engine": "rapidocr",
+            "content": "d Yes, heis.He'sgood atdiving,too.",
+            "confidence": 0.8864
+          },
+          {
+            "engine": "rapidocr",
+            "content": "4 Are you good at art?",
+            "confidence": 0.8677
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "paragraph",
+        "content": "5 Are your friends good at chess? ail e No, she isn't.",
+        "confidence": 0.8742,
+        "bbox": {
+          "x": 0.075696,
+          "y": 0.21981,
+          "width": 0.602291,
+          "height": 0.026597
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 Are your friends good at chess? ail e No, she isn't.",
+            "confidence": 0.8742
+          },
+          {
+            "engine": "rapidocr",
+            "content": "e No, sheisn't.",
+            "confidence": 0.7814
+          },
+          {
+            "engine": "rapidocr",
+            "content": "5 Are your friends good at chess?",
+            "confidence": 0.8662
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "paragraph",
+        "content": "6 Is Pat good at snorkeling? C) f Yes, I'm quite good at painting.",
+        "confidence": 0.9064,
+        "bbox": {
+          "x": 0.075696,
+          "y": 0.249771,
+          "width": 0.778642,
+          "height": 0.026903
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "6 Is Pat good at snorkeling? C) f Yes, I'm quite good at painting.",
+            "confidence": 0.9064
+          },
+          {
+            "engine": "rapidocr",
+            "content": "f Yes, I'm quitegood at painting.",
+            "confidence": 0.9043
+          },
+          {
+            "engine": "rapidocr",
+            "content": "6 Is Pat good at snorkeling?",
+            "confidence": 0.8713
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "walks",
+        "confidence": 0.8148,
+        "bbox": {
+          "x": 0.606667,
+          "y": 0.320877,
+          "width": 0.062667,
+          "height": 0.020429
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "has",
+        "confidence": 0.7362,
+        "bbox": {
+          "x": 0.822,
+          "y": 0.321375,
+          "width": 0.045333,
+          "height": 0.017937
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "plays",
+        "confidence": 0.7516,
+        "bbox": {
+          "x": 0.512667,
+          "y": 0.321873,
+          "width": 0.057333,
+          "height": 0.021425
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "catches",
+        "confidence": 0.7624,
+        "bbox": {
+          "x": 0.709333,
+          "y": 0.321873,
+          "width": 0.078667,
+          "height": 0.017937
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "gets",
+        "confidence": 0.785,
+        "bbox": {
+          "x": 0.306667,
+          "y": 0.32287,
+          "width": 0.050667,
+          "height": 0.021923
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0015",
+        "type": "instruction",
+        "content": "5Completethetext.",
+        "confidence": 0.922,
+        "bbox": {
+          "x": 0.040667,
+          "y": 0.325361,
+          "width": 0.225333,
+          "height": 0.019432
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Complete the text. gets brushes plays walks catches hes",
+            "confidence": 0.8344
+          },
+          {
+            "engine": "rapidocr",
+            "content": "brushes",
+            "confidence": 0.845
+          },
+          {
+            "engine": "rapidocr",
+            "content": "5Completethetext.",
+            "confidence": 0.922
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "has",
+        "confidence": 0.7472,
+        "bbox": {
+          "x": 0.542,
+          "y": 0.35725,
+          "width": 0.044,
+          "height": 0.020429
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0017",
+        "type": "paragraph",
+        "content": "Billy gets upat seven o'clock on Mondays.He",
+        "confidence": 0.8827,
+        "bbox": {
+          "x": 0.074667,
+          "y": 0.358744,
+          "width": 0.429333,
+          "height": 0.022422
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Billy gets upat seven o'clock on Mondays.He",
+            "confidence": 0.8827
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Billy gets up at seven o’clockon Mondays.He' has a",
+            "confidence": 0.7256
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "showerandthenhe* __ dressed. He has breakfast",
+            "confidence": 0.7367
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "showerandthen he2",
+        "confidence": 0.8102,
+        "bbox": {
+          "x": 0.074667,
+          "y": 0.382661,
+          "width": 0.201333,
+          "height": 0.019432
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "dressed.Hehasbreakfast",
+        "confidence": 0.8758,
+        "bbox": {
+          "x": 0.398667,
+          "y": 0.382661,
+          "width": 0.24,
+          "height": 0.016941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "dressed.Hehasbreakfast",
+            "confidence": 0.8758
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "with his family. He always*> | his teeth after breakfast. eg",
+            "confidence": 0.7536
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "withhisfamily.Healways",
+        "confidence": 0.9195,
+        "bbox": {
+          "x": 0.074,
+          "y": 0.406079,
+          "width": 0.245333,
+          "height": 0.019432
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "withhisfamily.Healways",
+            "confidence": 0.9195
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Henever* the bus to school. He always bs / P| = |",
+            "confidence": 0.6933
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "sentence",
+        "content": "histeethafterbreakfast.",
+        "confidence": 0.9142,
+        "bbox": {
+          "x": 0.450667,
+          "y": 0.406577,
+          "width": 0.223333,
+          "height": 0.014948
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "thebus to school.Healways",
+        "confidence": 0.8659,
+        "bbox": {
+          "x": 0.296667,
+          "y": 0.428002,
+          "width": 0.262667,
+          "height": 0.018435
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 to school with his brother. After school, he La |",
+            "confidence": 0.8318
+          },
+          {
+            "engine": "rapidocr",
+            "content": "thebus to school.Healways",
+            "confidence": 0.8659
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "Henever",
+        "confidence": 0.6875,
+        "bbox": {
+          "x": 0.073333,
+          "y": 0.428999,
+          "width": 0.099333,
+          "height": 0.018435
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0024",
+        "type": "paragraph",
+        "content": "to school with hisbrother.After school, he",
+        "confidence": 0.8723,
+        "bbox": {
+          "x": 0.208667,
+          "y": 0.450922,
+          "width": 0.386,
+          "height": 0.018934
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "paragraph",
+        "content": ". with his friends in the park. Billy loves the park!",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.075696,
+          "y": 0.475696,
+          "width": 0.565466,
+          "height": 0.01712
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "withhis friends inthepark.Billyloves thepark!",
+            "confidence": 0.9057
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": ". with his friends in the park. Billy loves the park!",
+            "confidence": 0.9
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "instruction",
+        "content": "Read and complete the words. aw or oy oi",
+        "confidence": 0.9478,
+        "bbox": {
+          "x": 0.075696,
+          "y": 0.544176,
+          "width": 0.581424,
+          "height": 0.018037
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "6Read andcompletethewords.",
+            "confidence": 0.8929
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Read and complete the words. aw or oy oi",
+            "confidence": 0.9478
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "oy",
+        "confidence": 0.563,
+        "bbox": {
+          "x": 0.566667,
+          "y": 0.544594,
+          "width": 0.032667,
+          "height": 0.020429
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "aw",
+        "confidence": 0.6343,
+        "bbox": {
+          "x": 0.430667,
+          "y": 0.547085,
+          "width": 0.034667,
+          "height": 0.015446
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "or",
+        "confidence": 0.6622,
+        "bbox": {
+          "x": 0.505333,
+          "y": 0.547583,
+          "width": 0.025333,
+          "height": 0.014449
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0030",
+        "type": "paragraph",
+        "content": "A cat doesn't have hands or Flowers and trees grow The farmer has a big",
+        "confidence": 0.9313,
+        "bbox": {
+          "x": 0.042553,
+          "y": 0.694895,
+          "width": 0.823241,
+          "height": 0.01712
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Thefarmerhas abig",
+            "confidence": 0.8681
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A cat doesn't have hands or Flowers and trees grow The farmer has a big",
+            "confidence": 0.9313
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Acatdoesn'thavehands or",
+            "confidence": 0.8969
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Flowers andtreesgrow",
+            "confidence": 0.8788
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "k.",
+        "confidence": 0.5317,
+        "bbox": {
+          "x": 0.762,
+          "y": 0.715496,
+          "width": 0.023333,
+          "height": 0.018435
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "ins",
+        "confidence": 0.6693,
+        "bbox": {
+          "x": 0.352667,
+          "y": 0.718984,
+          "width": 0.038667,
+          "height": 0.016442
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "feet.Ithasfourpaws.",
+        "confidence": 0.8441,
+        "bbox": {
+          "x": 0.042667,
+          "y": 0.720478,
+          "width": 0.268,
+          "height": 0.014449
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "feet.Ithasfourp Q Ww Ss. ins a! k.",
+            "confidence": 0.5657
+          },
+          {
+            "engine": "rapidocr",
+            "content": "feet.Ithasfourpaws.",
+            "confidence": 0.8441
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "Tin this",
+        "confidence": 0.7105,
+        "bbox": {
+          "x": 0.83,
+          "y": 0.869955,
+          "width": 0.072667,
+          "height": 0.018934
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "ismy",
+        "confidence": 0.794,
+        "bbox": {
+          "x": 0.560667,
+          "y": 0.870453,
+          "width": 0.056,
+          "height": 0.021425
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "There is",
+        "confidence": 0.8507,
+        "bbox": {
+          "x": 0.667333,
+          "y": 0.870952,
+          "width": 0.076667,
+          "height": 0.017439
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "n!\"",
+        "confidence": 0.7109,
+        "bbox": {
+          "x": 0.258,
+          "y": 0.87145,
+          "width": 0.035333,
+          "height": 0.020429
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "Myfavoritet",
+        "confidence": 0.8559,
+        "bbox": {
+          "x": 0.354,
+          "y": 0.87145,
+          "width": 0.123333,
+          "height": 0.01993
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Myfavoritet",
+            "confidence": 0.8559
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "“Whatabigy —s_—_—_in!” Myfavoritet —_—ismy Thereis _—_lin this",
+            "confidence": 0.4043
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "\"Whatabigy",
+        "confidence": 0.8905,
+        "bbox": {
+          "x": 0.041333,
+          "y": 0.871948,
+          "width": 0.133333,
+          "height": 0.020927
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "bottle.",
+        "confidence": 0.7984,
+        "bbox": {
+          "x": 0.666667,
+          "y": 0.893373,
+          "width": 0.065333,
+          "height": 0.018934
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0041",
+        "type": "paragraph",
+        "content": "“Yes, I'm very tired.” new train. boftle.",
+        "confidence": 0.9186,
+        "bbox": {
+          "x": 0.042553,
+          "y": 0.896362,
+          "width": 0.685761,
+          "height": 0.018037
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "“Yes, I'm very tired.” new train. boftle.",
+            "confidence": 0.9186
+          },
+          {
+            "engine": "rapidocr",
+            "content": "new train.",
+            "confidence": 0.8201
+          },
+          {
+            "engine": "rapidocr",
+            "content": "\"Yes,I'mvery tired'",
+            "confidence": 0.8361
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "label",
+        "content": "Ontine",
+        "confidence": 0.8006,
+        "bbox": {
+          "x": 0.114667,
+          "y": 0.926258,
+          "width": 0.047333,
+          "height": 0.015446
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Ontine",
+            "confidence": 0.8006
+          },
+          {
+            "engine": "rapidocr",
+            "content": "play",
+            "confidence": 0.596
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "instruction",
+        "content": "Play a gamel",
+        "confidence": 0.8542,
+        "bbox": {
+          "x": 0.167333,
+          "y": 0.940209,
+          "width": 0.113333,
+          "height": 0.017937
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "label",
+        "content": "55",
+        "confidence": 0.6204,
+        "bbox": {
+          "x": 0.952,
+          "y": 0.956153,
+          "width": 0.031333,
+          "height": 0.017439
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0045",
+        "type": "label",
+        "content": "Ravlew 2",
+        "confidence": 0.7882,
+        "bbox": {
+          "x": 0.840667,
+          "y": 0.959641,
+          "width": 0.074,
+          "height": 0.014948
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Billy gets upat seven o'clock on Mondays.He",
+            "confidence": 0.8827,
+            "bbox": {
+              "x": 0.074667,
+              "y": 0.358744,
+              "width": 0.429333,
+              "height": 0.022422
+            },
+            "sourceElementId": "text_0017",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "histeethafterbreakfast.",
+            "confidence": 0.9142,
+            "bbox": {
+              "x": 0.450667,
+              "y": 0.406577,
+              "width": 0.223333,
+              "height": 0.014948
+            },
+            "sourceElementId": "text_0021",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Speech-bubble/dialogue-like text was detected spatially; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "exercise",
+        "instruction": "Is Tom good at surfing? (d] a Yes, she is. She can play the piano.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0003"
+        ],
+        "confidence": 0.9075
+      }
+    ],
+    "ocrTables": [
+      {
+        "title": null,
+        "headers": [],
+        "rows": [
+          [
+            "5 Are your friends good at chess? ail e No, she isn't."
+          ],
+          [
+            "6 Is Pat good at snorkeling? C) f Yes, I'm quite good at painting."
+          ],
+          [
+            "walks"
+          ],
+          [
+            "has"
+          ],
+          [
+            "plays"
+          ],
+          [
+            "catches"
+          ],
+          [
+            "gets"
+          ],
+          [
+            "5Completethetext."
+          ],
+          [
+            "has"
+          ],
+          [
+            "Billy gets upat seven o'clock on Mondays.He"
+          ],
+          [
+            "showerandthen he2"
+          ],
+          [
+            "dressed.Hehasbreakfast"
+          ],
+          [
+            "withhisfamily.Healways"
+          ],
+          [
+            "histeethafterbreakfast."
+          ],
+          [
+            "thebus to school.Healways"
+          ],
+          [
+            "Henever"
+          ],
+          [
+            "to school with hisbrother.After school, he"
+          ],
+          [
+            ". with his friends in the park. Billy loves the park!"
+          ],
+          [
+            "Read and complete the words. aw or oy oi"
+          ],
+          [
+            "oy"
+          ],
+          [
+            "aw"
+          ],
+          [
+            "or"
+          ],
+          [
+            "A cat doesn't have hands or Flowers and trees grow The farmer has a big"
+          ],
+          [
+            "k."
+          ],
+          [
+            "ins"
+          ],
+          [
+            "feet.Ithasfourpaws."
+          ],
+          [
+            "Tin this"
+          ],
+          [
+            "ismy"
+          ],
+          [
+            "There is"
+          ],
+          [
+            "n!\""
+          ],
+          [
+            "Myfavoritet"
+          ],
+          [
+            "\"Whatabigy"
+          ],
+          [
+            "bottle."
+          ],
+          [
+            "“Yes, I'm very tired.” new train. boftle."
+          ]
+        ],
+        "tableStructureConfidence": "low",
+        "fallbackText": "Review2 Match the questions with the answers. 1 Is Tom good at surfing? (d] a Yes, she is. She can play the piano. b Yes, they are. 2 Areyou good at basketball? 3 Is Maria good at music? eo c No.I'm terrible at throwing. 4 Are you good at art? (a) d Yes, he is. He’s good at diving, too. 5 Are your friends good at chess? ail e No, she isn't. 6 Is Pat good at snorkeling? C) f Yes, I'm quite good at painting. walks has plays catches gets 5Completethetext. has Billy gets upat seven o'clock on Mondays.He showerandthen he2 dressed.Hehasbreakfast withhisfamily.Healways histeethafterbreakfast. thebus to school.Healways Henever to school with hisbrother.After school, he . with his friends in the park. Billy loves the park! Read and complete the words. aw or oy oi oy aw or A cat doesn't have hands or Flowers and trees grow The farmer has a big k. ins feet.Ithasfourpaws. Tin this ismy There is n!\" Myfavoritet \"Whatabigy bottle. “Yes, I'm very tired.” new train. boftle. Ontine Play a gamel 55 Ravlew 2",
+        "sourceElementIds": [
+          "text_0001",
+          "text_0002",
+          "text_0003",
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040",
+          "text_0041",
+          "text_0042",
+          "text_0043",
+          "text_0044",
+          "text_0045"
+        ]
+      }
+    ],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "5 Are your friends good at chess? ail e No, she isn't.",
+          "6 Is Pat good at snorkeling? C) f Yes, I'm quite good at painting.",
+          "walks",
+          "has",
+          "plays",
+          "catches",
+          "gets",
+          "5Completethetext.",
+          "has",
+          "Billy gets upat seven o'clock on Mondays.He",
+          "showerandthen he2",
+          "dressed.Hehasbreakfast",
+          "withhisfamily.Healways",
+          "histeethafterbreakfast.",
+          "thebus to school.Healways",
+          "Henever",
+          "to school with hisbrother.After school, he",
+          ". with his friends in the park. Billy loves the park!"
+        ],
+        "position": {
+          "x": 0.020667,
+          "y": 0.19981,
+          "width": 0.866666,
+          "height": 0.313006
+        },
+        "textElementIds": [
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Read and complete the words. aw or oy oi",
+          "oy",
+          "aw",
+          "or"
+        ],
+        "position": {
+          "x": 0.055696,
+          "y": 0.524176,
+          "width": 0.621424,
+          "height": 0.060847
+        },
+        "textElementIds": [
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "A cat doesn't have hands or Flowers and trees grow The farmer has a big",
+          "k.",
+          "ins",
+          "feet.Ithasfourpaws."
+        ],
+        "position": {
+          "x": 0.022553,
+          "y": 0.674895,
+          "width": 0.863241,
+          "height": 0.080531
+        },
+        "textElementIds": [
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "rawOcrAudit": {
+      "rapidocr": "Review2\n4 Match the questions with the answers.\naYes,sheis.Shecanplaythepiano.\n1 Is Tom good at surfing?\nb Yes, they are.\n2 Areyou good at basketball?\ncNo.I'm terrible atthrowing.\n3 Is Maria good at music?\nd Yes, heis.He'sgood atdiving,too.\n4 Are you good at art?\ne No, sheisn't.\n5 Are your friends good at chess?\nf Yes, I'm quitegood at painting.\n6 Is Pat good at snorkeling?\nwalks\nhas\nplays\ncatches\ngets\nbrushes\n5Completethetext.\nhas\nBilly gets upat seven o'clock on Mondays.He\nshowerandthen he2\ndressed.Hehasbreakfast\nwithhisfamily.Healways\nhisteethafterbreakfast.\nthebus to school.Healways\nHenever\nto school with hisbrother.After school, he\nwithhis friends inthepark.Billyloves thepark!\n6Read andcompletethewords.\noy\naw\nor\nThefarmerhas abig\nAcatdoesn'thavehands or\nFlowers andtreesgrow\nk.\nins\nfeet.Ithasfourpaws.\nTin this\nismy\nThere is\nn!\"\nMyfavoritet\n\"Whatabigy\nbottle.\nnew train.\n\"Yes,I'mvery tired'\nOntine\nplay\nPlay a gamel\n55\nRavlew 2",
+      "tesseract_psm3": "Match the questions with the answers.\n\n1 Is Tom good at surfing? (d] a Yes, she is. She can play the piano.\n2 Are you good at basketball? OC) b Yes, they are.\n\n3 Is Maria good at music? eo c No.I'm terrible at throwing.\n\n4 Are you good at art? (a) d Yes, he is. He’s good at diving, too.\n5 Are your friends good at chess? ail e No, she isn't.\n\n6 Is Pat good at snorkeling? C) f Yes, I'm quite good at painting.\n\nComplete the text. gets brushes plays walks catches hes\n\nBilly gets up at seven o’clockon Mondays.He' has a\n\nshowerandthenhe*  __ dressed. He has breakfast\n\nwith his family. He always*> | his teeth after breakfast. eg\n\nHenever* the bus to school. He always bs / P| = |\n5 to school with his brother. After school, he La |\n. with his friends in the park. Billy loves the park!\n\nRead and complete the words. aw or oy oi\n\nA cat doesn't have hands or Flowers and trees grow The farmer has a big\n\nfeet.Ithasfourp Q Ww Ss. ins a! k.\n\n“Whatabigy  —s_—_—_in!” Myfavoritet  —_—ismy Thereis _—_lin this\n“Yes, I'm very tired.” new train. boftle.\n\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": "",
+      "footer_passes": [
+        "WOE DIG yD VEY OV PPM Po\n“Yes, I'm very tired.” new train. bottle.\nReview 2",
+        "UP\n\nae\n\nPET UE Pho\n\nWOT a DIg y\n\nah\n\nMy IV\n\n———\n\n“Yes, I'm very tired.”\n\nnew train.\n\nboftle.\n\nOnling\n\n—=—$=——___—\n\npl\n\nReview 2"
+      ]
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8138,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "17 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "review",
+    "pagePurpose": null,
+    "readingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "headings": [
+      {
+        "id": "text_0001",
+        "content": "Review 2",
+        "confidence": 0.8229,
+        "bbox": {
+          "x": 0.857333,
+          "y": 0.024913,
+          "width": 0.124,
+          "height": 0.021923
+        },
+        "repaired": true,
+        "sourceElementIds": [
+          "text_0001"
+        ]
+      },
+      {
+        "id": "text_0002",
+        "content": "Match the questions with the answers.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.078151,
+          "y": 0.081321,
+          "width": 0.388707,
+          "height": 0.016509
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "id": "text_0004",
+        "content": "b Yes, they are.",
+        "confidence": 0.8934,
+        "bbox": {
+          "x": 0.535333,
+          "y": 0.135526,
+          "width": 0.149333,
+          "height": 0.01993
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      }
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Review 2",
+        "originalContent": "Review2",
+        "confidence": 0.8229,
+        "bbox": {
+          "x": 0.857333,
+          "y": 0.024913,
+          "width": 0.124,
+          "height": 0.021923
+        },
+        "repaired": true,
+        "repairNotes": [
+          "heading"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Match the questions with the answers.",
+        "originalContent": "Match the questions with the answers.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.078151,
+          "y": 0.081321,
+          "width": 0.388707,
+          "height": 0.016509
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4 Match the questions with the answers.",
+            "confidence": 0.8861
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Match the questions with the answers.",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0003",
+        "type": "paragraph",
+        "content": "1 Is Tom good at surfing? (d] a Yes, she is. She can play the piano.",
+        "originalContent": "1 Is Tom good at surfing? (d] a Yes, she is. She can play the piano.",
+        "confidence": 0.9075,
+        "bbox": {
+          "x": 0.076923,
+          "y": 0.099052,
+          "width": 0.809738,
+          "height": 0.026903
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Is Tom good at surfing? (d] a Yes, she is. She can play the piano.",
+            "confidence": 0.9075
+          },
+          {
+            "engine": "rapidocr",
+            "content": "aYes,sheis.Shecanplaythepiano.",
+            "confidence": 0.8506
+          },
+          {
+            "engine": "rapidocr",
+            "content": "1 Is Tom good at surfing?",
+            "confidence": 0.8063
+          }
+        ]
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "b Yes, they are.",
+        "originalContent": "b Yes, they are.",
+        "confidence": 0.8934,
+        "bbox": {
+          "x": 0.535333,
+          "y": 0.135526,
+          "width": 0.149333,
+          "height": 0.01993
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Are you good at basketball? OC) b Yes, they are.",
+            "confidence": 0.8673
+          },
+          {
+            "engine": "rapidocr",
+            "content": "b Yes, they are.",
+            "confidence": 0.8934
+          }
+        ]
+      },
+      {
+        "id": "text_0005",
+        "type": "paragraph",
+        "content": "2 Areyou good at basketball?",
+        "originalContent": "2 Areyou good at basketball?",
+        "confidence": 0.8326,
+        "bbox": {
+          "x": 0.074,
+          "y": 0.136522,
+          "width": 0.292667,
+          "height": 0.01993
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0006",
+        "type": "paragraph",
+        "content": "3 Is Maria good at music? eo c No. I'm terrible at throwing.",
+        "originalContent": "3 Is Maria good at music? eo c No.I'm terrible at throwing.",
+        "confidence": 0.8825,
+        "bbox": {
+          "x": 0.075696,
+          "y": 0.158973,
+          "width": 0.744272,
+          "height": 0.027209
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Is Maria good at music? eo c No.I'm terrible at throwing.",
+            "confidence": 0.8825
+          },
+          {
+            "engine": "rapidocr",
+            "content": "cNo.I'm terrible atthrowing.",
+            "confidence": 0.88
+          },
+          {
+            "engine": "rapidocr",
+            "content": "3 Is Maria good at music?",
+            "confidence": 0.8733
+          }
+        ]
+      },
+      {
+        "id": "text_0007",
+        "type": "paragraph",
+        "content": "4 Are you good at art? (a) d Yes, he is. He's good at diving, too.",
+        "originalContent": "4 Are you good at art? (a) d Yes, he is. He’s good at diving, too.",
+        "confidence": 0.9187,
+        "bbox": {
+          "x": 0.076923,
+          "y": 0.18985,
+          "width": 0.80401,
+          "height": 0.026597
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 Are you good at art? (a) d Yes, he is. He’s good at diving, too.",
+            "confidence": 0.9187
+          },
+          {
+            "engine": "rapidocr",
+            "content": "d Yes, heis.He'sgood atdiving,too.",
+            "confidence": 0.8864
+          },
+          {
+            "engine": "rapidocr",
+            "content": "4 Are you good at art?",
+            "confidence": 0.8677
+          }
+        ]
+      },
+      {
+        "id": "text_0008",
+        "type": "paragraph",
+        "content": "5 Are your friends good at chess? ail e No, she isn't.",
+        "originalContent": "5 Are your friends good at chess? ail e No, she isn't.",
+        "confidence": 0.8742,
+        "bbox": {
+          "x": 0.075696,
+          "y": 0.21981,
+          "width": 0.602291,
+          "height": 0.026597
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 Are your friends good at chess? ail e No, she isn't.",
+            "confidence": 0.8742
+          },
+          {
+            "engine": "rapidocr",
+            "content": "e No, sheisn't.",
+            "confidence": 0.7814
+          },
+          {
+            "engine": "rapidocr",
+            "content": "5 Are your friends good at chess?",
+            "confidence": 0.8662
+          }
+        ]
+      },
+      {
+        "id": "text_0009",
+        "type": "paragraph",
+        "content": "6 Is Pat good at snorkeling? C) f Yes, I'm quite good at painting.",
+        "originalContent": "6 Is Pat good at snorkeling? C) f Yes, I'm quite good at painting.",
+        "confidence": 0.9064,
+        "bbox": {
+          "x": 0.075696,
+          "y": 0.249771,
+          "width": 0.778642,
+          "height": 0.026903
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "6 Is Pat good at snorkeling? C) f Yes, I'm quite good at painting.",
+            "confidence": 0.9064
+          },
+          {
+            "engine": "rapidocr",
+            "content": "f Yes, I'm quitegood at painting.",
+            "confidence": 0.9043
+          },
+          {
+            "engine": "rapidocr",
+            "content": "6 Is Pat good at snorkeling?",
+            "confidence": 0.8713
+          }
+        ]
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "walks",
+        "originalContent": "walks",
+        "confidence": 0.8148,
+        "bbox": {
+          "x": 0.606667,
+          "y": 0.320877,
+          "width": 0.062667,
+          "height": 0.020429
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "has",
+        "originalContent": "has",
+        "confidence": 0.7362,
+        "bbox": {
+          "x": 0.822,
+          "y": 0.321375,
+          "width": 0.045333,
+          "height": 0.017937
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "plays",
+        "originalContent": "plays",
+        "confidence": 0.7516,
+        "bbox": {
+          "x": 0.512667,
+          "y": 0.321873,
+          "width": 0.057333,
+          "height": 0.021425
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "catches",
+        "originalContent": "catches",
+        "confidence": 0.7624,
+        "bbox": {
+          "x": 0.709333,
+          "y": 0.321873,
+          "width": 0.078667,
+          "height": 0.017937
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "gets",
+        "originalContent": "gets",
+        "confidence": 0.785,
+        "bbox": {
+          "x": 0.306667,
+          "y": 0.32287,
+          "width": 0.050667,
+          "height": 0.021923
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0015",
+        "type": "instruction",
+        "content": "5 Complete the text.",
+        "originalContent": "5Completethetext.",
+        "confidence": 0.922,
+        "bbox": {
+          "x": 0.040667,
+          "y": 0.325361,
+          "width": 0.225333,
+          "height": 0.019432
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Complete the text. gets brushes plays walks catches hes",
+            "confidence": 0.8344
+          },
+          {
+            "engine": "rapidocr",
+            "content": "brushes",
+            "confidence": 0.845
+          },
+          {
+            "engine": "rapidocr",
+            "content": "5Completethetext.",
+            "confidence": 0.922
+          }
+        ]
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "has",
+        "originalContent": "has",
+        "confidence": 0.7472,
+        "bbox": {
+          "x": 0.542,
+          "y": 0.35725,
+          "width": 0.044,
+          "height": 0.020429
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0017",
+        "type": "paragraph",
+        "content": "Billy gets upat seven o'clock on Mondays. He",
+        "originalContent": "Billy gets upat seven o'clock on Mondays.He",
+        "confidence": 0.8827,
+        "bbox": {
+          "x": 0.074667,
+          "y": 0.358744,
+          "width": 0.429333,
+          "height": 0.022422
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Billy gets upat seven o'clock on Mondays.He",
+            "confidence": 0.8827
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Billy gets up at seven o’clockon Mondays.He' has a",
+            "confidence": 0.7256
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "showerandthenhe* __ dressed. He has breakfast",
+            "confidence": 0.7367
+          }
+        ]
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "shower and then he2",
+        "originalContent": "showerandthen he2",
+        "confidence": 0.8102,
+        "bbox": {
+          "x": 0.074667,
+          "y": 0.382661,
+          "width": 0.201333,
+          "height": 0.019432
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "dressed. He has breakfast",
+        "originalContent": "dressed.Hehasbreakfast",
+        "confidence": 0.8758,
+        "bbox": {
+          "x": 0.398667,
+          "y": 0.382661,
+          "width": 0.24,
+          "height": 0.016941
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase",
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "dressed.Hehasbreakfast",
+            "confidence": 0.8758
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "with his family. He always*> | his teeth after breakfast. eg",
+            "confidence": 0.7536
+          }
+        ]
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "with his family. He always",
+        "originalContent": "withhisfamily.Healways",
+        "confidence": 0.9195,
+        "bbox": {
+          "x": 0.074,
+          "y": 0.406079,
+          "width": 0.245333,
+          "height": 0.019432
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "withhisfamily.Healways",
+            "confidence": 0.9195
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Henever* the bus to school. He always bs / P| = |",
+            "confidence": 0.6933
+          }
+        ]
+      },
+      {
+        "id": "text_0021",
+        "type": "sentence",
+        "content": "his teeth after breakfast.",
+        "originalContent": "histeethafterbreakfast.",
+        "confidence": 0.9142,
+        "bbox": {
+          "x": 0.450667,
+          "y": 0.406577,
+          "width": 0.223333,
+          "height": 0.014948
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "thebus to school. He always",
+        "originalContent": "thebus to school.Healways",
+        "confidence": 0.8659,
+        "bbox": {
+          "x": 0.296667,
+          "y": 0.428002,
+          "width": 0.262667,
+          "height": 0.018435
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 to school with his brother. After school, he La |",
+            "confidence": 0.8318
+          },
+          {
+            "engine": "rapidocr",
+            "content": "thebus to school.Healways",
+            "confidence": 0.8659
+          }
+        ]
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "Henever",
+        "originalContent": "Henever",
+        "confidence": 0.6875,
+        "bbox": {
+          "x": 0.073333,
+          "y": 0.428999,
+          "width": 0.099333,
+          "height": 0.018435
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0024",
+        "type": "paragraph",
+        "content": "to school with his brother. After school, he",
+        "originalContent": "to school with hisbrother.After school, he",
+        "confidence": 0.8723,
+        "bbox": {
+          "x": 0.208667,
+          "y": 0.450922,
+          "width": 0.386,
+          "height": 0.018934
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0025",
+        "type": "paragraph",
+        "content": ". with his friends in the park. Billy loves the park!",
+        "originalContent": ". with his friends in the park. Billy loves the park!",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.075696,
+          "y": 0.475696,
+          "width": 0.565466,
+          "height": 0.01712
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "withhis friends inthepark.Billyloves thepark!",
+            "confidence": 0.9057
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": ". with his friends in the park. Billy loves the park!",
+            "confidence": 0.9
+          }
+        ]
+      },
+      {
+        "id": "text_0026",
+        "type": "instruction",
+        "content": "Read and complete the words. aw or oy oi",
+        "originalContent": "Read and complete the words. aw or oy oi",
+        "confidence": 0.9478,
+        "bbox": {
+          "x": 0.075696,
+          "y": 0.544176,
+          "width": 0.581424,
+          "height": 0.018037
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "6Read andcompletethewords.",
+            "confidence": 0.8929
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Read and complete the words. aw or oy oi",
+            "confidence": 0.9478
+          }
+        ]
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "oy",
+        "originalContent": "oy",
+        "confidence": 0.563,
+        "bbox": {
+          "x": 0.566667,
+          "y": 0.544594,
+          "width": 0.032667,
+          "height": 0.020429
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "aw",
+        "originalContent": "aw",
+        "confidence": 0.6343,
+        "bbox": {
+          "x": 0.430667,
+          "y": 0.547085,
+          "width": 0.034667,
+          "height": 0.015446
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "or",
+        "originalContent": "or",
+        "confidence": 0.6622,
+        "bbox": {
+          "x": 0.505333,
+          "y": 0.547583,
+          "width": 0.025333,
+          "height": 0.014449
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0030",
+        "type": "paragraph",
+        "content": "A cat doesn't have hands or Flowers and trees grow The farmer has a big",
+        "originalContent": "A cat doesn't have hands or Flowers and trees grow The farmer has a big",
+        "confidence": 0.9313,
+        "bbox": {
+          "x": 0.042553,
+          "y": 0.694895,
+          "width": 0.823241,
+          "height": 0.01712
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Thefarmerhas abig",
+            "confidence": 0.8681
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A cat doesn't have hands or Flowers and trees grow The farmer has a big",
+            "confidence": 0.9313
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Acatdoesn'thavehands or",
+            "confidence": 0.8969
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Flowers andtreesgrow",
+            "confidence": 0.8788
+          }
+        ]
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "k.",
+        "originalContent": "k.",
+        "confidence": 0.5317,
+        "bbox": {
+          "x": 0.762,
+          "y": 0.715496,
+          "width": 0.023333,
+          "height": 0.018435
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "ins",
+        "originalContent": "ins",
+        "confidence": 0.6693,
+        "bbox": {
+          "x": 0.352667,
+          "y": 0.718984,
+          "width": 0.038667,
+          "height": 0.016442
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "feet. It has four paws.",
+        "originalContent": "feet.Ithasfourpaws.",
+        "confidence": 0.8441,
+        "bbox": {
+          "x": 0.042667,
+          "y": 0.720478,
+          "width": 0.268,
+          "height": 0.014449
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "feet.Ithasfourp Q Ww Ss. ins a! k.",
+            "confidence": 0.5657
+          },
+          {
+            "engine": "rapidocr",
+            "content": "feet.Ithasfourpaws.",
+            "confidence": 0.8441
+          }
+        ]
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "Tin this",
+        "originalContent": "Tin this",
+        "confidence": 0.7105,
+        "bbox": {
+          "x": 0.83,
+          "y": 0.869955,
+          "width": 0.072667,
+          "height": 0.018934
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "ismy",
+        "originalContent": "ismy",
+        "confidence": 0.794,
+        "bbox": {
+          "x": 0.560667,
+          "y": 0.870453,
+          "width": 0.056,
+          "height": 0.021425
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "There is",
+        "originalContent": "There is",
+        "confidence": 0.8507,
+        "bbox": {
+          "x": 0.667333,
+          "y": 0.870952,
+          "width": 0.076667,
+          "height": 0.017439
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "My favorite t",
+        "originalContent": "Myfavoritet",
+        "confidence": 0.8559,
+        "bbox": {
+          "x": 0.354,
+          "y": 0.87145,
+          "width": 0.123333,
+          "height": 0.01993
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Myfavoritet",
+            "confidence": 0.8559
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "“Whatabigy —s_—_—_in!” Myfavoritet —_—ismy Thereis _—_lin this",
+            "confidence": 0.4043
+          }
+        ]
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "\"Whatabigy",
+        "originalContent": "\"Whatabigy",
+        "confidence": 0.8905,
+        "bbox": {
+          "x": 0.041333,
+          "y": 0.871948,
+          "width": 0.133333,
+          "height": 0.020927
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "bottle.",
+        "originalContent": "bottle.",
+        "confidence": 0.7984,
+        "bbox": {
+          "x": 0.666667,
+          "y": 0.893373,
+          "width": 0.065333,
+          "height": 0.018934
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0041",
+        "type": "paragraph",
+        "content": "\"Yes, I'm very tired.\" new train. boftle.",
+        "originalContent": "“Yes, I'm very tired.” new train. boftle.",
+        "confidence": 0.9186,
+        "bbox": {
+          "x": 0.042553,
+          "y": 0.896362,
+          "width": 0.685761,
+          "height": 0.018037
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "“Yes, I'm very tired.” new train. boftle.",
+            "confidence": 0.9186
+          },
+          {
+            "engine": "rapidocr",
+            "content": "new train.",
+            "confidence": 0.8201
+          },
+          {
+            "engine": "rapidocr",
+            "content": "\"Yes,I'mvery tired'",
+            "confidence": 0.8361
+          }
+        ]
+      },
+      {
+        "id": "text_0042",
+        "type": "label",
+        "content": "Ontine",
+        "originalContent": "Ontine",
+        "confidence": 0.8006,
+        "bbox": {
+          "x": 0.114667,
+          "y": 0.926258,
+          "width": 0.047333,
+          "height": 0.015446
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Ontine",
+            "confidence": 0.8006
+          },
+          {
+            "engine": "rapidocr",
+            "content": "play",
+            "confidence": 0.596
+          }
+        ]
+      },
+      {
+        "id": "text_0043",
+        "type": "instruction",
+        "content": "Play a gamel",
+        "originalContent": "Play a gamel",
+        "confidence": 0.8542,
+        "bbox": {
+          "x": 0.167333,
+          "y": 0.940209,
+          "width": 0.113333,
+          "height": 0.017937
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0045",
+        "type": "label",
+        "content": "Ravlew 2",
+        "originalContent": "Ravlew 2",
+        "confidence": 0.7882,
+        "bbox": {
+          "x": 0.840667,
+          "y": 0.959641,
+          "width": 0.074,
+          "height": 0.014948
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Review 2",
+      "Match the questions with the answers.",
+      "1 Is Tom good at surfing? (d] a Yes, she is. She can play the piano.",
+      "b Yes, they are.",
+      "2 Areyou good at basketball?",
+      "3 Is Maria good at music? eo c No. I'm terrible at throwing.",
+      "4 Are you good at art? (a) d Yes, he is. He's good at diving, too.",
+      "5 Are your friends good at chess? ail e No, she isn't.",
+      "6 Is Pat good at snorkeling? C) f Yes, I'm quite good at painting.",
+      "walks",
+      "has",
+      "plays",
+      "catches",
+      "gets",
+      "5 Complete the text.",
+      "has",
+      "Billy gets upat seven o'clock on Mondays. He",
+      "shower and then he2",
+      "dressed. He has breakfast",
+      "with his family. He always",
+      "his teeth after breakfast.",
+      "thebus to school. He always",
+      "Henever",
+      "to school with his brother. After school, he",
+      ". with his friends in the park. Billy loves the park!",
+      "Read and complete the words. aw or oy oi",
+      "oy",
+      "aw",
+      "or",
+      "A cat doesn't have hands or Flowers and trees grow The farmer has a big",
+      "k.",
+      "ins",
+      "feet. It has four paws.",
+      "Tin this",
+      "ismy",
+      "There is",
+      "My favorite t",
+      "\"Whatabigy",
+      "bottle.",
+      "\"Yes, I'm very tired.\" new train. boftle.",
+      "Ontine",
+      "Play a gamel",
+      "Ravlew 2"
+    ],
+    "paragraphs": [
+      {
+        "id": "text_0003",
+        "content": "1 Is Tom good at surfing? (d] a Yes, she is. She can play the piano.",
+        "confidence": 0.9075,
+        "bbox": {
+          "x": 0.076923,
+          "y": 0.099052,
+          "width": 0.809738,
+          "height": 0.026903
+        },
+        "sourceElementIds": [
+          "text_0003"
+        ]
+      },
+      {
+        "id": "text_0005",
+        "content": "2 Areyou good at basketball?",
+        "confidence": 0.8326,
+        "bbox": {
+          "x": 0.074,
+          "y": 0.136522,
+          "width": 0.292667,
+          "height": 0.01993
+        },
+        "sourceElementIds": [
+          "text_0005"
+        ]
+      },
+      {
+        "id": "text_0006",
+        "content": "3 Is Maria good at music? eo c No. I'm terrible at throwing.",
+        "confidence": 0.8825,
+        "bbox": {
+          "x": 0.075696,
+          "y": 0.158973,
+          "width": 0.744272,
+          "height": 0.027209
+        },
+        "sourceElementIds": [
+          "text_0006"
+        ]
+      },
+      {
+        "id": "text_0007",
+        "content": "4 Are you good at art? (a) d Yes, he is. He's good at diving, too.",
+        "confidence": 0.9187,
+        "bbox": {
+          "x": 0.076923,
+          "y": 0.18985,
+          "width": 0.80401,
+          "height": 0.026597
+        },
+        "sourceElementIds": [
+          "text_0007"
+        ]
+      },
+      {
+        "id": "text_0008",
+        "content": "5 Are your friends good at chess? ail e No, she isn't.",
+        "confidence": 0.8742,
+        "bbox": {
+          "x": 0.075696,
+          "y": 0.21981,
+          "width": 0.602291,
+          "height": 0.026597
+        },
+        "sourceElementIds": [
+          "text_0008"
+        ]
+      },
+      {
+        "id": "text_0009",
+        "content": "6 Is Pat good at snorkeling? C) f Yes, I'm quite good at painting.",
+        "confidence": 0.9064,
+        "bbox": {
+          "x": 0.075696,
+          "y": 0.249771,
+          "width": 0.778642,
+          "height": 0.026903
+        },
+        "sourceElementIds": [
+          "text_0009"
+        ]
+      },
+      {
+        "id": "text_0017",
+        "content": "Billy gets upat seven o'clock on Mondays. He",
+        "confidence": 0.8827,
+        "bbox": {
+          "x": 0.074667,
+          "y": 0.358744,
+          "width": 0.429333,
+          "height": 0.022422
+        },
+        "sourceElementIds": [
+          "text_0017"
+        ]
+      },
+      {
+        "id": "text_0024",
+        "content": "to school with his brother. After school, he",
+        "confidence": 0.8723,
+        "bbox": {
+          "x": 0.208667,
+          "y": 0.450922,
+          "width": 0.386,
+          "height": 0.018934
+        },
+        "sourceElementIds": [
+          "text_0024"
+        ]
+      },
+      {
+        "id": "text_0025",
+        "content": ". with his friends in the park. Billy loves the park!",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.075696,
+          "y": 0.475696,
+          "width": 0.565466,
+          "height": 0.01712
+        },
+        "sourceElementIds": [
+          "text_0025"
+        ]
+      },
+      {
+        "id": "text_0030",
+        "content": "A cat doesn't have hands or Flowers and trees grow The farmer has a big",
+        "confidence": 0.9313,
+        "bbox": {
+          "x": 0.042553,
+          "y": 0.694895,
+          "width": 0.823241,
+          "height": 0.01712
+        },
+        "sourceElementIds": [
+          "text_0030"
+        ]
+      },
+      {
+        "id": "text_0041",
+        "content": "\"Yes, I'm very tired.\" new train. boftle.",
+        "confidence": 0.9186,
+        "bbox": {
+          "x": 0.042553,
+          "y": 0.896362,
+          "width": 0.685761,
+          "height": 0.018037
+        },
+        "sourceElementIds": [
+          "text_0041"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "text_0021",
+        "content": "his teeth after breakfast.",
+        "confidence": 0.9142,
+        "bbox": {
+          "x": 0.450667,
+          "y": 0.406577,
+          "width": 0.223333,
+          "height": 0.014948
+        },
+        "sourceElementIds": [
+          "text_0021"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "walks",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8148,
+        "sourceElementIds": [
+          "text_0010"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "plays",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7516,
+        "sourceElementIds": [
+          "text_0012"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "catches",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7624,
+        "sourceElementIds": [
+          "text_0013"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "gets",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.785,
+        "sourceElementIds": [
+          "text_0014"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "Henever",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.6875,
+        "sourceElementIds": [
+          "text_0023"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "ins",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.6693,
+        "sourceElementIds": [
+          "text_0032"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "Tin this",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7105,
+        "sourceElementIds": [
+          "text_0034"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "ismy",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.794,
+        "sourceElementIds": [
+          "text_0035"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "There is",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8507,
+        "sourceElementIds": [
+          "text_0036"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "My favorite t",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8559,
+        "sourceElementIds": [
+          "text_0038"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "\"Whatabigy",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8905,
+        "sourceElementIds": [
+          "text_0039"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "bottle",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7984,
+        "sourceElementIds": [
+          "text_0040"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "Ravlew 2",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7882,
+        "sourceElementIds": [
+          "text_0045"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      }
+    ],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "lines": [
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Billy gets upat seven o'clock on Mondays. He",
+            "confidence": 0.8827,
+            "bbox": {
+              "x": 0.074667,
+              "y": 0.358744,
+              "width": 0.429333,
+              "height": 0.022422
+            },
+            "sourceElementId": "text_0017",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "his teeth after breakfast.",
+            "confidence": 0.9142,
+            "bbox": {
+              "x": 0.450667,
+              "y": 0.406577,
+              "width": 0.223333,
+              "height": 0.014948
+            },
+            "sourceElementId": "text_0021",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": [
+              "spaces"
+            ]
+          }
+        ],
+        "confidence": 0.89845
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "activity",
+        "instruction": "Is Tom good at surfing? (d] a Yes, she is. She can play the piano.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.9075,
+        "sourceElementIds": [
+          "text_0003"
+        ]
+      },
+      {
+        "exerciseNumber": "5",
+        "type": "activity",
+        "instruction": "Complete the text.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.922,
+        "sourceElementIds": [
+          "text_0015"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "matching_exercise",
+        "instruction": "Match the questions with the answers.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.96,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "reading_activity",
+        "instruction": "Read and complete the words. aw or oy oi",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.9478,
+        "sourceElementIds": [
+          "text_0026"
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "title": null,
+        "headers": [],
+        "rows": [
+          [
+            "5 Are your friends good at chess? ail e No, she isn't."
+          ],
+          [
+            "6 Is Pat good at snorkeling? C) f Yes, I'm quite good at painting."
+          ],
+          [
+            "walks"
+          ],
+          [
+            "has"
+          ],
+          [
+            "plays"
+          ],
+          [
+            "catches"
+          ],
+          [
+            "gets"
+          ],
+          [
+            "5 Complete the text."
+          ],
+          [
+            "has"
+          ],
+          [
+            "Billy gets upat seven o'clock on Mondays. He"
+          ],
+          [
+            "shower and then he2"
+          ],
+          [
+            "dressed. He has breakfast"
+          ],
+          [
+            "with his family. He always"
+          ],
+          [
+            "his teeth after breakfast."
+          ],
+          [
+            "thebus to school. He always"
+          ],
+          [
+            "Henever"
+          ],
+          [
+            "to school with his brother. After school, he"
+          ],
+          [
+            ". with his friends in the park. Billy loves the park!"
+          ],
+          [
+            "Read and complete the words. aw or oy oi"
+          ],
+          [
+            "oy"
+          ],
+          [
+            "aw"
+          ],
+          [
+            "or"
+          ],
+          [
+            "A cat doesn't have hands or Flowers and trees grow The farmer has a big"
+          ],
+          [
+            "k."
+          ],
+          [
+            "ins"
+          ],
+          [
+            "feet. It has four paws."
+          ],
+          [
+            "Tin this"
+          ],
+          [
+            "ismy"
+          ],
+          [
+            "There is"
+          ],
+          [
+            "n!\""
+          ],
+          [
+            "My favorite t"
+          ],
+          [
+            "\"Whatabigy"
+          ],
+          [
+            "bottle."
+          ],
+          [
+            "\"Yes, I'm very tired.\" new train. boftle."
+          ]
+        ],
+        "tableStructureConfidence": "high",
+        "fallbackText": "Review2 Match the questions with the answers. 1 Is Tom good at surfing? (d] a Yes, she is. She can play the piano. b Yes, they are. 2 Areyou good at basketball? 3 Is Maria good at music? eo c No.I'm terrible at throwing. 4 Are you good at art? (a) d Yes, he is. He’s good at diving, too. 5 Are your friends good at chess? ail e No, she isn't. 6 Is Pat good at snorkeling? C) f Yes, I'm quite good at painting. walks has plays catches gets 5Completethetext. has Billy gets upat seven o'clock on Mondays.He showerandthen he2 dressed.Hehasbreakfast withhisfamily.Healways histeethafterbreakfast. thebus to school.Healways Henever to school with hisbrother.After school, he . with his friends in the park. Billy loves the park! Read and complete the words. aw or oy oi oy aw or A cat doesn't have hands or Flowers and trees grow The farmer has a big k. ins feet.Ithasfourpaws. Tin this ismy There is n!\" Myfavoritet \"Whatabigy bottle. “Yes, I'm very tired.” new train. boftle. Ontine Play a gamel 55 Ravlew 2",
+        "sourceElementIds": [
+          "text_0001",
+          "text_0002",
+          "text_0003",
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040",
+          "text_0041",
+          "text_0042",
+          "text_0043",
+          "text_0044",
+          "text_0045"
+        ]
+      }
+    ],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "5 Are your friends good at chess? ail e No, she isn't.",
+          "6 Is Pat good at snorkeling? C) f Yes, I'm quite good at painting.",
+          "walks",
+          "has",
+          "plays",
+          "catches",
+          "gets",
+          "5 Complete the text.",
+          "has",
+          "Billy gets upat seven o'clock on Mondays. He",
+          "shower and then he2",
+          "dressed. He has breakfast",
+          "with his family. He always",
+          "his teeth after breakfast.",
+          "thebus to school. He always",
+          "Henever",
+          "to school with his brother. After school, he",
+          ". with his friends in the park. Billy loves the park!"
+        ],
+        "position": {
+          "x": 0.020667,
+          "y": 0.19981,
+          "width": 0.866666,
+          "height": 0.313006
+        },
+        "textElementIds": [
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Read and complete the words. aw or oy oi",
+          "oy",
+          "aw",
+          "or"
+        ],
+        "position": {
+          "x": 0.055696,
+          "y": 0.524176,
+          "width": 0.621424,
+          "height": 0.060847
+        },
+        "textElementIds": [
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "A cat doesn't have hands or Flowers and trees grow The farmer has a big",
+          "k.",
+          "ins",
+          "feet. It has four paws."
+        ],
+        "position": {
+          "x": 0.022553,
+          "y": 0.674895,
+          "width": 0.863241,
+          "height": 0.080531
+        },
+        "textElementIds": [
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "nonEducationalText": [],
+    "excludedGarbage": [
+      {
+        "id": "text_0037",
+        "content": "n!\"",
+        "originalContent": "n!\"",
+        "confidence": 0.7109
+      },
+      {
+        "id": "text_0044",
+        "content": "55",
+        "originalContent": "55",
+        "confidence": 0.6204
+      }
+    ]
+  },
+  "learningContent": {
+    "pageType": "review",
+    "title": "Review 2",
+    "learningObjectives": [],
+    "targetVocabulary": [
+      {
+        "word": "walks",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8148,
+        "sourceElementIds": [
+          "text_0010"
+        ]
+      },
+      {
+        "word": "plays",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7516,
+        "sourceElementIds": [
+          "text_0012"
+        ]
+      },
+      {
+        "word": "catches",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7624,
+        "sourceElementIds": [
+          "text_0013"
+        ]
+      },
+      {
+        "word": "gets",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.785,
+        "sourceElementIds": [
+          "text_0014"
+        ]
+      },
+      {
+        "word": "Henever",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.6875,
+        "sourceElementIds": [
+          "text_0023"
+        ]
+      },
+      {
+        "word": "ins",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.6693,
+        "sourceElementIds": [
+          "text_0032"
+        ]
+      },
+      {
+        "word": "Tin this",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7105,
+        "sourceElementIds": [
+          "text_0034"
+        ]
+      },
+      {
+        "word": "ismy",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.794,
+        "sourceElementIds": [
+          "text_0035"
+        ]
+      },
+      {
+        "word": "There is",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8507,
+        "sourceElementIds": [
+          "text_0036"
+        ]
+      },
+      {
+        "word": "My favorite t",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8559,
+        "sourceElementIds": [
+          "text_0038"
+        ]
+      },
+      {
+        "word": "\"Whatabigy",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8905,
+        "sourceElementIds": [
+          "text_0039"
+        ]
+      },
+      {
+        "word": "bottle",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7984,
+        "sourceElementIds": [
+          "text_0040"
+        ]
+      },
+      {
+        "word": "Ravlew 2",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7882,
+        "sourceElementIds": [
+          "text_0045"
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "his teeth after breakfast.",
+        "meaning": null,
+        "confidence": 0.9142,
+        "sourceElementIds": [
+          "text_0021"
+        ]
+      }
+    ],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "Billy gets upat seven o'clock on Mondays. He",
+            "confidence": 0.8827
+          },
+          {
+            "speaker": null,
+            "content": "his teeth after breakfast.",
+            "confidence": 0.9142
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "activity",
+        "instruction": "Is Tom good at surfing? (d] a Yes, she is. She can play the piano.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.9075,
+        "sourceElementIds": [
+          "text_0003"
+        ]
+      },
+      {
+        "exerciseNumber": "5",
+        "type": "activity",
+        "instruction": "Complete the text.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.922,
+        "sourceElementIds": [
+          "text_0015"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "matching_exercise",
+        "instruction": "Match the questions with the answers.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.96,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "reading_activity",
+        "instruction": "Read and complete the words. aw or oy oi",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.9478,
+        "sourceElementIds": [
+          "text_0026"
+        ]
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [
+      {
+        "exerciseNumber": "1",
+        "instruction": "Is Tom good at surfing? (d] a Yes, she is. She can play the piano.",
+        "type": "activity",
+        "confidence": 0.9075
+      },
+      {
+        "exerciseNumber": "5",
+        "instruction": "Complete the text.",
+        "type": "activity",
+        "confidence": 0.922
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Play a gamel",
+        "type": "activity",
+        "confidence": 0.8542
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Read and complete the words. aw or oy oi",
+        "type": "reading_activity",
+        "confidence": 0.9478
+      }
+    ],
+    "writing": [
+      {
+        "exerciseNumber": "5",
+        "instruction": "Complete the text.",
+        "type": "activity",
+        "confidence": 0.922
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Match the questions with the answers.",
+        "type": "matching_exercise",
+        "confidence": 0.96
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Read and complete the words. aw or oy oi",
+        "type": "reading_activity",
+        "confidence": 0.9478
+      }
+    ],
+    "songsOrPoems": [],
+    "tables": [
+      {
+        "title": null,
+        "headers": [],
+        "rows": [
+          [
+            "5 Are your friends good at chess? ail e No, she isn't."
+          ],
+          [
+            "6 Is Pat good at snorkeling? C) f Yes, I'm quite good at painting."
+          ],
+          [
+            "walks"
+          ],
+          [
+            "has"
+          ],
+          [
+            "plays"
+          ],
+          [
+            "catches"
+          ],
+          [
+            "gets"
+          ],
+          [
+            "5 Complete the text."
+          ],
+          [
+            "has"
+          ],
+          [
+            "Billy gets upat seven o'clock on Mondays. He"
+          ],
+          [
+            "shower and then he2"
+          ],
+          [
+            "dressed. He has breakfast"
+          ],
+          [
+            "with his family. He always"
+          ],
+          [
+            "his teeth after breakfast."
+          ],
+          [
+            "thebus to school. He always"
+          ],
+          [
+            "Henever"
+          ],
+          [
+            "to school with his brother. After school, he"
+          ],
+          [
+            ". with his friends in the park. Billy loves the park!"
+          ],
+          [
+            "Read and complete the words. aw or oy oi"
+          ],
+          [
+            "oy"
+          ],
+          [
+            "aw"
+          ],
+          [
+            "or"
+          ],
+          [
+            "A cat doesn't have hands or Flowers and trees grow The farmer has a big"
+          ],
+          [
+            "k."
+          ],
+          [
+            "ins"
+          ],
+          [
+            "feet. It has four paws."
+          ],
+          [
+            "Tin this"
+          ],
+          [
+            "ismy"
+          ],
+          [
+            "There is"
+          ],
+          [
+            "n!\""
+          ],
+          [
+            "My favorite t"
+          ],
+          [
+            "\"Whatabigy"
+          ],
+          [
+            "bottle."
+          ],
+          [
+            "\"Yes, I'm very tired.\" new train. boftle."
+          ]
+        ],
+        "tableStructureConfidence": "high",
+        "fallbackText": "Review2 Match the questions with the answers. 1 Is Tom good at surfing? (d] a Yes, she is. She can play the piano. b Yes, they are. 2 Areyou good at basketball? 3 Is Maria good at music? eo c No.I'm terrible at throwing. 4 Are you good at art? (a) d Yes, he is. He’s good at diving, too. 5 Are your friends good at chess? ail e No, she isn't. 6 Is Pat good at snorkeling? C) f Yes, I'm quite good at painting. walks has plays catches gets 5Completethetext. has Billy gets upat seven o'clock on Mondays.He showerandthen he2 dressed.Hehasbreakfast withhisfamily.Healways histeethafterbreakfast. thebus to school.Healways Henever to school with hisbrother.After school, he . with his friends in the park. Billy loves the park! Read and complete the words. aw or oy oi oy aw or A cat doesn't have hands or Flowers and trees grow The farmer has a big k. ins feet.Ithasfourpaws. Tin this ismy There is n!\" Myfavoritet \"Whatabigy bottle. “Yes, I'm very tired.” new train. boftle. Ontine Play a gamel 55 Ravlew 2",
+        "sourceElementIds": [
+          "text_0001",
+          "text_0002",
+          "text_0003",
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040",
+          "text_0041",
+          "text_0042",
+          "text_0043",
+          "text_0044",
+          "text_0045"
+        ]
+      }
+    ]
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "text_repaired": 14,
+      "text_kept": 43,
+      "garbage_excluded": 2,
+      "vocab_kept": 15,
+      "vocab_rejected": 1,
+      "dialogue_lines": 2,
+      "dialogues_reconstructed": 1,
+      "exercises_reconstructed": 5,
+      "tables": 1
+    },
+    "averageOcrConfidence": 0.8138
+  },
+  "metadata": {
+    "book": "Family and Friends 3 Student Book (American)",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_ff3_v1",
+    "originalOcrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "originalAverageConfidence": 0.8138,
+    "noHallucinationPolicy": "Definitions, translations, speaker names, answers, and grammar rules are null or omitted unless visibly supported by page OCR/PDF. Text repairs are limited to spacing, punctuation, and clear OCR character errors."
+  }
+}

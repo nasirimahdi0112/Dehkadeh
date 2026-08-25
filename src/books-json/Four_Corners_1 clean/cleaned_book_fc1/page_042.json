@@ -1,0 +1,3143 @@
+{
+  "pageNumber": 39,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 42,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 1_Part2.pdf",
+    "pdfLocalPageNumber": 16,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.84,
+          "y": 0.026667,
+          "width": 0.02902,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "unit",
+            "confidence": 0.7612
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "unit",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Pronunciation Reduction of to",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.11098,
+          "y": 0.088182,
+          "width": 0.427059,
+          "height": 0.018788
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Pronunciation Reductionof to",
+            "confidence": 0.8961
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Pronunciation Reduction of to",
+            "confidence": 0.9575
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "A Listen and repeat. Notice how to is pronounced as /ta/.",
+        "confidence": 0.9196,
+        "bbox": {
+          "x": 0.106,
+          "y": 0.120556,
+          "width": 0.423333,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A  Listen and repeat. Notice how to is pronounced as /ta/.",
+            "confidence": 0.9196
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A ©) Listen and repeat. Notice how to is pronounced as /ta/.",
+            "confidence": 0.85
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "/er/",
+        "confidence": 0.6063,
+        "bbox": {
+          "x": 0.173333,
+          "y": 0.146316,
+          "width": 0.032667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0005",
+        "type": "heading",
+        "content": "/ea/",
+        "confidence": 0.579,
+        "bbox": {
+          "x": 0.491333,
+          "y": 0.147347,
+          "width": 0.032,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0006",
+        "type": "heading",
+        "content": "/ta/ /ta/ /ta/",
+        "confidence": 0.9067,
+        "bbox": {
+          "x": 0.177255,
+          "y": 0.149091,
+          "width": 0.341569,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "/ea/",
+            "confidence": 0.6289
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "/ta/ /ta/ /ta/",
+            "confidence": 0.9067
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "It's tent five.",
+        "confidence": 0.8872,
+        "bbox": {
+          "x": 0.129333,
+          "y": 0.166409,
+          "width": 0.097333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "It's fivet two.",
+        "confidence": 0.8693,
+        "bbox": {
+          "x": 0.269333,
+          "y": 0.167439,
+          "width": 0.1,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "It'saquartert one.",
+        "confidence": 0.9079,
+        "bbox": {
+          "x": 0.41,
+          "y": 0.168985,
+          "width": 0.136667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "It'saquartert one.",
+            "confidence": 0.9079
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "It’s tent five. It’s five t two. It’s aquartert one.",
+            "confidence": 0.807
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "sentence",
+        "content": "B Listen to the conversations, Then practice them. Reduce to to /ta/.",
+        "confidence": 0.9048,
+        "bbox": {
+          "x": 0.106667,
+          "y": 0.189078,
+          "width": 0.502,
+          "height": 0.019062
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B  Listen to the conversations, Then practice them. Reduce to to /ta/.",
+            "confidence": 0.9048
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B £)} Listen to the conversations. Then practice them. Reduce to to /ta/.",
+            "confidence": 0.8531
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "71 12",
+        "confidence": 0.7207,
+        "bbox": {
+          "x": 0.395333,
+          "y": 0.222566,
+          "width": 0.040667,
+          "height": 0.020608
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "11 12",
+        "confidence": 0.7722,
+        "bbox": {
+          "x": 0.162,
+          "y": 0.224626,
+          "width": 0.036,
+          "height": 0.018547
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "10",
+        "confidence": 0.6607,
+        "bbox": {
+          "x": 0.389333,
+          "y": 0.238022,
+          "width": 0.016667,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "3-",
+        "confidence": 0.6483,
+        "bbox": {
+          "x": 0.213333,
+          "y": 0.249871,
+          "width": 0.016667,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "4、",
+        "confidence": 0.6251,
+        "bbox": {
+          "x": 0.447333,
+          "y": 0.26069,
+          "width": 0.015333,
+          "height": 0.010819
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "Is it fiveto one?",
+        "confidence": 0.8725,
+        "bbox": {
+          "x": 0.126,
+          "y": 0.301906,
+          "width": 0.11,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Is it ten to eight?",
+        "confidence": 0.8455,
+        "bbox": {
+          "x": 0.374667,
+          "y": 0.301906,
+          "width": 0.114667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "sentence",
+        "content": "A Is it a quarterto three?",
+        "confidence": 0.8884,
+        "bbox": {
+          "x": 0.603333,
+          "y": 0.301906,
+          "width": 0.174,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Is it a quarterto three?",
+            "confidence": 0.8884
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Isit five to one? A Is it ten to eight? A Is ita quarter to three?",
+            "confidence": 0.6747
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "No, it's ten to one.",
+        "confidence": 0.856,
+        "bbox": {
+          "x": 0.125333,
+          "y": 0.321484,
+          "width": 0.127333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "B. No, it's twentyto three.",
+        "confidence": 0.8858,
+        "bbox": {
+          "x": 0.603333,
+          "y": 0.321999,
+          "width": 0.177333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "paragraph",
+        "content": "B No, it’s ten to one. 8 No, it’s a quarter to eight. 8 No, it’s twenty to three.",
+        "confidence": 0.8805,
+        "bbox": {
+          "x": 0.11098,
+          "y": 0.323636,
+          "width": 0.668627,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B No, it's a quarterto eight.",
+            "confidence": 0.8679
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B No, it’s ten to one. 8 No, it’s a quarter to eight. 8 No, it’s twenty to three.",
+            "confidence": 0.8805
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "heading",
+        "content": "Listening Am I late?",
+        "confidence": 0.8524,
+        "bbox": {
+          "x": 0.107333,
+          "y": 0.35085,
+          "width": 0.284667,
+          "height": 0.023184
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listening Am | late?",
+            "confidence": 0.74
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listening Am I late?",
+            "confidence": 0.8524
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "sentence",
+        "content": "A ()} Listen to five conversations about time. Write the time of each thing.",
+        "confidence": 0.8364,
+        "bbox": {
+          "x": 0.109412,
+          "y": 0.382727,
+          "width": 0.51451,
+          "height": 0.017879
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "A ()} Listen to five conversations about time. Write the time of each thing.",
+            "confidence": 0.8364
+          },
+          {
+            "engine": "rapidocr",
+            "content": "A Listen to five conversations about time.Write the time of each thing.",
+            "confidence": 0.8825
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "the train",
+        "confidence": 0.8505,
+        "bbox": {
+          "x": 0.399333,
+          "y": 0.408037,
+          "width": 0.062667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "the train",
+            "confidence": 0.8505
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 the movie 2 Rod’s class 3 the train 4 the bus 5S Susan’s class",
+            "confidence": 0.8153
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "the bus",
+        "confidence": 0.8656,
+        "bbox": {
+          "x": 0.528667,
+          "y": 0.408037,
+          "width": 0.056667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "the movie",
+        "confidence": 0.8189,
+        "bbox": {
+          "x": 0.15,
+          "y": 0.408552,
+          "width": 0.074,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "Rod's class",
+        "confidence": 0.8853,
+        "bbox": {
+          "x": 0.27,
+          "y": 0.408552,
+          "width": 0.078,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "Susan's class",
+        "confidence": 0.8531,
+        "bbox": {
+          "x": 0.658,
+          "y": 0.408552,
+          "width": 0.090667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "10:00",
+        "confidence": 0.8305,
+        "bbox": {
+          "x": 0.156667,
+          "y": 0.422978,
+          "width": 0.062667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "10:00",
+            "confidence": 0.8305
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "_10:00 _",
+            "confidence": 0.27
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "instruction",
+        "content": "Listen again. Are the people early or late? Circle the correct answers.",
+        "confidence": 0.9122,
+        "bbox": {
+          "x": 0.125333,
+          "y": 0.449768,
+          "width": 0.5,
+          "height": 0.017517
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listen again. Are the people early or late? Circle the correct answers.",
+            "confidence": 0.9122
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B (Listen again. Are the people early or late? Circle the correct answers.",
+            "confidence": 0.8808
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "early/late",
+        "confidence": 0.8862,
+        "bbox": {
+          "x": 0.152,
+          "y": 0.472437,
+          "width": 0.078667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 €arly)/ late 2. early/late 3 early /late 4 early/late 5 early /late",
+            "confidence": 0.5862
+          },
+          {
+            "engine": "rapidocr",
+            "content": "early/late",
+            "confidence": 0.8862
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "2early /late",
+        "confidence": 0.8904,
+        "bbox": {
+          "x": 0.233333,
+          "y": 0.472437,
+          "width": 0.113333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "early /late",
+        "confidence": 0.7919,
+        "bbox": {
+          "x": 0.656667,
+          "y": 0.472437,
+          "width": 0.076667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "3early /late",
+        "confidence": 0.8119,
+        "bbox": {
+          "x": 0.376667,
+          "y": 0.473467,
+          "width": 0.098667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "early/late",
+        "confidence": 0.8517,
+        "bbox": {
+          "x": 0.53,
+          "y": 0.473467,
+          "width": 0.076,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "heading",
+        "content": "Speaking What time is...?",
+        "confidence": 0.9151,
+        "bbox": {
+          "x": 0.108667,
+          "y": 0.501803,
+          "width": 0.374667,
+          "height": 0.022154
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Speaking What time is...?",
+            "confidence": 0.9151
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Speaking What time is...?",
+            "confidence": 0.615
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "heading",
+        "content": "PAIRWORK",
+        "confidence": 0.8585,
+        "bbox": {
+          "x": 0.134,
+          "y": 0.536837,
+          "width": 0.078,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "sentence",
+        "content": "A Interview your partner. Take notes.",
+        "confidence": 0.9583,
+        "bbox": {
+          "x": 0.110196,
+          "y": 0.538182,
+          "width": 0.34902,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Interview your partner.Take notes.",
+            "confidence": 0.9302
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Interview your partner. Take notes.",
+            "confidence": 0.9583
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "What time is your...?",
+        "confidence": 0.8831,
+        "bbox": {
+          "x": 0.110667,
+          "y": 0.564142,
+          "width": 0.186667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What time is your...?",
+            "confidence": 0.8831
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What time is your... ?",
+            "confidence": 0.774
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "lunchbreak",
+        "confidence": 0.9012,
+        "bbox": {
+          "x": 0.431333,
+          "y": 0.73931,
+          "width": 0.082667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "label",
+        "content": "favoriteclass",
+        "confidence": 0.8784,
+        "bbox": {
+          "x": 0.18,
+          "y": 0.739825,
+          "width": 0.089333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "paragraph",
+        "content": "favorite class lunch break favorite TV show",
+        "confidence": 0.9586,
+        "bbox": {
+          "x": 0.180392,
+          "y": 0.740909,
+          "width": 0.592549,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "favoriteTVshow",
+            "confidence": 0.9271
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "favorite class lunch break favorite TV show",
+            "confidence": 0.9586
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "dialogue_line",
+        "content": "A: What time is your favorite class?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.13451,
+          "y": 0.787879,
+          "width": 0.269804,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: What time is your favorite class?",
+            "confidence": 0.9274
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: What time is your favorite class?",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "dialogue_line",
+        "content": "B: It's at 7:30 a.m. What time is yours?",
+        "confidence": 0.9181,
+        "bbox": {
+          "x": 0.133333,
+          "y": 0.808346,
+          "width": 0.301333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B: It's at 7:30 a.m. What time is yours?",
+            "confidence": 0.9181
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: It's at 7:30 a.m. What time is yours?",
+            "confidence": 0.9311
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0045",
+        "type": "dialogue_line",
+        "content": "A: Mine is at 8:00 p.m. It's this class!",
+        "confidence": 0.9113,
+        "bbox": {
+          "x": 0.133333,
+          "y": 0.829469,
+          "width": 0.283333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: Mine is at 8:00 p.m. It's this class!",
+            "confidence": 0.9113
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: Mine is at 8:00 p.m. It's this class!",
+            "confidence": 0.9144
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0046",
+        "type": "heading",
+        "content": "PAIRWORK",
+        "confidence": 0.8612,
+        "bbox": {
+          "x": 0.135333,
+          "y": 0.858836,
+          "width": 0.078667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0047",
+        "type": "sentence",
+        "content": "B Tell another classmate about your partner’s answers.",
+        "confidence": 0.9475,
+        "bbox": {
+          "x": 0.113333,
+          "y": 0.859394,
+          "width": 0.472157,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Tellanotherclassmateaboutyourpartner'sanswers.",
+            "confidence": 0.93
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Tell another classmate about your partner’s answers.",
+            "confidence": 0.9475
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0048",
+        "type": "sentence",
+        "content": "\"Ji-sung's favorite class is at 7:30 a.m.\"",
+        "confidence": 0.9077,
+        "bbox": {
+          "x": 0.134667,
+          "y": 0.879444,
+          "width": 0.300667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"Ji-sung's favorite class is at 7:30 a.m.\"",
+            "confidence": 0.9077
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "‘Ji-sung’s favorite class is at 7:30 a.m.”",
+            "confidence": 0.8486
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0049",
+        "type": "label",
+        "content": "39",
+        "confidence": 0.5536,
+        "bbox": {
+          "x": 0.917333,
+          "y": 0.936631,
+          "width": 0.023333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0050",
+        "type": "sentence",
+        "content": "| canask for and tell the time. ®",
+        "confidence": 0.9163,
+        "bbox": {
+          "x": 0.681176,
+          "y": 0.942424,
+          "width": 0.196078,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "| canask for and tell the time. ®",
+            "confidence": 0.9163
+          },
+          {
+            "engine": "rapidocr",
+            "content": "canask for and tell the time.",
+            "confidence": 0.8899
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "Pronunciation Reduction of to",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.11098,
+          "y": 0.088182,
+          "width": 0.427059,
+          "height": 0.018788
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.9575
+      },
+      {
+        "word": "the train",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.399333,
+          "y": 0.408037,
+          "width": 0.062667,
+          "height": 0.013395
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8505
+      },
+      {
+        "word": "the bus",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.528667,
+          "y": 0.408037,
+          "width": 0.056667,
+          "height": 0.013395
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8656
+      },
+      {
+        "word": "the movie",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.15,
+          "y": 0.408552,
+          "width": 0.074,
+          "height": 0.01185
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8189
+      },
+      {
+        "word": "Rod's class",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.27,
+          "y": 0.408552,
+          "width": 0.078,
+          "height": 0.01185
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8853
+      },
+      {
+        "word": "Susan's class",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.658,
+          "y": 0.408552,
+          "width": 0.090667,
+          "height": 0.01185
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8531
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Is it fiveto one?",
+            "confidence": 0.8725,
+            "bbox": {
+              "x": 0.126,
+              "y": 0.301906,
+              "width": 0.11,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0016",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Is it ten to eight?",
+            "confidence": 0.8455,
+            "bbox": {
+              "x": 0.374667,
+              "y": 0.301906,
+              "width": 0.114667,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0017",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "No, it's ten to one.",
+            "confidence": 0.856,
+            "bbox": {
+              "x": 0.125333,
+              "y": 0.321484,
+              "width": 0.127333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0019",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "B. No, it's twentyto three.",
+            "confidence": 0.8858,
+            "bbox": {
+              "x": 0.603333,
+              "y": 0.321999,
+              "width": 0.177333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0020",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "What time is your...?",
+            "confidence": 0.8831,
+            "bbox": {
+              "x": 0.110667,
+              "y": 0.564142,
+              "width": 0.186667,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0039",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "A: What time is your favorite class?",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.13451,
+              "y": 0.787879,
+              "width": 0.269804,
+              "height": 0.013333
+            },
+            "sourceElementId": "text_0043",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "B: It's at 7:30 a.m. What time is yours?",
+            "confidence": 0.9181,
+            "bbox": {
+              "x": 0.133333,
+              "y": 0.808346,
+              "width": 0.301333,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0044",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "A: Mine is at 8:00 p.m. It's this class!",
+            "confidence": 0.9113,
+            "bbox": {
+              "x": 0.133333,
+              "y": 0.829469,
+              "width": 0.283333,
+              "height": 0.015971
+            },
+            "sourceElementId": "text_0045",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "\"Ji-sung's favorite class is at 7:30 a.m.\"",
+            "confidence": 0.9077,
+            "bbox": {
+              "x": 0.134667,
+              "y": 0.879444,
+              "width": 0.300667,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0048",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen and repeat. Notice how to is pronounced as /ta/.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0003"
+        ],
+        "confidence": 0.9196
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "listening_activity",
+        "instruction": "Listen to the conversations, Then practice them. Reduce to to /ta/.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0010"
+        ],
+        "confidence": 0.9048
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "()} Listen to five conversations about time. Write the time of each thing.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0023"
+        ],
+        "confidence": 0.8364
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "exercise",
+        "instruction": "Tell another classmate about your partner’s answers.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0047"
+        ],
+        "confidence": 0.9475
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "71 12",
+          "11 12",
+          "10",
+          "3-",
+          "4、",
+          "Is it fiveto one?",
+          "Is it ten to eight?",
+          "A Is it a quarterto three?",
+          "No, it's ten to one.",
+          "B. No, it's twentyto three.",
+          "B No, it’s ten to one. 8 No, it’s a quarter to eight. 8 No, it’s twenty to three.",
+          "Listening Am I late?",
+          "A ()} Listen to five conversations about time. Write the time of each thing.",
+          "the train",
+          "the bus",
+          "the movie",
+          "Rod's class",
+          "Susan's class",
+          "10:00",
+          "Listen again. Are the people early or late? Circle the correct answers."
+        ],
+        "position": {
+          "x": 0.087333,
+          "y": 0.20256600000000002,
+          "width": 0.713333,
+          "height": 0.284719
+        },
+        "textElementIds": [
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "early/late",
+          "2early /late",
+          "early /late",
+          "3early /late",
+          "early/late",
+          "Speaking What time is...?",
+          "PAIRWORK",
+          "A Interview your partner. Take notes.",
+          "What time is your...?"
+        ],
+        "position": {
+          "x": 0.088667,
+          "y": 0.452437,
+          "width": 0.6646670000000001,
+          "height": 0.14613100000000012
+        },
+        "textElementIds": [
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "lunchbreak",
+          "favoriteclass",
+          "favorite class lunch break favorite TV show",
+          "A: What time is your favorite class?",
+          "B: It's at 7:30 a.m. What time is yours?",
+          "A: Mine is at 8:00 p.m. It's this class!",
+          "PAIRWORK",
+          "B Tell another classmate about your partner’s answers.",
+          "\"Ji-sung's favorite class is at 7:30 a.m.\""
+        ],
+        "position": {
+          "x": 0.093333,
+          "y": 0.71931,
+          "width": 0.699608,
+          "height": 0.195075
+        },
+        "textElementIds": [
+          "text_0040",
+          "text_0041",
+          "text_0042",
+          "text_0043",
+          "text_0044",
+          "text_0045",
+          "text_0046",
+          "text_0047",
+          "text_0048"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "unit\nPronunciation Reductionof to\nA  Listen and repeat. Notice how to is pronounced as /ta/.\n/er/\n/ea/\n/ea/\nIt's tent five.\nIt's fivet two.\nIt'saquartert one.\nB  Listen to the conversations, Then practice them. Reduce to to /ta/.\n71 12\n11 12\n10\n3-\n4、\nIs it fiveto one?\nIs it ten to eight?\nA Is it a quarterto three?\nNo, it's ten to one.\nB No, it's a quarterto eight.\nB. No, it's twentyto three.\nListening Am I late?\nA Listen to five conversations about time.Write the time of each thing.\nthe train\nthe bus\nthe movie\nRod's class\nSusan's class\n10:00\nListen again. Are the people early or late? Circle the correct answers.\nearly/late\n2early /late\nearly /late\n3early /late\nearly/late\nSpeaking What time is...?\nPAIRWORK\nInterview your partner.Take notes.\nWhat time is your...?\nlunchbreak\nfavoriteclass\nfavoriteTVshow\nA: What time is your favorite class?\nB: It's at 7:30 a.m. What time is yours?\nA: Mine is at 8:00 p.m. It's this class!\nPAIRWORK\nTellanotherclassmateaboutyourpartner'sanswers.\n\"Ji-sung's favorite class is at 7:30 a.m.\"\n39\ncanask for and tell the time.\ndehkhodaedu.com",
+      "tesseract_psm3": "unit\n\nPronunciation Reduction of to\n\nA ©) Listen and repeat. Notice how to is pronounced as /ta/.\n\n/ta/ /ta/ /ta/\nIt’s tent five. It’s five t two. It’s aquartert one.\n\nB £)} Listen to the conversations. Then practice them. Reduce to to /ta/.\n\nA Isit five to one? A Is it ten to eight? A Is ita quarter to three?\n\nB No, it’s ten to one. 8 No, it’s a quarter to eight. 8 No, it’s twenty to three.\n\nListening Am | late?\n\nA ()} Listen to five conversations about time. Write the time of each thing.\n\n1 the movie 2 Rod’s class 3 the train 4 the bus 5S Susan’s class\n_10:00 _\n\nB (Listen again. Are the people early or late? Circle the correct answers.\n1 €arly)/ late 2. early/late 3 early /late 4 early/late 5 early /late\n\nSpeaking What time is...?\n\nA Interview your partner. Take notes.\n\nWhat time is your... ?\n\nfavorite class lunch break favorite TV show\n\nA: What time is your favorite class?\nB: It's at 7:30 a.m. What time is yours?\nA: Mine is at 8:00 p.m. It's this class!\n\nB Tell another classmate about your partner’s answers.\n‘Ji-sung’s favorite class is at 7:30 a.m.”\n\n| canask for and tell the time. ®\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8482,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "9 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "lesson",
+    "headings": [
+      "unit",
+      "Pronunciation Reduction of to",
+      "A Listen and repeat. Notice how to is pronounced as /ta/.",
+      "/er/",
+      "/ea/",
+      "/ta/ /ta/ /ta/",
+      "Listening Am I late?",
+      "Speaking What time is...?",
+      "Pair work",
+      "Pair work"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.84,
+          "y": 0.026667,
+          "width": 0.02902,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "unit",
+            "confidence": 0.7612
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "unit",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Pronunciation Reduction of to",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.11098,
+          "y": 0.088182,
+          "width": 0.427059,
+          "height": 0.018788
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Pronunciation Reductionof to",
+            "confidence": 0.8961
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Pronunciation Reduction of to",
+            "confidence": 0.9575
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "A Listen and repeat. Notice how to is pronounced as /ta/.",
+        "confidence": 0.9196,
+        "bbox": {
+          "x": 0.106,
+          "y": 0.120556,
+          "width": 0.423333,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A  Listen and repeat. Notice how to is pronounced as /ta/.",
+            "confidence": 0.9196
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A ©) Listen and repeat. Notice how to is pronounced as /ta/.",
+            "confidence": 0.85
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "/er/",
+        "confidence": 0.6063,
+        "bbox": {
+          "x": 0.173333,
+          "y": 0.146316,
+          "width": 0.032667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0005",
+        "type": "heading",
+        "content": "/ea/",
+        "confidence": 0.579,
+        "bbox": {
+          "x": 0.491333,
+          "y": 0.147347,
+          "width": 0.032,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0006",
+        "type": "heading",
+        "content": "/ta/ /ta/ /ta/",
+        "confidence": 0.9067,
+        "bbox": {
+          "x": 0.177255,
+          "y": 0.149091,
+          "width": 0.341569,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "/ea/",
+            "confidence": 0.6289
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "/ta/ /ta/ /ta/",
+            "confidence": 0.9067
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "It's tent five.",
+        "confidence": 0.8872,
+        "bbox": {
+          "x": 0.129333,
+          "y": 0.166409,
+          "width": 0.097333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "It's fivet two.",
+        "confidence": 0.8693,
+        "bbox": {
+          "x": 0.269333,
+          "y": 0.167439,
+          "width": 0.1,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "It's a quarter't one.",
+        "confidence": 0.9079,
+        "bbox": {
+          "x": 0.41,
+          "y": 0.168985,
+          "width": 0.136667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "It'saquartert one.",
+            "confidence": 0.9079
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "It’s tent five. It’s five t two. It’s aquartert one.",
+            "confidence": 0.807
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "sentence",
+        "content": "B Listen to the conversations, Then practice them. Reduce to to /ta/.",
+        "confidence": 0.9048,
+        "bbox": {
+          "x": 0.106667,
+          "y": 0.189078,
+          "width": 0.502,
+          "height": 0.019062
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B  Listen to the conversations, Then practice them. Reduce to to /ta/.",
+            "confidence": 0.9048
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B £)} Listen to the conversations. Then practice them. Reduce to to /ta/.",
+            "confidence": 0.8531
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "audio_track",
+        "content": "10",
+        "confidence": 0.6607,
+        "bbox": {
+          "x": 0.389333,
+          "y": 0.238022,
+          "width": 0.016667,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0014",
+        "type": "audio_track",
+        "content": "3",
+        "confidence": 0.6483,
+        "bbox": {
+          "x": 0.213333,
+          "y": 0.249871,
+          "width": 0.016667,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "Is it five to one?",
+        "confidence": 0.8725,
+        "bbox": {
+          "x": 0.126,
+          "y": 0.301906,
+          "width": 0.11,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Is it ten to eight?",
+        "confidence": 0.8455,
+        "bbox": {
+          "x": 0.374667,
+          "y": 0.301906,
+          "width": 0.114667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "sentence",
+        "content": "A Is it a quarter to three?",
+        "confidence": 0.8884,
+        "bbox": {
+          "x": 0.603333,
+          "y": 0.301906,
+          "width": 0.174,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Is it a quarterto three?",
+            "confidence": 0.8884
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Isit five to one? A Is it ten to eight? A Is ita quarter to three?",
+            "confidence": 0.6747
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "No, it's ten to one.",
+        "confidence": 0.856,
+        "bbox": {
+          "x": 0.125333,
+          "y": 0.321484,
+          "width": 0.127333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "B. No, it's twenty to three.",
+        "confidence": 0.8858,
+        "bbox": {
+          "x": 0.603333,
+          "y": 0.321999,
+          "width": 0.177333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "paragraph",
+        "content": "B No, it's ten to one. 8 No, it's a quarter to eight. 8 No, it's twenty to three.",
+        "confidence": 0.8805,
+        "bbox": {
+          "x": 0.11098,
+          "y": 0.323636,
+          "width": 0.668627,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B No, it's a quarterto eight.",
+            "confidence": 0.8679
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B No, it’s ten to one. 8 No, it’s a quarter to eight. 8 No, it’s twenty to three.",
+            "confidence": 0.8805
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "heading",
+        "content": "Listening Am I late?",
+        "confidence": 0.8524,
+        "bbox": {
+          "x": 0.107333,
+          "y": 0.35085,
+          "width": 0.284667,
+          "height": 0.023184
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listening Am | late?",
+            "confidence": 0.74
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listening Am I late?",
+            "confidence": 0.8524
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "sentence",
+        "content": "A ()} Listen to five conversations about time. Write the time of each thing.",
+        "confidence": 0.8364,
+        "bbox": {
+          "x": 0.109412,
+          "y": 0.382727,
+          "width": 0.51451,
+          "height": 0.017879
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "A ()} Listen to five conversations about time. Write the time of each thing.",
+            "confidence": 0.8364
+          },
+          {
+            "engine": "rapidocr",
+            "content": "A Listen to five conversations about time.Write the time of each thing.",
+            "confidence": 0.8825
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "the train",
+        "confidence": 0.8505,
+        "bbox": {
+          "x": 0.399333,
+          "y": 0.408037,
+          "width": 0.062667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "the train",
+            "confidence": 0.8505
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 the movie 2 Rod’s class 3 the train 4 the bus 5S Susan’s class",
+            "confidence": 0.8153
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "the bus",
+        "confidence": 0.8656,
+        "bbox": {
+          "x": 0.528667,
+          "y": 0.408037,
+          "width": 0.056667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "the movie",
+        "confidence": 0.8189,
+        "bbox": {
+          "x": 0.15,
+          "y": 0.408552,
+          "width": 0.074,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "Rod's class",
+        "confidence": 0.8853,
+        "bbox": {
+          "x": 0.27,
+          "y": 0.408552,
+          "width": 0.078,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "Susan's class",
+        "confidence": 0.8531,
+        "bbox": {
+          "x": 0.658,
+          "y": 0.408552,
+          "width": 0.090667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "instruction",
+        "content": "Listen again. Are the people early or late? Circle the correct answers.",
+        "confidence": 0.9122,
+        "bbox": {
+          "x": 0.125333,
+          "y": 0.449768,
+          "width": 0.5,
+          "height": 0.017517
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listen again. Are the people early or late? Circle the correct answers.",
+            "confidence": 0.9122
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B (Listen again. Are the people early or late? Circle the correct answers.",
+            "confidence": 0.8808
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "early/late",
+        "confidence": 0.8862,
+        "bbox": {
+          "x": 0.152,
+          "y": 0.472437,
+          "width": 0.078667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 €arly)/ late 2. early/late 3 early /late 4 early/late 5 early /late",
+            "confidence": 0.5862
+          },
+          {
+            "engine": "rapidocr",
+            "content": "early/late",
+            "confidence": 0.8862
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "2early /late",
+        "confidence": 0.8904,
+        "bbox": {
+          "x": 0.233333,
+          "y": 0.472437,
+          "width": 0.113333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "early /late",
+        "confidence": 0.7919,
+        "bbox": {
+          "x": 0.656667,
+          "y": 0.472437,
+          "width": 0.076667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "3early /late",
+        "confidence": 0.8119,
+        "bbox": {
+          "x": 0.376667,
+          "y": 0.473467,
+          "width": 0.098667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "early/late",
+        "confidence": 0.8517,
+        "bbox": {
+          "x": 0.53,
+          "y": 0.473467,
+          "width": 0.076,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "heading",
+        "content": "Speaking What time is...?",
+        "confidence": 0.9151,
+        "bbox": {
+          "x": 0.108667,
+          "y": 0.501803,
+          "width": 0.374667,
+          "height": 0.022154
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Speaking What time is...?",
+            "confidence": 0.9151
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Speaking What time is...?",
+            "confidence": 0.615
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "heading",
+        "content": "Pair work",
+        "confidence": 0.8585,
+        "bbox": {
+          "x": 0.134,
+          "y": 0.536837,
+          "width": 0.078,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "sentence",
+        "content": "A Interview your partner. Take notes.",
+        "confidence": 0.9583,
+        "bbox": {
+          "x": 0.110196,
+          "y": 0.538182,
+          "width": 0.34902,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Interview your partner.Take notes.",
+            "confidence": 0.9302
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Interview your partner. Take notes.",
+            "confidence": 0.9583
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "What time is your...?",
+        "confidence": 0.8831,
+        "bbox": {
+          "x": 0.110667,
+          "y": 0.564142,
+          "width": 0.186667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What time is your...?",
+            "confidence": 0.8831
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What time is your... ?",
+            "confidence": 0.774
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "lunch break",
+        "confidence": 0.9012,
+        "bbox": {
+          "x": 0.431333,
+          "y": 0.73931,
+          "width": 0.082667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "label",
+        "content": "favorite class",
+        "confidence": 0.8784,
+        "bbox": {
+          "x": 0.18,
+          "y": 0.739825,
+          "width": 0.089333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "paragraph",
+        "content": "favorite class lunch break favorite TV show",
+        "confidence": 0.9586,
+        "bbox": {
+          "x": 0.180392,
+          "y": 0.740909,
+          "width": 0.592549,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "favoriteTVshow",
+            "confidence": 0.9271
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "favorite class lunch break favorite TV show",
+            "confidence": 0.9586
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "dialogue_line",
+        "content": "A: What time is your favorite class?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.13451,
+          "y": 0.787879,
+          "width": 0.269804,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: What time is your favorite class?",
+            "confidence": 0.9274
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: What time is your favorite class?",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "dialogue_line",
+        "content": "B: It's at 7:30 a. m. What time is yours?",
+        "confidence": 0.9181,
+        "bbox": {
+          "x": 0.133333,
+          "y": 0.808346,
+          "width": 0.301333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B: It's at 7:30 a.m. What time is yours?",
+            "confidence": 0.9181
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: It's at 7:30 a.m. What time is yours?",
+            "confidence": 0.9311
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0045",
+        "type": "dialogue_line",
+        "content": "A: Mine is at 8:00 p. m. It's this class!",
+        "confidence": 0.9113,
+        "bbox": {
+          "x": 0.133333,
+          "y": 0.829469,
+          "width": 0.283333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: Mine is at 8:00 p.m. It's this class!",
+            "confidence": 0.9113
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: Mine is at 8:00 p.m. It's this class!",
+            "confidence": 0.9144
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0046",
+        "type": "heading",
+        "content": "Pair work",
+        "confidence": 0.8612,
+        "bbox": {
+          "x": 0.135333,
+          "y": 0.858836,
+          "width": 0.078667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0047",
+        "type": "sentence",
+        "content": "B Tell another classmate about your partner's answers.",
+        "confidence": 0.9475,
+        "bbox": {
+          "x": 0.113333,
+          "y": 0.859394,
+          "width": 0.472157,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Tellanotherclassmateaboutyourpartner'sanswers.",
+            "confidence": 0.93
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Tell another classmate about your partner’s answers.",
+            "confidence": 0.9475
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0048",
+        "type": "sentence",
+        "content": "Ji-sung's favorite class is at 7:30 a. m.",
+        "confidence": 0.9077,
+        "bbox": {
+          "x": 0.134667,
+          "y": 0.879444,
+          "width": 0.300667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"Ji-sung's favorite class is at 7:30 a.m.\"",
+            "confidence": 0.9077
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "‘Ji-sung’s favorite class is at 7:30 a.m.”",
+            "confidence": 0.8486
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0049",
+        "type": "audio_track",
+        "content": "39",
+        "confidence": 0.5536,
+        "bbox": {
+          "x": 0.917333,
+          "y": 0.936631,
+          "width": 0.023333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "fullTextReadingOrder": [
+      "unit",
+      "Pronunciation Reduction of to",
+      "A Listen and repeat. Notice how to is pronounced as /ta/.",
+      "/er/",
+      "/ea/",
+      "/ta/ /ta/ /ta/",
+      "It's tent five.",
+      "It's fivet two.",
+      "It's a quarter't one.",
+      "B Listen to the conversations, Then practice them. Reduce to to /ta/.",
+      "Is it five to one?",
+      "Is it ten to eight?",
+      "A Is it a quarter to three?",
+      "No, it's ten to one.",
+      "B. No, it's twenty to three.",
+      "B No, it's ten to one. 8 No, it's a quarter to eight. 8 No, it's twenty to three.",
+      "Listening Am I late?",
+      "A ()} Listen to five conversations about time. Write the time of each thing.",
+      "the train",
+      "the bus",
+      "the movie",
+      "Rod's class",
+      "Susan's class",
+      "Listen again. Are the people early or late? Circle the correct answers.",
+      "early/late",
+      "2early /late",
+      "early /late",
+      "3early /late",
+      "early/late",
+      "Speaking What time is...?",
+      "Pair work",
+      "A Interview your partner. Take notes.",
+      "What time is your...?",
+      "lunch break",
+      "favorite class",
+      "favorite class lunch break favorite TV show",
+      "A: What time is your favorite class?",
+      "B: It's at 7:30 a. m. What time is yours?",
+      "A: Mine is at 8:00 p. m. It's this class!",
+      "Pair work",
+      "B Tell another classmate about your partner's answers.",
+      "Ji-sung's favorite class is at 7:30 a. m."
+    ],
+    "paragraphs": [
+      "B No, it's ten to one. 8 No, it's a quarter to eight. 8 No, it's twenty to three.",
+      "favorite class lunch break favorite TV show"
+    ],
+    "sentences": [
+      "unit Pronunciation Reduction of to A Listen and repeat",
+      "Notice how to is pronounced as /ta/",
+      "/er/ /ea/ /ta/ /ta/ /ta/ It's tent five",
+      "It's fivet two",
+      "It's a quarter't one",
+      "B Listen to the conversations, Then practice them",
+      "Reduce to to /ta/",
+      "Is it five to one",
+      "Is it ten to eight",
+      "A Is it a quarter to three",
+      "No, it's ten to one",
+      "B",
+      "No, it's twenty to three",
+      "B No, it's ten to one",
+      "8 No, it's a quarter to eight",
+      "8 No, it's twenty to three",
+      "Listening Am I late",
+      "A ()} Listen to five conversations about time",
+      "Write the time of each thing",
+      "the train the bus the movie Rod's class Susan's class Listen again",
+      "Are the people early or late",
+      "Circle the correct answers",
+      "early/late 2early /late early /late 3early /late early/late Speaking What time is",
+      "Pair work A Interview your partner",
+      "Take notes",
+      "What time is your",
+      "lunch break favorite class favorite class lunch break favorite TV show A: What time is your favorite class",
+      "B: It's at 7:30 a",
+      "m",
+      "What time is yours",
+      "A: Mine is at 8:00 p",
+      "m",
+      "It's this class",
+      "Pair work B Tell another classmate about your partner's answers",
+      "Ji-sung's favorite class is at 7:30 a",
+      "m"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Is it five to one?",
+            "confidence": 0.8725,
+            "bbox": {
+              "x": 0.126,
+              "y": 0.301906,
+              "width": 0.11,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0016"
+          },
+          {
+            "speaker": null,
+            "content": "Is it ten to eight?",
+            "confidence": 0.8455,
+            "bbox": {
+              "x": 0.374667,
+              "y": 0.301906,
+              "width": 0.114667,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0017"
+          },
+          {
+            "speaker": null,
+            "content": "No, it's ten to one.",
+            "confidence": 0.856,
+            "bbox": {
+              "x": 0.125333,
+              "y": 0.321484,
+              "width": 0.127333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0019"
+          },
+          {
+            "speaker": null,
+            "content": "B.",
+            "confidence": 0.8858,
+            "bbox": {
+              "x": 0.603333,
+              "y": 0.321999,
+              "width": 0.177333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0020"
+          },
+          {
+            "speaker": null,
+            "content": "No, it's twenty to three.",
+            "confidence": 0.8858,
+            "bbox": {
+              "x": 0.603333,
+              "y": 0.321999,
+              "width": 0.177333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0020"
+          },
+          {
+            "speaker": null,
+            "content": "What time is your...?",
+            "confidence": 0.8831,
+            "bbox": {
+              "x": 0.110667,
+              "y": 0.564142,
+              "width": 0.186667,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0039"
+          },
+          {
+            "speaker": null,
+            "content": "A: What time is your favorite class?",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.13451,
+              "y": 0.787879,
+              "width": 0.269804,
+              "height": 0.013333
+            },
+            "sourceElementId": "text_0043"
+          },
+          {
+            "speaker": null,
+            "content": "B: It's at 7:30 a. m.",
+            "confidence": 0.9181,
+            "bbox": {
+              "x": 0.133333,
+              "y": 0.808346,
+              "width": 0.301333,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0044"
+          },
+          {
+            "speaker": null,
+            "content": "What time is yours?",
+            "confidence": 0.9181,
+            "bbox": {
+              "x": 0.133333,
+              "y": 0.808346,
+              "width": 0.301333,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0044"
+          },
+          {
+            "speaker": null,
+            "content": "A: Mine is at 8:00 p. m.",
+            "confidence": 0.9113,
+            "bbox": {
+              "x": 0.133333,
+              "y": 0.829469,
+              "width": 0.283333,
+              "height": 0.015971
+            },
+            "sourceElementId": "text_0045"
+          },
+          {
+            "speaker": null,
+            "content": "It's this class!",
+            "confidence": 0.9113,
+            "bbox": {
+              "x": 0.133333,
+              "y": 0.829469,
+              "width": 0.283333,
+              "height": 0.015971
+            },
+            "sourceElementId": "text_0045"
+          },
+          {
+            "speaker": null,
+            "content": "Ji-sung's favorite class is at 7:30 a. m.",
+            "confidence": 0.9077,
+            "bbox": {
+              "x": 0.134667,
+              "y": 0.879444,
+              "width": 0.300667,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0048"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen and repeat. Notice how to is pronounced as /ta/.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "listening_activity",
+        "instruction": "Listen to the conversations, Then practice them. Reduce to to /ta/.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "()} Listen to five conversations about time. Write the time of each thing.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "asking_answering",
+        "instruction": "Tell another classmate about your partner's answers.",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "71 12",
+          "11 12",
+          "10",
+          "3",
+          "4、",
+          "Is it five to one?",
+          "Is it ten to eight?",
+          "A Is it a quarter to three?",
+          "No, it's ten to one.",
+          "B. No, it's twenty to three.",
+          "B No, it's ten to one. 8 No, it's a quarter to eight. 8 No, it's twenty to three.",
+          "Listening Am I late?",
+          "A ()} Listen to five conversations about time. Write the time of each thing.",
+          "the train",
+          "the bus",
+          "the movie",
+          "Rod's class",
+          "Susan's class",
+          "10:00",
+          "Listen again. Are the people early or late? Circle the correct answers."
+        ],
+        "position": {
+          "x": 0.087333,
+          "y": 0.20256600000000002,
+          "width": 0.713333,
+          "height": 0.284719
+        },
+        "textElementIds": [
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "early/late",
+          "2early /late",
+          "early /late",
+          "3early /late",
+          "early/late",
+          "Speaking What time is...?",
+          "Pair work",
+          "A Interview your partner. Take notes.",
+          "What time is your...?"
+        ],
+        "position": {
+          "x": 0.088667,
+          "y": 0.452437,
+          "width": 0.6646670000000001,
+          "height": 0.14613100000000012
+        },
+        "textElementIds": [
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "lunch break",
+          "favorite class",
+          "favorite class lunch break favorite TV show",
+          "A: What time is your favorite class?",
+          "B: It's at 7:30 a. m. What time is yours?",
+          "A: Mine is at 8:00 p. m. It's this class!",
+          "Pair work",
+          "B Tell another classmate about your partner's answers.",
+          "Ji-sung's favorite class is at 7:30 a. m."
+        ],
+        "position": {
+          "x": 0.093333,
+          "y": 0.71931,
+          "width": 0.699608,
+          "height": 0.195075
+        },
+        "textElementIds": [
+          "text_0040",
+          "text_0041",
+          "text_0042",
+          "text_0043",
+          "text_0044",
+          "text_0045",
+          "text_0046",
+          "text_0047",
+          "text_0048"
+        ]
+      }
+    ],
+    "excludedGarbage": [
+      "71 12",
+      "11 12",
+      "4、",
+      "10:00",
+      "| canask for and tell the time. ®"
+    ]
+  },
+  "learningContent": {
+    "pageType": "lesson",
+    "title": "unit",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "Is it five to one?",
+            "confidence": 0.8725
+          },
+          {
+            "speaker": null,
+            "content": "Is it ten to eight?",
+            "confidence": 0.8455
+          },
+          {
+            "speaker": null,
+            "content": "No, it's ten to one.",
+            "confidence": 0.856
+          },
+          {
+            "speaker": null,
+            "content": "B.",
+            "confidence": 0.8858
+          },
+          {
+            "speaker": null,
+            "content": "No, it's twenty to three.",
+            "confidence": 0.8858
+          },
+          {
+            "speaker": null,
+            "content": "What time is your...?",
+            "confidence": 0.8831
+          },
+          {
+            "speaker": null,
+            "content": "A: What time is your favorite class?",
+            "confidence": 0.96
+          },
+          {
+            "speaker": null,
+            "content": "B: It's at 7:30 a. m.",
+            "confidence": 0.9181
+          },
+          {
+            "speaker": null,
+            "content": "What time is yours?",
+            "confidence": 0.9181
+          },
+          {
+            "speaker": null,
+            "content": "A: Mine is at 8:00 p. m.",
+            "confidence": 0.9113
+          },
+          {
+            "speaker": null,
+            "content": "It's this class!",
+            "confidence": 0.9113
+          },
+          {
+            "speaker": null,
+            "content": "Ji-sung's favorite class is at 7:30 a. m.",
+            "confidence": 0.9077
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen and repeat. Notice how to is pronounced as /ta/.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "listening_activity",
+        "instruction": "Listen to the conversations, Then practice them. Reduce to to /ta/.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "()} Listen to five conversations about time. Write the time of each thing.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "asking_answering",
+        "instruction": "Tell another classmate about your partner's answers.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "9 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content.",
+      "5 garbage string(s) excluded"
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "garbageExcluded": 5,
+      "dialoguesSplit": 6
+    },
+    "averageOcrConfidence": 0.8482,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 1 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc1_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

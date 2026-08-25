@@ -1,0 +1,2693 @@
+{
+  "pageNumber": 5,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "pdf_visual_verification",
+  "pdfPageNumber": 6,
+  "source": {
+    "pdfFile": "Family and Friends 2 SB_Part1.pdf",
+    "pdfLocalPageNumber": 6,
+    "pageSizePoints": {
+      "width": 595.2,
+      "height": 785.04
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "LessonTwo",
+        "confidence": 0.8651,
+        "bbox": {
+          "x": 0.802667,
+          "y": 0.028311,
+          "width": 0.149333,
+          "height": 0.017189
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "| Lesson Two",
+            "confidence": 0.73
+          },
+          {
+            "engine": "rapidocr",
+            "content": "LessonTwo",
+            "confidence": 0.8651
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "instruction",
+        "content": "1 Listen to the story again and repeat. Act.",
+        "confidence": 0.8767,
+        "bbox": {
+          "x": 0.029839,
+          "y": 0.068175,
+          "width": 0.510484,
+          "height": 0.020789
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Listen to the story again and repeat. Act.",
+            "confidence": 0.8767
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen to the story again and repeat.Act.",
+            "confidence": 0.886
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "instruction",
+        "content": "2 Circle T (true) or F (false).",
+        "confidence": 0.9357,
+        "bbox": {
+          "x": 0.029839,
+          "y": 0.101192,
+          "width": 0.322581,
+          "height": 0.018343
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Circle T (true) orF (false).",
+            "confidence": 0.8579
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Circle T (true) or F (false).",
+            "confidence": 0.9357
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "paragraph",
+        "content": "2 Tim is Rosy's brother.",
+        "confidence": 0.8318,
+        "bbox": {
+          "x": 0.553333,
+          "y": 0.128413,
+          "width": 0.246,
+          "height": 0.0182
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2 Tim is Rosy's brother.",
+            "confidence": 0.8318
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Rosy has brown hair. F 2 Timis Rosy's brother. T F",
+            "confidence": 0.7542
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "paragraph",
+        "content": "1Rosyhasbrownhair.",
+        "confidence": 0.8879,
+        "bbox": {
+          "x": 0.062,
+          "y": 0.132457,
+          "width": 0.244,
+          "height": 0.016684
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "4 Billyhas curly hair.",
+        "confidence": 0.8701,
+        "bbox": {
+          "x": 0.553333,
+          "y": 0.156724,
+          "width": 0.222,
+          "height": 0.0182
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4 Billyhas curly hair.",
+            "confidence": 0.8701
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Timhas browneyes. T F 4 Billy has curly hair. w. F",
+            "confidence": 0.7525
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "3Timhasbrowneyes.",
+        "confidence": 0.9142,
+        "bbox": {
+          "x": 0.06,
+          "y": 0.159757,
+          "width": 0.242667,
+          "height": 0.019211
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "paragraph",
+        "content": "6 Billyis under the bed.",
+        "confidence": 0.8284,
+        "bbox": {
+          "x": 0.553333,
+          "y": 0.18453,
+          "width": 0.254667,
+          "height": 0.0182
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 Billy is four. T F 6 Billyisunderthe bed. T F",
+            "confidence": 0.7527
+          },
+          {
+            "engine": "rapidocr",
+            "content": "6 Billyis under the bed.",
+            "confidence": 0.8284
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "5Billy is four.",
+        "confidence": 0.8935,
+        "bbox": {
+          "x": 0.059333,
+          "y": 0.187058,
+          "width": 0.146,
+          "height": 0.021234
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "instruction",
+        "content": "3 Listen and number. ®) 0:",
+        "confidence": 0.8183,
+        "bbox": {
+          "x": 0.029839,
+          "y": 0.232345,
+          "width": 0.31129,
+          "height": 0.020177
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Listen and number. ®) 0:",
+            "confidence": 0.8183
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen and number.",
+            "confidence": 0.8214
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "03",
+        "confidence": 0.6516,
+        "bbox": {
+          "x": 0.326667,
+          "y": 0.238119,
+          "width": 0.015333,
+          "height": 0.011122
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "grandpa",
+        "confidence": 0.868,
+        "bbox": {
+          "x": 0.608,
+          "y": 0.267947,
+          "width": 0.099333,
+          "height": 0.023761
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "dad",
+        "confidence": 0.7495,
+        "bbox": {
+          "x": 0.182,
+          "y": 0.268453,
+          "width": 0.050667,
+          "height": 0.020222
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "brother",
+        "confidence": 0.8138,
+        "bbox": {
+          "x": 0.264,
+          "y": 0.269464,
+          "width": 0.085333,
+          "height": 0.018706
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "grandma",
+        "confidence": 0.8662,
+        "bbox": {
+          "x": 0.472667,
+          "y": 0.269464,
+          "width": 0.102667,
+          "height": 0.020222
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "grandma",
+            "confidence": 0.8662
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "mom dad _ brother’ sister grandma grandpa",
+            "confidence": 0.5829
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "sister",
+        "confidence": 0.785,
+        "bbox": {
+          "x": 0.379333,
+          "y": 0.270475,
+          "width": 0.061333,
+          "height": 0.017695
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "mom",
+        "confidence": 0.7303,
+        "bbox": {
+          "x": 0.090667,
+          "y": 0.273003,
+          "width": 0.058,
+          "height": 0.014156
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "uncle",
+        "confidence": 0.8159,
+        "bbox": {
+          "x": 0.358667,
+          "y": 0.291709,
+          "width": 0.061333,
+          "height": 0.0182
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "cousin",
+        "confidence": 0.7861,
+        "bbox": {
+          "x": 0.454,
+          "y": 0.292214,
+          "width": 0.072,
+          "height": 0.017695
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "cousin",
+            "confidence": 0.7861
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "aunt uncle cousin",
+            "confidence": 0.5767
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "aunt",
+        "confidence": 0.7912,
+        "bbox": {
+          "x": 0.269333,
+          "y": 0.29272,
+          "width": 0.056,
+          "height": 0.017695
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0021",
+        "type": "instruction",
+        "content": "4Point and say.",
+        "confidence": 0.8336,
+        "bbox": {
+          "x": 0.025333,
+          "y": 0.846309,
+          "width": 0.2,
+          "height": 0.023761
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4Point and say.",
+            "confidence": 0.8336
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 Point and say. long short curly = straight brown’ black white",
+            "confidence": 0.7083
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "long",
+        "confidence": 0.7957,
+        "bbox": {
+          "x": 0.272667,
+          "y": 0.849848,
+          "width": 0.053333,
+          "height": 0.02275
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "black",
+        "confidence": 0.7699,
+        "bbox": {
+          "x": 0.766,
+          "y": 0.850354,
+          "width": 0.065333,
+          "height": 0.019211
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "white",
+        "confidence": 0.8228,
+        "bbox": {
+          "x": 0.863333,
+          "y": 0.850354,
+          "width": 0.064,
+          "height": 0.019211
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "curly",
+        "confidence": 0.8085,
+        "bbox": {
+          "x": 0.450667,
+          "y": 0.850859,
+          "width": 0.057333,
+          "height": 0.021739
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "short",
+        "confidence": 0.8276,
+        "bbox": {
+          "x": 0.36,
+          "y": 0.851365,
+          "width": 0.06,
+          "height": 0.0182
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "straight",
+        "confidence": 0.8305,
+        "bbox": {
+          "x": 0.542,
+          "y": 0.851871,
+          "width": 0.086,
+          "height": 0.019211
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "brown",
+        "confidence": 0.8301,
+        "bbox": {
+          "x": 0.661333,
+          "y": 0.851871,
+          "width": 0.074,
+          "height": 0.017189
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "ThisisRosysdad.Hehas",
+        "confidence": 0.9209,
+        "bbox": {
+          "x": 0.552,
+          "y": 0.909505,
+          "width": 0.241333,
+          "height": 0.017695
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "This is Rosy’s mom. She has curly hair. | ( This is Rosy’s dad. He has... “~",
+            "confidence": 0.7959
+          },
+          {
+            "engine": "rapidocr",
+            "content": "ThisisRosysdad.Hehas",
+            "confidence": 0.9209
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "ThisisRosy'smom.Shehascurlyhair.",
+        "confidence": 0.8976,
+        "bbox": {
+          "x": 0.122,
+          "y": 0.91001,
+          "width": 0.360667,
+          "height": 0.017695
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "Hehas/Shehas Starter 5",
+        "confidence": 0.8,
+        "bbox": {
+          "x": 0.691129,
+          "y": 0.9572,
+          "width": 0.276613,
+          "height": 0.01498
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Hehas/Shehas Starter 5",
+            "confidence": 0.8
+          },
+          {
+            "engine": "rapidocr",
+            "content": "He has/She has",
+            "confidence": 0.7836
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Starter",
+            "confidence": 0.7656
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "grandpa",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.608,
+          "y": 0.267947,
+          "width": 0.099333,
+          "height": 0.023761
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.868
+      },
+      {
+        "word": "dad",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.182,
+          "y": 0.268453,
+          "width": 0.050667,
+          "height": 0.020222
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.7495
+      },
+      {
+        "word": "brother",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.264,
+          "y": 0.269464,
+          "width": 0.085333,
+          "height": 0.018706
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.8138
+      },
+      {
+        "word": "grandma",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.472667,
+          "y": 0.269464,
+          "width": 0.102667,
+          "height": 0.020222
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.8662
+      },
+      {
+        "word": "sister",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.379333,
+          "y": 0.270475,
+          "width": 0.061333,
+          "height": 0.017695
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.785
+      },
+      {
+        "word": "mom",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.090667,
+          "y": 0.273003,
+          "width": 0.058,
+          "height": 0.014156
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.7303
+      },
+      {
+        "word": "uncle",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.358667,
+          "y": 0.291709,
+          "width": 0.061333,
+          "height": 0.0182
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.8159
+      },
+      {
+        "word": "cousin",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.454,
+          "y": 0.292214,
+          "width": 0.072,
+          "height": 0.017695
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.7861
+      },
+      {
+        "word": "aunt",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.269333,
+          "y": 0.29272,
+          "width": 0.056,
+          "height": 0.017695
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.7912
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "listening_activity",
+        "instruction": "Listen to the story again and repeat. Act.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0002"
+        ],
+        "confidence": 0.8767
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "selection_exercise",
+        "instruction": "Circle T (true) or F (false).",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0003"
+        ],
+        "confidence": 0.9357
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "listening_activity",
+        "instruction": "Listen and number. ®) 0:",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0010"
+        ],
+        "confidence": 0.8183
+      },
+      {
+        "exerciseNumber": "4",
+        "type": "speaking_activity",
+        "instruction": "Point and say.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0021"
+        ],
+        "confidence": 0.8336
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "3 Listen and number. ®) 0:",
+          "03",
+          "grandpa",
+          "dad",
+          "brother",
+          "grandma",
+          "sister",
+          "mom",
+          "uncle",
+          "cousin",
+          "aunt"
+        ],
+        "position": {
+          "x": 0.009839,
+          "y": 0.212345,
+          "width": 0.717494,
+          "height": 0.11807
+        },
+        "textElementIds": [
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "4Point and say.",
+          "long",
+          "black",
+          "white",
+          "curly",
+          "short",
+          "straight",
+          "brown"
+        ],
+        "position": {
+          "x": 0.005333,
+          "y": 0.826309,
+          "width": 0.942,
+          "height": 0.066289
+        },
+        "textElementIds": [
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "rawOcrAudit": {
+      "rapidocr": "LessonTwo\nListen to the story again and repeat.Act.\nCircle T (true) orF (false).\n2 Tim is Rosy's brother.\n1Rosyhasbrownhair.\n4 Billyhas curly hair.\n3Timhasbrowneyes.\n6 Billyis under the bed.\n5Billy is four.\nListen and number.\n03\ngrandpa\ndad\nbrother\ngrandma\nsister\nmom\nuncle\ncousin\naunt\n4Point and say.\nlong\nblack\nwhite\ncurly\nshort\nstraight\nbrown\nThisisRosysdad.Hehas\nThisisRosy'smom.Shehascurlyhair.\nHe has/She has\nStarter",
+      "tesseract_psm3": "| Lesson Two\n1 Listen to the story again and repeat. Act.\n2 Circle T (true) or F (false).\n\n1 Rosy has brown hair. F 2 Timis Rosy's brother. T  F\n3 Timhas browneyes. T F 4 Billy has curly hair. w. F\n5 Billy is four. T F 6 Billyisunderthe bed. T F\n\n3 Listen and number. ®) 0:\n\nmom dad _ brother’ sister grandma grandpa\naunt uncle cousin\n\n4 Point and say. long short curly = straight brown’ black white\n\nThis is Rosy’s mom. She has curly hair. | ( This is Rosy’s dad. He has... “~\n\nHehas/Shehas Starter 5\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": "",
+      "footer_passes": [
+        "= This is Rosy’s mom. She has curly hair. ) ( This is Rosy’s dad. He has .... ~~\nHehas/Shehas Starter 5",
+        "SS\n\nFh Sa\n\n¢\n\n= taal\n\noo\n\na\n\nis\n\n5 Ro\n\nSf\n\n(e)\n\nPry\n\nhe\n\naries,\n\nrl\n\nalr.\n\n( This is Rosy's dad. He has... “~~\n\nHe has / She has\n\nStarter\n\n5"
+      ]
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8296,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "8 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "lesson",
+    "pagePurpose": null,
+    "readingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "headings": [
+      {
+        "id": "text_0001",
+        "content": "Lesson Two",
+        "confidence": 0.8651,
+        "bbox": {
+          "x": 0.802667,
+          "y": 0.028311,
+          "width": 0.149333,
+          "height": 0.017189
+        },
+        "repaired": true,
+        "sourceElementIds": [
+          "text_0001"
+        ]
+      }
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Lesson Two",
+        "originalContent": "LessonTwo",
+        "confidence": 0.8651,
+        "bbox": {
+          "x": 0.802667,
+          "y": 0.028311,
+          "width": 0.149333,
+          "height": 0.017189
+        },
+        "repaired": true,
+        "repairNotes": [
+          "heading"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "| Lesson Two",
+            "confidence": 0.73
+          },
+          {
+            "engine": "rapidocr",
+            "content": "LessonTwo",
+            "confidence": 0.8651
+          }
+        ]
+      },
+      {
+        "id": "text_0002",
+        "type": "instruction",
+        "content": "1 Listen to the story again and repeat. Act.",
+        "originalContent": "1 Listen to the story again and repeat. Act.",
+        "confidence": 0.8767,
+        "bbox": {
+          "x": 0.029839,
+          "y": 0.068175,
+          "width": 0.510484,
+          "height": 0.020789
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Listen to the story again and repeat. Act.",
+            "confidence": 0.8767
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen to the story again and repeat.Act.",
+            "confidence": 0.886
+          }
+        ]
+      },
+      {
+        "id": "text_0003",
+        "type": "instruction",
+        "content": "2 Circle T (true) or F (false).",
+        "originalContent": "2 Circle T (true) or F (false).",
+        "confidence": 0.9357,
+        "bbox": {
+          "x": 0.029839,
+          "y": 0.101192,
+          "width": 0.322581,
+          "height": 0.018343
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Circle T (true) orF (false).",
+            "confidence": 0.8579
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Circle T (true) or F (false).",
+            "confidence": 0.9357
+          }
+        ]
+      },
+      {
+        "id": "text_0004",
+        "type": "paragraph",
+        "content": "2 Tim is Rosy's brother.",
+        "originalContent": "2 Tim is Rosy's brother.",
+        "confidence": 0.8318,
+        "bbox": {
+          "x": 0.553333,
+          "y": 0.128413,
+          "width": 0.246,
+          "height": 0.0182
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2 Tim is Rosy's brother.",
+            "confidence": 0.8318
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Rosy has brown hair. F 2 Timis Rosy's brother. T F",
+            "confidence": 0.7542
+          }
+        ]
+      },
+      {
+        "id": "text_0005",
+        "type": "paragraph",
+        "content": "1 Rosy has brown hair.",
+        "originalContent": "1Rosyhasbrownhair.",
+        "confidence": 0.8879,
+        "bbox": {
+          "x": 0.062,
+          "y": 0.132457,
+          "width": 0.244,
+          "height": 0.016684
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "4 Billy has curly hair.",
+        "originalContent": "4 Billyhas curly hair.",
+        "confidence": 0.8701,
+        "bbox": {
+          "x": 0.553333,
+          "y": 0.156724,
+          "width": 0.222,
+          "height": 0.0182
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4 Billyhas curly hair.",
+            "confidence": 0.8701
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Timhas browneyes. T F 4 Billy has curly hair. w. F",
+            "confidence": 0.7525
+          }
+        ]
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "3 Tim has brown eyes.",
+        "originalContent": "3Timhasbrowneyes.",
+        "confidence": 0.9142,
+        "bbox": {
+          "x": 0.06,
+          "y": 0.159757,
+          "width": 0.242667,
+          "height": 0.019211
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0008",
+        "type": "paragraph",
+        "content": "6 Billyis under the bed.",
+        "originalContent": "6 Billyis under the bed.",
+        "confidence": 0.8284,
+        "bbox": {
+          "x": 0.553333,
+          "y": 0.18453,
+          "width": 0.254667,
+          "height": 0.0182
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 Billy is four. T F 6 Billyisunderthe bed. T F",
+            "confidence": 0.7527
+          },
+          {
+            "engine": "rapidocr",
+            "content": "6 Billyis under the bed.",
+            "confidence": 0.8284
+          }
+        ]
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "5 Billy is four.",
+        "originalContent": "5Billy is four.",
+        "confidence": 0.8935,
+        "bbox": {
+          "x": 0.059333,
+          "y": 0.187058,
+          "width": 0.146,
+          "height": 0.021234
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0010",
+        "type": "instruction",
+        "content": "3 Listen and number. ®) 0:",
+        "originalContent": "3 Listen and number. ®) 0:",
+        "confidence": 0.8183,
+        "bbox": {
+          "x": 0.029839,
+          "y": 0.232345,
+          "width": 0.31129,
+          "height": 0.020177
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Listen and number. ®) 0:",
+            "confidence": 0.8183
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen and number.",
+            "confidence": 0.8214
+          }
+        ]
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "grandpa",
+        "originalContent": "grandpa",
+        "confidence": 0.868,
+        "bbox": {
+          "x": 0.608,
+          "y": 0.267947,
+          "width": 0.099333,
+          "height": 0.023761
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "dad",
+        "originalContent": "dad",
+        "confidence": 0.7495,
+        "bbox": {
+          "x": 0.182,
+          "y": 0.268453,
+          "width": 0.050667,
+          "height": 0.020222
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "brother",
+        "originalContent": "brother",
+        "confidence": 0.8138,
+        "bbox": {
+          "x": 0.264,
+          "y": 0.269464,
+          "width": 0.085333,
+          "height": 0.018706
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "grandma",
+        "originalContent": "grandma",
+        "confidence": 0.8662,
+        "bbox": {
+          "x": 0.472667,
+          "y": 0.269464,
+          "width": 0.102667,
+          "height": 0.020222
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "grandma",
+            "confidence": 0.8662
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "mom dad _ brother’ sister grandma grandpa",
+            "confidence": 0.5829
+          }
+        ]
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "sister",
+        "originalContent": "sister",
+        "confidence": 0.785,
+        "bbox": {
+          "x": 0.379333,
+          "y": 0.270475,
+          "width": 0.061333,
+          "height": 0.017695
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "mom",
+        "originalContent": "mom",
+        "confidence": 0.7303,
+        "bbox": {
+          "x": 0.090667,
+          "y": 0.273003,
+          "width": 0.058,
+          "height": 0.014156
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "uncle",
+        "originalContent": "uncle",
+        "confidence": 0.8159,
+        "bbox": {
+          "x": 0.358667,
+          "y": 0.291709,
+          "width": 0.061333,
+          "height": 0.0182
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "cousin",
+        "originalContent": "cousin",
+        "confidence": 0.7861,
+        "bbox": {
+          "x": 0.454,
+          "y": 0.292214,
+          "width": 0.072,
+          "height": 0.017695
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "cousin",
+            "confidence": 0.7861
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "aunt uncle cousin",
+            "confidence": 0.5767
+          }
+        ]
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "aunt",
+        "originalContent": "aunt",
+        "confidence": 0.7912,
+        "bbox": {
+          "x": 0.269333,
+          "y": 0.29272,
+          "width": 0.056,
+          "height": 0.017695
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0021",
+        "type": "instruction",
+        "content": "4 Point and say.",
+        "originalContent": "4Point and say.",
+        "confidence": 0.8336,
+        "bbox": {
+          "x": 0.025333,
+          "y": 0.846309,
+          "width": 0.2,
+          "height": 0.023761
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4Point and say.",
+            "confidence": 0.8336
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 Point and say. long short curly = straight brown’ black white",
+            "confidence": 0.7083
+          }
+        ]
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "long",
+        "originalContent": "long",
+        "confidence": 0.7957,
+        "bbox": {
+          "x": 0.272667,
+          "y": 0.849848,
+          "width": 0.053333,
+          "height": 0.02275
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "black",
+        "originalContent": "black",
+        "confidence": 0.7699,
+        "bbox": {
+          "x": 0.766,
+          "y": 0.850354,
+          "width": 0.065333,
+          "height": 0.019211
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "white",
+        "originalContent": "white",
+        "confidence": 0.8228,
+        "bbox": {
+          "x": 0.863333,
+          "y": 0.850354,
+          "width": 0.064,
+          "height": 0.019211
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "curly",
+        "originalContent": "curly",
+        "confidence": 0.8085,
+        "bbox": {
+          "x": 0.450667,
+          "y": 0.850859,
+          "width": 0.057333,
+          "height": 0.021739
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "short",
+        "originalContent": "short",
+        "confidence": 0.8276,
+        "bbox": {
+          "x": 0.36,
+          "y": 0.851365,
+          "width": 0.06,
+          "height": 0.0182
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "straight",
+        "originalContent": "straight",
+        "confidence": 0.8305,
+        "bbox": {
+          "x": 0.542,
+          "y": 0.851871,
+          "width": 0.086,
+          "height": 0.019211
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "brown",
+        "originalContent": "brown",
+        "confidence": 0.8301,
+        "bbox": {
+          "x": 0.661333,
+          "y": 0.851871,
+          "width": 0.074,
+          "height": 0.017189
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "This is Rosy s dad. He has",
+        "originalContent": "ThisisRosysdad.Hehas",
+        "confidence": 0.9209,
+        "bbox": {
+          "x": 0.552,
+          "y": 0.909505,
+          "width": 0.241333,
+          "height": 0.017695
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase",
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "This is Rosy’s mom. She has curly hair. | ( This is Rosy’s dad. He has... “~",
+            "confidence": 0.7959
+          },
+          {
+            "engine": "rapidocr",
+            "content": "ThisisRosysdad.Hehas",
+            "confidence": 0.9209
+          }
+        ]
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "This is Rosy's mom. SHe has curly hair.",
+        "originalContent": "ThisisRosy'smom.Shehascurlyhair.",
+        "confidence": 0.8976,
+        "bbox": {
+          "x": 0.122,
+          "y": 0.91001,
+          "width": 0.360667,
+          "height": 0.017695
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase",
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "He has/SHe has Starter 5",
+        "originalContent": "Hehas/Shehas Starter 5",
+        "confidence": 0.8,
+        "bbox": {
+          "x": 0.691129,
+          "y": 0.9572,
+          "width": 0.276613,
+          "height": 0.01498
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Hehas/Shehas Starter 5",
+            "confidence": 0.8
+          },
+          {
+            "engine": "rapidocr",
+            "content": "He has/She has",
+            "confidence": 0.7836
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Starter",
+            "confidence": 0.7656
+          }
+        ]
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Lesson Two",
+      "1 Listen to the story again and repeat. Act.",
+      "2 Circle T (true) or F (false).",
+      "2 Tim is Rosy's brother.",
+      "1 Rosy has brown hair.",
+      "4 Billy has curly hair.",
+      "3 Tim has brown eyes.",
+      "6 Billyis under the bed.",
+      "5 Billy is four.",
+      "3 Listen and number. ®) 0:",
+      "grandpa",
+      "dad",
+      "brother",
+      "grandma",
+      "sister",
+      "mom",
+      "uncle",
+      "cousin",
+      "aunt",
+      "4 Point and say.",
+      "long",
+      "black",
+      "white",
+      "curly",
+      "short",
+      "straight",
+      "brown",
+      "This is Rosy s dad. He has",
+      "This is Rosy's mom. SHe has curly hair.",
+      "He has/SHe has Starter 5"
+    ],
+    "paragraphs": [
+      {
+        "id": "text_0004",
+        "content": "2 Tim is Rosy's brother.",
+        "confidence": 0.8318,
+        "bbox": {
+          "x": 0.553333,
+          "y": 0.128413,
+          "width": 0.246,
+          "height": 0.0182
+        },
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      },
+      {
+        "id": "text_0005",
+        "content": "1 Rosy has brown hair.",
+        "confidence": 0.8879,
+        "bbox": {
+          "x": 0.062,
+          "y": 0.132457,
+          "width": 0.244,
+          "height": 0.016684
+        },
+        "sourceElementIds": [
+          "text_0005"
+        ]
+      },
+      {
+        "id": "text_0008",
+        "content": "6 Billyis under the bed.",
+        "confidence": 0.8284,
+        "bbox": {
+          "x": 0.553333,
+          "y": 0.18453,
+          "width": 0.254667,
+          "height": 0.0182
+        },
+        "sourceElementIds": [
+          "text_0008"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "text_0029",
+        "content": "This is Rosy s dad. He has",
+        "confidence": 0.9209,
+        "bbox": {
+          "x": 0.552,
+          "y": 0.909505,
+          "width": 0.241333,
+          "height": 0.017695
+        },
+        "sourceElementIds": [
+          "text_0029"
+        ]
+      },
+      {
+        "id": "text_0030",
+        "content": "This is Rosy's mom. SHe has curly hair.",
+        "confidence": 0.8976,
+        "bbox": {
+          "x": 0.122,
+          "y": 0.91001,
+          "width": 0.360667,
+          "height": 0.017695
+        },
+        "sourceElementIds": [
+          "text_0030"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "mom",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "evidence": "pdf_visual_verification",
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      },
+      {
+        "word": "dad",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "evidence": "pdf_visual_verification",
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      },
+      {
+        "word": "brother",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "evidence": "pdf_visual_verification",
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      },
+      {
+        "word": "sister",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "evidence": "pdf_visual_verification",
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      },
+      {
+        "word": "grandma",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "evidence": "pdf_visual_verification",
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      },
+      {
+        "word": "grandpa",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "evidence": "pdf_visual_verification",
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      },
+      {
+        "word": "aunt",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "evidence": "pdf_visual_verification",
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      },
+      {
+        "word": "uncle",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "evidence": "pdf_visual_verification",
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      },
+      {
+        "word": "cousin",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "evidence": "pdf_visual_verification",
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      },
+      {
+        "word": "long",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "evidence": "pdf_visual_verification",
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      },
+      {
+        "word": "short",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "evidence": "pdf_visual_verification",
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      },
+      {
+        "word": "curly",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "evidence": "pdf_visual_verification",
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      },
+      {
+        "word": "straight",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "evidence": "pdf_visual_verification",
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      },
+      {
+        "word": "brown",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "evidence": "pdf_visual_verification",
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      },
+      {
+        "word": "black",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "evidence": "pdf_visual_verification",
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      },
+      {
+        "word": "white",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "evidence": "pdf_visual_verification",
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      }
+    ],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "lines": [
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "This is Rosy s dad. He has",
+            "confidence": 0.9209,
+            "bbox": {
+              "x": 0.552,
+              "y": 0.909505,
+              "width": 0.241333,
+              "height": 0.017695
+            },
+            "sourceElementId": "text_0029",
+            "speakerEvidence": "Speech-like line; speaker not labeled.",
+            "repairNotes": [
+              "phrase",
+              "spaces"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "This is Rosy's mom.",
+            "confidence": 0.8976,
+            "bbox": {
+              "x": 0.122,
+              "y": 0.91001,
+              "width": 0.360667,
+              "height": 0.017695
+            },
+            "sourceElementId": "text_0030",
+            "speakerEvidence": "Speech-like line; speaker not labeled.",
+            "repairNotes": [
+              "phrase",
+              "spaces"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "SHe has curly hair.",
+            "confidence": 0.8976,
+            "bbox": {
+              "x": 0.122,
+              "y": 0.91001,
+              "width": 0.360667,
+              "height": 0.017695
+            },
+            "sourceElementId": "text_0030",
+            "speakerEvidence": "Speech-like line; speaker not labeled.",
+            "repairNotes": [
+              "phrase",
+              "spaces"
+            ]
+          }
+        ],
+        "confidence": 0.9053666666666667,
+        "note": "Reconstructed from speech-like text; speakers unknown."
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "listening_activity",
+        "instruction": "Listen to the story again and repeat. Act.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "prompts": [],
+        "blanks": [],
+        "choices": [],
+        "matchingPairs": [],
+        "repairNotes": [
+          "pdf_visual_verification"
+        ]
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "true_false",
+        "instruction": "Circle T (true) or F (false).",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "prompts": [],
+        "blanks": [],
+        "choices": [],
+        "matchingPairs": [],
+        "repairNotes": [
+          "pdf_visual_verification"
+        ]
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "listening_number",
+        "instruction": "Listen and number.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "prompts": [],
+        "blanks": [],
+        "choices": [],
+        "matchingPairs": [],
+        "repairNotes": [
+          "pdf_visual_verification"
+        ]
+      },
+      {
+        "exerciseNumber": "4",
+        "type": "speaking_activity",
+        "instruction": "Point and say.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "prompts": [],
+        "blanks": [],
+        "choices": [],
+        "matchingPairs": [],
+        "repairNotes": [
+          "pdf_visual_verification"
+        ]
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "3 Listen and number. ®) 0:",
+          "grandpa",
+          "dad",
+          "brother",
+          "grandma",
+          "sister",
+          "mom",
+          "uncle",
+          "cousin",
+          "aunt"
+        ],
+        "position": {
+          "x": 0.009839,
+          "y": 0.212345,
+          "width": 0.717494,
+          "height": 0.11807
+        },
+        "textElementIds": [
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "4 Point and say.",
+          "long",
+          "black",
+          "white",
+          "curly",
+          "short",
+          "straight",
+          "brown"
+        ],
+        "position": {
+          "x": 0.005333,
+          "y": 0.826309,
+          "width": 0.942,
+          "height": 0.066289
+        },
+        "textElementIds": [
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "nonEducationalText": [],
+    "excludedGarbage": [
+      {
+        "id": "text_0011",
+        "content": "03",
+        "originalContent": "03",
+        "confidence": 0.6516
+      }
+    ]
+  },
+  "learningContent": {
+    "pageType": "lesson",
+    "title": "Lesson Two",
+    "learningObjectives": [],
+    "targetVocabulary": [
+      {
+        "word": "mom",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "dad",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "brother",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "sister",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "grandma",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "grandpa",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "aunt",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "uncle",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "cousin",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "long",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "short",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "curly",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "straight",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "brown",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "black",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "white",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "This is Rosy's mom. She has curly hair.",
+        "meaning": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "expression": "This is Rosy's dad. He has ...",
+        "meaning": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "expression": "He has / She has",
+        "meaning": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "This is Rosy's dad. He has",
+            "confidence": 0.9209
+          },
+          {
+            "speaker": null,
+            "content": "This is Rosy's mom.",
+            "confidence": 0.8976
+          },
+          {
+            "speaker": null,
+            "content": "She has curly hair.",
+            "confidence": 0.8976
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "listening_activity",
+        "instruction": "Listen to the story again and repeat. Act.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "true_false",
+        "instruction": "Circle T (true) or F (false).",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "listening_number",
+        "instruction": "Listen and number.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "4",
+        "type": "speaking_activity",
+        "instruction": "Point and say.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [
+      {
+        "exerciseNumber": "1",
+        "instruction": "Listen to the story again and repeat. Act.",
+        "type": "listening_activity",
+        "confidence": 0.99
+      },
+      {
+        "exerciseNumber": "3",
+        "instruction": "Listen and number.",
+        "type": "listening_number",
+        "confidence": 0.99
+      }
+    ],
+    "speaking": [
+      {
+        "exerciseNumber": "1",
+        "instruction": "Listen to the story again and repeat. Act.",
+        "type": "listening_activity",
+        "confidence": 0.99
+      },
+      {
+        "exerciseNumber": "4",
+        "instruction": "Point and say.",
+        "type": "speaking_activity",
+        "confidence": 0.99
+      }
+    ],
+    "writing": [
+      {
+        "exerciseNumber": "2",
+        "instruction": "Circle T (true) or F (false).",
+        "type": "true_false",
+        "confidence": 0.99
+      }
+    ],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [],
+    "verifiedAgainstPdf": true,
+    "repairStats": {
+      "text_repaired": 9,
+      "text_kept": 30,
+      "garbage_excluded": 1,
+      "vocab_rejected": 1,
+      "vocab_kept": 15,
+      "dialogues_reconstructed": 1,
+      "dialogue_lines": 3,
+      "exercises_reconstructed": 4
+    },
+    "averageOcrConfidence": 0.8296
+  },
+  "metadata": {
+    "book": "Family and Friends 2 Student Book (American)",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_ff2_v1",
+    "originalOcrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "originalAverageConfidence": 0.8296,
+    "noHallucinationPolicy": "Definitions, translations, speaker names, answers, and grammar rules are null or omitted unless visibly supported by page OCR/PDF. Text repairs are limited to spacing, punctuation, and clear OCR character errors."
+  }
+}

@@ -1,0 +1,3306 @@
+{
+  "pageNumber": 9,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "verified sequential printed-footer pattern",
+  "pdfPageNumber": 10,
+  "source": {
+    "pdfFile": "Family and Friends 2 SB_Part1.pdf",
+    "pdfLocalPageNumber": 10,
+    "pageSizePoints": {
+      "width": 595.2,
+      "height": 785.04
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "LessonTwoGrammar",
+        "confidence": 0.9017,
+        "bbox": {
+          "x": 0.671333,
+          "y": 0.028311,
+          "width": 0.288,
+          "height": 0.024772
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "LessonTwoGrammar",
+            "confidence": 0.9017
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "_ Lesson Two Grammar",
+            "confidence": 0.7825
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "instruction",
+        "content": "1 Listen to the story again and repeat. Act.",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.034677,
+          "y": 0.064506,
+          "width": 0.509274,
+          "height": 0.020177
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listen to thestory again and repeat.Act.",
+            "confidence": 0.8561
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Listen to the story again and repeat. Act.",
+            "confidence": 0.9
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "instruction",
+        "content": "2 Look and say.",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.033468,
+          "y": 0.097829,
+          "width": 0.192339,
+          "height": 0.020177
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2 Look and say.",
+            "confidence": 0.8498
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Look and say.",
+            "confidence": 0.94
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Let's learn!",
+        "confidence": 0.8231,
+        "bbox": {
+          "x": 0.088667,
+          "y": 0.137513,
+          "width": 0.175333,
+          "height": 0.026289
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Let's learn!",
+            "confidence": 0.8231
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| Let's learn! |",
+            "confidence": 0.775
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "This is the",
+        "confidence": 0.7647,
+        "bbox": {
+          "x": 0.104,
+          "y": 0.336198,
+          "width": 0.109333,
+          "height": 0.019717
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "Thatis a",
+        "confidence": 0.8306,
+        "bbox": {
+          "x": 0.35,
+          "y": 0.337715,
+          "width": 0.094,
+          "height": 0.018706
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Theseare",
+        "confidence": 0.8512,
+        "bbox": {
+          "x": 0.562667,
+          "y": 0.33822,
+          "width": 0.11,
+          "height": 0.020222
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "Those are",
+        "confidence": 0.7786,
+        "bbox": {
+          "x": 0.775333,
+          "y": 0.339232,
+          "width": 0.110667,
+          "height": 0.019211
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "new board.",
+        "confidence": 0.8826,
+        "bbox": {
+          "x": 0.333333,
+          "y": 0.362487,
+          "width": 0.124,
+          "height": 0.019717
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "newcomputer.",
+        "confidence": 0.8543,
+        "bbox": {
+          "x": 0.078667,
+          "y": 0.365521,
+          "width": 0.160667,
+          "height": 0.016684
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "newtables.",
+        "confidence": 0.8717,
+        "bbox": {
+          "x": 0.553333,
+          "y": 0.365521,
+          "width": 0.122667,
+          "height": 0.017189
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "new coathooks.",
+        "confidence": 0.8195,
+        "bbox": {
+          "x": 0.742667,
+          "y": 0.366026,
+          "width": 0.172,
+          "height": 0.016684
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "instruction",
+        "content": "Write.",
+        "confidence": 0.7061,
+        "bbox": {
+          "x": 0.045333,
+          "y": 0.445905,
+          "width": 0.088,
+          "height": 0.019717
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "This",
+        "confidence": 0.7003,
+        "bbox": {
+          "x": 0.178,
+          "y": 0.446916,
+          "width": 0.052,
+          "height": 0.022245
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "That",
+        "confidence": 0.7713,
+        "bbox": {
+          "x": 0.259333,
+          "y": 0.447927,
+          "width": 0.057333,
+          "height": 0.021234
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "These",
+        "confidence": 0.8269,
+        "bbox": {
+          "x": 0.347333,
+          "y": 0.448433,
+          "width": 0.070667,
+          "height": 0.021234
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Those",
+        "confidence": 0.83,
+        "bbox": {
+          "x": 0.448,
+          "y": 0.448433,
+          "width": 0.072,
+          "height": 0.02275
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "sentence",
+        "content": "are bags.",
+        "confidence": 0.8493,
+        "bbox": {
+          "x": 0.160667,
+          "y": 0.64459,
+          "width": 0.102,
+          "height": 0.02275
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "sentence",
+        "content": "is a ruler.",
+        "confidence": 0.858,
+        "bbox": {
+          "x": 0.36,
+          "y": 0.645602,
+          "width": 0.102,
+          "height": 0.020222
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "are bags. is a ruler. are pencils. is a computer.",
+        "confidence": 0.919,
+        "bbox": {
+          "x": 0.164919,
+          "y": 0.64812,
+          "width": 0.795968,
+          "height": 0.01926
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "are pencils.",
+            "confidence": 0.8808
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "are bags. is a ruler. are pencils. is a computer.",
+            "confidence": 0.919
+          },
+          {
+            "engine": "rapidocr",
+            "content": "is a computer.",
+            "confidence": 0.8419
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "instruction",
+        "content": "4 Pointandsay",
+        "confidence": 0.8737,
+        "bbox": {
+          "x": 0.026667,
+          "y": 0.69818,
+          "width": 0.198667,
+          "height": 0.022245
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4 Pointandsay",
+            "confidence": 0.8737
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 Pointandsay. | chairs pencilcase board tables ruler coat hooks",
+            "confidence": 0.782
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "pencil case",
+        "confidence": 0.8207,
+        "bbox": {
+          "x": 0.376,
+          "y": 0.701719,
+          "width": 0.122,
+          "height": 0.021739
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "chairs",
+        "confidence": 0.8077,
+        "bbox": {
+          "x": 0.274667,
+          "y": 0.702224,
+          "width": 0.068,
+          "height": 0.019211
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "board",
+        "confidence": 0.7549,
+        "bbox": {
+          "x": 0.532,
+          "y": 0.70273,
+          "width": 0.069333,
+          "height": 0.019211
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "tables",
+        "confidence": 0.8492,
+        "bbox": {
+          "x": 0.633333,
+          "y": 0.703741,
+          "width": 0.070667,
+          "height": 0.019211
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "ruler",
+        "confidence": 0.8169,
+        "bbox": {
+          "x": 0.736,
+          "y": 0.703741,
+          "width": 0.056667,
+          "height": 0.019717
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "coathooks",
+        "confidence": 0.852,
+        "bbox": {
+          "x": 0.824,
+          "y": 0.703741,
+          "width": 0.118667,
+          "height": 0.019717
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "Thosearecoathooks",
+        "confidence": 0.9234,
+        "bbox": {
+          "x": 0.529333,
+          "y": 0.753792,
+          "width": 0.199333,
+          "height": 0.017189
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "joe are coat hooks. |",
+            "confidence": 0.832
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Thosearecoathooks",
+            "confidence": 0.9234
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "This is a.",
+        "confidence": 0.7807,
+        "bbox": {
+          "x": 0.581333,
+          "y": 0.79727,
+          "width": 0.11,
+          "height": 0.02275
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "RES y This isa...",
+            "confidence": 0.67
+          },
+          {
+            "engine": "rapidocr",
+            "content": "This is a.",
+            "confidence": 0.7807
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "Thatisa...",
+        "confidence": 0.89,
+        "bbox": {
+          "x": 0.580645,
+          "y": 0.841027,
+          "width": 0.109677,
+          "height": 0.014063
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Thatis a.",
+            "confidence": 0.819
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Thatisa...",
+            "confidence": 0.89
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "These are ...",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.583065,
+          "y": 0.88291,
+          "width": 0.115323,
+          "height": 0.013146
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "These are",
+            "confidence": 0.82
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "These are ...",
+            "confidence": 0.9
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "paragraph",
+        "content": "These / Those are... Unit 1 9",
+        "confidence": 0.8814,
+        "bbox": {
+          "x": 0.66129,
+          "y": 0.958117,
+          "width": 0.316935,
+          "height": 0.013146
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "These / Those are... Unit 1 9",
+            "confidence": 0.8814
+          },
+          {
+            "engine": "rapidocr",
+            "content": "These/Thoseare..",
+            "confidence": 0.8214
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Unit1",
+            "confidence": 0.783
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [
+      {
+        "topic": "LessonTwoGrammar",
+        "rule": [
+          "This is the",
+          "is a ruler.",
+          "are bags. is a ruler. are pencils. is a computer.",
+          "This is a.",
+          "These are ...",
+          "These / Those are... Unit 1 9"
+        ],
+        "form": null,
+        "positiveExamples": [],
+        "negativeExamples": [],
+        "questionForms": [],
+        "shortAnswers": [],
+        "exceptions": [],
+        "usageNotes": [],
+        "practice": [
+          "1 Listen to the story again and repeat. Act.",
+          "2 Look and say.",
+          "Write.",
+          "4 Pointandsay"
+        ],
+        "confidence": 0.8384
+      }
+    ],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "are bags.",
+            "confidence": 0.8493,
+            "bbox": {
+              "x": 0.160667,
+              "y": 0.64459,
+              "width": 0.102,
+              "height": 0.02275
+            },
+            "sourceElementId": "text_0018",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "is a ruler.",
+            "confidence": 0.858,
+            "bbox": {
+              "x": 0.36,
+              "y": 0.645602,
+              "width": 0.102,
+              "height": 0.020222
+            },
+            "sourceElementId": "text_0019",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "are bags. is a ruler. are pencils. is a computer.",
+            "confidence": 0.919,
+            "bbox": {
+              "x": 0.164919,
+              "y": 0.64812,
+              "width": 0.795968,
+              "height": 0.01926
+            },
+            "sourceElementId": "text_0020",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Speech-bubble/dialogue-like text was detected spatially; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "listening_activity",
+        "instruction": "Listen to the story again and repeat. Act.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0002"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "speaking_activity",
+        "instruction": "Look and say.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0003"
+        ],
+        "confidence": 0.94
+      }
+    ],
+    "ocrTables": [
+      {
+        "title": null,
+        "headers": [],
+        "rows": [
+          [
+            "This is the"
+          ],
+          [
+            "Thatis a"
+          ],
+          [
+            "Theseare"
+          ],
+          [
+            "Those are"
+          ],
+          [
+            "new board."
+          ],
+          [
+            "newcomputer."
+          ],
+          [
+            "newtables."
+          ],
+          [
+            "new coathooks."
+          ],
+          [
+            "Write."
+          ],
+          [
+            "This"
+          ],
+          [
+            "That"
+          ],
+          [
+            "These"
+          ],
+          [
+            "Those"
+          ],
+          [
+            "are bags."
+          ],
+          [
+            "is a ruler."
+          ],
+          [
+            "are bags. is a ruler. are pencils. is a computer."
+          ],
+          [
+            "4 Pointandsay"
+          ],
+          [
+            "pencil case"
+          ],
+          [
+            "chairs"
+          ],
+          [
+            "board"
+          ],
+          [
+            "tables"
+          ],
+          [
+            "ruler"
+          ],
+          [
+            "coathooks"
+          ],
+          [
+            "Thosearecoathooks"
+          ],
+          [
+            "This is a."
+          ],
+          [
+            "Thatisa..."
+          ],
+          [
+            "These are ..."
+          ]
+        ],
+        "tableStructureConfidence": "low",
+        "fallbackText": "LessonTwoGrammar 1 Listen to the story again and repeat. Act. 2 Look and say. Let's learn! This is the Thatis a Theseare Those are new board. newcomputer. newtables. new coathooks. Write. This That These Those are bags. is a ruler. are bags. is a ruler. are pencils. is a computer. 4 Pointandsay pencil case chairs board tables ruler coathooks Thosearecoathooks This is a. Thatisa... These are ... These / Those are... Unit 1 9",
+        "sourceElementIds": [
+          "text_0001",
+          "text_0002",
+          "text_0003",
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032"
+        ]
+      }
+    ],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "This is the",
+          "Thatis a",
+          "Theseare",
+          "Those are",
+          "new board.",
+          "newcomputer.",
+          "newtables.",
+          "new coathooks.",
+          "Write.",
+          "This",
+          "That",
+          "These",
+          "Those"
+        ],
+        "position": {
+          "x": 0.025333,
+          "y": 0.316198,
+          "width": 0.909334,
+          "height": 0.174985
+        },
+        "textElementIds": [
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "are bags.",
+          "is a ruler.",
+          "are bags. is a ruler. are pencils. is a computer.",
+          "4 Pointandsay",
+          "pencil case",
+          "chairs",
+          "board",
+          "tables",
+          "ruler",
+          "coathooks",
+          "Thosearecoathooks",
+          "This is a."
+        ],
+        "position": {
+          "x": 0.006667,
+          "y": 0.62459,
+          "width": 0.97422,
+          "height": 0.21543
+        },
+        "textElementIds": [
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "rawOcrAudit": {
+      "rapidocr": "LessonTwoGrammar\nListen to thestory again and repeat.Act.\n2 Look and say.\nLet's learn!\nThis is the\nThatis a\nTheseare\nThose are\nnew board.\nnewcomputer.\nnewtables.\nnew coathooks.\nWrite.\nThis\nThat\nThese\nThose\nare bags.\nis a ruler.\nare pencils.\nis a computer.\n4 Pointandsay\npencil case\nchairs\nboard\ntables\nruler\ncoathooks\nThosearecoathooks\nThis is a.\nThatis a.\nThese are\nThese/Thoseare..\nUnit1",
+      "tesseract_psm3": "_ Lesson Two Grammar\n\n1 Listen to the story again and repeat. Act.\n2 Look and say.\n\n| Let's learn! |\n\nare bags. is a ruler. are pencils. is a computer.\n\n4 Pointandsay. | chairs pencilcase board tables ruler coat hooks\n\njoe are coat hooks. |\nRES y This isa...\n\nThatisa...\n\nThese are ...\n\nThese / Those are... Unit 1 9\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": "",
+      "footer_passes": [
+        "fepiertel As som ray ae",
+        "_ These ai\n\n5 Mae RE Eat\n\nThese / Those are\n\nUnit 1"
+      ]
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8384,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "7 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "grammar",
+    "pagePurpose": null,
+    "readingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "headings": [
+      {
+        "id": "text_0001",
+        "content": "Lesson Two Grammar",
+        "confidence": 0.9017,
+        "bbox": {
+          "x": 0.671333,
+          "y": 0.028311,
+          "width": 0.288,
+          "height": 0.024772
+        },
+        "repaired": true,
+        "sourceElementIds": [
+          "text_0001"
+        ]
+      },
+      {
+        "id": "text_0004",
+        "content": "Let's learn!",
+        "confidence": 0.8231,
+        "bbox": {
+          "x": 0.088667,
+          "y": 0.137513,
+          "width": 0.175333,
+          "height": 0.026289
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      }
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Lesson Two Grammar",
+        "originalContent": "LessonTwoGrammar",
+        "confidence": 0.9017,
+        "bbox": {
+          "x": 0.671333,
+          "y": 0.028311,
+          "width": 0.288,
+          "height": 0.024772
+        },
+        "repaired": true,
+        "repairNotes": [
+          "heading"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "LessonTwoGrammar",
+            "confidence": 0.9017
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "_ Lesson Two Grammar",
+            "confidence": 0.7825
+          }
+        ]
+      },
+      {
+        "id": "text_0002",
+        "type": "instruction",
+        "content": "1 Listen to the story again and repeat. Act.",
+        "originalContent": "1 Listen to the story again and repeat. Act.",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.034677,
+          "y": 0.064506,
+          "width": 0.509274,
+          "height": 0.020177
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listen to thestory again and repeat.Act.",
+            "confidence": 0.8561
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Listen to the story again and repeat. Act.",
+            "confidence": 0.9
+          }
+        ]
+      },
+      {
+        "id": "text_0003",
+        "type": "instruction",
+        "content": "2 Look and say.",
+        "originalContent": "2 Look and say.",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.033468,
+          "y": 0.097829,
+          "width": 0.192339,
+          "height": 0.020177
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2 Look and say.",
+            "confidence": 0.8498
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Look and say.",
+            "confidence": 0.94
+          }
+        ]
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Let's learn!",
+        "originalContent": "Let's learn!",
+        "confidence": 0.8231,
+        "bbox": {
+          "x": 0.088667,
+          "y": 0.137513,
+          "width": 0.175333,
+          "height": 0.026289
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Let's learn!",
+            "confidence": 0.8231
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| Let's learn! |",
+            "confidence": 0.775
+          }
+        ]
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "This is the",
+        "originalContent": "This is the",
+        "confidence": 0.7647,
+        "bbox": {
+          "x": 0.104,
+          "y": 0.336198,
+          "width": 0.109333,
+          "height": 0.019717
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "That is a",
+        "originalContent": "Thatis a",
+        "confidence": 0.8306,
+        "bbox": {
+          "x": 0.35,
+          "y": 0.337715,
+          "width": 0.094,
+          "height": 0.018706
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "These are",
+        "originalContent": "Theseare",
+        "confidence": 0.8512,
+        "bbox": {
+          "x": 0.562667,
+          "y": 0.33822,
+          "width": 0.11,
+          "height": 0.020222
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "Those are",
+        "originalContent": "Those are",
+        "confidence": 0.7786,
+        "bbox": {
+          "x": 0.775333,
+          "y": 0.339232,
+          "width": 0.110667,
+          "height": 0.019211
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "new board.",
+        "originalContent": "new board.",
+        "confidence": 0.8826,
+        "bbox": {
+          "x": 0.333333,
+          "y": 0.362487,
+          "width": 0.124,
+          "height": 0.019717
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "new computer.",
+        "originalContent": "newcomputer.",
+        "confidence": 0.8543,
+        "bbox": {
+          "x": 0.078667,
+          "y": 0.365521,
+          "width": 0.160667,
+          "height": 0.016684
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "new tables.",
+        "originalContent": "newtables.",
+        "confidence": 0.8717,
+        "bbox": {
+          "x": 0.553333,
+          "y": 0.365521,
+          "width": 0.122667,
+          "height": 0.017189
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "new coat hooks.",
+        "originalContent": "new coathooks.",
+        "confidence": 0.8195,
+        "bbox": {
+          "x": 0.742667,
+          "y": 0.366026,
+          "width": 0.172,
+          "height": 0.016684
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0013",
+        "type": "instruction",
+        "content": "Write.",
+        "originalContent": "Write.",
+        "confidence": 0.7061,
+        "bbox": {
+          "x": 0.045333,
+          "y": 0.445905,
+          "width": 0.088,
+          "height": 0.019717
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "This",
+        "originalContent": "This",
+        "confidence": 0.7003,
+        "bbox": {
+          "x": 0.178,
+          "y": 0.446916,
+          "width": 0.052,
+          "height": 0.022245
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "That",
+        "originalContent": "That",
+        "confidence": 0.7713,
+        "bbox": {
+          "x": 0.259333,
+          "y": 0.447927,
+          "width": 0.057333,
+          "height": 0.021234
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "These",
+        "originalContent": "These",
+        "confidence": 0.8269,
+        "bbox": {
+          "x": 0.347333,
+          "y": 0.448433,
+          "width": 0.070667,
+          "height": 0.021234
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Those",
+        "originalContent": "Those",
+        "confidence": 0.83,
+        "bbox": {
+          "x": 0.448,
+          "y": 0.448433,
+          "width": 0.072,
+          "height": 0.02275
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0018",
+        "type": "sentence",
+        "content": "are bags.",
+        "originalContent": "are bags.",
+        "confidence": 0.8493,
+        "bbox": {
+          "x": 0.160667,
+          "y": 0.64459,
+          "width": 0.102,
+          "height": 0.02275
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0019",
+        "type": "sentence",
+        "content": "is a ruler.",
+        "originalContent": "is a ruler.",
+        "confidence": 0.858,
+        "bbox": {
+          "x": 0.36,
+          "y": 0.645602,
+          "width": 0.102,
+          "height": 0.020222
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "are bags. is a ruler. are pencils. is a computer.",
+        "originalContent": "are bags. is a ruler. are pencils. is a computer.",
+        "confidence": 0.919,
+        "bbox": {
+          "x": 0.164919,
+          "y": 0.64812,
+          "width": 0.795968,
+          "height": 0.01926
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "are pencils.",
+            "confidence": 0.8808
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "are bags. is a ruler. are pencils. is a computer.",
+            "confidence": 0.919
+          },
+          {
+            "engine": "rapidocr",
+            "content": "is a computer.",
+            "confidence": 0.8419
+          }
+        ]
+      },
+      {
+        "id": "text_0021",
+        "type": "instruction",
+        "content": "4 Point and say",
+        "originalContent": "4 Pointandsay",
+        "confidence": 0.8737,
+        "bbox": {
+          "x": 0.026667,
+          "y": 0.69818,
+          "width": 0.198667,
+          "height": 0.022245
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4 Pointandsay",
+            "confidence": 0.8737
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 Pointandsay. | chairs pencilcase board tables ruler coat hooks",
+            "confidence": 0.782
+          }
+        ]
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "pencil case",
+        "originalContent": "pencil case",
+        "confidence": 0.8207,
+        "bbox": {
+          "x": 0.376,
+          "y": 0.701719,
+          "width": 0.122,
+          "height": 0.021739
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "chairs",
+        "originalContent": "chairs",
+        "confidence": 0.8077,
+        "bbox": {
+          "x": 0.274667,
+          "y": 0.702224,
+          "width": 0.068,
+          "height": 0.019211
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "board",
+        "originalContent": "board",
+        "confidence": 0.7549,
+        "bbox": {
+          "x": 0.532,
+          "y": 0.70273,
+          "width": 0.069333,
+          "height": 0.019211
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "tables",
+        "originalContent": "tables",
+        "confidence": 0.8492,
+        "bbox": {
+          "x": 0.633333,
+          "y": 0.703741,
+          "width": 0.070667,
+          "height": 0.019211
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "ruler",
+        "originalContent": "ruler",
+        "confidence": 0.8169,
+        "bbox": {
+          "x": 0.736,
+          "y": 0.703741,
+          "width": 0.056667,
+          "height": 0.019717
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "coat hooks",
+        "originalContent": "coathooks",
+        "confidence": 0.852,
+        "bbox": {
+          "x": 0.824,
+          "y": 0.703741,
+          "width": 0.118667,
+          "height": 0.019717
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "Those are coat hooks",
+        "originalContent": "Thosearecoathooks",
+        "confidence": 0.9234,
+        "bbox": {
+          "x": 0.529333,
+          "y": 0.753792,
+          "width": 0.199333,
+          "height": 0.017189
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase",
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "joe are coat hooks. |",
+            "confidence": 0.832
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Thosearecoathooks",
+            "confidence": 0.9234
+          }
+        ]
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "This is a.",
+        "originalContent": "This is a.",
+        "confidence": 0.7807,
+        "bbox": {
+          "x": 0.581333,
+          "y": 0.79727,
+          "width": 0.11,
+          "height": 0.02275
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "RES y This isa...",
+            "confidence": 0.67
+          },
+          {
+            "engine": "rapidocr",
+            "content": "This is a.",
+            "confidence": 0.7807
+          }
+        ]
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "That isa...",
+        "originalContent": "Thatisa...",
+        "confidence": 0.89,
+        "bbox": {
+          "x": 0.580645,
+          "y": 0.841027,
+          "width": 0.109677,
+          "height": 0.014063
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Thatis a.",
+            "confidence": 0.819
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Thatisa...",
+            "confidence": 0.89
+          }
+        ]
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "These are...",
+        "originalContent": "These are ...",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.583065,
+          "y": 0.88291,
+          "width": 0.115323,
+          "height": 0.013146
+        },
+        "repaired": true,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "These are",
+            "confidence": 0.82
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "These are ...",
+            "confidence": 0.9
+          }
+        ]
+      },
+      {
+        "id": "text_0032",
+        "type": "paragraph",
+        "content": "These / Those are... Unit 1 9",
+        "originalContent": "These / Those are... Unit 1 9",
+        "confidence": 0.8814,
+        "bbox": {
+          "x": 0.66129,
+          "y": 0.958117,
+          "width": 0.316935,
+          "height": 0.013146
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "These / Those are... Unit 1 9",
+            "confidence": 0.8814
+          },
+          {
+            "engine": "rapidocr",
+            "content": "These/Thoseare..",
+            "confidence": 0.8214
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Unit1",
+            "confidence": 0.783
+          }
+        ]
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Lesson Two Grammar",
+      "1 Listen to the story again and repeat. Act.",
+      "2 Look and say.",
+      "Let's learn!",
+      "This is the",
+      "That is a",
+      "These are",
+      "Those are",
+      "new board.",
+      "new computer.",
+      "new tables.",
+      "new coat hooks.",
+      "Write.",
+      "This",
+      "That",
+      "These",
+      "Those",
+      "are bags.",
+      "is a ruler.",
+      "are bags. is a ruler. are pencils. is a computer.",
+      "4 Point and say",
+      "pencil case",
+      "chairs",
+      "board",
+      "tables",
+      "ruler",
+      "coat hooks",
+      "Those are coat hooks",
+      "This is a.",
+      "That isa...",
+      "These are...",
+      "These / Those are... Unit 1 9"
+    ],
+    "paragraphs": [
+      {
+        "id": "text_0032",
+        "content": "These / Those are... Unit 1 9",
+        "confidence": 0.8814,
+        "bbox": {
+          "x": 0.66129,
+          "y": 0.958117,
+          "width": 0.316935,
+          "height": 0.013146
+        },
+        "sourceElementIds": [
+          "text_0032"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "text_0005",
+        "content": "This is the",
+        "confidence": 0.7647,
+        "bbox": {
+          "x": 0.104,
+          "y": 0.336198,
+          "width": 0.109333,
+          "height": 0.019717
+        },
+        "sourceElementIds": [
+          "text_0005"
+        ]
+      },
+      {
+        "id": "text_0006",
+        "content": "That is a",
+        "confidence": 0.8306,
+        "bbox": {
+          "x": 0.35,
+          "y": 0.337715,
+          "width": 0.094,
+          "height": 0.018706
+        },
+        "sourceElementIds": [
+          "text_0006"
+        ]
+      },
+      {
+        "id": "text_0007",
+        "content": "These are",
+        "confidence": 0.8512,
+        "bbox": {
+          "x": 0.562667,
+          "y": 0.33822,
+          "width": 0.11,
+          "height": 0.020222
+        },
+        "sourceElementIds": [
+          "text_0007"
+        ]
+      },
+      {
+        "id": "text_0008",
+        "content": "Those are",
+        "confidence": 0.7786,
+        "bbox": {
+          "x": 0.775333,
+          "y": 0.339232,
+          "width": 0.110667,
+          "height": 0.019211
+        },
+        "sourceElementIds": [
+          "text_0008"
+        ]
+      },
+      {
+        "id": "text_0018",
+        "content": "are bags.",
+        "confidence": 0.8493,
+        "bbox": {
+          "x": 0.160667,
+          "y": 0.64459,
+          "width": 0.102,
+          "height": 0.02275
+        },
+        "sourceElementIds": [
+          "text_0018"
+        ]
+      },
+      {
+        "id": "text_0019",
+        "content": "is a ruler.",
+        "confidence": 0.858,
+        "bbox": {
+          "x": 0.36,
+          "y": 0.645602,
+          "width": 0.102,
+          "height": 0.020222
+        },
+        "sourceElementIds": [
+          "text_0019"
+        ]
+      },
+      {
+        "id": "text_0020",
+        "content": "are bags. is a ruler. are pencils. is a computer.",
+        "confidence": 0.919,
+        "bbox": {
+          "x": 0.164919,
+          "y": 0.64812,
+          "width": 0.795968,
+          "height": 0.01926
+        },
+        "sourceElementIds": [
+          "text_0020"
+        ]
+      },
+      {
+        "id": "text_0028",
+        "content": "Those are coat hooks",
+        "confidence": 0.9234,
+        "bbox": {
+          "x": 0.529333,
+          "y": 0.753792,
+          "width": 0.199333,
+          "height": 0.017189
+        },
+        "sourceElementIds": [
+          "text_0028"
+        ]
+      },
+      {
+        "id": "text_0029",
+        "content": "This is a.",
+        "confidence": 0.7807,
+        "bbox": {
+          "x": 0.581333,
+          "y": 0.79727,
+          "width": 0.11,
+          "height": 0.02275
+        },
+        "sourceElementIds": [
+          "text_0029"
+        ]
+      },
+      {
+        "id": "text_0030",
+        "content": "That isa...",
+        "confidence": 0.89,
+        "bbox": {
+          "x": 0.580645,
+          "y": 0.841027,
+          "width": 0.109677,
+          "height": 0.014063
+        },
+        "sourceElementIds": [
+          "text_0030"
+        ]
+      },
+      {
+        "id": "text_0031",
+        "content": "These are...",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.583065,
+          "y": 0.88291,
+          "width": 0.115323,
+          "height": 0.013146
+        },
+        "sourceElementIds": [
+          "text_0031"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "This is the",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7647,
+        "sourceElementIds": [
+          "text_0005"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "That is a",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8306,
+        "sourceElementIds": [
+          "text_0006"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "These are",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8512,
+        "sourceElementIds": [
+          "text_0007"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "Those are",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7786,
+        "sourceElementIds": [
+          "text_0008"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "new board",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8826,
+        "sourceElementIds": [
+          "text_0009"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "new computer",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8543,
+        "sourceElementIds": [
+          "text_0010"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "new tables",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8717,
+        "sourceElementIds": [
+          "text_0011"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "new coat hooks",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8195,
+        "sourceElementIds": [
+          "text_0012"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "are bags",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8493,
+        "sourceElementIds": [
+          "text_0018"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "is a ruler",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.858,
+        "sourceElementIds": [
+          "text_0019"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "pencil case",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8207,
+        "sourceElementIds": [
+          "text_0022"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "chairs",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8077,
+        "sourceElementIds": [
+          "text_0023"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "board",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7549,
+        "sourceElementIds": [
+          "text_0024"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "tables",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8492,
+        "sourceElementIds": [
+          "text_0025"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "ruler",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8169,
+        "sourceElementIds": [
+          "text_0026"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "coat hooks",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.852,
+        "sourceElementIds": [
+          "text_0027"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "This is a",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7807,
+        "sourceElementIds": [
+          "text_0029"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "That isa",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.89,
+        "sourceElementIds": [
+          "text_0030"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "topic": "Lesson Two Grammar",
+        "rule": [
+          "This is the",
+          "is a ruler.",
+          "are bags. is a ruler. are pencils. is a computer.",
+          "This is a.",
+          "These are...",
+          "These / Those are... Unit 1 9"
+        ],
+        "form": null,
+        "positiveExamples": [],
+        "negativeExamples": [],
+        "questionForms": [],
+        "shortAnswers": [],
+        "exceptions": [],
+        "usageNotes": [],
+        "practice": [
+          "1 Listen to the story again and repeat. Act.",
+          "2 Look and say.",
+          "Write.",
+          "4 Point and say"
+        ],
+        "confidence": 0.8384
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "lines": [
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "are bags.",
+            "confidence": 0.8493,
+            "bbox": {
+              "x": 0.160667,
+              "y": 0.64459,
+              "width": 0.102,
+              "height": 0.02275
+            },
+            "sourceElementId": "text_0018",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "is a ruler.",
+            "confidence": 0.858,
+            "bbox": {
+              "x": 0.36,
+              "y": 0.645602,
+              "width": 0.102,
+              "height": 0.020222
+            },
+            "sourceElementId": "text_0019",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "are bags.",
+            "confidence": 0.919,
+            "bbox": {
+              "x": 0.164919,
+              "y": 0.64812,
+              "width": 0.795968,
+              "height": 0.01926
+            },
+            "sourceElementId": "text_0020",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "is a ruler.",
+            "confidence": 0.919,
+            "bbox": {
+              "x": 0.164919,
+              "y": 0.64812,
+              "width": 0.795968,
+              "height": 0.01926
+            },
+            "sourceElementId": "text_0020",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "are pencils.",
+            "confidence": 0.919,
+            "bbox": {
+              "x": 0.164919,
+              "y": 0.64812,
+              "width": 0.795968,
+              "height": 0.01926
+            },
+            "sourceElementId": "text_0020",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "is a computer.",
+            "confidence": 0.919,
+            "bbox": {
+              "x": 0.164919,
+              "y": 0.64812,
+              "width": 0.795968,
+              "height": 0.01926
+            },
+            "sourceElementId": "text_0020",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          }
+        ],
+        "confidence": 0.8972166666666667
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "listening_activity",
+        "instruction": "Listen to the story again and repeat. Act.",
+        "items": [],
+        "prompts": [],
+        "blanks": [],
+        "choices": [],
+        "matchingPairs": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "sourceElementIds": [
+          "text_0002"
+        ],
+        "confidence": 0.9,
+        "repairNotes": []
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "speaking_activity",
+        "instruction": "Look and say.",
+        "items": [],
+        "prompts": [],
+        "blanks": [],
+        "choices": [],
+        "matchingPairs": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "sourceElementIds": [
+          "text_0003"
+        ],
+        "confidence": 0.94,
+        "repairNotes": []
+      },
+      {
+        "exerciseNumber": "4",
+        "type": "speaking_activity",
+        "instruction": "Point and say",
+        "items": [],
+        "prompts": [],
+        "blanks": [],
+        "choices": [],
+        "matchingPairs": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "sourceElementIds": [
+          "text_0021"
+        ],
+        "confidence": 0.8737,
+        "repairNotes": []
+      },
+      {
+        "exerciseNumber": null,
+        "type": "writing_activity",
+        "instruction": "Write.",
+        "items": [],
+        "prompts": [],
+        "blanks": [],
+        "choices": [],
+        "matchingPairs": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "sourceElementIds": [
+          "text_0013"
+        ],
+        "confidence": 0.7061,
+        "repairNotes": []
+      }
+    ],
+    "tables": [
+      {
+        "title": null,
+        "headers": [],
+        "rows": [
+          [
+            "This is the"
+          ],
+          [
+            "That is a"
+          ],
+          [
+            "These are"
+          ],
+          [
+            "Those are"
+          ],
+          [
+            "new board."
+          ],
+          [
+            "new computer."
+          ],
+          [
+            "new tables."
+          ],
+          [
+            "new coat hooks."
+          ],
+          [
+            "Write."
+          ],
+          [
+            "This"
+          ],
+          [
+            "That"
+          ],
+          [
+            "These"
+          ],
+          [
+            "Those"
+          ],
+          [
+            "are bags."
+          ],
+          [
+            "is a ruler."
+          ],
+          [
+            "are bags. is a ruler. are pencils. is a computer."
+          ],
+          [
+            "4 Point and say"
+          ],
+          [
+            "pencil case"
+          ],
+          [
+            "chairs"
+          ],
+          [
+            "board"
+          ],
+          [
+            "tables"
+          ],
+          [
+            "ruler"
+          ],
+          [
+            "coat hooks"
+          ],
+          [
+            "Those are coat hooks"
+          ],
+          [
+            "This is a."
+          ],
+          [
+            "That isa..."
+          ],
+          [
+            "These are..."
+          ]
+        ],
+        "tableStructureConfidence": "high",
+        "fallbackText": "LessonTwoGrammar 1 Listen to the story again and repeat. Act. 2 Look and say. Let's learn! This is the Thatis a Theseare Those are new board. newcomputer. newtables. new coathooks. Write. This That These Those are bags. is a ruler. are bags. is a ruler. are pencils. is a computer. 4 Pointandsay pencil case chairs board tables ruler coathooks Thosearecoathooks This is a. Thatisa... These are ... These / Those are... Unit 1 9",
+        "sourceElementIds": [
+          "text_0001",
+          "text_0002",
+          "text_0003",
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032"
+        ]
+      }
+    ],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "This is the",
+          "That is a",
+          "These are",
+          "Those are",
+          "new board.",
+          "new computer.",
+          "new tables.",
+          "new coat hooks.",
+          "Write.",
+          "This",
+          "That",
+          "These",
+          "Those"
+        ],
+        "position": {
+          "x": 0.025333,
+          "y": 0.316198,
+          "width": 0.909334,
+          "height": 0.174985
+        },
+        "textElementIds": [
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "are bags.",
+          "is a ruler.",
+          "are bags. is a ruler. are pencils. is a computer.",
+          "4 Point and say",
+          "pencil case",
+          "chairs",
+          "board",
+          "tables",
+          "ruler",
+          "coat hooks",
+          "Those are coat hooks",
+          "This is a."
+        ],
+        "position": {
+          "x": 0.006667,
+          "y": 0.62459,
+          "width": 0.97422,
+          "height": 0.21543
+        },
+        "textElementIds": [
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "nonEducationalText": [],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "grammar",
+    "title": "Lesson Two Grammar",
+    "learningObjectives": [
+      "Study content: Lesson Two Grammar"
+    ],
+    "targetVocabulary": [
+      {
+        "word": "This is the",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7647,
+        "sourceElementIds": [
+          "text_0005"
+        ]
+      },
+      {
+        "word": "That is a",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8306,
+        "sourceElementIds": [
+          "text_0006"
+        ]
+      },
+      {
+        "word": "These are",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8512,
+        "sourceElementIds": [
+          "text_0007"
+        ]
+      },
+      {
+        "word": "Those are",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7786,
+        "sourceElementIds": [
+          "text_0008"
+        ]
+      },
+      {
+        "word": "new board",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8826,
+        "sourceElementIds": [
+          "text_0009"
+        ]
+      },
+      {
+        "word": "new computer",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8543,
+        "sourceElementIds": [
+          "text_0010"
+        ]
+      },
+      {
+        "word": "new tables",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8717,
+        "sourceElementIds": [
+          "text_0011"
+        ]
+      },
+      {
+        "word": "new coat hooks",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8195,
+        "sourceElementIds": [
+          "text_0012"
+        ]
+      },
+      {
+        "word": "are bags",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8493,
+        "sourceElementIds": [
+          "text_0018"
+        ]
+      },
+      {
+        "word": "is a ruler",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.858,
+        "sourceElementIds": [
+          "text_0019"
+        ]
+      },
+      {
+        "word": "pencil case",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8207,
+        "sourceElementIds": [
+          "text_0022"
+        ]
+      },
+      {
+        "word": "chairs",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8077,
+        "sourceElementIds": [
+          "text_0023"
+        ]
+      },
+      {
+        "word": "board",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7549,
+        "sourceElementIds": [
+          "text_0024"
+        ]
+      },
+      {
+        "word": "tables",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8492,
+        "sourceElementIds": [
+          "text_0025"
+        ]
+      },
+      {
+        "word": "ruler",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8169,
+        "sourceElementIds": [
+          "text_0026"
+        ]
+      },
+      {
+        "word": "coat hooks",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.852,
+        "sourceElementIds": [
+          "text_0027"
+        ]
+      },
+      {
+        "word": "This is a",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7807,
+        "sourceElementIds": [
+          "text_0029"
+        ]
+      },
+      {
+        "word": "That isa",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.89,
+        "sourceElementIds": [
+          "text_0030"
+        ]
+      }
+    ],
+    "expressions": [],
+    "grammar": [
+      {
+        "topic": "Lesson Two Grammar",
+        "rule": [
+          "This is the",
+          "is a ruler.",
+          "are bags. is a ruler. are pencils. is a computer.",
+          "This is a.",
+          "These are...",
+          "These / Those are... Unit 1 9"
+        ],
+        "form": null,
+        "positiveExamples": [],
+        "negativeExamples": [],
+        "questionForms": [],
+        "shortAnswers": [],
+        "exceptions": [],
+        "usageNotes": [],
+        "practice": [
+          "1 Listen to the story again and repeat. Act.",
+          "2 Look and say.",
+          "Write.",
+          "4 Point and say"
+        ],
+        "confidence": 0.8384
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "are bags.",
+            "confidence": 0.8493
+          },
+          {
+            "speaker": null,
+            "content": "is a ruler.",
+            "confidence": 0.858
+          },
+          {
+            "speaker": null,
+            "content": "are pencils.",
+            "confidence": 0.919
+          },
+          {
+            "speaker": null,
+            "content": "is a computer.",
+            "confidence": 0.919
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "listening_activity",
+        "instruction": "Listen to the story again and repeat. Act.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.9,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "speaking_activity",
+        "instruction": "Look and say.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.94,
+        "sourceElementIds": [
+          "text_0003"
+        ]
+      },
+      {
+        "exerciseNumber": "4",
+        "type": "speaking_activity",
+        "instruction": "Point and say",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8737,
+        "sourceElementIds": [
+          "text_0021"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "writing_activity",
+        "instruction": "Write.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.7061,
+        "sourceElementIds": [
+          "text_0013"
+        ]
+      }
+    ],
+    "pronunciation": [],
+    "listening": [
+      {
+        "exerciseNumber": "1",
+        "instruction": "Listen to the story again and repeat. Act.",
+        "type": "listening_activity",
+        "confidence": 0.9
+      }
+    ],
+    "speaking": [
+      {
+        "exerciseNumber": "1",
+        "instruction": "Listen to the story again and repeat. Act.",
+        "type": "listening_activity",
+        "confidence": 0.9
+      },
+      {
+        "exerciseNumber": "2",
+        "instruction": "Look and say.",
+        "type": "speaking_activity",
+        "confidence": 0.94
+      },
+      {
+        "exerciseNumber": "4",
+        "instruction": "Point and say",
+        "type": "speaking_activity",
+        "confidence": 0.8737
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Write.",
+        "type": "writing_activity",
+        "confidence": 0.7061
+      }
+    ],
+    "writing": [
+      {
+        "exerciseNumber": null,
+        "instruction": "Write.",
+        "type": "writing_activity",
+        "confidence": 0.7061
+      }
+    ],
+    "songsOrPoems": [],
+    "tables": [
+      {
+        "title": null,
+        "headers": [],
+        "rows": [
+          [
+            "This is the"
+          ],
+          [
+            "That is a"
+          ],
+          [
+            "These are"
+          ],
+          [
+            "Those are"
+          ],
+          [
+            "new board."
+          ],
+          [
+            "new computer."
+          ],
+          [
+            "new tables."
+          ],
+          [
+            "new coat hooks."
+          ],
+          [
+            "Write."
+          ],
+          [
+            "This"
+          ],
+          [
+            "That"
+          ],
+          [
+            "These"
+          ],
+          [
+            "Those"
+          ],
+          [
+            "are bags."
+          ],
+          [
+            "is a ruler."
+          ],
+          [
+            "are bags. is a ruler. are pencils. is a computer."
+          ],
+          [
+            "4 Point and say"
+          ],
+          [
+            "pencil case"
+          ],
+          [
+            "chairs"
+          ],
+          [
+            "board"
+          ],
+          [
+            "tables"
+          ],
+          [
+            "ruler"
+          ],
+          [
+            "coat hooks"
+          ],
+          [
+            "Those are coat hooks"
+          ],
+          [
+            "This is a."
+          ],
+          [
+            "That isa..."
+          ],
+          [
+            "These are..."
+          ]
+        ],
+        "tableStructureConfidence": "high",
+        "fallbackText": "LessonTwoGrammar 1 Listen to the story again and repeat. Act. 2 Look and say. Let's learn! This is the Thatis a Theseare Those are new board. newcomputer. newtables. new coathooks. Write. This That These Those are bags. is a ruler. are bags. is a ruler. are pencils. is a computer. 4 Pointandsay pencil case chairs board tables ruler coathooks Thosearecoathooks This is a. Thatisa... These are ... These / Those are... Unit 1 9",
+        "sourceElementIds": [
+          "text_0001",
+          "text_0002",
+          "text_0003",
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032"
+        ]
+      }
+    ]
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "text_repaired": 11,
+      "text_kept": 32,
+      "vocab_kept": 23,
+      "grammar_items": 1,
+      "dialogue_lines": 6,
+      "dialogues_reconstructed": 1,
+      "exercises_reconstructed": 4,
+      "tables": 1
+    },
+    "averageOcrConfidence": 0.8384
+  },
+  "metadata": {
+    "book": "Family and Friends 2 Student Book (American)",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_ff2_v1",
+    "originalOcrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "originalAverageConfidence": 0.8384,
+    "noHallucinationPolicy": "Definitions, translations, speaker names, answers, and grammar rules are null or omitted unless visibly supported by page OCR/PDF. Text repairs are limited to spacing, punctuation, and clear OCR character errors."
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "pageNumber": 160,
+  "pageNumberDetected": false,
+  "pageNumberDetectionMethod": "fallback to PDF page number; printed book number not confidently detected",
+  "pdfPageNumber": 160,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 2_Part7.pdf",
+    "pdfLocalPageNumber": 21,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [],
+    "ocrExercises": [],
+    "ocrTables": [],
+    "ocrImages": [],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "Irregularverbs\nBaseform\nSimplepast\nPast Participle\nBase form\nSimplepast\nPast Participle\nbe\nbeen\nwas,were\nmeet\nmet\nmet\nbecome\nbecame\npled\nbecome\npaid\npay\nbuild\nbuilt\nbuilt\nput\nput\nput\nbuy\nbought\nbought\nread\nread\nread\nchoose\nchose\nchosen\nride\nridden\nrode\ncome\ncame\ncome\nrun\nrun\ndo\np!p\ndone\nsaid\nsaid\nsay\ndraw\ndrew\ndrawn\nsee\nsaw\nseen\ndrink\ndrank\ndrunk\nsell\nsold\nsold\ndrive\ndrove\ndriven\nsend\nsent\nsent\neat\nsing\nate\neaten\nsang\nsung\nfelt\nfeel\nfelt\nsit\nsat\nsat\ngot\nget\nsleep\ngotten\nslept\nslept\ngiven\ngive\ngave\nspeak\nspoken\nspoke\ngone\ngo\nspent\nwent\nspend\nspent\nhang\nhung\nhung\nstand\nstood\nstood\nhave\nhad\nhad\nswim\nswam\nswum\nhear\nheard\nheard\ntake\ntook\ntaken\nhold\nheld\nheld\nteach\ntaught\ntaught\nknow\nknew\nknown\nthink\nthought\nthought\nleave\nleft\nleft\nwear\nwore\nworn\nlose\nlost\nlost\nwin\nwon\nwon\nmake\nmade\nmade\nwrite\nwritten\nwrote\n153\ndehkhodaedu.com\nIrregularverbs",
+      "tesseract_psm3": "Irregular verbs\n\nBaseform _| Simplepast _ Past Participle Baseform _|_ Simp __| Past Partici\nFwaswere [been\n\nee\n\nCr\n\n[ne | mde [iter\n\nt\n\nsay\n\nsent sent\n\n“\n+\n\net\n\nte\nd\n\nslept slept\n\ni\nmace |\n\n155\n\nirregular verbs\n\n=\n\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [
+      {
+        "id": "text_0013",
+        "type": "text",
+        "content": "ee",
+        "confidence": 0.15,
+        "bbox": {
+          "x": 0.48902,
+          "y": 0.191818,
+          "width": 0.366667,
+          "height": 0.024545
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0149",
+        "type": "text",
+        "content": "=",
+        "confidence": 0.89,
+        "bbox": {
+          "x": 0.550588,
+          "y": 0.957273,
+          "width": 0.021569,
+          "height": 0.007576
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "averageConfidence": 0.7787,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "Printed book page number was not confidently detected; pageNumber uses the PDF-page fallback and pageNumberDetected is false.",
+      "105 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "2 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "publisher_metadata",
+    "headings": [],
+    "textElements": [],
+    "fullTextReadingOrder": [],
+    "paragraphs": [],
+    "sentences": [],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [],
+    "exercises": [],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "publisher_metadata",
+    "title": "",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [],
+    "reading": [],
+    "exercises": [],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "Printed book page number was not confidently detected; pageNumber uses the PDF-page fallback and pageNumberDetected is false.",
+      "105 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "2 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {},
+    "averageOcrConfidence": 0.7787,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 2 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc2_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

@@ -1,0 +1,2466 @@
+{
+  "pageNumber": 4,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "pdf_visual_verification",
+  "pdfPageNumber": 5,
+  "source": {
+    "pdfFile": "Family and Friends 1 SB_Part1.pdf",
+    "pdfLocalPageNumber": 5,
+    "pageSizePoints": {
+      "width": 598.08,
+      "height": 796.32
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Hello!",
+        "confidence": 0.8431,
+        "bbox": {
+          "x": 0.317333,
+          "y": 0.036054,
+          "width": 0.188667,
+          "height": 0.045568
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Starter",
+        "confidence": 0.8583,
+        "bbox": {
+          "x": 0.056667,
+          "y": 0.04006,
+          "width": 0.187333,
+          "height": 0.040561
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Lesson One",
+        "confidence": 0.8821,
+        "bbox": {
+          "x": 0.058,
+          "y": 0.104156,
+          "width": 0.132667,
+          "height": 0.018528
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Listen, point, and repeat.",
+        "confidence": 0.8525,
+        "bbox": {
+          "x": 0.069333,
+          "y": 0.157236,
+          "width": 0.297333,
+          "height": 0.019529
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "01",
+        "confidence": 0.6397,
+        "bbox": {
+          "x": 0.397333,
+          "y": 0.162744,
+          "width": 0.012667,
+          "height": 0.009014
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "Billy",
+        "confidence": 0.7877,
+        "bbox": {
+          "x": 0.491333,
+          "y": 0.262394,
+          "width": 0.052,
+          "height": 0.023035
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Tim",
+        "confidence": 0.7445,
+        "bbox": {
+          "x": 0.312,
+          "y": 0.263896,
+          "width": 0.046667,
+          "height": 0.02003
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "Rosy",
+        "confidence": 0.7521,
+        "bbox": {
+          "x": 0.124667,
+          "y": 0.265398,
+          "width": 0.056,
+          "height": 0.02003
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "Miss Jones",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.648074,
+          "y": 0.266124,
+          "width": 0.107945,
+          "height": 0.012658
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "MissJones",
+            "confidence": 0.872
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Miss Jones",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "instruction",
+        "content": "Listen and sing",
+        "confidence": 0.8132,
+        "bbox": {
+          "x": 0.068,
+          "y": 0.328493,
+          "width": 0.188,
+          "height": 0.021032
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listen and sing",
+            "confidence": 0.8132
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listen and sing. @",
+            "confidence": 0.7275
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "02",
+        "confidence": 0.659,
+        "bbox": {
+          "x": 0.294667,
+          "y": 0.335003,
+          "width": 0.015333,
+          "height": 0.010516
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0012",
+        "type": "sentence",
+        "content": "Hello,RosyHello, Tim.Hello,everyone.",
+        "confidence": 0.8887,
+        "bbox": {
+          "x": 0.443333,
+          "y": 0.344517,
+          "width": 0.346667,
+          "height": 0.015523
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "sentence",
+        "content": "Hello, Billy and Miss Jones, Come and have some fun!",
+        "confidence": 0.9045,
+        "bbox": {
+          "x": 0.377333,
+          "y": 0.367551,
+          "width": 0.478667,
+          "height": 0.018528
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "instruction",
+        "content": "Listen andread.",
+        "confidence": 0.8498,
+        "bbox": {
+          "x": 0.078667,
+          "y": 0.435653,
+          "width": 0.186,
+          "height": 0.016525
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listen and read. @) os",
+            "confidence": 0.824
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen andread.",
+            "confidence": 0.8498
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "03",
+        "confidence": 0.6489,
+        "bbox": {
+          "x": 0.302,
+          "y": 0.440661,
+          "width": 0.013333,
+          "height": 0.009014
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "Hello.What'syourname?",
+        "confidence": 0.8984,
+        "bbox": {
+          "x": 0.116,
+          "y": 0.48022,
+          "width": 0.227333,
+          "height": 0.015023
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Hello. what 5 your hame? Hello, class.",
+            "confidence": 0.8
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Hello.What'syourname?",
+            "confidence": 0.8984
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "sentence",
+        "content": "Hello, class.",
+        "confidence": 0.8783,
+        "bbox": {
+          "x": 0.730667,
+          "y": 0.48022,
+          "width": 0.102,
+          "height": 0.015523
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "Myname'sMiss Jones.",
+        "confidence": 0.8529,
+        "bbox": {
+          "x": 0.687333,
+          "y": 0.499249,
+          "width": 0.192667,
+          "height": 0.018027
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Myname'sMiss Jones.",
+            "confidence": 0.8529
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My name's Miss Jones.",
+            "confidence": 0.7175
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "sentence",
+        "content": "My name's Rosy.",
+        "confidence": 0.884,
+        "bbox": {
+          "x": 0.229333,
+          "y": 0.512769,
+          "width": 0.147333,
+          "height": 0.021032
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "Oh! Who's this?",
+        "confidence": 0.8592,
+        "bbox": {
+          "x": 0.714,
+          "y": 0.52028,
+          "width": 0.139333,
+          "height": 0.015023
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Oh! Who's this?",
+            "confidence": 0.8592
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Oh! Who's this?",
+            "confidence": 0.82
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "And my name's Tim",
+        "confidence": 0.8435,
+        "bbox": {
+          "x": 0.275333,
+          "y": 0.651978,
+          "width": 0.182,
+          "height": 0.018528
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "AaBoCc",
+        "confidence": 0.6368,
+        "bbox": {
+          "x": 0.404667,
+          "y": 0.710566,
+          "width": 0.078,
+          "height": 0.022033
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0023",
+        "type": "sentence",
+        "content": "I'm two.",
+        "confidence": 0.7733,
+        "bbox": {
+          "x": 0.558667,
+          "y": 0.714572,
+          "width": 0.073333,
+          "height": 0.015523
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0024",
+        "type": "sentence",
+        "content": "He's Billy.",
+        "confidence": 0.8844,
+        "bbox": {
+          "x": 0.106,
+          "y": 0.717576,
+          "width": 0.083333,
+          "height": 0.019029
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "sentence",
+        "content": "I'msorry.Comeon,Billy",
+        "confidence": 0.8448,
+        "bbox": {
+          "x": 0.694667,
+          "y": 0.732098,
+          "width": 0.214,
+          "height": 0.015023
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "paragraph",
+        "content": "| Hi, Billy. How old are you? Goodbye!",
+        "confidence": 0.885,
+        "bbox": {
+          "x": 0.205859,
+          "y": 0.898734,
+          "width": 0.610754,
+          "height": 0.018686
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Goodbye!",
+            "confidence": 0.8603
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| Hi, Billy. How old are you? Goodbye!",
+            "confidence": 0.885
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Hi, Billy.How oldareyou?",
+            "confidence": 0.8819
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "Goodbye",
+        "confidence": 0.8357,
+        "bbox": {
+          "x": 0.230667,
+          "y": 0.951928,
+          "width": 0.073333,
+          "height": 0.017526
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "heading",
+        "content": "Starter",
+        "confidence": 0.8411,
+        "bbox": {
+          "x": 0.106,
+          "y": 0.95343,
+          "width": 0.059333,
+          "height": 0.015023
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "Hello",
+        "confidence": 0.6821,
+        "bbox": {
+          "x": 0.177333,
+          "y": 0.953931,
+          "width": 0.045333,
+          "height": 0.01302
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "Billy",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.491333,
+          "y": 0.262394,
+          "width": 0.052,
+          "height": 0.023035
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.7877
+      },
+      {
+        "word": "Tim",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.312,
+          "y": 0.263896,
+          "width": 0.046667,
+          "height": 0.02003
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.7445
+      },
+      {
+        "word": "Rosy",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.124667,
+          "y": 0.265398,
+          "width": 0.056,
+          "height": 0.02003
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.7521
+      },
+      {
+        "word": "Miss Jones",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.648074,
+          "y": 0.266124,
+          "width": 0.107945,
+          "height": 0.012658
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.95
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Hello,RosyHello, Tim.Hello,everyone.",
+            "confidence": 0.8887,
+            "bbox": {
+              "x": 0.443333,
+              "y": 0.344517,
+              "width": 0.346667,
+              "height": 0.015523
+            },
+            "sourceElementId": "text_0012",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Hello, Billy and Miss Jones, Come and have some fun!",
+            "confidence": 0.9045,
+            "bbox": {
+              "x": 0.377333,
+              "y": 0.367551,
+              "width": 0.478667,
+              "height": 0.018528
+            },
+            "sourceElementId": "text_0013",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Hello.What'syourname?",
+            "confidence": 0.8984,
+            "bbox": {
+              "x": 0.116,
+              "y": 0.48022,
+              "width": 0.227333,
+              "height": 0.015023
+            },
+            "sourceElementId": "text_0016",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Hello, class.",
+            "confidence": 0.8783,
+            "bbox": {
+              "x": 0.730667,
+              "y": 0.48022,
+              "width": 0.102,
+              "height": 0.015523
+            },
+            "sourceElementId": "text_0017",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Myname'sMiss Jones.",
+            "confidence": 0.8529,
+            "bbox": {
+              "x": 0.687333,
+              "y": 0.499249,
+              "width": 0.192667,
+              "height": 0.018027
+            },
+            "sourceElementId": "text_0018",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "My name's Rosy.",
+            "confidence": 0.884,
+            "bbox": {
+              "x": 0.229333,
+              "y": 0.512769,
+              "width": 0.147333,
+              "height": 0.021032
+            },
+            "sourceElementId": "text_0019",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Oh! Who's this?",
+            "confidence": 0.8592,
+            "bbox": {
+              "x": 0.714,
+              "y": 0.52028,
+              "width": 0.139333,
+              "height": 0.015023
+            },
+            "sourceElementId": "text_0020",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I'm two.",
+            "confidence": 0.7733,
+            "bbox": {
+              "x": 0.558667,
+              "y": 0.714572,
+              "width": 0.073333,
+              "height": 0.015523
+            },
+            "sourceElementId": "text_0023",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "He's Billy.",
+            "confidence": 0.8844,
+            "bbox": {
+              "x": 0.106,
+              "y": 0.717576,
+              "width": 0.083333,
+              "height": 0.019029
+            },
+            "sourceElementId": "text_0024",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I'msorry.Comeon,Billy",
+            "confidence": 0.8448,
+            "bbox": {
+              "x": 0.694667,
+              "y": 0.732098,
+              "width": 0.214,
+              "height": 0.015023
+            },
+            "sourceElementId": "text_0025",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Speech-bubble/dialogue-like text was detected spatially; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Billy",
+          "Tim",
+          "Rosy",
+          "Miss Jones",
+          "Listen and sing",
+          "02",
+          "Hello,RosyHello, Tim.Hello,everyone.",
+          "Hello, Billy and Miss Jones, Come and have some fun!"
+        ],
+        "position": {
+          "x": 0.048,
+          "y": 0.242394,
+          "width": 0.828,
+          "height": 0.163685
+        },
+        "textElementIds": [
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Listen andread.",
+          "03",
+          "Hello.What'syourname?",
+          "Hello, class.",
+          "Myname'sMiss Jones.",
+          "My name's Rosy.",
+          "Oh! Who's this?"
+        ],
+        "position": {
+          "x": 0.058667,
+          "y": 0.415653,
+          "width": 0.841333,
+          "height": 0.13965
+        },
+        "textElementIds": [
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "And my name's Tim",
+          "AaBoCc",
+          "I'm two.",
+          "He's Billy.",
+          "I'msorry.Comeon,Billy"
+        ],
+        "position": {
+          "x": 0.086,
+          "y": 0.631978,
+          "width": 0.842667,
+          "height": 0.135143
+        },
+        "textElementIds": [
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "rawOcrAudit": {
+      "rapidocr": "Hello!\nStarter\nLesson One\nListen, point, and repeat.\n01\nBilly\nTim\nMissJones\nRosy\nListen and sing\n02\nHello,RosyHello, Tim.Hello,everyone.\nHello, Billy and Miss Jones, Come and have some fun!\nListen andread.\n03\nHello.What'syourname?\nHello, class.\nMyname'sMiss Jones.\nMy name's Rosy.\nOh! Who's this?\nAnd my name's Tim\nAaBoCc\nI'm two.\nHe's Billy.\nI'msorry.Comeon,Billy\nGoodbye!\nHi, Billy.How oldareyou?\nGoodbye\nStarter\nHello",
+      "tesseract_psm3": "Miss Jones\n\nListen and sing. @\n\nListen and read. @) os\n\nHello. what 5 your hame? Hello, class.\nMy name's Miss Jones.\n\nOh! Who's this?\n\n| Hi, Billy. How old are you? Goodbye!\n\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": "",
+      "footer_passes": [
+        "~| Hi, Billy. How old are you? Goodbye! }\ni Starter Hello Goodbye",
+        "]\n\na\n\nSa\n\nHi, Billy. sow old are voit\n\nGoodby\n\n|\n\nStarter\n\nHello Goodbye"
+      ]
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8163,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "9 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "lesson",
+    "pagePurpose": null,
+    "readingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "headings": [
+      {
+        "id": "text_0001",
+        "content": "Hello!",
+        "confidence": 0.8431,
+        "bbox": {
+          "x": 0.317333,
+          "y": 0.036054,
+          "width": 0.188667,
+          "height": 0.045568
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0001"
+        ]
+      },
+      {
+        "id": "text_0002",
+        "content": "Starter",
+        "confidence": 0.8583,
+        "bbox": {
+          "x": 0.056667,
+          "y": 0.04006,
+          "width": 0.187333,
+          "height": 0.040561
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "id": "text_0003",
+        "content": "Lesson One",
+        "confidence": 0.8821,
+        "bbox": {
+          "x": 0.058,
+          "y": 0.104156,
+          "width": 0.132667,
+          "height": 0.018528
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0003"
+        ]
+      },
+      {
+        "id": "text_0004",
+        "content": "Listen, point, and repeat.",
+        "confidence": 0.8525,
+        "bbox": {
+          "x": 0.069333,
+          "y": 0.157236,
+          "width": 0.297333,
+          "height": 0.019529
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      },
+      {
+        "id": "text_0028",
+        "content": "Starter",
+        "confidence": 0.8411,
+        "bbox": {
+          "x": 0.106,
+          "y": 0.95343,
+          "width": 0.059333,
+          "height": 0.015023
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0028"
+        ]
+      }
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Hello!",
+        "originalContent": "Hello!",
+        "confidence": 0.8431,
+        "bbox": {
+          "x": 0.317333,
+          "y": 0.036054,
+          "width": 0.188667,
+          "height": 0.045568
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Starter",
+        "originalContent": "Starter",
+        "confidence": 0.8583,
+        "bbox": {
+          "x": 0.056667,
+          "y": 0.04006,
+          "width": 0.187333,
+          "height": 0.040561
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Lesson One",
+        "originalContent": "Lesson One",
+        "confidence": 0.8821,
+        "bbox": {
+          "x": 0.058,
+          "y": 0.104156,
+          "width": 0.132667,
+          "height": 0.018528
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Listen, point, and repeat.",
+        "originalContent": "Listen, point, and repeat.",
+        "confidence": 0.8525,
+        "bbox": {
+          "x": 0.069333,
+          "y": 0.157236,
+          "width": 0.297333,
+          "height": 0.019529
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "Billy",
+        "originalContent": "Billy",
+        "confidence": 0.7877,
+        "bbox": {
+          "x": 0.491333,
+          "y": 0.262394,
+          "width": 0.052,
+          "height": 0.023035
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Tim",
+        "originalContent": "Tim",
+        "confidence": 0.7445,
+        "bbox": {
+          "x": 0.312,
+          "y": 0.263896,
+          "width": 0.046667,
+          "height": 0.02003
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "Rosy",
+        "originalContent": "Rosy",
+        "confidence": 0.7521,
+        "bbox": {
+          "x": 0.124667,
+          "y": 0.265398,
+          "width": 0.056,
+          "height": 0.02003
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "Miss Jones",
+        "originalContent": "Miss Jones",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.648074,
+          "y": 0.266124,
+          "width": 0.107945,
+          "height": 0.012658
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "MissJones",
+            "confidence": 0.872
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Miss Jones",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "id": "text_0010",
+        "type": "instruction",
+        "content": "Listen and sing",
+        "originalContent": "Listen and sing",
+        "confidence": 0.8132,
+        "bbox": {
+          "x": 0.068,
+          "y": 0.328493,
+          "width": 0.188,
+          "height": 0.021032
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listen and sing",
+            "confidence": 0.8132
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listen and sing. @",
+            "confidence": 0.7275
+          }
+        ]
+      },
+      {
+        "id": "text_0012",
+        "type": "sentence",
+        "content": "Hello, Rosy Hello, Tim. Hello, everyone.",
+        "originalContent": "Hello,RosyHello, Tim.Hello,everyone.",
+        "confidence": 0.8887,
+        "bbox": {
+          "x": 0.443333,
+          "y": 0.344517,
+          "width": 0.346667,
+          "height": 0.015523
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase_space_restored",
+          "missing_spaces_split"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0013",
+        "type": "sentence",
+        "content": "Hello, Billy and Miss Jones, Come and have some fun!",
+        "originalContent": "Hello, Billy and Miss Jones, Come and have some fun!",
+        "confidence": 0.9045,
+        "bbox": {
+          "x": 0.377333,
+          "y": 0.367551,
+          "width": 0.478667,
+          "height": 0.018528
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0014",
+        "type": "instruction",
+        "content": "Listen and read.",
+        "originalContent": "Listen andread.",
+        "confidence": 0.8498,
+        "bbox": {
+          "x": 0.078667,
+          "y": 0.435653,
+          "width": 0.186,
+          "height": 0.016525
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase_space_restored"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listen and read. @) os",
+            "confidence": 0.824
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen andread.",
+            "confidence": 0.8498
+          }
+        ]
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "Hello. What's your name?",
+        "originalContent": "Hello.What'syourname?",
+        "confidence": 0.8984,
+        "bbox": {
+          "x": 0.116,
+          "y": 0.48022,
+          "width": 0.227333,
+          "height": 0.015023
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase_space_restored",
+          "missing_spaces_split"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Hello. what 5 your hame? Hello, class.",
+            "confidence": 0.8
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Hello.What'syourname?",
+            "confidence": 0.8984
+          }
+        ]
+      },
+      {
+        "id": "text_0017",
+        "type": "sentence",
+        "content": "Hello, class.",
+        "originalContent": "Hello, class.",
+        "confidence": 0.8783,
+        "bbox": {
+          "x": 0.730667,
+          "y": 0.48022,
+          "width": 0.102,
+          "height": 0.015523
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "My name's Miss Jones.",
+        "originalContent": "Myname'sMiss Jones.",
+        "confidence": 0.8529,
+        "bbox": {
+          "x": 0.687333,
+          "y": 0.499249,
+          "width": 0.192667,
+          "height": 0.018027
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase_space_restored",
+          "missing_spaces_split"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Myname'sMiss Jones.",
+            "confidence": 0.8529
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My name's Miss Jones.",
+            "confidence": 0.7175
+          }
+        ]
+      },
+      {
+        "id": "text_0019",
+        "type": "sentence",
+        "content": "My name's Rosy.",
+        "originalContent": "My name's Rosy.",
+        "confidence": 0.884,
+        "bbox": {
+          "x": 0.229333,
+          "y": 0.512769,
+          "width": 0.147333,
+          "height": 0.021032
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "Oh! Who's this?",
+        "originalContent": "Oh! Who's this?",
+        "confidence": 0.8592,
+        "bbox": {
+          "x": 0.714,
+          "y": 0.52028,
+          "width": 0.139333,
+          "height": 0.015023
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Oh! Who's this?",
+            "confidence": 0.8592
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Oh! Who's this?",
+            "confidence": 0.82
+          }
+        ]
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "And My name's Tim",
+        "originalContent": "And my name's Tim",
+        "confidence": 0.8435,
+        "bbox": {
+          "x": 0.275333,
+          "y": 0.651978,
+          "width": 0.182,
+          "height": 0.018528
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase_space_restored"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "Aa Bo Cc",
+        "originalContent": "AaBoCc",
+        "confidence": 0.6368,
+        "bbox": {
+          "x": 0.404667,
+          "y": 0.710566,
+          "width": 0.078,
+          "height": 0.022033
+        },
+        "repaired": true,
+        "repairNotes": [
+          "missing_spaces_split"
+        ],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0023",
+        "type": "sentence",
+        "content": "I'm two.",
+        "originalContent": "I'm two.",
+        "confidence": 0.7733,
+        "bbox": {
+          "x": 0.558667,
+          "y": 0.714572,
+          "width": 0.073333,
+          "height": 0.015523
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0024",
+        "type": "sentence",
+        "content": "He's Billy.",
+        "originalContent": "He's Billy.",
+        "confidence": 0.8844,
+        "bbox": {
+          "x": 0.106,
+          "y": 0.717576,
+          "width": 0.083333,
+          "height": 0.019029
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0025",
+        "type": "sentence",
+        "content": "I'm sorry. Come on, Billy",
+        "originalContent": "I'msorry.Comeon,Billy",
+        "confidence": 0.8448,
+        "bbox": {
+          "x": 0.694667,
+          "y": 0.732098,
+          "width": 0.214,
+          "height": 0.015023
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase_space_restored",
+          "missing_spaces_split"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0026",
+        "type": "paragraph",
+        "content": "Hi, Billy. How old are you? Goodbye!",
+        "originalContent": "| Hi, Billy. How old are you? Goodbye!",
+        "confidence": 0.885,
+        "bbox": {
+          "x": 0.205859,
+          "y": 0.898734,
+          "width": 0.610754,
+          "height": 0.018686
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized_unicode_or_edges"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Goodbye!",
+            "confidence": 0.8603
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| Hi, Billy. How old are you? Goodbye!",
+            "confidence": 0.885
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Hi, Billy.How oldareyou?",
+            "confidence": 0.8819
+          }
+        ]
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "Goodbye",
+        "originalContent": "Goodbye",
+        "confidence": 0.8357,
+        "bbox": {
+          "x": 0.230667,
+          "y": 0.951928,
+          "width": 0.073333,
+          "height": 0.017526
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0028",
+        "type": "heading",
+        "content": "Starter",
+        "originalContent": "Starter",
+        "confidence": 0.8411,
+        "bbox": {
+          "x": 0.106,
+          "y": 0.95343,
+          "width": 0.059333,
+          "height": 0.015023
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "Hello",
+        "originalContent": "Hello",
+        "confidence": 0.6821,
+        "bbox": {
+          "x": 0.177333,
+          "y": 0.953931,
+          "width": 0.045333,
+          "height": 0.01302
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Hello!",
+      "Starter",
+      "Lesson One",
+      "Listen, point, and repeat.",
+      "Billy",
+      "Tim",
+      "Rosy",
+      "Miss Jones",
+      "Listen and sing",
+      "Hello, Rosy Hello, Tim. Hello, everyone.",
+      "Hello, Billy and Miss Jones, Come and have some fun!",
+      "Listen and read.",
+      "Hello. What's your name?",
+      "Hello, class.",
+      "My name's Miss Jones.",
+      "My name's Rosy.",
+      "Oh! Who's this?",
+      "And My name's Tim",
+      "Aa Bo Cc",
+      "I'm two.",
+      "He's Billy.",
+      "I'm sorry. Come on, Billy",
+      "Hi, Billy. How old are you? Goodbye!",
+      "Goodbye",
+      "Starter",
+      "Hello"
+    ],
+    "paragraphs": [
+      {
+        "id": "text_0026",
+        "content": "Hi, Billy. How old are you? Goodbye!",
+        "confidence": 0.885,
+        "bbox": {
+          "x": 0.205859,
+          "y": 0.898734,
+          "width": 0.610754,
+          "height": 0.018686
+        },
+        "sourceElementIds": [
+          "text_0026"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "text_0012",
+        "content": "Hello, Rosy Hello, Tim. Hello, everyone.",
+        "confidence": 0.8887,
+        "bbox": {
+          "x": 0.443333,
+          "y": 0.344517,
+          "width": 0.346667,
+          "height": 0.015523
+        },
+        "sourceElementIds": [
+          "text_0012"
+        ]
+      },
+      {
+        "id": "text_0013",
+        "content": "Hello, Billy and Miss Jones, Come and have some fun!",
+        "confidence": 0.9045,
+        "bbox": {
+          "x": 0.377333,
+          "y": 0.367551,
+          "width": 0.478667,
+          "height": 0.018528
+        },
+        "sourceElementIds": [
+          "text_0013"
+        ]
+      },
+      {
+        "id": "text_0016",
+        "content": "Hello. What's your name?",
+        "confidence": 0.8984,
+        "bbox": {
+          "x": 0.116,
+          "y": 0.48022,
+          "width": 0.227333,
+          "height": 0.015023
+        },
+        "sourceElementIds": [
+          "text_0016"
+        ]
+      },
+      {
+        "id": "text_0017",
+        "content": "Hello, class.",
+        "confidence": 0.8783,
+        "bbox": {
+          "x": 0.730667,
+          "y": 0.48022,
+          "width": 0.102,
+          "height": 0.015523
+        },
+        "sourceElementIds": [
+          "text_0017"
+        ]
+      },
+      {
+        "id": "text_0018",
+        "content": "My name's Miss Jones.",
+        "confidence": 0.8529,
+        "bbox": {
+          "x": 0.687333,
+          "y": 0.499249,
+          "width": 0.192667,
+          "height": 0.018027
+        },
+        "sourceElementIds": [
+          "text_0018"
+        ]
+      },
+      {
+        "id": "text_0019",
+        "content": "My name's Rosy.",
+        "confidence": 0.884,
+        "bbox": {
+          "x": 0.229333,
+          "y": 0.512769,
+          "width": 0.147333,
+          "height": 0.021032
+        },
+        "sourceElementIds": [
+          "text_0019"
+        ]
+      },
+      {
+        "id": "text_0020",
+        "content": "Oh! Who's this?",
+        "confidence": 0.8592,
+        "bbox": {
+          "x": 0.714,
+          "y": 0.52028,
+          "width": 0.139333,
+          "height": 0.015023
+        },
+        "sourceElementIds": [
+          "text_0020"
+        ]
+      },
+      {
+        "id": "text_0023",
+        "content": "I'm two.",
+        "confidence": 0.7733,
+        "bbox": {
+          "x": 0.558667,
+          "y": 0.714572,
+          "width": 0.073333,
+          "height": 0.015523
+        },
+        "sourceElementIds": [
+          "text_0023"
+        ]
+      },
+      {
+        "id": "text_0024",
+        "content": "He's Billy.",
+        "confidence": 0.8844,
+        "bbox": {
+          "x": 0.106,
+          "y": 0.717576,
+          "width": 0.083333,
+          "height": 0.019029
+        },
+        "sourceElementIds": [
+          "text_0024"
+        ]
+      },
+      {
+        "id": "text_0025",
+        "content": "I'm sorry. Come on, Billy",
+        "confidence": 0.8448,
+        "bbox": {
+          "x": 0.694667,
+          "y": 0.732098,
+          "width": 0.214,
+          "height": 0.015023
+        },
+        "sourceElementIds": [
+          "text_0025"
+        ]
+      },
+      {
+        "id": "text_0027",
+        "content": "Goodbye",
+        "confidence": 0.8357,
+        "bbox": {
+          "x": 0.230667,
+          "y": 0.951928,
+          "width": 0.073333,
+          "height": 0.017526
+        },
+        "sourceElementIds": [
+          "text_0027"
+        ]
+      },
+      {
+        "id": "text_0029",
+        "content": "Hello",
+        "confidence": 0.6821,
+        "bbox": {
+          "x": 0.177333,
+          "y": 0.953931,
+          "width": 0.045333,
+          "height": 0.01302
+        },
+        "sourceElementIds": [
+          "text_0029"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "Rosy",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "Tim",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "Billy",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "Miss Jones",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      }
+    ],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "lines": [
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Hello, Rosy. Hello, Tim. Hello, everyone.",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Hello, Billy and Miss Jones. Come and have some fun!",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Hello. What's your name?",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "My name's Rosy.",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "And my name's Tim.",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Hello, class.",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "My name's Miss Jones.",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Oh! Who's this?",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "He's Billy.",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Hi, Billy. How old are you?",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "I'm two.",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "I'm sorry. Come on, Billy.",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Goodbye!",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          }
+        ],
+        "confidence": 0.99
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "listening_activity",
+        "instruction": "Listen, point, and repeat.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "listening_singing",
+        "instruction": "Listen and sing.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "listening_activity",
+        "instruction": "Listen and read.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [
+      {
+        "lines": [
+          {
+            "content": "Hello, Rosy. Hello, Tim. Hello, everyone.",
+            "confidence": 0.99,
+            "bbox": null,
+            "sourceElementId": null,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "content": "Hello, Billy and Miss Jones. Come and have some fun!",
+            "confidence": 0.99,
+            "bbox": null,
+            "sourceElementId": null,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          }
+        ],
+        "confidence": 0.99
+      }
+    ],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Billy",
+          "Tim",
+          "Rosy",
+          "Miss Jones",
+          "Listen and sing",
+          "Hello, Rosy Hello, Tim. Hello, everyone.",
+          "Hello, Billy and Miss Jones, Come and have some fun!"
+        ],
+        "position": {
+          "x": 0.048,
+          "y": 0.242394,
+          "width": 0.828,
+          "height": 0.163685
+        },
+        "textElementIds": [
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Listen and read.",
+          "Hello. What's your name?",
+          "Hello, class.",
+          "My name's Miss Jones.",
+          "My name's Rosy.",
+          "Oh! Who's this?"
+        ],
+        "position": {
+          "x": 0.058667,
+          "y": 0.415653,
+          "width": 0.841333,
+          "height": 0.13965
+        },
+        "textElementIds": [
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "And My name's Tim",
+          "Aa Bo Cc",
+          "I'm two.",
+          "He's Billy.",
+          "I'm sorry. Come on, Billy"
+        ],
+        "position": {
+          "x": 0.086,
+          "y": 0.631978,
+          "width": 0.842667,
+          "height": 0.135143
+        },
+        "textElementIds": [
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "nonEducationalText": [],
+    "excludedGarbage": [
+      {
+        "id": "text_0005",
+        "content": "01",
+        "originalContent": "01",
+        "confidence": 0.6397
+      },
+      {
+        "id": "text_0011",
+        "content": "02",
+        "originalContent": "02",
+        "confidence": 0.659
+      },
+      {
+        "id": "text_0015",
+        "content": "03",
+        "originalContent": "03",
+        "confidence": 0.6489
+      }
+    ]
+  },
+  "learningContent": {
+    "pageType": "lesson",
+    "title": "Hello!",
+    "learningObjectives": [],
+    "targetVocabulary": [
+      {
+        "word": "Rosy",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "Tim",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "Billy",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "Miss Jones",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "Hello, Rosy. Hello, Tim. Hello, everyone.",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "Hello, Billy and Miss Jones. Come and have some fun!",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "Hello. What's your name?",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "My name's Rosy.",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "And my name's Tim.",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "Hello, class.",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "My name's Miss Jones.",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "Oh! Who's this?",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "He's Billy.",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "Hi, Billy. How old are you?",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "I'm two.",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "I'm sorry. Come on, Billy.",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "Goodbye!",
+            "confidence": 0.99
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "listening_activity",
+        "instruction": "Listen, point, and repeat.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "listening_singing",
+        "instruction": "Listen and sing.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "listening_activity",
+        "instruction": "Listen and read.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [
+      {
+        "exerciseNumber": "1",
+        "instruction": "Listen, point, and repeat.",
+        "type": "listening_activity",
+        "confidence": 0.99
+      },
+      {
+        "exerciseNumber": "2",
+        "instruction": "Listen and sing.",
+        "type": "listening_singing",
+        "confidence": 0.99
+      },
+      {
+        "exerciseNumber": "3",
+        "instruction": "Listen and read.",
+        "type": "listening_activity",
+        "confidence": 0.99
+      }
+    ],
+    "speaking": [
+      {
+        "exerciseNumber": "1",
+        "instruction": "Listen, point, and repeat.",
+        "type": "listening_activity",
+        "confidence": 0.99
+      },
+      {
+        "exerciseNumber": "2",
+        "instruction": "Listen and sing.",
+        "type": "listening_singing",
+        "confidence": 0.99
+      },
+      {
+        "exerciseNumber": "3",
+        "instruction": "Listen and read.",
+        "type": "listening_activity",
+        "confidence": 0.99
+      }
+    ],
+    "writing": [],
+    "songsOrPoems": [
+      {
+        "lines": [
+          {
+            "content": "Hello, Rosy. Hello, Tim. Hello, everyone.",
+            "confidence": 0.99,
+            "bbox": null,
+            "sourceElementId": null,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "content": "Hello, Billy and Miss Jones. Come and have some fun!",
+            "confidence": 0.99,
+            "bbox": null,
+            "sourceElementId": null,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          }
+        ],
+        "confidence": 0.99
+      }
+    ],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [],
+    "verifiedAgainstPdf": true,
+    "repairStats": {
+      "text_kept": 26,
+      "garbage_excluded": 3,
+      "text_repaired": 8,
+      "vocab_kept": 11,
+      "dialogue_lines": 14,
+      "dialogues_reconstructed": 1,
+      "exercises_reconstructed": 3
+    },
+    "averageOcrConfidence": 0.8163
+  },
+  "metadata": {
+    "book": "Family and Friends 1 Student Book (American)",
+    "author": "Naomi Simmons",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_v1",
+    "originalOcrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "originalAverageConfidence": 0.8163,
+    "noHallucinationPolicy": "Definitions, translations, speaker names, answers, and grammar rules are null or omitted unless visibly supported by page OCR/PDF. Text repairs are limited to spacing, punctuation, and clear OCR character errors."
+  }
+}

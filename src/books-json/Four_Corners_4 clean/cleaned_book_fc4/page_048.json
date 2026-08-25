@@ -1,0 +1,2626 @@
+{
+  "pageNumber": 41,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 48,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 4_Part3.pdf",
+    "pdfLocalPageNumber": 1,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.7946,
+        "bbox": {
+          "x": 0.828667,
+          "y": 0.018032,
+          "width": 0.037333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "unit bad",
+            "confidence": 0.645
+          },
+          {
+            "engine": "rapidocr",
+            "content": "unit",
+            "confidence": 0.7946
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Listening For no reason",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.083529,
+          "y": 0.083333,
+          "width": 0.33098,
+          "height": 0.023333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listening For no reason",
+            "confidence": 0.8744
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listening For no reason",
+            "confidence": 0.93
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "sentence",
+        "content": "A Listen to four callers to a radio show talk about acts of kindness. Was each act",
+        "confidence": 0.9197,
+        "bbox": {
+          "x": 0.080667,
+          "y": 0.11695,
+          "width": 0.590667,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A  Listen to four callers to a radio show talk about acts of kindness. Was each act",
+            "confidence": 0.9197
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A §\\ Listen to four callers to a radio show talk about acts of kindness. Was each act",
+            "confidence": 0.8906
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "performed or received by them? Check ()the correct answer.",
+        "confidence": 0.8898,
+        "bbox": {
+          "x": 0.104667,
+          "y": 0.136528,
+          "width": 0.442667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "performed or received by them? Check ()the correct answer.",
+            "confidence": 0.8898
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "performed or received by them? Check (/) the correct answer.",
+            "confidence": 0.901
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "Performed",
+        "confidence": 0.8791,
+        "bbox": {
+          "x": 0.218,
+          "y": 0.16847,
+          "width": 0.078,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Performed",
+            "confidence": 0.8791
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Performed",
+            "confidence": 0.7
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "Received",
+        "confidence": 0.8826,
+        "bbox": {
+          "x": 0.34,
+          "y": 0.168985,
+          "width": 0.065333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Actofkindness",
+        "confidence": 0.9217,
+        "bbox": {
+          "x": 0.616,
+          "y": 0.168985,
+          "width": 0.108,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "Jared",
+        "confidence": 0.7824,
+        "bbox": {
+          "x": 0.11,
+          "y": 0.189593,
+          "width": 0.043333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "Keisha",
+        "confidence": 0.7892,
+        "bbox": {
+          "x": 0.111333,
+          "y": 0.211231,
+          "width": 0.047333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "Antonio",
+        "confidence": 0.8298,
+        "bbox": {
+          "x": 0.110667,
+          "y": 0.231324,
+          "width": 0.056,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "Mei-li",
+        "confidence": 0.8456,
+        "bbox": {
+          "x": 0.11,
+          "y": 0.250386,
+          "width": 0.042,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Mei-li",
+            "confidence": 0.8456
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 Mei-li",
+            "confidence": 0.72
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "sentence",
+        "content": "B Listen again. What was each act of kindness? Write it in the chart.",
+        "confidence": 0.9327,
+        "bbox": {
+          "x": 0.08,
+          "y": 0.282844,
+          "width": 0.504667,
+          "height": 0.019062
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B  Listen again. What was each act of kindness? Write it in the chart.",
+            "confidence": 0.9327
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B £ Listen again. What was each act of kindness? Write it in the chart.",
+            "confidence": 0.888
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "OeeuoyvsebiooYA",
+        "confidence": 0.5693,
+        "bbox": {
+          "x": 0.632,
+          "y": 0.293148,
+          "width": 0.195333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0014",
+        "type": "paragraph",
+        "content": "Eq Writing An act of kindness",
+        "confidence": 0.8917,
+        "bbox": {
+          "x": 0.034118,
+          "y": 0.318788,
+          "width": 0.427059,
+          "height": 0.025455
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Eq Writing An act of kindness",
+            "confidence": 0.8917
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Writing An act of kindness",
+            "confidence": 0.8876
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "A Choose one of these topics. Discuss",
+        "confidence": 0.9586,
+        "bbox": {
+          "x": 0.081961,
+          "y": 0.357273,
+          "width": 0.373725,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "GRouPWoRKChooseoneofthesetopics.Discuss",
+            "confidence": 0.8902
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Choose one of these topics. Discuss",
+            "confidence": 0.9586
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "what happened. An Act of Kindness",
+        "confidence": 0.9517,
+        "bbox": {
+          "x": 0.105882,
+          "y": 0.372121,
+          "width": 0.68902,
+          "height": 0.015758
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "AnActofKindness",
+            "confidence": 0.874
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "what happened. An Act of Kindness",
+            "confidence": 0.9517
+          },
+          {
+            "engine": "rapidocr",
+            "content": "what happened.",
+            "confidence": 0.9127
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "sentence",
+        "content": "This happened to me last year.",
+        "confidence": 0.9583,
+        "bbox": {
+          "x": 0.596863,
+          "y": 0.397273,
+          "width": 0.250196,
+          "height": 0.016061
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "This happened to me last year.",
+            "confidence": 0.8885
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "This happened to me last year.",
+            "confidence": 0.9583
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "paragraph",
+        "content": "something nice someone did for you",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.116078,
+          "y": 0.406667,
+          "width": 0.247059,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "something nice someone didforyou",
+            "confidence": 0.8977
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "something nice someone did for you",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "paragraph",
+        "content": "| was having a really bad day, so",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.598039,
+          "y": 0.416364,
+          "width": 0.255686,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I was having a really bad day,so",
+            "confidence": 0.8746
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| was having a really bad day, so",
+            "confidence": 0.94
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "paragraph",
+        "content": "something nice you did for someone",
+        "confidence": 0.9583,
+        "bbox": {
+          "x": 0.116078,
+          "y": 0.427879,
+          "width": 0.247843,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "somethingniceyoudidforsomeone",
+            "confidence": 0.9067
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "something nice you did for someone",
+            "confidence": 0.9583
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "sentence",
+        "content": "| went to anice cream shop. |",
+        "confidence": 0.9271,
+        "bbox": {
+          "x": 0.598039,
+          "y": 0.435455,
+          "width": 0.233725,
+          "height": 0.015455
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I went to an ice cream shop.I",
+            "confidence": 0.8778
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| went to anice cream shop. |",
+            "confidence": 0.9271
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "paragraph",
+        "content": "something nice you’d like to do for someone",
+        "confidence": 0.9437,
+        "bbox": {
+          "x": 0.116078,
+          "y": 0.449091,
+          "width": 0.299216,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "something niceyou'd liketodofor someone",
+            "confidence": 0.9185
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "something nice you’d like to do for someone",
+            "confidence": 0.9437
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "paragraph",
+        "content": "ordered some ice cream, and when",
+        "confidence": 0.9583,
+        "bbox": {
+          "x": 0.597647,
+          "y": 0.453939,
+          "width": 0.279608,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "orderedsomeicecream,andwhen",
+            "confidence": 0.8641
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ordered some ice cream, and when",
+            "confidence": 0.9583
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "paragraph",
+        "content": "| went to pay for it, | couldn't find",
+        "confidence": 0.9311,
+        "bbox": {
+          "x": 0.598431,
+          "y": 0.472727,
+          "width": 0.268235,
+          "height": 0.016061
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I wenttopayforit,Icouldn'tfind",
+            "confidence": 0.9083
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| went to pay for it, | couldn't find",
+            "confidence": 0.9311
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "sentence",
+        "content": "B Write a paragraph about your topic. Use the reading",
+        "confidence": 0.954,
+        "bbox": {
+          "x": 0.083529,
+          "y": 0.484545,
+          "width": 0.384706,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B Write a paragraph about your topic. Use the reading",
+            "confidence": 0.9139
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Write a paragraph about your topic. Use the reading",
+            "confidence": 0.954
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "sentence",
+        "content": "my wallet. Just then, the person",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.598039,
+          "y": 0.491515,
+          "width": 0.266275,
+          "height": 0.016061
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "my wallet.Just then,theperson",
+            "confidence": 0.9082
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "my wallet. Just then, the person",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "sentence",
+        "content": "and the model paragraph to help you.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.106275,
+          "y": 0.50303,
+          "width": 0.263137,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "and themodel paragraphto help you.",
+            "confidence": 0.9044
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "and the model paragraph to help you.",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "sentence",
+        "content": "in front of me paid for it! Then she",
+        "confidence": 0.9556,
+        "bbox": {
+          "x": 0.598039,
+          "y": 0.510303,
+          "width": 0.275686,
+          "height": 0.016061
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "infrontofmepaidforitl Thenshe",
+            "confidence": 0.8702
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "in front of me paid for it! Then she",
+            "confidence": 0.9556
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "sentence",
+        "content": "Cc Post your paragraphs around the room. smiled and walked away. | couldn't",
+        "confidence": 0.9269,
+        "bbox": {
+          "x": 0.081569,
+          "y": 0.527576,
+          "width": 0.792157,
+          "height": 0.016364
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Cc Post your paragraphs around the room. smiled and walked away. | couldn't",
+            "confidence": 0.9269
+          },
+          {
+            "engine": "rapidocr",
+            "content": "smiled and walked away.I couldn't",
+            "confidence": 0.8397
+          },
+          {
+            "engine": "rapidocr",
+            "content": "CLASs ACTIVITY Postyourparagraphs aroundtheroom.",
+            "confidence": 0.8574
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "instruction",
+        "content": "Read your classmates’ paragraphs. Then get more believe it. She did it just to be nice.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.107059,
+          "y": 0.547879,
+          "width": 0.774118,
+          "height": 0.015758
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "believe it.She did it just to be nice.",
+            "confidence": 0.8921
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Read your classmates’ paragraphs. Then get more believe it. She did it just to be nice.",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Readyourclassmates'paragraphs.Thengetmore",
+            "confidence": 0.9147
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "sentence",
+        "content": "information about a paragraph that interests you.",
+        "confidence": 0.9184,
+        "bbox": {
+          "x": 0.104667,
+          "y": 0.564657,
+          "width": 0.349333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "information about a paragraph that interests you.",
+            "confidence": 0.9184
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "information about a paragraph that interests you. >To ee",
+            "confidence": 0.78
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "heading",
+        "content": "Speaking Doing nice things",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.083529,
+          "y": 0.600303,
+          "width": 0.390588,
+          "height": 0.02303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Speaking Doing nice things",
+            "confidence": 0.8914
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Speaking Doing nice things",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "instruction",
+        "content": "Look at the picture. What would be some nice things to do?",
+        "confidence": 0.9592,
+        "bbox": {
+          "x": 0.186275,
+          "y": 0.637273,
+          "width": 0.41098,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "GRoUP WORKLook at the picture.What wouldbe some nice things to do?",
+            "confidence": 0.8705
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Look at the picture. What would be some nice things to do?",
+            "confidence": 0.9592
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "Discuss your ideas.",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.083922,
+          "y": 0.655152,
+          "width": 0.131373,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Discuss yourideas.",
+            "confidence": 0.845
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Discuss your ideas.",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "BUS",
+        "confidence": 0.6487,
+        "bbox": {
+          "x": 0.287333,
+          "y": 0.704276,
+          "width": 0.015333,
+          "height": 0.008243
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "STOP",
+        "confidence": 0.7141,
+        "bbox": {
+          "x": 0.286,
+          "y": 0.711489,
+          "width": 0.016667,
+          "height": 0.007728
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "41",
+        "confidence": 0.5499,
+        "bbox": {
+          "x": 0.908,
+          "y": 0.953632,
+          "width": 0.019333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "41",
+            "confidence": 0.5499
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "J",
+            "confidence": 0.4
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0038",
+        "type": "sentence",
+        "content": "I candiscuss ways to be kind.",
+        "confidence": 0.875,
+        "bbox": {
+          "x": 0.662,
+          "y": 0.962391,
+          "width": 0.180667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "what happened. An Act of Kindness",
+            "confidence": 0.9517,
+            "bbox": {
+              "x": 0.105882,
+              "y": 0.372121,
+              "width": 0.68902,
+              "height": 0.015758
+            },
+            "sourceElementId": "text_0016",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "my wallet. Just then, the person",
+            "confidence": 0.9567,
+            "bbox": {
+              "x": 0.598039,
+              "y": 0.491515,
+              "width": 0.266275,
+              "height": 0.016061
+            },
+            "sourceElementId": "text_0026",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Cc Post your paragraphs around the room. smiled and walked away. | couldn't",
+            "confidence": 0.9269,
+            "bbox": {
+              "x": 0.081569,
+              "y": 0.527576,
+              "width": 0.792157,
+              "height": 0.016364
+            },
+            "sourceElementId": "text_0029",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen to four callers to a radio show talk about acts of kindness. Was each act",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0003"
+        ],
+        "confidence": 0.9197
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "listening_activity",
+        "instruction": "Listen again. What was each act of kindness? Write it in the chart.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0012"
+        ],
+        "confidence": 0.9327
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "selection_exercise",
+        "instruction": "Choose one of these topics. Discuss",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0015"
+        ],
+        "confidence": 0.9586
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "reading_activity",
+        "instruction": "Write a paragraph about your topic. Use the reading",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0025"
+        ],
+        "confidence": 0.954
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Keisha",
+          "Antonio",
+          "Mei-li",
+          "B Listen again. What was each act of kindness? Write it in the chart.",
+          "OeeuoyvsebiooYA",
+          "Eq Writing An act of kindness",
+          "A Choose one of these topics. Discuss",
+          "what happened. An Act of Kindness",
+          "This happened to me last year.",
+          "something nice someone did for you",
+          "| was having a really bad day, so",
+          "something nice you did for someone",
+          "| went to anice cream shop. |",
+          "something nice you’d like to do for someone",
+          "ordered some ice cream, and when",
+          "| went to pay for it, | couldn't find",
+          "B Write a paragraph about your topic. Use the reading",
+          "my wallet. Just then, the person",
+          "and the model paragraph to help you.",
+          "in front of me paid for it! Then she"
+        ],
+        "position": {
+          "x": 0.014118000000000002,
+          "y": 0.191231,
+          "width": 0.8831370000000002,
+          "height": 0.3551329999999999
+        },
+        "textElementIds": [
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Cc Post your paragraphs around the room. smiled and walked away. | couldn't",
+          "Read your classmates’ paragraphs. Then get more believe it. She did it just to be nice.",
+          "information about a paragraph that interests you.",
+          "Speaking Doing nice things",
+          "Look at the picture. What would be some nice things to do?",
+          "Discuss your ideas.",
+          "BUS",
+          "STOP"
+        ],
+        "position": {
+          "x": 0.061569,
+          "y": 0.507576,
+          "width": 0.839608,
+          "height": 0.23164099999999999
+        },
+        "textElementIds": [
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "unit\nListening For no reason\nA  Listen to four callers to a radio show talk about acts of kindness. Was each act\nperformed or received by them? Check ()the correct answer.\nPerformed\nReceived\nActofkindness\nJared\nKeisha\nAntonio\nMei-li\nB  Listen again. What was each act of kindness? Write it in the chart.\nOeeuoyvsebiooYA\nWriting An act of kindness\nGRouPWoRKChooseoneofthesetopics.Discuss\nAnActofKindness\nwhat happened.\nThis happened to me last year.\nsomething nice someone didforyou\nI was having a really bad day,so\nsomethingniceyoudidforsomeone\nI went to an ice cream shop.I\nsomething niceyou'd liketodofor someone\norderedsomeicecream,andwhen\nI wenttopayforit,Icouldn'tfind\nB Write a paragraph about your topic. Use the reading\nmy wallet.Just then,theperson\nand themodel paragraphto help you.\ninfrontofmepaidforitl Thenshe\nsmiled and walked away.I couldn't\nCLASs ACTIVITY Postyourparagraphs aroundtheroom.\nbelieve it.She did it just to be nice.\nReadyourclassmates'paragraphs.Thengetmore\ninformation about a paragraph that interests you.\nSpeaking Doing nice things\nGRoUP WORKLook at the picture.What wouldbe some nice things to do?\nDiscuss yourideas.\nBUS\nSTOP\ndehkhodaedu.com\n41\nI candiscuss ways to be kind.",
+      "tesseract_psm3": "unit bad\n\nListening For no reason\n\nA §\\ Listen to four callers to a radio show talk about acts of kindness. Was each act\nperformed or received by them? Check (/) the correct answer.\n\nPerformed\n\n4 Mei-li\n\nB £ Listen again. What was each act of kindness? Write it in the chart.\n\nEq Writing An act of kindness\n\nA Choose one of these topics. Discuss\nwhat happened. An Act of Kindness\n\nThis happened to me last year.\n\n| was having a really bad day, so\n\n| went to anice cream shop. |\nordered some ice cream, and when\n| went to pay for it, | couldn't find\nmy wallet. Just then, the person\nin front of me paid for it! Then she\n\nsomething nice someone did for you\nsomething nice you did for someone\n\nsomething nice you’d like to do for someone\n\nB Write a paragraph about your topic. Use the reading\nand the model paragraph to help you.\n\nCc Post your paragraphs around the room. smiled and walked away. | couldn't\nRead your classmates’ paragraphs. Then get more believe it. She did it just to be nice.\ninformation about a paragraph that interests you. >To ee\n\nSpeaking Doing nice things\n\nLook at the picture. What would be some nice things to do?\nDiscuss your ideas.\n\nJ\ndehkhodaedu.com as can discuss ways to be kind. ) +\n\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8846,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "7 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "page",
+    "headings": [
+      "unit",
+      "Listening For no reason",
+      "performed or received by them? Check ()the correct answer.",
+      "Speaking Doing nice things"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.7946,
+        "bbox": {
+          "x": 0.828667,
+          "y": 0.018032,
+          "width": 0.037333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "unit bad",
+            "confidence": 0.645
+          },
+          {
+            "engine": "rapidocr",
+            "content": "unit",
+            "confidence": 0.7946
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Listening For no reason",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.083529,
+          "y": 0.083333,
+          "width": 0.33098,
+          "height": 0.023333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listening For no reason",
+            "confidence": 0.8744
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listening For no reason",
+            "confidence": 0.93
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "sentence",
+        "content": "A Listen to four callers to a radio show talk about acts of kindness. Was each act",
+        "confidence": 0.9197,
+        "bbox": {
+          "x": 0.080667,
+          "y": 0.11695,
+          "width": 0.590667,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A  Listen to four callers to a radio show talk about acts of kindness. Was each act",
+            "confidence": 0.9197
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A §\\ Listen to four callers to a radio show talk about acts of kindness. Was each act",
+            "confidence": 0.8906
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "performed or received by them? Check ()the correct answer.",
+        "confidence": 0.8898,
+        "bbox": {
+          "x": 0.104667,
+          "y": 0.136528,
+          "width": 0.442667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "performed or received by them? Check ()the correct answer.",
+            "confidence": 0.8898
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "performed or received by them? Check (/) the correct answer.",
+            "confidence": 0.901
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "Performed",
+        "confidence": 0.8791,
+        "bbox": {
+          "x": 0.218,
+          "y": 0.16847,
+          "width": 0.078,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Performed",
+            "confidence": 0.8791
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Performed",
+            "confidence": 0.7
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "Received",
+        "confidence": 0.8826,
+        "bbox": {
+          "x": 0.34,
+          "y": 0.168985,
+          "width": 0.065333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Actofkindness",
+        "confidence": 0.9217,
+        "bbox": {
+          "x": 0.616,
+          "y": 0.168985,
+          "width": 0.108,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "Jared",
+        "confidence": 0.7824,
+        "bbox": {
+          "x": 0.11,
+          "y": 0.189593,
+          "width": 0.043333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "Keisha",
+        "confidence": 0.7892,
+        "bbox": {
+          "x": 0.111333,
+          "y": 0.211231,
+          "width": 0.047333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "Antonio",
+        "confidence": 0.8298,
+        "bbox": {
+          "x": 0.110667,
+          "y": 0.231324,
+          "width": 0.056,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "Mei-li",
+        "confidence": 0.8456,
+        "bbox": {
+          "x": 0.11,
+          "y": 0.250386,
+          "width": 0.042,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Mei-li",
+            "confidence": 0.8456
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 Mei-li",
+            "confidence": 0.72
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "sentence",
+        "content": "B Listen again. What was each act of kindness? Write it in the chart.",
+        "confidence": 0.9327,
+        "bbox": {
+          "x": 0.08,
+          "y": 0.282844,
+          "width": 0.504667,
+          "height": 0.019062
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B  Listen again. What was each act of kindness? Write it in the chart.",
+            "confidence": 0.9327
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B £ Listen again. What was each act of kindness? Write it in the chart.",
+            "confidence": 0.888
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "Oeeuoyvsebioo YA",
+        "confidence": 0.5693,
+        "bbox": {
+          "x": 0.632,
+          "y": 0.293148,
+          "width": 0.195333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0014",
+        "type": "paragraph",
+        "content": "Eq Writing An act of kindness",
+        "confidence": 0.8917,
+        "bbox": {
+          "x": 0.034118,
+          "y": 0.318788,
+          "width": 0.427059,
+          "height": 0.025455
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Eq Writing An act of kindness",
+            "confidence": 0.8917
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Writing An act of kindness",
+            "confidence": 0.8876
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "A Choose one of these topics. Discuss",
+        "confidence": 0.9586,
+        "bbox": {
+          "x": 0.081961,
+          "y": 0.357273,
+          "width": 0.373725,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "GRouPWoRKChooseoneofthesetopics.Discuss",
+            "confidence": 0.8902
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Choose one of these topics. Discuss",
+            "confidence": 0.9586
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "what happened. An Act of Kindness",
+        "confidence": 0.9517,
+        "bbox": {
+          "x": 0.105882,
+          "y": 0.372121,
+          "width": 0.68902,
+          "height": 0.015758
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "AnActofKindness",
+            "confidence": 0.874
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "what happened. An Act of Kindness",
+            "confidence": 0.9517
+          },
+          {
+            "engine": "rapidocr",
+            "content": "what happened.",
+            "confidence": 0.9127
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "sentence",
+        "content": "This happened to me last year.",
+        "confidence": 0.9583,
+        "bbox": {
+          "x": 0.596863,
+          "y": 0.397273,
+          "width": 0.250196,
+          "height": 0.016061
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "This happened to me last year.",
+            "confidence": 0.8885
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "This happened to me last year.",
+            "confidence": 0.9583
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "paragraph",
+        "content": "something nice someone did for you",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.116078,
+          "y": 0.406667,
+          "width": 0.247059,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "something nice someone didforyou",
+            "confidence": 0.8977
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "something nice someone did for you",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "paragraph",
+        "content": "was having a really bad day, so",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.598039,
+          "y": 0.416364,
+          "width": 0.255686,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I was having a really bad day,so",
+            "confidence": 0.8746
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| was having a really bad day, so",
+            "confidence": 0.94
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "paragraph",
+        "content": "something nice you did for someone",
+        "confidence": 0.9583,
+        "bbox": {
+          "x": 0.116078,
+          "y": 0.427879,
+          "width": 0.247843,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "somethingniceyoudidforsomeone",
+            "confidence": 0.9067
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "something nice you did for someone",
+            "confidence": 0.9583
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "sentence",
+        "content": "went to anice cream shop.",
+        "confidence": 0.9271,
+        "bbox": {
+          "x": 0.598039,
+          "y": 0.435455,
+          "width": 0.233725,
+          "height": 0.015455
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I went to an ice cream shop.I",
+            "confidence": 0.8778
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| went to anice cream shop. |",
+            "confidence": 0.9271
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "paragraph",
+        "content": "something nice you'd like to do for someone",
+        "confidence": 0.9437,
+        "bbox": {
+          "x": 0.116078,
+          "y": 0.449091,
+          "width": 0.299216,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "something niceyou'd liketodofor someone",
+            "confidence": 0.9185
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "something nice you’d like to do for someone",
+            "confidence": 0.9437
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "paragraph",
+        "content": "ordered some ice cream, and when",
+        "confidence": 0.9583,
+        "bbox": {
+          "x": 0.597647,
+          "y": 0.453939,
+          "width": 0.279608,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "orderedsomeicecream,andwhen",
+            "confidence": 0.8641
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ordered some ice cream, and when",
+            "confidence": 0.9583
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "paragraph",
+        "content": "went to pay for it, | couldn't find",
+        "confidence": 0.9311,
+        "bbox": {
+          "x": 0.598431,
+          "y": 0.472727,
+          "width": 0.268235,
+          "height": 0.016061
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I wenttopayforit,Icouldn'tfind",
+            "confidence": 0.9083
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| went to pay for it, | couldn't find",
+            "confidence": 0.9311
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "sentence",
+        "content": "B Write a paragraph about your topic. Use the reading",
+        "confidence": 0.954,
+        "bbox": {
+          "x": 0.083529,
+          "y": 0.484545,
+          "width": 0.384706,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B Write a paragraph about your topic. Use the reading",
+            "confidence": 0.9139
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Write a paragraph about your topic. Use the reading",
+            "confidence": 0.954
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "sentence",
+        "content": "my wallet. Just then, the person",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.598039,
+          "y": 0.491515,
+          "width": 0.266275,
+          "height": 0.016061
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "my wallet.Just then,theperson",
+            "confidence": 0.9082
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "my wallet. Just then, the person",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "sentence",
+        "content": "and the model paragraph to help you.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.106275,
+          "y": 0.50303,
+          "width": 0.263137,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "and themodel paragraphto help you.",
+            "confidence": 0.9044
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "and the model paragraph to help you.",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "sentence",
+        "content": "in front of me paid for it! Then she",
+        "confidence": 0.9556,
+        "bbox": {
+          "x": 0.598039,
+          "y": 0.510303,
+          "width": 0.275686,
+          "height": 0.016061
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "infrontofmepaidforitl Thenshe",
+            "confidence": 0.8702
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "in front of me paid for it! Then she",
+            "confidence": 0.9556
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "sentence",
+        "content": "Cc Post your paragraphs around the room. smiled and walked away. | couldn't",
+        "confidence": 0.9269,
+        "bbox": {
+          "x": 0.081569,
+          "y": 0.527576,
+          "width": 0.792157,
+          "height": 0.016364
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Cc Post your paragraphs around the room. smiled and walked away. | couldn't",
+            "confidence": 0.9269
+          },
+          {
+            "engine": "rapidocr",
+            "content": "smiled and walked away.I couldn't",
+            "confidence": 0.8397
+          },
+          {
+            "engine": "rapidocr",
+            "content": "CLASs ACTIVITY Postyourparagraphs aroundtheroom.",
+            "confidence": 0.8574
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "instruction",
+        "content": "Read your classmates' paragraphs. Then get more believe it. She did it just to be nice.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.107059,
+          "y": 0.547879,
+          "width": 0.774118,
+          "height": 0.015758
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "believe it.She did it just to be nice.",
+            "confidence": 0.8921
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Read your classmates’ paragraphs. Then get more believe it. She did it just to be nice.",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Readyourclassmates'paragraphs.Thengetmore",
+            "confidence": 0.9147
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "sentence",
+        "content": "information about a paragraph that interests you.",
+        "confidence": 0.9184,
+        "bbox": {
+          "x": 0.104667,
+          "y": 0.564657,
+          "width": 0.349333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "information about a paragraph that interests you.",
+            "confidence": 0.9184
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "information about a paragraph that interests you. >To ee",
+            "confidence": 0.78
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "heading",
+        "content": "Speaking Doing nice things",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.083529,
+          "y": 0.600303,
+          "width": 0.390588,
+          "height": 0.02303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Speaking Doing nice things",
+            "confidence": 0.8914
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Speaking Doing nice things",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "instruction",
+        "content": "Look at the picture. What would be some nice things to do?",
+        "confidence": 0.9592,
+        "bbox": {
+          "x": 0.186275,
+          "y": 0.637273,
+          "width": 0.41098,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "GRoUP WORKLook at the picture.What wouldbe some nice things to do?",
+            "confidence": 0.8705
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Look at the picture. What would be some nice things to do?",
+            "confidence": 0.9592
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "Discuss your ideas.",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.083922,
+          "y": 0.655152,
+          "width": 0.131373,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Discuss yourideas.",
+            "confidence": 0.845
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Discuss your ideas.",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "BUS",
+        "confidence": 0.6487,
+        "bbox": {
+          "x": 0.287333,
+          "y": 0.704276,
+          "width": 0.015333,
+          "height": 0.008243
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "STOP",
+        "confidence": 0.7141,
+        "bbox": {
+          "x": 0.286,
+          "y": 0.711489,
+          "width": 0.016667,
+          "height": 0.007728
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0037",
+        "type": "audio_track",
+        "content": "41",
+        "confidence": 0.5499,
+        "bbox": {
+          "x": 0.908,
+          "y": 0.953632,
+          "width": 0.019333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "41",
+            "confidence": 0.5499
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "J",
+            "confidence": 0.4
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0038",
+        "type": "sentence",
+        "content": "I candiscuss ways to be kind.",
+        "confidence": 0.875,
+        "bbox": {
+          "x": 0.662,
+          "y": 0.962391,
+          "width": 0.180667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "unit",
+      "Listening For no reason",
+      "A Listen to four callers to a radio show talk about acts of kindness. Was each act",
+      "performed or received by them? Check ()the correct answer.",
+      "Performed",
+      "Received",
+      "Actofkindness",
+      "Jared",
+      "Keisha",
+      "Antonio",
+      "Mei-li",
+      "B Listen again. What was each act of kindness? Write it in the chart.",
+      "Oeeuoyvsebioo YA",
+      "Eq Writing An act of kindness",
+      "A Choose one of these topics. Discuss",
+      "what happened. An Act of Kindness",
+      "This happened to me last year.",
+      "something nice someone did for you",
+      "was having a really bad day, so",
+      "something nice you did for someone",
+      "went to anice cream shop.",
+      "something nice you'd like to do for someone",
+      "ordered some ice cream, and when",
+      "went to pay for it, | couldn't find",
+      "B Write a paragraph about your topic. Use the reading",
+      "my wallet. Just then, the person",
+      "and the model paragraph to help you.",
+      "in front of me paid for it! Then she",
+      "Cc Post your paragraphs around the room. smiled and walked away. | couldn't",
+      "Read your classmates' paragraphs. Then get more believe it. She did it just to be nice.",
+      "information about a paragraph that interests you.",
+      "Speaking Doing nice things",
+      "Look at the picture. What would be some nice things to do?",
+      "Discuss your ideas.",
+      "BUS",
+      "STOP",
+      "I candiscuss ways to be kind."
+    ],
+    "paragraphs": [
+      "Eq Writing An act of kindness",
+      "something nice someone did for you",
+      "was having a really bad day, so",
+      "something nice you did for someone",
+      "something nice you'd like to do for someone",
+      "ordered some ice cream, and when",
+      "went to pay for it, | couldn't find"
+    ],
+    "sentences": [
+      "unit Listening For no reason A Listen to four callers to a radio show talk about acts of kindness",
+      "Was each act performed or received by them",
+      "Check ()the correct answer",
+      "Performed Received Actofkindness Jared Keisha Antonio Mei-li B Listen again",
+      "What was each act of kindness",
+      "Write it in the chart",
+      "Oeeuoyvsebioo YA Eq Writing An act of kindness A Choose one of these topics",
+      "Discuss what happened",
+      "An Act of Kindness This happened to me last year",
+      "something nice someone did for you was having a really bad day, so something nice you did for someone went to anice cream shop",
+      "something nice you'd like to do for someone ordered some ice cream, and when went to pay for it, | couldn't find B Write a paragraph about your topic",
+      "Use the reading my wallet",
+      "Just then, the person and the model paragraph to help you",
+      "in front of me paid for it",
+      "Then she Cc Post your paragraphs around the room",
+      "smiled and walked away",
+      "| couldn't Read your classmates' paragraphs",
+      "Then get more believe it",
+      "She did it just to be nice",
+      "information about a paragraph that interests you",
+      "Speaking Doing nice things Look at the picture",
+      "What would be some nice things to do",
+      "Discuss your ideas",
+      "BUS STOP I candiscuss ways to be kind"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "what happened.",
+            "confidence": 0.9517,
+            "bbox": {
+              "x": 0.105882,
+              "y": 0.372121,
+              "width": 0.68902,
+              "height": 0.015758
+            },
+            "sourceElementId": "text_0016"
+          },
+          {
+            "speaker": null,
+            "content": "An Act of Kindness",
+            "confidence": 0.9517,
+            "bbox": {
+              "x": 0.105882,
+              "y": 0.372121,
+              "width": 0.68902,
+              "height": 0.015758
+            },
+            "sourceElementId": "text_0016"
+          },
+          {
+            "speaker": null,
+            "content": "my wallet.",
+            "confidence": 0.9567,
+            "bbox": {
+              "x": 0.598039,
+              "y": 0.491515,
+              "width": 0.266275,
+              "height": 0.016061
+            },
+            "sourceElementId": "text_0026"
+          },
+          {
+            "speaker": null,
+            "content": "Just then, the person",
+            "confidence": 0.9567,
+            "bbox": {
+              "x": 0.598039,
+              "y": 0.491515,
+              "width": 0.266275,
+              "height": 0.016061
+            },
+            "sourceElementId": "text_0026"
+          },
+          {
+            "speaker": null,
+            "content": "Cc Post your paragraphs around the room. smiled and walked away. | couldn't",
+            "confidence": 0.9269,
+            "bbox": {
+              "x": 0.081569,
+              "y": 0.527576,
+              "width": 0.792157,
+              "height": 0.016364
+            },
+            "sourceElementId": "text_0029"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen to four callers to a radio show talk about acts of kindness. Was each act",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "listening_activity",
+        "instruction": "Listen again. What was each act of kindness? Write it in the chart.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "selection_exercise",
+        "instruction": "Choose one of these topics. Discuss",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "writing",
+        "instruction": "Write a paragraph about your topic. Use the reading",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Keisha",
+          "Antonio",
+          "Mei-li",
+          "B Listen again. What was each act of kindness? Write it in the chart.",
+          "Oeeuoyvsebioo YA",
+          "Eq Writing An act of kindness",
+          "A Choose one of these topics. Discuss",
+          "what happened. An Act of Kindness",
+          "This happened to me last year.",
+          "something nice someone did for you",
+          "was having a really bad day, so",
+          "something nice you did for someone",
+          "went to anice cream shop.",
+          "something nice you'd like to do for someone",
+          "ordered some ice cream, and when",
+          "went to pay for it, | couldn't find",
+          "B Write a paragraph about your topic. Use the reading",
+          "my wallet. Just then, the person",
+          "and the model paragraph to help you.",
+          "in front of me paid for it! Then she"
+        ],
+        "position": {
+          "x": 0.014118000000000002,
+          "y": 0.191231,
+          "width": 0.8831370000000002,
+          "height": 0.3551329999999999
+        },
+        "textElementIds": [
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Cc Post your paragraphs around the room. smiled and walked away. | couldn't",
+          "Read your classmates' paragraphs. Then get more believe it. She did it just to be nice.",
+          "information about a paragraph that interests you.",
+          "Speaking Doing nice things",
+          "Look at the picture. What would be some nice things to do?",
+          "Discuss your ideas.",
+          "BUS",
+          "STOP"
+        ],
+        "position": {
+          "x": 0.061569,
+          "y": 0.507576,
+          "width": 0.839608,
+          "height": 0.23164099999999999
+        },
+        "textElementIds": [
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036"
+        ]
+      }
+    ],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "page",
+    "title": "unit",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "what happened.",
+            "confidence": 0.9517
+          },
+          {
+            "speaker": null,
+            "content": "An Act of Kindness",
+            "confidence": 0.9517
+          },
+          {
+            "speaker": null,
+            "content": "my wallet.",
+            "confidence": 0.9567
+          },
+          {
+            "speaker": null,
+            "content": "Just then, the person",
+            "confidence": 0.9567
+          },
+          {
+            "speaker": null,
+            "content": "Cc Post your paragraphs around the room. smiled and walked away. | couldn't",
+            "confidence": 0.9269
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen to four callers to a radio show talk about acts of kindness. Was each act",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "listening_activity",
+        "instruction": "Listen again. What was each act of kindness? Write it in the chart.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "selection_exercise",
+        "instruction": "Choose one of these topics. Discuss",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "writing",
+        "instruction": "Write a paragraph about your topic. Use the reading",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "7 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "dialoguesSplit": 4
+    },
+    "averageOcrConfidence": 0.8846,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 4 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc4_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

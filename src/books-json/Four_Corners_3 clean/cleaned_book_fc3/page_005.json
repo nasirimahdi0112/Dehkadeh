@@ -1,0 +1,5272 @@
+{
+  "pageNumber": 5,
+  "pageNumberDetected": false,
+  "pageNumberDetectionMethod": "fallback to PDF page number; printed book number not confidently detected",
+  "pdfPageNumber": 5,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 3_Part1.pdf",
+    "pdfLocalPageNumber": 5,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Scope and sequence",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.089804,
+          "y": 0.080303,
+          "width": 0.53098,
+          "height": 0.036061
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Scope and sequence",
+            "confidence": 0.8367
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Scope and sequence",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "label",
+        "content": "Vocabulary",
+        "confidence": 0.88,
+        "bbox": {
+          "x": 0.83,
+          "y": 0.161772,
+          "width": 0.116,
+          "height": 0.020093
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "label",
+        "content": "LEVEL 3 Learning outcomes Vocabulary",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.100784,
+          "y": 0.164545,
+          "width": 0.842745,
+          "height": 0.016667
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Learningoutcomes",
+            "confidence": 0.9369
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "LEVEL 3 Learning outcomes Vocabulary",
+            "confidence": 0.94
+          },
+          {
+            "engine": "rapidocr",
+            "content": "LEVEL3",
+            "confidence": 0.8026
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Grammar",
+            "confidence": 0.7643
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "Page 2",
+        "confidence": 0.7872,
+        "bbox": {
+          "x": 0.265333,
+          "y": 0.210716,
+          "width": 0.043333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "Classroom language",
+        "confidence": 0.913,
+        "bbox": {
+          "x": 0.096667,
+          "y": 0.211747,
+          "width": 0.124667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Classroom language",
+            "confidence": 0.913
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Classroom language Page 2",
+            "confidence": 0.65
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "heading",
+        "content": "Unit1",
+        "confidence": 0.7949,
+        "bbox": {
+          "x": 0.096667,
+          "y": 0.228748,
+          "width": 0.054667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Pages 3-12",
+        "confidence": 0.8456,
+        "bbox": {
+          "x": 0.236667,
+          "y": 0.230294,
+          "width": 0.070667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "School subjects",
+        "confidence": 0.8569,
+        "bbox": {
+          "x": 0.831333,
+          "y": 0.249356,
+          "width": 0.095333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "Students can...",
+        "confidence": 0.8916,
+        "bbox": {
+          "x": 0.334,
+          "y": 0.250386,
+          "width": 0.092,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "Education",
+        "confidence": 0.7731,
+        "bbox": {
+          "x": 0.098,
+          "y": 0.251417,
+          "width": 0.064667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0011",
+        "type": "sentence",
+        "content": "Education Students can... Simple present vs. School subjects",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.099608,
+          "y": 0.251515,
+          "width": 0.82549,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Simplepresentvs.",
+            "confidence": 0.9241
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Education Students can... Simple present vs. School subjects",
+            "confidence": 0.95
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "present continuous",
+        "confidence": 0.9252,
+        "bbox": {
+          "x": 0.661333,
+          "y": 0.262236,
+          "width": 0.118667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "Feelings and emotions",
+        "confidence": 0.9008,
+        "bbox": {
+          "x": 0.831333,
+          "y": 0.262751,
+          "width": 0.134667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "paragraph",
+        "content": "Al’m taking six classes ©™) ask and talk about routines present continuous Feelings and emotions",
+        "confidence": 0.91,
+        "bbox": {
+          "x": 0.099216,
+          "y": 0.263333,
+          "width": 0.865098,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "ask and talk about routines",
+            "confidence": 0.872
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Al’m taking six classes ©™) ask and talk about routines present continuous Feelings and emotions",
+            "confidence": 0.91
+          },
+          {
+            "engine": "rapidocr",
+            "content": "A/I'mtakingsixclasses",
+            "confidence": 0.8372
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "Zero conditional",
+        "confidence": 0.8393,
+        "bbox": {
+          "x": 0.648667,
+          "y": 0.275116,
+          "width": 0.100667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "expressprohibitionandobligation",
+        "confidence": 0.923,
+        "bbox": {
+          "x": 0.352,
+          "y": 0.275631,
+          "width": 0.202,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "expressprohibitionandobligation",
+            "confidence": 0.923
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B You're not allowed to... © express prohibition and obligation Zero conditional",
+            "confidence": 0.8592
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "B You're not allowed to..",
+        "confidence": 0.8601,
+        "bbox": {
+          "x": 0.098667,
+          "y": 0.277692,
+          "width": 0.141333,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "askandtalkaboutfeelingsandreactions",
+        "confidence": 0.937,
+        "bbox": {
+          "x": 0.352,
+          "y": 0.288511,
+          "width": 0.24,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "C My behavior ©™) ask and talk about feelings and reactions",
+            "confidence": 0.8764
+          },
+          {
+            "engine": "rapidocr",
+            "content": "askandtalkaboutfeelingsandreactions",
+            "confidence": 0.937
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "C My behavior",
+        "confidence": 0.821,
+        "bbox": {
+          "x": 0.098,
+          "y": 0.289541,
+          "width": 0.084667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "D Education controversy",
+        "confidence": 0.9283,
+        "bbox": {
+          "x": 0.096667,
+          "y": 0.300876,
+          "width": 0.144,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "D Education controversy © discuss advantages and disadvantages",
+            "confidence": 0.87
+          },
+          {
+            "engine": "rapidocr",
+            "content": "D Education controversy",
+            "confidence": 0.9283
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "discuss advantages and disadvantages",
+        "confidence": 0.914,
+        "bbox": {
+          "x": 0.351333,
+          "y": 0.301391,
+          "width": 0.228,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "heading",
+        "content": "Unit2",
+        "confidence": 0.7705,
+        "bbox": {
+          "x": 0.1,
+          "y": 0.356517,
+          "width": 0.050667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "Pages 13-22",
+        "confidence": 0.8934,
+        "bbox": {
+          "x": 0.229333,
+          "y": 0.357032,
+          "width": 0.079333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "Sentence adverbs",
+        "confidence": 0.8818,
+        "bbox": {
+          "x": 0.832667,
+          "y": 0.377125,
+          "width": 0.107333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "Students can...",
+        "confidence": 0.882,
+        "bbox": {
+          "x": 0.336,
+          "y": 0.37764,
+          "width": 0.088667,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "Personal stories",
+        "confidence": 0.8901,
+        "bbox": {
+          "x": 0.099333,
+          "y": 0.378156,
+          "width": 0.1,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "sentence",
+        "content": "Personal stories Students can... Past continuous vs. Sentence adverbs",
+        "confidence": 0.9589,
+        "bbox": {
+          "x": 0.100392,
+          "y": 0.378182,
+          "width": 0.838039,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Past continuous vs.",
+            "confidence": 0.8698
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Personal stories Students can... Past continuous vs. Sentence adverbs",
+            "confidence": 0.9589
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "simplepast",
+        "confidence": 0.822,
+        "bbox": {
+          "x": 0.662667,
+          "y": 0.39052,
+          "width": 0.072667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "Verbstodescribe",
+        "confidence": 0.8853,
+        "bbox": {
+          "x": 0.833333,
+          "y": 0.39052,
+          "width": 0.102667,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "sentence",
+        "content": "A What were you doing? (Y) describe what was happening in the past simple past Verbs to describe",
+        "confidence": 0.9139,
+        "bbox": {
+          "x": 0.099608,
+          "y": 0.390606,
+          "width": 0.834902,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "describewhat was happeninginthepast",
+            "confidence": 0.8773
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A What were you doing? (Y) describe what was happening in the past simple past Verbs to describe",
+            "confidence": 0.9139
+          },
+          {
+            "engine": "rapidocr",
+            "content": "A What were you doing?",
+            "confidence": 0.8896
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "Participialadjectives",
+        "confidence": 0.9419,
+        "bbox": {
+          "x": 0.650667,
+          "y": 0.402885,
+          "width": 0.126667,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Guess what! ““Y) announce news Participial adjectives reactions",
+            "confidence": 0.8544
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Participialadjectives",
+            "confidence": 0.9419
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "B Guess what!",
+        "confidence": 0.8374,
+        "bbox": {
+          "x": 0.098667,
+          "y": 0.4034,
+          "width": 0.085333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "reactions",
+        "confidence": 0.8976,
+        "bbox": {
+          "x": 0.846,
+          "y": 0.4034,
+          "width": 0.058,
+          "height": 0.009789
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "announcenews",
+        "confidence": 0.8985,
+        "bbox": {
+          "x": 0.354,
+          "y": 0.404946,
+          "width": 0.093333,
+          "height": 0.008243
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "closea conversation",
+        "confidence": 0.8798,
+        "bbox": {
+          "x": 0.353333,
+          "y": 0.415765,
+          "width": 0.12,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "“™) close a conversation",
+            "confidence": 0.78
+          },
+          {
+            "engine": "rapidocr",
+            "content": "closea conversation",
+            "confidence": 0.8798
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "instruction",
+        "content": "tell personal stories",
+        "confidence": 0.8944,
+        "bbox": {
+          "x": 0.352,
+          "y": 0.427615,
+          "width": 0.118667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "C/ was really frightened! ©™) tell personal stories",
+            "confidence": 0.81
+          },
+          {
+            "engine": "rapidocr",
+            "content": "tell personal stories",
+            "confidence": 0.8944
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "C/was reallyfrightened!",
+        "confidence": 0.8849,
+        "bbox": {
+          "x": 0.1,
+          "y": 0.42813,
+          "width": 0.143333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "sentence",
+        "content": "D How embarrassing! “™Y) describe embarrassing moments",
+        "confidence": 0.8514,
+        "bbox": {
+          "x": 0.100784,
+          "y": 0.439697,
+          "width": 0.443922,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "describe embarrassingmoments",
+            "confidence": 0.9158
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "D How embarrassing! “™Y) describe embarrassing moments",
+            "confidence": 0.8514
+          },
+          {
+            "engine": "rapidocr",
+            "content": "D Howembarrassing!",
+            "confidence": 0.8959
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "heading",
+        "content": "Unit3",
+        "confidence": 0.7066,
+        "bbox": {
+          "x": 0.1,
+          "y": 0.470376,
+          "width": 0.052,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "Pages 23-32",
+        "confidence": 0.8123,
+        "bbox": {
+          "x": 0.230667,
+          "y": 0.471406,
+          "width": 0.078667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "label",
+        "content": "Used to",
+        "confidence": 0.7769,
+        "bbox": {
+          "x": 0.650667,
+          "y": 0.489438,
+          "width": 0.046667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0042",
+        "type": "label",
+        "content": "Students can..",
+        "confidence": 0.911,
+        "bbox": {
+          "x": 0.336667,
+          "y": 0.491499,
+          "width": 0.088,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "sentence",
+        "content": "Style and fashion Students can... Used to Fashion statements",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.101176,
+          "y": 0.492424,
+          "width": 0.848235,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Fashionstatements",
+            "confidence": 0.9317
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Style and fashion Students can... Used to Fashion statements",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Styleand fashion",
+            "confidence": 0.8361
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "instruction",
+        "content": "ask about and describe pastfashions",
+        "confidence": 0.9052,
+        "bbox": {
+          "x": 0.353333,
+          "y": 0.503349,
+          "width": 0.217333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "ask about and describe pastfashions",
+            "confidence": 0.9052
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Fashion trends “™) ask about and describe past fashions Defining relative clauses Clothing styles",
+            "confidence": 0.9
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0045",
+        "type": "label",
+        "content": "Defining relative clauses",
+        "confidence": 0.872,
+        "bbox": {
+          "x": 0.652,
+          "y": 0.503864,
+          "width": 0.146667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0046",
+        "type": "label",
+        "content": "Clothing styles",
+        "confidence": 0.8822,
+        "bbox": {
+          "x": 0.833333,
+          "y": 0.503864,
+          "width": 0.09,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0047",
+        "type": "label",
+        "content": "AFashiontrends",
+        "confidence": 0.8833,
+        "bbox": {
+          "x": 0.100667,
+          "y": 0.50541,
+          "width": 0.096667,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0048",
+        "type": "sentence",
+        "content": "B Does this come in...? ©™. ask where something is in a store",
+        "confidence": 0.87,
+        "bbox": {
+          "x": 0.101569,
+          "y": 0.516364,
+          "width": 0.445098,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Does this come in...? ©™. ask where something is in a store",
+            "confidence": 0.87
+          },
+          {
+            "engine": "rapidocr",
+            "content": "askwheresomething isinastore",
+            "confidence": 0.8503
+          },
+          {
+            "engine": "rapidocr",
+            "content": "B Does this come in...?",
+            "confidence": 0.8272
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0049",
+        "type": "label",
+        "content": "askfora specificproduct",
+        "confidence": 0.8969,
+        "bbox": {
+          "x": 0.354,
+          "y": 0.528594,
+          "width": 0.148667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "askfora specificproduct",
+            "confidence": 0.8969
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "©” ask for a specific product",
+            "confidence": 0.8283
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0050",
+        "type": "sentence",
+        "content": "C The latest look ©”! express opinions about style and fashion",
+        "confidence": 0.9018,
+        "bbox": {
+          "x": 0.101176,
+          "y": 0.540909,
+          "width": 0.489804,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "C The latest look ©”! express opinions about style and fashion",
+            "confidence": 0.9018
+          },
+          {
+            "engine": "rapidocr",
+            "content": "express opinions about styleandfashion",
+            "confidence": 0.9091
+          },
+          {
+            "engine": "rapidocr",
+            "content": "CThe latest look",
+            "confidence": 0.86
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0051",
+        "type": "paragraph",
+        "content": "D Views on fashion ©”) ask and talk about current fashions",
+        "confidence": 0.8818,
+        "bbox": {
+          "x": 0.101569,
+          "y": 0.553333,
+          "width": 0.458039,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "D Views on fashion ©”) ask and talk about current fashions",
+            "confidence": 0.8818
+          },
+          {
+            "engine": "rapidocr",
+            "content": "D Views on fashion",
+            "confidence": 0.8349
+          },
+          {
+            "engine": "rapidocr",
+            "content": "askandtalkaboutcurrentfashions",
+            "confidence": 0.9278
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0052",
+        "type": "heading",
+        "content": "Unit4",
+        "confidence": 0.6667,
+        "bbox": {
+          "x": 0.101333,
+          "y": 0.58475,
+          "width": 0.052667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0053",
+        "type": "label",
+        "content": "Pages 33-42",
+        "confidence": 0.838,
+        "bbox": {
+          "x": 0.230667,
+          "y": 0.58475,
+          "width": 0.079333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0054",
+        "type": "label",
+        "content": "Students can...",
+        "confidence": 0.8861,
+        "bbox": {
+          "x": 0.336667,
+          "y": 0.605358,
+          "width": 0.090667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0055",
+        "type": "label",
+        "content": "Experiences",
+        "confidence": 0.9091,
+        "bbox": {
+          "x": 0.834667,
+          "y": 0.605358,
+          "width": 0.074667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0056",
+        "type": "sentence",
+        "content": "Interesting lives Students can... Present perfect Experiences",
+        "confidence": 0.9557,
+        "bbox": {
+          "x": 0.101961,
+          "y": 0.606364,
+          "width": 0.805098,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Present perfect",
+            "confidence": 0.8396
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Interesting lives Students can... Present perfect Experiences",
+            "confidence": 0.9557
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Interesting lives",
+            "confidence": 0.89
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0057",
+        "type": "label",
+        "content": "Fun things to do",
+        "confidence": 0.8743,
+        "bbox": {
+          "x": 0.834,
+          "y": 0.617208,
+          "width": 0.097333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0058",
+        "type": "paragraph",
+        "content": "A Have you ever been on TV? ©™) ask and talk about life experiences Present perfect vs. Fun things to do",
+        "confidence": 0.9076,
+        "bbox": {
+          "x": 0.101176,
+          "y": 0.618182,
+          "width": 0.828627,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "ask and talkabout life experiences",
+            "confidence": 0.8761
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Have you ever been on TV? ©™) ask and talk about life experiences Present perfect vs. Fun things to do",
+            "confidence": 0.9076
+          },
+          {
+            "engine": "rapidocr",
+            "content": "AHave you ever been on Tv?",
+            "confidence": 0.8225
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Present perfectvs.",
+            "confidence": 0.8633
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0059",
+        "type": "sentence",
+        "content": "B What! meanis... ©™ check and clarify meaning simple past",
+        "confidence": 0.925,
+        "bbox": {
+          "x": 0.102353,
+          "y": 0.630909,
+          "width": 0.632157,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "checkand clarifymeaning",
+            "confidence": 0.8591
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B What! meanis... ©™ check and clarify meaning simple past",
+            "confidence": 0.925
+          },
+          {
+            "engine": "rapidocr",
+            "content": "simplepast",
+            "confidence": 0.8075
+          },
+          {
+            "engine": "rapidocr",
+            "content": "BWhatImeanis...",
+            "confidence": 0.886
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0060",
+        "type": "paragraph",
+        "content": "C Life experiences “™ describe details of their experiences",
+        "confidence": 0.9111,
+        "bbox": {
+          "x": 0.101961,
+          "y": 0.642727,
+          "width": 0.462745,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "C Life experiences “™ describe details of their experiences",
+            "confidence": 0.9111
+          },
+          {
+            "engine": "rapidocr",
+            "content": "describedetails of theirexperiences",
+            "confidence": 0.8862
+          },
+          {
+            "engine": "rapidocr",
+            "content": "C Lifeexperiences",
+            "confidence": 0.8785
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0061",
+        "type": "label",
+        "content": "DWhata life!",
+        "confidence": 0.8658,
+        "bbox": {
+          "x": 0.1,
+          "y": 0.656878,
+          "width": 0.08,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "D What a life! © ask and talk about a memorable experience",
+            "confidence": 0.7483
+          },
+          {
+            "engine": "rapidocr",
+            "content": "DWhata life!",
+            "confidence": 0.8658
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0062",
+        "type": "label",
+        "content": "askandtalkaboutamemorableexperience",
+        "confidence": 0.925,
+        "bbox": {
+          "x": 0.355333,
+          "y": 0.656878,
+          "width": 0.256,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0063",
+        "type": "heading",
+        "content": "Unit5",
+        "confidence": 0.7877,
+        "bbox": {
+          "x": 0.101333,
+          "y": 0.710974,
+          "width": 0.053333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "punitS Ba ee re",
+            "confidence": 0.2025
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Unit5",
+            "confidence": 0.7877
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0064",
+        "type": "label",
+        "content": "Pages 43-52",
+        "confidence": 0.7752,
+        "bbox": {
+          "x": 0.232,
+          "y": 0.712004,
+          "width": 0.079333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0065",
+        "type": "label",
+        "content": "Our world",
+        "confidence": 0.8662,
+        "bbox": {
+          "x": 0.1,
+          "y": 0.732612,
+          "width": 0.066,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0066",
+        "type": "sentence",
+        "content": "Our world Students can... Comparatives Human-made wonders",
+        "confidence": 0.9429,
+        "bbox": {
+          "x": 0.102353,
+          "y": 0.73303,
+          "width": 0.867843,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Comparatives",
+            "confidence": 0.9166
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Our world Students can... Comparatives Human-made wonders",
+            "confidence": 0.9429
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Human-madewonders",
+            "confidence": 0.914
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Students can..",
+            "confidence": 0.8931
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0067",
+        "type": "label",
+        "content": "Not as...as",
+        "confidence": 0.8802,
+        "bbox": {
+          "x": 0.652,
+          "y": 0.744977,
+          "width": 0.068,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0068",
+        "type": "sentence",
+        "content": "A Older, taller, and more famous “¥) Compare human-made structures Not as...as Geographical features",
+        "confidence": 0.8971,
+        "bbox": {
+          "x": 0.101961,
+          "y": 0.745455,
+          "width": 0.863137,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Older, taller, and more famous “¥) Compare human-made structures Not as...as Geographical features",
+            "confidence": 0.8971
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Comparehuman-made structures",
+            "confidence": 0.8953
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Geographical features",
+            "confidence": 0.8943
+          },
+          {
+            "engine": "rapidocr",
+            "content": "AOlder,taller,andmorefamous",
+            "confidence": 0.9148
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0069",
+        "type": "label",
+        "content": "express disbelief",
+        "confidence": 0.9012,
+        "bbox": {
+          "x": 0.355333,
+          "y": 0.757342,
+          "width": 0.1,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "express disbelief",
+            "confidence": 0.9012
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B / don’t believe it! ©) express disbelief Superlatives",
+            "confidence": 0.7056
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0070",
+        "type": "label",
+        "content": "Superlatives",
+        "confidence": 0.9077,
+        "bbox": {
+          "x": 0.652667,
+          "y": 0.758372,
+          "width": 0.078,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0071",
+        "type": "label",
+        "content": "B/ don'tbelieve it!",
+        "confidence": 0.8676,
+        "bbox": {
+          "x": 0.101333,
+          "y": 0.758887,
+          "width": 0.109333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0072",
+        "type": "paragraph",
+        "content": "©™) say that they don’t know something",
+        "confidence": 0.91,
+        "bbox": {
+          "x": 0.324706,
+          "y": 0.77,
+          "width": 0.240784,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "saythat they don't know something",
+            "confidence": 0.8859
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "©™) say that they don’t know something",
+            "confidence": 0.91
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0073",
+        "type": "paragraph",
+        "content": "C World geography ©™) ask and talk about geographical features",
+        "confidence": 0.919,
+        "bbox": {
+          "x": 0.102745,
+          "y": 0.782121,
+          "width": 0.489804,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "C World geography ©™) ask and talk about geographical features",
+            "confidence": 0.919
+          },
+          {
+            "engine": "rapidocr",
+            "content": "ask and talkabout geographical features",
+            "confidence": 0.898
+          },
+          {
+            "engine": "rapidocr",
+            "content": "C World geography",
+            "confidence": 0.8661
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0074",
+        "type": "sentence",
+        "content": "D Natural wonders ©™! describe natural wonders in their country",
+        "confidence": 0.928,
+        "bbox": {
+          "x": 0.103137,
+          "y": 0.794545,
+          "width": 0.494118,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "D Natural wonders ©™! describe natural wonders in their country",
+            "confidence": 0.928
+          },
+          {
+            "engine": "rapidocr",
+            "content": "DNatural wonders",
+            "confidence": 0.8999
+          },
+          {
+            "engine": "rapidocr",
+            "content": "describenaturalwondersintheircountry",
+            "confidence": 0.935
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0075",
+        "type": "heading",
+        "content": "Unit6",
+        "confidence": 0.8282,
+        "bbox": {
+          "x": 0.102667,
+          "y": 0.826378,
+          "width": 0.052,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0076",
+        "type": "label",
+        "content": "Pages 53-62",
+        "confidence": 0.8472,
+        "bbox": {
+          "x": 0.232667,
+          "y": 0.826893,
+          "width": 0.079333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0077",
+        "type": "label",
+        "content": "Commitments",
+        "confidence": 0.867,
+        "bbox": {
+          "x": 0.836667,
+          "y": 0.846986,
+          "width": 0.087333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0078",
+        "type": "label",
+        "content": "Students can..",
+        "confidence": 0.8978,
+        "bbox": {
+          "x": 0.338,
+          "y": 0.847501,
+          "width": 0.088,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0079",
+        "type": "sentence",
+        "content": "Organizing your time Students can... Present tenses used for Commitments",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.102745,
+          "y": 0.848182,
+          "width": 0.819216,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Presenttenses used for",
+            "confidence": 0.9179
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Organizing your time Students can... Present tenses used for Commitments",
+            "confidence": 0.95
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Organizing your time",
+            "confidence": 0.8137
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0080",
+        "type": "label",
+        "content": "Favors",
+        "confidence": 0.8199,
+        "bbox": {
+          "x": 0.834667,
+          "y": 0.85832,
+          "width": 0.045333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0081",
+        "type": "label",
+        "content": "future",
+        "confidence": 0.8262,
+        "bbox": {
+          "x": 0.666,
+          "y": 0.859866,
+          "width": 0.041333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0082",
+        "type": "sentence",
+        "content": "AA busy week ©! ask and talk about weekend plans future Favors",
+        "confidence": 0.9167,
+        "bbox": {
+          "x": 0.102353,
+          "y": 0.860303,
+          "width": 0.773725,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "AA busy week ©! ask and talk about weekend plans future Favors",
+            "confidence": 0.9167
+          },
+          {
+            "engine": "rapidocr",
+            "content": "askandtalkaboutweekendplans",
+            "confidence": 0.9215
+          },
+          {
+            "engine": "rapidocr",
+            "content": "AAbusyweek",
+            "confidence": 0.8655
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0083",
+        "type": "label",
+        "content": "offerto take a message",
+        "confidence": 0.8561,
+        "bbox": {
+          "x": 0.355333,
+          "y": 0.871716,
+          "width": 0.138,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "offerto take a message",
+            "confidence": 0.8561
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Can! take a message? ©) offer to take a message Requests",
+            "confidence": 0.7883
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0084",
+        "type": "sentence",
+        "content": "B Can / take a message?",
+        "confidence": 0.9072,
+        "bbox": {
+          "x": 0.100667,
+          "y": 0.872231,
+          "width": 0.142,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0085",
+        "type": "label",
+        "content": "Requests",
+        "confidence": 0.8579,
+        "bbox": {
+          "x": 0.654,
+          "y": 0.872231,
+          "width": 0.058667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0086",
+        "type": "label",
+        "content": "leavea message",
+        "confidence": 0.8301,
+        "bbox": {
+          "x": 0.354667,
+          "y": 0.885111,
+          "width": 0.099333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0087",
+        "type": "paragraph",
+        "content": "“™~ leave a message Promises and offers with",
+        "confidence": 0.8562,
+        "bbox": {
+          "x": 0.325882,
+          "y": 0.885152,
+          "width": 0.475294,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Promises and offers with",
+            "confidence": 0.9284
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "“™~ leave a message Promises and offers with",
+            "confidence": 0.8562
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0088",
+        "type": "label",
+        "content": "will",
+        "confidence": 0.7809,
+        "bbox": {
+          "x": 0.666,
+          "y": 0.89696,
+          "width": 0.026667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0089",
+        "type": "paragraph",
+        "content": "© make requests, promises, and offers will",
+        "confidence": 0.85,
+        "bbox": {
+          "x": 0.325882,
+          "y": 0.897273,
+          "width": 0.362745,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "makerequests,promises,andoffers",
+            "confidence": 0.8681
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "© make requests, promises, and offers will",
+            "confidence": 0.85
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0090",
+        "type": "paragraph",
+        "content": "D Perspectives on time “ discuss ways to manage time e ectively",
+        "confidence": 0.8767,
+        "bbox": {
+          "x": 0.103529,
+          "y": 0.910303,
+          "width": 0.485882,
+          "height": 0.017879
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "C Can you domeafavor?",
+            "confidence": 0.8315
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "C Can you do mea favor? BH ai A 5",
+            "confidence": 0.667
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "D Perspectives on time “ discuss ways to manage time e ectively",
+            "confidence": 0.8767
+          },
+          {
+            "engine": "rapidocr",
+            "content": "discuss ways tomanage time effectively",
+            "confidence": 0.881
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "} ff",
+            "confidence": 0.545
+          },
+          {
+            "engine": "rapidocr",
+            "content": "DPerspectives ontime",
+            "confidence": 0.8469
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0091",
+        "type": "label",
+        "content": "iv",
+        "confidence": 0.6617,
+        "bbox": {
+          "x": 0.058667,
+          "y": 0.956723,
+          "width": 0.019333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0092",
+        "type": "heading",
+        "content": "Scope and sequence",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.120784,
+          "y": 0.968182,
+          "width": 0.125098,
+          "height": 0.010909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Scope and sequence",
+            "confidence": 0.876
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Scope and sequence",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "exercise",
+        "instruction": "l’m taking six classes ©™) ask and talk about routines present continuous Feelings and emotions",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0014"
+        ],
+        "confidence": 0.91
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "exercise",
+        "instruction": "What were you doing? (Y) describe what was happening in the past simple past Verbs to describe",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0030"
+        ],
+        "confidence": 0.9139
+      },
+      {
+        "exerciseNumber": "D",
+        "type": "exercise",
+        "instruction": "How embarrassing! “™Y) describe embarrassing moments",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0038"
+        ],
+        "confidence": 0.8514
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "exercise",
+        "instruction": "Does this come in...? ©™. ask where something is in a store",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0048"
+        ],
+        "confidence": 0.87
+      },
+      {
+        "exerciseNumber": "C",
+        "type": "exercise",
+        "instruction": "The latest look ©”! express opinions about style and fashion",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0050"
+        ],
+        "confidence": 0.9018
+      },
+      {
+        "exerciseNumber": "D",
+        "type": "exercise",
+        "instruction": "Views on fashion ©”) ask and talk about current fashions",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0051"
+        ],
+        "confidence": 0.8818
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "exercise",
+        "instruction": "Have you ever been on TV? ©™) ask and talk about life experiences Present perfect vs. Fun things to do",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0058"
+        ],
+        "confidence": 0.9076
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "selection_exercise",
+        "instruction": "What! meanis... ©™ check and clarify meaning simple past",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0059"
+        ],
+        "confidence": 0.925
+      },
+      {
+        "exerciseNumber": "C",
+        "type": "exercise",
+        "instruction": "Life experiences “™ describe details of their experiences",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0060"
+        ],
+        "confidence": 0.9111
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "exercise",
+        "instruction": "Older, taller, and more famous “¥) Compare human-made structures Not as...as Geographical features",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0068"
+        ],
+        "confidence": 0.8971
+      },
+      {
+        "exerciseNumber": "C",
+        "type": "exercise",
+        "instruction": "World geography ©™) ask and talk about geographical features",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0073"
+        ],
+        "confidence": 0.919
+      },
+      {
+        "exerciseNumber": "D",
+        "type": "exercise",
+        "instruction": "Natural wonders ©™! describe natural wonders in their country",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0074"
+        ],
+        "confidence": 0.928
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "exercise",
+        "instruction": "A busy week ©! ask and talk about weekend plans future Favors",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0082"
+        ],
+        "confidence": 0.9167
+      }
+    ],
+    "ocrTables": [
+      {
+        "title": "Scope and sequence",
+        "headers": [],
+        "rows": [
+          [
+            "Vocabulary"
+          ],
+          [
+            "LEVEL 3 Learning outcomes Vocabulary"
+          ],
+          [
+            "Page 2"
+          ],
+          [
+            "Classroom language"
+          ],
+          [
+            "Unit1"
+          ],
+          [
+            "Pages 3-12"
+          ],
+          [
+            "School subjects"
+          ],
+          [
+            "Students can..."
+          ],
+          [
+            "Education"
+          ],
+          [
+            "Education Students can... Simple present vs. School subjects"
+          ],
+          [
+            "present continuous"
+          ],
+          [
+            "Feelings and emotions"
+          ],
+          [
+            "Al’m taking six classes ©™) ask and talk about routines present continuous Feelings and emotions"
+          ],
+          [
+            "Zero conditional"
+          ],
+          [
+            "expressprohibitionandobligation"
+          ],
+          [
+            "B You're not allowed to.."
+          ],
+          [
+            "askandtalkaboutfeelingsandreactions"
+          ],
+          [
+            "C My behavior"
+          ],
+          [
+            "D Education controversy"
+          ],
+          [
+            "discuss advantages and disadvantages"
+          ],
+          [
+            "Unit2"
+          ],
+          [
+            "Pages 13-22"
+          ],
+          [
+            "Sentence adverbs"
+          ],
+          [
+            "Students can..."
+          ],
+          [
+            "Personal stories"
+          ],
+          [
+            "Personal stories Students can... Past continuous vs. Sentence adverbs"
+          ],
+          [
+            "simplepast"
+          ],
+          [
+            "Verbstodescribe"
+          ],
+          [
+            "A What were you doing? (Y) describe what was happening in the past simple past Verbs to describe"
+          ],
+          [
+            "Participialadjectives"
+          ],
+          [
+            "B Guess what!"
+          ],
+          [
+            "reactions"
+          ],
+          [
+            "announcenews"
+          ],
+          [
+            "closea conversation"
+          ],
+          [
+            "tell personal stories"
+          ],
+          [
+            "C/was reallyfrightened!"
+          ],
+          [
+            "D How embarrassing! “™Y) describe embarrassing moments"
+          ],
+          [
+            "Unit3"
+          ],
+          [
+            "Pages 23-32"
+          ],
+          [
+            "Used to"
+          ],
+          [
+            "Students can.."
+          ],
+          [
+            "Style and fashion Students can... Used to Fashion statements"
+          ],
+          [
+            "ask about and describe pastfashions"
+          ],
+          [
+            "Defining relative clauses"
+          ],
+          [
+            "Clothing styles"
+          ],
+          [
+            "AFashiontrends"
+          ],
+          [
+            "B Does this come in...? ©™. ask where something is in a store"
+          ],
+          [
+            "askfora specificproduct"
+          ],
+          [
+            "C The latest look ©”! express opinions about style and fashion"
+          ],
+          [
+            "D Views on fashion ©”) ask and talk about current fashions"
+          ],
+          [
+            "Unit4"
+          ],
+          [
+            "Pages 33-42"
+          ],
+          [
+            "Students can..."
+          ],
+          [
+            "Experiences"
+          ],
+          [
+            "Interesting lives Students can... Present perfect Experiences"
+          ],
+          [
+            "Fun things to do"
+          ],
+          [
+            "A Have you ever been on TV? ©™) ask and talk about life experiences Present perfect vs. Fun things to do"
+          ],
+          [
+            "B What! meanis... ©™ check and clarify meaning simple past"
+          ],
+          [
+            "C Life experiences “™ describe details of their experiences"
+          ],
+          [
+            "DWhata life!"
+          ],
+          [
+            "askandtalkaboutamemorableexperience"
+          ],
+          [
+            "Unit5"
+          ],
+          [
+            "Pages 43-52"
+          ],
+          [
+            "Our world"
+          ],
+          [
+            "Our world Students can... Comparatives Human-made wonders"
+          ],
+          [
+            "Not as...as"
+          ],
+          [
+            "A Older, taller, and more famous “¥) Compare human-made structures Not as...as Geographical features"
+          ],
+          [
+            "express disbelief"
+          ],
+          [
+            "Superlatives"
+          ],
+          [
+            "B/ don'tbelieve it!"
+          ],
+          [
+            "©™) say that they don’t know something"
+          ],
+          [
+            "C World geography ©™) ask and talk about geographical features"
+          ],
+          [
+            "D Natural wonders ©™! describe natural wonders in their country"
+          ],
+          [
+            "Unit6"
+          ],
+          [
+            "Pages 53-62"
+          ],
+          [
+            "Commitments"
+          ],
+          [
+            "Students can.."
+          ],
+          [
+            "Organizing your time Students can... Present tenses used for Commitments"
+          ],
+          [
+            "Favors"
+          ],
+          [
+            "future"
+          ],
+          [
+            "AA busy week ©! ask and talk about weekend plans future Favors"
+          ],
+          [
+            "offerto take a message"
+          ],
+          [
+            "B Can / take a message?"
+          ],
+          [
+            "Requests"
+          ],
+          [
+            "leavea message"
+          ],
+          [
+            "“™~ leave a message Promises and offers with"
+          ],
+          [
+            "will"
+          ],
+          [
+            "© make requests, promises, and offers will"
+          ]
+        ],
+        "tableStructureConfidence": "low",
+        "fallbackText": "Scope and sequence Vocabulary LEVEL 3 Learning outcomes Vocabulary Page 2 Classroom language Unit1 Pages 3-12 School subjects Students can... Education Education Students can... Simple present vs. School subjects present continuous Feelings and emotions Al’m taking six classes ©™) ask and talk about routines present continuous Feelings and emotions Zero conditional expressprohibitionandobligation B You're not allowed to.. askandtalkaboutfeelingsandreactions C My behavior D Education controversy discuss advantages and disadvantages Unit2 Pages 13-22 Sentence adverbs Students can... Personal stories Personal stories Students can... Past continuous vs. Sentence adverbs simplepast Verbstodescribe A What were you doing? (Y) describe what was happening in the past simple past Verbs to describe Participialadjectives B Guess what! reactions announcenews closea conversation tell personal stories C/was reallyfrightened! D How embarrassing! “™Y) describe embarrassing moments Unit3 Pages 23-32 Used to Students can.. Style and fashion Students can... Used to Fashion statements ask about and describe pastfashions Defining relative clauses Clothing styles AFashiontrends B Does this come in...? ©™. ask where something is in a store askfora specificproduct C The latest look ©”! express opinions about style and fashion D Views on fashion ©”) ask and talk about current fashions Unit4 Pages 33-42 Students can... Experiences Interesting lives Students can... Present perfect Experiences Fun things to do A Have you ever been on TV? ©™) ask and talk about life experiences Present perfect vs. Fun things to do B What! meanis... ©™ check and clarify meaning simple past C Life experiences “™ describe details of their experiences DWhata life! askandtalkaboutamemorableexperience Unit5 Pages 43-52 Our world Our world Students can... Comparatives Human-made wonders Not as...as A Older, taller, and more famous “¥) Compare human-made structures Not as...as Geographical features express disbelief Superlatives B/ don'tbelieve it! ©™) say that they don’t know something C World geography ©™) ask and talk about geographical features D Natural wonders ©™! describe natural wonders in their country Unit6 Pages 53-62 Commitments Students can.. Organizing your time Students can... Present tenses used for Commitments Favors future AA busy week ©! ask and talk about weekend plans future Favors offerto take a message B Can / take a message? Requests leavea message “™~ leave a message Promises and offers with will © make requests, promises, and offers will D Perspectives on time “ discuss ways to manage time e ectively iv Scope and sequence",
+        "sourceElementIds": [
+          "text_0001",
+          "text_0002",
+          "text_0003",
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040",
+          "text_0041",
+          "text_0042",
+          "text_0043",
+          "text_0044",
+          "text_0045",
+          "text_0046",
+          "text_0047",
+          "text_0048",
+          "text_0049",
+          "text_0050",
+          "text_0051",
+          "text_0052",
+          "text_0053",
+          "text_0054",
+          "text_0055",
+          "text_0056",
+          "text_0057",
+          "text_0058",
+          "text_0059",
+          "text_0060",
+          "text_0061",
+          "text_0062",
+          "text_0063",
+          "text_0064",
+          "text_0065",
+          "text_0066",
+          "text_0067",
+          "text_0068",
+          "text_0069",
+          "text_0070",
+          "text_0071",
+          "text_0072",
+          "text_0073",
+          "text_0074",
+          "text_0075",
+          "text_0076",
+          "text_0077",
+          "text_0078",
+          "text_0079",
+          "text_0080",
+          "text_0081",
+          "text_0082",
+          "text_0083",
+          "text_0084",
+          "text_0085",
+          "text_0086",
+          "text_0087",
+          "text_0088",
+          "text_0089",
+          "text_0090",
+          "text_0091",
+          "text_0092"
+        ]
+      }
+    ],
+    "ocrImages": [],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "Scope and sequence\nVocabulary\nLearningoutcomes\nLEVEL3\nGrammar\nPage 2\nClassroom language\nUnit1\nPages 3-12\nSchool subjects\nStudents can...\nSimplepresentvs.\nEducation\npresent continuous\nask and talk about routines\nFeelings and emotions\nA/I'mtakingsixclasses\nZero conditional\nexpressprohibitionandobligation\nB You're not allowed to..\naskandtalkaboutfeelingsandreactions\nC My behavior\nD Education controversy\ndiscuss advantages and disadvantages\nUnit2\nPages 13-22\nPast continuous vs.\nSentence adverbs\nStudents can...\nPersonal stories\ndescribewhat was happeninginthepast\nsimplepast\nVerbstodescribe\nA What were you doing?\nParticipialadjectives\nB Guess what!\nreactions\nannouncenews\nclosea conversation\ntell personal stories\nC/was reallyfrightened!\ndescribe embarrassingmoments\nD Howembarrassing!\nUnit3\nPages 23-32\nUsed to\nStudents can..\nFashionstatements\nStyleand fashion\nask about and describe pastfashions\nDefining relative clauses\nClothing styles\nAFashiontrends\naskwheresomething isinastore\nB Does this come in...?\naskfora specificproduct\nexpress opinions about styleandfashion\nCThe latest look\nD Views on fashion\naskandtalkaboutcurrentfashions\nUnit4\nPages 33-42\nStudents can...\nPresent perfect\nExperiences\nInteresting lives\nFun things to do\nask and talkabout life experiences\nAHave you ever been on Tv?\nPresent perfectvs.\ncheckand clarifymeaning\nsimplepast\nBWhatImeanis...\ndescribedetails of theirexperiences\nC Lifeexperiences\nDWhata life!\naskandtalkaboutamemorableexperience\nUnit5\nPages 43-52\nOur world\nComparatives\nHuman-madewonders\nStudents can..\nNot as...as\nComparehuman-made structures\nGeographical features\nAOlder,taller,andmorefamous\nexpress disbelief\nSuperlatives\nB/ don'tbelieve it!\nsaythat they don't know something\nask and talkabout geographical features\nC World geography\nDNatural wonders\ndescribenaturalwondersintheircountry\nUnit6\nPages 53-62\nPresenttenses used for\nCommitments\nStudents can..\nOrganizing your time\nFavors\nfuture\naskandtalkaboutweekendplans\nAAbusyweek\nofferto take a message\nB Can / take a message?\nRequests\nPromises and offers with\nleavea message\nmakerequests,promises,andoffers\nwill\nC Can you domeafavor?\ndiscuss ways tomanage time effectively\nDPerspectives ontime\ndehkhodaedu.com\niv\nScope and sequence",
+      "tesseract_psm3": "Scope and sequence\n\nLEVEL 3 Learning outcomes Vocabulary\n\nClassroom language Page 2\n\nEducation Students can... Simple present vs. School subjects\n\nAl’m taking six classes ©™) ask and talk about routines present continuous Feelings and emotions\nB You're not allowed to... © express prohibition and obligation Zero conditional\n\nC My behavior ©™) ask and talk about feelings and reactions\n\nD Education controversy © discuss advantages and disadvantages\n\nPersonal stories Students can... Past continuous vs. Sentence adverbs\nA What were you doing? (Y) describe what was happening in the past simple past Verbs to describe\nB Guess what! ““Y) announce news Participial adjectives reactions\n\n“™) close a conversation\nC/ was really frightened! ©™) tell personal stories\nD How embarrassing! “™Y) describe embarrassing moments\n\nStyle and fashion Students can... Used to Fashion statements\nA Fashion trends “™) ask about and describe past fashions Defining relative clauses Clothing styles\nB Does this come in...? ©™. ask where something is in a store\n©” ask for a specific product\nC The latest look ©”! express opinions about style and fashion\nD Views on fashion ©”) ask and talk about current fashions\nInteresting lives Students can... Present perfect Experiences\nA Have you ever been on TV? ©™) ask and talk about life experiences Present perfect vs. Fun things to do\nB What! meanis... ©™ check and clarify meaning simple past\nC Life experiences “™ describe details of their experiences\nD What a life! © ask and talk about a memorable experience\n\npunitS Ba ee re\n\nOur world Students can... Comparatives Human-made wonders\nA Older, taller, and more famous “¥) Compare human-made structures Not as...as Geographical features\nB / don’t believe it! ©) express disbelief Superlatives\n\n©™) say that they don’t know something\nC World geography ©™) ask and talk about geographical features\nD Natural wonders ©™! describe natural wonders in their country\n\nOrganizing your time Students can... Present tenses used for Commitments\nAA busy week ©! ask and talk about weekend plans future Favors\nB Can! take a message? ©) offer to take a message Requests\n\n“™~ leave a message Promises and offers with\n\n© make requests, promises, and offers will\n\nC Can you do mea favor? BH ai A 5\n} ff\nD Perspectives on time “ discuss ways to manage time e ectively\n\niv dehkhodaedu.com\nScope and sequence\n\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8749,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "Printed book page number was not confidently detected; pageNumber uses the PDF-page fallback and pageNumberDetected is false.",
+      "11 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "scope_and_sequence",
+    "headings": [
+      "Scope and sequence",
+      "Unit 1",
+      "Unit 2",
+      "Unit 3",
+      "Unit 4",
+      "Unit 5",
+      "Unit 6",
+      "Scope and sequence"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Scope and sequence",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.089804,
+          "y": 0.080303,
+          "width": 0.53098,
+          "height": 0.036061
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Scope and sequence",
+            "confidence": 0.8367
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Scope and sequence",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "label",
+        "content": "Vocabulary",
+        "confidence": 0.88,
+        "bbox": {
+          "x": 0.83,
+          "y": 0.161772,
+          "width": 0.116,
+          "height": 0.020093
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "label",
+        "content": "LEVEL 3 Learning outcomes Vocabulary",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.100784,
+          "y": 0.164545,
+          "width": 0.842745,
+          "height": 0.016667
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Learningoutcomes",
+            "confidence": 0.9369
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "LEVEL 3 Learning outcomes Vocabulary",
+            "confidence": 0.94
+          },
+          {
+            "engine": "rapidocr",
+            "content": "LEVEL3",
+            "confidence": 0.8026
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Grammar",
+            "confidence": 0.7643
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "Page 2",
+        "confidence": 0.7872,
+        "bbox": {
+          "x": 0.265333,
+          "y": 0.210716,
+          "width": 0.043333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "Classroom language",
+        "confidence": 0.913,
+        "bbox": {
+          "x": 0.096667,
+          "y": 0.211747,
+          "width": 0.124667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Classroom language",
+            "confidence": 0.913
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Classroom language Page 2",
+            "confidence": 0.65
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "heading",
+        "content": "Unit 1",
+        "confidence": 0.7949,
+        "bbox": {
+          "x": 0.096667,
+          "y": 0.228748,
+          "width": 0.054667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Pages 3-12",
+        "confidence": 0.8456,
+        "bbox": {
+          "x": 0.236667,
+          "y": 0.230294,
+          "width": 0.070667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "School subjects",
+        "confidence": 0.8569,
+        "bbox": {
+          "x": 0.831333,
+          "y": 0.249356,
+          "width": 0.095333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "Students can...",
+        "confidence": 0.8916,
+        "bbox": {
+          "x": 0.334,
+          "y": 0.250386,
+          "width": 0.092,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "Education",
+        "confidence": 0.7731,
+        "bbox": {
+          "x": 0.098,
+          "y": 0.251417,
+          "width": 0.064667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0011",
+        "type": "sentence",
+        "content": "Education Students can... Simple present vs. School subjects",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.099608,
+          "y": 0.251515,
+          "width": 0.82549,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Simplepresentvs.",
+            "confidence": 0.9241
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Education Students can... Simple present vs. School subjects",
+            "confidence": 0.95
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "present continuous",
+        "confidence": 0.9252,
+        "bbox": {
+          "x": 0.661333,
+          "y": 0.262236,
+          "width": 0.118667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "Feelings and emotions",
+        "confidence": 0.9008,
+        "bbox": {
+          "x": 0.831333,
+          "y": 0.262751,
+          "width": 0.134667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "Zero conditional",
+        "confidence": 0.8393,
+        "bbox": {
+          "x": 0.648667,
+          "y": 0.275116,
+          "width": 0.100667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "expressprohibitionandobligation",
+        "confidence": 0.923,
+        "bbox": {
+          "x": 0.352,
+          "y": 0.275631,
+          "width": 0.202,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "expressprohibitionandobligation",
+            "confidence": 0.923
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B You're not allowed to... © express prohibition and obligation Zero conditional",
+            "confidence": 0.8592
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "B You're not allowed to..",
+        "confidence": 0.8601,
+        "bbox": {
+          "x": 0.098667,
+          "y": 0.277692,
+          "width": 0.141333,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "askandtalkaboutfeelingsandreactions",
+        "confidence": 0.937,
+        "bbox": {
+          "x": 0.352,
+          "y": 0.288511,
+          "width": 0.24,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "C My behavior ©™) ask and talk about feelings and reactions",
+            "confidence": 0.8764
+          },
+          {
+            "engine": "rapidocr",
+            "content": "askandtalkaboutfeelingsandreactions",
+            "confidence": 0.937
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "C My behavior",
+        "confidence": 0.821,
+        "bbox": {
+          "x": 0.098,
+          "y": 0.289541,
+          "width": 0.084667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "D Education controversy",
+        "confidence": 0.9283,
+        "bbox": {
+          "x": 0.096667,
+          "y": 0.300876,
+          "width": 0.144,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "D Education controversy © discuss advantages and disadvantages",
+            "confidence": 0.87
+          },
+          {
+            "engine": "rapidocr",
+            "content": "D Education controversy",
+            "confidence": 0.9283
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "discuss advantages and disadvantages",
+        "confidence": 0.914,
+        "bbox": {
+          "x": 0.351333,
+          "y": 0.301391,
+          "width": 0.228,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "heading",
+        "content": "Unit 2",
+        "confidence": 0.7705,
+        "bbox": {
+          "x": 0.1,
+          "y": 0.356517,
+          "width": 0.050667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "Pages 13-22",
+        "confidence": 0.8934,
+        "bbox": {
+          "x": 0.229333,
+          "y": 0.357032,
+          "width": 0.079333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "Sentence adverbs",
+        "confidence": 0.8818,
+        "bbox": {
+          "x": 0.832667,
+          "y": 0.377125,
+          "width": 0.107333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "Students can...",
+        "confidence": 0.882,
+        "bbox": {
+          "x": 0.336,
+          "y": 0.37764,
+          "width": 0.088667,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "Personal stories",
+        "confidence": 0.8901,
+        "bbox": {
+          "x": 0.099333,
+          "y": 0.378156,
+          "width": 0.1,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "sentence",
+        "content": "Personal stories Students can... Past continuous vs. Sentence adverbs",
+        "confidence": 0.9589,
+        "bbox": {
+          "x": 0.100392,
+          "y": 0.378182,
+          "width": 0.838039,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Past continuous vs.",
+            "confidence": 0.8698
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Personal stories Students can... Past continuous vs. Sentence adverbs",
+            "confidence": 0.9589
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "simplepast",
+        "confidence": 0.822,
+        "bbox": {
+          "x": 0.662667,
+          "y": 0.39052,
+          "width": 0.072667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "Verbstodescribe",
+        "confidence": 0.8853,
+        "bbox": {
+          "x": 0.833333,
+          "y": 0.39052,
+          "width": 0.102667,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "sentence",
+        "content": "A What were you doing? (Y) describe what was happening in the past simple past Verbs to describe",
+        "confidence": 0.9139,
+        "bbox": {
+          "x": 0.099608,
+          "y": 0.390606,
+          "width": 0.834902,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "describewhat was happeninginthepast",
+            "confidence": 0.8773
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A What were you doing? (Y) describe what was happening in the past simple past Verbs to describe",
+            "confidence": 0.9139
+          },
+          {
+            "engine": "rapidocr",
+            "content": "A What were you doing?",
+            "confidence": 0.8896
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "Participialadjectives",
+        "confidence": 0.9419,
+        "bbox": {
+          "x": 0.650667,
+          "y": 0.402885,
+          "width": 0.126667,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Guess what! ““Y) announce news Participial adjectives reactions",
+            "confidence": 0.8544
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Participialadjectives",
+            "confidence": 0.9419
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "B Guess what!",
+        "confidence": 0.8374,
+        "bbox": {
+          "x": 0.098667,
+          "y": 0.4034,
+          "width": 0.085333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "reactions",
+        "confidence": 0.8976,
+        "bbox": {
+          "x": 0.846,
+          "y": 0.4034,
+          "width": 0.058,
+          "height": 0.009789
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "announcenews",
+        "confidence": 0.8985,
+        "bbox": {
+          "x": 0.354,
+          "y": 0.404946,
+          "width": 0.093333,
+          "height": 0.008243
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "closea conversation",
+        "confidence": 0.8798,
+        "bbox": {
+          "x": 0.353333,
+          "y": 0.415765,
+          "width": 0.12,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "“™) close a conversation",
+            "confidence": 0.78
+          },
+          {
+            "engine": "rapidocr",
+            "content": "closea conversation",
+            "confidence": 0.8798
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "instruction",
+        "content": "tell personal stories",
+        "confidence": 0.8944,
+        "bbox": {
+          "x": 0.352,
+          "y": 0.427615,
+          "width": 0.118667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "C/ was really frightened! ©™) tell personal stories",
+            "confidence": 0.81
+          },
+          {
+            "engine": "rapidocr",
+            "content": "tell personal stories",
+            "confidence": 0.8944
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "C/was reallyfrightened!",
+        "confidence": 0.8849,
+        "bbox": {
+          "x": 0.1,
+          "y": 0.42813,
+          "width": 0.143333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "sentence",
+        "content": "D How embarrassing! \"™Y) describe embarrassing moments",
+        "confidence": 0.8514,
+        "bbox": {
+          "x": 0.100784,
+          "y": 0.439697,
+          "width": 0.443922,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "describe embarrassingmoments",
+            "confidence": 0.9158
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "D How embarrassing! “™Y) describe embarrassing moments",
+            "confidence": 0.8514
+          },
+          {
+            "engine": "rapidocr",
+            "content": "D Howembarrassing!",
+            "confidence": 0.8959
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "heading",
+        "content": "Unit 3",
+        "confidence": 0.7066,
+        "bbox": {
+          "x": 0.1,
+          "y": 0.470376,
+          "width": 0.052,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "Pages 23-32",
+        "confidence": 0.8123,
+        "bbox": {
+          "x": 0.230667,
+          "y": 0.471406,
+          "width": 0.078667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "label",
+        "content": "Used to",
+        "confidence": 0.7769,
+        "bbox": {
+          "x": 0.650667,
+          "y": 0.489438,
+          "width": 0.046667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0042",
+        "type": "label",
+        "content": "Students can..",
+        "confidence": 0.911,
+        "bbox": {
+          "x": 0.336667,
+          "y": 0.491499,
+          "width": 0.088,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "sentence",
+        "content": "Style and fashion Students can... Used to Fashion statements",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.101176,
+          "y": 0.492424,
+          "width": 0.848235,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Fashionstatements",
+            "confidence": 0.9317
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Style and fashion Students can... Used to Fashion statements",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Styleand fashion",
+            "confidence": 0.8361
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "instruction",
+        "content": "ask about and describe pastfashions",
+        "confidence": 0.9052,
+        "bbox": {
+          "x": 0.353333,
+          "y": 0.503349,
+          "width": 0.217333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "ask about and describe pastfashions",
+            "confidence": 0.9052
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Fashion trends “™) ask about and describe past fashions Defining relative clauses Clothing styles",
+            "confidence": 0.9
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0045",
+        "type": "label",
+        "content": "Defining relative clauses",
+        "confidence": 0.872,
+        "bbox": {
+          "x": 0.652,
+          "y": 0.503864,
+          "width": 0.146667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0046",
+        "type": "label",
+        "content": "Clothing styles",
+        "confidence": 0.8822,
+        "bbox": {
+          "x": 0.833333,
+          "y": 0.503864,
+          "width": 0.09,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0047",
+        "type": "label",
+        "content": "AFashiontrends",
+        "confidence": 0.8833,
+        "bbox": {
+          "x": 0.100667,
+          "y": 0.50541,
+          "width": 0.096667,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0049",
+        "type": "label",
+        "content": "askfora specificproduct",
+        "confidence": 0.8969,
+        "bbox": {
+          "x": 0.354,
+          "y": 0.528594,
+          "width": 0.148667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "askfora specificproduct",
+            "confidence": 0.8969
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "©” ask for a specific product",
+            "confidence": 0.8283
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0052",
+        "type": "heading",
+        "content": "Unit 4",
+        "confidence": 0.6667,
+        "bbox": {
+          "x": 0.101333,
+          "y": 0.58475,
+          "width": 0.052667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0053",
+        "type": "label",
+        "content": "Pages 33-42",
+        "confidence": 0.838,
+        "bbox": {
+          "x": 0.230667,
+          "y": 0.58475,
+          "width": 0.079333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0054",
+        "type": "label",
+        "content": "Students can...",
+        "confidence": 0.8861,
+        "bbox": {
+          "x": 0.336667,
+          "y": 0.605358,
+          "width": 0.090667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0055",
+        "type": "label",
+        "content": "Experiences",
+        "confidence": 0.9091,
+        "bbox": {
+          "x": 0.834667,
+          "y": 0.605358,
+          "width": 0.074667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0056",
+        "type": "sentence",
+        "content": "Interesting lives Students can... Present perfect Experiences",
+        "confidence": 0.9557,
+        "bbox": {
+          "x": 0.101961,
+          "y": 0.606364,
+          "width": 0.805098,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Present perfect",
+            "confidence": 0.8396
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Interesting lives Students can... Present perfect Experiences",
+            "confidence": 0.9557
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Interesting lives",
+            "confidence": 0.89
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0057",
+        "type": "label",
+        "content": "Fun things to do",
+        "confidence": 0.8743,
+        "bbox": {
+          "x": 0.834,
+          "y": 0.617208,
+          "width": 0.097333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0060",
+        "type": "paragraph",
+        "content": "C Life experiences \"™ describe details of their experiences",
+        "confidence": 0.9111,
+        "bbox": {
+          "x": 0.101961,
+          "y": 0.642727,
+          "width": 0.462745,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "C Life experiences “™ describe details of their experiences",
+            "confidence": 0.9111
+          },
+          {
+            "engine": "rapidocr",
+            "content": "describedetails of theirexperiences",
+            "confidence": 0.8862
+          },
+          {
+            "engine": "rapidocr",
+            "content": "C Lifeexperiences",
+            "confidence": 0.8785
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0061",
+        "type": "label",
+        "content": "DWhata life!",
+        "confidence": 0.8658,
+        "bbox": {
+          "x": 0.1,
+          "y": 0.656878,
+          "width": 0.08,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "D What a life! © ask and talk about a memorable experience",
+            "confidence": 0.7483
+          },
+          {
+            "engine": "rapidocr",
+            "content": "DWhata life!",
+            "confidence": 0.8658
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0062",
+        "type": "label",
+        "content": "askandtalkaboutamemorableexperience",
+        "confidence": 0.925,
+        "bbox": {
+          "x": 0.355333,
+          "y": 0.656878,
+          "width": 0.256,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0063",
+        "type": "heading",
+        "content": "Unit 5",
+        "confidence": 0.7877,
+        "bbox": {
+          "x": 0.101333,
+          "y": 0.710974,
+          "width": 0.053333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "punitS Ba ee re",
+            "confidence": 0.2025
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Unit5",
+            "confidence": 0.7877
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0064",
+        "type": "label",
+        "content": "Pages 43-52",
+        "confidence": 0.7752,
+        "bbox": {
+          "x": 0.232,
+          "y": 0.712004,
+          "width": 0.079333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0065",
+        "type": "label",
+        "content": "Our world",
+        "confidence": 0.8662,
+        "bbox": {
+          "x": 0.1,
+          "y": 0.732612,
+          "width": 0.066,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0066",
+        "type": "sentence",
+        "content": "Our world Students can... Comparatives Human-made wonders",
+        "confidence": 0.9429,
+        "bbox": {
+          "x": 0.102353,
+          "y": 0.73303,
+          "width": 0.867843,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Comparatives",
+            "confidence": 0.9166
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Our world Students can... Comparatives Human-made wonders",
+            "confidence": 0.9429
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Human-madewonders",
+            "confidence": 0.914
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Students can..",
+            "confidence": 0.8931
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0067",
+        "type": "label",
+        "content": "Not as... as",
+        "confidence": 0.8802,
+        "bbox": {
+          "x": 0.652,
+          "y": 0.744977,
+          "width": 0.068,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0068",
+        "type": "sentence",
+        "content": "A Older, taller, and more famous \"¥) Compare human-made structures Not as... as Geographical features",
+        "confidence": 0.8971,
+        "bbox": {
+          "x": 0.101961,
+          "y": 0.745455,
+          "width": 0.863137,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Older, taller, and more famous “¥) Compare human-made structures Not as...as Geographical features",
+            "confidence": 0.8971
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Comparehuman-made structures",
+            "confidence": 0.8953
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Geographical features",
+            "confidence": 0.8943
+          },
+          {
+            "engine": "rapidocr",
+            "content": "AOlder,taller,andmorefamous",
+            "confidence": 0.9148
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0069",
+        "type": "label",
+        "content": "express disbelief",
+        "confidence": 0.9012,
+        "bbox": {
+          "x": 0.355333,
+          "y": 0.757342,
+          "width": 0.1,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "express disbelief",
+            "confidence": 0.9012
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B / don’t believe it! ©) express disbelief Superlatives",
+            "confidence": 0.7056
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0070",
+        "type": "label",
+        "content": "Superlatives",
+        "confidence": 0.9077,
+        "bbox": {
+          "x": 0.652667,
+          "y": 0.758372,
+          "width": 0.078,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0071",
+        "type": "label",
+        "content": "B/ don't believe it!",
+        "confidence": 0.8676,
+        "bbox": {
+          "x": 0.101333,
+          "y": 0.758887,
+          "width": 0.109333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0075",
+        "type": "heading",
+        "content": "Unit 6",
+        "confidence": 0.8282,
+        "bbox": {
+          "x": 0.102667,
+          "y": 0.826378,
+          "width": 0.052,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0076",
+        "type": "label",
+        "content": "Pages 53-62",
+        "confidence": 0.8472,
+        "bbox": {
+          "x": 0.232667,
+          "y": 0.826893,
+          "width": 0.079333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0077",
+        "type": "label",
+        "content": "Commitments",
+        "confidence": 0.867,
+        "bbox": {
+          "x": 0.836667,
+          "y": 0.846986,
+          "width": 0.087333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0078",
+        "type": "label",
+        "content": "Students can..",
+        "confidence": 0.8978,
+        "bbox": {
+          "x": 0.338,
+          "y": 0.847501,
+          "width": 0.088,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0079",
+        "type": "sentence",
+        "content": "Organizing your time Students can... Present tenses used for Commitments",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.102745,
+          "y": 0.848182,
+          "width": 0.819216,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Presenttenses used for",
+            "confidence": 0.9179
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Organizing your time Students can... Present tenses used for Commitments",
+            "confidence": 0.95
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Organizing your time",
+            "confidence": 0.8137
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0080",
+        "type": "label",
+        "content": "Favors",
+        "confidence": 0.8199,
+        "bbox": {
+          "x": 0.834667,
+          "y": 0.85832,
+          "width": 0.045333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0081",
+        "type": "label",
+        "content": "future",
+        "confidence": 0.8262,
+        "bbox": {
+          "x": 0.666,
+          "y": 0.859866,
+          "width": 0.041333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0083",
+        "type": "label",
+        "content": "offerto take a message",
+        "confidence": 0.8561,
+        "bbox": {
+          "x": 0.355333,
+          "y": 0.871716,
+          "width": 0.138,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "offerto take a message",
+            "confidence": 0.8561
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Can! take a message? ©) offer to take a message Requests",
+            "confidence": 0.7883
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0084",
+        "type": "sentence",
+        "content": "B Can / take a message?",
+        "confidence": 0.9072,
+        "bbox": {
+          "x": 0.100667,
+          "y": 0.872231,
+          "width": 0.142,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0085",
+        "type": "label",
+        "content": "Requests",
+        "confidence": 0.8579,
+        "bbox": {
+          "x": 0.654,
+          "y": 0.872231,
+          "width": 0.058667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0086",
+        "type": "label",
+        "content": "leavea message",
+        "confidence": 0.8301,
+        "bbox": {
+          "x": 0.354667,
+          "y": 0.885111,
+          "width": 0.099333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0087",
+        "type": "paragraph",
+        "content": "™~ leave a message Promises and offers with",
+        "confidence": 0.8562,
+        "bbox": {
+          "x": 0.325882,
+          "y": 0.885152,
+          "width": 0.475294,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Promises and offers with",
+            "confidence": 0.9284
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "“™~ leave a message Promises and offers with",
+            "confidence": 0.8562
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0088",
+        "type": "label",
+        "content": "will",
+        "confidence": 0.7809,
+        "bbox": {
+          "x": 0.666,
+          "y": 0.89696,
+          "width": 0.026667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0090",
+        "type": "paragraph",
+        "content": "D Perspectives on time \" discuss ways to manage time e ectively",
+        "confidence": 0.8767,
+        "bbox": {
+          "x": 0.103529,
+          "y": 0.910303,
+          "width": 0.485882,
+          "height": 0.017879
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "C Can you domeafavor?",
+            "confidence": 0.8315
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "C Can you do mea favor? BH ai A 5",
+            "confidence": 0.667
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "D Perspectives on time “ discuss ways to manage time e ectively",
+            "confidence": 0.8767
+          },
+          {
+            "engine": "rapidocr",
+            "content": "discuss ways tomanage time effectively",
+            "confidence": 0.881
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "} ff",
+            "confidence": 0.545
+          },
+          {
+            "engine": "rapidocr",
+            "content": "DPerspectives ontime",
+            "confidence": 0.8469
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0091",
+        "type": "label",
+        "content": "iv",
+        "confidence": 0.6617,
+        "bbox": {
+          "x": 0.058667,
+          "y": 0.956723,
+          "width": 0.019333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0092",
+        "type": "heading",
+        "content": "Scope and sequence",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.120784,
+          "y": 0.968182,
+          "width": 0.125098,
+          "height": 0.010909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Scope and sequence",
+            "confidence": 0.876
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Scope and sequence",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Scope and sequence",
+      "Vocabulary",
+      "LEVEL 3 Learning outcomes Vocabulary",
+      "Page 2",
+      "Classroom language",
+      "Unit 1",
+      "Pages 3-12",
+      "School subjects",
+      "Students can...",
+      "Education",
+      "Education Students can... Simple present vs. School subjects",
+      "present continuous",
+      "Feelings and emotions",
+      "Zero conditional",
+      "expressprohibitionandobligation",
+      "B You're not allowed to..",
+      "askandtalkaboutfeelingsandreactions",
+      "C My behavior",
+      "D Education controversy",
+      "discuss advantages and disadvantages",
+      "Unit 2",
+      "Pages 13-22",
+      "Sentence adverbs",
+      "Students can...",
+      "Personal stories",
+      "Personal stories Students can... Past continuous vs. Sentence adverbs",
+      "simplepast",
+      "Verbstodescribe",
+      "A What were you doing? (Y) describe what was happening in the past simple past Verbs to describe",
+      "Participialadjectives",
+      "B Guess what!",
+      "reactions",
+      "announcenews",
+      "closea conversation",
+      "tell personal stories",
+      "C/was reallyfrightened!",
+      "D How embarrassing! \"™Y) describe embarrassing moments",
+      "Unit 3",
+      "Pages 23-32",
+      "Used to",
+      "Students can..",
+      "Style and fashion Students can... Used to Fashion statements",
+      "ask about and describe pastfashions",
+      "Defining relative clauses",
+      "Clothing styles",
+      "AFashiontrends",
+      "askfora specificproduct",
+      "Unit 4",
+      "Pages 33-42",
+      "Students can...",
+      "Experiences",
+      "Interesting lives Students can... Present perfect Experiences",
+      "Fun things to do",
+      "C Life experiences \"™ describe details of their experiences",
+      "DWhata life!",
+      "askandtalkaboutamemorableexperience",
+      "Unit 5",
+      "Pages 43-52",
+      "Our world",
+      "Our world Students can... Comparatives Human-made wonders",
+      "Not as... as",
+      "A Older, taller, and more famous \"¥) Compare human-made structures Not as... as Geographical features",
+      "express disbelief",
+      "Superlatives",
+      "B/ don't believe it!",
+      "Unit 6",
+      "Pages 53-62",
+      "Commitments",
+      "Students can..",
+      "Organizing your time Students can... Present tenses used for Commitments",
+      "Favors",
+      "future",
+      "offerto take a message",
+      "B Can / take a message?",
+      "Requests",
+      "leavea message",
+      "™~ leave a message Promises and offers with",
+      "will",
+      "D Perspectives on time \" discuss ways to manage time e ectively",
+      "iv",
+      "Scope and sequence"
+    ],
+    "paragraphs": [
+      "C Life experiences \"™ describe details of their experiences",
+      "™~ leave a message Promises and offers with",
+      "D Perspectives on time \" discuss ways to manage time e ectively"
+    ],
+    "sentences": [
+      "Scope and sequence Vocabulary LEVEL 3 Learning outcomes Vocabulary Page 2 Classroom language Unit 1 Pages 3-12 School subjects Students can",
+      "Education Education Students can",
+      "Simple present vs",
+      "School subjects present continuous Feelings and emotions Zero conditional expressprohibitionandobligation B You're not allowed to",
+      "askandtalkaboutfeelingsandreactions C My behavior D Education controversy discuss advantages and disadvantages Unit 2 Pages 13-22 Sentence adverbs Students can",
+      "Personal stories Personal stories Students can",
+      "Past continuous vs",
+      "Sentence adverbs simplepast Verbstodescribe A What were you doing",
+      "(Y) describe what was happening in the past simple past Verbs to describe Participialadjectives B Guess what",
+      "reactions announcenews closea conversation tell personal stories C/was reallyfrightened",
+      "D How embarrassing",
+      "\"™Y) describe embarrassing moments Unit 3 Pages 23-32 Used to Students can",
+      "Style and fashion Students can",
+      "Used to Fashion statements ask about and describe pastfashions Defining relative clauses Clothing styles AFashiontrends askfora specificproduct Unit 4 Pages 33-42 Students can",
+      "Experiences Interesting lives Students can",
+      "Present perfect Experiences Fun things to do C Life experiences \"™ describe details of their experiences DWhata life",
+      "askandtalkaboutamemorableexperience Unit 5 Pages 43-52 Our world Our world Students can",
+      "Comparatives Human-made wonders Not as",
+      "as A Older, taller, and more famous \"¥) Compare human-made structures Not as",
+      "as Geographical features express disbelief Superlatives B/ don't believe it",
+      "Unit 6 Pages 53-62 Commitments Students can",
+      "Organizing your time Students can",
+      "Present tenses used for Commitments Favors future offerto take a message B Can / take a message",
+      "Requests leavea message ™~ leave a message Promises and offers with will D Perspectives on time \" discuss ways to manage time e ectively iv Scope and sequence"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "exercise",
+        "instruction": "What were you doing? (Y) describe what was happening in the past simple past Verbs to describe",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "D",
+        "type": "singing",
+        "instruction": "How embarrassing! \"™Y) describe embarrassing moments",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "C",
+        "type": "exercise",
+        "instruction": "Life experiences \"™ describe details of their experiences",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "exercise",
+        "instruction": "Older, taller, and more famous \"¥) Compare human-made structures Not as... as Geographical features",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [
+      {
+        "title": "Scope and sequence",
+        "headers": [],
+        "rows": [
+          [
+            "Vocabulary"
+          ],
+          [
+            "LEVEL 3 Learning outcomes Vocabulary"
+          ],
+          [
+            "Page 2"
+          ],
+          [
+            "Classroom language"
+          ],
+          [
+            "Unit 1"
+          ],
+          [
+            "Pages 3-12"
+          ],
+          [
+            "School subjects"
+          ],
+          [
+            "Students can..."
+          ],
+          [
+            "Education"
+          ],
+          [
+            "Education Students can... Simple present vs. School subjects"
+          ],
+          [
+            "present continuous"
+          ],
+          [
+            "Feelings and emotions"
+          ],
+          [
+            "Al'm taking six classes ©™) ask and talk about routines present continuous Feelings and emotions"
+          ],
+          [
+            "Zero conditional"
+          ],
+          [
+            "expressprohibitionandobligation"
+          ],
+          [
+            "B You're not allowed to.."
+          ],
+          [
+            "askandtalkaboutfeelingsandreactions"
+          ],
+          [
+            "C My behavior"
+          ],
+          [
+            "D Education controversy"
+          ],
+          [
+            "discuss advantages and disadvantages"
+          ],
+          [
+            "Unit 2"
+          ],
+          [
+            "Pages 13-22"
+          ],
+          [
+            "Sentence adverbs"
+          ],
+          [
+            "Students can..."
+          ],
+          [
+            "Personal stories"
+          ],
+          [
+            "Personal stories Students can... Past continuous vs. Sentence adverbs"
+          ],
+          [
+            "simplepast"
+          ],
+          [
+            "Verbstodescribe"
+          ],
+          [
+            "A What were you doing? (Y) describe what was happening in the past simple past Verbs to describe"
+          ],
+          [
+            "Participialadjectives"
+          ],
+          [
+            "B Guess what!"
+          ],
+          [
+            "reactions"
+          ],
+          [
+            "announcenews"
+          ],
+          [
+            "closea conversation"
+          ],
+          [
+            "tell personal stories"
+          ],
+          [
+            "C/was reallyfrightened!"
+          ],
+          [
+            "D How embarrassing! \"™Y) describe embarrassing moments"
+          ],
+          [
+            "Unit 3"
+          ],
+          [
+            "Pages 23-32"
+          ],
+          [
+            "Used to"
+          ],
+          [
+            "Students can.."
+          ],
+          [
+            "Style and fashion Students can... Used to Fashion statements"
+          ],
+          [
+            "ask about and describe pastfashions"
+          ],
+          [
+            "Defining relative clauses"
+          ],
+          [
+            "Clothing styles"
+          ],
+          [
+            "AFashiontrends"
+          ],
+          [
+            "B Does this come in...? ©™. ask where something is in a store"
+          ],
+          [
+            "askfora specificproduct"
+          ],
+          [
+            "C The latest look ©\"! express opinions about style and fashion"
+          ],
+          [
+            "D Views on fashion ©\") ask and talk about current fashions"
+          ],
+          [
+            "Unit 4"
+          ],
+          [
+            "Pages 33-42"
+          ],
+          [
+            "Students can..."
+          ],
+          [
+            "Experiences"
+          ],
+          [
+            "Interesting lives Students can... Present perfect Experiences"
+          ],
+          [
+            "Fun things to do"
+          ],
+          [
+            "A Have you ever been on TV? ©™) ask and talk about life experiences Present perfect vs. Fun things to do"
+          ],
+          [
+            "B What! meanis... ©™ check and clarify meaning simple past"
+          ],
+          [
+            "C Life experiences \"™ describe details of their experiences"
+          ],
+          [
+            "DWhata life!"
+          ],
+          [
+            "askandtalkaboutamemorableexperience"
+          ],
+          [
+            "Unit 5"
+          ],
+          [
+            "Pages 43-52"
+          ],
+          [
+            "Our world"
+          ],
+          [
+            "Our world Students can... Comparatives Human-made wonders"
+          ],
+          [
+            "Not as... as"
+          ],
+          [
+            "A Older, taller, and more famous \"¥) Compare human-made structures Not as... as Geographical features"
+          ],
+          [
+            "express disbelief"
+          ],
+          [
+            "Superlatives"
+          ],
+          [
+            "B/ don't believe it!"
+          ],
+          [
+            "©™) say that they don't know something"
+          ],
+          [
+            "C World geography ©™) ask and talk about geographical features"
+          ],
+          [
+            "D Natural wonders ©™! describe natural wonders in their country"
+          ],
+          [
+            "Unit 6"
+          ],
+          [
+            "Pages 53-62"
+          ],
+          [
+            "Commitments"
+          ],
+          [
+            "Students can.."
+          ],
+          [
+            "Organizing your time Students can... Present tenses used for Commitments"
+          ],
+          [
+            "Favors"
+          ],
+          [
+            "future"
+          ],
+          [
+            "AA busy week ©! ask and talk about weekend plans future Favors"
+          ],
+          [
+            "offerto take a message"
+          ],
+          [
+            "B Can / take a message?"
+          ],
+          [
+            "Requests"
+          ],
+          [
+            "leavea message"
+          ],
+          [
+            "™~ leave a message Promises and offers with"
+          ],
+          [
+            "will"
+          ],
+          [
+            "© make requests, promises, and offers will"
+          ]
+        ],
+        "tableStructureConfidence": 0.5
+      }
+    ],
+    "songsOrPoems": [],
+    "images": [],
+    "excludedGarbage": [
+      "Al’m taking six classes ©™) ask and talk about routines present continuous Feelings and emotions",
+      "B Does this come in...? ©™. ask where something is in a store",
+      "C The latest look ©”! express opinions about style and fashion",
+      "D Views on fashion ©”) ask and talk about current fashions",
+      "A Have you ever been on TV? ©™) ask and talk about life experiences Present perfect vs. Fun things to do",
+      "B What! meanis... ©™ check and clarify meaning simple past",
+      "©™) say that they don’t know something",
+      "C World geography ©™) ask and talk about geographical features",
+      "D Natural wonders ©™! describe natural wonders in their country",
+      "AA busy week ©! ask and talk about weekend plans future Favors",
+      "© make requests, promises, and offers will"
+    ]
+  },
+  "learningContent": {
+    "pageType": "scope_and_sequence",
+    "title": "Scope and sequence",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "exercise",
+        "instruction": "What were you doing? (Y) describe what was happening in the past simple past Verbs to describe",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "D",
+        "type": "singing",
+        "instruction": "How embarrassing! \"™Y) describe embarrassing moments",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "C",
+        "type": "exercise",
+        "instruction": "Life experiences \"™ describe details of their experiences",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "exercise",
+        "instruction": "Older, taller, and more famous \"¥) Compare human-made structures Not as... as Geographical features",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": [
+      {
+        "title": "Scope and sequence",
+        "headers": [],
+        "rows": [
+          [
+            "Vocabulary"
+          ],
+          [
+            "LEVEL 3 Learning outcomes Vocabulary"
+          ],
+          [
+            "Page 2"
+          ],
+          [
+            "Classroom language"
+          ],
+          [
+            "Unit 1"
+          ],
+          [
+            "Pages 3-12"
+          ],
+          [
+            "School subjects"
+          ],
+          [
+            "Students can..."
+          ],
+          [
+            "Education"
+          ],
+          [
+            "Education Students can... Simple present vs. School subjects"
+          ],
+          [
+            "present continuous"
+          ],
+          [
+            "Feelings and emotions"
+          ],
+          [
+            "Al'm taking six classes ©™) ask and talk about routines present continuous Feelings and emotions"
+          ],
+          [
+            "Zero conditional"
+          ],
+          [
+            "expressprohibitionandobligation"
+          ],
+          [
+            "B You're not allowed to.."
+          ],
+          [
+            "askandtalkaboutfeelingsandreactions"
+          ],
+          [
+            "C My behavior"
+          ],
+          [
+            "D Education controversy"
+          ],
+          [
+            "discuss advantages and disadvantages"
+          ],
+          [
+            "Unit 2"
+          ],
+          [
+            "Pages 13-22"
+          ],
+          [
+            "Sentence adverbs"
+          ],
+          [
+            "Students can..."
+          ],
+          [
+            "Personal stories"
+          ],
+          [
+            "Personal stories Students can... Past continuous vs. Sentence adverbs"
+          ],
+          [
+            "simplepast"
+          ],
+          [
+            "Verbstodescribe"
+          ],
+          [
+            "A What were you doing? (Y) describe what was happening in the past simple past Verbs to describe"
+          ],
+          [
+            "Participialadjectives"
+          ],
+          [
+            "B Guess what!"
+          ],
+          [
+            "reactions"
+          ],
+          [
+            "announcenews"
+          ],
+          [
+            "closea conversation"
+          ],
+          [
+            "tell personal stories"
+          ],
+          [
+            "C/was reallyfrightened!"
+          ],
+          [
+            "D How embarrassing! \"™Y) describe embarrassing moments"
+          ],
+          [
+            "Unit 3"
+          ],
+          [
+            "Pages 23-32"
+          ],
+          [
+            "Used to"
+          ],
+          [
+            "Students can.."
+          ],
+          [
+            "Style and fashion Students can... Used to Fashion statements"
+          ],
+          [
+            "ask about and describe pastfashions"
+          ],
+          [
+            "Defining relative clauses"
+          ],
+          [
+            "Clothing styles"
+          ],
+          [
+            "AFashiontrends"
+          ],
+          [
+            "B Does this come in...? ©™. ask where something is in a store"
+          ],
+          [
+            "askfora specificproduct"
+          ],
+          [
+            "C The latest look ©\"! express opinions about style and fashion"
+          ],
+          [
+            "D Views on fashion ©\") ask and talk about current fashions"
+          ],
+          [
+            "Unit 4"
+          ],
+          [
+            "Pages 33-42"
+          ],
+          [
+            "Students can..."
+          ],
+          [
+            "Experiences"
+          ],
+          [
+            "Interesting lives Students can... Present perfect Experiences"
+          ],
+          [
+            "Fun things to do"
+          ],
+          [
+            "A Have you ever been on TV? ©™) ask and talk about life experiences Present perfect vs. Fun things to do"
+          ],
+          [
+            "B What! meanis... ©™ check and clarify meaning simple past"
+          ],
+          [
+            "C Life experiences \"™ describe details of their experiences"
+          ],
+          [
+            "DWhata life!"
+          ],
+          [
+            "askandtalkaboutamemorableexperience"
+          ],
+          [
+            "Unit 5"
+          ],
+          [
+            "Pages 43-52"
+          ],
+          [
+            "Our world"
+          ],
+          [
+            "Our world Students can... Comparatives Human-made wonders"
+          ],
+          [
+            "Not as... as"
+          ],
+          [
+            "A Older, taller, and more famous \"¥) Compare human-made structures Not as... as Geographical features"
+          ],
+          [
+            "express disbelief"
+          ],
+          [
+            "Superlatives"
+          ],
+          [
+            "B/ don't believe it!"
+          ],
+          [
+            "©™) say that they don't know something"
+          ],
+          [
+            "C World geography ©™) ask and talk about geographical features"
+          ],
+          [
+            "D Natural wonders ©™! describe natural wonders in their country"
+          ],
+          [
+            "Unit 6"
+          ],
+          [
+            "Pages 53-62"
+          ],
+          [
+            "Commitments"
+          ],
+          [
+            "Students can.."
+          ],
+          [
+            "Organizing your time Students can... Present tenses used for Commitments"
+          ],
+          [
+            "Favors"
+          ],
+          [
+            "future"
+          ],
+          [
+            "AA busy week ©! ask and talk about weekend plans future Favors"
+          ],
+          [
+            "offerto take a message"
+          ],
+          [
+            "B Can / take a message?"
+          ],
+          [
+            "Requests"
+          ],
+          [
+            "leavea message"
+          ],
+          [
+            "™~ leave a message Promises and offers with"
+          ],
+          [
+            "will"
+          ],
+          [
+            "© make requests, promises, and offers will"
+          ]
+        ],
+        "tableStructureConfidence": 0.5
+      }
+    ]
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "Printed book page number was not confidently detected; pageNumber uses the PDF-page fallback and pageNumberDetected is false.",
+      "11 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content.",
+      "11 garbage string(s) excluded"
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "garbageExcluded": 20
+    },
+    "averageOcrConfidence": 0.8749,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 3 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc3_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

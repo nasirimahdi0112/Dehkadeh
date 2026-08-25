@@ -1,0 +1,699 @@
+{
+  "pageNumber": 134,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 141,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 2_Part7.pdf",
+    "pdfLocalPageNumber": 2,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Lesson C",
+        "confidence": 0.8238,
+        "bbox": {
+          "x": 0.200667,
+          "y": 0.026275,
+          "width": 0.178667,
+          "height": 0.023699
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Lesson C",
+            "confidence": 0.8238
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "unit PAE Lesson C",
+            "confidence": 0.7375
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.6627,
+        "bbox": {
+          "x": 0.058667,
+          "y": 0.03864,
+          "width": 0.038,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Cleanup time",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.12,
+          "y": 0.104545,
+          "width": 0.167843,
+          "height": 0.02
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Cleanuptime",
+            "confidence": 0.871
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Cleanup time",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "sentence",
+        "content": "You need to do some chores around the apartment. Decide who does each chore.",
+        "confidence": 0.9543,
+        "bbox": {
+          "x": 0.202353,
+          "y": 0.139697,
+          "width": 0.558824,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAIR woRK You need to do some chores around the apartment. Decide who does each chore.",
+            "confidence": 0.9324
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "You need to do some chores around the apartment. Decide who does each chore.",
+            "confidence": 0.9543
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "Be fair!",
+        "confidence": 0.935,
+        "bbox": {
+          "x": 0.12,
+          "y": 0.156667,
+          "width": 0.046667,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Befair!",
+            "confidence": 0.8649
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Be fair!",
+            "confidence": 0.935
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "roar a",
+        "confidence": 0.18,
+        "bbox": {
+          "x": 0.341569,
+          "y": 0.318788,
+          "width": 0.02549,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0007",
+        "type": "dialogue_line",
+        "content": "A: Could you take out the garbage?",
+        "confidence": 0.9529,
+        "bbox": {
+          "x": 0.121176,
+          "y": 0.773939,
+          "width": 0.265882,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A:Couldyoutakeoutthegarbage?",
+            "confidence": 0.9536
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: Could you take out the garbage?",
+            "confidence": 0.9529
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "dialogue_line",
+        "content": "B: Sure. | can take it out. Would you clean out the closet?",
+        "confidence": 0.9492,
+        "bbox": {
+          "x": 0.121961,
+          "y": 0.796364,
+          "width": 0.431765,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B: Sure.I can take it out. Would you clean out the closet?",
+            "confidence": 0.8963
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: Sure. | can take it out. Would you clean out the closet?",
+            "confidence": 0.9492
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "134",
+        "confidence": 0.7482,
+        "bbox": {
+          "x": 0.048,
+          "y": 0.941267,
+          "width": 0.028,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "134",
+            "confidence": 0.7482
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "— Keep talking! |",
+            "confidence": 0.665
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "Keeptalking!",
+        "confidence": 0.8499,
+        "bbox": {
+          "x": 0.111333,
+          "y": 0.949511,
+          "width": 0.086667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "A: Could you take out the garbage?",
+            "confidence": 0.9529,
+            "bbox": {
+              "x": 0.121176,
+              "y": 0.773939,
+              "width": 0.265882,
+              "height": 0.013636
+            },
+            "sourceElementId": "text_0007",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "B: Sure. | can take it out. Would you clean out the closet?",
+            "confidence": 0.9492,
+            "bbox": {
+              "x": 0.121961,
+              "y": 0.796364,
+              "width": 0.431765,
+              "height": 0.013333
+            },
+            "sourceElementId": "text_0008",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [],
+    "ocrTables": [],
+    "ocrImages": [],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "Lesson C\nunit\nCleanuptime\nPAIR woRK You need to do some chores around the apartment. Decide who does each chore.\nBefair!\nA:Couldyoutakeoutthegarbage?\nB: Sure.I can take it out. Would you clean out the closet?\n134\nKeeptalking!\ndehkhodaedu.com",
+      "tesseract_psm3": "unit PAE Lesson C\n\nCleanup time\n\nYou need to do some chores around the apartment. Decide who does each chore.\nBe fair!\n\nroar a\n\nA: Could you take out the garbage?\nB: Sure. | can take it out. Would you clean out the closet?\n\n— Keep talking! |\n\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8067,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "3 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "page",
+    "headings": [
+      "Lesson C",
+      "unit",
+      "Cleanup time"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Lesson C",
+        "confidence": 0.8238,
+        "bbox": {
+          "x": 0.200667,
+          "y": 0.026275,
+          "width": 0.178667,
+          "height": 0.023699
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Lesson C",
+            "confidence": 0.8238
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "unit PAE Lesson C",
+            "confidence": 0.7375
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.6627,
+        "bbox": {
+          "x": 0.058667,
+          "y": 0.03864,
+          "width": 0.038,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Cleanup time",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.12,
+          "y": 0.104545,
+          "width": 0.167843,
+          "height": 0.02
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Cleanuptime",
+            "confidence": 0.871
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Cleanup time",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "sentence",
+        "content": "You need to do some chores around the apartment. Decide who does each chore.",
+        "confidence": 0.9543,
+        "bbox": {
+          "x": 0.202353,
+          "y": 0.139697,
+          "width": 0.558824,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAIR woRK You need to do some chores around the apartment. Decide who does each chore.",
+            "confidence": 0.9324
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "You need to do some chores around the apartment. Decide who does each chore.",
+            "confidence": 0.9543
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "Be fair!",
+        "confidence": 0.935,
+        "bbox": {
+          "x": 0.12,
+          "y": 0.156667,
+          "width": 0.046667,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Befair!",
+            "confidence": 0.8649
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Be fair!",
+            "confidence": 0.935
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "roar a",
+        "confidence": 0.18,
+        "bbox": {
+          "x": 0.341569,
+          "y": 0.318788,
+          "width": 0.02549,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0007",
+        "type": "dialogue_line",
+        "content": "A: Could you take out the garbage?",
+        "confidence": 0.9529,
+        "bbox": {
+          "x": 0.121176,
+          "y": 0.773939,
+          "width": 0.265882,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A:Couldyoutakeoutthegarbage?",
+            "confidence": 0.9536
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: Could you take out the garbage?",
+            "confidence": 0.9529
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "dialogue_line",
+        "content": "B: Sure. | can take it out. Would you clean out the closet?",
+        "confidence": 0.9492,
+        "bbox": {
+          "x": 0.121961,
+          "y": 0.796364,
+          "width": 0.431765,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B: Sure.I can take it out. Would you clean out the closet?",
+            "confidence": 0.8963
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: Sure. | can take it out. Would you clean out the closet?",
+            "confidence": 0.9492
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "Keeptalking!",
+        "confidence": 0.8499,
+        "bbox": {
+          "x": 0.111333,
+          "y": 0.949511,
+          "width": 0.086667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Lesson C",
+      "unit",
+      "Cleanup time",
+      "You need to do some chores around the apartment. Decide who does each chore.",
+      "Be fair!",
+      "roar a",
+      "A: Could you take out the garbage?",
+      "B: Sure. | can take it out. Would you clean out the closet?",
+      "Keeptalking!"
+    ],
+    "paragraphs": [],
+    "sentences": [
+      "Lesson C unit Cleanup time You need to do some chores around the apartment",
+      "Decide who does each chore",
+      "Be fair",
+      "roar a A: Could you take out the garbage",
+      "B: Sure",
+      "| can take it out",
+      "Would you clean out the closet",
+      "Keeptalking"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "A: Could you take out the garbage?",
+            "confidence": 0.9529,
+            "bbox": {
+              "x": 0.121176,
+              "y": 0.773939,
+              "width": 0.265882,
+              "height": 0.013636
+            },
+            "sourceElementId": "text_0007"
+          },
+          {
+            "speaker": null,
+            "content": "B: Sure. | can take it out.",
+            "confidence": 0.9492,
+            "bbox": {
+              "x": 0.121961,
+              "y": 0.796364,
+              "width": 0.431765,
+              "height": 0.013333
+            },
+            "sourceElementId": "text_0008"
+          },
+          {
+            "speaker": null,
+            "content": "Would you clean out the closet?",
+            "confidence": 0.9492,
+            "bbox": {
+              "x": 0.121961,
+              "y": 0.796364,
+              "width": 0.431765,
+              "height": 0.013333
+            },
+            "sourceElementId": "text_0008"
+          }
+        ]
+      }
+    ],
+    "exercises": [],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [],
+    "excludedGarbage": [
+      "134"
+    ]
+  },
+  "learningContent": {
+    "pageType": "page",
+    "title": "Lesson C",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "A: Could you take out the garbage?",
+            "confidence": 0.9529
+          },
+          {
+            "speaker": null,
+            "content": "B: Sure. | can take it out.",
+            "confidence": 0.9492
+          },
+          {
+            "speaker": null,
+            "content": "Would you clean out the closet?",
+            "confidence": 0.9492
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "3 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content.",
+      "1 garbage string(s) excluded"
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "garbageExcluded": 1,
+      "dialoguesSplit": 2
+    },
+    "averageOcrConfidence": 0.8067,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 2 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc2_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

@@ -1,0 +1,2708 @@
+{
+  "pageNumber": 76,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 79,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 1_Part3.pdf",
+    "pdfLocalPageNumber": 26,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Around town",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.12549,
+          "y": 0.068485,
+          "width": 0.321961,
+          "height": 0.027576
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Around town",
+            "confidence": 0.8295
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Around town",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Vocabulary Places in the neighborhood",
+        "confidence": 0.956,
+        "bbox": {
+          "x": 0.091765,
+          "y": 0.146667,
+          "width": 0.537647,
+          "height": 0.021212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Vocabulary Places in the neighborhood",
+            "confidence": 0.9132
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Vocabulary Places in the neighborhood",
+            "confidence": 0.956
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "instruction",
+        "content": "Match the words and the places. Then listen and check (/) your answers.",
+        "confidence": 0.9097,
+        "bbox": {
+          "x": 0.109333,
+          "y": 0.178259,
+          "width": 0.53,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Match the words and the places. Then listen and check (/) your answers.",
+            "confidence": 0.9097
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Match the words and the places. Then listen and check () your answers.",
+            "confidence": 0.8929
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "bus stop",
+        "confidence": 0.8824,
+        "bbox": {
+          "x": 0.240667,
+          "y": 0.211747,
+          "width": 0.061333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "bank",
+        "confidence": 0.7041,
+        "bbox": {
+          "x": 0.123333,
+          "y": 0.212262,
+          "width": 0.036667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "gas station",
+        "confidence": 0.8743,
+        "bbox": {
+          "x": 0.364667,
+          "y": 0.212262,
+          "width": 0.076667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "library",
+        "confidence": 0.8421,
+        "bbox": {
+          "x": 0.499333,
+          "y": 0.212777,
+          "width": 0.049333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "paragraph",
+        "content": "bank bus stop gas station library subway station",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.125882,
+          "y": 0.213636,
+          "width": 0.600784,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "subway station",
+            "confidence": 0.8871
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "bank bus stop gas station library subway station",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "bookstore",
+        "confidence": 0.8633,
+        "bbox": {
+          "x": 0.123333,
+          "y": 0.23493,
+          "width": 0.072667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "bookstore",
+            "confidence": 0.8633
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "bookstore /d coffee shop hotel newsstand | supermarket",
+            "confidence": 0.61
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "hotel",
+        "confidence": 0.8166,
+        "bbox": {
+          "x": 0.364667,
+          "y": 0.235961,
+          "width": 0.039333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "coffee shop",
+        "confidence": 0.8517,
+        "bbox": {
+          "x": 0.240667,
+          "y": 0.236476,
+          "width": 0.084,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "newsstand",
+        "confidence": 0.8371,
+        "bbox": {
+          "x": 0.5,
+          "y": 0.236476,
+          "width": 0.076,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "supermarket",
+        "confidence": 0.8229,
+        "bbox": {
+          "x": 0.626667,
+          "y": 0.236476,
+          "width": 0.086667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "ABC",
+        "confidence": 0.6795,
+        "bbox": {
+          "x": 0.472667,
+          "y": 0.309119,
+          "width": 0.029333,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "First Avenue",
+        "confidence": 0.848,
+        "bbox": {
+          "x": 0.452,
+          "y": 0.344668,
+          "width": 0.121333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "Grand",
+        "confidence": 0.7674,
+        "bbox": {
+          "x": 0.600667,
+          "y": 0.404431,
+          "width": 0.029333,
+          "height": 0.046883
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Street",
+        "confidence": 0.8223,
+        "bbox": {
+          "x": 0.614667,
+          "y": 0.450799,
+          "width": 0.033333,
+          "height": 0.052035
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "nd Avenue",
+        "confidence": 0.8471,
+        "bbox": {
+          "x": 0.093333,
+          "y": 0.48171,
+          "width": 0.104,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "Main Street",
+        "confidence": 0.8379,
+        "bbox": {
+          "x": 0.190667,
+          "y": 0.493045,
+          "width": 0.047333,
+          "height": 0.087584
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "heading",
+        "content": "PAIRWORK",
+        "confidence": 0.8697,
+        "bbox": {
+          "x": 0.116,
+          "y": 0.602782,
+          "width": 0.075333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "sentence",
+        "content": "B Which places are in your school’s neighborhood?",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.095294,
+          "y": 0.604242,
+          "width": 0.439608,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Which places are in your school's neighborhood?",
+            "confidence": 0.9239
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Which places are in your school’s neighborhood?",
+            "confidence": 0.955
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "sentence",
+        "content": "\"We have a coffee shop, some restaurants, and a .",
+        "confidence": 0.9386,
+        "bbox": {
+          "x": 0.116667,
+          "y": 0.623905,
+          "width": 0.376,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"We have a coffee shop, some restaurants, and a .",
+            "confidence": 0.9386
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "“We have a coffee shop, some restaurants, anda...”",
+            "confidence": 0.9437
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "Language in context Ads",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.096471,
+          "y": 0.660909,
+          "width": 0.373333,
+          "height": 0.022121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Language in context Ads",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Languageincontext Ads",
+            "confidence": 0.8909
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "sentence",
+        "content": "A Read three advertisements for places in a neighborhood. What places do they describe?",
+        "confidence": 0.9579,
+        "bbox": {
+          "x": 0.094902,
+          "y": 0.696364,
+          "width": 0.64549,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A  Read three advertisements for places in a neighborhood. What places do they describe?",
+            "confidence": 0.9404
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Read three advertisements for places in a neighborhood. What places do they describe?",
+            "confidence": 0.9579
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "Mama's Place",
+        "confidence": 0.861,
+        "bbox": {
+          "x": 0.104667,
+          "y": 0.727975,
+          "width": 0.223333,
+          "height": 0.02576
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "Joe's",
+        "confidence": 0.8191,
+        "bbox": {
+          "x": 0.674,
+          "y": 0.736734,
+          "width": 0.073333,
+          "height": 0.05152
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "instruction",
+        "content": "Find us on the",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.727059,
+          "y": 0.822424,
+          "width": 0.107843,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Find us on the",
+            "confidence": 0.8581
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Find us on the",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "instruction",
+        "content": "Find everything you need at",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.421176,
+          "y": 0.827576,
+          "width": 0.157647,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Find everything you need at",
+            "confidence": 0.906
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Find everything you need at",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "corner of",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.746667,
+          "y": 0.836667,
+          "width": 0.068627,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "corner of",
+            "confidence": 0.832
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "corner of",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "Supermarket.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.465882,
+          "y": 0.840303,
+          "width": 0.103529,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "ABC Supermarket.",
+            "confidence": 0.8501
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Supermarket.",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "Come to Mama's Place",
+        "confidence": 0.8516,
+        "bbox": {
+          "x": 0.127333,
+          "y": 0.841319,
+          "width": 0.184,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "Main Street and",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.720784,
+          "y": 0.850606,
+          "width": 0.12,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Main Street and",
+            "confidence": 0.8781
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Main Street and",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "paragraph",
+        "content": "New location next to Town Bank",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.408627,
+          "y": 0.854242,
+          "width": 0.182353,
+          "height": 0.008182
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "NewlocationnexttoTown Bank",
+            "confidence": 0.8931
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "New location next to Town Bank",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "for real Itallan food.",
+        "confidence": 0.8664,
+        "bbox": {
+          "x": 0.137333,
+          "y": 0.858836,
+          "width": 0.162,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "First Ave.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.74,
+          "y": 0.865152,
+          "width": 0.07098,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "First Ave.",
+            "confidence": 0.8854
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "First Ave.",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "10%offbetween",
+        "confidence": 0.9023,
+        "bbox": {
+          "x": 0.229333,
+          "y": 0.875322,
+          "width": 0.096,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "We're always open!",
+        "confidence": 0.8653,
+        "bbox": {
+          "x": 0.412667,
+          "y": 0.877383,
+          "width": 0.172,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "Best coffee in town!",
+        "confidence": 0.8141,
+        "bbox": {
+          "x": 0.690667,
+          "y": 0.879444,
+          "width": 0.179333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "On Sacond Ayenun",
+        "confidence": 0.805,
+        "bbox": {
+          "x": 0.111333,
+          "y": 0.882535,
+          "width": 0.095333,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "5:30and 6:30 p.m.",
+        "confidence": 0.8842,
+        "bbox": {
+          "x": 0.222667,
+          "y": 0.886656,
+          "width": 0.106667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "sentence",
+        "content": "B What can you do at each place in Part A?",
+        "confidence": 0.8813,
+        "bbox": {
+          "x": 0.096,
+          "y": 0.919114,
+          "width": 0.298,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B What can you do at each place in Part A?",
+            "confidence": 0.8813
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B What can you do at each place in Part A?",
+            "confidence": 0.8927
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "label",
+        "content": "76",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.034118,
+          "y": 0.944848,
+          "width": 0.017647,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "76",
+            "confidence": 0.6656
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "76",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "Around town",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.12549,
+          "y": 0.068485,
+          "width": 0.321961,
+          "height": 0.027576
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.955
+      },
+      {
+        "word": "Vocabulary Places in the neighborhood",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.091765,
+          "y": 0.146667,
+          "width": 0.537647,
+          "height": 0.021212
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.956
+      },
+      {
+        "word": "bus stop",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.240667,
+          "y": 0.211747,
+          "width": 0.061333,
+          "height": 0.015456
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8824
+      },
+      {
+        "word": "bank",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.123333,
+          "y": 0.212262,
+          "width": 0.036667,
+          "height": 0.013395
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.7041
+      },
+      {
+        "word": "gas station",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.364667,
+          "y": 0.212262,
+          "width": 0.076667,
+          "height": 0.014941
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8743
+      },
+      {
+        "word": "library",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.499333,
+          "y": 0.212777,
+          "width": 0.049333,
+          "height": 0.014426
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8421
+      },
+      {
+        "word": "bookstore",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.123333,
+          "y": 0.23493,
+          "width": 0.072667,
+          "height": 0.01391
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8633
+      },
+      {
+        "word": "hotel",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.364667,
+          "y": 0.235961,
+          "width": 0.039333,
+          "height": 0.01288
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8166
+      },
+      {
+        "word": "coffee shop",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.240667,
+          "y": 0.236476,
+          "width": 0.084,
+          "height": 0.012365
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8517
+      },
+      {
+        "word": "newsstand",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.5,
+          "y": 0.236476,
+          "width": 0.076,
+          "height": 0.012365
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8371
+      },
+      {
+        "word": "supermarket",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.626667,
+          "y": 0.236476,
+          "width": 0.086667,
+          "height": 0.012365
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8229
+      },
+      {
+        "word": "ABC",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.472667,
+          "y": 0.309119,
+          "width": 0.029333,
+          "height": 0.010304
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.6795
+      },
+      {
+        "word": "First Avenue",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.452,
+          "y": 0.344668,
+          "width": 0.121333,
+          "height": 0.014941
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.848
+      },
+      {
+        "word": "Grand",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.600667,
+          "y": 0.404431,
+          "width": 0.029333,
+          "height": 0.046883
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.7674
+      },
+      {
+        "word": "Street",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.614667,
+          "y": 0.450799,
+          "width": 0.033333,
+          "height": 0.052035
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8223
+      },
+      {
+        "word": "nd Avenue",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.093333,
+          "y": 0.48171,
+          "width": 0.104,
+          "height": 0.01391
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8471
+      },
+      {
+        "word": "Main Street",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.190667,
+          "y": 0.493045,
+          "width": 0.047333,
+          "height": 0.087584
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8379
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "reading_activity",
+        "instruction": "Read three advertisements for places in a neighborhood. What places do they describe?",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0024"
+        ],
+        "confidence": 0.9579
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "bus stop",
+          "bank",
+          "gas station",
+          "library",
+          "bank bus stop gas station library subway station",
+          "bookstore",
+          "hotel",
+          "coffee shop",
+          "newsstand",
+          "supermarket",
+          "ABC",
+          "First Avenue"
+        ],
+        "position": {
+          "x": 0.103333,
+          "y": 0.191747,
+          "width": 0.643333,
+          "height": 0.18786199999999997
+        },
+        "textElementIds": [
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Grand",
+          "Street",
+          "nd Avenue",
+          "Main Street"
+        ],
+        "position": {
+          "x": 0.073333,
+          "y": 0.38443099999999997,
+          "width": 0.594667,
+          "height": 0.2161980000000001
+        },
+        "textElementIds": [
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "PAIRWORK",
+          "B Which places are in your school’s neighborhood?",
+          "\"We have a coffee shop, some restaurants, and a .",
+          "Language in context Ads",
+          "A Read three advertisements for places in a neighborhood. What places do they describe?",
+          "Mama's Place",
+          "Joe's"
+        ],
+        "position": {
+          "x": 0.074902,
+          "y": 0.582782,
+          "width": 0.692431,
+          "height": 0.225472
+        },
+        "textElementIds": [
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Find us on the",
+          "Find everything you need at",
+          "corner of",
+          "Supermarket.",
+          "Come to Mama's Place",
+          "Main Street and",
+          "New location next to Town Bank",
+          "for real Itallan food.",
+          "First Ave.",
+          "10%offbetween",
+          "We're always open!",
+          "Best coffee in town!"
+        ],
+        "position": {
+          "x": 0.107333,
+          "y": 0.802424,
+          "width": 0.782667,
+          "height": 0.11196099999999998
+        },
+        "textElementIds": [
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "Around town\nVocabulary Places in the neighborhood\nMatch the words and the places. Then listen and check (/) your answers.\nbus stop\nbank\ngas station\nsubway station\nlibrary\nbookstore\nhotel\ncoffee shop\nnewsstand\nsupermarket\nABC\nFirst Avenue\nGrand\nStreet\nnd Avenue\nMain Street\nPAIRWORK\nWhich places are in your school's neighborhood?\n\"We have a coffee shop, some restaurants, and a .\nLanguageincontext Ads\nA  Read three advertisements for places in a neighborhood. What places do they describe?\nMama's Place\nJoe's\nFind us on the\nFind everything you need at\ncorner of\nABC Supermarket.\nCome to Mama's Place\nMain Street and\nNewlocationnexttoTown Bank\nfor real Itallan food.\nFirst Ave.\n10%offbetween\nWe're always open!\nBest coffee in town!\nOn Sacond Ayenun\n5:30and 6:30 p.m.\nB What can you do at each place in Part A?\n76\ndehkhodaedu.com",
+      "tesseract_psm3": "Around town\n\nVocabulary Places in the neighborhood\n\nA Match the words and the places. Then listen and check () your answers.\n\nbank bus stop gas station library subway station\n\nbookstore /d coffee shop hotel newsstand | supermarket\n\nB Which places are in your school’s neighborhood?\n“We have a coffee shop, some restaurants, anda...”\n\nLanguage in context Ads\n\nA Read three advertisements for places in a neighborhood. What places do they describe?\n\nFind us on the\ncorner of\nMain Street and\n\nFirst Ave.\n\nFind everything you need at\n\nSupermarket.\nNew location next to Town Bank\n\nB What can you do at each place in Part A?\n\n76\ndehkhodaedu.com\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8809,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "3 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "lesson",
+    "headings": [
+      "Around town",
+      "Vocabulary Places in the neighborhood",
+      "Pair work"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Around town",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.12549,
+          "y": 0.068485,
+          "width": 0.321961,
+          "height": 0.027576
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Around town",
+            "confidence": 0.8295
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Around town",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Vocabulary Places in the neighborhood",
+        "confidence": 0.956,
+        "bbox": {
+          "x": 0.091765,
+          "y": 0.146667,
+          "width": 0.537647,
+          "height": 0.021212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Vocabulary Places in the neighborhood",
+            "confidence": 0.9132
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Vocabulary Places in the neighborhood",
+            "confidence": 0.956
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "instruction",
+        "content": "Match the words and the places. Then listen and check (/) your answers.",
+        "confidence": 0.9097,
+        "bbox": {
+          "x": 0.109333,
+          "y": 0.178259,
+          "width": 0.53,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Match the words and the places. Then listen and check (/) your answers.",
+            "confidence": 0.9097
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Match the words and the places. Then listen and check () your answers.",
+            "confidence": 0.8929
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "bus stop",
+        "confidence": 0.8824,
+        "bbox": {
+          "x": 0.240667,
+          "y": 0.211747,
+          "width": 0.061333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "bank",
+        "confidence": 0.7041,
+        "bbox": {
+          "x": 0.123333,
+          "y": 0.212262,
+          "width": 0.036667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "gas station",
+        "confidence": 0.8743,
+        "bbox": {
+          "x": 0.364667,
+          "y": 0.212262,
+          "width": 0.076667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "library",
+        "confidence": 0.8421,
+        "bbox": {
+          "x": 0.499333,
+          "y": 0.212777,
+          "width": 0.049333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "paragraph",
+        "content": "bank bus stop gas station library subway station",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.125882,
+          "y": 0.213636,
+          "width": 0.600784,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "subway station",
+            "confidence": 0.8871
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "bank bus stop gas station library subway station",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "bookstore",
+        "confidence": 0.8633,
+        "bbox": {
+          "x": 0.123333,
+          "y": 0.23493,
+          "width": 0.072667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "bookstore",
+            "confidence": 0.8633
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "bookstore /d coffee shop hotel newsstand | supermarket",
+            "confidence": 0.61
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "hotel",
+        "confidence": 0.8166,
+        "bbox": {
+          "x": 0.364667,
+          "y": 0.235961,
+          "width": 0.039333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "coffee shop",
+        "confidence": 0.8517,
+        "bbox": {
+          "x": 0.240667,
+          "y": 0.236476,
+          "width": 0.084,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "supermarket",
+        "confidence": 0.8229,
+        "bbox": {
+          "x": 0.626667,
+          "y": 0.236476,
+          "width": 0.086667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "ABC",
+        "confidence": 0.6795,
+        "bbox": {
+          "x": 0.472667,
+          "y": 0.309119,
+          "width": 0.029333,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "First Avenue",
+        "confidence": 0.848,
+        "bbox": {
+          "x": 0.452,
+          "y": 0.344668,
+          "width": 0.121333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "Grand",
+        "confidence": 0.7674,
+        "bbox": {
+          "x": 0.600667,
+          "y": 0.404431,
+          "width": 0.029333,
+          "height": 0.046883
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Street",
+        "confidence": 0.8223,
+        "bbox": {
+          "x": 0.614667,
+          "y": 0.450799,
+          "width": 0.033333,
+          "height": 0.052035
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "nd Avenue",
+        "confidence": 0.8471,
+        "bbox": {
+          "x": 0.093333,
+          "y": 0.48171,
+          "width": 0.104,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "Main Street",
+        "confidence": 0.8379,
+        "bbox": {
+          "x": 0.190667,
+          "y": 0.493045,
+          "width": 0.047333,
+          "height": 0.087584
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "heading",
+        "content": "Pair work",
+        "confidence": 0.8697,
+        "bbox": {
+          "x": 0.116,
+          "y": 0.602782,
+          "width": 0.075333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "sentence",
+        "content": "B Which places are in your school's neighborhood?",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.095294,
+          "y": 0.604242,
+          "width": 0.439608,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Which places are in your school's neighborhood?",
+            "confidence": 0.9239
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Which places are in your school’s neighborhood?",
+            "confidence": 0.955
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "sentence",
+        "content": "We have a coffee shop, some restaurants, and a .",
+        "confidence": 0.9386,
+        "bbox": {
+          "x": 0.116667,
+          "y": 0.623905,
+          "width": 0.376,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"We have a coffee shop, some restaurants, and a .",
+            "confidence": 0.9386
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "“We have a coffee shop, some restaurants, anda...”",
+            "confidence": 0.9437
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "Language in context Ads",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.096471,
+          "y": 0.660909,
+          "width": 0.373333,
+          "height": 0.022121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Language in context Ads",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Languageincontext Ads",
+            "confidence": 0.8909
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "sentence",
+        "content": "A Read three advertisements for places in a neighborhood. What places do they describe?",
+        "confidence": 0.9579,
+        "bbox": {
+          "x": 0.094902,
+          "y": 0.696364,
+          "width": 0.64549,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A  Read three advertisements for places in a neighborhood. What places do they describe?",
+            "confidence": 0.9404
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Read three advertisements for places in a neighborhood. What places do they describe?",
+            "confidence": 0.9579
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "Mama's Place",
+        "confidence": 0.861,
+        "bbox": {
+          "x": 0.104667,
+          "y": 0.727975,
+          "width": 0.223333,
+          "height": 0.02576
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "Joe's",
+        "confidence": 0.8191,
+        "bbox": {
+          "x": 0.674,
+          "y": 0.736734,
+          "width": 0.073333,
+          "height": 0.05152
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "instruction",
+        "content": "Find us on the",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.727059,
+          "y": 0.822424,
+          "width": 0.107843,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Find us on the",
+            "confidence": 0.8581
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Find us on the",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "instruction",
+        "content": "Find everything you need at",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.421176,
+          "y": 0.827576,
+          "width": 0.157647,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Find everything you need at",
+            "confidence": 0.906
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Find everything you need at",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "corner of",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.746667,
+          "y": 0.836667,
+          "width": 0.068627,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "corner of",
+            "confidence": 0.832
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "corner of",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "Supermarket.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.465882,
+          "y": 0.840303,
+          "width": 0.103529,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "ABC Supermarket.",
+            "confidence": 0.8501
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Supermarket.",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "Come to Mama's Place",
+        "confidence": 0.8516,
+        "bbox": {
+          "x": 0.127333,
+          "y": 0.841319,
+          "width": 0.184,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "Main Street and",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.720784,
+          "y": 0.850606,
+          "width": 0.12,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Main Street and",
+            "confidence": 0.8781
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Main Street and",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "paragraph",
+        "content": "New location next to Town Bank",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.408627,
+          "y": 0.854242,
+          "width": 0.182353,
+          "height": 0.008182
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "NewlocationnexttoTown Bank",
+            "confidence": 0.8931
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "New location next to Town Bank",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "for real It allan food.",
+        "confidence": 0.8664,
+        "bbox": {
+          "x": 0.137333,
+          "y": 0.858836,
+          "width": 0.162,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "First Ave.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.74,
+          "y": 0.865152,
+          "width": 0.07098,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "First Ave.",
+            "confidence": 0.8854
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "First Ave.",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "10%off between",
+        "confidence": 0.9023,
+        "bbox": {
+          "x": 0.229333,
+          "y": 0.875322,
+          "width": 0.096,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "We're always open!",
+        "confidence": 0.8653,
+        "bbox": {
+          "x": 0.412667,
+          "y": 0.877383,
+          "width": 0.172,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "Best coffee in town!",
+        "confidence": 0.8141,
+        "bbox": {
+          "x": 0.690667,
+          "y": 0.879444,
+          "width": 0.179333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "On Sacond Aye nun",
+        "confidence": 0.805,
+        "bbox": {
+          "x": 0.111333,
+          "y": 0.882535,
+          "width": 0.095333,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "sentence",
+        "content": "B What can you do at each place in Part A?",
+        "confidence": 0.8813,
+        "bbox": {
+          "x": 0.096,
+          "y": 0.919114,
+          "width": 0.298,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B What can you do at each place in Part A?",
+            "confidence": 0.8813
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B What can you do at each place in Part A?",
+            "confidence": 0.8927
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "audio_track",
+        "content": "76",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.034118,
+          "y": 0.944848,
+          "width": 0.017647,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "76",
+            "confidence": 0.6656
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "76",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Around town",
+      "Vocabulary Places in the neighborhood",
+      "Match the words and the places. Then listen and check (/) your answers.",
+      "bus stop",
+      "bank",
+      "gas station",
+      "library",
+      "bank bus stop gas station library subway station",
+      "bookstore",
+      "hotel",
+      "coffee shop",
+      "supermarket",
+      "ABC",
+      "First Avenue",
+      "Grand",
+      "Street",
+      "nd Avenue",
+      "Main Street",
+      "Pair work",
+      "B Which places are in your school's neighborhood?",
+      "We have a coffee shop, some restaurants, and a .",
+      "Language in context Ads",
+      "A Read three advertisements for places in a neighborhood. What places do they describe?",
+      "Mama's Place",
+      "Joe's",
+      "Find us on the",
+      "Find everything you need at",
+      "corner of",
+      "Supermarket.",
+      "Come to Mama's Place",
+      "Main Street and",
+      "New location next to Town Bank",
+      "for real It allan food.",
+      "First Ave.",
+      "10%off between",
+      "We're always open!",
+      "Best coffee in town!",
+      "On Sacond Aye nun",
+      "B What can you do at each place in Part A?"
+    ],
+    "paragraphs": [
+      "bank bus stop gas station library subway station",
+      "New location next to Town Bank"
+    ],
+    "sentences": [
+      "Around town Vocabulary Places in the neighborhood Match the words and the places",
+      "Then listen and check (/) your answers",
+      "bus stop bank gas station library bank bus stop gas station library subway station bookstore hotel coffee shop supermarket ABC First Avenue Grand Street nd Avenue Main Street Pair work B Which places are in your school's neighborhood",
+      "We have a coffee shop, some restaurants, and a",
+      "Language in context Ads A Read three advertisements for places in a neighborhood",
+      "What places do they describe",
+      "Mama's Place Joe's Find us on the Find everything you need at corner of Supermarket",
+      "Come to Mama's Place Main Street and New location next to Town Bank for real It allan food",
+      "First Ave",
+      "10%off between We're always open",
+      "Best coffee in town",
+      "On Sacond Aye nun B What can you do at each place in Part A"
+    ],
+    "vocabulary": [
+      {
+        "word": "bus stop",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "bank",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "gas station",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "subway station",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "library",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "bookstore",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "hotel",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "coffee shop",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "newsstand",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "supermarket",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      }
+    ],
+    "grammar": [],
+    "dialogues": [],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "reading",
+        "instruction": "Read three advertisements for places in a neighborhood. What places do they describe?",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "bus stop",
+          "bank",
+          "gas station",
+          "library",
+          "bank bus stop gas station library subway station",
+          "bookstore",
+          "hotel",
+          "coffee shop",
+          "newsstand",
+          "supermarket",
+          "ABC",
+          "First Avenue"
+        ],
+        "position": {
+          "x": 0.103333,
+          "y": 0.191747,
+          "width": 0.643333,
+          "height": 0.18786199999999997
+        },
+        "textElementIds": [
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Grand",
+          "Street",
+          "nd Avenue",
+          "Main Street"
+        ],
+        "position": {
+          "x": 0.073333,
+          "y": 0.38443099999999997,
+          "width": 0.594667,
+          "height": 0.2161980000000001
+        },
+        "textElementIds": [
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Pair work",
+          "B Which places are in your school's neighborhood?",
+          "We have a coffee shop, some restaurants, and a .",
+          "Language in context Ads",
+          "A Read three advertisements for places in a neighborhood. What places do they describe?",
+          "Mama's Place",
+          "Joe's"
+        ],
+        "position": {
+          "x": 0.074902,
+          "y": 0.582782,
+          "width": 0.692431,
+          "height": 0.225472
+        },
+        "textElementIds": [
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Find us on the",
+          "Find everything you need at",
+          "corner of",
+          "Supermarket.",
+          "Come to Mama's Place",
+          "Main Street and",
+          "New location next to Town Bank",
+          "for real It allan food.",
+          "First Ave.",
+          "10%off between",
+          "We're always open!",
+          "Best coffee in town!"
+        ],
+        "position": {
+          "x": 0.107333,
+          "y": 0.802424,
+          "width": 0.782667,
+          "height": 0.11196099999999998
+        },
+        "textElementIds": [
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038"
+        ]
+      }
+    ],
+    "excludedGarbage": [
+      "newsstand",
+      "5:30and 6:30 p.m."
+    ]
+  },
+  "learningContent": {
+    "pageType": "lesson",
+    "title": "Around town",
+    "learningObjectives": [],
+    "targetVocabulary": [
+      {
+        "word": "bus stop",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "bank",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "gas station",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "subway station",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "library",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "bookstore",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "hotel",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "coffee shop",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "newsstand",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "supermarket",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "reading",
+        "instruction": "Read three advertisements for places in a neighborhood. What places do they describe?",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "3 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content.",
+      "2 garbage string(s) excluded"
+    ],
+    "verifiedAgainstPdf": true,
+    "repairStats": {
+      "garbageExcluded": 2
+    },
+    "averageOcrConfidence": 0.8809,
+    "verificationMethod": "independent_ocr_crosscheck"
+  },
+  "metadata": {
+    "book": "Four Corners 1 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc1_v1",
+    "verificationMethod": "independent_ocr_crosscheck",
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

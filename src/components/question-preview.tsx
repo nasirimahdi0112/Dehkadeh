@@ -11,7 +11,7 @@ import type { Question, Book } from "@/lib/types";
 import { useToast } from "@/hooks/use-toast";
 import jsPDF from "jspdf";
 import html2canvas from "html2canvas";
-import { Document, Packer, Paragraph, PageBreak, HeadingLevel, AlignmentType } from 'docx';
+import { Document, Packer, Paragraph, Numbering, PageBreak, HeadingLevel, AlignmentType } from 'docx';
 import { saveAs } from 'file-saver';
 
 interface QuestionPreviewProps {
@@ -71,7 +71,7 @@ export function QuestionPreview({ questions, isLoading, onQuestionUpdate, quizCo
                 q.options.forEach(option => {
                      quizChildren.push(new Paragraph({
                         text: option,
-                        numbering: { reference: "options-numbering", level: 0 },
+                        numbering: { reference: "quiz-numbering", level: 1 },
                     }));
                 });
             }
@@ -102,15 +102,10 @@ export function QuestionPreview({ questions, isLoading, onQuestionUpdate, quizCo
                                 text: "%1.",
                                 style: { paragraph: { indent: { left: 720, hanging: 360 } } },
                             },
-                        ],
-                    },
-                    {
-                        reference: "options-numbering",
-                        levels: [
                             {
-                                level: 0,
+                                level: 1,
                                 format: "upperLetter",
-                                text: "%1)",
+                                text: "%2.",
                                 style: { paragraph: { indent: { left: 1440, hanging: 360 } } },
                             },
                         ],
@@ -213,7 +208,7 @@ export function QuestionPreview({ questions, isLoading, onQuestionUpdate, quizCo
     }
   };
 
-  const addCanvasToPdf = (pdf: jsPDF, canvas: HTMLCanvasElement, isFirstPage: boolean = false) => {
+  const addCanvasToPdf = (pdf: jsPDF, canvas: HTMLCanvasElement) => {
     const imgData = canvas.toDataURL('image/png');
     const pdfWidth = pdf.internal.pageSize.getWidth();
     const pdfHeight = pdf.internal.pageSize.getHeight();
@@ -225,16 +220,11 @@ export function QuestionPreview({ questions, isLoading, onQuestionUpdate, quizCo
     let heightLeft = newImgHeight;
     let position = 0;
     
-    // Add margin for first page only if it's the questions section
-    if (!isFirstPage) {
-        pdf.addPage();
-    }
-    
     pdf.addImage(imgData, 'PNG', 0, position, pdfWidth, newImgHeight, undefined, 'FAST');
     heightLeft -= pdfHeight;
 
     while (heightLeft > 0) {
-        position = heightLeft - newImgHeight + pdfHeight;
+        position -= pdfHeight;
         pdf.addPage();
         pdf.addImage(imgData, 'PNG', 0, position, pdfWidth, newImgHeight, undefined, 'FAST');
         heightLeft -= pdfHeight;
@@ -258,17 +248,17 @@ export function QuestionPreview({ questions, isLoading, onQuestionUpdate, quizCo
             scale: 3,
             backgroundColor: "#FFFFFF",
             useCORS: true,
-            logging: false,
         });
-        addCanvasToPdf(pdf, questionsCanvas, true);
+        addCanvasToPdf(pdf, questionsCanvas);
+        
+        pdf.addPage();
         
         const answerKeyCanvas = await html2canvas(answerKeyRef.current, {
             scale: 3,
             backgroundColor: "#FFFFFF",
             useCORS: true,
-            logging: false,
         });
-        addCanvasToPdf(pdf, answerKeyCanvas, false);
+        addCanvasToPdf(pdf, answerKeyCanvas);
 
         pdf.save(getQuizFileName('pdf'));
          toast({
@@ -327,12 +317,12 @@ export function QuestionPreview({ questions, isLoading, onQuestionUpdate, quizCo
                   <ol className="quiz-questions-list">
                       {questions.map((q, index) => (
                           <li key={`pdf-q-${index}`}>
-                              <p className="question-text">{index + 1}. {q.question}</p>
+                              <p className="question-text">{q.question}</p>
                               {q.options && q.options.length > 0 && (
                                   <ol className="question-options-list">
                                       {q.options.map((option, i) => (
                                           <li key={`pdf-q-${index}-o-${i}`}>
-                                              {String.fromCharCode(65 + i)}. {option}
+                                              {option}
                                           </li>
                                       ))}
                                   </ol>

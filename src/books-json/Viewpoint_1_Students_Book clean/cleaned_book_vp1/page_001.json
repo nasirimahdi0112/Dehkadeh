@@ -1,0 +1,352 @@
+{
+  "pageNumber": 1,
+  "pageNumberDetected": false,
+  "pageNumberDetectionMethod": null,
+  "pdfPageNumber": 1,
+  "source": {
+    "pdfFile": "Viewpoint-1-Student's-Book [www.languagecentre.ir]_Part1.pdf",
+    "pdfLocalPageNumber": 1,
+    "pageSizePoints": {
+      "width": 595.33,
+      "height": 779.67
+    },
+    "renderedAtDpi": 216,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "type": "label",
+        "content": "CAMBRIDGE",
+        "confidence": 0.8171,
+        "lowConfidence": false,
+        "order": 1,
+        "bbox": {
+          "x": 0.0174,
+          "y": 0.0252,
+          "width": 0.196,
+          "height": 0.0184
+        },
+        "id": "text_0001",
+        "uncertain": false
+      },
+      {
+        "type": "label",
+        "content": "VIEWPC",
+        "confidence": 0.7343,
+        "lowConfidence": true,
+        "order": 2,
+        "bbox": {
+          "x": 0.0157,
+          "y": 0.1026,
+          "width": 0.5666,
+          "height": 0.1338
+        },
+        "id": "text_0002",
+        "uncertain": true
+      },
+      {
+        "type": "label",
+        "content": "OINT",
+        "confidence": 0.7455,
+        "lowConfidence": true,
+        "order": 3,
+        "bbox": {
+          "x": 0.5857,
+          "y": 0.1201,
+          "width": 0.3595,
+          "height": 0.0988
+        },
+        "id": "text_0003",
+        "uncertain": true
+      },
+      {
+        "type": "label",
+        "content": "STUDENT'S BOOK",
+        "confidence": 0.8979,
+        "lowConfidence": false,
+        "order": 4,
+        "bbox": {
+          "x": 0.2716,
+          "y": 0.2608,
+          "width": 0.4838,
+          "height": 0.0381
+        },
+        "id": "text_0004",
+        "uncertain": false
+      },
+      {
+        "type": "label",
+        "content": "MICHAELMCCARTHY",
+        "confidence": 0.9054,
+        "lowConfidence": false,
+        "order": 5,
+        "bbox": {
+          "x": 0.2632,
+          "y": 0.7794,
+          "width": 0.4317,
+          "height": 0.0278
+        },
+        "id": "text_0005",
+        "uncertain": false
+      },
+      {
+        "type": "label",
+        "content": "JEANNE MCCARTEN",
+        "confidence": 0.8922,
+        "lowConfidence": false,
+        "order": 6,
+        "bbox": {
+          "x": 0.28,
+          "y": 0.8268,
+          "width": 0.3959,
+          "height": 0.0325
+        },
+        "id": "text_0006",
+        "uncertain": false
+      },
+      {
+        "type": "label",
+        "content": "HELEN SANDIFORD",
+        "confidence": 0.8896,
+        "lowConfidence": false,
+        "order": 7,
+        "bbox": {
+          "x": 0.2828,
+          "y": 0.8777,
+          "width": 0.3897,
+          "height": 0.0282
+        },
+        "id": "text_0007",
+        "uncertain": false
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [],
+    "ocrExercises": [],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": null,
+        "text": [
+          "CAMBRIDGE",
+          "VIEWPC",
+          "STUDENT'S BOOK",
+          "MICHAELMCCARTHY",
+          "JEANNE MCCARTEN",
+          "HELEN SANDIFORD"
+        ],
+        "position": {
+          "x": 28.0,
+          "y": 59.0,
+          "width": 1321.0,
+          "height": 2060.0
+        },
+        "relationship": "Possible text embedded in an illustration or speech bubble; automatic classification is uncertain.",
+        "confidence": 0.8561
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": null,
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {},
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8403,
+    "ocrEngine": "RapidOCR ONNX (text detection, orientation classification, recognition)",
+    "warnings": [
+      "2 text element(s) remain below 0.80 OCR confidence; uncertain text was preserved without conjectural correction.",
+      "An enhanced contrast/sharpening OCR pass was compared with the primary pass.",
+      "Printed book page number was not confidently detected; pageNumber falls back to pdfPageNumber."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "lesson",
+    "headings": [],
+    "textElements": [
+      {
+        "type": "label",
+        "content": "CAMBRIDGE",
+        "confidence": 0.8171,
+        "lowConfidence": false,
+        "order": 1,
+        "bbox": {
+          "x": 0.0174,
+          "y": 0.0252,
+          "width": 0.196,
+          "height": 0.0184
+        },
+        "id": "text_0001",
+        "uncertain": false
+      },
+      {
+        "type": "label",
+        "content": "View pc",
+        "confidence": 0.7343,
+        "lowConfidence": true,
+        "order": 2,
+        "bbox": {
+          "x": 0.0157,
+          "y": 0.1026,
+          "width": 0.5666,
+          "height": 0.1338
+        },
+        "id": "text_0002",
+        "uncertain": true
+      },
+      {
+        "type": "label",
+        "content": "OINT",
+        "confidence": 0.7455,
+        "lowConfidence": true,
+        "order": 3,
+        "bbox": {
+          "x": 0.5857,
+          "y": 0.1201,
+          "width": 0.3595,
+          "height": 0.0988
+        },
+        "id": "text_0003",
+        "uncertain": true
+      },
+      {
+        "type": "label",
+        "content": "STUDENT'S BOOK",
+        "confidence": 0.8979,
+        "lowConfidence": false,
+        "order": 4,
+        "bbox": {
+          "x": 0.2716,
+          "y": 0.2608,
+          "width": 0.4838,
+          "height": 0.0381
+        },
+        "id": "text_0004",
+        "uncertain": false
+      },
+      {
+        "type": "label",
+        "content": "Michael mccarthy",
+        "confidence": 0.9054,
+        "lowConfidence": false,
+        "order": 5,
+        "bbox": {
+          "x": 0.2632,
+          "y": 0.7794,
+          "width": 0.4317,
+          "height": 0.0278
+        },
+        "id": "text_0005",
+        "uncertain": false
+      },
+      {
+        "type": "label",
+        "content": "JEANNE Mc car ten",
+        "confidence": 0.8922,
+        "lowConfidence": false,
+        "order": 6,
+        "bbox": {
+          "x": 0.28,
+          "y": 0.8268,
+          "width": 0.3959,
+          "height": 0.0325
+        },
+        "id": "text_0006",
+        "uncertain": false
+      },
+      {
+        "type": "label",
+        "content": "HELEN SANDIFORD",
+        "confidence": 0.8896,
+        "lowConfidence": false,
+        "order": 7,
+        "bbox": {
+          "x": 0.2828,
+          "y": 0.8777,
+          "width": 0.3897,
+          "height": 0.0282
+        },
+        "id": "text_0007",
+        "uncertain": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "CAMBRIDGE",
+      "View pc",
+      "OINT",
+      "STUDENT'S BOOK",
+      "Michael mccarthy",
+      "JEANNE Mc car ten",
+      "HELEN SANDIFORD"
+    ],
+    "paragraphs": [],
+    "sentences": [
+      "CAMBRIDGE View pc OINT STUDENT'S BOOK Michael mccarthy JEANNE Mc car ten HELEN SANDIFORD"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [],
+    "exercises": [],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "",
+        "text": [
+          "CAMBRIDGE",
+          "View pc",
+          "STUDENT'S BOOK",
+          "Michael mccarthy",
+          "JEANNE Mc car ten",
+          "HELEN SANDIFORD"
+        ],
+        "position": {
+          "x": 28.0,
+          "y": 59.0,
+          "width": 1321.0,
+          "height": 2060.0
+        },
+        "textElementIds": []
+      }
+    ],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "lesson",
+    "title": "",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [],
+    "reading": [],
+    "exercises": [],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "2 text element(s) remain below 0.80 OCR confidence; uncertain text was preserved without conjectural correction.",
+      "An enhanced contrast/sharpening OCR pass was compared with the primary pass.",
+      "Printed book page number was not confidently detected; pageNumber falls back to pdfPageNumber."
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {},
+    "averageOcrConfidence": 0.8403,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Viewpoint 1 Student's Book",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_vp1_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

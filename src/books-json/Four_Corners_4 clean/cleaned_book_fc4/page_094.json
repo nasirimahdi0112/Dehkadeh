@@ -1,0 +1,2636 @@
+{
+  "pageNumber": 87,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 94,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 4_Part4.pdf",
+    "pdfLocalPageNumber": 24,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.7207,
+        "bbox": {
+          "x": 0.835333,
+          "y": 0.022154,
+          "width": 0.039333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Listening Likely...or unlikely?",
+        "confidence": 0.8963,
+        "bbox": {
+          "x": 0.082,
+          "y": 0.085008,
+          "width": 0.434667,
+          "height": 0.028336
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listening Likely... or unlikely?",
+            "confidence": 0.795
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listening Likely...or unlikely?",
+            "confidence": 0.8963
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "A Which of these things can help you know what others are thinking?",
+        "confidence": 0.9592,
+        "bbox": {
+          "x": 0.085882,
+          "y": 0.122727,
+          "width": 0.577647,
+          "height": 0.015152
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAiR WORK Which of these things can help youknow what others are thinking?",
+            "confidence": 0.8961
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Which of these things can help you know what others are thinking?",
+            "confidence": 0.9592
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "emotions",
+        "confidence": 0.8845,
+        "bbox": {
+          "x": 0.278,
+          "y": 0.153014,
+          "width": 0.068667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "hairstyles",
+        "confidence": 0.8708,
+        "bbox": {
+          "x": 0.456,
+          "y": 0.154044,
+          "width": 0.069333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "body language emotions hairstyles memory",
+        "confidence": 0.952,
+        "bbox": {
+          "x": 0.121176,
+          "y": 0.154242,
+          "width": 0.518431,
+          "height": 0.015455
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "body language",
+            "confidence": 0.8355
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "body language emotions hairstyles memory",
+            "confidence": 0.952
+          },
+          {
+            "engine": "rapidocr",
+            "content": "memory",
+            "confidence": 0.8562
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| dreams facial expressions laughing tone of voice",
+            "confidence": 0.955
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "dreams",
+        "confidence": 0.8111,
+        "bbox": {
+          "x": 0.116667,
+          "y": 0.173107,
+          "width": 0.058667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "laughing",
+        "confidence": 0.8697,
+        "bbox": {
+          "x": 0.453333,
+          "y": 0.173107,
+          "width": 0.068,
+          "height": 0.019062
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "facial expressions",
+        "confidence": 0.8788,
+        "bbox": {
+          "x": 0.278,
+          "y": 0.174137,
+          "width": 0.124,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "tone of voice",
+        "confidence": 0.8892,
+        "bbox": {
+          "x": 0.58,
+          "y": 0.174652,
+          "width": 0.091333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "sentence",
+        "content": "B €} Listen to Karl tell his friend Jenna about an article on mind-reading. How do people",
+        "confidence": 0.9029,
+        "bbox": {
+          "x": 0.087059,
+          "y": 0.210303,
+          "width": 0.630196,
+          "height": 0.016667
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B  Listen to Karl tell his friend Jenna about an article on mind-reading. How do people",
+            "confidence": 0.8879
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B €} Listen to Karl tell his friend Jenna about an article on mind-reading. How do people",
+            "confidence": 0.9029
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "instruction",
+        "content": "read minds? Look at Part A again, and circle the ways that are mentioned in the article.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.110196,
+          "y": 0.229394,
+          "width": 0.606275,
+          "height": 0.015152
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "read minds? Look at Part A again, and circle the ways that are mentioned in the article.",
+            "confidence": 0.8988
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "read minds? Look at Part A again, and circle the ways that are mentioned in the article.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "sentence",
+        "content": "C € Listen to the rest of the conversation. Correct the statements.",
+        "confidence": 0.87,
+        "bbox": {
+          "x": 0.086275,
+          "y": 0.254848,
+          "width": 0.476471,
+          "height": 0.01697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "C € Listen to the rest of the conversation. Correct the statements.",
+            "confidence": 0.87
+          },
+          {
+            "engine": "rapidocr",
+            "content": "C  Listen to therest of the conversation.Correct the statements.",
+            "confidence": 0.8813
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "20%",
+        "confidence": 0.84,
+        "bbox": {
+          "x": 0.395294,
+          "y": 0.27303,
+          "width": 0.032941,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "20%",
+            "confidence": 0.7137
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "20%",
+            "confidence": 0.84
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2,",
+            "confidence": 0.38
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "Strangers can read each other’s minds 36% of the time.",
+        "confidence": 0.932,
+        "bbox": {
+          "x": 0.133725,
+          "y": 0.278182,
+          "width": 0.373725,
+          "height": 0.019394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Strangers can read each other’s minds 36% of the time.",
+            "confidence": 0.932
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Strangers can read eachother's minds 30%of thetime.",
+            "confidence": 0.8992
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "Married couples can read each other’s minds 45% of the time.",
+        "confidence": 0.9509,
+        "bbox": {
+          "x": 0.134118,
+          "y": 0.304848,
+          "width": 0.417647,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Married couples can read eachother's minds 45% of thetime.",
+            "confidence": 0.9123
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Married couples can read each other’s minds 45% of the time.",
+            "confidence": 0.9509
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "ao fF W NY",
+        "confidence": 0.4175,
+        "bbox": {
+          "x": 0.107843,
+          "y": 0.305455,
+          "width": 0.013333,
+          "height": 0.072121
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "sentence",
+        "content": "No one can read minds more than 6% of the time.",
+        "confidence": 0.9373,
+        "bbox": {
+          "x": 0.134118,
+          "y": 0.326061,
+          "width": 0.336863,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Noonecanreadminds morethan6%ofthetime.",
+            "confidence": 0.9201
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "No one can read minds more than 6% of the time.",
+            "confidence": 0.9373
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "sentence",
+        "content": "There’s a big difference in how well men and women can read minds.",
+        "confidence": 0.9538,
+        "bbox": {
+          "x": 0.132941,
+          "y": 0.34697,
+          "width": 0.469412,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "There's abig difference inhow well menand women canread minds.",
+            "confidence": 0.9001
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "There’s a big difference in how well men and women can read minds.",
+            "confidence": 0.9538
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "It’s likely that Jenna believes what Karl says about men and women.",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.134118,
+          "y": 0.368182,
+          "width": 0.463137,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "It's likely that Jenna believes what Karl says about men and women.",
+            "confidence": 0.9278
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "It’s likely that Jenna believes what Karl says about men and women.",
+            "confidence": 0.9575
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "heading",
+        "content": "Speaking Anything's possible.",
+        "confidence": 0.8797,
+        "bbox": {
+          "x": 0.08,
+          "y": 0.40134,
+          "width": 0.426667,
+          "height": 0.02473
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Speaking Anything's possible.",
+            "confidence": 0.8797
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Speaking Anything's possible.",
+            "confidence": 0.83
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "15510299",
+        "confidence": 0.6305,
+        "bbox": {
+          "x": 0.756,
+          "y": 0.415765,
+          "width": 0.087333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0023",
+        "type": "sentence",
+        "content": "A Read the statements. Do you think they are probable? Write P (probable)",
+        "confidence": 0.9085,
+        "bbox": {
+          "x": 0.085098,
+          "y": 0.437879,
+          "width": 0.532157,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Read the statements.Do youthink they are probable?WriteP(probable)",
+            "confidence": 0.8912
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Read the statements. Do you think they are probable? Write P (probable)",
+            "confidence": 0.9085
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "sentence",
+        "content": "or | (improbable) next to each statement.",
+        "confidence": 0.9257,
+        "bbox": {
+          "x": 0.109412,
+          "y": 0.456364,
+          "width": 0.287451,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "ori (improbable)nextto each statement.",
+            "confidence": 0.8994
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "or | (improbable) next to each statement.",
+            "confidence": 0.9257
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "People will travel through",
+        "confidence": 0.9356,
+        "bbox": {
+          "x": 0.132667,
+          "y": 0.62442,
+          "width": 0.18,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "People will travel through",
+            "confidence": 0.9356
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "People will travel through _______Some people can remember Some people can predict",
+            "confidence": 0.9092
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "Somepeoplecan remember",
+        "confidence": 0.8941,
+        "bbox": {
+          "x": 0.418,
+          "y": 0.625451,
+          "width": 0.198,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "Some people can predict",
+        "confidence": 0.8606,
+        "bbox": {
+          "x": 0.699333,
+          "y": 0.626481,
+          "width": 0.174667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "time someday.",
+        "confidence": 0.8761,
+        "bbox": {
+          "x": 0.133333,
+          "y": 0.641422,
+          "width": 0.103333,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "sentence",
+        "content": "time someday. their past lives. the weather.",
+        "confidence": 0.9543,
+        "bbox": {
+          "x": 0.135686,
+          "y": 0.644545,
+          "width": 0.650588,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "theirpastlives.eelJuou7oJsgiUeAs",
+            "confidence": 0.5691
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "time someday. their past lives. the weather.",
+            "confidence": 0.9543
+          },
+          {
+            "engine": "rapidocr",
+            "content": "theweather.",
+            "confidence": 0.895
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "red or blue?",
+        "confidence": 0.8496,
+        "bbox": {
+          "x": 0.194,
+          "y": 0.700155,
+          "width": 0.059333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "Somepeoplecan",
+        "confidence": 0.9246,
+        "bbox": {
+          "x": 0.134,
+          "y": 0.814529,
+          "width": 0.122,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "Somepeoplecanpredict",
+        "confidence": 0.8883,
+        "bbox": {
+          "x": 0.418667,
+          "y": 0.815559,
+          "width": 0.172667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Somepeoplecanpredict",
+            "confidence": 0.8883
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "_______ Some people can ______.Some people can predict ______.Some people can heal",
+            "confidence": 0.8575
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "Somepeoplecanheal",
+        "confidence": 0.9175,
+        "bbox": {
+          "x": 0.701333,
+          "y": 0.817105,
+          "width": 0.153333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "sentence",
+        "content": "communicate with animals. trends in the stock market. themselves with their mind.",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.136078,
+          "y": 0.834545,
+          "width": 0.754902,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "communicatewithanimals.",
+            "confidence": 0.8779
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "communicate with animals. trends in the stock market. themselves with their mind.",
+            "confidence": 0.9575
+          },
+          {
+            "engine": "rapidocr",
+            "content": "trendsin the stockmarket.",
+            "confidence": 0.8522
+          },
+          {
+            "engine": "rapidocr",
+            "content": "themselves with their mind.",
+            "confidence": 0.8896
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "B Share your ideas.",
+        "confidence": 0.9525,
+        "bbox": {
+          "x": 0.086275,
+          "y": 0.861515,
+          "width": 0.247843,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "GROUPWORK Shareyourideas.",
+            "confidence": 0.838
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Share your ideas.",
+            "confidence": 0.9525
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "dialogue_line",
+        "content": "A: I doubt that people will travel through time someday",
+        "confidence": 0.9027,
+        "bbox": {
+          "x": 0.107333,
+          "y": 0.88202,
+          "width": 0.426,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: I doubt that people will travel through time someday",
+            "confidence": 0.9027
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: | doubt that people will travel through time someday.",
+            "confidence": 0.906
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "dialogue_line",
+        "content": "B: I agree It's highly unlikely.",
+        "confidence": 0.9008,
+        "bbox": {
+          "x": 0.106,
+          "y": 0.903143,
+          "width": 0.218,
+          "height": 0.019578
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B: I agree It's highly unlikely.",
+            "confidence": 0.9008
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: | agree. It's highly unlikely.",
+            "confidence": 0.8867
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "dialogue_line",
+        "content": "C: I'm not so sure. I bet it will happen someday because.",
+        "confidence": 0.9115,
+        "bbox": {
+          "x": 0.106667,
+          "y": 0.925811,
+          "width": 0.432,
+          "height": 0.019062
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "C: I'm not so sure. I bet it will happen someday because.",
+            "confidence": 0.9115
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "C: I'm not so sure. | bet it will happen someday because...",
+            "confidence": 0.85
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "87",
+        "confidence": 0.6666,
+        "bbox": {
+          "x": 0.907333,
+          "y": 0.957754,
+          "width": 0.024667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "I canexpressprobabilityand improbability.",
+        "confidence": 0.8711,
+        "bbox": {
+          "x": 0.579333,
+          "y": 0.966512,
+          "width": 0.267333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "| can express probability and improbability. )",
+            "confidence": 0.7914
+          },
+          {
+            "engine": "rapidocr",
+            "content": "I canexpressprobabilityand improbability.",
+            "confidence": 0.8711
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "emotions",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.278,
+          "y": 0.153014,
+          "width": 0.068667,
+          "height": 0.01391
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8845
+      },
+      {
+        "word": "hairstyles",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.456,
+          "y": 0.154044,
+          "width": 0.069333,
+          "height": 0.014426
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8708
+      },
+      {
+        "word": "body language emotions hairstyles memory",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.121176,
+          "y": 0.154242,
+          "width": 0.518431,
+          "height": 0.015455
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.952
+      },
+      {
+        "word": "dreams",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.116667,
+          "y": 0.173107,
+          "width": 0.058667,
+          "height": 0.015971
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8111
+      },
+      {
+        "word": "laughing",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.453333,
+          "y": 0.173107,
+          "width": 0.068,
+          "height": 0.019062
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8697
+      },
+      {
+        "word": "facial expressions",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.278,
+          "y": 0.174137,
+          "width": 0.124,
+          "height": 0.014941
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8788
+      },
+      {
+        "word": "tone of voice",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.58,
+          "y": 0.174652,
+          "width": 0.091333,
+          "height": 0.015456
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8892
+      },
+      {
+        "word": "ao fF W NY",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.107843,
+          "y": 0.305455,
+          "width": 0.013333,
+          "height": 0.072121
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.4175
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "No one can read minds more than 6% of the time.",
+            "confidence": 0.9373,
+            "bbox": {
+              "x": 0.134118,
+              "y": 0.326061,
+              "width": 0.336863,
+              "height": 0.01
+            },
+            "sourceElementId": "text_0018",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Speaking Anything's possible.",
+            "confidence": 0.8797,
+            "bbox": {
+              "x": 0.08,
+              "y": 0.40134,
+              "width": 0.426667,
+              "height": 0.02473
+            },
+            "sourceElementId": "text_0021",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "A: I doubt that people will travel through time someday",
+            "confidence": 0.9027,
+            "bbox": {
+              "x": 0.107333,
+              "y": 0.88202,
+              "width": 0.426,
+              "height": 0.017002
+            },
+            "sourceElementId": "text_0036",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "B",
+        "type": "listening_activity",
+        "instruction": "€} Listen to Karl tell his friend Jenna about an article on mind-reading. How do people",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0011"
+        ],
+        "confidence": 0.9029
+      },
+      {
+        "exerciseNumber": "C",
+        "type": "listening_activity",
+        "instruction": "€ Listen to the rest of the conversation. Correct the statements.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0013"
+        ],
+        "confidence": 0.87
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "reading_activity",
+        "instruction": "Read the statements. Do you think they are probable? Write P (probable)",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0023"
+        ],
+        "confidence": 0.9085
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "People will travel through",
+          "Somepeoplecan remember",
+          "Some people can predict",
+          "time someday.",
+          "time someday. their past lives. the weather.",
+          "red or blue?"
+        ],
+        "position": {
+          "x": 0.112667,
+          "y": 0.60442,
+          "width": 0.781333,
+          "height": 0.131706
+        },
+        "textElementIds": [
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Somepeoplecan",
+          "Somepeoplecanpredict",
+          "Somepeoplecanheal",
+          "communicate with animals. trends in the stock market. themselves with their mind.",
+          "B Share your ideas."
+        ],
+        "position": {
+          "x": 0.066275,
+          "y": 0.7945289999999999,
+          "width": 0.844705,
+          "height": 0.1000160000000001
+        },
+        "textElementIds": [
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "unit\nListening Likely...or unlikely?\nPAiR WORK Which of these things can help youknow what others are thinking?\nbody language\nemotions\nhairstyles\nmemory\ndreams\nlaughing\nfacial expressions\ntone of voice\nB  Listen to Karl tell his friend Jenna about an article on mind-reading. How do people\nread minds? Look at Part A again, and circle the ways that are mentioned in the article.\nC  Listen to therest of the conversation.Correct the statements.\n20%\nStrangers can read eachother's minds 30%of thetime.\nMarried couples can read eachother's minds 45% of thetime.\nNoonecanreadminds morethan6%ofthetime.\nThere's abig difference inhow well menand women canread minds.\nIt's likely that Jenna believes what Karl says about men and women.\nSpeaking Anything's possible.\n15510299\nA Read the statements.Do youthink they are probable?WriteP(probable)\nori (improbable)nextto each statement.\nPeople will travel through\nSomepeoplecan remember\nSome people can predict\ntime someday.\ntheirpastlives.eelJuou7oJsgiUeAs\ntheweather.\nred or blue?\nSomepeoplecan\nSomepeoplecanpredict\nSomepeoplecanheal\ncommunicatewithanimals.\ntrendsin the stockmarket.\nthemselves with their mind.\nGROUPWORK Shareyourideas.\nA: I doubt that people will travel through time someday\nB: I agree It's highly unlikely.\nC: I'm not so sure. I bet it will happen someday because.\ndehkhodaedu.com\n87\nI canexpressprobabilityand improbability.",
+      "tesseract_psm3": "TY |\n\nListening Likely... or unlikely?\n\nA Which of these things can help you know what others are thinking?\n|\n\nbody language emotions hairstyles memory\n| dreams facial expressions laughing tone of voice\nB €} Listen to Karl tell his friend Jenna about an article on mind-reading. How do people\nread minds? Look at Part A again, and circle the ways that are mentioned in the article.\n\nC € Listen to the rest of the conversation. Correct the statements.\n2,\n\n20%\nStrangers can read each other’s minds 36% of the time.\nMarried couples can read each other’s minds 45% of the time.\nNo one can read minds more than 6% of the time.\n\nThere’s a big difference in how well men and women can read minds.\n\nao fF W NY\n\nIt’s likely that Jenna believes what Karl says about men and women.\n\nSpeaking Anything's possible.\n\nA Read the statements. Do you think they are probable? Write P (probable)\nor | (improbable) next to each statement.\n\nPeople will travel through _______Some people can remember Some people can predict\ntime someday. their past lives. the weather.\n\n_______ Some people can ______.Some people can predict ______.Some people can heal\ncommunicate with animals. trends in the stock market. themselves with their mind.\n\nB Share your ideas.\nA: | doubt that people will travel through time someday.\nB: | agree. It's highly unlikely.\nC: I'm not so sure. | bet it will happen someday because...\n\nommnmmmmmmm 2 rectly andinrobabiy. 87\n| can express probability and improbability. )\n\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [
+      {
+        "id": "text_0001",
+        "type": "text",
+        "content": "TY |",
+        "confidence": 0.36,
+        "bbox": {
+          "x": 0.004706,
+          "y": 0.005758,
+          "width": 0.913725,
+          "height": 0.042424
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0005",
+        "type": "text",
+        "content": "|",
+        "confidence": 0.64,
+        "bbox": {
+          "x": 0.10902,
+          "y": 0.147879,
+          "width": 0.000784,
+          "height": 0.010303
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "averageConfidence": 0.8767,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "4 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "2 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "reading",
+    "headings": [
+      "unit",
+      "Listening Likely... or unlikely?",
+      "A Which of these things can help you know what others are thinking?",
+      "Speaking Anything's possible."
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.7207,
+        "bbox": {
+          "x": 0.835333,
+          "y": 0.022154,
+          "width": 0.039333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Listening Likely... or unlikely?",
+        "confidence": 0.8963,
+        "bbox": {
+          "x": 0.082,
+          "y": 0.085008,
+          "width": 0.434667,
+          "height": 0.028336
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listening Likely... or unlikely?",
+            "confidence": 0.795
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listening Likely...or unlikely?",
+            "confidence": 0.8963
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "A Which of these things can help you know what others are thinking?",
+        "confidence": 0.9592,
+        "bbox": {
+          "x": 0.085882,
+          "y": 0.122727,
+          "width": 0.577647,
+          "height": 0.015152
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAiR WORK Which of these things can help youknow what others are thinking?",
+            "confidence": 0.8961
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Which of these things can help you know what others are thinking?",
+            "confidence": 0.9592
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "emotions",
+        "confidence": 0.8845,
+        "bbox": {
+          "x": 0.278,
+          "y": 0.153014,
+          "width": 0.068667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "hairstyles",
+        "confidence": 0.8708,
+        "bbox": {
+          "x": 0.456,
+          "y": 0.154044,
+          "width": 0.069333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "body language emotions hairstyles memory",
+        "confidence": 0.952,
+        "bbox": {
+          "x": 0.121176,
+          "y": 0.154242,
+          "width": 0.518431,
+          "height": 0.015455
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "body language",
+            "confidence": 0.8355
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "body language emotions hairstyles memory",
+            "confidence": 0.952
+          },
+          {
+            "engine": "rapidocr",
+            "content": "memory",
+            "confidence": 0.8562
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| dreams facial expressions laughing tone of voice",
+            "confidence": 0.955
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "dreams",
+        "confidence": 0.8111,
+        "bbox": {
+          "x": 0.116667,
+          "y": 0.173107,
+          "width": 0.058667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "laughing",
+        "confidence": 0.8697,
+        "bbox": {
+          "x": 0.453333,
+          "y": 0.173107,
+          "width": 0.068,
+          "height": 0.019062
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "facial expressions",
+        "confidence": 0.8788,
+        "bbox": {
+          "x": 0.278,
+          "y": 0.174137,
+          "width": 0.124,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "tone of voice",
+        "confidence": 0.8892,
+        "bbox": {
+          "x": 0.58,
+          "y": 0.174652,
+          "width": 0.091333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "sentence",
+        "content": "B €} Listen to Karl tell his friend Jenna about an article on mind-reading. How do people",
+        "confidence": 0.9029,
+        "bbox": {
+          "x": 0.087059,
+          "y": 0.210303,
+          "width": 0.630196,
+          "height": 0.016667
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B  Listen to Karl tell his friend Jenna about an article on mind-reading. How do people",
+            "confidence": 0.8879
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B €} Listen to Karl tell his friend Jenna about an article on mind-reading. How do people",
+            "confidence": 0.9029
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "instruction",
+        "content": "read minds? Look at Part A again, and circle the ways that are mentioned in the article.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.110196,
+          "y": 0.229394,
+          "width": 0.606275,
+          "height": 0.015152
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "read minds? Look at Part A again, and circle the ways that are mentioned in the article.",
+            "confidence": 0.8988
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "read minds? Look at Part A again, and circle the ways that are mentioned in the article.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "sentence",
+        "content": "C € Listen to the rest of the conversation. Correct the statements.",
+        "confidence": 0.87,
+        "bbox": {
+          "x": 0.086275,
+          "y": 0.254848,
+          "width": 0.476471,
+          "height": 0.01697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "C € Listen to the rest of the conversation. Correct the statements.",
+            "confidence": 0.87
+          },
+          {
+            "engine": "rapidocr",
+            "content": "C  Listen to therest of the conversation.Correct the statements.",
+            "confidence": 0.8813
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "Strangers can read each other's minds 36% of the time.",
+        "confidence": 0.932,
+        "bbox": {
+          "x": 0.133725,
+          "y": 0.278182,
+          "width": 0.373725,
+          "height": 0.019394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Strangers can read each other’s minds 36% of the time.",
+            "confidence": 0.932
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Strangers can read eachother's minds 30%of thetime.",
+            "confidence": 0.8992
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "Married couples can read each other's minds 45% of the time.",
+        "confidence": 0.9509,
+        "bbox": {
+          "x": 0.134118,
+          "y": 0.304848,
+          "width": 0.417647,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Married couples can read eachother's minds 45% of thetime.",
+            "confidence": 0.9123
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Married couples can read each other’s minds 45% of the time.",
+            "confidence": 0.9509
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "ao f F W NY",
+        "confidence": 0.4175,
+        "bbox": {
+          "x": 0.107843,
+          "y": 0.305455,
+          "width": 0.013333,
+          "height": 0.072121
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "sentence",
+        "content": "No one can read minds more than 6% of the time.",
+        "confidence": 0.9373,
+        "bbox": {
+          "x": 0.134118,
+          "y": 0.326061,
+          "width": 0.336863,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Noonecanreadminds morethan6%ofthetime.",
+            "confidence": 0.9201
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "No one can read minds more than 6% of the time.",
+            "confidence": 0.9373
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "sentence",
+        "content": "There's a big difference in how well men and women can read minds.",
+        "confidence": 0.9538,
+        "bbox": {
+          "x": 0.132941,
+          "y": 0.34697,
+          "width": 0.469412,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "There's abig difference inhow well menand women canread minds.",
+            "confidence": 0.9001
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "There’s a big difference in how well men and women can read minds.",
+            "confidence": 0.9538
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "It's likely that Jenna believes what Karl says about men and women.",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.134118,
+          "y": 0.368182,
+          "width": 0.463137,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "It's likely that Jenna believes what Karl says about men and women.",
+            "confidence": 0.9278
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "It’s likely that Jenna believes what Karl says about men and women.",
+            "confidence": 0.9575
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "heading",
+        "content": "Speaking Anything's possible.",
+        "confidence": 0.8797,
+        "bbox": {
+          "x": 0.08,
+          "y": 0.40134,
+          "width": 0.426667,
+          "height": 0.02473
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Speaking Anything's possible.",
+            "confidence": 0.8797
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Speaking Anything's possible.",
+            "confidence": 0.83
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "sentence",
+        "content": "A Read the statements. Do you think they are probable? Write P (probable)",
+        "confidence": 0.9085,
+        "bbox": {
+          "x": 0.085098,
+          "y": 0.437879,
+          "width": 0.532157,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Read the statements.Do youthink they are probable?WriteP(probable)",
+            "confidence": 0.8912
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Read the statements. Do you think they are probable? Write P (probable)",
+            "confidence": 0.9085
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "sentence",
+        "content": "or | (improbable) next to each statement.",
+        "confidence": 0.9257,
+        "bbox": {
+          "x": 0.109412,
+          "y": 0.456364,
+          "width": 0.287451,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "ori (improbable)nextto each statement.",
+            "confidence": 0.8994
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "or | (improbable) next to each statement.",
+            "confidence": 0.9257
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "People will travel through",
+        "confidence": 0.9356,
+        "bbox": {
+          "x": 0.132667,
+          "y": 0.62442,
+          "width": 0.18,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "People will travel through",
+            "confidence": 0.9356
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "People will travel through _______Some people can remember Some people can predict",
+            "confidence": 0.9092
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "Somepeoplecan remember",
+        "confidence": 0.8941,
+        "bbox": {
+          "x": 0.418,
+          "y": 0.625451,
+          "width": 0.198,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "Some people can predict",
+        "confidence": 0.8606,
+        "bbox": {
+          "x": 0.699333,
+          "y": 0.626481,
+          "width": 0.174667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "time someday.",
+        "confidence": 0.8761,
+        "bbox": {
+          "x": 0.133333,
+          "y": 0.641422,
+          "width": 0.103333,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "sentence",
+        "content": "time someday. their past lives. the weather.",
+        "confidence": 0.9543,
+        "bbox": {
+          "x": 0.135686,
+          "y": 0.644545,
+          "width": 0.650588,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "theirpastlives.eelJuou7oJsgiUeAs",
+            "confidence": 0.5691
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "time someday. their past lives. the weather.",
+            "confidence": 0.9543
+          },
+          {
+            "engine": "rapidocr",
+            "content": "theweather.",
+            "confidence": 0.895
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "red or blue?",
+        "confidence": 0.8496,
+        "bbox": {
+          "x": 0.194,
+          "y": 0.700155,
+          "width": 0.059333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "Somepeoplecan",
+        "confidence": 0.9246,
+        "bbox": {
+          "x": 0.134,
+          "y": 0.814529,
+          "width": 0.122,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "Somepeoplecanpredict",
+        "confidence": 0.8883,
+        "bbox": {
+          "x": 0.418667,
+          "y": 0.815559,
+          "width": 0.172667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Somepeoplecanpredict",
+            "confidence": 0.8883
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "_______ Some people can ______.Some people can predict ______.Some people can heal",
+            "confidence": 0.8575
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "Somepeoplecanheal",
+        "confidence": 0.9175,
+        "bbox": {
+          "x": 0.701333,
+          "y": 0.817105,
+          "width": 0.153333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "sentence",
+        "content": "communicate with animals. trends in the stock market. themselves with their mind.",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.136078,
+          "y": 0.834545,
+          "width": 0.754902,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "communicatewithanimals.",
+            "confidence": 0.8779
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "communicate with animals. trends in the stock market. themselves with their mind.",
+            "confidence": 0.9575
+          },
+          {
+            "engine": "rapidocr",
+            "content": "trendsin the stockmarket.",
+            "confidence": 0.8522
+          },
+          {
+            "engine": "rapidocr",
+            "content": "themselves with their mind.",
+            "confidence": 0.8896
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "B Share your ideas.",
+        "confidence": 0.9525,
+        "bbox": {
+          "x": 0.086275,
+          "y": 0.861515,
+          "width": 0.247843,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "GROUPWORK Shareyourideas.",
+            "confidence": 0.838
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Share your ideas.",
+            "confidence": 0.9525
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "dialogue_line",
+        "content": "A: I doubt that people will travel through time someday",
+        "confidence": 0.9027,
+        "bbox": {
+          "x": 0.107333,
+          "y": 0.88202,
+          "width": 0.426,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: I doubt that people will travel through time someday",
+            "confidence": 0.9027
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: | doubt that people will travel through time someday.",
+            "confidence": 0.906
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "dialogue_line",
+        "content": "B: I agree It's highly unlikely.",
+        "confidence": 0.9008,
+        "bbox": {
+          "x": 0.106,
+          "y": 0.903143,
+          "width": 0.218,
+          "height": 0.019578
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B: I agree It's highly unlikely.",
+            "confidence": 0.9008
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: | agree. It's highly unlikely.",
+            "confidence": 0.8867
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "dialogue_line",
+        "content": "C: I'm not so sure. I bet it will happen someday because.",
+        "confidence": 0.9115,
+        "bbox": {
+          "x": 0.106667,
+          "y": 0.925811,
+          "width": 0.432,
+          "height": 0.019062
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "C: I'm not so sure. I bet it will happen someday because.",
+            "confidence": 0.9115
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "C: I'm not so sure. | bet it will happen someday because...",
+            "confidence": 0.85
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "audio_track",
+        "content": "87",
+        "confidence": 0.6666,
+        "bbox": {
+          "x": 0.907333,
+          "y": 0.957754,
+          "width": 0.024667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "I canexpressprobabilityand improbability.",
+        "confidence": 0.8711,
+        "bbox": {
+          "x": 0.579333,
+          "y": 0.966512,
+          "width": 0.267333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "| can express probability and improbability. )",
+            "confidence": 0.7914
+          },
+          {
+            "engine": "rapidocr",
+            "content": "I canexpressprobabilityand improbability.",
+            "confidence": 0.8711
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "unit",
+      "Listening Likely... or unlikely?",
+      "A Which of these things can help you know what others are thinking?",
+      "emotions",
+      "hairstyles",
+      "body language emotions hairstyles memory",
+      "dreams",
+      "laughing",
+      "facial expressions",
+      "tone of voice",
+      "B €} Listen to Karl tell his friend Jenna about an article on mind-reading. How do people",
+      "read minds? Look at Part A again, and circle the ways that are mentioned in the article.",
+      "C € Listen to the rest of the conversation. Correct the statements.",
+      "Strangers can read each other's minds 36% of the time.",
+      "Married couples can read each other's minds 45% of the time.",
+      "ao f F W NY",
+      "No one can read minds more than 6% of the time.",
+      "There's a big difference in how well men and women can read minds.",
+      "It's likely that Jenna believes what Karl says about men and women.",
+      "Speaking Anything's possible.",
+      "A Read the statements. Do you think they are probable? Write P (probable)",
+      "or | (improbable) next to each statement.",
+      "People will travel through",
+      "Somepeoplecan remember",
+      "Some people can predict",
+      "time someday.",
+      "time someday. their past lives. the weather.",
+      "red or blue?",
+      "Somepeoplecan",
+      "Somepeoplecanpredict",
+      "Somepeoplecanheal",
+      "communicate with animals. trends in the stock market. themselves with their mind.",
+      "B Share your ideas.",
+      "A: I doubt that people will travel through time someday",
+      "B: I agree It's highly unlikely.",
+      "C: I'm not so sure. I bet it will happen someday because.",
+      "I canexpressprobabilityand improbability."
+    ],
+    "paragraphs": [],
+    "sentences": [
+      "unit Listening Likely",
+      "or unlikely",
+      "A Which of these things can help you know what others are thinking",
+      "emotions hairstyles body language emotions hairstyles memory dreams laughing facial expressions tone of voice B €} Listen to Karl tell his friend Jenna about an article on mind-reading",
+      "How do people read minds",
+      "Look at Part A again, and circle the ways that are mentioned in the article",
+      "C € Listen to the rest of the conversation",
+      "Correct the statements",
+      "Strangers can read each other's minds 36% of the time",
+      "Married couples can read each other's minds 45% of the time",
+      "ao f F W NY No one can read minds more than 6% of the time",
+      "There's a big difference in how well men and women can read minds",
+      "It's likely that Jenna believes what Karl says about men and women",
+      "Speaking Anything's possible",
+      "A Read the statements",
+      "Do you think they are probable",
+      "Write P (probable) or | (improbable) next to each statement",
+      "People will travel through Somepeoplecan remember Some people can predict time someday",
+      "time someday",
+      "their past lives",
+      "the weather",
+      "red or blue",
+      "Somepeoplecan Somepeoplecanpredict Somepeoplecanheal communicate with animals",
+      "trends in the stock market",
+      "themselves with their mind",
+      "B Share your ideas",
+      "A: I doubt that people will travel through time someday B: I agree It's highly unlikely",
+      "C: I'm not so sure",
+      "I bet it will happen someday because",
+      "I canexpressprobabilityand improbability"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "No one can read minds more than 6% of the time.",
+            "confidence": 0.9373,
+            "bbox": {
+              "x": 0.134118,
+              "y": 0.326061,
+              "width": 0.336863,
+              "height": 0.01
+            },
+            "sourceElementId": "text_0018"
+          },
+          {
+            "speaker": null,
+            "content": "Speaking Anything's possible.",
+            "confidence": 0.8797,
+            "bbox": {
+              "x": 0.08,
+              "y": 0.40134,
+              "width": 0.426667,
+              "height": 0.02473
+            },
+            "sourceElementId": "text_0021"
+          },
+          {
+            "speaker": null,
+            "content": "A: I doubt that people will travel through time someday",
+            "confidence": 0.9027,
+            "bbox": {
+              "x": 0.107333,
+              "y": 0.88202,
+              "width": 0.426,
+              "height": 0.017002
+            },
+            "sourceElementId": "text_0036"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "B",
+        "type": "listening_activity",
+        "instruction": "€} Listen to Karl tell his friend Jenna about an article on mind-reading. How do people",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "C",
+        "type": "listening_activity",
+        "instruction": "€ Listen to the rest of the conversation. Correct the statements.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "writing",
+        "instruction": "Read the statements. Do you think they are probable? Write P (probable)",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "People will travel through",
+          "Somepeoplecan remember",
+          "Some people can predict",
+          "time someday.",
+          "time someday. their past lives. the weather.",
+          "red or blue?"
+        ],
+        "position": {
+          "x": 0.112667,
+          "y": 0.60442,
+          "width": 0.781333,
+          "height": 0.131706
+        },
+        "textElementIds": [
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Somepeoplecan",
+          "Somepeoplecanpredict",
+          "Somepeoplecanheal",
+          "communicate with animals. trends in the stock market. themselves with their mind.",
+          "B Share your ideas."
+        ],
+        "position": {
+          "x": 0.066275,
+          "y": 0.7945289999999999,
+          "width": 0.844705,
+          "height": 0.1000160000000001
+        },
+        "textElementIds": [
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035"
+        ]
+      }
+    ],
+    "excludedGarbage": [
+      "20%",
+      "15510299"
+    ]
+  },
+  "learningContent": {
+    "pageType": "reading",
+    "title": "unit",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "No one can read minds more than 6% of the time.",
+            "confidence": 0.9373
+          },
+          {
+            "speaker": null,
+            "content": "Speaking Anything's possible.",
+            "confidence": 0.8797
+          },
+          {
+            "speaker": null,
+            "content": "A: I doubt that people will travel through time someday",
+            "confidence": 0.9027
+          }
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "title": "unit",
+        "paragraphs": [],
+        "sentences": [
+          "unit Listening Likely",
+          "or unlikely",
+          "A Which of these things can help you know what others are thinking",
+          "emotions hairstyles body language emotions hairstyles memory dreams laughing facial expressions tone of voice B €} Listen to Karl tell his friend Jenna about an article on mind-reading",
+          "How do people read minds",
+          "Look at Part A again, and circle the ways that are mentioned in the article",
+          "C € Listen to the rest of the conversation",
+          "Correct the statements",
+          "Strangers can read each other's minds 36% of the time",
+          "Married couples can read each other's minds 45% of the time",
+          "ao f F W NY No one can read minds more than 6% of the time",
+          "There's a big difference in how well men and women can read minds",
+          "It's likely that Jenna believes what Karl says about men and women",
+          "Speaking Anything's possible",
+          "A Read the statements",
+          "Do you think they are probable",
+          "Write P (probable) or | (improbable) next to each statement",
+          "People will travel through Somepeoplecan remember Some people can predict time someday",
+          "time someday",
+          "their past lives",
+          "the weather",
+          "red or blue",
+          "Somepeoplecan Somepeoplecanpredict Somepeoplecanheal communicate with animals",
+          "trends in the stock market",
+          "themselves with their mind",
+          "B Share your ideas",
+          "A: I doubt that people will travel through time someday B: I agree It's highly unlikely",
+          "C: I'm not so sure",
+          "I bet it will happen someday because",
+          "I canexpressprobabilityand improbability"
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "B",
+        "type": "listening_activity",
+        "instruction": "€} Listen to Karl tell his friend Jenna about an article on mind-reading. How do people",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "C",
+        "type": "listening_activity",
+        "instruction": "€ Listen to the rest of the conversation. Correct the statements.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "writing",
+        "instruction": "Read the statements. Do you think they are probable? Write P (probable)",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "4 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "2 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content.",
+      "2 garbage string(s) excluded"
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "garbageExcluded": 2
+    },
+    "averageOcrConfidence": 0.8767,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 4 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc4_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

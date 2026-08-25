@@ -1,0 +1,3222 @@
+{
+  "pageNumber": 124,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "verified sequential printed-footer pattern",
+  "pdfPageNumber": 125,
+  "source": {
+    "pdfFile": "Family and Friends 2 SB_Part2.pdf",
+    "pdfLocalPageNumber": 11,
+    "pageSizePoints": {
+      "width": 595.2,
+      "height": 785.04
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Skills Time!",
+        "confidence": 0.86,
+        "bbox": {
+          "x": 0.119333,
+          "y": 0.014156,
+          "width": 0.312,
+          "height": 0.040445
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Lesson Five",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.036694,
+          "y": 0.075206,
+          "width": 0.15,
+          "height": 0.016509
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Lesson Five",
+            "confidence": 0.8861
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Lesson Five",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Reading",
+        "confidence": 0.8715,
+        "bbox": {
+          "x": 0.038,
+          "y": 0.122346,
+          "width": 0.094667,
+          "height": 0.023761
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "instruction",
+        "content": "1 Look at the pictures. What is the horse doing? 2 Listen and read. ©) =",
+        "confidence": 0.8794,
+        "bbox": {
+          "x": 0.029839,
+          "y": 0.159584,
+          "width": 0.922984,
+          "height": 0.023846
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Look at the pictures. What is the horse doing? 2 Listen and read. ©) =",
+            "confidence": 0.8794
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Look at the pictures. What is the horse doing?",
+            "confidence": 0.8671
+          },
+          {
+            "engine": "rapidocr",
+            "content": "2Listenandread.",
+            "confidence": 0.8982
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "179",
+        "confidence": 0.7446,
+        "bbox": {
+          "x": 0.933333,
+          "y": 0.165824,
+          "width": 0.018667,
+          "height": 0.009606
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0006",
+        "type": "paragraph",
+        "content": "a red horse and in front of a blue horse.",
+        "confidence": 0.956,
+        "bbox": {
+          "x": 0.072581,
+          "y": 0.266279,
+          "width": 0.442339,
+          "height": 0.015897
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "a ae is a carousel horse. She is behind",
+            "confidence": 0.8067
+          },
+          {
+            "engine": "rapidocr",
+            "content": "a red horse and in front of a blue horse.",
+            "confidence": 0.8872
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "a red horse and in front of a blue horse.",
+            "confidence": 0.956
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "sentence",
+        "content": "She goes round and round every day.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.032258,
+          "y": 0.28982,
+          "width": 0.41371,
+          "height": 0.01926
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "She goes round and round every day.",
+            "confidence": 0.8983
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "She goes round and round every day.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "But Suzy isn't happy",
+        "confidence": 0.8871,
+        "bbox": {
+          "x": 0.394,
+          "y": 0.351365,
+          "width": 0.234667,
+          "height": 0.02275
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "But Suzy isn't happy",
+            "confidence": 0.8871
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| But Suzy isn’t happu.",
+            "confidence": 0.718
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "paragraph",
+        "content": "“T want to run in the fields,” she says. “I want to",
+        "confidence": 0.9408,
+        "bbox": {
+          "x": 0.396371,
+          "y": 0.377255,
+          "width": 0.537903,
+          "height": 0.018343
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"I wanttorun in thefields,\"she says.\"I wantto",
+            "confidence": 0.8698
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "“T want to run in the fields,” she says. “I want to",
+            "confidence": 0.9408
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "paragraph",
+        "content": "eat the green grass. I want to be a real horse!”",
+        "confidence": 0.9591,
+        "bbox": {
+          "x": 0.396371,
+          "y": 0.399266,
+          "width": 0.506855,
+          "height": 0.018954
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "eat thegreen grass.I want to bea real horse!\"",
+            "confidence": 0.8951
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "eat the green grass. I want to be a real horse!”",
+            "confidence": 0.9591
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "paragraph",
+        "content": "The next day Suzy moves her head. She moves her tail.",
+        "confidence": 0.9564,
+        "bbox": {
+          "x": 0.033468,
+          "y": 0.465607,
+          "width": 0.612903,
+          "height": 0.019872
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "The next day Suzy moves her head. She moves her tail.",
+            "confidence": 0.886
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "The next day Suzy moves her head. She moves her tail.",
+            "confidence": 0.9564
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "paragraph",
+        "content": "“Hurrah!” says Suzy. “I’m a real horse now!”",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.034677,
+          "y": 0.489147,
+          "width": 0.494355,
+          "height": 0.01926
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"Hurrah!\"says Suzy.\"I'm a real horse now!\"",
+            "confidence": 0.8442
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "“Hurrah!” says Suzy. “I’m a real horse now!”",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "paragraph",
+        "content": "Suzy runs to the field. She eats the green grass.",
+        "confidence": 0.956,
+        "bbox": {
+          "x": 0.33629,
+          "y": 0.553653,
+          "width": 0.518548,
+          "height": 0.01926
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Suzy runs to the field.She eats the green grass.",
+            "confidence": 0.8988
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Suzy runs to the field. She eats the green grass.",
+            "confidence": 0.956
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "She drinks the fresh water. She is very, very happu.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.33629,
+          "y": 0.575665,
+          "width": 0.5625,
+          "height": 0.01926
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "She drinks the fresh water. She is very, very happy.",
+            "confidence": 0.9145
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "She drinks the fresh water. She is very, very happu.",
+            "confidence": 0.95
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "paragraph",
+        "content": "But that night, Suzy isn't happy.",
+        "confidence": 0.945,
+        "bbox": {
+          "x": 0.125403,
+          "y": 0.646286,
+          "width": 0.360887,
+          "height": 0.01926
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "But that night, Suzy isn'thappy.",
+            "confidence": 0.8719
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "But that night, Suzy isn't happy.",
+            "confidence": 0.945
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "She’s cold. She’s wet. And she’s scared.",
+        "confidence": 0.9271,
+        "bbox": {
+          "x": 0.125403,
+          "y": 0.668909,
+          "width": 0.421774,
+          "height": 0.01498
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "She's cold. She's wet. And she's scared.",
+            "confidence": 0.9031
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "She’s cold. She’s wet. And she’s scared.",
+            "confidence": 0.9271
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "paragraph",
+        "content": "“I miss my friends.” “I miss the red",
+        "confidence": 0.9487,
+        "bbox": {
+          "x": 0.126613,
+          "y": 0.691837,
+          "width": 0.388306,
+          "height": 0.018954
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"Imissmy friends.\"\"I miss thered",
+            "confidence": 0.8897
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "“I miss my friends.” “I miss the red",
+            "confidence": 0.9487
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "paragraph",
+        "content": "horse and the blue horse,” she saus.",
+        "confidence": 0.9471,
+        "bbox": {
+          "x": 0.126613,
+          "y": 0.71446,
+          "width": 0.396371,
+          "height": 0.018343
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "horse and the blue horse,\"she says.",
+            "confidence": 0.8512
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "horse and the blue horse,” she saus.",
+            "confidence": 0.9471
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "paragraph",
+        "content": "in the morning, Suzy says goodbye to the green grass. z",
+        "confidence": 0.8755,
+        "bbox": {
+          "x": 0.034677,
+          "y": 0.776521,
+          "width": 0.710887,
+          "height": 0.01926
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "In the morning, Suzy says goodbye to the green grass.",
+            "confidence": 0.8778
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "in the morning, Suzy says goodbye to the green grass. z",
+            "confidence": 0.8755
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "She says goodbye to the fresh water.Suzygoes back to",
+        "confidence": 0.8988,
+        "bbox": {
+          "x": 0.032667,
+          "y": 0.797776,
+          "width": 0.593333,
+          "height": 0.020222
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "She says goodbye to the fresh water. Suzy goes back to * la",
+            "confidence": 0.87
+          },
+          {
+            "engine": "rapidocr",
+            "content": "She says goodbye to the fresh water.Suzygoes back to",
+            "confidence": 0.8988
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "the carousel.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.034677,
+          "y": 0.823601,
+          "width": 0.135887,
+          "height": 0.014063
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "the carousel.",
+            "confidence": 0.8781
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "the carousel.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "paragraph",
+        "content": "“I'm a happy horse,” she says. “I can go round and round Ying “is",
+        "confidence": 0.8607,
+        "bbox": {
+          "x": 0.035887,
+          "y": 0.844696,
+          "width": 0.789113,
+          "height": 0.019872
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"I'm a happy horse,\" she says.\"I can go round and round",
+            "confidence": 0.8719
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "“I'm a happy horse,” she says. “I can go round and round Ying “is",
+            "confidence": 0.8607
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "paragraph",
+        "content": "every day with my friends, the red horse and the blue horse.",
+        "confidence": 0.9095,
+        "bbox": {
+          "x": 0.032667,
+          "y": 0.86451,
+          "width": 0.664667,
+          "height": 0.023761
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "every day with my friends, the red horse and the blue horse.”¢ ee 3S 2",
+            "confidence": 0.7647
+          },
+          {
+            "engine": "rapidocr",
+            "content": "every day with my friends, the red horse and the blue horse.",
+            "confidence": 0.9095
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "paragraph",
+        "content": "UPSD EUE LE CEL RLP POPSET",
+        "confidence": 0.1083,
+        "bbox": {
+          "x": 0.064516,
+          "y": 0.884439,
+          "width": 0.931048,
+          "height": 0.066952
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "124",
+        "confidence": 0.7205,
+        "bbox": {
+          "x": 0.002,
+          "y": 0.955005,
+          "width": 0.045333,
+          "height": 0.019211
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0026",
+        "type": "heading",
+        "content": "Unit15",
+        "confidence": 0.7854,
+        "bbox": {
+          "x": 0.084667,
+          "y": 0.95905,
+          "width": 0.075333,
+          "height": 0.015167
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0027",
+        "type": "heading",
+        "content": "Unit 15 Reading: a fairytale",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.0875,
+          "y": 0.960868,
+          "width": 0.23871,
+          "height": 0.013757
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Readinga fairytale",
+            "confidence": 0.8656
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Unit 15 Reading: a fairytale",
+            "confidence": 0.9
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "She goes round and round every day.",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.032258,
+              "y": 0.28982,
+              "width": 0.41371,
+              "height": 0.01926
+            },
+            "sourceElementId": "text_0007",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "She drinks the fresh water. She is very, very happu.",
+            "confidence": 0.95,
+            "bbox": {
+              "x": 0.33629,
+              "y": 0.575665,
+              "width": 0.5625,
+              "height": 0.01926
+            },
+            "sourceElementId": "text_0014",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "But that night, Suzy isn't happy.",
+            "confidence": 0.945,
+            "bbox": {
+              "x": 0.125403,
+              "y": 0.646286,
+              "width": 0.360887,
+              "height": 0.01926
+            },
+            "sourceElementId": "text_0015",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "She’s cold. She’s wet. And she’s scared.",
+            "confidence": 0.9271,
+            "bbox": {
+              "x": 0.125403,
+              "y": 0.668909,
+              "width": 0.421774,
+              "height": 0.01498
+            },
+            "sourceElementId": "text_0016",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "She says goodbye to the fresh water.Suzygoes back to",
+            "confidence": 0.8988,
+            "bbox": {
+              "x": 0.032667,
+              "y": 0.797776,
+              "width": 0.593333,
+              "height": 0.020222
+            },
+            "sourceElementId": "text_0020",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "“I'm a happy horse,” she says. “I can go round and round Ying “is",
+            "confidence": 0.8607,
+            "bbox": {
+              "x": 0.035887,
+              "y": 0.844696,
+              "width": 0.789113,
+              "height": 0.019872
+            },
+            "sourceElementId": "text_0022",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Speech-bubble/dialogue-like text was detected spatially; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "listening_activity",
+        "instruction": "Look at the pictures. What is the horse doing? 2 Listen and read. ©) =",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0004"
+        ],
+        "confidence": 0.8794
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "“Hurrah!” says Suzy. “I’m a real horse now!”",
+          "Suzy runs to the field. She eats the green grass.",
+          "She drinks the fresh water. She is very, very happu.",
+          "But that night, Suzy isn't happy.",
+          "She’s cold. She’s wet. And she’s scared.",
+          "“I miss my friends.” “I miss the red",
+          "horse and the blue horse,” she saus."
+        ],
+        "position": {
+          "x": 0.014677,
+          "y": 0.469147,
+          "width": 0.904113,
+          "height": 0.283656
+        },
+        "textElementIds": [
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [
+      {
+        "content": "a red horse and in front of a blue horse.",
+        "confidence": 0.956,
+        "bbox": {
+          "x": 0.072581,
+          "y": 0.266279,
+          "width": 0.442339,
+          "height": 0.015897
+        },
+        "sourceElementId": "text_0006"
+      },
+      {
+        "content": "She goes round and round every day.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.032258,
+          "y": 0.28982,
+          "width": 0.41371,
+          "height": 0.01926
+        },
+        "sourceElementId": "text_0007"
+      },
+      {
+        "content": "But Suzy isn't happy",
+        "confidence": 0.8871,
+        "bbox": {
+          "x": 0.394,
+          "y": 0.351365,
+          "width": 0.234667,
+          "height": 0.02275
+        },
+        "sourceElementId": "text_0008"
+      },
+      {
+        "content": "“T want to run in the fields,” she says. “I want to",
+        "confidence": 0.9408,
+        "bbox": {
+          "x": 0.396371,
+          "y": 0.377255,
+          "width": 0.537903,
+          "height": 0.018343
+        },
+        "sourceElementId": "text_0009"
+      },
+      {
+        "content": "eat the green grass. I want to be a real horse!”",
+        "confidence": 0.9591,
+        "bbox": {
+          "x": 0.396371,
+          "y": 0.399266,
+          "width": 0.506855,
+          "height": 0.018954
+        },
+        "sourceElementId": "text_0010"
+      },
+      {
+        "content": "The next day Suzy moves her head. She moves her tail.",
+        "confidence": 0.9564,
+        "bbox": {
+          "x": 0.033468,
+          "y": 0.465607,
+          "width": 0.612903,
+          "height": 0.019872
+        },
+        "sourceElementId": "text_0011"
+      },
+      {
+        "content": "“Hurrah!” says Suzy. “I’m a real horse now!”",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.034677,
+          "y": 0.489147,
+          "width": 0.494355,
+          "height": 0.01926
+        },
+        "sourceElementId": "text_0012"
+      },
+      {
+        "content": "Suzy runs to the field. She eats the green grass.",
+        "confidence": 0.956,
+        "bbox": {
+          "x": 0.33629,
+          "y": 0.553653,
+          "width": 0.518548,
+          "height": 0.01926
+        },
+        "sourceElementId": "text_0013"
+      },
+      {
+        "content": "She drinks the fresh water. She is very, very happu.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.33629,
+          "y": 0.575665,
+          "width": 0.5625,
+          "height": 0.01926
+        },
+        "sourceElementId": "text_0014"
+      },
+      {
+        "content": "But that night, Suzy isn't happy.",
+        "confidence": 0.945,
+        "bbox": {
+          "x": 0.125403,
+          "y": 0.646286,
+          "width": 0.360887,
+          "height": 0.01926
+        },
+        "sourceElementId": "text_0015"
+      },
+      {
+        "content": "She’s cold. She’s wet. And she’s scared.",
+        "confidence": 0.9271,
+        "bbox": {
+          "x": 0.125403,
+          "y": 0.668909,
+          "width": 0.421774,
+          "height": 0.01498
+        },
+        "sourceElementId": "text_0016"
+      },
+      {
+        "content": "“I miss my friends.” “I miss the red",
+        "confidence": 0.9487,
+        "bbox": {
+          "x": 0.126613,
+          "y": 0.691837,
+          "width": 0.388306,
+          "height": 0.018954
+        },
+        "sourceElementId": "text_0017"
+      },
+      {
+        "content": "horse and the blue horse,” she saus.",
+        "confidence": 0.9471,
+        "bbox": {
+          "x": 0.126613,
+          "y": 0.71446,
+          "width": 0.396371,
+          "height": 0.018343
+        },
+        "sourceElementId": "text_0018"
+      },
+      {
+        "content": "in the morning, Suzy says goodbye to the green grass. z",
+        "confidence": 0.8755,
+        "bbox": {
+          "x": 0.034677,
+          "y": 0.776521,
+          "width": 0.710887,
+          "height": 0.01926
+        },
+        "sourceElementId": "text_0019"
+      },
+      {
+        "content": "She says goodbye to the fresh water.Suzygoes back to",
+        "confidence": 0.8988,
+        "bbox": {
+          "x": 0.032667,
+          "y": 0.797776,
+          "width": 0.593333,
+          "height": 0.020222
+        },
+        "sourceElementId": "text_0020"
+      },
+      {
+        "content": "“I'm a happy horse,” she says. “I can go round and round Ying “is",
+        "confidence": 0.8607,
+        "bbox": {
+          "x": 0.035887,
+          "y": 0.844696,
+          "width": 0.789113,
+          "height": 0.019872
+        },
+        "sourceElementId": "text_0022"
+      },
+      {
+        "content": "every day with my friends, the red horse and the blue horse.",
+        "confidence": 0.9095,
+        "bbox": {
+          "x": 0.032667,
+          "y": 0.86451,
+          "width": 0.664667,
+          "height": 0.023761
+        },
+        "sourceElementId": "text_0023"
+      },
+      {
+        "content": "UPSD EUE LE CEL RLP POPSET",
+        "confidence": 0.1083,
+        "bbox": {
+          "x": 0.064516,
+          "y": 0.884439,
+          "width": 0.931048,
+          "height": 0.066952
+        },
+        "sourceElementId": "text_0024"
+      },
+      {
+        "content": "Unit 15 Reading: a fairytale",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.0875,
+          "y": 0.960868,
+          "width": 0.23871,
+          "height": 0.013757
+        },
+        "sourceElementId": "text_0027"
+      }
+    ],
+    "rawOcrAudit": {
+      "rapidocr": "Skills Time!\nLesson Five\nReading\nLook at the pictures. What is the horse doing?\n2Listenandread.\n179\na red horse and in front of a blue horse.\nShe goes round and round every day.\nBut Suzy isn't happy\n\"I wanttorun in thefields,\"she says.\"I wantto\neat thegreen grass.I want to bea real horse!\"\nThe next day Suzy moves her head. She moves her tail.\n\"Hurrah!\"says Suzy.\"I'm a real horse now!\"\nSuzy runs to the field.She eats the green grass.\nShe drinks the fresh water. She is very, very happy.\nBut that night, Suzy isn'thappy.\nShe's cold. She's wet. And she's scared.\n\"Imissmy friends.\"\"I miss thered\nhorse and the blue horse,\"she says.\nIn the morning, Suzy says goodbye to the green grass.\nShe says goodbye to the fresh water.Suzygoes back to\nthe carousel.\n\"I'm a happy horse,\" she says.\"I can go round and round\nevery day with my friends, the red horse and the blue horse.\n124\nUnit15\nReadinga fairytale",
+      "tesseract_psm3": "Lesson Five\n\n1 Look at the pictures. What is the horse doing? 2 Listen and read. ©) =\n\neee\n\na ae is a carousel horse. She is behind\na red horse and in front of a blue horse.\nShe goes round and round every day.\n\n| But Suzy isn’t happu.\n“T want to run in the fields,” she says. “I want to\neat the green grass. I want to be a real horse!”\n\nThe next day Suzy moves her head. She moves her tail.\n“Hurrah!” says Suzy. “I’m a real horse now!”\n\nSuzy runs to the field. She eats the green grass.\nShe drinks the fresh water. She is very, very happu.\n\nBut that night, Suzy isn't happy.\nShe’s cold. She’s wet. And she’s scared.\n“I miss my friends.” “I miss the red\nhorse and the blue horse,” she saus.\n\nin the morning, Suzy says goodbye to the green grass. z\nShe says goodbye to the fresh water. Suzy goes back to * la\nthe carousel.\n“I'm a happy horse,” she says. “I can go round and round Ying “is\nevery day with my friends, the red horse and the blue horse.”¢ ee 3S 2\n\nUPSD EUE LE CEL RLP POPSET\n\nUnit 15 Reading: a fairytale\n\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": "",
+      "footer_passes": [
+        "EV PSDW QV RW GS UR USED Lr OaF SST Tee\nUnit 15 Reading: a fairytale",
+        "a Fe\n\nboatetaic |\n\noe MR ot ree et ad\n\nie al\n\nOO ——=—\n\nVPP SUR BE UR CSR LPO aF SSI VUE\n\nUnit 15 Reading: a fairytale"
+      ]
+    },
+    "excludedOcrNoise": [
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "eee",
+        "confidence": 0.27,
+        "bbox": {
+          "x": 0.004435,
+          "y": 0.193825,
+          "width": 0.865323,
+          "height": 0.058698
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "averageConfidence": 0.8745,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "4 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "1 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "skills_time",
+    "pagePurpose": null,
+    "readingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "headings": [
+      {
+        "id": "text_0001",
+        "content": "Skills Time!",
+        "confidence": 0.86,
+        "bbox": {
+          "x": 0.119333,
+          "y": 0.014156,
+          "width": 0.312,
+          "height": 0.040445
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0001"
+        ]
+      },
+      {
+        "id": "text_0002",
+        "content": "Lesson Five",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.036694,
+          "y": 0.075206,
+          "width": 0.15,
+          "height": 0.016509
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "id": "text_0003",
+        "content": "Reading",
+        "confidence": 0.8715,
+        "bbox": {
+          "x": 0.038,
+          "y": 0.122346,
+          "width": 0.094667,
+          "height": 0.023761
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0003"
+        ]
+      },
+      {
+        "id": "text_0026",
+        "content": "Unit 15",
+        "confidence": 0.7854,
+        "bbox": {
+          "x": 0.084667,
+          "y": 0.95905,
+          "width": 0.075333,
+          "height": 0.015167
+        },
+        "repaired": true,
+        "sourceElementIds": [
+          "text_0026"
+        ]
+      },
+      {
+        "id": "text_0027",
+        "content": "Unit 15 Reading: a fairytale",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.0875,
+          "y": 0.960868,
+          "width": 0.23871,
+          "height": 0.013757
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0027"
+        ]
+      }
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Skills Time!",
+        "originalContent": "Skills Time!",
+        "confidence": 0.86,
+        "bbox": {
+          "x": 0.119333,
+          "y": 0.014156,
+          "width": 0.312,
+          "height": 0.040445
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Lesson Five",
+        "originalContent": "Lesson Five",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.036694,
+          "y": 0.075206,
+          "width": 0.15,
+          "height": 0.016509
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Lesson Five",
+            "confidence": 0.8861
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Lesson Five",
+            "confidence": 0.955
+          }
+        ]
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Reading",
+        "originalContent": "Reading",
+        "confidence": 0.8715,
+        "bbox": {
+          "x": 0.038,
+          "y": 0.122346,
+          "width": 0.094667,
+          "height": 0.023761
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0004",
+        "type": "instruction",
+        "content": "1 Look at the pictures. What is the horse doing? 2 Listen and read. ©) =",
+        "originalContent": "1 Look at the pictures. What is the horse doing? 2 Listen and read. ©) =",
+        "confidence": 0.8794,
+        "bbox": {
+          "x": 0.029839,
+          "y": 0.159584,
+          "width": 0.922984,
+          "height": 0.023846
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Look at the pictures. What is the horse doing? 2 Listen and read. ©) =",
+            "confidence": 0.8794
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Look at the pictures. What is the horse doing?",
+            "confidence": 0.8671
+          },
+          {
+            "engine": "rapidocr",
+            "content": "2Listenandread.",
+            "confidence": 0.8982
+          }
+        ]
+      },
+      {
+        "id": "text_0006",
+        "type": "paragraph",
+        "content": "a red horse and in front of a blue horse.",
+        "originalContent": "a red horse and in front of a blue horse.",
+        "confidence": 0.956,
+        "bbox": {
+          "x": 0.072581,
+          "y": 0.266279,
+          "width": 0.442339,
+          "height": 0.015897
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "a ae is a carousel horse. She is behind",
+            "confidence": 0.8067
+          },
+          {
+            "engine": "rapidocr",
+            "content": "a red horse and in front of a blue horse.",
+            "confidence": 0.8872
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "a red horse and in front of a blue horse.",
+            "confidence": 0.956
+          }
+        ]
+      },
+      {
+        "id": "text_0007",
+        "type": "sentence",
+        "content": "She goes round and round every day.",
+        "originalContent": "She goes round and round every day.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.032258,
+          "y": 0.28982,
+          "width": 0.41371,
+          "height": 0.01926
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "She goes round and round every day.",
+            "confidence": 0.8983
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "She goes round and round every day.",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "But Suzy isn't happy",
+        "originalContent": "But Suzy isn't happy",
+        "confidence": 0.8871,
+        "bbox": {
+          "x": 0.394,
+          "y": 0.351365,
+          "width": 0.234667,
+          "height": 0.02275
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "But Suzy isn't happy",
+            "confidence": 0.8871
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| But Suzy isn’t happu.",
+            "confidence": 0.718
+          }
+        ]
+      },
+      {
+        "id": "text_0009",
+        "type": "paragraph",
+        "content": "\"T want to run in the fields,\" she says. \"I want to",
+        "originalContent": "“T want to run in the fields,” she says. “I want to",
+        "confidence": 0.9408,
+        "bbox": {
+          "x": 0.396371,
+          "y": 0.377255,
+          "width": 0.537903,
+          "height": 0.018343
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"I wanttorun in thefields,\"she says.\"I wantto",
+            "confidence": 0.8698
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "“T want to run in the fields,” she says. “I want to",
+            "confidence": 0.9408
+          }
+        ]
+      },
+      {
+        "id": "text_0010",
+        "type": "paragraph",
+        "content": "eat the green grass. I want to be a real horse!\"",
+        "originalContent": "eat the green grass. I want to be a real horse!”",
+        "confidence": 0.9591,
+        "bbox": {
+          "x": 0.396371,
+          "y": 0.399266,
+          "width": 0.506855,
+          "height": 0.018954
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "eat thegreen grass.I want to bea real horse!\"",
+            "confidence": 0.8951
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "eat the green grass. I want to be a real horse!”",
+            "confidence": 0.9591
+          }
+        ]
+      },
+      {
+        "id": "text_0011",
+        "type": "paragraph",
+        "content": "The next day Suzy moves her head. She moves her tail.",
+        "originalContent": "The next day Suzy moves her head. She moves her tail.",
+        "confidence": 0.9564,
+        "bbox": {
+          "x": 0.033468,
+          "y": 0.465607,
+          "width": 0.612903,
+          "height": 0.019872
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "The next day Suzy moves her head. She moves her tail.",
+            "confidence": 0.886
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "The next day Suzy moves her head. She moves her tail.",
+            "confidence": 0.9564
+          }
+        ]
+      },
+      {
+        "id": "text_0012",
+        "type": "paragraph",
+        "content": "\"Hurrah!\" says Suzy. \"I'm a real horse now!\"",
+        "originalContent": "“Hurrah!” says Suzy. “I’m a real horse now!”",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.034677,
+          "y": 0.489147,
+          "width": 0.494355,
+          "height": 0.01926
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"Hurrah!\"says Suzy.\"I'm a real horse now!\"",
+            "confidence": 0.8442
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "“Hurrah!” says Suzy. “I’m a real horse now!”",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "id": "text_0013",
+        "type": "paragraph",
+        "content": "Suzy runs to the field. She eats the green grass.",
+        "originalContent": "Suzy runs to the field. She eats the green grass.",
+        "confidence": 0.956,
+        "bbox": {
+          "x": 0.33629,
+          "y": 0.553653,
+          "width": 0.518548,
+          "height": 0.01926
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Suzy runs to the field.She eats the green grass.",
+            "confidence": 0.8988
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Suzy runs to the field. She eats the green grass.",
+            "confidence": 0.956
+          }
+        ]
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "She drinks the fresh water. She is very, very happu.",
+        "originalContent": "She drinks the fresh water. She is very, very happu.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.33629,
+          "y": 0.575665,
+          "width": 0.5625,
+          "height": 0.01926
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "She drinks the fresh water. She is very, very happy.",
+            "confidence": 0.9145
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "She drinks the fresh water. She is very, very happu.",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "id": "text_0015",
+        "type": "paragraph",
+        "content": "But that night, Suzy isn't happy.",
+        "originalContent": "But that night, Suzy isn't happy.",
+        "confidence": 0.945,
+        "bbox": {
+          "x": 0.125403,
+          "y": 0.646286,
+          "width": 0.360887,
+          "height": 0.01926
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "But that night, Suzy isn'thappy.",
+            "confidence": 0.8719
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "But that night, Suzy isn't happy.",
+            "confidence": 0.945
+          }
+        ]
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "She's cold. She's wet. And she's scared.",
+        "originalContent": "She’s cold. She’s wet. And she’s scared.",
+        "confidence": 0.9271,
+        "bbox": {
+          "x": 0.125403,
+          "y": 0.668909,
+          "width": 0.421774,
+          "height": 0.01498
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "She's cold. She's wet. And she's scared.",
+            "confidence": 0.9031
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "She’s cold. She’s wet. And she’s scared.",
+            "confidence": 0.9271
+          }
+        ]
+      },
+      {
+        "id": "text_0017",
+        "type": "paragraph",
+        "content": "\"I miss my friends.\" \"I miss the red",
+        "originalContent": "“I miss my friends.” “I miss the red",
+        "confidence": 0.9487,
+        "bbox": {
+          "x": 0.126613,
+          "y": 0.691837,
+          "width": 0.388306,
+          "height": 0.018954
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"Imissmy friends.\"\"I miss thered",
+            "confidence": 0.8897
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "“I miss my friends.” “I miss the red",
+            "confidence": 0.9487
+          }
+        ]
+      },
+      {
+        "id": "text_0018",
+        "type": "paragraph",
+        "content": "horse and the blue horse,\" she saus.",
+        "originalContent": "horse and the blue horse,” she saus.",
+        "confidence": 0.9471,
+        "bbox": {
+          "x": 0.126613,
+          "y": 0.71446,
+          "width": 0.396371,
+          "height": 0.018343
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "horse and the blue horse,\"she says.",
+            "confidence": 0.8512
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "horse and the blue horse,” she saus.",
+            "confidence": 0.9471
+          }
+        ]
+      },
+      {
+        "id": "text_0019",
+        "type": "paragraph",
+        "content": "in the morning, Suzy says goodbye to the green grass. z",
+        "originalContent": "in the morning, Suzy says goodbye to the green grass. z",
+        "confidence": 0.8755,
+        "bbox": {
+          "x": 0.034677,
+          "y": 0.776521,
+          "width": 0.710887,
+          "height": 0.01926
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "In the morning, Suzy says goodbye to the green grass.",
+            "confidence": 0.8778
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "in the morning, Suzy says goodbye to the green grass. z",
+            "confidence": 0.8755
+          }
+        ]
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "She says goodbye to the fresh water. Suzy goes back to",
+        "originalContent": "She says goodbye to the fresh water.Suzygoes back to",
+        "confidence": 0.8988,
+        "bbox": {
+          "x": 0.032667,
+          "y": 0.797776,
+          "width": 0.593333,
+          "height": 0.020222
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "She says goodbye to the fresh water. Suzy goes back to * la",
+            "confidence": 0.87
+          },
+          {
+            "engine": "rapidocr",
+            "content": "She says goodbye to the fresh water.Suzygoes back to",
+            "confidence": 0.8988
+          }
+        ]
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "the carousel.",
+        "originalContent": "the carousel.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.034677,
+          "y": 0.823601,
+          "width": 0.135887,
+          "height": 0.014063
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "the carousel.",
+            "confidence": 0.8781
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "the carousel.",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0022",
+        "type": "paragraph",
+        "content": "\"I'm a happy horse,\" she says. \"I can go round and round Ying \"is",
+        "originalContent": "“I'm a happy horse,” she says. “I can go round and round Ying “is",
+        "confidence": 0.8607,
+        "bbox": {
+          "x": 0.035887,
+          "y": 0.844696,
+          "width": 0.789113,
+          "height": 0.019872
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"I'm a happy horse,\" she says.\"I can go round and round",
+            "confidence": 0.8719
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "“I'm a happy horse,” she says. “I can go round and round Ying “is",
+            "confidence": 0.8607
+          }
+        ]
+      },
+      {
+        "id": "text_0023",
+        "type": "paragraph",
+        "content": "every day with my friends, the red horse and the blue horse.",
+        "originalContent": "every day with my friends, the red horse and the blue horse.",
+        "confidence": 0.9095,
+        "bbox": {
+          "x": 0.032667,
+          "y": 0.86451,
+          "width": 0.664667,
+          "height": 0.023761
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "every day with my friends, the red horse and the blue horse.”¢ ee 3S 2",
+            "confidence": 0.7647
+          },
+          {
+            "engine": "rapidocr",
+            "content": "every day with my friends, the red horse and the blue horse.",
+            "confidence": 0.9095
+          }
+        ]
+      },
+      {
+        "id": "text_0024",
+        "type": "paragraph",
+        "content": "UPSD EUE LE CEL RLP POPSET",
+        "originalContent": "UPSD EUE LE CEL RLP POPSET",
+        "confidence": 0.1083,
+        "bbox": {
+          "x": 0.064516,
+          "y": 0.884439,
+          "width": 0.931048,
+          "height": 0.066952
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0026",
+        "type": "heading",
+        "content": "Unit 15",
+        "originalContent": "Unit15",
+        "confidence": 0.7854,
+        "bbox": {
+          "x": 0.084667,
+          "y": 0.95905,
+          "width": 0.075333,
+          "height": 0.015167
+        },
+        "repaired": true,
+        "repairNotes": [
+          "heading"
+        ],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0027",
+        "type": "heading",
+        "content": "Unit 15 Reading: a fairytale",
+        "originalContent": "Unit 15 Reading: a fairytale",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.0875,
+          "y": 0.960868,
+          "width": 0.23871,
+          "height": 0.013757
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Readinga fairytale",
+            "confidence": 0.8656
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Unit 15 Reading: a fairytale",
+            "confidence": 0.9
+          }
+        ]
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Skills Time!",
+      "Lesson Five",
+      "Reading",
+      "1 Look at the pictures. What is the horse doing? 2 Listen and read. ©) =",
+      "a red horse and in front of a blue horse.",
+      "She goes round and round every day.",
+      "But Suzy isn't happy",
+      "\"T want to run in the fields,\" she says. \"I want to",
+      "eat the green grass. I want to be a real horse!\"",
+      "The next day Suzy moves her head. She moves her tail.",
+      "\"Hurrah!\" says Suzy. \"I'm a real horse now!\"",
+      "Suzy runs to the field. She eats the green grass.",
+      "She drinks the fresh water. She is very, very happu.",
+      "But that night, Suzy isn't happy.",
+      "She's cold. She's wet. And she's scared.",
+      "\"I miss my friends.\" \"I miss the red",
+      "horse and the blue horse,\" she saus.",
+      "in the morning, Suzy says goodbye to the green grass. z",
+      "She says goodbye to the fresh water. Suzy goes back to",
+      "the carousel.",
+      "\"I'm a happy horse,\" she says. \"I can go round and round Ying \"is",
+      "every day with my friends, the red horse and the blue horse.",
+      "UPSD EUE LE CEL RLP POPSET",
+      "Unit 15",
+      "Unit 15 Reading: a fairytale"
+    ],
+    "paragraphs": [
+      {
+        "id": "text_0006",
+        "content": "a red horse and in front of a blue horse.",
+        "confidence": 0.956,
+        "bbox": {
+          "x": 0.072581,
+          "y": 0.266279,
+          "width": 0.442339,
+          "height": 0.015897
+        },
+        "sourceElementIds": [
+          "text_0006"
+        ]
+      },
+      {
+        "id": "text_0009",
+        "content": "\"T want to run in the fields,\" she says. \"I want to",
+        "confidence": 0.9408,
+        "bbox": {
+          "x": 0.396371,
+          "y": 0.377255,
+          "width": 0.537903,
+          "height": 0.018343
+        },
+        "sourceElementIds": [
+          "text_0009"
+        ]
+      },
+      {
+        "id": "text_0010",
+        "content": "eat the green grass. I want to be a real horse!\"",
+        "confidence": 0.9591,
+        "bbox": {
+          "x": 0.396371,
+          "y": 0.399266,
+          "width": 0.506855,
+          "height": 0.018954
+        },
+        "sourceElementIds": [
+          "text_0010"
+        ]
+      },
+      {
+        "id": "text_0011",
+        "content": "The next day Suzy moves her head. She moves her tail.",
+        "confidence": 0.9564,
+        "bbox": {
+          "x": 0.033468,
+          "y": 0.465607,
+          "width": 0.612903,
+          "height": 0.019872
+        },
+        "sourceElementIds": [
+          "text_0011"
+        ]
+      },
+      {
+        "id": "text_0012",
+        "content": "\"Hurrah!\" says Suzy. \"I'm a real horse now!\"",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.034677,
+          "y": 0.489147,
+          "width": 0.494355,
+          "height": 0.01926
+        },
+        "sourceElementIds": [
+          "text_0012"
+        ]
+      },
+      {
+        "id": "text_0013",
+        "content": "Suzy runs to the field. She eats the green grass.",
+        "confidence": 0.956,
+        "bbox": {
+          "x": 0.33629,
+          "y": 0.553653,
+          "width": 0.518548,
+          "height": 0.01926
+        },
+        "sourceElementIds": [
+          "text_0013"
+        ]
+      },
+      {
+        "id": "text_0015",
+        "content": "But that night, Suzy isn't happy.",
+        "confidence": 0.945,
+        "bbox": {
+          "x": 0.125403,
+          "y": 0.646286,
+          "width": 0.360887,
+          "height": 0.01926
+        },
+        "sourceElementIds": [
+          "text_0015"
+        ]
+      },
+      {
+        "id": "text_0017",
+        "content": "\"I miss my friends.\" \"I miss the red",
+        "confidence": 0.9487,
+        "bbox": {
+          "x": 0.126613,
+          "y": 0.691837,
+          "width": 0.388306,
+          "height": 0.018954
+        },
+        "sourceElementIds": [
+          "text_0017"
+        ]
+      },
+      {
+        "id": "text_0018",
+        "content": "horse and the blue horse,\" she saus.",
+        "confidence": 0.9471,
+        "bbox": {
+          "x": 0.126613,
+          "y": 0.71446,
+          "width": 0.396371,
+          "height": 0.018343
+        },
+        "sourceElementIds": [
+          "text_0018"
+        ]
+      },
+      {
+        "id": "text_0019",
+        "content": "in the morning, Suzy says goodbye to the green grass. z",
+        "confidence": 0.8755,
+        "bbox": {
+          "x": 0.034677,
+          "y": 0.776521,
+          "width": 0.710887,
+          "height": 0.01926
+        },
+        "sourceElementIds": [
+          "text_0019"
+        ]
+      },
+      {
+        "id": "text_0022",
+        "content": "\"I'm a happy horse,\" she says. \"I can go round and round Ying \"is",
+        "confidence": 0.8607,
+        "bbox": {
+          "x": 0.035887,
+          "y": 0.844696,
+          "width": 0.789113,
+          "height": 0.019872
+        },
+        "sourceElementIds": [
+          "text_0022"
+        ]
+      },
+      {
+        "id": "text_0023",
+        "content": "every day with my friends, the red horse and the blue horse.",
+        "confidence": 0.9095,
+        "bbox": {
+          "x": 0.032667,
+          "y": 0.86451,
+          "width": 0.664667,
+          "height": 0.023761
+        },
+        "sourceElementIds": [
+          "text_0023"
+        ]
+      },
+      {
+        "id": "text_0024",
+        "content": "UPSD EUE LE CEL RLP POPSET",
+        "confidence": 0.1083,
+        "bbox": {
+          "x": 0.064516,
+          "y": 0.884439,
+          "width": 0.931048,
+          "height": 0.066952
+        },
+        "sourceElementIds": [
+          "text_0024"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "text_0007",
+        "content": "She goes round and round every day.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.032258,
+          "y": 0.28982,
+          "width": 0.41371,
+          "height": 0.01926
+        },
+        "sourceElementIds": [
+          "text_0007"
+        ]
+      },
+      {
+        "id": "text_0014",
+        "content": "She drinks the fresh water. She is very, very happu.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.33629,
+          "y": 0.575665,
+          "width": 0.5625,
+          "height": 0.01926
+        },
+        "sourceElementIds": [
+          "text_0014"
+        ]
+      },
+      {
+        "id": "text_0016",
+        "content": "She's cold. She's wet. And she's scared.",
+        "confidence": 0.9271,
+        "bbox": {
+          "x": 0.125403,
+          "y": 0.668909,
+          "width": 0.421774,
+          "height": 0.01498
+        },
+        "sourceElementIds": [
+          "text_0016"
+        ]
+      },
+      {
+        "id": "text_0020",
+        "content": "She says goodbye to the fresh water. Suzy goes back to",
+        "confidence": 0.8988,
+        "bbox": {
+          "x": 0.032667,
+          "y": 0.797776,
+          "width": 0.593333,
+          "height": 0.020222
+        },
+        "sourceElementIds": [
+          "text_0020"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "carousel",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.96,
+        "sourceElementIds": [
+          "text_0021"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      }
+    ],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "lines": [
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "She goes round and round every day.",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.032258,
+              "y": 0.28982,
+              "width": 0.41371,
+              "height": 0.01926
+            },
+            "sourceElementId": "text_0007",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "She drinks the fresh water.",
+            "confidence": 0.95,
+            "bbox": {
+              "x": 0.33629,
+              "y": 0.575665,
+              "width": 0.5625,
+              "height": 0.01926
+            },
+            "sourceElementId": "text_0014",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "She is very, very happu.",
+            "confidence": 0.95,
+            "bbox": {
+              "x": 0.33629,
+              "y": 0.575665,
+              "width": 0.5625,
+              "height": 0.01926
+            },
+            "sourceElementId": "text_0014",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "But that night, Suzy isn't happy.",
+            "confidence": 0.945,
+            "bbox": {
+              "x": 0.125403,
+              "y": 0.646286,
+              "width": 0.360887,
+              "height": 0.01926
+            },
+            "sourceElementId": "text_0015",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "She's cold.",
+            "confidence": 0.9271,
+            "bbox": {
+              "x": 0.125403,
+              "y": 0.668909,
+              "width": 0.421774,
+              "height": 0.01498
+            },
+            "sourceElementId": "text_0016",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": [
+              "normalized"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "She's wet. And she's scared.",
+            "confidence": 0.9271,
+            "bbox": {
+              "x": 0.125403,
+              "y": 0.668909,
+              "width": 0.421774,
+              "height": 0.01498
+            },
+            "sourceElementId": "text_0016",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": [
+              "normalized"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "She says goodbye to the fresh water. Suzy goes back to",
+            "confidence": 0.8988,
+            "bbox": {
+              "x": 0.032667,
+              "y": 0.797776,
+              "width": 0.593333,
+              "height": 0.020222
+            },
+            "sourceElementId": "text_0020",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "\"I'm a happy horse,\" she says. \"I can go round and round Ying \"is",
+            "confidence": 0.8607,
+            "bbox": {
+              "x": 0.035887,
+              "y": 0.844696,
+              "width": 0.789113,
+              "height": 0.019872
+            },
+            "sourceElementId": "text_0022",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": [
+              "normalized"
+            ]
+          }
+        ],
+        "confidence": 0.9273375
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "listening_activity",
+        "instruction": "Look at the pictures. What is the horse doing? 2 Listen and read.",
+        "items": [],
+        "prompts": [],
+        "blanks": [],
+        "choices": [],
+        "matchingPairs": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "sourceElementIds": [
+          "text_0004"
+        ],
+        "confidence": 0.8794,
+        "repairNotes": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [
+      {
+        "lines": [
+          {
+            "content": "a red horse and in front of a blue horse.",
+            "confidence": 0.956,
+            "bbox": {
+              "x": 0.072581,
+              "y": 0.266279,
+              "width": 0.442339,
+              "height": 0.015897
+            },
+            "sourceElementId": "text_0006",
+            "repairNotes": []
+          },
+          {
+            "content": "She goes round and round every day.",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.032258,
+              "y": 0.28982,
+              "width": 0.41371,
+              "height": 0.01926
+            },
+            "sourceElementId": "text_0007",
+            "repairNotes": []
+          },
+          {
+            "content": "But Suzy isn't happy",
+            "confidence": 0.8871,
+            "bbox": {
+              "x": 0.394,
+              "y": 0.351365,
+              "width": 0.234667,
+              "height": 0.02275
+            },
+            "sourceElementId": "text_0008",
+            "repairNotes": []
+          },
+          {
+            "content": "\"T want to run in the fields,\" she says. \"I want to",
+            "confidence": 0.9408,
+            "bbox": {
+              "x": 0.396371,
+              "y": 0.377255,
+              "width": 0.537903,
+              "height": 0.018343
+            },
+            "sourceElementId": "text_0009",
+            "repairNotes": [
+              "normalized"
+            ]
+          },
+          {
+            "content": "eat the green grass. I want to be a real horse!\"",
+            "confidence": 0.9591,
+            "bbox": {
+              "x": 0.396371,
+              "y": 0.399266,
+              "width": 0.506855,
+              "height": 0.018954
+            },
+            "sourceElementId": "text_0010",
+            "repairNotes": [
+              "normalized"
+            ]
+          },
+          {
+            "content": "The next day Suzy moves her head. She moves her tail.",
+            "confidence": 0.9564,
+            "bbox": {
+              "x": 0.033468,
+              "y": 0.465607,
+              "width": 0.612903,
+              "height": 0.019872
+            },
+            "sourceElementId": "text_0011",
+            "repairNotes": []
+          },
+          {
+            "content": "\"Hurrah!\" says Suzy. \"I'm a real horse now!\"",
+            "confidence": 0.95,
+            "bbox": {
+              "x": 0.034677,
+              "y": 0.489147,
+              "width": 0.494355,
+              "height": 0.01926
+            },
+            "sourceElementId": "text_0012",
+            "repairNotes": [
+              "normalized"
+            ]
+          },
+          {
+            "content": "Suzy runs to the field. She eats the green grass.",
+            "confidence": 0.956,
+            "bbox": {
+              "x": 0.33629,
+              "y": 0.553653,
+              "width": 0.518548,
+              "height": 0.01926
+            },
+            "sourceElementId": "text_0013",
+            "repairNotes": []
+          },
+          {
+            "content": "She drinks the fresh water. She is very, very happu.",
+            "confidence": 0.95,
+            "bbox": {
+              "x": 0.33629,
+              "y": 0.575665,
+              "width": 0.5625,
+              "height": 0.01926
+            },
+            "sourceElementId": "text_0014",
+            "repairNotes": []
+          },
+          {
+            "content": "But that night, Suzy isn't happy.",
+            "confidence": 0.945,
+            "bbox": {
+              "x": 0.125403,
+              "y": 0.646286,
+              "width": 0.360887,
+              "height": 0.01926
+            },
+            "sourceElementId": "text_0015",
+            "repairNotes": []
+          },
+          {
+            "content": "She's cold. She's wet. And she's scared.",
+            "confidence": 0.9271,
+            "bbox": {
+              "x": 0.125403,
+              "y": 0.668909,
+              "width": 0.421774,
+              "height": 0.01498
+            },
+            "sourceElementId": "text_0016",
+            "repairNotes": [
+              "normalized"
+            ]
+          },
+          {
+            "content": "\"I miss my friends.\" \"I miss the red",
+            "confidence": 0.9487,
+            "bbox": {
+              "x": 0.126613,
+              "y": 0.691837,
+              "width": 0.388306,
+              "height": 0.018954
+            },
+            "sourceElementId": "text_0017",
+            "repairNotes": [
+              "normalized"
+            ]
+          },
+          {
+            "content": "horse and the blue horse,\" she saus.",
+            "confidence": 0.9471,
+            "bbox": {
+              "x": 0.126613,
+              "y": 0.71446,
+              "width": 0.396371,
+              "height": 0.018343
+            },
+            "sourceElementId": "text_0018",
+            "repairNotes": [
+              "normalized"
+            ]
+          },
+          {
+            "content": "in the morning, Suzy says goodbye to the green grass. z",
+            "confidence": 0.8755,
+            "bbox": {
+              "x": 0.034677,
+              "y": 0.776521,
+              "width": 0.710887,
+              "height": 0.01926
+            },
+            "sourceElementId": "text_0019",
+            "repairNotes": []
+          },
+          {
+            "content": "She says goodbye to the fresh water. Suzy goes back to",
+            "confidence": 0.8988,
+            "bbox": {
+              "x": 0.032667,
+              "y": 0.797776,
+              "width": 0.593333,
+              "height": 0.020222
+            },
+            "sourceElementId": "text_0020",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "\"I'm a happy horse,\" she says. \"I can go round and round Ying \"is",
+            "confidence": 0.8607,
+            "bbox": {
+              "x": 0.035887,
+              "y": 0.844696,
+              "width": 0.789113,
+              "height": 0.019872
+            },
+            "sourceElementId": "text_0022",
+            "repairNotes": [
+              "normalized"
+            ]
+          },
+          {
+            "content": "every day with my friends, the red horse and the blue horse.",
+            "confidence": 0.9095,
+            "bbox": {
+              "x": 0.032667,
+              "y": 0.86451,
+              "width": 0.664667,
+              "height": 0.023761
+            },
+            "sourceElementId": "text_0023",
+            "repairNotes": []
+          },
+          {
+            "content": "UPSD EUE LE CEL RLP POPSET",
+            "confidence": 0.1083,
+            "bbox": {
+              "x": 0.064516,
+              "y": 0.884439,
+              "width": 0.931048,
+              "height": 0.066952
+            },
+            "sourceElementId": "text_0024",
+            "repairNotes": []
+          }
+        ],
+        "confidence": 0.8861105263157893
+      }
+    ],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "\"Hurrah!\" says Suzy. \"I'm a real horse now!\"",
+          "Suzy runs to the field. She eats the green grass.",
+          "She drinks the fresh water. She is very, very happu.",
+          "But that night, Suzy isn't happy.",
+          "She's cold. She's wet. And she's scared.",
+          "\"I miss my friends.\" \"I miss the red",
+          "horse and the blue horse,\" she saus."
+        ],
+        "position": {
+          "x": 0.014677,
+          "y": 0.469147,
+          "width": 0.904113,
+          "height": 0.283656
+        },
+        "textElementIds": [
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "nonEducationalText": [],
+    "excludedGarbage": [
+      {
+        "id": "text_0005",
+        "content": "179",
+        "originalContent": "179",
+        "confidence": 0.7446
+      },
+      {
+        "id": "text_0025",
+        "content": "124",
+        "originalContent": "124",
+        "confidence": 0.7205
+      }
+    ]
+  },
+  "learningContent": {
+    "pageType": "skills_time",
+    "title": "Skills Time!",
+    "learningObjectives": [
+      "Study content: Reading",
+      "Study content: Unit 15 Reading: a fairytale"
+    ],
+    "targetVocabulary": [
+      {
+        "word": "carousel",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.96,
+        "sourceElementIds": [
+          "text_0021"
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "She's cold.",
+        "meaning": null,
+        "confidence": 0.9271,
+        "sourceElementIds": [
+          "text_0016"
+        ]
+      },
+      {
+        "expression": "She's wet. And she's scared.",
+        "meaning": null,
+        "confidence": 0.9271,
+        "sourceElementIds": [
+          "text_0016"
+        ]
+      }
+    ],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "She goes round and round every day.",
+            "confidence": 0.96
+          },
+          {
+            "speaker": null,
+            "content": "She drinks the fresh water.",
+            "confidence": 0.95
+          },
+          {
+            "speaker": null,
+            "content": "She is very, very happu.",
+            "confidence": 0.95
+          },
+          {
+            "speaker": null,
+            "content": "But that night, Suzy isn't happy.",
+            "confidence": 0.945
+          },
+          {
+            "speaker": null,
+            "content": "She's cold.",
+            "confidence": 0.9271
+          },
+          {
+            "speaker": null,
+            "content": "She's wet. And she's scared.",
+            "confidence": 0.9271
+          },
+          {
+            "speaker": null,
+            "content": "She says goodbye to the fresh water. Suzy goes back to",
+            "confidence": 0.8988
+          },
+          {
+            "speaker": null,
+            "content": "\"I'm a happy horse,\" she says. \"I can go round and round Ying \"is",
+            "confidence": 0.8607
+          }
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "title": "Skills Time!",
+        "text": "a red horse and in front of a blue horse.",
+        "confidence": 0.956,
+        "sourceElementIds": [
+          "text_0006"
+        ]
+      },
+      {
+        "title": "Skills Time!",
+        "text": "\"T want to run in the fields,\" she says. \"I want to",
+        "confidence": 0.9408,
+        "sourceElementIds": [
+          "text_0009"
+        ]
+      },
+      {
+        "title": "Skills Time!",
+        "text": "eat the green grass. I want to be a real horse!\"",
+        "confidence": 0.9591,
+        "sourceElementIds": [
+          "text_0010"
+        ]
+      },
+      {
+        "title": "Skills Time!",
+        "text": "The next day Suzy moves her head. She moves her tail.",
+        "confidence": 0.9564,
+        "sourceElementIds": [
+          "text_0011"
+        ]
+      },
+      {
+        "title": "Skills Time!",
+        "text": "\"Hurrah!\" says Suzy. \"I'm a real horse now!\"",
+        "confidence": 0.95,
+        "sourceElementIds": [
+          "text_0012"
+        ]
+      },
+      {
+        "title": "Skills Time!",
+        "text": "Suzy runs to the field. She eats the green grass.",
+        "confidence": 0.956,
+        "sourceElementIds": [
+          "text_0013"
+        ]
+      },
+      {
+        "title": "Skills Time!",
+        "text": "in the morning, Suzy says goodbye to the green grass. z",
+        "confidence": 0.8755,
+        "sourceElementIds": [
+          "text_0019"
+        ]
+      },
+      {
+        "title": "Skills Time!",
+        "text": "\"I'm a happy horse,\" she says. \"I can go round and round Ying \"is",
+        "confidence": 0.8607,
+        "sourceElementIds": [
+          "text_0022"
+        ]
+      },
+      {
+        "title": "Skills Time!",
+        "text": "every day with my friends, the red horse and the blue horse.",
+        "confidence": 0.9095,
+        "sourceElementIds": [
+          "text_0023"
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "listening_activity",
+        "instruction": "Look at the pictures. What is the horse doing? 2 Listen and read.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8794,
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      }
+    ],
+    "pronunciation": [],
+    "listening": [
+      {
+        "exerciseNumber": "1",
+        "instruction": "Look at the pictures. What is the horse doing? 2 Listen and read.",
+        "type": "listening_activity",
+        "confidence": 0.8794
+      }
+    ],
+    "speaking": [
+      {
+        "exerciseNumber": "1",
+        "instruction": "Look at the pictures. What is the horse doing? 2 Listen and read.",
+        "type": "listening_activity",
+        "confidence": 0.8794
+      }
+    ],
+    "writing": [],
+    "songsOrPoems": [
+      {
+        "lines": [
+          {
+            "content": "a red horse and in front of a blue horse.",
+            "confidence": 0.956,
+            "bbox": {
+              "x": 0.072581,
+              "y": 0.266279,
+              "width": 0.442339,
+              "height": 0.015897
+            },
+            "sourceElementId": "text_0006",
+            "repairNotes": []
+          },
+          {
+            "content": "She goes round and round every day.",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.032258,
+              "y": 0.28982,
+              "width": 0.41371,
+              "height": 0.01926
+            },
+            "sourceElementId": "text_0007",
+            "repairNotes": []
+          },
+          {
+            "content": "But Suzy isn't happy",
+            "confidence": 0.8871,
+            "bbox": {
+              "x": 0.394,
+              "y": 0.351365,
+              "width": 0.234667,
+              "height": 0.02275
+            },
+            "sourceElementId": "text_0008",
+            "repairNotes": []
+          },
+          {
+            "content": "\"T want to run in the fields,\" she says. \"I want to",
+            "confidence": 0.9408,
+            "bbox": {
+              "x": 0.396371,
+              "y": 0.377255,
+              "width": 0.537903,
+              "height": 0.018343
+            },
+            "sourceElementId": "text_0009",
+            "repairNotes": [
+              "normalized"
+            ]
+          },
+          {
+            "content": "eat the green grass. I want to be a real horse!\"",
+            "confidence": 0.9591,
+            "bbox": {
+              "x": 0.396371,
+              "y": 0.399266,
+              "width": 0.506855,
+              "height": 0.018954
+            },
+            "sourceElementId": "text_0010",
+            "repairNotes": [
+              "normalized"
+            ]
+          },
+          {
+            "content": "The next day Suzy moves her head. She moves her tail.",
+            "confidence": 0.9564,
+            "bbox": {
+              "x": 0.033468,
+              "y": 0.465607,
+              "width": 0.612903,
+              "height": 0.019872
+            },
+            "sourceElementId": "text_0011",
+            "repairNotes": []
+          },
+          {
+            "content": "\"Hurrah!\" says Suzy. \"I'm a real horse now!\"",
+            "confidence": 0.95,
+            "bbox": {
+              "x": 0.034677,
+              "y": 0.489147,
+              "width": 0.494355,
+              "height": 0.01926
+            },
+            "sourceElementId": "text_0012",
+            "repairNotes": [
+              "normalized"
+            ]
+          },
+          {
+            "content": "Suzy runs to the field. She eats the green grass.",
+            "confidence": 0.956,
+            "bbox": {
+              "x": 0.33629,
+              "y": 0.553653,
+              "width": 0.518548,
+              "height": 0.01926
+            },
+            "sourceElementId": "text_0013",
+            "repairNotes": []
+          },
+          {
+            "content": "She drinks the fresh water. She is very, very happu.",
+            "confidence": 0.95,
+            "bbox": {
+              "x": 0.33629,
+              "y": 0.575665,
+              "width": 0.5625,
+              "height": 0.01926
+            },
+            "sourceElementId": "text_0014",
+            "repairNotes": []
+          },
+          {
+            "content": "But that night, Suzy isn't happy.",
+            "confidence": 0.945,
+            "bbox": {
+              "x": 0.125403,
+              "y": 0.646286,
+              "width": 0.360887,
+              "height": 0.01926
+            },
+            "sourceElementId": "text_0015",
+            "repairNotes": []
+          },
+          {
+            "content": "She's cold. She's wet. And she's scared.",
+            "confidence": 0.9271,
+            "bbox": {
+              "x": 0.125403,
+              "y": 0.668909,
+              "width": 0.421774,
+              "height": 0.01498
+            },
+            "sourceElementId": "text_0016",
+            "repairNotes": [
+              "normalized"
+            ]
+          },
+          {
+            "content": "\"I miss my friends.\" \"I miss the red",
+            "confidence": 0.9487,
+            "bbox": {
+              "x": 0.126613,
+              "y": 0.691837,
+              "width": 0.388306,
+              "height": 0.018954
+            },
+            "sourceElementId": "text_0017",
+            "repairNotes": [
+              "normalized"
+            ]
+          },
+          {
+            "content": "horse and the blue horse,\" she saus.",
+            "confidence": 0.9471,
+            "bbox": {
+              "x": 0.126613,
+              "y": 0.71446,
+              "width": 0.396371,
+              "height": 0.018343
+            },
+            "sourceElementId": "text_0018",
+            "repairNotes": [
+              "normalized"
+            ]
+          },
+          {
+            "content": "in the morning, Suzy says goodbye to the green grass. z",
+            "confidence": 0.8755,
+            "bbox": {
+              "x": 0.034677,
+              "y": 0.776521,
+              "width": 0.710887,
+              "height": 0.01926
+            },
+            "sourceElementId": "text_0019",
+            "repairNotes": []
+          },
+          {
+            "content": "She says goodbye to the fresh water. Suzy goes back to",
+            "confidence": 0.8988,
+            "bbox": {
+              "x": 0.032667,
+              "y": 0.797776,
+              "width": 0.593333,
+              "height": 0.020222
+            },
+            "sourceElementId": "text_0020",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "\"I'm a happy horse,\" she says. \"I can go round and round Ying \"is",
+            "confidence": 0.8607,
+            "bbox": {
+              "x": 0.035887,
+              "y": 0.844696,
+              "width": 0.789113,
+              "height": 0.019872
+            },
+            "sourceElementId": "text_0022",
+            "repairNotes": [
+              "normalized"
+            ]
+          },
+          {
+            "content": "every day with my friends, the red horse and the blue horse.",
+            "confidence": 0.9095,
+            "bbox": {
+              "x": 0.032667,
+              "y": 0.86451,
+              "width": 0.664667,
+              "height": 0.023761
+            },
+            "sourceElementId": "text_0023",
+            "repairNotes": []
+          },
+          {
+            "content": "UPSD EUE LE CEL RLP POPSET",
+            "confidence": 0.1083,
+            "bbox": {
+              "x": 0.064516,
+              "y": 0.884439,
+              "width": 0.931048,
+              "height": 0.066952
+            },
+            "sourceElementId": "text_0024",
+            "repairNotes": []
+          }
+        ],
+        "confidence": 0.8861105263157893
+      }
+    ],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "text_kept": 25,
+      "garbage_excluded": 2,
+      "text_repaired": 9,
+      "vocab_kept": 1,
+      "dialogue_lines": 8,
+      "dialogues_reconstructed": 1,
+      "exercises_reconstructed": 1,
+      "song_lines": 19
+    },
+    "averageOcrConfidence": 0.8745
+  },
+  "metadata": {
+    "book": "Family and Friends 2 Student Book (American)",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_ff2_v1",
+    "originalOcrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "originalAverageConfidence": 0.8745,
+    "noHallucinationPolicy": "Definitions, translations, speaker names, answers, and grammar rules are null or omitted unless visibly supported by page OCR/PDF. Text repairs are limited to spacing, punctuation, and clear OCR character errors."
+  }
+}

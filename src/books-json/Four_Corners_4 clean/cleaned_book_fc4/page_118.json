@@ -1,0 +1,4208 @@
+{
+  "pageNumber": 111,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "sequential inference from neighboring footers",
+  "pdfPageNumber": 118,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 4_Part5.pdf",
+    "pdfLocalPageNumber": 24,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "unit 1",
+        "confidence": 0.895,
+        "bbox": {
+          "x": 0.83451,
+          "y": 0.005455,
+          "width": 0.076078,
+          "height": 0.037576
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "unit 1",
+            "confidence": 0.895
+          },
+          {
+            "engine": "rapidocr",
+            "content": "11",
+            "confidence": 0.6069
+          },
+          {
+            "engine": "rapidocr",
+            "content": "unit",
+            "confidence": 0.797
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Writing and speaking A letter of interest",
+        "confidence": 0.91,
+        "bbox": {
+          "x": 0.082353,
+          "y": 0.081515,
+          "width": 0.583529,
+          "height": 0.028182
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Writing and speaking A letter of interest",
+            "confidence": 0.91
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Writing and speaking Aletter ofinterest",
+            "confidence": 0.8652
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "sentence",
+        "content": "A Read these job ads for positions at Carolina Industries. Then read the letter below.",
+        "confidence": 0.9284,
+        "bbox": {
+          "x": 0.08,
+          "y": 0.118496,
+          "width": 0.602,
+          "height": 0.017517
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Read these job ads for positions at Carolina Industries. Then read the letter below.",
+            "confidence": 0.9284
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Read these job ads for positions at Carolina Industries. Then read the letter below.",
+            "confidence": 0.9007
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "What job is Teresa interested in?",
+        "confidence": 0.9517,
+        "bbox": {
+          "x": 0.105882,
+          "y": 0.137879,
+          "width": 0.22549,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "What job is Teresa interested in?",
+            "confidence": 0.9517
+          },
+          {
+            "engine": "rapidocr",
+            "content": "What job is Teresa interested in?",
+            "confidence": 0.8978
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "Tech Support Officer",
+        "confidence": 0.9321,
+        "bbox": {
+          "x": 0.136667,
+          "y": 0.164863,
+          "width": 0.167333,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "Recruiter",
+        "confidence": 0.8966,
+        "bbox": {
+          "x": 0.392667,
+          "y": 0.164863,
+          "width": 0.082,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Marketing Assistant",
+        "confidence": 0.8945,
+        "bbox": {
+          "x": 0.648667,
+          "y": 0.165379,
+          "width": 0.174,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "Maintainand ensure smooth",
+        "confidence": 0.9071,
+        "bbox": {
+          "x": 0.137333,
+          "y": 0.185471,
+          "width": 0.184667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "Entry-level jobfor recent",
+        "confidence": 0.9068,
+        "bbox": {
+          "x": 0.65,
+          "y": 0.185987,
+          "width": 0.162667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "instruction",
+        "content": "Find,interview,andtest",
+        "confidence": 0.8717,
+        "bbox": {
+          "x": 0.394667,
+          "y": 0.186502,
+          "width": 0.154667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "applicantsto locate qualified",
+        "confidence": 0.9026,
+        "bbox": {
+          "x": 0.393333,
+          "y": 0.200927,
+          "width": 0.188667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "graduate.Assiststaff in",
+        "confidence": 0.8906,
+        "bbox": {
+          "x": 0.65,
+          "y": 0.200927,
+          "width": 0.162667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "runningofcomputersystems",
+        "confidence": 0.9377,
+        "bbox": {
+          "x": 0.136667,
+          "y": 0.201958,
+          "width": 0.193333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "employeesforjobopenings.Must",
+        "confidence": 0.8928,
+        "bbox": {
+          "x": 0.394667,
+          "y": 0.216899,
+          "width": 0.216,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "MarketingDepartment.Duties",
+        "confidence": 0.8957,
+        "bbox": {
+          "x": 0.649333,
+          "y": 0.216899,
+          "width": 0.201333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "andinternalnetwork.Mustbe",
+        "confidence": 0.8692,
+        "bbox": {
+          "x": 0.137333,
+          "y": 0.217414,
+          "width": 0.192667,
+          "height": 0.009789
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "familiar withlatest hardware and",
+        "confidence": 0.8265,
+        "bbox": {
+          "x": 0.136667,
+          "y": 0.230294,
+          "width": 0.215333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "paragraph",
+        "content": "be organized and able totravel to",
+        "confidence": 0.8933,
+        "bbox": {
+          "x": 0.393333,
+          "y": 0.230294,
+          "width": 0.217333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "includefiling,research.and",
+        "confidence": 0.8737,
+        "bbox": {
+          "x": 0.648667,
+          "y": 0.231324,
+          "width": 0.173333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "software.Flexible hours.",
+        "confidence": 0.9077,
+        "bbox": {
+          "x": 0.137333,
+          "y": 0.246265,
+          "width": 0.155333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "colleges and job fairs.",
+        "confidence": 0.8443,
+        "bbox": {
+          "x": 0.394,
+          "y": 0.246265,
+          "width": 0.137333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "workingwithnewcustomers",
+        "confidence": 0.8654,
+        "bbox": {
+          "x": 0.650667,
+          "y": 0.247295,
+          "width": 0.184667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "nwkssoi-y",
+        "confidence": 0.5438,
+        "bbox": {
+          "x": 0.693333,
+          "y": 0.273055,
+          "width": 0.108667,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "Portal Bravo #19D",
+        "confidence": 0.9333,
+        "bbox": {
+          "x": 0.369804,
+          "y": 0.294545,
+          "width": 0.120784,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Portal Bravo#19D",
+            "confidence": 0.8853
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Portal Bravo #19D",
+            "confidence": 0.9333
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "Your address",
+        "confidence": 0.8761,
+        "bbox": {
+          "x": 0.130667,
+          "y": 0.300876,
+          "width": 0.094667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "37529 Leon, Mexico",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.36902,
+          "y": 0.313636,
+          "width": 0.132157,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "37529Leon,Mexico",
+            "confidence": 0.8815
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "37529 Leon, Mexico",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "June7,2019",
+        "confidence": 0.8223,
+        "bbox": {
+          "x": 0.365333,
+          "y": 0.340546,
+          "width": 0.091333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "ee June 7, 2019",
+            "confidence": 0.595
+          },
+          {
+            "engine": "rapidocr",
+            "content": "June7,2019",
+            "confidence": 0.8223
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "Date",
+        "confidence": 0.7791,
+        "bbox": {
+          "x": 0.130667,
+          "y": 0.341577,
+          "width": 0.036667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "Ms. Susan Dodd",
+        "confidence": 0.9467,
+        "bbox": {
+          "x": 0.369804,
+          "y": 0.37303,
+          "width": 0.107059,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Ms.Susan Dodd",
+            "confidence": 0.8068
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ms. Susan Dodd",
+            "confidence": 0.9467
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "Personnel Manager",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.370196,
+          "y": 0.391515,
+          "width": 0.130588,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Personnel Manager",
+            "confidence": 0.8932
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Personnel Manager",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "instruction",
+        "content": "Name,title,company,",
+        "confidence": 0.8321,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.393096,
+          "width": 0.157333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "u",
+            "confidence": 0
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Name,title,company,",
+            "confidence": 0.8321
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "and address of the",
+        "confidence": 0.8479,
+        "bbox": {
+          "x": 0.132,
+          "y": 0.409583,
+          "width": 0.132,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "Carolina Industries",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.369804,
+          "y": 0.41,
+          "width": 0.128627,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Carolina Industries",
+            "confidence": 0.8359
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Carolina Industries",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "person you're writing to",
+        "confidence": 0.8744,
+        "bbox": {
+          "x": 0.13,
+          "y": 0.424523,
+          "width": 0.173333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "662 Beacon Road",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.369412,
+          "y": 0.428485,
+          "width": 0.116078,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "662BeaconRoad",
+            "confidence": 0.9147
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "662 Beacon Road",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "Salt Lake City, Utah 84110",
+        "confidence": 0.956,
+        "bbox": {
+          "x": 0.369804,
+          "y": 0.447273,
+          "width": 0.175294,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "SaltLakeCity,Utah84110",
+            "confidence": 0.9049
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Salt Lake City, Utah 84110",
+            "confidence": 0.956
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "2290",
+        "confidence": 0.5881,
+        "bbox": {
+          "x": 0.786,
+          "y": 0.469346,
+          "width": 0.051333,
+          "height": 0.008758
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "Trytousethe name of",
+        "confidence": 0.8964,
+        "bbox": {
+          "x": 0.132,
+          "y": 0.470376,
+          "width": 0.16,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "Dear Ms. Dodd:",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.370588,
+          "y": 0.47697,
+          "width": 0.100784,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Dear Ms.Dodd:",
+            "confidence": 0.8224
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Dear Ms. Dodd:",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "theperson.",
+        "confidence": 0.885,
+        "bbox": {
+          "x": 0.13,
+          "y": 0.485832,
+          "width": 0.082667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "label",
+        "content": "State why you are",
+        "confidence": 0.8612,
+        "bbox": {
+          "x": 0.130667,
+          "y": 0.513138,
+          "width": 0.129333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": ",",
+            "confidence": 0.49
+          },
+          {
+            "engine": "rapidocr",
+            "content": "State why you are",
+            "confidence": 0.8612
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "paragraph",
+        "content": "| would like to express my interest in the marketing assistant job recently",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.370588,
+          "y": 0.514242,
+          "width": 0.492941,
+          "height": 0.015455
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I would liketoexpress my interest in the marketing assistant job recently",
+            "confidence": 0.8753
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| would like to express my interest in the marketing assistant job recently",
+            "confidence": 0.95
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "heading",
+        "content": "writing",
+        "confidence": 0.8128,
+        "bbox": {
+          "x": 0.13,
+          "y": 0.528078,
+          "width": 0.058,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "label",
+        "content": "advertised on your website.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.369804,
+          "y": 0.530909,
+          "width": 0.187843,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "advertised onyourwebsite.",
+            "confidence": 0.9305
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "advertised on your website.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0045",
+        "type": "sentence",
+        "content": "| will be graduating next month with a B.A. in Marketing from Monterrey",
+        "confidence": 0.9469,
+        "bbox": {
+          "x": 0.370588,
+          "y": 0.559394,
+          "width": 0.484314,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I will be graduating next month with a B.A. in Marketing from Monterrey",
+            "confidence": 0.9083
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| will be graduating next month with a B.A. in Marketing from Monterrey",
+            "confidence": 0.9469
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0046",
+        "type": "label",
+        "content": "Briefly state your",
+        "confidence": 0.9244,
+        "bbox": {
+          "x": 0.130667,
+          "y": 0.564657,
+          "width": 0.123333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "'",
+            "confidence": 0
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Briefly state your",
+            "confidence": 0.9244
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0047",
+        "type": "sentence",
+        "content": "University. | am fluent in English and Spanish, with a basic knowledge of",
+        "confidence": 0.9223,
+        "bbox": {
+          "x": 0.370588,
+          "y": 0.574545,
+          "width": 0.489804,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "University.Iam fluent in Englishand Spanish,withabasicknowledgeof",
+            "confidence": 0.8788
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "University. | am fluent in English and Spanish, with a basic knowledge of",
+            "confidence": 0.9223
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0048",
+        "type": "label",
+        "content": "education and any",
+        "confidence": 0.8957,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.580629,
+          "width": 0.132667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0049",
+        "type": "sentence",
+        "content": "Japanese. Enclosed is my résumé, which contains detailed information on",
+        "confidence": 0.939,
+        "bbox": {
+          "x": 0.369804,
+          "y": 0.589394,
+          "width": 0.502353,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Japanese.Enclosedismyresume,whichcontainsdetailed informationon",
+            "confidence": 0.9236
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Japanese. Enclosed is my résumé, which contains detailed information on",
+            "confidence": 0.939
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0050",
+        "type": "label",
+        "content": "experienceorskills",
+        "confidence": 0.9282,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.595569,
+          "width": 0.138667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0051",
+        "type": "label",
+        "content": "my education and experience.",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.370588,
+          "y": 0.604848,
+          "width": 0.203922,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "my education and experience.",
+            "confidence": 0.8595
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "my education and experience.",
+            "confidence": 0.9575
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0052",
+        "type": "sentence",
+        "content": "| would appreciate the opportunity to discuss this position with you.",
+        "confidence": 0.9382,
+        "bbox": {
+          "x": 0.370588,
+          "y": 0.632121,
+          "width": 0.462745,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I would appreciate the opportunity to discuss this position with you.",
+            "confidence": 0.9062
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| would appreciate the opportunity to discuss this position with you.",
+            "confidence": 0.9382
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0053",
+        "type": "instruction",
+        "content": "Say how you can be",
+        "confidence": 0.8588,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.640907,
+          "width": 0.142,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0054",
+        "type": "paragraph",
+        "content": "| can be reached by cell phone at 319-555-8116 or by email at",
+        "confidence": 0.9446,
+        "bbox": {
+          "x": 0.370588,
+          "y": 0.651212,
+          "width": 0.408235,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Icanbereachedbycell phoneat319-555-8116orbyemailat",
+            "confidence": 0.9115
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| can be reached by cell phone at 319-555-8116 or by email at",
+            "confidence": 0.9446
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0055",
+        "type": "label",
+        "content": "contacted.",
+        "confidence": 0.8693,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.656363,
+          "width": 0.076,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0056",
+        "type": "label",
+        "content": "teresasanchez@cup.org.",
+        "confidence": 0.8966,
+        "bbox": {
+          "x": 0.366667,
+          "y": 0.664606,
+          "width": 0.169333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "teresasanchez@cup.org.",
+            "confidence": 0.8966
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "teresasanchez@cup.org.",
+            "confidence": 0.88
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0057",
+        "type": "label",
+        "content": "Thank theperson.",
+        "confidence": 0.8528,
+        "bbox": {
+          "x": 0.130667,
+          "y": 0.68882,
+          "width": 0.13,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "OTRAS eS Thank you very much for your time and consideration.",
+            "confidence": 0.7845
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Thank theperson.",
+            "confidence": 0.8528
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0058",
+        "type": "label",
+        "content": "Sincerely,",
+        "confidence": 0.8472,
+        "bbox": {
+          "x": 0.365333,
+          "y": 0.716641,
+          "width": 0.074,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Sincerely,",
+            "confidence": 0.8472
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "(Useaiormalclosing}——— sincerely,",
+            "confidence": 0.355
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0059",
+        "type": "label",
+        "content": "Use a formal closing",
+        "confidence": 0.8934,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.717156,
+          "width": 0.147333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0060",
+        "type": "label",
+        "content": "bhow leayerynl",
+        "confidence": 0.5954,
+        "bbox": {
+          "x": 0.587333,
+          "y": 0.744462,
+          "width": 0.26,
+          "height": 0.021123
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0061",
+        "type": "label",
+        "content": "Theresa Sanchez",
+        "confidence": 0.8762,
+        "bbox": {
+          "x": 0.364667,
+          "y": 0.746007,
+          "width": 0.138667,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Theresa Sanchez",
+            "confidence": 0.8762
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Theresa Sanchez fi",
+            "confidence": 0.83
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0062",
+        "type": "label",
+        "content": "Sign your name.",
+        "confidence": 0.8079,
+        "bbox": {
+          "x": 0.132667,
+          "y": 0.758372,
+          "width": 0.114667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0063",
+        "type": "label",
+        "content": "Theresa Sanchez",
+        "confidence": 0.8335,
+        "bbox": {
+          "x": 0.366667,
+          "y": 0.76713,
+          "width": 0.120667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Theresa Sanchez",
+            "confidence": 0.8335
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Theresa Sanchez iy",
+            "confidence": 0.6433
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0064",
+        "type": "sentence",
+        "content": "B Choose a job from this lesson or use your own idea. Write a letter of interest.",
+        "confidence": 0.9335,
+        "bbox": {
+          "x": 0.083922,
+          "y": 0.817879,
+          "width": 0.555686,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B Choose a job from this lesson oruse your own idea.Write a letter of interest.",
+            "confidence": 0.9109
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Choose a job from this lesson or use your own idea. Write a letter of interest.",
+            "confidence": 0.9335
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0065",
+        "type": "sentence",
+        "content": "Cc Share your letters. What kinds of jobs are your classmates",
+        "confidence": 0.9218,
+        "bbox": {
+          "x": 0.081961,
+          "y": 0.844545,
+          "width": 0.532549,
+          "height": 0.016364
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "GROUPWORkShareyour letters.Whatkinds of jobs areyour classmates",
+            "confidence": 0.877
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Cc Share your letters. What kinds of jobs are your classmates",
+            "confidence": 0.9218
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0066",
+        "type": "sentence",
+        "content": "interested in? What do you think they will be doing in five years?",
+        "confidence": 0.9585,
+        "bbox": {
+          "x": 0.107451,
+          "y": 0.864545,
+          "width": 0.448627,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "interested in? What do you think they will be doing in five years?",
+            "confidence": 0.9208
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "interested in? What do you think they will be doing in five years?",
+            "confidence": 0.9585
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0067",
+        "type": "dialogue_line",
+        "content": "A: Jean is interested in the tech support job.",
+        "confidence": 0.9578,
+        "bbox": {
+          "x": 0.106275,
+          "y": 0.884545,
+          "width": 0.344314,
+          "height": 0.017576
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: Jean is interested in the tech support job.",
+            "confidence": 0.874
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: Jean is interested in the tech support job.",
+            "confidence": 0.9578
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0068",
+        "type": "dialogue_line",
+        "content": "B: Really? | think Jean will be working as a space tour guide in the future,",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.107451,
+          "y": 0.908182,
+          "width": 0.547843,
+          "height": 0.015455
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B: Really? I think Jean will be working as a space tour guide in the future,",
+            "confidence": 0.9158
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: Really? | think Jean will be working as a space tour guide in the future,",
+            "confidence": 0.955
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0069",
+        "type": "sentence",
+        "content": "not a tech support officer. She's so friendly and outgoing.",
+        "confidence": 0.9358,
+        "bbox": {
+          "x": 0.124667,
+          "y": 0.925296,
+          "width": 0.443333,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "not a tech support officer. She's so friendly and outgoing.",
+            "confidence": 0.9358
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "not a tech support officer. She's so friendly and outgoing.",
+            "confidence": 0.931
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0070",
+        "type": "label",
+        "content": "I candiscuss future careers.",
+        "confidence": 0.9064,
+        "bbox": {
+          "x": 0.671333,
+          "y": 0.963421,
+          "width": 0.171333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "Tech Support Officer",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.136667,
+          "y": 0.164863,
+          "width": 0.167333,
+          "height": 0.017002
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.9321
+      },
+      {
+        "word": "Recruiter",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.392667,
+          "y": 0.164863,
+          "width": 0.082,
+          "height": 0.015456
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8966
+      },
+      {
+        "word": "Marketing Assistant",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.648667,
+          "y": 0.165379,
+          "width": 0.174,
+          "height": 0.016486
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8945
+      },
+      {
+        "word": "Maintainand ensure smooth",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.137333,
+          "y": 0.185471,
+          "width": 0.184667,
+          "height": 0.01185
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.9071
+      },
+      {
+        "word": "Entry-level jobfor recent",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.65,
+          "y": 0.185987,
+          "width": 0.162667,
+          "height": 0.013395
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.9068
+      },
+      {
+        "word": "applicantsto locate qualified",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.393333,
+          "y": 0.200927,
+          "width": 0.188667,
+          "height": 0.014426
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.9026
+      },
+      {
+        "word": "runningofcomputersystems",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.136667,
+          "y": 0.201958,
+          "width": 0.193333,
+          "height": 0.01185
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.9377
+      },
+      {
+        "word": "familiar withlatest hardware and",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.136667,
+          "y": 0.230294,
+          "width": 0.215333,
+          "height": 0.012365
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8265
+      },
+      {
+        "word": "workingwithnewcustomers",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.650667,
+          "y": 0.247295,
+          "width": 0.184667,
+          "height": 0.01185
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8654
+      },
+      {
+        "word": "nwkssoi-y",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.693333,
+          "y": 0.273055,
+          "width": 0.108667,
+          "height": 0.010304
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.5438
+      },
+      {
+        "word": "Your address",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.130667,
+          "y": 0.300876,
+          "width": 0.094667,
+          "height": 0.013395
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8761
+      },
+      {
+        "word": "Date",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.130667,
+          "y": 0.341577,
+          "width": 0.036667,
+          "height": 0.01288
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.7791
+      },
+      {
+        "word": "Personnel Manager",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.370196,
+          "y": 0.391515,
+          "width": 0.130588,
+          "height": 0.012424
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.96
+      },
+      {
+        "word": "and address of the",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.132,
+          "y": 0.409583,
+          "width": 0.132,
+          "height": 0.01185
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8479
+      },
+      {
+        "word": "Carolina Industries",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.369804,
+          "y": 0.41,
+          "width": 0.128627,
+          "height": 0.009697
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.955
+      },
+      {
+        "word": "person you're writing to",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.13,
+          "y": 0.424523,
+          "width": 0.173333,
+          "height": 0.01391
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8744
+      },
+      {
+        "word": "Trytousethe name of",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.132,
+          "y": 0.470376,
+          "width": 0.16,
+          "height": 0.01185
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8964
+      },
+      {
+        "word": "State why you are",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.130667,
+          "y": 0.513138,
+          "width": 0.129333,
+          "height": 0.015456
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8612
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "my education and experience.",
+            "confidence": 0.9575,
+            "bbox": {
+              "x": 0.370588,
+              "y": 0.604848,
+              "width": 0.203922,
+              "height": 0.012121
+            },
+            "sourceElementId": "text_0051",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "A: Jean is interested in the tech support job.",
+            "confidence": 0.9578,
+            "bbox": {
+              "x": 0.106275,
+              "y": 0.884545,
+              "width": 0.344314,
+              "height": 0.017576
+            },
+            "sourceElementId": "text_0067",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "reading_activity",
+        "instruction": "Read these job ads for positions at Carolina Industries. Then read the letter below.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0003"
+        ],
+        "confidence": 0.9284
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "selection_exercise",
+        "instruction": "Choose a job from this lesson or use your own idea. Write a letter of interest.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0064"
+        ],
+        "confidence": 0.9335
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "applicantsto locate qualified",
+          "graduate.Assiststaff in",
+          "runningofcomputersystems",
+          "employeesforjobopenings.Must",
+          "MarketingDepartment.Duties",
+          "andinternalnetwork.Mustbe",
+          "familiar withlatest hardware and",
+          "be organized and able totravel to",
+          "includefiling,research.and",
+          "software.Flexible hours.",
+          "colleges and job fairs.",
+          "workingwithnewcustomers",
+          "nwkssoi-y",
+          "Portal Bravo #19D",
+          "Your address",
+          "37529 Leon, Mexico",
+          "June7,2019",
+          "Date",
+          "Ms. Susan Dodd"
+        ],
+        "position": {
+          "x": 0.110667,
+          "y": 0.180927,
+          "width": 0.7599990000000001,
+          "height": 0.2218
+        },
+        "textElementIds": [
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Personnel Manager",
+          "Name,title,company,",
+          "and address of the",
+          "Carolina Industries",
+          "person you're writing to",
+          "662 Beacon Road",
+          "Salt Lake City, Utah 84110",
+          "2290",
+          "Trytousethe name of",
+          "Dear Ms. Dodd:",
+          "theperson.",
+          "State why you are",
+          "| would like to express my interest in the marketing assistant job recently",
+          "writing",
+          "advertised on your website.",
+          "| will be graduating next month with a B.A. in Marketing from Monterrey",
+          "Briefly state your",
+          "University. | am fluent in English and Spanish, with a basic knowledge of",
+          "education and any",
+          "Japanese. Enclosed is my résumé, which contains detailed information on",
+          "experienceorskills",
+          "my education and experience."
+        ],
+        "position": {
+          "x": 0.11,
+          "y": 0.371515,
+          "width": 0.7821570000000001,
+          "height": 0.26545400000000013
+        },
+        "textElementIds": [
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040",
+          "text_0041",
+          "text_0042",
+          "text_0043",
+          "text_0044",
+          "text_0045",
+          "text_0046",
+          "text_0047",
+          "text_0048",
+          "text_0049",
+          "text_0050",
+          "text_0051"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "| would appreciate the opportunity to discuss this position with you.",
+          "Say how you can be",
+          "| can be reached by cell phone at 319-555-8116 or by email at",
+          "contacted.",
+          "teresasanchez@cup.org.",
+          "Thank theperson.",
+          "Sincerely,",
+          "Use a formal closing",
+          "bhow leayerynl",
+          "Theresa Sanchez",
+          "Sign your name.",
+          "Theresa Sanchez",
+          "B Choose a job from this lesson or use your own idea. Write a letter of interest."
+        ],
+        "position": {
+          "x": 0.06392199999999999,
+          "y": 0.612121,
+          "width": 0.803411,
+          "height": 0.238788
+        },
+        "textElementIds": [
+          "text_0052",
+          "text_0053",
+          "text_0054",
+          "text_0055",
+          "text_0056",
+          "text_0057",
+          "text_0058",
+          "text_0059",
+          "text_0060",
+          "text_0061",
+          "text_0062",
+          "text_0063",
+          "text_0064"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "11\nunit\nWriting and speaking Aletter ofinterest\nA Read these job ads for positions at Carolina Industries. Then read the letter below.\nWhat job is Teresa interested in?\nTech Support Officer\nRecruiter\nMarketing Assistant\nMaintainand ensure smooth\nEntry-level jobfor recent\nFind,interview,andtest\napplicantsto locate qualified\ngraduate.Assiststaff in\nrunningofcomputersystems\nemployeesforjobopenings.Must\nMarketingDepartment.Duties\nandinternalnetwork.Mustbe\nfamiliar withlatest hardware and\nbe organized and able totravel to\nincludefiling,research.and\nsoftware.Flexible hours.\ncolleges and job fairs.\nworkingwithnewcustomers\nnwkssoi-y\nPortal Bravo#19D\nYour address\n37529Leon,Mexico\nJune7,2019\nDate\nMs.Susan Dodd\nPersonnel Manager\nName,title,company,\nCarolina Industries\nand address of the\nperson you're writing to\n662BeaconRoad\nSaltLakeCity,Utah84110\n2290\nTrytousethe name of\nDear Ms.Dodd:\ntheperson.\nI would liketoexpress my interest in the marketing assistant job recently\nState why you are\nwriting\nadvertised onyourwebsite.\nI will be graduating next month with a B.A. in Marketing from Monterrey\nBriefly state your\nUniversity.Iam fluent in Englishand Spanish,withabasicknowledgeof\neducation and any\nJapanese.Enclosedismyresume,whichcontainsdetailed informationon\nexperienceorskills\nmy education and experience.\nI would appreciate the opportunity to discuss this position with you.\nSay how you can be\nIcanbereachedbycell phoneat319-555-8116orbyemailat\ncontacted.\nteresasanchez@cup.org.\nThank theperson.\nSincerely,\nUse a formal closing\nbhow leayerynl\nTheresa Sanchez\nSign your name.\nTheresa Sanchez\nB Choose a job from this lesson oruse your own idea.Write a letter of interest.\nGROUPWORkShareyour letters.Whatkinds of jobs areyour classmates\ninterested in? What do you think they will be doing in five years?\nA: Jean is interested in the tech support job.\nB: Really? I think Jean will be working as a space tour guide in the future,\nnot a tech support officer. She's so friendly and outgoing.\ndehkhodaedu.com\nI candiscuss future careers.",
+      "tesseract_psm3": "unit 1\n\nWriting and speaking A letter of interest\n\nA Read these job ads for positions at Carolina Industries. Then read the letter below.\nWhat job is Teresa interested in?\n\nPortal Bravo #19D\n37529 Leon, Mexico\nee June 7, 2019\n\nMs. Susan Dodd\nPersonnel Manager\nCarolina Industries\n\n662 Beacon Road\n\nSalt Lake City, Utah 84110\n\nu\n\nDear Ms. Dodd:\n\n| would like to express my interest in the marketing assistant job recently\nadvertised on your website.\n\n,\n\n| will be graduating next month with a B.A. in Marketing from Monterrey\nUniversity. | am fluent in English and Spanish, with a basic knowledge of\nJapanese. Enclosed is my résumé, which contains detailed information on\nmy education and experience.\n\n'\n\n| would appreciate the opportunity to discuss this position with you.\n\n| can be reached by cell phone at 319-555-8116 or by email at\nteresasanchez@cup.org.\n\nOTRAS eS Thank you very much for your time and consideration.\n(Useaiormalclosing}——— sincerely,\n\n~ETer\noa\n\nTheresa Sanchez fi\nTheresa Sanchez iy\n\nB Choose a job from this lesson or use your own idea. Write a letter of interest.\nCc Share your letters. What kinds of jobs are your classmates\ninterested in? What do you think they will be doing in five years?\nA: Jean is interested in the tech support job.\n\nB: Really? | think Jean will be working as a space tour guide in the future,\nnot a tech support officer. She's so friendly and outgoing.\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [
+      {
+        "id": "text_0058",
+        "type": "text",
+        "content": "~ETer",
+        "confidence": 0,
+        "bbox": {
+          "x": 0.902745,
+          "y": 0.705455,
+          "width": 0.004706,
+          "height": 0.019697
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0059",
+        "type": "text",
+        "content": "oa",
+        "confidence": 0.21,
+        "bbox": {
+          "x": 0.908235,
+          "y": 0.709697,
+          "width": 0.002745,
+          "height": 0.010303
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "averageConfidence": 0.8876,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "4 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "2 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "lesson",
+    "headings": [
+      "unit 1",
+      "Writing and speaking A letter of interest",
+      "What job is Teresa interested in?",
+      "writing"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "unit 1",
+        "confidence": 0.895,
+        "bbox": {
+          "x": 0.83451,
+          "y": 0.005455,
+          "width": 0.076078,
+          "height": 0.037576
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "unit 1",
+            "confidence": 0.895
+          },
+          {
+            "engine": "rapidocr",
+            "content": "11",
+            "confidence": 0.6069
+          },
+          {
+            "engine": "rapidocr",
+            "content": "unit",
+            "confidence": 0.797
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Writing and speaking A letter of interest",
+        "confidence": 0.91,
+        "bbox": {
+          "x": 0.082353,
+          "y": 0.081515,
+          "width": 0.583529,
+          "height": 0.028182
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Writing and speaking A letter of interest",
+            "confidence": 0.91
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Writing and speaking Aletter ofinterest",
+            "confidence": 0.8652
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "sentence",
+        "content": "A Read these job ads for positions at Carolina Industries. Then read the letter below.",
+        "confidence": 0.9284,
+        "bbox": {
+          "x": 0.08,
+          "y": 0.118496,
+          "width": 0.602,
+          "height": 0.017517
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Read these job ads for positions at Carolina Industries. Then read the letter below.",
+            "confidence": 0.9284
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Read these job ads for positions at Carolina Industries. Then read the letter below.",
+            "confidence": 0.9007
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "What job is Teresa interested in?",
+        "confidence": 0.9517,
+        "bbox": {
+          "x": 0.105882,
+          "y": 0.137879,
+          "width": 0.22549,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "What job is Teresa interested in?",
+            "confidence": 0.9517
+          },
+          {
+            "engine": "rapidocr",
+            "content": "What job is Teresa interested in?",
+            "confidence": 0.8978
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "Tech Support Officer",
+        "confidence": 0.9321,
+        "bbox": {
+          "x": 0.136667,
+          "y": 0.164863,
+          "width": 0.167333,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "Recruiter",
+        "confidence": 0.8966,
+        "bbox": {
+          "x": 0.392667,
+          "y": 0.164863,
+          "width": 0.082,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Marketing Assistant",
+        "confidence": 0.8945,
+        "bbox": {
+          "x": 0.648667,
+          "y": 0.165379,
+          "width": 0.174,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "Maintainand ensure smooth",
+        "confidence": 0.9071,
+        "bbox": {
+          "x": 0.137333,
+          "y": 0.185471,
+          "width": 0.184667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "Entry-level jobfor recent",
+        "confidence": 0.9068,
+        "bbox": {
+          "x": 0.65,
+          "y": 0.185987,
+          "width": 0.162667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "instruction",
+        "content": "Find, interview, andtest",
+        "confidence": 0.8717,
+        "bbox": {
+          "x": 0.394667,
+          "y": 0.186502,
+          "width": 0.154667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "applicantsto locate qualified",
+        "confidence": 0.9026,
+        "bbox": {
+          "x": 0.393333,
+          "y": 0.200927,
+          "width": 0.188667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "graduate. Assiststaff in",
+        "confidence": 0.8906,
+        "bbox": {
+          "x": 0.65,
+          "y": 0.200927,
+          "width": 0.162667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "runningofcomputersystems",
+        "confidence": 0.9377,
+        "bbox": {
+          "x": 0.136667,
+          "y": 0.201958,
+          "width": 0.193333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "employeesforjobopenings. Must",
+        "confidence": 0.8928,
+        "bbox": {
+          "x": 0.394667,
+          "y": 0.216899,
+          "width": 0.216,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "Marketing Department. Duties",
+        "confidence": 0.8957,
+        "bbox": {
+          "x": 0.649333,
+          "y": 0.216899,
+          "width": 0.201333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "andinternalnetwork. Mustbe",
+        "confidence": 0.8692,
+        "bbox": {
+          "x": 0.137333,
+          "y": 0.217414,
+          "width": 0.192667,
+          "height": 0.009789
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "familiar withlatest hardware and",
+        "confidence": 0.8265,
+        "bbox": {
+          "x": 0.136667,
+          "y": 0.230294,
+          "width": 0.215333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "paragraph",
+        "content": "be organized and able totravel to",
+        "confidence": 0.8933,
+        "bbox": {
+          "x": 0.393333,
+          "y": 0.230294,
+          "width": 0.217333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "includefiling, research. and",
+        "confidence": 0.8737,
+        "bbox": {
+          "x": 0.648667,
+          "y": 0.231324,
+          "width": 0.173333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "software. Flexible hours.",
+        "confidence": 0.9077,
+        "bbox": {
+          "x": 0.137333,
+          "y": 0.246265,
+          "width": 0.155333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "colleges and job fairs.",
+        "confidence": 0.8443,
+        "bbox": {
+          "x": 0.394,
+          "y": 0.246265,
+          "width": 0.137333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "workingwithnewcustomers",
+        "confidence": 0.8654,
+        "bbox": {
+          "x": 0.650667,
+          "y": 0.247295,
+          "width": 0.184667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "nwkssoi-y",
+        "confidence": 0.5438,
+        "bbox": {
+          "x": 0.693333,
+          "y": 0.273055,
+          "width": 0.108667,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "Portal Bravo #19D",
+        "confidence": 0.9333,
+        "bbox": {
+          "x": 0.369804,
+          "y": 0.294545,
+          "width": 0.120784,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Portal Bravo#19D",
+            "confidence": 0.8853
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Portal Bravo #19D",
+            "confidence": 0.9333
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "Your address",
+        "confidence": 0.8761,
+        "bbox": {
+          "x": 0.130667,
+          "y": 0.300876,
+          "width": 0.094667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "37529 Leon, Mexico",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.36902,
+          "y": 0.313636,
+          "width": 0.132157,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "37529Leon,Mexico",
+            "confidence": 0.8815
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "37529 Leon, Mexico",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "June 7,2019",
+        "confidence": 0.8223,
+        "bbox": {
+          "x": 0.365333,
+          "y": 0.340546,
+          "width": 0.091333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "ee June 7, 2019",
+            "confidence": 0.595
+          },
+          {
+            "engine": "rapidocr",
+            "content": "June7,2019",
+            "confidence": 0.8223
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "Date",
+        "confidence": 0.7791,
+        "bbox": {
+          "x": 0.130667,
+          "y": 0.341577,
+          "width": 0.036667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "Ms. Susan Dodd",
+        "confidence": 0.9467,
+        "bbox": {
+          "x": 0.369804,
+          "y": 0.37303,
+          "width": 0.107059,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Ms.Susan Dodd",
+            "confidence": 0.8068
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ms. Susan Dodd",
+            "confidence": 0.9467
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "Personnel Manager",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.370196,
+          "y": 0.391515,
+          "width": 0.130588,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Personnel Manager",
+            "confidence": 0.8932
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Personnel Manager",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "instruction",
+        "content": "Name, title, company",
+        "confidence": 0.8321,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.393096,
+          "width": 0.157333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "u",
+            "confidence": 0
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Name,title,company,",
+            "confidence": 0.8321
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "and address of the",
+        "confidence": 0.8479,
+        "bbox": {
+          "x": 0.132,
+          "y": 0.409583,
+          "width": 0.132,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "Carolina Industries",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.369804,
+          "y": 0.41,
+          "width": 0.128627,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Carolina Industries",
+            "confidence": 0.8359
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Carolina Industries",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "person you're writing to",
+        "confidence": 0.8744,
+        "bbox": {
+          "x": 0.13,
+          "y": 0.424523,
+          "width": 0.173333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "662 Beacon Road",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.369412,
+          "y": 0.428485,
+          "width": 0.116078,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "662BeaconRoad",
+            "confidence": 0.9147
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "662 Beacon Road",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "Salt Lake City, Utah 84110",
+        "confidence": 0.956,
+        "bbox": {
+          "x": 0.369804,
+          "y": 0.447273,
+          "width": 0.175294,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "SaltLakeCity,Utah84110",
+            "confidence": 0.9049
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Salt Lake City, Utah 84110",
+            "confidence": 0.956
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "Trytousethe name of",
+        "confidence": 0.8964,
+        "bbox": {
+          "x": 0.132,
+          "y": 0.470376,
+          "width": 0.16,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "Dear Ms. Dodd",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.370588,
+          "y": 0.47697,
+          "width": 0.100784,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Dear Ms.Dodd:",
+            "confidence": 0.8224
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Dear Ms. Dodd:",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "theperson.",
+        "confidence": 0.885,
+        "bbox": {
+          "x": 0.13,
+          "y": 0.485832,
+          "width": 0.082667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "label",
+        "content": "State why you are",
+        "confidence": 0.8612,
+        "bbox": {
+          "x": 0.130667,
+          "y": 0.513138,
+          "width": 0.129333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": ",",
+            "confidence": 0.49
+          },
+          {
+            "engine": "rapidocr",
+            "content": "State why you are",
+            "confidence": 0.8612
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "paragraph",
+        "content": "would like to express my interest in the marketing assistant job recently",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.370588,
+          "y": 0.514242,
+          "width": 0.492941,
+          "height": 0.015455
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I would liketoexpress my interest in the marketing assistant job recently",
+            "confidence": 0.8753
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| would like to express my interest in the marketing assistant job recently",
+            "confidence": 0.95
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "heading",
+        "content": "writing",
+        "confidence": 0.8128,
+        "bbox": {
+          "x": 0.13,
+          "y": 0.528078,
+          "width": 0.058,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "label",
+        "content": "advertised on your website.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.369804,
+          "y": 0.530909,
+          "width": 0.187843,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "advertised onyourwebsite.",
+            "confidence": 0.9305
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "advertised on your website.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0045",
+        "type": "sentence",
+        "content": "will be graduating next month with a B. A. in Marketing from Monterrey",
+        "confidence": 0.9469,
+        "bbox": {
+          "x": 0.370588,
+          "y": 0.559394,
+          "width": 0.484314,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I will be graduating next month with a B.A. in Marketing from Monterrey",
+            "confidence": 0.9083
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| will be graduating next month with a B.A. in Marketing from Monterrey",
+            "confidence": 0.9469
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0046",
+        "type": "label",
+        "content": "Briefly state your",
+        "confidence": 0.9244,
+        "bbox": {
+          "x": 0.130667,
+          "y": 0.564657,
+          "width": 0.123333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "'",
+            "confidence": 0
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Briefly state your",
+            "confidence": 0.9244
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0047",
+        "type": "sentence",
+        "content": "University. | am fluent in English and Spanish, with a basic knowledge of",
+        "confidence": 0.9223,
+        "bbox": {
+          "x": 0.370588,
+          "y": 0.574545,
+          "width": 0.489804,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "University.Iam fluent in Englishand Spanish,withabasicknowledgeof",
+            "confidence": 0.8788
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "University. | am fluent in English and Spanish, with a basic knowledge of",
+            "confidence": 0.9223
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0048",
+        "type": "label",
+        "content": "education and any",
+        "confidence": 0.8957,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.580629,
+          "width": 0.132667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0049",
+        "type": "sentence",
+        "content": "Japanese. Enclosed is my résumé, which contains detailed information on",
+        "confidence": 0.939,
+        "bbox": {
+          "x": 0.369804,
+          "y": 0.589394,
+          "width": 0.502353,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Japanese.Enclosedismyresume,whichcontainsdetailed informationon",
+            "confidence": 0.9236
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Japanese. Enclosed is my résumé, which contains detailed information on",
+            "confidence": 0.939
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0050",
+        "type": "label",
+        "content": "experienceorskills",
+        "confidence": 0.9282,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.595569,
+          "width": 0.138667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0051",
+        "type": "label",
+        "content": "my education and experience.",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.370588,
+          "y": 0.604848,
+          "width": 0.203922,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "my education and experience.",
+            "confidence": 0.8595
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "my education and experience.",
+            "confidence": 0.9575
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0052",
+        "type": "sentence",
+        "content": "would appreciate the opportunity to discuss this position with you.",
+        "confidence": 0.9382,
+        "bbox": {
+          "x": 0.370588,
+          "y": 0.632121,
+          "width": 0.462745,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I would appreciate the opportunity to discuss this position with you.",
+            "confidence": 0.9062
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| would appreciate the opportunity to discuss this position with you.",
+            "confidence": 0.9382
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0053",
+        "type": "instruction",
+        "content": "Say how you can be",
+        "confidence": 0.8588,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.640907,
+          "width": 0.142,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0054",
+        "type": "paragraph",
+        "content": "can be reached by cell phone at 319-555-8116 or by email at",
+        "confidence": 0.9446,
+        "bbox": {
+          "x": 0.370588,
+          "y": 0.651212,
+          "width": 0.408235,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Icanbereachedbycell phoneat319-555-8116orbyemailat",
+            "confidence": 0.9115
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| can be reached by cell phone at 319-555-8116 or by email at",
+            "confidence": 0.9446
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0055",
+        "type": "label",
+        "content": "contacted.",
+        "confidence": 0.8693,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.656363,
+          "width": 0.076,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0056",
+        "type": "label",
+        "content": "teresasanchez@cup. org.",
+        "confidence": 0.8966,
+        "bbox": {
+          "x": 0.366667,
+          "y": 0.664606,
+          "width": 0.169333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "teresasanchez@cup.org.",
+            "confidence": 0.8966
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "teresasanchez@cup.org.",
+            "confidence": 0.88
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0057",
+        "type": "label",
+        "content": "Thank theperson.",
+        "confidence": 0.8528,
+        "bbox": {
+          "x": 0.130667,
+          "y": 0.68882,
+          "width": 0.13,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "OTRAS eS Thank you very much for your time and consideration.",
+            "confidence": 0.7845
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Thank theperson.",
+            "confidence": 0.8528
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0058",
+        "type": "label",
+        "content": "Sincerely",
+        "confidence": 0.8472,
+        "bbox": {
+          "x": 0.365333,
+          "y": 0.716641,
+          "width": 0.074,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Sincerely,",
+            "confidence": 0.8472
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "(Useaiormalclosing}——— sincerely,",
+            "confidence": 0.355
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0059",
+        "type": "label",
+        "content": "Use a formal closing",
+        "confidence": 0.8934,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.717156,
+          "width": 0.147333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0060",
+        "type": "label",
+        "content": "bhow leayerynl",
+        "confidence": 0.5954,
+        "bbox": {
+          "x": 0.587333,
+          "y": 0.744462,
+          "width": 0.26,
+          "height": 0.021123
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0061",
+        "type": "label",
+        "content": "Theresa Sanchez",
+        "confidence": 0.8762,
+        "bbox": {
+          "x": 0.364667,
+          "y": 0.746007,
+          "width": 0.138667,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Theresa Sanchez",
+            "confidence": 0.8762
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Theresa Sanchez fi",
+            "confidence": 0.83
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0062",
+        "type": "label",
+        "content": "Sign your name.",
+        "confidence": 0.8079,
+        "bbox": {
+          "x": 0.132667,
+          "y": 0.758372,
+          "width": 0.114667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0063",
+        "type": "label",
+        "content": "Theresa Sanchez",
+        "confidence": 0.8335,
+        "bbox": {
+          "x": 0.366667,
+          "y": 0.76713,
+          "width": 0.120667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Theresa Sanchez",
+            "confidence": 0.8335
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Theresa Sanchez iy",
+            "confidence": 0.6433
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0064",
+        "type": "sentence",
+        "content": "B Choose a job from this lesson or use your own idea. Write a letter of interest.",
+        "confidence": 0.9335,
+        "bbox": {
+          "x": 0.083922,
+          "y": 0.817879,
+          "width": 0.555686,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B Choose a job from this lesson oruse your own idea.Write a letter of interest.",
+            "confidence": 0.9109
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Choose a job from this lesson or use your own idea. Write a letter of interest.",
+            "confidence": 0.9335
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0065",
+        "type": "sentence",
+        "content": "Cc Share your letters. What kinds of jobs are your classmates",
+        "confidence": 0.9218,
+        "bbox": {
+          "x": 0.081961,
+          "y": 0.844545,
+          "width": 0.532549,
+          "height": 0.016364
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "GROUPWORkShareyour letters.Whatkinds of jobs areyour classmates",
+            "confidence": 0.877
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Cc Share your letters. What kinds of jobs are your classmates",
+            "confidence": 0.9218
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0066",
+        "type": "sentence",
+        "content": "interested in? What do you think they will be doing in five years?",
+        "confidence": 0.9585,
+        "bbox": {
+          "x": 0.107451,
+          "y": 0.864545,
+          "width": 0.448627,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "interested in? What do you think they will be doing in five years?",
+            "confidence": 0.9208
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "interested in? What do you think they will be doing in five years?",
+            "confidence": 0.9585
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0067",
+        "type": "dialogue_line",
+        "content": "A: Jean is interested in the tech support job.",
+        "confidence": 0.9578,
+        "bbox": {
+          "x": 0.106275,
+          "y": 0.884545,
+          "width": 0.344314,
+          "height": 0.017576
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: Jean is interested in the tech support job.",
+            "confidence": 0.874
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: Jean is interested in the tech support job.",
+            "confidence": 0.9578
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0068",
+        "type": "dialogue_line",
+        "content": "B: Really? | think Jean will be working as a space tour guide in the future",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.107451,
+          "y": 0.908182,
+          "width": 0.547843,
+          "height": 0.015455
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B: Really? I think Jean will be working as a space tour guide in the future,",
+            "confidence": 0.9158
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: Really? | think Jean will be working as a space tour guide in the future,",
+            "confidence": 0.955
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0069",
+        "type": "sentence",
+        "content": "not a tech support officer. She's so friendly and outgoing.",
+        "confidence": 0.9358,
+        "bbox": {
+          "x": 0.124667,
+          "y": 0.925296,
+          "width": 0.443333,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "not a tech support officer. She's so friendly and outgoing.",
+            "confidence": 0.9358
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "not a tech support officer. She's so friendly and outgoing.",
+            "confidence": 0.931
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0070",
+        "type": "label",
+        "content": "I candiscuss future careers.",
+        "confidence": 0.9064,
+        "bbox": {
+          "x": 0.671333,
+          "y": 0.963421,
+          "width": 0.171333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "unit 1",
+      "Writing and speaking A letter of interest",
+      "A Read these job ads for positions at Carolina Industries. Then read the letter below.",
+      "What job is Teresa interested in?",
+      "Tech Support Officer",
+      "Recruiter",
+      "Marketing Assistant",
+      "Maintainand ensure smooth",
+      "Entry-level jobfor recent",
+      "Find, interview, andtest",
+      "applicantsto locate qualified",
+      "graduate. Assiststaff in",
+      "runningofcomputersystems",
+      "employeesforjobopenings. Must",
+      "Marketing Department. Duties",
+      "andinternalnetwork. Mustbe",
+      "familiar withlatest hardware and",
+      "be organized and able totravel to",
+      "includefiling, research. and",
+      "software. Flexible hours.",
+      "colleges and job fairs.",
+      "workingwithnewcustomers",
+      "nwkssoi-y",
+      "Portal Bravo #19D",
+      "Your address",
+      "37529 Leon, Mexico",
+      "June 7,2019",
+      "Date",
+      "Ms. Susan Dodd",
+      "Personnel Manager",
+      "Name, title, company",
+      "and address of the",
+      "Carolina Industries",
+      "person you're writing to",
+      "662 Beacon Road",
+      "Salt Lake City, Utah 84110",
+      "Trytousethe name of",
+      "Dear Ms. Dodd",
+      "theperson.",
+      "State why you are",
+      "would like to express my interest in the marketing assistant job recently",
+      "writing",
+      "advertised on your website.",
+      "will be graduating next month with a B. A. in Marketing from Monterrey",
+      "Briefly state your",
+      "University. | am fluent in English and Spanish, with a basic knowledge of",
+      "education and any",
+      "Japanese. Enclosed is my résumé, which contains detailed information on",
+      "experienceorskills",
+      "my education and experience.",
+      "would appreciate the opportunity to discuss this position with you.",
+      "Say how you can be",
+      "can be reached by cell phone at 319-555-8116 or by email at",
+      "contacted.",
+      "teresasanchez@cup. org.",
+      "Thank theperson.",
+      "Sincerely",
+      "Use a formal closing",
+      "bhow leayerynl",
+      "Theresa Sanchez",
+      "Sign your name.",
+      "Theresa Sanchez",
+      "B Choose a job from this lesson or use your own idea. Write a letter of interest.",
+      "Cc Share your letters. What kinds of jobs are your classmates",
+      "interested in? What do you think they will be doing in five years?",
+      "A: Jean is interested in the tech support job.",
+      "B: Really? | think Jean will be working as a space tour guide in the future",
+      "not a tech support officer. She's so friendly and outgoing.",
+      "I candiscuss future careers."
+    ],
+    "paragraphs": [
+      "be organized and able totravel to",
+      "would like to express my interest in the marketing assistant job recently",
+      "can be reached by cell phone at 319-555-8116 or by email at"
+    ],
+    "sentences": [
+      "unit 1 Writing and speaking A letter of interest A Read these job ads for positions at Carolina Industries",
+      "Then read the letter below",
+      "What job is Teresa interested in",
+      "Tech Support Officer Recruiter Marketing Assistant Maintainand ensure smooth Entry-level jobfor recent Find, interview, andtest applicantsto locate qualified graduate",
+      "Assiststaff in runningofcomputersystems employeesforjobopenings",
+      "Must Marketing Department",
+      "Duties andinternalnetwork",
+      "Mustbe familiar withlatest hardware and be organized and able totravel to includefiling, research",
+      "and software",
+      "Flexible hours",
+      "colleges and job fairs",
+      "workingwithnewcustomers nwkssoi-y Portal Bravo #19D Your address 37529 Leon, Mexico June 7,2019 Date Ms",
+      "Susan Dodd Personnel Manager Name, title, company and address of the Carolina Industries person you're writing to 662 Beacon Road Salt Lake City, Utah 84110 Trytousethe name of Dear Ms",
+      "Dodd theperson",
+      "State why you are would like to express my interest in the marketing assistant job recently writing advertised on your website",
+      "will be graduating next month with a B",
+      "A",
+      "in Marketing from Monterrey Briefly state your University",
+      "| am fluent in English and Spanish, with a basic knowledge of education and any Japanese",
+      "Enclosed is my résumé, which contains detailed information on experienceorskills my education and experience",
+      "would appreciate the opportunity to discuss this position with you",
+      "Say how you can be can be reached by cell phone at 319-555-8116 or by email at contacted",
+      "teresasanchez@cup",
+      "org",
+      "Thank theperson",
+      "Sincerely Use a formal closing bhow leayerynl Theresa Sanchez Sign your name",
+      "Theresa Sanchez B Choose a job from this lesson or use your own idea",
+      "Write a letter of interest",
+      "Cc Share your letters",
+      "What kinds of jobs are your classmates interested in",
+      "What do you think they will be doing in five years",
+      "A: Jean is interested in the tech support job",
+      "B: Really",
+      "| think Jean will be working as a space tour guide in the future not a tech support officer",
+      "She's so friendly and outgoing",
+      "I candiscuss future careers"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "my education and experience.",
+            "confidence": 0.9575,
+            "bbox": {
+              "x": 0.370588,
+              "y": 0.604848,
+              "width": 0.203922,
+              "height": 0.012121
+            },
+            "sourceElementId": "text_0051"
+          },
+          {
+            "speaker": null,
+            "content": "A: Jean is interested in the tech support job.",
+            "confidence": 0.9578,
+            "bbox": {
+              "x": 0.106275,
+              "y": 0.884545,
+              "width": 0.344314,
+              "height": 0.017576
+            },
+            "sourceElementId": "text_0067"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "reading",
+        "instruction": "Read these job ads for positions at Carolina Industries. Then read the letter below.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "writing",
+        "instruction": "Choose a job from this lesson or use your own idea. Write a letter of interest.",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "applicantsto locate qualified",
+          "graduate. Assiststaff in",
+          "runningofcomputersystems",
+          "employeesforjobopenings. Must",
+          "Marketing Department. Duties",
+          "andinternalnetwork. Mustbe",
+          "familiar withlatest hardware and",
+          "be organized and able totravel to",
+          "includefiling, research. and",
+          "software. Flexible hours.",
+          "colleges and job fairs.",
+          "workingwithnewcustomers",
+          "nwkssoi-y",
+          "Portal Bravo #19D",
+          "Your address",
+          "37529 Leon, Mexico",
+          "June 7,2019",
+          "Date",
+          "Ms. Susan Dodd"
+        ],
+        "position": {
+          "x": 0.110667,
+          "y": 0.180927,
+          "width": 0.7599990000000001,
+          "height": 0.2218
+        },
+        "textElementIds": [
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Personnel Manager",
+          "Name, title, company",
+          "and address of the",
+          "Carolina Industries",
+          "person you're writing to",
+          "662 Beacon Road",
+          "Salt Lake City, Utah 84110",
+          "2290",
+          "Trytousethe name of",
+          "Dear Ms. Dodd",
+          "theperson.",
+          "State why you are",
+          "would like to express my interest in the marketing assistant job recently",
+          "writing",
+          "advertised on your website.",
+          "will be graduating next month with a B. A. in Marketing from Monterrey",
+          "Briefly state your",
+          "University. | am fluent in English and Spanish, with a basic knowledge of",
+          "education and any",
+          "Japanese. Enclosed is my résumé, which contains detailed information on",
+          "experienceorskills",
+          "my education and experience."
+        ],
+        "position": {
+          "x": 0.11,
+          "y": 0.371515,
+          "width": 0.7821570000000001,
+          "height": 0.26545400000000013
+        },
+        "textElementIds": [
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040",
+          "text_0041",
+          "text_0042",
+          "text_0043",
+          "text_0044",
+          "text_0045",
+          "text_0046",
+          "text_0047",
+          "text_0048",
+          "text_0049",
+          "text_0050",
+          "text_0051"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "would appreciate the opportunity to discuss this position with you.",
+          "Say how you can be",
+          "can be reached by cell phone at 319-555-8116 or by email at",
+          "contacted.",
+          "teresasanchez@cup. org.",
+          "Thank theperson.",
+          "Sincerely",
+          "Use a formal closing",
+          "bhow leayerynl",
+          "Theresa Sanchez",
+          "Sign your name.",
+          "Theresa Sanchez",
+          "B Choose a job from this lesson or use your own idea. Write a letter of interest."
+        ],
+        "position": {
+          "x": 0.06392199999999999,
+          "y": 0.612121,
+          "width": 0.803411,
+          "height": 0.238788
+        },
+        "textElementIds": [
+          "text_0052",
+          "text_0053",
+          "text_0054",
+          "text_0055",
+          "text_0056",
+          "text_0057",
+          "text_0058",
+          "text_0059",
+          "text_0060",
+          "text_0061",
+          "text_0062",
+          "text_0063",
+          "text_0064"
+        ]
+      }
+    ],
+    "excludedGarbage": [
+      "2290"
+    ]
+  },
+  "learningContent": {
+    "pageType": "lesson",
+    "title": "unit 1",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "my education and experience.",
+            "confidence": 0.9575
+          },
+          {
+            "speaker": null,
+            "content": "A: Jean is interested in the tech support job.",
+            "confidence": 0.9578
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "reading",
+        "instruction": "Read these job ads for positions at Carolina Industries. Then read the letter below.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "writing",
+        "instruction": "Choose a job from this lesson or use your own idea. Write a letter of interest.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "4 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "2 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content.",
+      "1 garbage string(s) excluded"
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "garbageExcluded": 1
+    },
+    "averageOcrConfidence": 0.8876,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 4 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc4_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

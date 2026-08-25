@@ -1,0 +1,655 @@
+{
+  "pageNumber": 1,
+  "pageNumberDetected": false,
+  "pageNumberDetectionMethod": "fallback to PDF page number; printed book number not confidently detected",
+  "pdfPageNumber": 1,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 2_Part1.pdf",
+    "pdfLocalPageNumber": 1,
+    "pageSizePoints": {
+      "width": 595.08,
+      "height": 841.68
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "CAMBRIDGE",
+        "confidence": 0.8675,
+        "bbox": {
+          "x": 0.036,
+          "y": 0.081094,
+          "width": 0.207333,
+          "height": 0.017445
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "CAMBRIDGE",
+            "confidence": 0.08
+          },
+          {
+            "engine": "rapidocr",
+            "content": "CAMBRIDGE",
+            "confidence": 0.8675
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "FOUR",
+        "confidence": 0.7484,
+        "bbox": {
+          "x": 0.046,
+          "y": 0.146629,
+          "width": 0.281333,
+          "height": 0.061292
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "FOUR",
+            "confidence": 0.7484
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "FO UK",
+            "confidence": 0
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0003",
+        "type": "label",
+        "content": "CORNERS",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.05121,
+          "y": 0.207585,
+          "width": 0.460887,
+          "height": 0.052466
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "CORNERS",
+            "confidence": 0.8178
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "CORNERS",
+            "confidence": 0.93
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "Second Edition",
+        "confidence": 0.8419,
+        "bbox": {
+          "x": 0.06,
+          "y": 0.284771,
+          "width": 0.143333,
+          "height": 0.01273
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "Student’s Book",
+        "confidence": 0.935,
+        "bbox": {
+          "x": 0.053629,
+          "y": 0.318791,
+          "width": 0.181048,
+          "height": 0.013972
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Student's Book",
+            "confidence": 0.9046
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Student’s Book",
+            "confidence": 0.935
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "with Online Self-Study",
+        "confidence": 0.8914,
+        "bbox": {
+          "x": 0.051333,
+          "y": 0.33852,
+          "width": 0.176,
+          "height": 0.015559
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Experience",
+        "confidence": 0.869,
+        "bbox": {
+          "x": 0.852667,
+          "y": 0.901462,
+          "width": 0.095333,
+          "height": 0.01273
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Experience",
+            "confidence": 0.869
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "» Experience",
+            "confidence": 0.49
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "JACK C. RICHARDS i Better",
+        "confidence": 0.812,
+        "bbox": {
+          "x": 0.05,
+          "y": 0.917879,
+          "width": 0.855645,
+          "height": 0.012831
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "JACK C.RICHARDS",
+            "confidence": 0.884
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "JACK C. RICHARDS i Better",
+            "confidence": 0.812
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "Better",
+        "confidence": 0.8444,
+        "bbox": {
+          "x": 0.848667,
+          "y": 0.918435,
+          "width": 0.06,
+          "height": 0.01603
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "DAVIDBOHLKE",
+        "confidence": 0.8869,
+        "bbox": {
+          "x": 0.048667,
+          "y": 0.937294,
+          "width": 0.154,
+          "height": 0.01273
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "DAVID BOHLKE \\ Learning",
+            "confidence": 0.7575
+          },
+          {
+            "engine": "rapidocr",
+            "content": "DAVIDBOHLKE",
+            "confidence": 0.8869
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "Learning",
+        "confidence": 0.8642,
+        "bbox": {
+          "x": 0.848667,
+          "y": 0.938237,
+          "width": 0.08,
+          "height": 0.016973
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [],
+    "ocrExercises": [],
+    "ocrTables": [],
+    "ocrImages": [],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "CAMBRIDGE\nFOUR\nCORNERS\nSecond Edition\nStudent's Book\nwith Online Self-Study\ndehkhodaedu.com\nExperience\nJACK C.RICHARDS\nBetter\nDAVIDBOHLKE\nLearning\ndehkhodaedu.com",
+      "tesseract_psm3": "CAMBRIDGE\n\nFO UK\nCORNERS\n\nStudent’s Book\n\n» Experience\nJACK C. RICHARDS i Better\n\nDAVID BOHLKE \\ Learning\n\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8688,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "Printed book page number was not confidently detected; pageNumber uses the PDF-page fallback and pageNumberDetected is false.",
+      "1 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "cover",
+    "headings": [
+      "CAMBRIDGE",
+      "FOUR"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "CAMBRIDGE",
+        "confidence": 0.8675,
+        "bbox": {
+          "x": 0.036,
+          "y": 0.081094,
+          "width": 0.207333,
+          "height": 0.017445
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "CAMBRIDGE",
+            "confidence": 0.08
+          },
+          {
+            "engine": "rapidocr",
+            "content": "CAMBRIDGE",
+            "confidence": 0.8675
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "FOUR",
+        "confidence": 0.7484,
+        "bbox": {
+          "x": 0.046,
+          "y": 0.146629,
+          "width": 0.281333,
+          "height": 0.061292
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "FOUR",
+            "confidence": 0.7484
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "FO UK",
+            "confidence": 0
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0003",
+        "type": "label",
+        "content": "CORNERS",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.05121,
+          "y": 0.207585,
+          "width": 0.460887,
+          "height": 0.052466
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "CORNERS",
+            "confidence": 0.8178
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "CORNERS",
+            "confidence": 0.93
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "Second Edition",
+        "confidence": 0.8419,
+        "bbox": {
+          "x": 0.06,
+          "y": 0.284771,
+          "width": 0.143333,
+          "height": 0.01273
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "Student's Book",
+        "confidence": 0.935,
+        "bbox": {
+          "x": 0.053629,
+          "y": 0.318791,
+          "width": 0.181048,
+          "height": 0.013972
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Student's Book",
+            "confidence": 0.9046
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Student’s Book",
+            "confidence": 0.935
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "with Online Self-Study",
+        "confidence": 0.8914,
+        "bbox": {
+          "x": 0.051333,
+          "y": 0.33852,
+          "width": 0.176,
+          "height": 0.015559
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Experience",
+        "confidence": 0.869,
+        "bbox": {
+          "x": 0.852667,
+          "y": 0.901462,
+          "width": 0.095333,
+          "height": 0.01273
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Experience",
+            "confidence": 0.869
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "» Experience",
+            "confidence": 0.49
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "JACK C. RICHARDS i Better",
+        "confidence": 0.812,
+        "bbox": {
+          "x": 0.05,
+          "y": 0.917879,
+          "width": 0.855645,
+          "height": 0.012831
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "JACK C.RICHARDS",
+            "confidence": 0.884
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "JACK C. RICHARDS i Better",
+            "confidence": 0.812
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "Better",
+        "confidence": 0.8444,
+        "bbox": {
+          "x": 0.848667,
+          "y": 0.918435,
+          "width": 0.06,
+          "height": 0.01603
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "DAVIDBOHLKE",
+        "confidence": 0.8869,
+        "bbox": {
+          "x": 0.048667,
+          "y": 0.937294,
+          "width": 0.154,
+          "height": 0.01273
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "DAVID BOHLKE \\ Learning",
+            "confidence": 0.7575
+          },
+          {
+            "engine": "rapidocr",
+            "content": "DAVIDBOHLKE",
+            "confidence": 0.8869
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "Learning",
+        "confidence": 0.8642,
+        "bbox": {
+          "x": 0.848667,
+          "y": 0.938237,
+          "width": 0.08,
+          "height": 0.016973
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "CAMBRIDGE",
+      "FOUR",
+      "CORNERS",
+      "Second Edition",
+      "Student's Book",
+      "with Online Self-Study",
+      "Experience",
+      "JACK C. RICHARDS i Better",
+      "Better",
+      "DAVIDBOHLKE",
+      "Learning"
+    ],
+    "paragraphs": [],
+    "sentences": [
+      "CAMBRIDGE FOUR CORNERS Second Edition Student's Book with Online Self-Study Experience JACK C",
+      "RICHARDS i Better Better DAVIDBOHLKE Learning"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [],
+    "exercises": [],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "cover",
+    "title": "CAMBRIDGE",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [],
+    "reading": [],
+    "exercises": [],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "Printed book page number was not confidently detected; pageNumber uses the PDF-page fallback and pageNumberDetected is false.",
+      "1 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {},
+    "averageOcrConfidence": 0.8688,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 2 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc2_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}
