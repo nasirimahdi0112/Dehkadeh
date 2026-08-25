@@ -1,0 +1,2335 @@
+{
+  "pageNumber": 117,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "verified sequential printed-footer pattern",
+  "pdfPageNumber": 118,
+  "source": {
+    "pdfFile": "Family and Friends 4 SB_Part3.pdf",
+    "pdfLocalPageNumber": 13,
+    "pageSizePoints": {
+      "width": 600.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Lesson Six",
+        "confidence": 0.8284,
+        "bbox": {
+          "x": 0.817333,
+          "y": 0.069697,
+          "width": 0.118667,
+          "height": 0.019697
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Listening",
+        "confidence": 0.8608,
+        "bbox": {
+          "x": 0.06,
+          "y": 0.089899,
+          "width": 0.088,
+          "height": 0.022222
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "1 Listen and number.",
+        "confidence": 0.8289,
+        "bbox": {
+          "x": 0.055333,
+          "y": 0.122727,
+          "width": 0.21,
+          "height": 0.017172
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "126",
+        "confidence": 0.587,
+        "bbox": {
+          "x": 0.308667,
+          "y": 0.128283,
+          "width": 0.023333,
+          "height": 0.011111
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0005",
+        "type": "instruction",
+        "content": "2 Listen again. Write S (Stuart), E (Emily), or A (Anna).",
+        "confidence": 0.9364,
+        "bbox": {
+          "x": 0.054,
+          "y": 0.27697,
+          "width": 0.5192,
+          "height": 0.017879
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2 Listen again. Write S (Stuart), E (Emily), or A (Anna).",
+            "confidence": 0.8991
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Listen again. Write S (Stuart), E (Emily), or A (Anna).",
+            "confidence": 0.9364
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "sentence",
+        "content": "1 Who helped look after animals?",
+        "confidence": 0.8823,
+        "bbox": {
+          "x": 0.075333,
+          "y": 0.306061,
+          "width": 0.313333,
+          "height": 0.017677
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Who helped look after animals? a 2 Who helped look after a child? ()",
+            "confidence": 0.8593
+          },
+          {
+            "engine": "rapidocr",
+            "content": "1 Who helped look after animals?",
+            "confidence": 0.8823
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "sentence",
+        "content": "2 Who helped look after a child?",
+        "confidence": 0.8784,
+        "bbox": {
+          "x": 0.505333,
+          "y": 0.307071,
+          "width": 0.302667,
+          "height": 0.019192
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "paragraph",
+        "content": "3 Who went to a new country? Gi 4 Who usually has a party at home? a",
+        "confidence": 0.9182,
+        "bbox": {
+          "x": 0.0752,
+          "y": 0.335152,
+          "width": 0.8108,
+          "height": 0.025758
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Who went to a new country? Gi 4 Who usually has a party at home? a",
+            "confidence": 0.9182
+          },
+          {
+            "engine": "rapidocr",
+            "content": "3 Who went to a new country?",
+            "confidence": 0.8918
+          },
+          {
+            "engine": "rapidocr",
+            "content": "4 Who usually has a party at home?",
+            "confidence": 0.9049
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "sentence",
+        "content": "5 Who had a brother three years ago?",
+        "confidence": 0.9138,
+        "bbox": {
+          "x": 0.073333,
+          "y": 0.371212,
+          "width": 0.356667,
+          "height": 0.020707
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 Who had a brother three years ago? a 6 Who went surfing? [?-)",
+            "confidence": 0.875
+          },
+          {
+            "engine": "rapidocr",
+            "content": "5 Who had a brother three years ago?",
+            "confidence": 0.9138
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "6 Who went surfing?",
+        "confidence": 0.8538,
+        "bbox": {
+          "x": 0.506,
+          "y": 0.373232,
+          "width": 0.193333,
+          "height": 0.019697
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "heading",
+        "content": "Speaking",
+        "confidence": 0.8769,
+        "bbox": {
+          "x": 0.061333,
+          "y": 0.418182,
+          "width": 0.089333,
+          "height": 0.020202
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "instruction",
+        "content": "3 Ask and answer. Talk about your happy memories.",
+        "confidence": 0.9544,
+        "bbox": {
+          "x": 0.054,
+          "y": 0.449697,
+          "width": 0.5144,
+          "height": 0.018182
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3 Ask and answer.Talk about your happy memories.",
+            "confidence": 0.8823
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Ask and answer. Talk about your happy memories.",
+            "confidence": 0.9544
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "sentence",
+        "content": "1 What is your happiest memory? 2 When was it?",
+        "confidence": 0.944,
+        "bbox": {
+          "x": 0.0752,
+          "y": 0.480909,
+          "width": 0.5644,
+          "height": 0.016364
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "1 What is your happiest memory?",
+            "confidence": 0.9373
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 What is your happiest memory? 2 When was it?",
+            "confidence": 0.944
+          },
+          {
+            "engine": "rapidocr",
+            "content": "2 When was it?",
+            "confidence": 0.8479
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "4 How did you feel?",
+        "confidence": 0.8858,
+        "bbox": {
+          "x": 0.497333,
+          "y": 0.513636,
+          "width": 0.185333,
+          "height": 0.018182
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "3 Describe what happened? 4 How did you feel?",
+        "confidence": 0.9478,
+        "bbox": {
+          "x": 0.0744,
+          "y": 0.513939,
+          "width": 0.6072,
+          "height": 0.017576
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3 Describe what happened?",
+            "confidence": 0.8785
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Describe what happened? 4 How did you feel?",
+            "confidence": 0.9478
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "What is your happiest memory?",
+        "confidence": 0.9166,
+        "bbox": {
+          "x": 0.120667,
+          "y": 0.551515,
+          "width": 0.280667,
+          "height": 0.018687
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "_- What is your happiest memory? It’s when | got my new bike ...",
+            "confidence": 0.8164
+          },
+          {
+            "engine": "rapidocr",
+            "content": "What is your happiest memory?",
+            "confidence": 0.9166
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "sentence",
+        "content": "It's when I got my.new bike",
+        "confidence": 0.8768,
+        "bbox": {
+          "x": 0.468,
+          "y": 0.55303,
+          "width": 0.242,
+          "height": 0.017677
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "heading",
+        "content": "Writing preparation",
+        "confidence": 0.8534,
+        "bbox": {
+          "x": 0.047333,
+          "y": 0.607576,
+          "width": 0.184667,
+          "height": 0.020707
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Writing preparation",
+            "confidence": 0.8534
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "5_ Writing preparation",
+            "confidence": 0.64
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "sentence",
+        "content": "What can you find in apoem?",
+        "confidence": 0.885,
+        "bbox": {
+          "x": 0.048,
+          "y": 0.652525,
+          "width": 0.279333,
+          "height": 0.020202
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What can you find in apoem?",
+            "confidence": 0.885
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What can you find in 0 poem?",
+            "confidence": 0.8229
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "instruction",
+        "content": "Complete the",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.8252,
+          "y": 0.661212,
+          "width": 0.1308,
+          "height": 0.016364
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Complete the",
+            "confidence": 0.8641
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Complete the",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "instruction",
+        "content": "Look at the poem again. The lines are in different parts, or werses.",
+        "confidence": 0.9538,
+        "bbox": {
+          "x": 0.0508,
+          "y": 0.67697,
+          "width": 0.5944,
+          "height": 0.017879
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Look at the poem again. The lines are in different parts, or verses.",
+            "confidence": 0.9227
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Look at the poem again. The lines are in different parts, or werses.",
+            "confidence": 0.9538
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "writing tasks",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.8236,
+          "y": 0.685758,
+          "width": 0.1228,
+          "height": 0.016364
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "writing tasks",
+            "confidence": 0.8359
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "writing tasks",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "sentence",
+        "content": "Some poems rhyme. This means there are words which sound the same",
+        "confidence": 0.9209,
+        "bbox": {
+          "x": 0.046667,
+          "y": 0.69697,
+          "width": 0.659333,
+          "height": 0.022222
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Some poems rhyme. This means there are words which sound the same",
+            "confidence": 0.9209
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Some poems f/yyrree. This means there are words which sound the same",
+            "confidence": 0.8775
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "on pages",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.8244,
+          "y": 0.714545,
+          "width": 0.0864,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "on pages",
+            "confidence": 0.8396
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "on pages",
+            "confidence": 0.94
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "116-117 of",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.8268,
+          "y": 0.734545,
+          "width": 0.1132,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "116-117of",
+            "confidence": 0.872
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "116-117 of",
+            "confidence": 0.94
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "instruction",
+        "content": "4Look at the poem again and answer the questions.",
+        "confidence": 0.9202,
+        "bbox": {
+          "x": 0.033333,
+          "y": 0.741919,
+          "width": 0.531333,
+          "height": 0.022222
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4Look at the poem again and answer the questions.",
+            "confidence": 0.9202
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "* Look at the poem again and answer the questions. iia Workticok.",
+            "confidence": 0.7892
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "theWorkbook",
+        "confidence": 0.9092,
+        "bbox": {
+          "x": 0.821333,
+          "y": 0.756566,
+          "width": 0.15,
+          "height": 0.018182
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "sentence",
+        "content": "1 Howmany verses are there in the poem?",
+        "confidence": 0.8828,
+        "bbox": {
+          "x": 0.062667,
+          "y": 0.772727,
+          "width": 0.398,
+          "height": 0.018182
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 How many verses are there in the poem? —",
+            "confidence": 0.831
+          },
+          {
+            "engine": "rapidocr",
+            "content": "1 Howmany verses are there in the poem?",
+            "confidence": 0.8828
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "Pages",
+        "confidence": 0.7362,
+        "bbox": {
+          "x": 0.842667,
+          "y": 0.79596,
+          "width": 0.046667,
+          "height": 0.012626
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0030",
+        "type": "sentence",
+        "content": "2 How many lines are there in each verse?",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.0644,
+          "y": 0.806061,
+          "width": 0.3936,
+          "height": 0.017879
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2 Howmany linesare therein eachverse?",
+            "confidence": 0.8994
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 How many lines are there in each verse?",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "116-117",
+        "confidence": 0.8292,
+        "bbox": {
+          "x": 0.828,
+          "y": 0.811616,
+          "width": 0.079333,
+          "height": 0.017172
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "sentence",
+        "content": "_ 3 Circle all the words that rhyme in the poem.",
+        "confidence": 0.87,
+        "bbox": {
+          "x": 0.046,
+          "y": 0.833636,
+          "width": 0.44,
+          "height": 0.023333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3 Circleall the words that rhyme in the poem.",
+            "confidence": 0.8729
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "_ 3 Circle all the words that rhyme in the poem.",
+            "confidence": 0.87
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "sentence",
+        "content": "What pattern can you see?",
+        "confidence": 0.9162,
+        "bbox": {
+          "x": 0.087333,
+          "y": 0.865657,
+          "width": 0.248,
+          "height": 0.019697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "What pattern can you see? _",
+            "confidence": 0.84
+          },
+          {
+            "engine": "rapidocr",
+            "content": "What pattern can you see?",
+            "confidence": 0.9162
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "117",
+        "confidence": 0.745,
+        "bbox": {
+          "x": 0.928,
+          "y": 0.945455,
+          "width": 0.036667,
+          "height": 0.017677
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0035",
+        "type": "paragraph",
+        "content": "Listening, speaking, writing Unit 14",
+        "confidence": 0.936,
+        "bbox": {
+          "x": 0.6144,
+          "y": 0.955455,
+          "width": 0.2608,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listening.speaking,writing",
+            "confidence": 0.8466
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listening, speaking, writing Unit 14",
+            "confidence": 0.936
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "What is your happiest memory?",
+            "confidence": 0.9166,
+            "bbox": {
+              "x": 0.120667,
+              "y": 0.551515,
+              "width": 0.280667,
+              "height": 0.018687
+            },
+            "sourceElementId": "text_0016",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "It's when I got my.new bike",
+            "confidence": 0.8768,
+            "bbox": {
+              "x": 0.468,
+              "y": 0.55303,
+              "width": 0.242,
+              "height": 0.017677
+            },
+            "sourceElementId": "text_0017",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "What can you find in apoem?",
+            "confidence": 0.885,
+            "bbox": {
+              "x": 0.048,
+              "y": 0.652525,
+              "width": 0.279333,
+              "height": 0.020202
+            },
+            "sourceElementId": "text_0019",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "What pattern can you see?",
+            "confidence": 0.9162,
+            "bbox": {
+              "x": 0.087333,
+              "y": 0.865657,
+              "width": 0.248,
+              "height": 0.019697
+            },
+            "sourceElementId": "text_0033",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected spatially; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "listening_activity",
+        "instruction": "Listen and number.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0003"
+        ],
+        "confidence": 0.8289
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "listening_activity",
+        "instruction": "Listen again. Write S (Stuart), E (Emily), or A (Anna).",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0005"
+        ],
+        "confidence": 0.9364
+      },
+      {
+        "exerciseNumber": "1",
+        "type": "exercise",
+        "instruction": "Who helped look after animals?",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0006"
+        ],
+        "confidence": 0.8823
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "exercise",
+        "instruction": "Who helped look after a child?",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0007"
+        ],
+        "confidence": 0.8784
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "exercise",
+        "instruction": "Ask and answer. Talk about your happy memories.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0012"
+        ],
+        "confidence": 0.9544
+      },
+      {
+        "exerciseNumber": "4",
+        "type": "exercise",
+        "instruction": "Look at the poem again and answer the questions.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0026"
+        ],
+        "confidence": 0.9202
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "2 Listen again. Write S (Stuart), E (Emily), or A (Anna).",
+          "1 Who helped look after animals?",
+          "2 Who helped look after a child?",
+          "3 Who went to a new country? Gi 4 Who usually has a party at home? a",
+          "5 Who had a brother three years ago?",
+          "6 Who went surfing?",
+          "Speaking",
+          "3 Ask and answer. Talk about your happy memories.",
+          "1 What is your happiest memory? 2 When was it?"
+        ],
+        "position": {
+          "x": 0.034,
+          "y": 0.25697,
+          "width": 0.872,
+          "height": 0.260303
+        },
+        "textElementIds": [
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "4 How did you feel?",
+          "3 Describe what happened? 4 How did you feel?",
+          "What is your happiest memory?",
+          "It's when I got my.new bike",
+          "Writing preparation",
+          "What can you find in apoem?",
+          "Complete the",
+          "Look at the poem again. The lines are in different parts, or werses.",
+          "writing tasks",
+          "Some poems rhyme. This means there are words which sound the same",
+          "on pages",
+          "116-117 of",
+          "4Look at the poem again and answer the questions.",
+          "theWorkbook",
+          "1 Howmany verses are there in the poem?"
+        ],
+        "position": {
+          "x": 0.013333000000000001,
+          "y": 0.49363599999999996,
+          "width": 0.978,
+          "height": 0.31727300000000014
+        },
+        "textElementIds": [
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Pages",
+          "2 How many lines are there in each verse?",
+          "116-117",
+          "_ 3 Circle all the words that rhyme in the poem."
+        ],
+        "position": {
+          "x": 0.026,
+          "y": 0.77596,
+          "width": 0.9013329999999999,
+          "height": 0.10100900000000013
+        },
+        "textElementIds": [
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "Lesson Six\nListening\n1 Listen and number.\n126\n2 Listen again. Write S (Stuart), E (Emily), or A (Anna).\n1 Who helped look after animals?\n2 Who helped look after a child?\n3 Who went to a new country?\n4 Who usually has a party at home?\n5 Who had a brother three years ago?\n6 Who went surfing?\nSpeaking\n3 Ask and answer.Talk about your happy memories.\n1 What is your happiest memory?\n2 When was it?\n3 Describe what happened?\n4 How did you feel?\nWhat is your happiest memory?\nIt's when I got my.new bike\nWriting preparation\nWhat can you find in apoem?\nComplete the\nLook at the poem again. The lines are in different parts, or verses.\nwriting tasks\nSome poems rhyme. This means there are words which sound the same\non pages\n116-117of\n4Look at the poem again and answer the questions.\ntheWorkbook\n1 Howmany verses are there in the poem?\nPages\n2 Howmany linesare therein eachverse?\n116-117\n3 Circleall the words that rhyme in the poem.\nWhat pattern can you see?\n117\nListening.speaking,writing",
+      "tesseract_psm3": "2 Listen again. Write S (Stuart), E (Emily), or A (Anna).\n1 Who helped look after animals? a 2 Who helped look after a child? ()\n\n3 Who went to a new country? Gi 4 Who usually has a party at home? a\n5 Who had a brother three years ago? a 6 Who went surfing? [?-)\n\n3 Ask and answer. Talk about your happy memories.\n\n1 What is your happiest memory? 2 When was it?\n\n3 Describe what happened? 4 How did you feel?\n\n_- What is your happiest memory? It’s when | got my new bike ...\n\n5_ Writing preparation\n\nWhat can you find in 0 poem?\n\nLook at the poem again. The lines are in different parts, or werses.\nSome poems f/yyrree. This means there are words which sound the same\n\nComplete the\nwriting tasks\non pages\n116-117 of\n\n* Look at the poem again and answer the questions. iia Workticok.\n\n1 How many verses are there in the poem? —\n2 How many lines are there in each verse?\n\n_ 3 Circle all the words that rhyme in the poem.\n\nWhat pattern can you see? _\n\nListening, speaking, writing Unit 14\n\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8853,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "3 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "listening_speaking_writing",
+    "headings": [
+      "Lesson Six",
+      "Listening",
+      "1 Listen and number.",
+      "Speaking",
+      "Writing preparation"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Lesson Six",
+        "confidence": 0.8284,
+        "bbox": {
+          "x": 0.817333,
+          "y": 0.069697,
+          "width": 0.118667,
+          "height": 0.019697
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Listening",
+        "confidence": 0.8608,
+        "bbox": {
+          "x": 0.06,
+          "y": 0.089899,
+          "width": 0.088,
+          "height": 0.022222
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "1 Listen and number.",
+        "confidence": 0.8289,
+        "bbox": {
+          "x": 0.055333,
+          "y": 0.122727,
+          "width": 0.21,
+          "height": 0.017172
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "instruction",
+        "content": "2 Listen again. Write S (Stuart), E (Emily), or A (Anna).",
+        "confidence": 0.9364,
+        "bbox": {
+          "x": 0.054,
+          "y": 0.27697,
+          "width": 0.5192,
+          "height": 0.017879
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2 Listen again. Write S (Stuart), E (Emily), or A (Anna).",
+            "confidence": 0.8991
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Listen again. Write S (Stuart), E (Emily), or A (Anna).",
+            "confidence": 0.9364
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "sentence",
+        "content": "1 Who helped look after animals?",
+        "confidence": 0.8823,
+        "bbox": {
+          "x": 0.075333,
+          "y": 0.306061,
+          "width": 0.313333,
+          "height": 0.017677
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Who helped look after animals? a 2 Who helped look after a child? ()",
+            "confidence": 0.8593
+          },
+          {
+            "engine": "rapidocr",
+            "content": "1 Who helped look after animals?",
+            "confidence": 0.8823
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "sentence",
+        "content": "2 Who helped look after a child?",
+        "confidence": 0.8784,
+        "bbox": {
+          "x": 0.505333,
+          "y": 0.307071,
+          "width": 0.302667,
+          "height": 0.019192
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "paragraph",
+        "content": "3 Who went to a new country? Gi 4 Who usually has a party at home? a",
+        "confidence": 0.9182,
+        "bbox": {
+          "x": 0.0752,
+          "y": 0.335152,
+          "width": 0.8108,
+          "height": 0.025758
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Who went to a new country? Gi 4 Who usually has a party at home? a",
+            "confidence": 0.9182
+          },
+          {
+            "engine": "rapidocr",
+            "content": "3 Who went to a new country?",
+            "confidence": 0.8918
+          },
+          {
+            "engine": "rapidocr",
+            "content": "4 Who usually has a party at home?",
+            "confidence": 0.9049
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "sentence",
+        "content": "5 Who had a brother three years ago?",
+        "confidence": 0.9138,
+        "bbox": {
+          "x": 0.073333,
+          "y": 0.371212,
+          "width": 0.356667,
+          "height": 0.020707
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 Who had a brother three years ago? a 6 Who went surfing? [?-)",
+            "confidence": 0.875
+          },
+          {
+            "engine": "rapidocr",
+            "content": "5 Who had a brother three years ago?",
+            "confidence": 0.9138
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "6 Who went surfing?",
+        "confidence": 0.8538,
+        "bbox": {
+          "x": 0.506,
+          "y": 0.373232,
+          "width": 0.193333,
+          "height": 0.019697
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "heading",
+        "content": "Speaking",
+        "confidence": 0.8769,
+        "bbox": {
+          "x": 0.061333,
+          "y": 0.418182,
+          "width": 0.089333,
+          "height": 0.020202
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "instruction",
+        "content": "3 Ask and answer. Talk about your happy memories.",
+        "confidence": 0.9544,
+        "bbox": {
+          "x": 0.054,
+          "y": 0.449697,
+          "width": 0.5144,
+          "height": 0.018182
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3 Ask and answer.Talk about your happy memories.",
+            "confidence": 0.8823
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Ask and answer. Talk about your happy memories.",
+            "confidence": 0.9544
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "sentence",
+        "content": "1 What is your happiest memory? 2 When was it?",
+        "confidence": 0.944,
+        "bbox": {
+          "x": 0.0752,
+          "y": 0.480909,
+          "width": 0.5644,
+          "height": 0.016364
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "1 What is your happiest memory?",
+            "confidence": 0.9373
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 What is your happiest memory? 2 When was it?",
+            "confidence": 0.944
+          },
+          {
+            "engine": "rapidocr",
+            "content": "2 When was it?",
+            "confidence": 0.8479
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "4 How did you feel?",
+        "confidence": 0.8858,
+        "bbox": {
+          "x": 0.497333,
+          "y": 0.513636,
+          "width": 0.185333,
+          "height": 0.018182
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "3 Describe what happened? 4 How did you feel?",
+        "confidence": 0.9478,
+        "bbox": {
+          "x": 0.0744,
+          "y": 0.513939,
+          "width": 0.6072,
+          "height": 0.017576
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3 Describe what happened?",
+            "confidence": 0.8785
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Describe what happened? 4 How did you feel?",
+            "confidence": 0.9478
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "What is your happiest memory?",
+        "confidence": 0.9166,
+        "bbox": {
+          "x": 0.120667,
+          "y": 0.551515,
+          "width": 0.280667,
+          "height": 0.018687
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "_- What is your happiest memory? It’s when | got my new bike ...",
+            "confidence": 0.8164
+          },
+          {
+            "engine": "rapidocr",
+            "content": "What is your happiest memory?",
+            "confidence": 0.9166
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "sentence",
+        "content": "It's when I got my. new bike",
+        "confidence": 0.8768,
+        "bbox": {
+          "x": 0.468,
+          "y": 0.55303,
+          "width": 0.242,
+          "height": 0.017677
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "heading",
+        "content": "Writing preparation",
+        "confidence": 0.8534,
+        "bbox": {
+          "x": 0.047333,
+          "y": 0.607576,
+          "width": 0.184667,
+          "height": 0.020707
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Writing preparation",
+            "confidence": 0.8534
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "5_ Writing preparation",
+            "confidence": 0.64
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "sentence",
+        "content": "What can you find in a poem?",
+        "confidence": 0.885,
+        "bbox": {
+          "x": 0.048,
+          "y": 0.652525,
+          "width": 0.279333,
+          "height": 0.020202
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What can you find in apoem?",
+            "confidence": 0.885
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What can you find in 0 poem?",
+            "confidence": 0.8229
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "instruction",
+        "content": "Complete the",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.8252,
+          "y": 0.661212,
+          "width": 0.1308,
+          "height": 0.016364
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Complete the",
+            "confidence": 0.8641
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Complete the",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "instruction",
+        "content": "Look at the poem again. The lines are in different parts, or wer ses.",
+        "confidence": 0.9538,
+        "bbox": {
+          "x": 0.0508,
+          "y": 0.67697,
+          "width": 0.5944,
+          "height": 0.017879
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Look at the poem again. The lines are in different parts, or verses.",
+            "confidence": 0.9227
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Look at the poem again. The lines are in different parts, or werses.",
+            "confidence": 0.9538
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "writing tasks",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.8236,
+          "y": 0.685758,
+          "width": 0.1228,
+          "height": 0.016364
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "writing tasks",
+            "confidence": 0.8359
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "writing tasks",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "sentence",
+        "content": "Some poems rhyme. This means there are words which sound the same",
+        "confidence": 0.9209,
+        "bbox": {
+          "x": 0.046667,
+          "y": 0.69697,
+          "width": 0.659333,
+          "height": 0.022222
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Some poems rhyme. This means there are words which sound the same",
+            "confidence": 0.9209
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Some poems f/yyrree. This means there are words which sound the same",
+            "confidence": 0.8775
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "on pages",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.8244,
+          "y": 0.714545,
+          "width": 0.0864,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "on pages",
+            "confidence": 0.8396
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "on pages",
+            "confidence": 0.94
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "instruction",
+        "content": "4Look at the poem again and answer the questions.",
+        "confidence": 0.9202,
+        "bbox": {
+          "x": 0.033333,
+          "y": 0.741919,
+          "width": 0.531333,
+          "height": 0.022222
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4Look at the poem again and answer the questions.",
+            "confidence": 0.9202
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "* Look at the poem again and answer the questions. iia Workticok.",
+            "confidence": 0.7892
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "the Workbook",
+        "confidence": 0.9092,
+        "bbox": {
+          "x": 0.821333,
+          "y": 0.756566,
+          "width": 0.15,
+          "height": 0.018182
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "sentence",
+        "content": "1 How many verses are there in the poem?",
+        "confidence": 0.8828,
+        "bbox": {
+          "x": 0.062667,
+          "y": 0.772727,
+          "width": 0.398,
+          "height": 0.018182
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 How many verses are there in the poem? —",
+            "confidence": 0.831
+          },
+          {
+            "engine": "rapidocr",
+            "content": "1 Howmany verses are there in the poem?",
+            "confidence": 0.8828
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "Pages",
+        "confidence": 0.7362,
+        "bbox": {
+          "x": 0.842667,
+          "y": 0.79596,
+          "width": 0.046667,
+          "height": 0.012626
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0030",
+        "type": "sentence",
+        "content": "2 How many lines are there in each verse?",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.0644,
+          "y": 0.806061,
+          "width": 0.3936,
+          "height": 0.017879
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2 Howmany linesare therein eachverse?",
+            "confidence": 0.8994
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 How many lines are there in each verse?",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "sentence",
+        "content": "3 Circle all the words that rhyme in the poem.",
+        "confidence": 0.87,
+        "bbox": {
+          "x": 0.046,
+          "y": 0.833636,
+          "width": 0.44,
+          "height": 0.023333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3 Circleall the words that rhyme in the poem.",
+            "confidence": 0.8729
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "_ 3 Circle all the words that rhyme in the poem.",
+            "confidence": 0.87
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "sentence",
+        "content": "What pattern can you see?",
+        "confidence": 0.9162,
+        "bbox": {
+          "x": 0.087333,
+          "y": 0.865657,
+          "width": 0.248,
+          "height": 0.019697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "What pattern can you see? _",
+            "confidence": 0.84
+          },
+          {
+            "engine": "rapidocr",
+            "content": "What pattern can you see?",
+            "confidence": 0.9162
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "paragraph",
+        "content": "Listening, speaking, writing Unit 14",
+        "confidence": 0.936,
+        "bbox": {
+          "x": 0.6144,
+          "y": 0.955455,
+          "width": 0.2608,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listening.speaking,writing",
+            "confidence": 0.8466
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listening, speaking, writing Unit 14",
+            "confidence": 0.936
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Lesson Six",
+      "Listening",
+      "1 Listen and number.",
+      "2 Listen again. Write S (Stuart), E (Emily), or A (Anna).",
+      "1 Who helped look after animals?",
+      "2 Who helped look after a child?",
+      "3 Who went to a new country? Gi 4 Who usually has a party at home? a",
+      "5 Who had a brother three years ago?",
+      "6 Who went surfing?",
+      "Speaking",
+      "3 Ask and answer. Talk about your happy memories.",
+      "1 What is your happiest memory? 2 When was it?",
+      "4 How did you feel?",
+      "3 Describe what happened? 4 How did you feel?",
+      "What is your happiest memory?",
+      "It's when I got my. new bike",
+      "Writing preparation",
+      "What can you find in a poem?",
+      "Complete the",
+      "Look at the poem again. The lines are in different parts, or wer ses.",
+      "writing tasks",
+      "Some poems rhyme. This means there are words which sound the same",
+      "on pages",
+      "4Look at the poem again and answer the questions.",
+      "the Workbook",
+      "1 How many verses are there in the poem?",
+      "Pages",
+      "2 How many lines are there in each verse?",
+      "3 Circle all the words that rhyme in the poem.",
+      "What pattern can you see?",
+      "Listening, speaking, writing Unit 14"
+    ],
+    "paragraphs": [
+      "3 Who went to a new country? Gi 4 Who usually has a party at home? a",
+      "Listening, speaking, writing Unit 14"
+    ],
+    "sentences": [
+      "Lesson Six Listening 1 Listen and number",
+      "2 Listen again",
+      "Write S (Stuart), E (Emily), or A (Anna)",
+      "1 Who helped look after animals",
+      "2 Who helped look after a child",
+      "3 Who went to a new country",
+      "Gi 4 Who usually has a party at home",
+      "a 5 Who had a brother three years ago",
+      "6 Who went surfing",
+      "Speaking 3 Ask and answer",
+      "Talk about your happy memories",
+      "1 What is your happiest memory",
+      "2 When was it",
+      "4 How did you feel",
+      "3 Describe what happened",
+      "4 How did you feel",
+      "What is your happiest memory",
+      "It's when I got my",
+      "new bike Writing preparation What can you find in a poem",
+      "Complete the Look at the poem again",
+      "The lines are in different parts, or wer ses",
+      "writing tasks Some poems rhyme",
+      "This means there are words which sound the same on pages 4Look at the poem again and answer the questions",
+      "the Workbook 1 How many verses are there in the poem",
+      "Pages 2 How many lines are there in each verse",
+      "3 Circle all the words that rhyme in the poem",
+      "What pattern can you see",
+      "Listening, speaking, writing Unit 14"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "What is your happiest memory?",
+            "confidence": 0.9166,
+            "bbox": {
+              "x": 0.120667,
+              "y": 0.551515,
+              "width": 0.280667,
+              "height": 0.018687
+            },
+            "sourceElementId": "text_0016"
+          },
+          {
+            "speaker": null,
+            "content": "It's when I got my. new bike",
+            "confidence": 0.8768,
+            "bbox": {
+              "x": 0.468,
+              "y": 0.55303,
+              "width": 0.242,
+              "height": 0.017677
+            },
+            "sourceElementId": "text_0017"
+          },
+          {
+            "speaker": null,
+            "content": "What can you find in a poem?",
+            "confidence": 0.885,
+            "bbox": {
+              "x": 0.048,
+              "y": 0.652525,
+              "width": 0.279333,
+              "height": 0.020202
+            },
+            "sourceElementId": "text_0019"
+          },
+          {
+            "speaker": null,
+            "content": "What pattern can you see?",
+            "confidence": 0.9162,
+            "bbox": {
+              "x": 0.087333,
+              "y": 0.865657,
+              "width": 0.248,
+              "height": 0.019697
+            },
+            "sourceElementId": "text_0033"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "listening_activity",
+        "instruction": "Listen and number.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "listening_activity",
+        "instruction": "Listen again. Write S (Stuart), E (Emily), or A (Anna).",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "1",
+        "type": "exercise",
+        "instruction": "Who helped look after animals?",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "exercise",
+        "instruction": "Who helped look after a child?",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "speaking",
+        "instruction": "Ask and answer. Talk about your happy memories.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "4",
+        "type": "asking_answering",
+        "instruction": "Look at the poem again and answer the questions.",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "2 Listen again. Write S (Stuart), E (Emily), or A (Anna).",
+          "1 Who helped look after animals?",
+          "2 Who helped look after a child?",
+          "3 Who went to a new country? Gi 4 Who usually has a party at home? a",
+          "5 Who had a brother three years ago?",
+          "6 Who went surfing?",
+          "Speaking",
+          "3 Ask and answer. Talk about your happy memories.",
+          "1 What is your happiest memory? 2 When was it?"
+        ],
+        "position": {
+          "x": 0.034,
+          "y": 0.25697,
+          "width": 0.872,
+          "height": 0.260303
+        },
+        "textElementIds": [
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "4 How did you feel?",
+          "3 Describe what happened? 4 How did you feel?",
+          "What is your happiest memory?",
+          "It's when I got my. new bike",
+          "Writing preparation",
+          "What can you find in a poem?",
+          "Complete the",
+          "Look at the poem again. The lines are in different parts, or wer ses.",
+          "writing tasks",
+          "Some poems rhyme. This means there are words which sound the same",
+          "on pages",
+          "116-117 of",
+          "4Look at the poem again and answer the questions.",
+          "the Workbook",
+          "1 How many verses are there in the poem?"
+        ],
+        "position": {
+          "x": 0.013333000000000001,
+          "y": 0.49363599999999996,
+          "width": 0.978,
+          "height": 0.31727300000000014
+        },
+        "textElementIds": [
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Pages",
+          "2 How many lines are there in each verse?",
+          "116-117",
+          "3 Circle all the words that rhyme in the poem."
+        ],
+        "position": {
+          "x": 0.026,
+          "y": 0.77596,
+          "width": 0.9013329999999999,
+          "height": 0.10100900000000013
+        },
+        "textElementIds": [
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032"
+        ]
+      }
+    ],
+    "excludedGarbage": [
+      "126",
+      "116-117 of",
+      "116-117",
+      "117"
+    ]
+  },
+  "learningContent": {
+    "pageType": "listening_speaking_writing",
+    "title": "Lesson Six",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "What is your happiest memory?",
+            "confidence": 0.9166
+          },
+          {
+            "speaker": null,
+            "content": "It's when I got my. new bike",
+            "confidence": 0.8768
+          },
+          {
+            "speaker": null,
+            "content": "What can you find in a poem?",
+            "confidence": 0.885
+          },
+          {
+            "speaker": null,
+            "content": "What pattern can you see?",
+            "confidence": 0.9162
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "listening_activity",
+        "instruction": "Listen and number.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "listening_activity",
+        "instruction": "Listen again. Write S (Stuart), E (Emily), or A (Anna).",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "1",
+        "type": "exercise",
+        "instruction": "Who helped look after animals?",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "exercise",
+        "instruction": "Who helped look after a child?",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "speaking",
+        "instruction": "Ask and answer. Talk about your happy memories.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "4",
+        "type": "asking_answering",
+        "instruction": "Look at the poem again and answer the questions.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "3 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "4 garbage string(s) excluded"
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "garbageExcluded": 4
+    },
+    "averageOcrConfidence": 0.8853,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Family and Friends 4 Student Book (American)",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_ff4_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

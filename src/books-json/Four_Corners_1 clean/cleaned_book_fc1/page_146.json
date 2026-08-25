@@ -1,0 +1,2470 @@
+{
+  "pageNumber": 147,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 146,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 1_Part6.pdf",
+    "pdfLocalPageNumber": 14,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "10",
+        "confidence": 0.6644,
+        "bbox": {
+          "x": 0.123333,
+          "y": 0.031942,
+          "width": 0.061333,
+          "height": 0.037094
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Lesson A",
+        "confidence": 0.8536,
+        "bbox": {
+          "x": 0.207333,
+          "y": 0.038125,
+          "width": 0.182,
+          "height": 0.022154
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.075294,
+          "y": 0.048788,
+          "width": 0.030196,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "unit",
+            "confidence": 0.7959
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "unit",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Memories",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.11098,
+          "y": 0.114545,
+          "width": 0.146667,
+          "height": 0.017576
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Memories",
+            "confidence": 0.8007
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Memories",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "heading",
+        "content": "GROUPWORK",
+        "confidence": 0.8378,
+        "bbox": {
+          "x": 0.108667,
+          "y": 0.147347,
+          "width": 0.093333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "sentence",
+        "content": "Make five true sentences about your past activities with the phrases below.",
+        "confidence": 0.9583,
+        "bbox": {
+          "x": 0.210196,
+          "y": 0.150606,
+          "width": 0.511373,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Make five true sentences about your past activities with the phrases below.",
+            "confidence": 0.8931
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Make five true sentences about your past activities with the phrases below.",
+            "confidence": 0.9583
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "sentence",
+        "content": "Your group asks three questions about each sentence for more information. Take turns.",
+        "confidence": 0.9562,
+        "bbox": {
+          "x": 0.108627,
+          "y": 0.167879,
+          "width": 0.596471,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Your group asks three questions about each sentence for more information. Take turns.",
+            "confidence": 0.919
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Your group asks three questions about each sentence for more information. Take turns.",
+            "confidence": 0.9562
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "Last night",
+        "confidence": 0.8581,
+        "bbox": {
+          "x": 0.268667,
+          "y": 0.198867,
+          "width": 0.071333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "Lastmonth",
+        "confidence": 0.8132,
+        "bbox": {
+          "x": 0.578,
+          "y": 0.198867,
+          "width": 0.08,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "paragraph",
+        "content": "Yesterday Last night Last weekend Last month",
+        "confidence": 0.9486,
+        "bbox": {
+          "x": 0.116471,
+          "y": 0.199697,
+          "width": 0.538824,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Yesterday",
+            "confidence": 0.874
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Yesterday Last night Last weekend Last month",
+            "confidence": 0.9486
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Lastweekend",
+            "confidence": 0.8927
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "Last year",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.734118,
+          "y": 0.200909,
+          "width": 0.059608,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Last year",
+            "confidence": 0.8521
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Last year",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "I drank ..",
+        "confidence": 0.766,
+        "bbox": {
+          "x": 0.112,
+          "y": 0.217414,
+          "width": 0.066,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I drank ..",
+            "confidence": 0.766
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "I drank... late... lsaw... | bought...",
+            "confidence": 0.7317
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "I bought...",
+        "confidence": 0.8457,
+        "bbox": {
+          "x": 0.577333,
+          "y": 0.219474,
+          "width": 0.076,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "Iate..",
+        "confidence": 0.741,
+        "bbox": {
+          "x": 0.268667,
+          "y": 0.220505,
+          "width": 0.044,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "I went ...",
+        "confidence": 0.8521,
+        "bbox": {
+          "x": 0.730667,
+          "y": 0.220505,
+          "width": 0.059333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I went ...",
+            "confidence": 0.8521
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| went...",
+            "confidence": 0
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "I saw...",
+        "confidence": 0.784,
+        "bbox": {
+          "x": 0.423333,
+          "y": 0.22102,
+          "width": 0.054,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "I got up ..",
+        "confidence": 0.7946,
+        "bbox": {
+          "x": 0.113333,
+          "y": 0.242143,
+          "width": 0.068,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I got up ..",
+            "confidence": 0.7946
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| gotup... | went to bed... |had... lread...",
+            "confidence": 0.7963
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "I had ...",
+        "confidence": 0.7963,
+        "bbox": {
+          "x": 0.423333,
+          "y": 0.242143,
+          "width": 0.053333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "I read ...",
+        "confidence": 0.8538,
+        "bbox": {
+          "x": 0.578,
+          "y": 0.242658,
+          "width": 0.056667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "I met ...",
+        "confidence": 0.8126,
+        "bbox": {
+          "x": 0.729333,
+          "y": 0.242658,
+          "width": 0.055333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I met ...",
+            "confidence": 0.8126
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "I met...",
+            "confidence": 0
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "Iwenttobed..",
+        "confidence": 0.8113,
+        "bbox": {
+          "x": 0.268667,
+          "y": 0.243174,
+          "width": 0.100667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "Idid..",
+        "confidence": 0.7587,
+        "bbox": {
+          "x": 0.114,
+          "y": 0.265327,
+          "width": 0.044667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "I drove ..",
+        "confidence": 0.8223,
+        "bbox": {
+          "x": 0.423333,
+          "y": 0.266358,
+          "width": 0.062667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Udid-cxs I slept... | drove... | made...",
+            "confidence": 0.3171
+          },
+          {
+            "engine": "rapidocr",
+            "content": "I drove ..",
+            "confidence": 0.8223
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "I took ...",
+        "confidence": 0.8285,
+        "bbox": {
+          "x": 0.73,
+          "y": 0.266358,
+          "width": 0.058667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I took ...",
+            "confidence": 0.8285
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| took...",
+            "confidence": 0.68
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "I slept ..",
+        "confidence": 0.8074,
+        "bbox": {
+          "x": 0.268,
+          "y": 0.266873,
+          "width": 0.056,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "Imade..",
+        "confidence": 0.7918,
+        "bbox": {
+          "x": 0.579333,
+          "y": 0.267903,
+          "width": 0.060667,
+          "height": 0.010819
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0027",
+        "type": "dialogue_line",
+        "content": "A: Last night, | ate soup for dinner.",
+        "confidence": 0.9587,
+        "bbox": {
+          "x": 0.112157,
+          "y": 0.791515,
+          "width": 0.258039,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A:Lastnight,Iatesoupfordinner.",
+            "confidence": 0.902
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: Last night, | ate soup for dinner.",
+            "confidence": 0.9587
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "dialogue_line",
+        "content": "B: Did you eat in a restaurant?",
+        "confidence": 0.92,
+        "bbox": {
+          "x": 0.112941,
+          "y": 0.813333,
+          "width": 0.230588,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B:Didyoueatinarestaurant?",
+            "confidence": 0.9145
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: Did you eat in a restaurant?",
+            "confidence": 0.92
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "dialogue_line",
+        "content": "A: No, | didn't. | ate at home.",
+        "confidence": 0.9025,
+        "bbox": {
+          "x": 0.112549,
+          "y": 0.835152,
+          "width": 0.206667,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A:No,ldidn't.Iateathome.",
+            "confidence": 0.8615
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: No, | didn't. | ate at home.",
+            "confidence": 0.9025
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "dialogue_line",
+        "content": "C: Did you make the soup?",
+        "confidence": 0.9517,
+        "bbox": {
+          "x": 0.112941,
+          "y": 0.85697,
+          "width": 0.194902,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "C: Did you make the soup?",
+            "confidence": 0.8938
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "C: Did you make the soup?",
+            "confidence": 0.9517
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "dialogue_line",
+        "content": "A: No, | didn't. My son made it.",
+        "confidence": 0.9175,
+        "bbox": {
+          "x": 0.112941,
+          "y": 0.878788,
+          "width": 0.223137,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A:No,Ididn't.Mysonmadeit.",
+            "confidence": 0.8956
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: No, | didn't. My son made it.",
+            "confidence": 0.9175
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "dialogue_line",
+        "content": "D: Did you... 2",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.113725,
+          "y": 0.900909,
+          "width": 0.1,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "D: Did you ...?",
+            "confidence": 0.8245
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "D: Did you... 2",
+            "confidence": 0.93
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "147",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.911765,
+          "y": 0.940303,
+          "width": 0.023529,
+          "height": 0.008788
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "147",
+            "confidence": 0.7469
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "147",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "heading",
+        "content": "Keep talking!",
+        "confidence": 0.8479,
+        "bbox": {
+          "x": 0.791333,
+          "y": 0.945904,
+          "width": 0.082,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "Memories",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.11098,
+          "y": 0.114545,
+          "width": 0.146667,
+          "height": 0.017576
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.96
+      },
+      {
+        "word": "Last night",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.268667,
+          "y": 0.198867,
+          "width": 0.071333,
+          "height": 0.01391
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8581
+      },
+      {
+        "word": "Lastmonth",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.578,
+          "y": 0.198867,
+          "width": 0.08,
+          "height": 0.013395
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8132
+      },
+      {
+        "word": "Last year",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.734118,
+          "y": 0.200909,
+          "width": 0.059608,
+          "height": 0.01
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.955
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "I drank ..",
+            "confidence": 0.766,
+            "bbox": {
+              "x": 0.112,
+              "y": 0.217414,
+              "width": 0.066,
+              "height": 0.015456
+            },
+            "sourceElementId": "text_0012",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I bought...",
+            "confidence": 0.8457,
+            "bbox": {
+              "x": 0.577333,
+              "y": 0.219474,
+              "width": 0.076,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0013",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I went ...",
+            "confidence": 0.8521,
+            "bbox": {
+              "x": 0.730667,
+              "y": 0.220505,
+              "width": 0.059333,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0015",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I saw...",
+            "confidence": 0.784,
+            "bbox": {
+              "x": 0.423333,
+              "y": 0.22102,
+              "width": 0.054,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0016",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I got up ..",
+            "confidence": 0.7946,
+            "bbox": {
+              "x": 0.113333,
+              "y": 0.242143,
+              "width": 0.068,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0017",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I had ...",
+            "confidence": 0.7963,
+            "bbox": {
+              "x": 0.423333,
+              "y": 0.242143,
+              "width": 0.053333,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0018",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I read ...",
+            "confidence": 0.8538,
+            "bbox": {
+              "x": 0.578,
+              "y": 0.242658,
+              "width": 0.056667,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0019",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I met ...",
+            "confidence": 0.8126,
+            "bbox": {
+              "x": 0.729333,
+              "y": 0.242658,
+              "width": 0.055333,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0020",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I drove ..",
+            "confidence": 0.8223,
+            "bbox": {
+              "x": 0.423333,
+              "y": 0.266358,
+              "width": 0.062667,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0023",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I took ...",
+            "confidence": 0.8285,
+            "bbox": {
+              "x": 0.73,
+              "y": 0.266358,
+              "width": 0.058667,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0024",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I slept ..",
+            "confidence": 0.8074,
+            "bbox": {
+              "x": 0.268,
+              "y": 0.266873,
+              "width": 0.056,
+              "height": 0.012365
+            },
+            "sourceElementId": "text_0025",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "A: Last night, | ate soup for dinner.",
+            "confidence": 0.9587,
+            "bbox": {
+              "x": 0.112157,
+              "y": 0.791515,
+              "width": 0.258039,
+              "height": 0.013939
+            },
+            "sourceElementId": "text_0027",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "B: Did you eat in a restaurant?",
+            "confidence": 0.92,
+            "bbox": {
+              "x": 0.112941,
+              "y": 0.813333,
+              "width": 0.230588,
+              "height": 0.012424
+            },
+            "sourceElementId": "text_0028",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "A: No, | didn't. | ate at home.",
+            "confidence": 0.9025,
+            "bbox": {
+              "x": 0.112549,
+              "y": 0.835152,
+              "width": 0.206667,
+              "height": 0.010606
+            },
+            "sourceElementId": "text_0029",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "C: Did you make the soup?",
+            "confidence": 0.9517,
+            "bbox": {
+              "x": 0.112941,
+              "y": 0.85697,
+              "width": 0.194902,
+              "height": 0.014242
+            },
+            "sourceElementId": "text_0030",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "A: No, | didn't. My son made it.",
+            "confidence": 0.9175,
+            "bbox": {
+              "x": 0.112941,
+              "y": 0.878788,
+              "width": 0.223137,
+              "height": 0.01303
+            },
+            "sourceElementId": "text_0031",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Last year",
+          "I drank ..",
+          "I bought...",
+          "Iate..",
+          "I went ...",
+          "I saw...",
+          "I got up ..",
+          "I had ...",
+          "I read ...",
+          "I met ...",
+          "Iwenttobed..",
+          "Idid..",
+          "I drove ..",
+          "I took ...",
+          "I slept ..",
+          "Imade.."
+        ],
+        "position": {
+          "x": 0.092,
+          "y": 0.18090900000000001,
+          "width": 0.7217260000000001,
+          "height": 0.11935899999999997
+        },
+        "textElementIds": [
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "A: Last night, | ate soup for dinner.",
+          "B: Did you eat in a restaurant?",
+          "A: No, | didn't. | ate at home.",
+          "C: Did you make the soup?",
+          "A: No, | didn't. My son made it."
+        ],
+        "position": {
+          "x": 0.092157,
+          "y": 0.771515,
+          "width": 0.29803900000000005,
+          "height": 0.14030300000000007
+        },
+        "textElementIds": [
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "10\nLesson A\nunit\nMemories\nGROUPWORK\nMake five true sentences about your past activities with the phrases below.\nYour group asks three questions about each sentence for more information. Take turns.\nYesterday\nLast night\nLastmonth\nLast year\nLastweekend\nI drank ..\nI bought...\nIate..\nI went ...\nI saw...\nI got up ..\nI had ...\nI read ...\nI met ...\nIwenttobed..\nIdid..\nI drove ..\nI took ...\nI slept ..\nImade..\nA:Lastnight,Iatesoupfordinner.\nB:Didyoueatinarestaurant?\nA:No,ldidn't.Iateathome.\nC: Did you make the soup?\nA:No,Ididn't.Mysonmadeit.\nD: Did you ...?\n147\nKeep talking!\ndehkhodaedu.com",
+      "tesseract_psm3": "unit\n\nMemories\n\nMake five true sentences about your past activities with the phrases below.\nYour group asks three questions about each sentence for more information. Take turns.\n\nYesterday Last night Last weekend Last month\nI drank... late... lsaw... | bought...\n| gotup... | went to bed... |had... lread...\nUdid-cxs I slept... | drove... | made...\n\nA: Last night, | ate soup for dinner.\n\nB: Did you eat in a restaurant?\nA: No, | didn't. | ate at home.\n\nC: Did you make the soup?\n\nA: No, | didn't. My son made it.\nD: Did you... 2\n\ndehkhodaedu.com\n\nLast year\n\n| went...\nI met...\n\n| took...\n\n147\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8606,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "8 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "lesson",
+    "headings": [
+      "Lesson A",
+      "unit",
+      "Memories",
+      "Group work",
+      "Keep talking!"
+    ],
+    "textElements": [
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Lesson A",
+        "confidence": 0.8536,
+        "bbox": {
+          "x": 0.207333,
+          "y": 0.038125,
+          "width": 0.182,
+          "height": 0.022154
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.075294,
+          "y": 0.048788,
+          "width": 0.030196,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "unit",
+            "confidence": 0.7959
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "unit",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Memories",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.11098,
+          "y": 0.114545,
+          "width": 0.146667,
+          "height": 0.017576
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Memories",
+            "confidence": 0.8007
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Memories",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "heading",
+        "content": "Group work",
+        "confidence": 0.8378,
+        "bbox": {
+          "x": 0.108667,
+          "y": 0.147347,
+          "width": 0.093333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "sentence",
+        "content": "Make five true sentences about your past activities with the phrases below.",
+        "confidence": 0.9583,
+        "bbox": {
+          "x": 0.210196,
+          "y": 0.150606,
+          "width": 0.511373,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Make five true sentences about your past activities with the phrases below.",
+            "confidence": 0.8931
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Make five true sentences about your past activities with the phrases below.",
+            "confidence": 0.9583
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "sentence",
+        "content": "Your group asks three questions about each sentence for more information. Take turns.",
+        "confidence": 0.9562,
+        "bbox": {
+          "x": 0.108627,
+          "y": 0.167879,
+          "width": 0.596471,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Your group asks three questions about each sentence for more information. Take turns.",
+            "confidence": 0.919
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Your group asks three questions about each sentence for more information. Take turns.",
+            "confidence": 0.9562
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "Last night",
+        "confidence": 0.8581,
+        "bbox": {
+          "x": 0.268667,
+          "y": 0.198867,
+          "width": 0.071333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "Last month",
+        "confidence": 0.8132,
+        "bbox": {
+          "x": 0.578,
+          "y": 0.198867,
+          "width": 0.08,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "paragraph",
+        "content": "Yesterday Last night Last weekend Last month",
+        "confidence": 0.9486,
+        "bbox": {
+          "x": 0.116471,
+          "y": 0.199697,
+          "width": 0.538824,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Yesterday",
+            "confidence": 0.874
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Yesterday Last night Last weekend Last month",
+            "confidence": 0.9486
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Lastweekend",
+            "confidence": 0.8927
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "Last year",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.734118,
+          "y": 0.200909,
+          "width": 0.059608,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Last year",
+            "confidence": 0.8521
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Last year",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "I drank ..",
+        "confidence": 0.766,
+        "bbox": {
+          "x": 0.112,
+          "y": 0.217414,
+          "width": 0.066,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I drank ..",
+            "confidence": 0.766
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "I drank... late... lsaw... | bought...",
+            "confidence": 0.7317
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "I bought...",
+        "confidence": 0.8457,
+        "bbox": {
+          "x": 0.577333,
+          "y": 0.219474,
+          "width": 0.076,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "Iate..",
+        "confidence": 0.741,
+        "bbox": {
+          "x": 0.268667,
+          "y": 0.220505,
+          "width": 0.044,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "I went ...",
+        "confidence": 0.8521,
+        "bbox": {
+          "x": 0.730667,
+          "y": 0.220505,
+          "width": 0.059333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I went ...",
+            "confidence": 0.8521
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| went...",
+            "confidence": 0
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "I saw...",
+        "confidence": 0.784,
+        "bbox": {
+          "x": 0.423333,
+          "y": 0.22102,
+          "width": 0.054,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "I got up ..",
+        "confidence": 0.7946,
+        "bbox": {
+          "x": 0.113333,
+          "y": 0.242143,
+          "width": 0.068,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I got up ..",
+            "confidence": 0.7946
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| gotup... | went to bed... |had... lread...",
+            "confidence": 0.7963
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "I had ...",
+        "confidence": 0.7963,
+        "bbox": {
+          "x": 0.423333,
+          "y": 0.242143,
+          "width": 0.053333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "I read ...",
+        "confidence": 0.8538,
+        "bbox": {
+          "x": 0.578,
+          "y": 0.242658,
+          "width": 0.056667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "I met ...",
+        "confidence": 0.8126,
+        "bbox": {
+          "x": 0.729333,
+          "y": 0.242658,
+          "width": 0.055333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I met ...",
+            "confidence": 0.8126
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "I met...",
+            "confidence": 0
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "I went to bed..",
+        "confidence": 0.8113,
+        "bbox": {
+          "x": 0.268667,
+          "y": 0.243174,
+          "width": 0.100667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "Idid..",
+        "confidence": 0.7587,
+        "bbox": {
+          "x": 0.114,
+          "y": 0.265327,
+          "width": 0.044667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "I drove ..",
+        "confidence": 0.8223,
+        "bbox": {
+          "x": 0.423333,
+          "y": 0.266358,
+          "width": 0.062667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Udid-cxs I slept... | drove... | made...",
+            "confidence": 0.3171
+          },
+          {
+            "engine": "rapidocr",
+            "content": "I drove ..",
+            "confidence": 0.8223
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "I took ...",
+        "confidence": 0.8285,
+        "bbox": {
+          "x": 0.73,
+          "y": 0.266358,
+          "width": 0.058667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I took ...",
+            "confidence": 0.8285
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| took...",
+            "confidence": 0.68
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "I slept ..",
+        "confidence": 0.8074,
+        "bbox": {
+          "x": 0.268,
+          "y": 0.266873,
+          "width": 0.056,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "Imade..",
+        "confidence": 0.7918,
+        "bbox": {
+          "x": 0.579333,
+          "y": 0.267903,
+          "width": 0.060667,
+          "height": 0.010819
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0027",
+        "type": "dialogue_line",
+        "content": "A: Last night, | ate soup for dinner.",
+        "confidence": 0.9587,
+        "bbox": {
+          "x": 0.112157,
+          "y": 0.791515,
+          "width": 0.258039,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A:Lastnight,Iatesoupfordinner.",
+            "confidence": 0.902
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: Last night, | ate soup for dinner.",
+            "confidence": 0.9587
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "dialogue_line",
+        "content": "B: Did you eat in a restaurant?",
+        "confidence": 0.92,
+        "bbox": {
+          "x": 0.112941,
+          "y": 0.813333,
+          "width": 0.230588,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B:Didyoueatinarestaurant?",
+            "confidence": 0.9145
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: Did you eat in a restaurant?",
+            "confidence": 0.92
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "dialogue_line",
+        "content": "A: No, | didn't. | ate at home.",
+        "confidence": 0.9025,
+        "bbox": {
+          "x": 0.112549,
+          "y": 0.835152,
+          "width": 0.206667,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A:No,ldidn't.Iateathome.",
+            "confidence": 0.8615
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: No, | didn't. | ate at home.",
+            "confidence": 0.9025
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "dialogue_line",
+        "content": "C: Did you make the soup?",
+        "confidence": 0.9517,
+        "bbox": {
+          "x": 0.112941,
+          "y": 0.85697,
+          "width": 0.194902,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "C: Did you make the soup?",
+            "confidence": 0.8938
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "C: Did you make the soup?",
+            "confidence": 0.9517
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "dialogue_line",
+        "content": "A: No, | didn't. My son made it.",
+        "confidence": 0.9175,
+        "bbox": {
+          "x": 0.112941,
+          "y": 0.878788,
+          "width": 0.223137,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A:No,Ididn't.Mysonmadeit.",
+            "confidence": 0.8956
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: No, | didn't. My son made it.",
+            "confidence": 0.9175
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "dialogue_line",
+        "content": "D: Did you... 2",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.113725,
+          "y": 0.900909,
+          "width": 0.1,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "D: Did you ...?",
+            "confidence": 0.8245
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "D: Did you... 2",
+            "confidence": 0.93
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "heading",
+        "content": "Keep talking!",
+        "confidence": 0.8479,
+        "bbox": {
+          "x": 0.791333,
+          "y": 0.945904,
+          "width": 0.082,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Lesson A",
+      "unit",
+      "Memories",
+      "Group work",
+      "Make five true sentences about your past activities with the phrases below.",
+      "Your group asks three questions about each sentence for more information. Take turns.",
+      "Last night",
+      "Last month",
+      "Yesterday Last night Last weekend Last month",
+      "Last year",
+      "I drank ..",
+      "I bought...",
+      "Iate..",
+      "I went ...",
+      "I saw...",
+      "I got up ..",
+      "I had ...",
+      "I read ...",
+      "I met ...",
+      "I went to bed..",
+      "Idid..",
+      "I drove ..",
+      "I took ...",
+      "I slept ..",
+      "Imade..",
+      "A: Last night, | ate soup for dinner.",
+      "B: Did you eat in a restaurant?",
+      "A: No, | didn't. | ate at home.",
+      "C: Did you make the soup?",
+      "A: No, | didn't. My son made it.",
+      "D: Did you... 2",
+      "Keep talking!"
+    ],
+    "paragraphs": [
+      "Yesterday Last night Last weekend Last month"
+    ],
+    "sentences": [
+      "Lesson A unit Memories Group work Make five true sentences about your past activities with the phrases below",
+      "Your group asks three questions about each sentence for more information",
+      "Take turns",
+      "Last night Last month Yesterday Last night Last weekend Last month Last year I drank",
+      "I bought",
+      "Iate",
+      "I went",
+      "I saw",
+      "I got up",
+      "I had",
+      "I read",
+      "I met",
+      "I went to bed",
+      "Idid",
+      "I drove",
+      "I took",
+      "I slept",
+      "Imade",
+      "A: Last night, | ate soup for dinner",
+      "B: Did you eat in a restaurant",
+      "A: No, | didn't",
+      "| ate at home",
+      "C: Did you make the soup",
+      "A: No, | didn't",
+      "My son made it",
+      "D: Did you",
+      "2 Keep talking"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "I drank ..",
+            "confidence": 0.766,
+            "bbox": {
+              "x": 0.112,
+              "y": 0.217414,
+              "width": 0.066,
+              "height": 0.015456
+            },
+            "sourceElementId": "text_0012"
+          },
+          {
+            "speaker": null,
+            "content": "I bought...",
+            "confidence": 0.8457,
+            "bbox": {
+              "x": 0.577333,
+              "y": 0.219474,
+              "width": 0.076,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0013"
+          },
+          {
+            "speaker": null,
+            "content": "I went ...",
+            "confidence": 0.8521,
+            "bbox": {
+              "x": 0.730667,
+              "y": 0.220505,
+              "width": 0.059333,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0015"
+          },
+          {
+            "speaker": null,
+            "content": "I saw...",
+            "confidence": 0.784,
+            "bbox": {
+              "x": 0.423333,
+              "y": 0.22102,
+              "width": 0.054,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0016"
+          },
+          {
+            "speaker": null,
+            "content": "I got up ..",
+            "confidence": 0.7946,
+            "bbox": {
+              "x": 0.113333,
+              "y": 0.242143,
+              "width": 0.068,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0017"
+          },
+          {
+            "speaker": null,
+            "content": "I had ...",
+            "confidence": 0.7963,
+            "bbox": {
+              "x": 0.423333,
+              "y": 0.242143,
+              "width": 0.053333,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0018"
+          },
+          {
+            "speaker": null,
+            "content": "I read ...",
+            "confidence": 0.8538,
+            "bbox": {
+              "x": 0.578,
+              "y": 0.242658,
+              "width": 0.056667,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0019"
+          },
+          {
+            "speaker": null,
+            "content": "I met ...",
+            "confidence": 0.8126,
+            "bbox": {
+              "x": 0.729333,
+              "y": 0.242658,
+              "width": 0.055333,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0020"
+          },
+          {
+            "speaker": null,
+            "content": "I drove ..",
+            "confidence": 0.8223,
+            "bbox": {
+              "x": 0.423333,
+              "y": 0.266358,
+              "width": 0.062667,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0023"
+          },
+          {
+            "speaker": null,
+            "content": "I took ...",
+            "confidence": 0.8285,
+            "bbox": {
+              "x": 0.73,
+              "y": 0.266358,
+              "width": 0.058667,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0024"
+          },
+          {
+            "speaker": null,
+            "content": "I slept ..",
+            "confidence": 0.8074,
+            "bbox": {
+              "x": 0.268,
+              "y": 0.266873,
+              "width": 0.056,
+              "height": 0.012365
+            },
+            "sourceElementId": "text_0025"
+          },
+          {
+            "speaker": null,
+            "content": "A: Last night, | ate soup for dinner.",
+            "confidence": 0.9587,
+            "bbox": {
+              "x": 0.112157,
+              "y": 0.791515,
+              "width": 0.258039,
+              "height": 0.013939
+            },
+            "sourceElementId": "text_0027"
+          },
+          {
+            "speaker": null,
+            "content": "B: Did you eat in a restaurant?",
+            "confidence": 0.92,
+            "bbox": {
+              "x": 0.112941,
+              "y": 0.813333,
+              "width": 0.230588,
+              "height": 0.012424
+            },
+            "sourceElementId": "text_0028"
+          },
+          {
+            "speaker": null,
+            "content": "A: No, | didn't. | ate at home.",
+            "confidence": 0.9025,
+            "bbox": {
+              "x": 0.112549,
+              "y": 0.835152,
+              "width": 0.206667,
+              "height": 0.010606
+            },
+            "sourceElementId": "text_0029"
+          },
+          {
+            "speaker": null,
+            "content": "C: Did you make the soup?",
+            "confidence": 0.9517,
+            "bbox": {
+              "x": 0.112941,
+              "y": 0.85697,
+              "width": 0.194902,
+              "height": 0.014242
+            },
+            "sourceElementId": "text_0030"
+          },
+          {
+            "speaker": null,
+            "content": "A: No, | didn't.",
+            "confidence": 0.9175,
+            "bbox": {
+              "x": 0.112941,
+              "y": 0.878788,
+              "width": 0.223137,
+              "height": 0.01303
+            },
+            "sourceElementId": "text_0031"
+          },
+          {
+            "speaker": null,
+            "content": "My son made it.",
+            "confidence": 0.9175,
+            "bbox": {
+              "x": 0.112941,
+              "y": 0.878788,
+              "width": 0.223137,
+              "height": 0.01303
+            },
+            "sourceElementId": "text_0031"
+          }
+        ]
+      }
+    ],
+    "exercises": [],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Last year",
+          "I drank ..",
+          "I bought...",
+          "Iate..",
+          "I went ...",
+          "I saw...",
+          "I got up ..",
+          "I had ...",
+          "I read ...",
+          "I met ...",
+          "I went to bed..",
+          "Idid..",
+          "I drove ..",
+          "I took ...",
+          "I slept ..",
+          "Imade.."
+        ],
+        "position": {
+          "x": 0.092,
+          "y": 0.18090900000000001,
+          "width": 0.7217260000000001,
+          "height": 0.11935899999999997
+        },
+        "textElementIds": [
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "A: Last night, | ate soup for dinner.",
+          "B: Did you eat in a restaurant?",
+          "A: No, | didn't. | ate at home.",
+          "C: Did you make the soup?",
+          "A: No, | didn't. My son made it."
+        ],
+        "position": {
+          "x": 0.092157,
+          "y": 0.771515,
+          "width": 0.29803900000000005,
+          "height": 0.14030300000000007
+        },
+        "textElementIds": [
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031"
+        ]
+      }
+    ],
+    "excludedGarbage": [
+      "10",
+      "147"
+    ]
+  },
+  "learningContent": {
+    "pageType": "lesson",
+    "title": "Lesson A",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "I drank ..",
+            "confidence": 0.766
+          },
+          {
+            "speaker": null,
+            "content": "I bought...",
+            "confidence": 0.8457
+          },
+          {
+            "speaker": null,
+            "content": "I went ...",
+            "confidence": 0.8521
+          },
+          {
+            "speaker": null,
+            "content": "I saw...",
+            "confidence": 0.784
+          },
+          {
+            "speaker": null,
+            "content": "I got up ..",
+            "confidence": 0.7946
+          },
+          {
+            "speaker": null,
+            "content": "I had ...",
+            "confidence": 0.7963
+          },
+          {
+            "speaker": null,
+            "content": "I read ...",
+            "confidence": 0.8538
+          },
+          {
+            "speaker": null,
+            "content": "I met ...",
+            "confidence": 0.8126
+          },
+          {
+            "speaker": null,
+            "content": "I drove ..",
+            "confidence": 0.8223
+          },
+          {
+            "speaker": null,
+            "content": "I took ...",
+            "confidence": 0.8285
+          },
+          {
+            "speaker": null,
+            "content": "I slept ..",
+            "confidence": 0.8074
+          },
+          {
+            "speaker": null,
+            "content": "A: Last night, | ate soup for dinner.",
+            "confidence": 0.9587
+          },
+          {
+            "speaker": null,
+            "content": "B: Did you eat in a restaurant?",
+            "confidence": 0.92
+          },
+          {
+            "speaker": null,
+            "content": "A: No, | didn't. | ate at home.",
+            "confidence": 0.9025
+          },
+          {
+            "speaker": null,
+            "content": "C: Did you make the soup?",
+            "confidence": 0.9517
+          },
+          {
+            "speaker": null,
+            "content": "A: No, | didn't.",
+            "confidence": 0.9175
+          },
+          {
+            "speaker": null,
+            "content": "My son made it.",
+            "confidence": 0.9175
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "8 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content.",
+      "2 garbage string(s) excluded"
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "garbageExcluded": 2,
+      "dialoguesSplit": 2
+    },
+    "averageOcrConfidence": 0.8606,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 1 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc1_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

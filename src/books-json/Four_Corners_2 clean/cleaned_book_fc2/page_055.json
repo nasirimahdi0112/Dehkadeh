@@ -1,0 +1,2457 @@
+{
+  "pageNumber": 48,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 55,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 2_Part3.pdf",
+    "pdfLocalPageNumber": 10,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "I'm not feeling well.",
+        "confidence": 0.8656,
+        "bbox": {
+          "x": 0.138667,
+          "y": 0.049974,
+          "width": 0.494667,
+          "height": 0.03967
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Health problems",
+        "confidence": 0.8757,
+        "bbox": {
+          "x": 0.114667,
+          "y": 0.120041,
+          "width": 0.256,
+          "height": 0.021638
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "i) Health problems",
+            "confidence": 0.6733
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Health problems",
+            "confidence": 0.8757
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "instruction",
+        "content": "Listen. Then act out a health problem, Your partner guesses it.",
+        "confidence": 0.9108,
+        "bbox": {
+          "x": 0.115333,
+          "y": 0.152499,
+          "width": 0.451333,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listen. Then act out a health problem, Your partner guesses it.",
+            "confidence": 0.9108
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "£1?) Listen. Then act out a health problem. Your partner guesses it.",
+            "confidence": 0.8817
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "a cold",
+        "confidence": 0.8077,
+        "bbox": {
+          "x": 0.304,
+          "y": 0.269449,
+          "width": 0.046667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "afever",
+        "confidence": 0.7431,
+        "bbox": {
+          "x": 0.747333,
+          "y": 0.269964,
+          "width": 0.048667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "a cough",
+        "confidence": 0.7557,
+        "bbox": {
+          "x": 0.446,
+          "y": 0.270479,
+          "width": 0.056,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "an earache a fever",
+        "confidence": 0.945,
+        "bbox": {
+          "x": 0.587843,
+          "y": 0.270909,
+          "width": 0.206275,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "an earache",
+            "confidence": 0.8299
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "an earache a fever",
+            "confidence": 0.945
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "a backache acold",
+        "confidence": 0.9467,
+        "bbox": {
+          "x": 0.146275,
+          "y": 0.271515,
+          "width": 0.200784,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "abackache",
+            "confidence": 0.8201
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "a backache acold",
+            "confidence": 0.9467
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "a headache",
+        "confidence": 0.894,
+        "bbox": {
+          "x": 0.288667,
+          "y": 0.386914,
+          "width": 0.082667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "the flu",
+        "confidence": 0.8194,
+        "bbox": {
+          "x": 0.159333,
+          "y": 0.387429,
+          "width": 0.048,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "atoothache",
+        "confidence": 0.9052,
+        "bbox": {
+          "x": 0.730667,
+          "y": 0.387944,
+          "width": 0.084,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "a sorethroat",
+        "confidence": 0.8863,
+        "bbox": {
+          "x": 0.432667,
+          "y": 0.38846,
+          "width": 0.089333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "paragraph",
+        "content": "the flu a headache a sore throat a stomachache a toothache",
+        "confidence": 0.9109,
+        "bbox": {
+          "x": 0.162353,
+          "y": 0.388485,
+          "width": 0.650588,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "astomachache",
+            "confidence": 0.7722
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "the flu a headache a sore throat a stomachache a toothache",
+            "confidence": 0.9109
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "\"Do you have a cold?\"",
+        "confidence": 0.9128,
+        "bbox": {
+          "x": 0.117333,
+          "y": 0.410098,
+          "width": 0.156,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"Do you have a cold?\"",
+            "confidence": 0.9128
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "“Do you have a cold?”",
+            "confidence": 0.926
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "Interactions Whenyou'renotfeelingwell",
+        "confidence": 0.9153,
+        "bbox": {
+          "x": 0.115333,
+          "y": 0.447707,
+          "width": 0.572,
+          "height": 0.020608
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "§] Interactions When you're not feeling well",
+            "confidence": 0.7214
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Interactions Whenyou'renotfeelingwell",
+            "confidence": 0.9153
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "A Listen to the conversation.What's wrong with Margaret? Then practice the conversation.",
+        "confidence": 0.9172,
+        "bbox": {
+          "x": 0.116667,
+          "y": 0.48068,
+          "width": 0.657333,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A  Listen to the conversation.What's wrong with Margaret? Then practice the conversation.",
+            "confidence": 0.9172
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Listen to the conversation. What’s wrong with Margaret? Then practice the conversation.",
+            "confidence": 0.8838
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Margaret",
+        "confidence": 0.828,
+        "bbox": {
+          "x": 0.520667,
+          "y": 0.688305,
+          "width": 0.068667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "Hey,Margaret.Howareyou?",
+        "confidence": 0.9071,
+        "bbox": {
+          "x": 0.204667,
+          "y": 0.68882,
+          "width": 0.192,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "Debbie",
+        "confidence": 0.77,
+        "bbox": {
+          "x": 0.118,
+          "y": 0.689335,
+          "width": 0.051333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "Debbie Hey, Margaret. How are you? Margaret [havea headache. | think I'd like",
+        "confidence": 0.8492,
+        "bbox": {
+          "x": 0.120392,
+          "y": 0.689394,
+          "width": 0.708235,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Ihaveaheadache.IthinkI'dlike",
+            "confidence": 0.8881
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Debbie Hey, Margaret. How are you? Margaret [havea headache. | think I'd like",
+            "confidence": 0.8492
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "to go home and rest.",
+        "confidence": 0.9415,
+        "bbox": {
+          "x": 0.608667,
+          "y": 0.705307,
+          "width": 0.141333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "to go home and rest.",
+            "confidence": 0.9415
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Margaret I’m not feeling well. to go home and rest.",
+            "confidence": 0.881
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "I'm not feeling well.",
+        "confidence": 0.8799,
+        "bbox": {
+          "x": 0.202667,
+          "y": 0.708913,
+          "width": 0.134667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "Margaret",
+        "confidence": 0.8734,
+        "bbox": {
+          "x": 0.117333,
+          "y": 0.709943,
+          "width": 0.068,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "Debbie",
+        "confidence": 0.8543,
+        "bbox": {
+          "x": 0.521333,
+          "y": 0.72643,
+          "width": 0.054,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "sentence",
+        "content": "Debbie Oh? What’s wrong? Debbie That’s fine. Take it easy.",
+        "confidence": 0.934,
+        "bbox": {
+          "x": 0.121176,
+          "y": 0.726667,
+          "width": 0.647843,
+          "height": 0.017879
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "That's fine. Take it easy.",
+            "confidence": 0.9094
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Debbie Oh? What’s wrong? Debbie That’s fine. Take it easy.",
+            "confidence": 0.934
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Oh? What's wrong?",
+            "confidence": 0.9145
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "Debbie",
+        "confidence": 0.8544,
+        "bbox": {
+          "x": 0.118,
+          "y": 0.730036,
+          "width": 0.052667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "sentence",
+        "content": "B Listen to the expressions.Then practice the conversation again with the new expressions.",
+        "confidence": 0.9372,
+        "bbox": {
+          "x": 0.118,
+          "y": 0.756826,
+          "width": 0.666667,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B  Listen to the expressions.Then practice the conversation again with the new expressions.",
+            "confidence": 0.9372
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B £2 Listen to the expressions. Then practice the conversation again with the new expressions.",
+            "confidence": 0.9273
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "Saying how you feel",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.12902,
+          "y": 0.787879,
+          "width": 0.139608,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Saying how you feel",
+            "confidence": 0.8936
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Saying how you feel",
+            "confidence": 0.9575
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "I feel awful.",
+        "confidence": 0.8317,
+        "bbox": {
+          "x": 0.665333,
+          "y": 0.819681,
+          "width": 0.082667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "‘Pm not feeling well. | don’t feel so good. | feel awful.",
+            "confidence": 0.7242
+          },
+          {
+            "engine": "rapidocr",
+            "content": "I feel awful.",
+            "confidence": 0.8317
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "I don't feel so good.",
+        "confidence": 0.8528,
+        "bbox": {
+          "x": 0.414,
+          "y": 0.820196,
+          "width": 0.137333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "I'm not feeling well.",
+        "confidence": 0.8565,
+        "bbox": {
+          "x": 0.158667,
+          "y": 0.820711,
+          "width": 0.133333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "Wishing someone well",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.129804,
+          "y": 0.867576,
+          "width": 0.155294,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Wishing someone well",
+            "confidence": 0.8656
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Wishing someone well",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "Get well soon.",
+        "confidence": 0.8116,
+        "bbox": {
+          "x": 0.374,
+          "y": 0.898506,
+          "width": 0.097333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Take it easy. { Get well soon. — {hope you feel better.",
+            "confidence": 0.6475
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Get well soon.",
+            "confidence": 0.8116
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "Take it easy.",
+        "confidence": 0.8917,
+        "bbox": {
+          "x": 0.159333,
+          "y": 0.899021,
+          "width": 0.082667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "I hope you feel better.",
+        "confidence": 0.8683,
+        "bbox": {
+          "x": 0.602667,
+          "y": 0.899536,
+          "width": 0.148,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "48",
+        "confidence": 0.6664,
+        "bbox": {
+          "x": 0.055333,
+          "y": 0.942298,
+          "width": 0.024,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "A Listen to the conversation.What's wrong with Margaret? Then practice the conversation.",
+            "confidence": 0.9172,
+            "bbox": {
+              "x": 0.116667,
+              "y": 0.48068,
+              "width": 0.657333,
+              "height": 0.016486
+            },
+            "sourceElementId": "text_0016",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Debbie Hey, Margaret. How are you? Margaret [havea headache. | think I'd like",
+            "confidence": 0.8492,
+            "bbox": {
+              "x": 0.120392,
+              "y": 0.689394,
+              "width": 0.708235,
+              "height": 0.013636
+            },
+            "sourceElementId": "text_0020",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I'm not feeling well.",
+            "confidence": 0.8799,
+            "bbox": {
+              "x": 0.202667,
+              "y": 0.708913,
+              "width": 0.134667,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0022",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I feel awful.",
+            "confidence": 0.8317,
+            "bbox": {
+              "x": 0.665333,
+              "y": 0.819681,
+              "width": 0.082667,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0029",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I don't feel so good.",
+            "confidence": 0.8528,
+            "bbox": {
+              "x": 0.414,
+              "y": 0.820196,
+              "width": 0.137333,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0030",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I'm not feeling well.",
+            "confidence": 0.8565,
+            "bbox": {
+              "x": 0.158667,
+              "y": 0.820711,
+              "width": 0.133333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0031",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I hope you feel better.",
+            "confidence": 0.8683,
+            "bbox": {
+              "x": 0.602667,
+              "y": 0.899536,
+              "width": 0.148,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0035",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen to the conversation.What's wrong with Margaret? Then practice the conversation.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0016"
+        ],
+        "confidence": 0.9172
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "listening_activity",
+        "instruction": "Listen to the expressions.Then practice the conversation again with the new expressions.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0027"
+        ],
+        "confidence": 0.9372
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "a cold",
+          "afever",
+          "a cough",
+          "an earache a fever",
+          "a backache acold",
+          "a headache",
+          "the flu",
+          "atoothache",
+          "a sorethroat",
+          "the flu a headache a sore throat a stomachache a toothache",
+          "\"Do you have a cold?\"",
+          "Interactions Whenyou'renotfeelingwell"
+        ],
+        "position": {
+          "x": 0.095333,
+          "y": 0.249449,
+          "width": 0.7393339999999999,
+          "height": 0.23886600000000005
+        },
+        "textElementIds": [
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Margaret",
+          "Hey,Margaret.Howareyou?",
+          "Debbie",
+          "Debbie Hey, Margaret. How are you? Margaret [havea headache. | think I'd like",
+          "to go home and rest.",
+          "I'm not feeling well.",
+          "Margaret",
+          "Debbie",
+          "Debbie Oh? What’s wrong? Debbie That’s fine. Take it easy.",
+          "Debbie",
+          "B Listen to the expressions.Then practice the conversation again with the new expressions.",
+          "Saying how you feel",
+          "I feel awful.",
+          "I don't feel so good.",
+          "I'm not feeling well.",
+          "Wishing someone well"
+        ],
+        "position": {
+          "x": 0.097333,
+          "y": 0.6683049999999999,
+          "width": 0.751294,
+          "height": 0.2304830000000001
+        },
+        "textElementIds": [
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "I'm not feeling well.\nHealth problems\nListen. Then act out a health problem, Your partner guesses it.\na cold\nan earache\nafever\na cough\nabackache\na headache\nthe flu\nastomachache\natoothache\na sorethroat\n\"Do you have a cold?\"\nInteractions Whenyou'renotfeelingwell\nA  Listen to the conversation.What's wrong with Margaret? Then practice the conversation.\nMargaret\nHey,Margaret.Howareyou?\nIhaveaheadache.IthinkI'dlike\nDebbie\nto go home and rest.\nI'm not feeling well.\nMargaret\nThat's fine. Take it easy.\nDebbie\nDebbie\nOh? What's wrong?\nB  Listen to the expressions.Then practice the conversation again with the new expressions.\nSaying how you feel\nI feel awful.\nI don't feel so good.\nI'm not feeling well.\nWishing someone well\nGet well soon.\nTake it easy.\nI hope you feel better.\n48\ndehkhodaedu.com",
+      "tesseract_psm3": "i) Health problems\n\n£1?) Listen. Then act out a health problem. Your partner guesses it.\n\na backache acold\n\nan earache a fever\n\nthe flu a headache a sore throat a stomachache a toothache\n\n“Do you have a cold?”\n\n§] Interactions When you're not feeling well\n\nA Listen to the conversation. What’s wrong with Margaret? Then practice the conversation.\n\nDebbie Hey, Margaret. How are you? Margaret [havea headache. | think I'd like\nMargaret I’m not feeling well. to go home and rest.\nDebbie Oh? What’s wrong? Debbie That’s fine. Take it easy.\n\nB £2 Listen to the expressions. Then practice the conversation again with the new expressions.\n\nSaying how you feel\n‘Pm not feeling well. | don’t feel so good. | feel awful.\n\nWishing someone well\n\nTake it easy. { Get well soon. — {hope you feel better.\n\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8707,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "4 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "page",
+    "headings": [
+      "I'm not feeling well.",
+      "Health problems"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "I'm not feeling well.",
+        "confidence": 0.8656,
+        "bbox": {
+          "x": 0.138667,
+          "y": 0.049974,
+          "width": 0.494667,
+          "height": 0.03967
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Health problems",
+        "confidence": 0.8757,
+        "bbox": {
+          "x": 0.114667,
+          "y": 0.120041,
+          "width": 0.256,
+          "height": 0.021638
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "i) Health problems",
+            "confidence": 0.6733
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Health problems",
+            "confidence": 0.8757
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "instruction",
+        "content": "Listen. Then act out a health problem, Your partner guesses it.",
+        "confidence": 0.9108,
+        "bbox": {
+          "x": 0.115333,
+          "y": 0.152499,
+          "width": 0.451333,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listen. Then act out a health problem, Your partner guesses it.",
+            "confidence": 0.9108
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "£1?) Listen. Then act out a health problem. Your partner guesses it.",
+            "confidence": 0.8817
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "a cold",
+        "confidence": 0.8077,
+        "bbox": {
+          "x": 0.304,
+          "y": 0.269449,
+          "width": 0.046667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "afever",
+        "confidence": 0.7431,
+        "bbox": {
+          "x": 0.747333,
+          "y": 0.269964,
+          "width": 0.048667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "a cough",
+        "confidence": 0.7557,
+        "bbox": {
+          "x": 0.446,
+          "y": 0.270479,
+          "width": 0.056,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "an earache a fever",
+        "confidence": 0.945,
+        "bbox": {
+          "x": 0.587843,
+          "y": 0.270909,
+          "width": 0.206275,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "an earache",
+            "confidence": 0.8299
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "an earache a fever",
+            "confidence": 0.945
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "a backache acold",
+        "confidence": 0.9467,
+        "bbox": {
+          "x": 0.146275,
+          "y": 0.271515,
+          "width": 0.200784,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "abackache",
+            "confidence": 0.8201
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "a backache acold",
+            "confidence": 0.9467
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "a headache",
+        "confidence": 0.894,
+        "bbox": {
+          "x": 0.288667,
+          "y": 0.386914,
+          "width": 0.082667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "the flu",
+        "confidence": 0.8194,
+        "bbox": {
+          "x": 0.159333,
+          "y": 0.387429,
+          "width": 0.048,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "atoothache",
+        "confidence": 0.9052,
+        "bbox": {
+          "x": 0.730667,
+          "y": 0.387944,
+          "width": 0.084,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "a sorethroat",
+        "confidence": 0.8863,
+        "bbox": {
+          "x": 0.432667,
+          "y": 0.38846,
+          "width": 0.089333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "paragraph",
+        "content": "the flu a headache a sore throat a stomachache a toothache",
+        "confidence": 0.9109,
+        "bbox": {
+          "x": 0.162353,
+          "y": 0.388485,
+          "width": 0.650588,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "astomachache",
+            "confidence": 0.7722
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "the flu a headache a sore throat a stomachache a toothache",
+            "confidence": 0.9109
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "Do you have a cold?",
+        "confidence": 0.9128,
+        "bbox": {
+          "x": 0.117333,
+          "y": 0.410098,
+          "width": 0.156,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"Do you have a cold?\"",
+            "confidence": 0.9128
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "“Do you have a cold?”",
+            "confidence": 0.926
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "Interactions Whenyou're notfeelingwell",
+        "confidence": 0.9153,
+        "bbox": {
+          "x": 0.115333,
+          "y": 0.447707,
+          "width": 0.572,
+          "height": 0.020608
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "§] Interactions When you're not feeling well",
+            "confidence": 0.7214
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Interactions Whenyou'renotfeelingwell",
+            "confidence": 0.9153
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "A Listen to the conversation. What's wrong with Margaret? Then practice the conversation.",
+        "confidence": 0.9172,
+        "bbox": {
+          "x": 0.116667,
+          "y": 0.48068,
+          "width": 0.657333,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A  Listen to the conversation.What's wrong with Margaret? Then practice the conversation.",
+            "confidence": 0.9172
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Listen to the conversation. What’s wrong with Margaret? Then practice the conversation.",
+            "confidence": 0.8838
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Margaret",
+        "confidence": 0.828,
+        "bbox": {
+          "x": 0.520667,
+          "y": 0.688305,
+          "width": 0.068667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "Hey, Margaret. Howareyou?",
+        "confidence": 0.9071,
+        "bbox": {
+          "x": 0.204667,
+          "y": 0.68882,
+          "width": 0.192,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "Debbie",
+        "confidence": 0.77,
+        "bbox": {
+          "x": 0.118,
+          "y": 0.689335,
+          "width": 0.051333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "Debbie Hey, Margaret. How are you? Margaret [havea headache. | think I'd like",
+        "confidence": 0.8492,
+        "bbox": {
+          "x": 0.120392,
+          "y": 0.689394,
+          "width": 0.708235,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Ihaveaheadache.IthinkI'dlike",
+            "confidence": 0.8881
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Debbie Hey, Margaret. How are you? Margaret [havea headache. | think I'd like",
+            "confidence": 0.8492
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "to go home and rest.",
+        "confidence": 0.9415,
+        "bbox": {
+          "x": 0.608667,
+          "y": 0.705307,
+          "width": 0.141333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "to go home and rest.",
+            "confidence": 0.9415
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Margaret I’m not feeling well. to go home and rest.",
+            "confidence": 0.881
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "I'm not feeling well.",
+        "confidence": 0.8799,
+        "bbox": {
+          "x": 0.202667,
+          "y": 0.708913,
+          "width": 0.134667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "Margaret",
+        "confidence": 0.8734,
+        "bbox": {
+          "x": 0.117333,
+          "y": 0.709943,
+          "width": 0.068,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "Debbie",
+        "confidence": 0.8543,
+        "bbox": {
+          "x": 0.521333,
+          "y": 0.72643,
+          "width": 0.054,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "sentence",
+        "content": "Debbie Oh? What's wrong? Debbie That's fine. Take it easy.",
+        "confidence": 0.934,
+        "bbox": {
+          "x": 0.121176,
+          "y": 0.726667,
+          "width": 0.647843,
+          "height": 0.017879
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "That's fine. Take it easy.",
+            "confidence": 0.9094
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Debbie Oh? What’s wrong? Debbie That’s fine. Take it easy.",
+            "confidence": 0.934
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Oh? What's wrong?",
+            "confidence": 0.9145
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "Debbie",
+        "confidence": 0.8544,
+        "bbox": {
+          "x": 0.118,
+          "y": 0.730036,
+          "width": 0.052667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "sentence",
+        "content": "B Listen to the expressions. Then practice the conversation again with the new expressions.",
+        "confidence": 0.9372,
+        "bbox": {
+          "x": 0.118,
+          "y": 0.756826,
+          "width": 0.666667,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B  Listen to the expressions.Then practice the conversation again with the new expressions.",
+            "confidence": 0.9372
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B £2 Listen to the expressions. Then practice the conversation again with the new expressions.",
+            "confidence": 0.9273
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "Saying how you feel",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.12902,
+          "y": 0.787879,
+          "width": 0.139608,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Saying how you feel",
+            "confidence": 0.8936
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Saying how you feel",
+            "confidence": 0.9575
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "I feel awful.",
+        "confidence": 0.8317,
+        "bbox": {
+          "x": 0.665333,
+          "y": 0.819681,
+          "width": 0.082667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "‘Pm not feeling well. | don’t feel so good. | feel awful.",
+            "confidence": 0.7242
+          },
+          {
+            "engine": "rapidocr",
+            "content": "I feel awful.",
+            "confidence": 0.8317
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "I don't feel so good.",
+        "confidence": 0.8528,
+        "bbox": {
+          "x": 0.414,
+          "y": 0.820196,
+          "width": 0.137333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "I'm not feeling well.",
+        "confidence": 0.8565,
+        "bbox": {
+          "x": 0.158667,
+          "y": 0.820711,
+          "width": 0.133333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "Wishing someone well",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.129804,
+          "y": 0.867576,
+          "width": 0.155294,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Wishing someone well",
+            "confidence": 0.8656
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Wishing someone well",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "Get well soon.",
+        "confidence": 0.8116,
+        "bbox": {
+          "x": 0.374,
+          "y": 0.898506,
+          "width": 0.097333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Take it easy. { Get well soon. — {hope you feel better.",
+            "confidence": 0.6475
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Get well soon.",
+            "confidence": 0.8116
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "Take it easy.",
+        "confidence": 0.8917,
+        "bbox": {
+          "x": 0.159333,
+          "y": 0.899021,
+          "width": 0.082667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "I hope you feel better.",
+        "confidence": 0.8683,
+        "bbox": {
+          "x": 0.602667,
+          "y": 0.899536,
+          "width": 0.148,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "audio_track",
+        "content": "48",
+        "confidence": 0.6664,
+        "bbox": {
+          "x": 0.055333,
+          "y": 0.942298,
+          "width": 0.024,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "fullTextReadingOrder": [
+      "I'm not feeling well.",
+      "Health problems",
+      "Listen. Then act out a health problem, Your partner guesses it.",
+      "a cold",
+      "afever",
+      "a cough",
+      "an earache a fever",
+      "a backache acold",
+      "a headache",
+      "the flu",
+      "atoothache",
+      "a sorethroat",
+      "the flu a headache a sore throat a stomachache a toothache",
+      "Do you have a cold?",
+      "Interactions Whenyou're notfeelingwell",
+      "A Listen to the conversation. What's wrong with Margaret? Then practice the conversation.",
+      "Margaret",
+      "Hey, Margaret. Howareyou?",
+      "Debbie",
+      "Debbie Hey, Margaret. How are you? Margaret [havea headache. | think I'd like",
+      "to go home and rest.",
+      "I'm not feeling well.",
+      "Margaret",
+      "Debbie",
+      "Debbie Oh? What's wrong? Debbie That's fine. Take it easy.",
+      "Debbie",
+      "B Listen to the expressions. Then practice the conversation again with the new expressions.",
+      "Saying how you feel",
+      "I feel awful.",
+      "I don't feel so good.",
+      "I'm not feeling well.",
+      "Wishing someone well",
+      "Get well soon.",
+      "Take it easy.",
+      "I hope you feel better."
+    ],
+    "paragraphs": [
+      "the flu a headache a sore throat a stomachache a toothache"
+    ],
+    "sentences": [
+      "I'm not feeling well",
+      "Health problems Listen",
+      "Then act out a health problem, Your partner guesses it",
+      "a cold afever a cough an earache a fever a backache acold a headache the flu atoothache a sorethroat the flu a headache a sore throat a stomachache a toothache Do you have a cold",
+      "Interactions Whenyou're notfeelingwell A Listen to the conversation",
+      "What's wrong with Margaret",
+      "Then practice the conversation",
+      "Margaret Hey, Margaret",
+      "Howareyou",
+      "Debbie Debbie Hey, Margaret",
+      "How are you",
+      "Margaret [havea headache",
+      "| think I'd like to go home and rest",
+      "I'm not feeling well",
+      "Margaret Debbie Debbie Oh",
+      "What's wrong",
+      "Debbie That's fine",
+      "Take it easy",
+      "Debbie B Listen to the expressions",
+      "Then practice the conversation again with the new expressions",
+      "Saying how you feel I feel awful",
+      "I don't feel so good",
+      "I'm not feeling well",
+      "Wishing someone well Get well soon",
+      "Take it easy",
+      "I hope you feel better"
+    ],
+    "vocabulary": [
+      {
+        "word": "a cold",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "an earache",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "a fever",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "a cough",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "a backache",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "a headache",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "the flu",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "a stomachache",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "a toothache",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "a sore throat",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      }
+    ],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "A Listen to the conversation.",
+            "confidence": 0.9172,
+            "bbox": {
+              "x": 0.116667,
+              "y": 0.48068,
+              "width": 0.657333,
+              "height": 0.016486
+            },
+            "sourceElementId": "text_0016"
+          },
+          {
+            "speaker": null,
+            "content": "What's wrong with Margaret?",
+            "confidence": 0.9172,
+            "bbox": {
+              "x": 0.116667,
+              "y": 0.48068,
+              "width": 0.657333,
+              "height": 0.016486
+            },
+            "sourceElementId": "text_0016"
+          },
+          {
+            "speaker": null,
+            "content": "Then practice the conversation.",
+            "confidence": 0.9172,
+            "bbox": {
+              "x": 0.116667,
+              "y": 0.48068,
+              "width": 0.657333,
+              "height": 0.016486
+            },
+            "sourceElementId": "text_0016"
+          },
+          {
+            "speaker": null,
+            "content": "Debbie",
+            "confidence": 0.8492,
+            "bbox": {
+              "x": 0.120392,
+              "y": 0.689394,
+              "width": 0.708235,
+              "height": 0.013636
+            },
+            "sourceElementId": "text_0020"
+          },
+          {
+            "speaker": null,
+            "content": "Hey, Margaret.",
+            "confidence": 0.8492,
+            "bbox": {
+              "x": 0.120392,
+              "y": 0.689394,
+              "width": 0.708235,
+              "height": 0.013636
+            },
+            "sourceElementId": "text_0020"
+          },
+          {
+            "speaker": null,
+            "content": "How are you?",
+            "confidence": 0.8492,
+            "bbox": {
+              "x": 0.120392,
+              "y": 0.689394,
+              "width": 0.708235,
+              "height": 0.013636
+            },
+            "sourceElementId": "text_0020"
+          },
+          {
+            "speaker": null,
+            "content": "Margaret [havea headache. | think I'd like",
+            "confidence": 0.8492,
+            "bbox": {
+              "x": 0.120392,
+              "y": 0.689394,
+              "width": 0.708235,
+              "height": 0.013636
+            },
+            "sourceElementId": "text_0020"
+          },
+          {
+            "speaker": null,
+            "content": "I'm not feeling well.",
+            "confidence": 0.8799,
+            "bbox": {
+              "x": 0.202667,
+              "y": 0.708913,
+              "width": 0.134667,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0022"
+          },
+          {
+            "speaker": null,
+            "content": "I feel awful.",
+            "confidence": 0.8317,
+            "bbox": {
+              "x": 0.665333,
+              "y": 0.819681,
+              "width": 0.082667,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0029"
+          },
+          {
+            "speaker": null,
+            "content": "I don't feel so good.",
+            "confidence": 0.8528,
+            "bbox": {
+              "x": 0.414,
+              "y": 0.820196,
+              "width": 0.137333,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0030"
+          },
+          {
+            "speaker": null,
+            "content": "I'm not feeling well.",
+            "confidence": 0.8565,
+            "bbox": {
+              "x": 0.158667,
+              "y": 0.820711,
+              "width": 0.133333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0031"
+          },
+          {
+            "speaker": null,
+            "content": "I hope you feel better.",
+            "confidence": 0.8683,
+            "bbox": {
+              "x": 0.602667,
+              "y": 0.899536,
+              "width": 0.148,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0035"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen to the conversation. What's wrong with Margaret? Then practice the conversation.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "listening_activity",
+        "instruction": "Listen to the expressions. Then practice the conversation again with the new expressions.",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "a cold",
+          "afever",
+          "a cough",
+          "an earache a fever",
+          "a backache acold",
+          "a headache",
+          "the flu",
+          "atoothache",
+          "a sorethroat",
+          "the flu a headache a sore throat a stomachache a toothache",
+          "Do you have a cold?",
+          "Interactions Whenyou're notfeelingwell"
+        ],
+        "position": {
+          "x": 0.095333,
+          "y": 0.249449,
+          "width": 0.7393339999999999,
+          "height": 0.23886600000000005
+        },
+        "textElementIds": [
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Margaret",
+          "Hey, Margaret. Howareyou?",
+          "Debbie",
+          "Debbie Hey, Margaret. How are you? Margaret [havea headache. | think I'd like",
+          "to go home and rest.",
+          "I'm not feeling well.",
+          "Margaret",
+          "Debbie",
+          "Debbie Oh? What's wrong? Debbie That's fine. Take it easy.",
+          "Debbie",
+          "B Listen to the expressions. Then practice the conversation again with the new expressions.",
+          "Saying how you feel",
+          "I feel awful.",
+          "I don't feel so good.",
+          "I'm not feeling well.",
+          "Wishing someone well"
+        ],
+        "position": {
+          "x": 0.097333,
+          "y": 0.6683049999999999,
+          "width": 0.751294,
+          "height": 0.2304830000000001
+        },
+        "textElementIds": [
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032"
+        ]
+      }
+    ],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "page",
+    "title": "I'm not feeling well.",
+    "learningObjectives": [],
+    "targetVocabulary": [
+      {
+        "word": "a cold",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "an earache",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "a fever",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "a cough",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "a backache",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "a headache",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "the flu",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "a stomachache",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "a toothache",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "a sore throat",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "A Listen to the conversation.",
+            "confidence": 0.9172
+          },
+          {
+            "speaker": null,
+            "content": "What's wrong with Margaret?",
+            "confidence": 0.9172
+          },
+          {
+            "speaker": null,
+            "content": "Then practice the conversation.",
+            "confidence": 0.9172
+          },
+          {
+            "speaker": null,
+            "content": "Debbie",
+            "confidence": 0.8492
+          },
+          {
+            "speaker": null,
+            "content": "Hey, Margaret.",
+            "confidence": 0.8492
+          },
+          {
+            "speaker": null,
+            "content": "How are you?",
+            "confidence": 0.8492
+          },
+          {
+            "speaker": null,
+            "content": "Margaret [havea headache. | think I'd like",
+            "confidence": 0.8492
+          },
+          {
+            "speaker": null,
+            "content": "I'm not feeling well.",
+            "confidence": 0.8799
+          },
+          {
+            "speaker": null,
+            "content": "I feel awful.",
+            "confidence": 0.8317
+          },
+          {
+            "speaker": null,
+            "content": "I don't feel so good.",
+            "confidence": 0.8528
+          },
+          {
+            "speaker": null,
+            "content": "I'm not feeling well.",
+            "confidence": 0.8565
+          },
+          {
+            "speaker": null,
+            "content": "I hope you feel better.",
+            "confidence": 0.8683
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen to the conversation. What's wrong with Margaret? Then practice the conversation.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "listening_activity",
+        "instruction": "Listen to the expressions. Then practice the conversation again with the new expressions.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "4 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ],
+    "verifiedAgainstPdf": true,
+    "repairStats": {
+      "dialoguesSplit": 7
+    },
+    "averageOcrConfidence": 0.8707,
+    "verificationMethod": "independent_ocr_crosscheck"
+  },
+  "metadata": {
+    "book": "Four Corners 2 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc2_v1",
+    "verificationMethod": "independent_ocr_crosscheck",
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

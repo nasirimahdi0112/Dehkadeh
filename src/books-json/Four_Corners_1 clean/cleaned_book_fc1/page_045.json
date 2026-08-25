@@ -1,0 +1,2969 @@
+{
+  "pageNumber": 42,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 45,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 1_Part2.pdf",
+    "pdfLocalPageNumber": 19,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "My weekend",
+        "confidence": 0.8065,
+        "bbox": {
+          "x": 0.124,
+          "y": 0.062339,
+          "width": 0.319333,
+          "height": 0.036064
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "») My weekend",
+            "confidence": 0.66
+          },
+          {
+            "engine": "rapidocr",
+            "content": "My weekend",
+            "confidence": 0.8065
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Reading n",
+        "confidence": 0.7791,
+        "bbox": {
+          "x": 0.092667,
+          "y": 0.124678,
+          "width": 0.160667,
+          "height": 0.023699
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1) Reading 0",
+            "confidence": 0.49
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Reading n",
+            "confidence": 0.7791
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0003",
+        "type": "sentence",
+        "content": "A Look at the forum question. What’s your favorite day of the week? Why?",
+        "confidence": 0.935,
+        "bbox": {
+          "x": 0.09451,
+          "y": 0.161212,
+          "width": 0.511373,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Look at the forum question.What's your favorite day of the week? Why?",
+            "confidence": 0.8969
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Look at the forum question. What’s your favorite day of the week? Why?",
+            "confidence": 0.935
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "sentence",
+        "content": "B Read the message board. Whose favorite day is on the weekend?",
+        "confidence": 0.9456,
+        "bbox": {
+          "x": 0.092667,
+          "y": 0.187017,
+          "width": 0.467333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B Read the message board. Whose favorite day is on the weekend?",
+            "confidence": 0.9456
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Read the message board. Whose favorite day is on the weekend?",
+            "confidence": 0.9558
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "This week's question.",
+        "confidence": 0.8791,
+        "bbox": {
+          "x": 0.166,
+          "y": 0.278722,
+          "width": 0.218667,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "What's yourfavoriteday of the week?",
+        "confidence": 0.877,
+        "bbox": {
+          "x": 0.166667,
+          "y": 0.302937,
+          "width": 0.264667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "sentence",
+        "content": "My favorite day of the week is Saturday. | study from Monday to",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.385882,
+          "y": 0.337273,
+          "width": 0.418431,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "My favorite day ofthe week is Saturday.I study from Monday to",
+            "confidence": 0.887
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My favorite day of the week is Saturday. | study from Monday to",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "b",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.279608,
+          "y": 0.346364,
+          "width": 0.007843,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "sentence",
+        "content": "USYBUY Friday. On Saturday, | get up late.",
+        "confidence": 0.9025,
+        "bbox": {
+          "x": 0.288627,
+          "y": 0.349091,
+          "width": 0.315686,
+          "height": 0.017879
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "busyguy",
+            "confidence": 0.8063
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "USYBUY Friday. On Saturday, | get up late.",
+            "confidence": 0.9025
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Friday.OnSaturday,Igetuplate.",
+            "confidence": 0.919
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "sentence",
+        "content": "Not Saturday or Sunday. | work from noon to 4:00 on those days. In",
+        "confidence": 0.9579,
+        "bbox": {
+          "x": 0.387059,
+          "y": 0.389091,
+          "width": 0.442353,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Not Saturday or Sunday.I work from noon to 4:00 on those days. In",
+            "confidence": 0.8828
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Not Saturday or Sunday. | work from noon to 4:00 on those days. In",
+            "confidence": 0.9579
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "trish06",
+        "confidence": 0.8707,
+        "bbox": {
+          "x": 0.278,
+          "y": 0.405976,
+          "width": 0.05,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "sentence",
+        "content": "the evening, | study. My favorite day is Wednesday, because | don’t",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.386275,
+          "y": 0.406364,
+          "width": 0.44,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "theevening,Istudy.Myfavoritedayis Wednesday,becauseIdon't",
+            "confidence": 0.9098
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "the evening, | study. My favorite day is Wednesday, because | don’t",
+            "confidence": 0.9575
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "instruction",
+        "content": "work on Wednesdays.",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.386275,
+          "y": 0.424242,
+          "width": 0.144706,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "work on Wednesdays.",
+            "confidence": 0.8874
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "work on Wednesdays.",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "Monday. | watch my favorite TV show every Monday. It has my",
+        "confidence": 0.9225,
+        "bbox": {
+          "x": 0.387451,
+          "y": 0.458485,
+          "width": 0.407843,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Monday.I watch myfavoriteTV show every Monday.It has my",
+            "confidence": 0.897
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Monday. | watch my favorite TV show every Monday. It has my",
+            "confidence": 0.9225
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "JasonFan",
+        "confidence": 0.91,
+        "bbox": {
+          "x": 0.281176,
+          "y": 0.468182,
+          "width": 0.062745,
+          "height": 0.008788
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "JasonFan",
+            "confidence": 0.878
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "JasonFan",
+            "confidence": 0.91
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "favorite actor. The show is called “Life with Jason.” It’s on at 8:00. .",
+        "confidence": 0.9143,
+        "bbox": {
+          "x": 0.387059,
+          "y": 0.475758,
+          "width": 0.441961,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "favoriteactor.Theshowiscalled\"LifewithJason.\"It'sonat8:0o.",
+            "confidence": 0.9158
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "favorite actor. The show is called “Life with Jason.” It’s on at 8:00. .",
+            "confidence": 0.9143
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "sentence",
+        "content": "Monday?! No way! Saturday, Saturday, Saturday! We don’t go to",
+        "confidence": 0.929,
+        "bbox": {
+          "x": 0.387843,
+          "y": 0.519394,
+          "width": 0.422745,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Monday?! No way! Saturday, Saturday,Saturday! We don't go to",
+            "confidence": 0.9028
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Monday?! No way! Saturday, Saturday, Saturday! We don’t go to",
+            "confidence": 0.929
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "Ricardo school on Saturdays.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.281569,
+          "y": 0.528788,
+          "width": 0.244314,
+          "height": 0.02
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Ricardo",
+            "confidence": 0.8711
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ricardo school on Saturdays.",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "school on Saturdays.",
+            "confidence": 0.8914
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "ica",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.290588,
+          "y": 0.529091,
+          "width": 0.017255,
+          "height": 0.008788
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "Sunday! | get up late, read the news, and have coffee. Then my son",
+        "confidence": 0.9593,
+        "bbox": {
+          "x": 0.388235,
+          "y": 0.580909,
+          "width": 0.440392,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Sunday! Iget up late, read the news, and havecoffee.Then my son",
+            "confidence": 0.8998
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Sunday! | get up late, read the news, and have coffee. Then my son",
+            "confidence": 0.9593
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "SuperDad45",
+        "confidence": 0.8646,
+        "bbox": {
+          "x": 0.281333,
+          "y": 0.589902,
+          "width": 0.084,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "HORLO",
+        "confidence": 0.5488,
+        "bbox": {
+          "x": 0.177333,
+          "y": 0.591963,
+          "width": 0.045333,
+          "height": 0.010819
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0023",
+        "type": "sentence",
+        "content": "and daughter cook breakfast for my wife and me.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.388235,
+          "y": 0.598485,
+          "width": 0.324706,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "anddaughtercookbreakfast formywifeand me.",
+            "confidence": 0.906
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "and daughter cook breakfast for my wife and me.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "DAD",
+        "confidence": 0.7453,
+        "bbox": {
+          "x": 0.184667,
+          "y": 0.603812,
+          "width": 0.030667,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0025",
+        "type": "sentence",
+        "content": "| have two favorite days - Tuesday and Thursday. | have an art class",
+        "confidence": 0.9436,
+        "bbox": {
+          "x": 0.38902,
+          "y": 0.642424,
+          "width": 0.445882,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I have two favorite days -Tuesday and Thursday.I have an art class",
+            "confidence": 0.8635
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| have two favorite days - Tuesday and Thursday. | have an art class",
+            "confidence": 0.9436
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "michik03",
+        "confidence": 0.8024,
+        "bbox": {
+          "x": 0.28,
+          "y": 0.64915,
+          "width": 0.065333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "sentence",
+        "content": "after work on those days, and my teacher is very nice.",
+        "confidence": 0.9591,
+        "bbox": {
+          "x": 0.388627,
+          "y": 0.659697,
+          "width": 0.35451,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "afterwork on those days, andmy teacheris verynice.",
+            "confidence": 0.8701
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "after work on those days, and my teacher is very nice.",
+            "confidence": 0.9591
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "sentence",
+        "content": "C Read the forum again.What's each person's favorite day? Why? Complete the chart.",
+        "confidence": 0.9238,
+        "bbox": {
+          "x": 0.108667,
+          "y": 0.715095,
+          "width": 0.595333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "Favorite day(s)",
+        "confidence": 0.808,
+        "bbox": {
+          "x": 0.259333,
+          "y": 0.737764,
+          "width": 0.104667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "Why?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.496863,
+          "y": 0.74,
+          "width": 0.036078,
+          "height": 0.010909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Why?",
+            "confidence": 0.792
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Why?",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "Saturday",
+        "confidence": 0.8073,
+        "bbox": {
+          "x": 0.258667,
+          "y": 0.757342,
+          "width": 0.077333,
+          "height": 0.017517
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Saturday",
+            "confidence": 0.8073
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "_ Saturday",
+            "confidence": 0.535
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "gets up late",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.496863,
+          "y": 0.760303,
+          "width": 0.09098,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "gets up late",
+            "confidence": 0.8485
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "gets up late",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "| busyguy",
+        "confidence": 0.81,
+        "bbox": {
+          "x": 0.108235,
+          "y": 0.760909,
+          "width": 0.063529,
+          "height": 0.017879
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "busyguy",
+            "confidence": 0.7308
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| busyguy",
+            "confidence": 0.81
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "trish06",
+        "confidence": 0.8653,
+        "bbox": {
+          "x": 0.114667,
+          "y": 0.779495,
+          "width": 0.05,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "trish06",
+            "confidence": 0.8653
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "- trish06",
+            "confidence": 0.145
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "JasonFan",
+        "confidence": 0.8833,
+        "bbox": {
+          "x": 0.114667,
+          "y": 0.800618,
+          "width": 0.067333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "_JasonFan",
+            "confidence": 0.43
+          },
+          {
+            "engine": "rapidocr",
+            "content": "JasonFan",
+            "confidence": 0.8833
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "Ricardo",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.118039,
+          "y": 0.82303,
+          "width": 0.049412,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Ricardo",
+            "confidence": 0.8747
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ricardo",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "SuperDad45",
+        "confidence": 0.9017,
+        "bbox": {
+          "x": 0.114667,
+          "y": 0.842349,
+          "width": 0.086,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "SuperDad45",
+            "confidence": 0.9017
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "SuperDad45 i",
+            "confidence": 0.745
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "michiko3",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.118431,
+          "y": 0.865455,
+          "width": 0.059216,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "michiko3",
+            "confidence": 0.8443
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "michiko3",
+            "confidence": 0.9
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "sentence",
+        "content": "D What’s your class’s favorite day? Vote and discuss your answer.",
+        "confidence": 0.9473,
+        "bbox": {
+          "x": 0.111765,
+          "y": 0.893939,
+          "width": 0.564314,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What's your class's favorite day? Vote and discuss your answer.",
+            "confidence": 0.9048
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "D What’s your class’s favorite day? Vote and discuss your answer.",
+            "confidence": 0.9473
+          },
+          {
+            "engine": "rapidocr",
+            "content": "CLASSACTIVITY",
+            "confidence": 0.8636
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "42",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.037647,
+          "y": 0.941818,
+          "width": 0.018431,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "42",
+            "confidence": 0.6662
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "42",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "My weekend",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.124,
+          "y": 0.062339,
+          "width": 0.319333,
+          "height": 0.036064
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8065
+      },
+      {
+        "word": "Reading n",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.092667,
+          "y": 0.124678,
+          "width": 0.160667,
+          "height": 0.023699
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.7791
+      },
+      {
+        "word": "JasonFan",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.281176,
+          "y": 0.468182,
+          "width": 0.062745,
+          "height": 0.008788
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.91
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "This week's question.",
+            "confidence": 0.8791,
+            "bbox": {
+              "x": 0.166,
+              "y": 0.278722,
+              "width": 0.218667,
+              "height": 0.016486
+            },
+            "sourceElementId": "text_0005",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "What's yourfavoriteday of the week?",
+            "confidence": 0.877,
+            "bbox": {
+              "x": 0.166667,
+              "y": 0.302937,
+              "width": 0.264667,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0006",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "My favorite day of the week is Saturday. | study from Monday to",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.385882,
+              "y": 0.337273,
+              "width": 0.418431,
+              "height": 0.012424
+            },
+            "sourceElementId": "text_0007",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Not Saturday or Sunday. | work from noon to 4:00 on those days. In",
+            "confidence": 0.9579,
+            "bbox": {
+              "x": 0.387059,
+              "y": 0.389091,
+              "width": 0.442353,
+              "height": 0.012121
+            },
+            "sourceElementId": "text_0010",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "C Read the forum again.What's each person's favorite day? Why? Complete the chart.",
+            "confidence": 0.9238,
+            "bbox": {
+              "x": 0.108667,
+              "y": 0.715095,
+              "width": 0.595333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0028",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "exercise",
+        "instruction": "Look at the forum question. What’s your favorite day of the week? Why?",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0003"
+        ],
+        "confidence": 0.935
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "reading_activity",
+        "instruction": "Read the message board. Whose favorite day is on the weekend?",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0004"
+        ],
+        "confidence": 0.9456
+      },
+      {
+        "exerciseNumber": "C",
+        "type": "reading_activity",
+        "instruction": "Read the forum again.What's each person's favorite day? Why? Complete the chart.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0028"
+        ],
+        "confidence": 0.9238
+      },
+      {
+        "exerciseNumber": "D",
+        "type": "exercise",
+        "instruction": "What’s your class’s favorite day? Vote and discuss your answer.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0039"
+        ],
+        "confidence": 0.9473
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "This week's question.",
+          "What's yourfavoriteday of the week?",
+          "My favorite day of the week is Saturday. | study from Monday to",
+          "b",
+          "USYBUY Friday. On Saturday, | get up late.",
+          "Not Saturday or Sunday. | work from noon to 4:00 on those days. In",
+          "trish06",
+          "the evening, | study. My favorite day is Wednesday, because | don’t",
+          "work on Wednesdays.",
+          "Monday. | watch my favorite TV show every Monday. It has my",
+          "JasonFan",
+          "favorite actor. The show is called “Life with Jason.” It’s on at 8:00. ."
+        ],
+        "position": {
+          "x": 0.14600000000000002,
+          "y": 0.258722,
+          "width": 0.703412,
+          "height": 0.24703600000000003
+        },
+        "textElementIds": [
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Monday?! No way! Saturday, Saturday, Saturday! We don’t go to",
+          "Ricardo school on Saturdays.",
+          "ica",
+          "Sunday! | get up late, read the news, and have coffee. Then my son",
+          "SuperDad45",
+          "HORLO",
+          "and daughter cook breakfast for my wife and me.",
+          "DAD",
+          "| have two favorite days - Tuesday and Thursday. | have an art class",
+          "michik03",
+          "after work on those days, and my teacher is very nice.",
+          "C Read the forum again.What's each person's favorite day? Why? Complete the chart."
+        ],
+        "position": {
+          "x": 0.088667,
+          "y": 0.499394,
+          "width": 0.766235,
+          "height": 0.2490960000000001
+        },
+        "textElementIds": [
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Favorite day(s)",
+          "Why?",
+          "Saturday",
+          "gets up late",
+          "| busyguy",
+          "trish06",
+          "JasonFan",
+          "Ricardo",
+          "SuperDad45",
+          "michiko3"
+        ],
+        "position": {
+          "x": 0.088235,
+          "y": 0.717764,
+          "width": 0.5196080000000001,
+          "height": 0.17708500000000005
+        },
+        "textElementIds": [
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "My weekend\nReading n\nA Look at the forum question.What's your favorite day of the week? Why?\nB Read the message board. Whose favorite day is on the weekend?\nThis week's question.\nWhat's yourfavoriteday of the week?\nMy favorite day ofthe week is Saturday.I study from Monday to\nbusyguy\nFriday.OnSaturday,Igetuplate.\nNot Saturday or Sunday.I work from noon to 4:00 on those days. In\ntheevening,Istudy.Myfavoritedayis Wednesday,becauseIdon't\ntrish06\nwork on Wednesdays.\nMonday.I watch myfavoriteTV show every Monday.It has my\nJasonFan\nfavoriteactor.Theshowiscalled\"LifewithJason.\"It'sonat8:0o.\nMonday?! No way! Saturday, Saturday,Saturday! We don't go to\nRicardo\nschool on Saturdays.\nSunday! Iget up late, read the news, and havecoffee.Then my son\nSuperDad45\nHORLO\nanddaughtercookbreakfast formywifeand me.\nDAD\nI have two favorite days -Tuesday and Thursday.I have an art class\nmichik03\nafterwork on those days, andmy teacheris verynice.\nC Read the forum again.What's each person's favorite day? Why? Complete the chart.\nWhy?\nFavorite day(s)\nbusyguy\nSaturday\ngets up late\ntrish06\nJasonFan\nRicardo\nSuperDad45\nmichiko3\nWhat's your class's favorite day? Vote and discuss your answer.\nCLASSACTIVITY\n42\ndehkhodaedu.com",
+      "tesseract_psm3": "») My weekend\n\n1) Reading 0\n\nA Look at the forum question. What’s your favorite day of the week? Why?\n\nB Read the message board. Whose favorite day is on the weekend?\n\nMy favorite day of the week is Saturday. | study from Monday to\n\nb\nUSYBUY Friday. On Saturday, | get up late.\n\nNot Saturday or Sunday. | work from noon to 4:00 on those days. In\nthe evening, | study. My favorite day is Wednesday, because | don’t\nwork on Wednesdays.\n\nMonday. | watch my favorite TV show every Monday. It has my\n\nJasonFan\nfavorite actor. The show is called “Life with Jason.” It’s on at 8:00. .\n\nMonday?! No way! Saturday, Saturday, Saturday! We don’t go to\n\nica\nRicardo school on Saturdays.\n\nSunday! | get up late, read the news, and have coffee. Then my son\nand daughter cook breakfast for my wife and me.\n\n| have two favorite days - Tuesday and Thursday. | have an art class\nafter work on those days, and my teacher is very nice.\n\nWhy?\ngets up late\n\n| busyguy\n- trish06\n\n_JasonFan\n\n—————————\n\nj\n\n_ Saturday\n\nRicardo\nSuperDad45 i\n\nmichiko3\n\nD What’s your class’s favorite day? Vote and discuss your answer.\n\n42\n\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [
+      {
+        "id": "text_0036",
+        "type": "text",
+        "content": "—————————",
+        "confidence": 0.15,
+        "bbox": {
+          "x": 0.131373,
+          "y": 0.817273,
+          "width": 0.107451,
+          "height": 0.000909
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0038",
+        "type": "text",
+        "content": "j",
+        "confidence": 0,
+        "bbox": {
+          "x": 0.254118,
+          "y": 0.82303,
+          "width": 0.000784,
+          "height": 0.003636
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "averageConfidence": 0.8951,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "3 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "2 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "reading",
+    "headings": [
+      "My weekend",
+      "Reading n"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "My weekend",
+        "confidence": 0.8065,
+        "bbox": {
+          "x": 0.124,
+          "y": 0.062339,
+          "width": 0.319333,
+          "height": 0.036064
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "») My weekend",
+            "confidence": 0.66
+          },
+          {
+            "engine": "rapidocr",
+            "content": "My weekend",
+            "confidence": 0.8065
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Reading n",
+        "confidence": 0.7791,
+        "bbox": {
+          "x": 0.092667,
+          "y": 0.124678,
+          "width": 0.160667,
+          "height": 0.023699
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1) Reading 0",
+            "confidence": 0.49
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Reading n",
+            "confidence": 0.7791
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0003",
+        "type": "sentence",
+        "content": "A Look at the forum question. What's your favorite day of the week? Why?",
+        "confidence": 0.935,
+        "bbox": {
+          "x": 0.09451,
+          "y": 0.161212,
+          "width": 0.511373,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Look at the forum question.What's your favorite day of the week? Why?",
+            "confidence": 0.8969
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Look at the forum question. What’s your favorite day of the week? Why?",
+            "confidence": 0.935
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "sentence",
+        "content": "B Read the message board. Whose favorite day is on the weekend?",
+        "confidence": 0.9456,
+        "bbox": {
+          "x": 0.092667,
+          "y": 0.187017,
+          "width": 0.467333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B Read the message board. Whose favorite day is on the weekend?",
+            "confidence": 0.9456
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Read the message board. Whose favorite day is on the weekend?",
+            "confidence": 0.9558
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "This week's question.",
+        "confidence": 0.8791,
+        "bbox": {
+          "x": 0.166,
+          "y": 0.278722,
+          "width": 0.218667,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "What's your favorite day of the week?",
+        "confidence": 0.877,
+        "bbox": {
+          "x": 0.166667,
+          "y": 0.302937,
+          "width": 0.264667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "sentence",
+        "content": "My favorite day of the week is Saturday. | study from Monday to",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.385882,
+          "y": 0.337273,
+          "width": 0.418431,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "My favorite day ofthe week is Saturday.I study from Monday to",
+            "confidence": 0.887
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My favorite day of the week is Saturday. | study from Monday to",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "b",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.279608,
+          "y": 0.346364,
+          "width": 0.007843,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "sentence",
+        "content": "USYBUY Friday. On Saturday, | get up late.",
+        "confidence": 0.9025,
+        "bbox": {
+          "x": 0.288627,
+          "y": 0.349091,
+          "width": 0.315686,
+          "height": 0.017879
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "busyguy",
+            "confidence": 0.8063
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "USYBUY Friday. On Saturday, | get up late.",
+            "confidence": 0.9025
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Friday.OnSaturday,Igetuplate.",
+            "confidence": 0.919
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "sentence",
+        "content": "Not Saturday or Sunday. | work from noon to 4:00 on those days. In",
+        "confidence": 0.9579,
+        "bbox": {
+          "x": 0.387059,
+          "y": 0.389091,
+          "width": 0.442353,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Not Saturday or Sunday.I work from noon to 4:00 on those days. In",
+            "confidence": 0.8828
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Not Saturday or Sunday. | work from noon to 4:00 on those days. In",
+            "confidence": 0.9579
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "trish 06",
+        "confidence": 0.8707,
+        "bbox": {
+          "x": 0.278,
+          "y": 0.405976,
+          "width": 0.05,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "sentence",
+        "content": "the evening, | study. My favorite day is Wednesday, because | don't",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.386275,
+          "y": 0.406364,
+          "width": 0.44,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "theevening,Istudy.Myfavoritedayis Wednesday,becauseIdon't",
+            "confidence": 0.9098
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "the evening, | study. My favorite day is Wednesday, because | don’t",
+            "confidence": 0.9575
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "instruction",
+        "content": "work on Wednesdays.",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.386275,
+          "y": 0.424242,
+          "width": 0.144706,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "work on Wednesdays.",
+            "confidence": 0.8874
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "work on Wednesdays.",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "Monday. | watch my favorite TV show every Monday. It has my",
+        "confidence": 0.9225,
+        "bbox": {
+          "x": 0.387451,
+          "y": 0.458485,
+          "width": 0.407843,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Monday.I watch myfavoriteTV show every Monday.It has my",
+            "confidence": 0.897
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Monday. | watch my favorite TV show every Monday. It has my",
+            "confidence": 0.9225
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "Jason Fan",
+        "confidence": 0.91,
+        "bbox": {
+          "x": 0.281176,
+          "y": 0.468182,
+          "width": 0.062745,
+          "height": 0.008788
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "JasonFan",
+            "confidence": 0.878
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "JasonFan",
+            "confidence": 0.91
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "favorite actor. The show is called \"Life with Jason.\" It's on at 8:00. .",
+        "confidence": 0.9143,
+        "bbox": {
+          "x": 0.387059,
+          "y": 0.475758,
+          "width": 0.441961,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "favoriteactor.Theshowiscalled\"LifewithJason.\"It'sonat8:0o.",
+            "confidence": 0.9158
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "favorite actor. The show is called “Life with Jason.” It’s on at 8:00. .",
+            "confidence": 0.9143
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "sentence",
+        "content": "Monday?! No way! Saturday, Saturday, Saturday! We don't go to",
+        "confidence": 0.929,
+        "bbox": {
+          "x": 0.387843,
+          "y": 0.519394,
+          "width": 0.422745,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Monday?! No way! Saturday, Saturday,Saturday! We don't go to",
+            "confidence": 0.9028
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Monday?! No way! Saturday, Saturday, Saturday! We don’t go to",
+            "confidence": 0.929
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "Ricardo school on Saturdays.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.281569,
+          "y": 0.528788,
+          "width": 0.244314,
+          "height": 0.02
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Ricardo",
+            "confidence": 0.8711
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ricardo school on Saturdays.",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "school on Saturdays.",
+            "confidence": 0.8914
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "ica",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.290588,
+          "y": 0.529091,
+          "width": 0.017255,
+          "height": 0.008788
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "Sunday! | get up late, read the news, and have coffee. Then my son",
+        "confidence": 0.9593,
+        "bbox": {
+          "x": 0.388235,
+          "y": 0.580909,
+          "width": 0.440392,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Sunday! Iget up late, read the news, and havecoffee.Then my son",
+            "confidence": 0.8998
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Sunday! | get up late, read the news, and have coffee. Then my son",
+            "confidence": 0.9593
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "Super Dad 45",
+        "confidence": 0.8646,
+        "bbox": {
+          "x": 0.281333,
+          "y": 0.589902,
+          "width": 0.084,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "HORLO",
+        "confidence": 0.5488,
+        "bbox": {
+          "x": 0.177333,
+          "y": 0.591963,
+          "width": 0.045333,
+          "height": 0.010819
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0023",
+        "type": "sentence",
+        "content": "and daughter cook breakfast for my wife and me.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.388235,
+          "y": 0.598485,
+          "width": 0.324706,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "anddaughtercookbreakfast formywifeand me.",
+            "confidence": 0.906
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "and daughter cook breakfast for my wife and me.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "DAD",
+        "confidence": 0.7453,
+        "bbox": {
+          "x": 0.184667,
+          "y": 0.603812,
+          "width": 0.030667,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0025",
+        "type": "sentence",
+        "content": "have two favorite days - Tuesday and Thursday. | have an art class",
+        "confidence": 0.9436,
+        "bbox": {
+          "x": 0.38902,
+          "y": 0.642424,
+          "width": 0.445882,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I have two favorite days -Tuesday and Thursday.I have an art class",
+            "confidence": 0.8635
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| have two favorite days - Tuesday and Thursday. | have an art class",
+            "confidence": 0.9436
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "mich ik 03",
+        "confidence": 0.8024,
+        "bbox": {
+          "x": 0.28,
+          "y": 0.64915,
+          "width": 0.065333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "sentence",
+        "content": "after work on those days, and my teacher is very nice.",
+        "confidence": 0.9591,
+        "bbox": {
+          "x": 0.388627,
+          "y": 0.659697,
+          "width": 0.35451,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "afterwork on those days, andmy teacheris verynice.",
+            "confidence": 0.8701
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "after work on those days, and my teacher is very nice.",
+            "confidence": 0.9591
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "sentence",
+        "content": "C Read the forum again. What's each person's favorite day? Why? Complete the chart.",
+        "confidence": 0.9238,
+        "bbox": {
+          "x": 0.108667,
+          "y": 0.715095,
+          "width": 0.595333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "Favorite day(s)",
+        "confidence": 0.808,
+        "bbox": {
+          "x": 0.259333,
+          "y": 0.737764,
+          "width": 0.104667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "Why?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.496863,
+          "y": 0.74,
+          "width": 0.036078,
+          "height": 0.010909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Why?",
+            "confidence": 0.792
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Why?",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "Saturday",
+        "confidence": 0.8073,
+        "bbox": {
+          "x": 0.258667,
+          "y": 0.757342,
+          "width": 0.077333,
+          "height": 0.017517
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Saturday",
+            "confidence": 0.8073
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "_ Saturday",
+            "confidence": 0.535
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "gets up late",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.496863,
+          "y": 0.760303,
+          "width": 0.09098,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "gets up late",
+            "confidence": 0.8485
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "gets up late",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "busy guy",
+        "confidence": 0.81,
+        "bbox": {
+          "x": 0.108235,
+          "y": 0.760909,
+          "width": 0.063529,
+          "height": 0.017879
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "busyguy",
+            "confidence": 0.7308
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| busyguy",
+            "confidence": 0.81
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "trish 06",
+        "confidence": 0.8653,
+        "bbox": {
+          "x": 0.114667,
+          "y": 0.779495,
+          "width": 0.05,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "trish06",
+            "confidence": 0.8653
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "- trish06",
+            "confidence": 0.145
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "Jason Fan",
+        "confidence": 0.8833,
+        "bbox": {
+          "x": 0.114667,
+          "y": 0.800618,
+          "width": 0.067333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "_JasonFan",
+            "confidence": 0.43
+          },
+          {
+            "engine": "rapidocr",
+            "content": "JasonFan",
+            "confidence": 0.8833
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "Ricardo",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.118039,
+          "y": 0.82303,
+          "width": 0.049412,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Ricardo",
+            "confidence": 0.8747
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ricardo",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "Super Dad 45",
+        "confidence": 0.9017,
+        "bbox": {
+          "x": 0.114667,
+          "y": 0.842349,
+          "width": 0.086,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "SuperDad45",
+            "confidence": 0.9017
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "SuperDad45 i",
+            "confidence": 0.745
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "michiko 3",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.118431,
+          "y": 0.865455,
+          "width": 0.059216,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "michiko3",
+            "confidence": 0.8443
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "michiko3",
+            "confidence": 0.9
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "sentence",
+        "content": "D What's your class's favorite day? Vote and discuss your answer.",
+        "confidence": 0.9473,
+        "bbox": {
+          "x": 0.111765,
+          "y": 0.893939,
+          "width": 0.564314,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What's your class's favorite day? Vote and discuss your answer.",
+            "confidence": 0.9048
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "D What’s your class’s favorite day? Vote and discuss your answer.",
+            "confidence": 0.9473
+          },
+          {
+            "engine": "rapidocr",
+            "content": "CLASSACTIVITY",
+            "confidence": 0.8636
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "audio_track",
+        "content": "42",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.037647,
+          "y": 0.941818,
+          "width": 0.018431,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "42",
+            "confidence": 0.6662
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "42",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "My weekend",
+      "Reading n",
+      "A Look at the forum question. What's your favorite day of the week? Why?",
+      "B Read the message board. Whose favorite day is on the weekend?",
+      "This week's question.",
+      "What's your favorite day of the week?",
+      "My favorite day of the week is Saturday. | study from Monday to",
+      "b",
+      "USYBUY Friday. On Saturday, | get up late.",
+      "Not Saturday or Sunday. | work from noon to 4:00 on those days. In",
+      "trish 06",
+      "the evening, | study. My favorite day is Wednesday, because | don't",
+      "work on Wednesdays.",
+      "Monday. | watch my favorite TV show every Monday. It has my",
+      "Jason Fan",
+      "favorite actor. The show is called \"Life with Jason.\" It's on at 8:00. .",
+      "Monday?! No way! Saturday, Saturday, Saturday! We don't go to",
+      "Ricardo school on Saturdays.",
+      "ica",
+      "Sunday! | get up late, read the news, and have coffee. Then my son",
+      "Super Dad 45",
+      "HORLO",
+      "and daughter cook breakfast for my wife and me.",
+      "DAD",
+      "have two favorite days - Tuesday and Thursday. | have an art class",
+      "mich ik 03",
+      "after work on those days, and my teacher is very nice.",
+      "C Read the forum again. What's each person's favorite day? Why? Complete the chart.",
+      "Favorite day(s)",
+      "Why?",
+      "Saturday",
+      "gets up late",
+      "busy guy",
+      "trish 06",
+      "Jason Fan",
+      "Ricardo",
+      "Super Dad 45",
+      "michiko 3",
+      "D What's your class's favorite day? Vote and discuss your answer."
+    ],
+    "paragraphs": [],
+    "sentences": [
+      "My weekend Reading n A Look at the forum question",
+      "What's your favorite day of the week",
+      "Why",
+      "B Read the message board",
+      "Whose favorite day is on the weekend",
+      "This week's question",
+      "What's your favorite day of the week",
+      "My favorite day of the week is Saturday",
+      "| study from Monday to b USYBUY Friday",
+      "On Saturday, | get up late",
+      "Not Saturday or Sunday",
+      "| work from noon to 4:00 on those days",
+      "In trish 06 the evening, | study",
+      "My favorite day is Wednesday, because | don't work on Wednesdays",
+      "Monday",
+      "| watch my favorite TV show every Monday",
+      "It has my Jason Fan favorite actor",
+      "The show is called \"Life with Jason",
+      "\" It's on at 8:00",
+      "Monday",
+      "No way",
+      "Saturday, Saturday, Saturday",
+      "We don't go to Ricardo school on Saturdays",
+      "ica Sunday",
+      "| get up late, read the news, and have coffee",
+      "Then my son Super Dad 45 HORLO and daughter cook breakfast for my wife and me",
+      "DAD have two favorite days - Tuesday and Thursday",
+      "| have an art class mich ik 03 after work on those days, and my teacher is very nice",
+      "C Read the forum again",
+      "What's each person's favorite day",
+      "Why",
+      "Complete the chart",
+      "Favorite day(s) Why",
+      "Saturday gets up late busy guy trish 06 Jason Fan Ricardo Super Dad 45 michiko 3 D What's your class's favorite day",
+      "Vote and discuss your answer"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "This week's question.",
+            "confidence": 0.8791,
+            "bbox": {
+              "x": 0.166,
+              "y": 0.278722,
+              "width": 0.218667,
+              "height": 0.016486
+            },
+            "sourceElementId": "text_0005"
+          },
+          {
+            "speaker": null,
+            "content": "What's your favorite day of the week?",
+            "confidence": 0.877,
+            "bbox": {
+              "x": 0.166667,
+              "y": 0.302937,
+              "width": 0.264667,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0006"
+          },
+          {
+            "speaker": null,
+            "content": "My favorite day of the week is Saturday. | study from Monday to",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.385882,
+              "y": 0.337273,
+              "width": 0.418431,
+              "height": 0.012424
+            },
+            "sourceElementId": "text_0007"
+          },
+          {
+            "speaker": null,
+            "content": "Not Saturday or Sunday. | work from noon to 4:00 on those days.",
+            "confidence": 0.9579,
+            "bbox": {
+              "x": 0.387059,
+              "y": 0.389091,
+              "width": 0.442353,
+              "height": 0.012121
+            },
+            "sourceElementId": "text_0010"
+          },
+          {
+            "speaker": null,
+            "content": "In",
+            "confidence": 0.9579,
+            "bbox": {
+              "x": 0.387059,
+              "y": 0.389091,
+              "width": 0.442353,
+              "height": 0.012121
+            },
+            "sourceElementId": "text_0010"
+          },
+          {
+            "speaker": null,
+            "content": "C Read the forum again.",
+            "confidence": 0.9238,
+            "bbox": {
+              "x": 0.108667,
+              "y": 0.715095,
+              "width": 0.595333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0028"
+          },
+          {
+            "speaker": null,
+            "content": "What's each person's favorite day?",
+            "confidence": 0.9238,
+            "bbox": {
+              "x": 0.108667,
+              "y": 0.715095,
+              "width": 0.595333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0028"
+          },
+          {
+            "speaker": null,
+            "content": "Why?",
+            "confidence": 0.9238,
+            "bbox": {
+              "x": 0.108667,
+              "y": 0.715095,
+              "width": 0.595333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0028"
+          },
+          {
+            "speaker": null,
+            "content": "Complete the chart.",
+            "confidence": 0.9238,
+            "bbox": {
+              "x": 0.108667,
+              "y": 0.715095,
+              "width": 0.595333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0028"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "exercise",
+        "instruction": "Look at the forum question. What's your favorite day of the week? Why?",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "reading",
+        "instruction": "Read the message board. Whose favorite day is on the weekend?",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "C",
+        "type": "reading",
+        "instruction": "Read the forum again. What's each person's favorite day? Why? Complete the chart.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "D",
+        "type": "asking_answering",
+        "instruction": "What's your class's favorite day? Vote and discuss your answer.",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "This week's question.",
+          "What's your favorite day of the week?",
+          "My favorite day of the week is Saturday. | study from Monday to",
+          "b",
+          "USYBUY Friday. On Saturday, | get up late.",
+          "Not Saturday or Sunday. | work from noon to 4:00 on those days. In",
+          "trish 06",
+          "the evening, | study. My favorite day is Wednesday, because | don't",
+          "work on Wednesdays.",
+          "Monday. | watch my favorite TV show every Monday. It has my",
+          "Jason Fan",
+          "favorite actor. The show is called \"Life with Jason.\" It's on at 8:00. ."
+        ],
+        "position": {
+          "x": 0.14600000000000002,
+          "y": 0.258722,
+          "width": 0.703412,
+          "height": 0.24703600000000003
+        },
+        "textElementIds": [
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Monday?! No way! Saturday, Saturday, Saturday! We don't go to",
+          "Ricardo school on Saturdays.",
+          "ica",
+          "Sunday! | get up late, read the news, and have coffee. Then my son",
+          "Super Dad 45",
+          "HORLO",
+          "and daughter cook breakfast for my wife and me.",
+          "DAD",
+          "have two favorite days - Tuesday and Thursday. | have an art class",
+          "mich ik 03",
+          "after work on those days, and my teacher is very nice.",
+          "C Read the forum again. What's each person's favorite day? Why? Complete the chart."
+        ],
+        "position": {
+          "x": 0.088667,
+          "y": 0.499394,
+          "width": 0.766235,
+          "height": 0.2490960000000001
+        },
+        "textElementIds": [
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Favorite day(s)",
+          "Why?",
+          "Saturday",
+          "gets up late",
+          "busy guy",
+          "trish 06",
+          "Jason Fan",
+          "Ricardo",
+          "Super Dad 45",
+          "michiko 3"
+        ],
+        "position": {
+          "x": 0.088235,
+          "y": 0.717764,
+          "width": 0.5196080000000001,
+          "height": 0.17708500000000005
+        },
+        "textElementIds": [
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038"
+        ]
+      }
+    ],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "reading",
+    "title": "My weekend",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "This week's question.",
+            "confidence": 0.8791
+          },
+          {
+            "speaker": null,
+            "content": "What's your favorite day of the week?",
+            "confidence": 0.877
+          },
+          {
+            "speaker": null,
+            "content": "My favorite day of the week is Saturday. | study from Monday to",
+            "confidence": 0.96
+          },
+          {
+            "speaker": null,
+            "content": "Not Saturday or Sunday. | work from noon to 4:00 on those days.",
+            "confidence": 0.9579
+          },
+          {
+            "speaker": null,
+            "content": "In",
+            "confidence": 0.9579
+          },
+          {
+            "speaker": null,
+            "content": "C Read the forum again.",
+            "confidence": 0.9238
+          },
+          {
+            "speaker": null,
+            "content": "What's each person's favorite day?",
+            "confidence": 0.9238
+          },
+          {
+            "speaker": null,
+            "content": "Why?",
+            "confidence": 0.9238
+          },
+          {
+            "speaker": null,
+            "content": "Complete the chart.",
+            "confidence": 0.9238
+          }
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "title": "My weekend",
+        "paragraphs": [],
+        "sentences": [
+          "My weekend Reading n A Look at the forum question",
+          "What's your favorite day of the week",
+          "Why",
+          "B Read the message board",
+          "Whose favorite day is on the weekend",
+          "This week's question",
+          "What's your favorite day of the week",
+          "My favorite day of the week is Saturday",
+          "| study from Monday to b USYBUY Friday",
+          "On Saturday, | get up late",
+          "Not Saturday or Sunday",
+          "| work from noon to 4:00 on those days",
+          "In trish 06 the evening, | study",
+          "My favorite day is Wednesday, because | don't work on Wednesdays",
+          "Monday",
+          "| watch my favorite TV show every Monday",
+          "It has my Jason Fan favorite actor",
+          "The show is called \"Life with Jason",
+          "\" It's on at 8:00",
+          "Monday",
+          "No way",
+          "Saturday, Saturday, Saturday",
+          "We don't go to Ricardo school on Saturdays",
+          "ica Sunday",
+          "| get up late, read the news, and have coffee",
+          "Then my son Super Dad 45 HORLO and daughter cook breakfast for my wife and me",
+          "DAD have two favorite days - Tuesday and Thursday",
+          "| have an art class mich ik 03 after work on those days, and my teacher is very nice",
+          "C Read the forum again",
+          "What's each person's favorite day",
+          "Why",
+          "Complete the chart",
+          "Favorite day(s) Why",
+          "Saturday gets up late busy guy trish 06 Jason Fan Ricardo Super Dad 45 michiko 3 D What's your class's favorite day",
+          "Vote and discuss your answer"
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "exercise",
+        "instruction": "Look at the forum question. What's your favorite day of the week? Why?",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "reading",
+        "instruction": "Read the message board. Whose favorite day is on the weekend?",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "C",
+        "type": "reading",
+        "instruction": "Read the forum again. What's each person's favorite day? Why? Complete the chart.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "D",
+        "type": "asking_answering",
+        "instruction": "What's your class's favorite day? Vote and discuss your answer.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "3 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "2 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "dialoguesSplit": 6
+    },
+    "averageOcrConfidence": 0.8951,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 1 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc1_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

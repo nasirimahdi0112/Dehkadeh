@@ -1,0 +1,3303 @@
+{
+  "pageNumber": 25,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 32,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 3_Part2.pdf",
+    "pdfLocalPageNumber": 10,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.7509,
+        "bbox": {
+          "x": 0.832667,
+          "y": 0.021638,
+          "width": 0.04,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Grammar Used to",
+        "confidence": 0.8807,
+        "bbox": {
+          "x": 0.084667,
+          "y": 0.088614,
+          "width": 0.295333,
+          "height": 0.021123
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "<> Grammar 9 Used to",
+            "confidence": 0.694
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Grammar  Used to",
+            "confidence": 0.8807
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "paragraph",
+        "content": "Used to refers to something that was true in the past but isn’t anymore or",
+        "confidence": 0.9587,
+        "bbox": {
+          "x": 0.109412,
+          "y": 0.13,
+          "width": 0.485882,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Used to refers to something that was true inthe pastbutisn'tanymore or",
+            "confidence": 0.8774
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Used to refers to something that was true in the past but isn’t anymore or",
+            "confidence": 0.9587
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "something that happened regularly in the past but doesn’t anymore.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.108235,
+          "y": 0.147576,
+          "width": 0.45451,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "something that happened regularly in thepast but doesn't anymore",
+            "confidence": 0.8868
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "something that happened regularly in the past but doesn’t anymore.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "sentence",
+        "content": "Iused to have a black leather jacket.",
+        "confidence": 0.867,
+        "bbox": {
+          "x": 0.106667,
+          "y": 0.166409,
+          "width": 0.250667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Iused to have a black leather jacket.",
+            "confidence": 0.867
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| used to have a black leather jacket.",
+            "confidence": 0.8812
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "sentence",
+        "content": "Men and women in England and France used to wear long wigs.",
+        "confidence": 0.9592,
+        "bbox": {
+          "x": 0.109412,
+          "y": 0.189697,
+          "width": 0.43098,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Men and women in England and France used to wear long wigs",
+            "confidence": 0.8729
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Men and women in England and France used to wear long wigs.",
+            "confidence": 0.9592
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "sentence",
+        "content": "Did you use to dye your hair?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.109412,
+          "y": 0.210606,
+          "width": 0.197255,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Did you use to dye your hair?",
+            "confidence": 0.8903
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Did you use to dye your hair?",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "sentence",
+        "content": "Yes, | used to dye my hair all the time, but | don’t dye it anymore.",
+        "confidence": 0.9537,
+        "bbox": {
+          "x": 0.131765,
+          "y": 0.228485,
+          "width": 0.44,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Yes,I usedtodyemyhairall thetime,butIdon'tdye itanymore.",
+            "confidence": 0.9104
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Yes, | used to dye my hair all the time, but | don’t dye it anymore.",
+            "confidence": 0.9537
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "sentence",
+        "content": "No, | didn’t use to dye my hair, but | do now.",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.132941,
+          "y": 0.245758,
+          "width": 0.299608,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "No, I didn't use to dye my hair, but I do now.",
+            "confidence": 0.8508
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "No, | didn’t use to dye my hair, but | do now.",
+            "confidence": 0.9575
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "sentence",
+        "content": "A Write sentences with used to () or didn't use to (X). Then compare with a partner.",
+        "confidence": 0.9452,
+        "bbox": {
+          "x": 0.084,
+          "y": 0.281813,
+          "width": 0.6,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Write sentences with used to () or didn't use to (X). Then compare with a partner.",
+            "confidence": 0.9452
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Write sentences with used to (/) or didn’t use to (X). Then compare with a partner.",
+            "confidence": 0.9118
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "sentence",
+        "content": "Max used to dye his hair black.",
+        "confidence": 0.9109,
+        "bbox": {
+          "x": 0.511333,
+          "y": 0.298815,
+          "width": 0.232667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Max / (%) dye his hair black Maxused to dyehishairblack.",
+            "confidence": 0.744
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Max used to dye his hair black.",
+            "confidence": 0.9109
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "Max/ ()dyehis hairblack",
+        "confidence": 0.909,
+        "bbox": {
+          "x": 0.128,
+          "y": 0.303967,
+          "width": 0.193333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "an mn fF WN",
+        "confidence": 0.3375,
+        "bbox": {
+          "x": 0.107843,
+          "y": 0.306364,
+          "width": 0.013333,
+          "height": 0.114242
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0014",
+        "type": "paragraph",
+        "content": "Carly / (X) wear a uniform to school",
+        "confidence": 0.9363,
+        "bbox": {
+          "x": 0.132941,
+          "y": 0.325758,
+          "width": 0.240392,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Carly / (X) wear a uniform to school",
+            "confidence": 0.9068
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Carly / (X) wear a uniform to school",
+            "confidence": 0.9363
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "paragraph",
+        "content": "Tina and I / () have ponytails",
+        "confidence": 0.8249,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.345698,
+          "width": 0.209333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Tina and I / () have ponytails",
+            "confidence": 0.8249
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Tina and 1 /(/) have ponytails",
+            "confidence": 0.6617
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "paragraph",
+        "content": "Britney / (“) wear the same bracelet every day —",
+        "confidence": 0.86,
+        "bbox": {
+          "x": 0.133725,
+          "y": 0.366364,
+          "width": 0.450196,
+          "height": 0.015758
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Britney / (“) wear the same bracelet every day —",
+            "confidence": 0.86
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Britney / (/) wear the same bracelet every day",
+            "confidence": 0.894
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "paragraph",
+        "content": "Roberto and Ana / (X) wear glasses",
+        "confidence": 0.9357,
+        "bbox": {
+          "x": 0.133725,
+          "y": 0.389394,
+          "width": 0.236863,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Roberto and Ana / (X) wear glasses",
+            "confidence": 0.9109
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Roberto and Ana / (X) wear glasses",
+            "confidence": 0.9357
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "Kendra /(X) like leather skirts",
+        "confidence": 0.936,
+        "bbox": {
+          "x": 0.133725,
+          "y": 0.410303,
+          "width": 0.198039,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Kendra/(X)likeleatherskirts",
+            "confidence": 0.9029
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Kendra /(X) like leather skirts",
+            "confidence": 0.936
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "sentence",
+        "content": "B Complete the sentences with true information. Tell your partner.",
+        "confidence": 0.951,
+        "bbox": {
+          "x": 0.087451,
+          "y": 0.438182,
+          "width": 0.559216,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAIR WoRK Complete the sentences with true information. Tell your partner.",
+            "confidence": 0.9094
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Complete the sentences with true information. Tell your partner.",
+            "confidence": 0.951
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "I used to",
+        "confidence": 0.7751,
+        "bbox": {
+          "x": 0.127333,
+          "y": 0.458011,
+          "width": 0.067333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0021",
+        "type": "sentence",
+        "content": "as a kid, butI don't now.",
+        "confidence": 0.8589,
+        "bbox": {
+          "x": 0.37,
+          "y": 0.460072,
+          "width": 0.168,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "as a kid, butI don't now.",
+            "confidence": 0.8589
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 lusedto. : ___as akid, but | don’t now.",
+            "confidence": 0.72
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "Ididn'tuseto",
+        "confidence": 0.8498,
+        "bbox": {
+          "x": 0.118667,
+          "y": 0.480165,
+          "width": 0.110667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "sentence",
+        "content": ", but some of my friends did.",
+        "confidence": 0.8875,
+        "bbox": {
+          "x": 0.401333,
+          "y": 0.48068,
+          "width": 0.196,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": ", but some of my friends did.",
+            "confidence": 0.8875
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 |didn’t use to recess ______, but some of my friends did.",
+            "confidence": 0.7308
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": ", but they don't now.",
+        "confidence": 0.9313,
+        "bbox": {
+          "x": 0.46,
+          "y": 0.500773,
+          "width": 0.142,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "sentence",
+        "content": "3 Lots of people used to . , but they don’t now.",
+        "confidence": 0.8342,
+        "bbox": {
+          "x": 0.110588,
+          "y": 0.502727,
+          "width": 0.490196,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3Lots of people used to",
+            "confidence": 0.8499
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Lots of people used to . , but they don’t now.",
+            "confidence": 0.8342
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "Pronunciation Used toand use to",
+        "confidence": 0.92,
+        "bbox": {
+          "x": 0.088627,
+          "y": 0.53697,
+          "width": 0.479608,
+          "height": 0.018182
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Pronunciation Used to and use to",
+            "confidence": 0.9001
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Pronunciation Used toand use to",
+            "confidence": 0.92
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "instruction",
+        "content": "Listen and repeat. Notice how used to and use to sound the same.",
+        "confidence": 0.911,
+        "bbox": {
+          "x": 0.086,
+          "y": 0.570325,
+          "width": 0.485333,
+          "height": 0.017517
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listen and repeat. Notice how used to and use to sound the same.",
+            "confidence": 0.911
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "{? Listen and repeat. Notice how used to and use to sound the same.",
+            "confidence": 0.9164
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "/yusta/",
+        "confidence": 0.7731,
+        "bbox": {
+          "x": 0.383333,
+          "y": 0.592478,
+          "width": 0.054667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "/yusta/ /yusta/",
+        "confidence": 0.925,
+        "bbox": {
+          "x": 0.098039,
+          "y": 0.595152,
+          "width": 0.336078,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "/yusta/",
+            "confidence": 0.8115
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "/yusta/ /yusta/",
+            "confidence": 0.925
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "sentence",
+        "content": "I used to wear a uniform.",
+        "confidence": 0.8685,
+        "bbox": {
+          "x": 0.085333,
+          "y": 0.611025,
+          "width": 0.172,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "sentence",
+        "content": "| used to wear a uniform. | didn’t use to dye my hair, but | do now.",
+        "confidence": 0.9394,
+        "bbox": {
+          "x": 0.087843,
+          "y": 0.612424,
+          "width": 0.52,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I didn't use to dye my hair, but I do now.",
+            "confidence": 0.9172
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| used to wear a uniform. | didn’t use to dye my hair, but | do now.",
+            "confidence": 0.9394
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "heading",
+        "content": "Speaking Past and present",
+        "confidence": 0.9159,
+        "bbox": {
+          "x": 0.082667,
+          "y": 0.646059,
+          "width": 0.39,
+          "height": 0.02473
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "|) Speaking Past and present",
+            "confidence": 0.84
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Speaking Past and present",
+            "confidence": 0.9159
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "sentence",
+        "content": "A Read the list. Add two more questions about style and fashion.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.087059,
+          "y": 0.68303,
+          "width": 0.546275,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAiR wORK Read the list.Add two more questions about style and fashion.",
+            "confidence": 0.88
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Read the list. Add two more questions about style and fashion.",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "sentence",
+        "content": "Then interview your partner. Take notes.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.110588,
+          "y": 0.701515,
+          "width": 0.283922,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Then interview your partner.Take notes.",
+            "confidence": 0.8868
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Then interview your partner. Take notes.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "sentence",
+        "content": "@ What kind of clothing did you use to wear?",
+        "confidence": 0.951,
+        "bbox": {
+          "x": 0.110196,
+          "y": 0.722727,
+          "width": 0.312157,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What kind of clothing did you use to wear?",
+            "confidence": 0.9222
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "@ What kind of clothing did you use to wear?",
+            "confidence": 0.951
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "sentence",
+        "content": "What kind of hairstyles did you use to have?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.133725,
+          "y": 0.743636,
+          "width": 0.297647,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Whatkindofhairstylesdidyouusetohave?",
+            "confidence": 0.9323
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What kind of hairstyles did you use to have?",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "sentence",
+        "content": "What’s something you didn’t use to wear but do now?",
+        "confidence": 0.949,
+        "bbox": {
+          "x": 0.134118,
+          "y": 0.765152,
+          "width": 0.364706,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What's somethingyou didn't use to wear but do now?",
+            "confidence": 0.8817
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What’s something you didn’t use to wear but do now?",
+            "confidence": 0.949
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "paragraph",
+        "content": "B Tell another classmate any interesting information about your",
+        "confidence": 0.9556,
+        "bbox": {
+          "x": 0.088627,
+          "y": 0.834848,
+          "width": 0.544314,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAiRWOoRkTellanotherclassmateany interestinginformationaboutyour",
+            "confidence": 0.8901
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Tell another classmate any interesting information about your",
+            "confidence": 0.9556
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "partner’s style and fashion.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.111765,
+          "y": 0.853636,
+          "width": 0.189804,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "partner's style and fashion.",
+            "confidence": 0.8638
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "partner’s style and fashion.",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "e",
+        "confidence": 0.63,
+        "bbox": {
+          "x": 0.236078,
+          "y": 0.887576,
+          "width": 0.005882,
+          "height": 0.004242
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0041",
+        "type": "heading",
+        "content": "Keep talking!",
+        "confidence": 0.8392,
+        "bbox": {
+          "x": 0.086667,
+          "y": 0.887687,
+          "width": 0.208,
+          "height": 0.022154
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "‘| Keep talking!",
+            "confidence": 0.6533
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Keep talking!",
+            "confidence": 0.8392
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "paragraph",
+        "content": "Student A go to page 127 and",
+        "confidence": 0.9571,
+        "bbox": {
+          "x": 0.094118,
+          "y": 0.924242,
+          "width": 0.201176,
+          "height": 0.010909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Student A go to page 127 and",
+            "confidence": 0.8728
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Student A go to page 127 and",
+            "confidence": 0.9571
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "paragraph",
+        "content": "Student B go to page 128 for more practice",
+        "confidence": 0.9511,
+        "bbox": {
+          "x": 0.094118,
+          "y": 0.939091,
+          "width": 0.296863,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Student Bgo to page 128 for more practice.",
+            "confidence": 0.8895
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Student B go to page 128 for more practice",
+            "confidence": 0.9511
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "label",
+        "content": "25",
+        "confidence": 0.6516,
+        "bbox": {
+          "x": 0.910667,
+          "y": 0.956208,
+          "width": 0.023333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0045",
+        "type": "label",
+        "content": "I canask aboutand describepastfashions.",
+        "confidence": 0.9069,
+        "bbox": {
+          "x": 0.585333,
+          "y": 0.967027,
+          "width": 0.263333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [
+      {
+        "topic": "Grammar Used to",
+        "rule": [
+          "Grammar Used to",
+          "Men and women in England and France used to wear long wigs.",
+          "Did you use to dye your hair?",
+          "Yes, | used to dye my hair all the time, but | don’t dye it anymore.",
+          "No, | didn’t use to dye my hair, but | do now.",
+          "an mn fF WN",
+          "Carly / (X) wear a uniform to school",
+          "Britney / (“) wear the same bracelet every day —",
+          "Roberto and Ana / (X) wear glasses",
+          "B Complete the sentences with true information. Tell your partner.",
+          "I used to",
+          "as a kid, butI don't now.",
+          ", but some of my friends did.",
+          ", but they don't now.",
+          "Pronunciation Used toand use to",
+          "I used to wear a uniform.",
+          "| used to wear a uniform. | didn’t use to dye my hair, but | do now.",
+          "A Read the list. Add two more questions about style and fashion.",
+          "Then interview your partner. Take notes.",
+          "B Tell another classmate any interesting information about your",
+          "partner’s style and fashion.",
+          "Student A go to page 127 and",
+          "Student B go to page 128 for more practice"
+        ],
+        "form": null,
+        "positiveExamples": [
+          "Used to refers to something that was true in the past but isn’t anymore or",
+          "something that happened regularly in the past but doesn’t anymore.",
+          "Iused to have a black leather jacket.",
+          "A Write sentences with used to () or didn't use to (X). Then compare with a partner.",
+          "Max used to dye his hair black.",
+          "Max/ ()dyehis hairblack",
+          "Tina and I / () have ponytails",
+          "Kendra /(X) like leather skirts",
+          "Speaking Past and present",
+          "@ What kind of clothing did you use to wear?",
+          "What kind of hairstyles did you use to have?",
+          "What’s something you didn’t use to wear but do now?",
+          "I canask aboutand describepastfashions."
+        ],
+        "negativeExamples": [],
+        "questionForms": [],
+        "shortAnswers": [],
+        "exceptions": [],
+        "usageNotes": [],
+        "practice": [
+          "3 Lots of people used to . , but they don’t now.",
+          "Listen and repeat. Notice how used to and use to sound the same.",
+          "25"
+        ],
+        "confidence": 0.8846
+      }
+    ],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Yes, | used to dye my hair all the time, but | don’t dye it anymore.",
+            "confidence": 0.9537,
+            "bbox": {
+              "x": 0.131765,
+              "y": 0.228485,
+              "width": 0.44,
+              "height": 0.012121
+            },
+            "sourceElementId": "text_0008",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "No, | didn’t use to dye my hair, but | do now.",
+            "confidence": 0.9575,
+            "bbox": {
+              "x": 0.132941,
+              "y": 0.245758,
+              "width": 0.299608,
+              "height": 0.012424
+            },
+            "sourceElementId": "text_0009",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "A Write sentences with used to () or didn't use to (X). Then compare with a partner.",
+            "confidence": 0.9452,
+            "bbox": {
+              "x": 0.084,
+              "y": 0.281813,
+              "width": 0.6,
+              "height": 0.015456
+            },
+            "sourceElementId": "text_0010",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "as a kid, butI don't now.",
+            "confidence": 0.8589,
+            "bbox": {
+              "x": 0.37,
+              "y": 0.460072,
+              "width": 0.168,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0021",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": ", but they don't now.",
+            "confidence": 0.9313,
+            "bbox": {
+              "x": 0.46,
+              "y": 0.500773,
+              "width": 0.142,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0024",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I used to wear a uniform.",
+            "confidence": 0.8685,
+            "bbox": {
+              "x": 0.085333,
+              "y": 0.611025,
+              "width": 0.172,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0030",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "What kind of hairstyles did you use to have?",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.133725,
+              "y": 0.743636,
+              "width": 0.297647,
+              "height": 0.011818
+            },
+            "sourceElementId": "text_0036",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "What’s something you didn’t use to wear but do now?",
+            "confidence": 0.949,
+            "bbox": {
+              "x": 0.134118,
+              "y": 0.765152,
+              "width": 0.364706,
+              "height": 0.011818
+            },
+            "sourceElementId": "text_0037",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "writing_activity",
+        "instruction": "Write sentences with used to () or didn't use to (X). Then compare with a partner.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0010"
+        ],
+        "confidence": 0.9452
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "writing_activity",
+        "instruction": "Complete the sentences with true information. Tell your partner.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0019"
+        ],
+        "confidence": 0.951
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "reading_activity",
+        "instruction": "Read the list. Add two more questions about style and fashion.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0033"
+        ],
+        "confidence": 0.96
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "exercise",
+        "instruction": "Tell another classmate any interesting information about your",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0038"
+        ],
+        "confidence": 0.9556
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Did you use to dye your hair?",
+          "Yes, | used to dye my hair all the time, but | don’t dye it anymore.",
+          "No, | didn’t use to dye my hair, but | do now.",
+          "A Write sentences with used to () or didn't use to (X). Then compare with a partner.",
+          "Max used to dye his hair black.",
+          "Max/ ()dyehis hairblack",
+          "an mn fF WN",
+          "Carly / (X) wear a uniform to school",
+          "Tina and I / () have ponytails",
+          "Britney / (“) wear the same bracelet every day —",
+          "Roberto and Ana / (X) wear glasses",
+          "Kendra /(X) like leather skirts",
+          "B Complete the sentences with true information. Tell your partner."
+        ],
+        "position": {
+          "x": 0.064,
+          "y": 0.190606,
+          "width": 0.7,
+          "height": 0.280606
+        },
+        "textElementIds": [
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "I used to",
+          "as a kid, butI don't now.",
+          "Ididn'tuseto",
+          ", but some of my friends did.",
+          ", but they don't now.",
+          "3 Lots of people used to . , but they don’t now.",
+          "Pronunciation Used toand use to",
+          "Listen and repeat. Notice how used to and use to sound the same.",
+          "/yusta/",
+          "/yusta/ /yusta/",
+          "I used to wear a uniform.",
+          "| used to wear a uniform. | didn’t use to dye my hair, but | do now.",
+          "Speaking Past and present"
+        ],
+        "position": {
+          "x": 0.062667,
+          "y": 0.438011,
+          "width": 0.565176,
+          "height": 0.2527780000000001
+        },
+        "textElementIds": [
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "A Read the list. Add two more questions about style and fashion.",
+          "Then interview your partner. Take notes.",
+          "@ What kind of clothing did you use to wear?",
+          "What kind of hairstyles did you use to have?",
+          "What’s something you didn’t use to wear but do now?",
+          "B Tell another classmate any interesting information about your",
+          "partner’s style and fashion."
+        ],
+        "position": {
+          "x": 0.067059,
+          "y": 0.66303,
+          "width": 0.586275,
+          "height": 0.22242399999999996
+        },
+        "textElementIds": [
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "unit\nGrammar  Used to\nUsed to refers to something that was true inthe pastbutisn'tanymore or\nsomething that happened regularly in thepast but doesn't anymore\nIused to have a black leather jacket.\nMen and women in England and France used to wear long wigs\nDid you use to dye your hair?\nYes,I usedtodyemyhairall thetime,butIdon'tdye itanymore.\nNo, I didn't use to dye my hair, but I do now.\nA Write sentences with used to () or didn't use to (X). Then compare with a partner.\nMax used to dye his hair black.\nMax/ ()dyehis hairblack\nCarly / (X) wear a uniform to school\nTina and I / () have ponytails\nBritney / (/) wear the same bracelet every day\nRoberto and Ana / (X) wear glasses\nKendra/(X)likeleatherskirts\nPAIR WoRK Complete the sentences with true information. Tell your partner.\nI used to\nas a kid, butI don't now.\nIdidn'tuseto\n, but some of my friends did.\n, but they don't now.\n3Lots of people used to\nPronunciation Used to and use to\nListen and repeat. Notice how used to and use to sound the same.\n/yusta/\n/yusta/\nI didn't use to dye my hair, but I do now.\nI used to wear a uniform.\nSpeaking Past and present\nPAiR wORK Read the list.Add two more questions about style and fashion.\nThen interview your partner.Take notes.\nWhat kind of clothing did you use to wear?\nWhatkindofhairstylesdidyouusetohave?\nWhat's somethingyou didn't use to wear but do now?\nPAiRWOoRkTellanotherclassmateany interestinginformationaboutyour\npartner's style and fashion.\nKeep talking!\nStudent A go to page 127 and\nStudent Bgo to page 128 for more practice.\ndehkhodaedu.com\n25\nI canask aboutand describepastfashions.",
+      "tesseract_psm3": "<> Grammar 9 Used to\n\nUsed to refers to something that was true in the past but isn’t anymore or\nsomething that happened regularly in the past but doesn’t anymore.\n\n| used to have a black leather jacket.\nMen and women in England and France used to wear long wigs.\n\nDid you use to dye your hair?\nYes, | used to dye my hair all the time, but | don’t dye it anymore.\nNo, | didn’t use to dye my hair, but | do now.\n\nA Write sentences with used to (/) or didn’t use to (X). Then compare with a partner.\nMax / (%) dye his hair black Maxused to dyehishairblack.\n\nCarly / (X) wear a uniform to school\n\nTina and 1 /(/) have ponytails\n\nBritney / (“) wear the same bracelet every day —\nRoberto and Ana / (X) wear glasses\nKendra /(X) like leather skirts\n\nan mn fF WN\n\nB Complete the sentences with true information. Tell your partner.\n\n1 lusedto. : ___as akid, but | don’t now.\n2 |didn’t use to recess ______, but some of my friends did.\n3 Lots of people used to . , but they don’t now.\n\nPronunciation Used toand use to\n\n{? Listen and repeat. Notice how used to and use to sound the same.\n\n/yusta/ /yusta/\n| used to wear a uniform. | didn’t use to dye my hair, but | do now.\n\n|) Speaking Past and present\n\nA Read the list. Add two more questions about style and fashion.\nThen interview your partner. Take notes.\n\n@ What kind of clothing did you use to wear?\nWhat kind of hairstyles did you use to have?\n\nWhat’s something you didn’t use to wear but do now?\n\nB Tell another classmate any interesting information about your\npartner’s style and fashion.\n\ne\n‘| Keep talking!\nStudent A go to page 127 and\nStudent B go to page 128 for more practice\ndehkhodaedu.com 25\nIno canask about and describe past fashions.\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8856,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "6 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "grammar",
+    "headings": [
+      "unit",
+      "Grammar Used to",
+      "something that happened regularly in the past but doesn't anymore.",
+      "Speaking Past and present",
+      "Keep talking!"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.7509,
+        "bbox": {
+          "x": 0.832667,
+          "y": 0.021638,
+          "width": 0.04,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Grammar Used to",
+        "confidence": 0.8807,
+        "bbox": {
+          "x": 0.084667,
+          "y": 0.088614,
+          "width": 0.295333,
+          "height": 0.021123
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "<> Grammar 9 Used to",
+            "confidence": 0.694
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Grammar  Used to",
+            "confidence": 0.8807
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "paragraph",
+        "content": "Used to refers to something that was true in the past but isn't anymore or",
+        "confidence": 0.9587,
+        "bbox": {
+          "x": 0.109412,
+          "y": 0.13,
+          "width": 0.485882,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Used to refers to something that was true inthe pastbutisn'tanymore or",
+            "confidence": 0.8774
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Used to refers to something that was true in the past but isn’t anymore or",
+            "confidence": 0.9587
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "something that happened regularly in the past but doesn't anymore.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.108235,
+          "y": 0.147576,
+          "width": 0.45451,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "something that happened regularly in thepast but doesn't anymore",
+            "confidence": 0.8868
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "something that happened regularly in the past but doesn’t anymore.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "sentence",
+        "content": "Iused to have a black leather jacket.",
+        "confidence": 0.867,
+        "bbox": {
+          "x": 0.106667,
+          "y": 0.166409,
+          "width": 0.250667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Iused to have a black leather jacket.",
+            "confidence": 0.867
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| used to have a black leather jacket.",
+            "confidence": 0.8812
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "sentence",
+        "content": "Men and women in England and France used to wear long wigs.",
+        "confidence": 0.9592,
+        "bbox": {
+          "x": 0.109412,
+          "y": 0.189697,
+          "width": 0.43098,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Men and women in England and France used to wear long wigs",
+            "confidence": 0.8729
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Men and women in England and France used to wear long wigs.",
+            "confidence": 0.9592
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "sentence",
+        "content": "Did you use to dye your hair?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.109412,
+          "y": 0.210606,
+          "width": 0.197255,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Did you use to dye your hair?",
+            "confidence": 0.8903
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Did you use to dye your hair?",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "sentence",
+        "content": "Yes, | used to dye my hair all the time, but | don't dye it anymore.",
+        "confidence": 0.9537,
+        "bbox": {
+          "x": 0.131765,
+          "y": 0.228485,
+          "width": 0.44,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Yes,I usedtodyemyhairall thetime,butIdon'tdye itanymore.",
+            "confidence": 0.9104
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Yes, | used to dye my hair all the time, but | don’t dye it anymore.",
+            "confidence": 0.9537
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "sentence",
+        "content": "No, | didn't use to dye my hair, but | do now.",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.132941,
+          "y": 0.245758,
+          "width": 0.299608,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "No, I didn't use to dye my hair, but I do now.",
+            "confidence": 0.8508
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "No, | didn’t use to dye my hair, but | do now.",
+            "confidence": 0.9575
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "sentence",
+        "content": "A Write sentences with used to () or didn't use to (X). Then compare with a partner.",
+        "confidence": 0.9452,
+        "bbox": {
+          "x": 0.084,
+          "y": 0.281813,
+          "width": 0.6,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Write sentences with used to () or didn't use to (X). Then compare with a partner.",
+            "confidence": 0.9452
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Write sentences with used to (/) or didn’t use to (X). Then compare with a partner.",
+            "confidence": 0.9118
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "sentence",
+        "content": "Max used to dye his hair black.",
+        "confidence": 0.9109,
+        "bbox": {
+          "x": 0.511333,
+          "y": 0.298815,
+          "width": 0.232667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Max / (%) dye his hair black Maxused to dyehishairblack.",
+            "confidence": 0.744
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Max used to dye his hair black.",
+            "confidence": 0.9109
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "Max/ ()dyehis hairblack",
+        "confidence": 0.909,
+        "bbox": {
+          "x": 0.128,
+          "y": 0.303967,
+          "width": 0.193333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "an mn f F WN",
+        "confidence": 0.3375,
+        "bbox": {
+          "x": 0.107843,
+          "y": 0.306364,
+          "width": 0.013333,
+          "height": 0.114242
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0014",
+        "type": "paragraph",
+        "content": "Carly / (X) wear a uniform to school",
+        "confidence": 0.9363,
+        "bbox": {
+          "x": 0.132941,
+          "y": 0.325758,
+          "width": 0.240392,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Carly / (X) wear a uniform to school",
+            "confidence": 0.9068
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Carly / (X) wear a uniform to school",
+            "confidence": 0.9363
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "paragraph",
+        "content": "Tina and I / () have ponytails",
+        "confidence": 0.8249,
+        "bbox": {
+          "x": 0.131333,
+          "y": 0.345698,
+          "width": 0.209333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Tina and I / () have ponytails",
+            "confidence": 0.8249
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Tina and 1 /(/) have ponytails",
+            "confidence": 0.6617
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "paragraph",
+        "content": "Britney / (\") wear the same bracelet every day",
+        "confidence": 0.86,
+        "bbox": {
+          "x": 0.133725,
+          "y": 0.366364,
+          "width": 0.450196,
+          "height": 0.015758
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Britney / (“) wear the same bracelet every day —",
+            "confidence": 0.86
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Britney / (/) wear the same bracelet every day",
+            "confidence": 0.894
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "paragraph",
+        "content": "Roberto and Ana / (X) wear glasses",
+        "confidence": 0.9357,
+        "bbox": {
+          "x": 0.133725,
+          "y": 0.389394,
+          "width": 0.236863,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Roberto and Ana / (X) wear glasses",
+            "confidence": 0.9109
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Roberto and Ana / (X) wear glasses",
+            "confidence": 0.9357
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "Kendra /(X) like leather skirts",
+        "confidence": 0.936,
+        "bbox": {
+          "x": 0.133725,
+          "y": 0.410303,
+          "width": 0.198039,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Kendra/(X)likeleatherskirts",
+            "confidence": 0.9029
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Kendra /(X) like leather skirts",
+            "confidence": 0.936
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "sentence",
+        "content": "B Complete the sentences with true information. Tell your partner.",
+        "confidence": 0.951,
+        "bbox": {
+          "x": 0.087451,
+          "y": 0.438182,
+          "width": 0.559216,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAIR WoRK Complete the sentences with true information. Tell your partner.",
+            "confidence": 0.9094
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Complete the sentences with true information. Tell your partner.",
+            "confidence": 0.951
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "I used to",
+        "confidence": 0.7751,
+        "bbox": {
+          "x": 0.127333,
+          "y": 0.458011,
+          "width": 0.067333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0021",
+        "type": "sentence",
+        "content": "as a kid, but I don't now.",
+        "confidence": 0.8589,
+        "bbox": {
+          "x": 0.37,
+          "y": 0.460072,
+          "width": 0.168,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "as a kid, butI don't now.",
+            "confidence": 0.8589
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 lusedto. : ___as akid, but | don’t now.",
+            "confidence": 0.72
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "Ididn't useto",
+        "confidence": 0.8498,
+        "bbox": {
+          "x": 0.118667,
+          "y": 0.480165,
+          "width": 0.110667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "sentence",
+        "content": "but some of my friends did.",
+        "confidence": 0.8875,
+        "bbox": {
+          "x": 0.401333,
+          "y": 0.48068,
+          "width": 0.196,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": ", but some of my friends did.",
+            "confidence": 0.8875
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 |didn’t use to recess ______, but some of my friends did.",
+            "confidence": 0.7308
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "but they don't now.",
+        "confidence": 0.9313,
+        "bbox": {
+          "x": 0.46,
+          "y": 0.500773,
+          "width": 0.142,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "sentence",
+        "content": "3 Lots of people used to . , but they don't now.",
+        "confidence": 0.8342,
+        "bbox": {
+          "x": 0.110588,
+          "y": 0.502727,
+          "width": 0.490196,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3Lots of people used to",
+            "confidence": 0.8499
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Lots of people used to . , but they don’t now.",
+            "confidence": 0.8342
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "Pronunciation Used toand use to",
+        "confidence": 0.92,
+        "bbox": {
+          "x": 0.088627,
+          "y": 0.53697,
+          "width": 0.479608,
+          "height": 0.018182
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Pronunciation Used to and use to",
+            "confidence": 0.9001
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Pronunciation Used toand use to",
+            "confidence": 0.92
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "instruction",
+        "content": "Listen and repeat. Notice how used to and use to sound the same.",
+        "confidence": 0.911,
+        "bbox": {
+          "x": 0.086,
+          "y": 0.570325,
+          "width": 0.485333,
+          "height": 0.017517
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listen and repeat. Notice how used to and use to sound the same.",
+            "confidence": 0.911
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "{? Listen and repeat. Notice how used to and use to sound the same.",
+            "confidence": 0.9164
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "/yusta/",
+        "confidence": 0.7731,
+        "bbox": {
+          "x": 0.383333,
+          "y": 0.592478,
+          "width": 0.054667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "/yusta/ /yusta/",
+        "confidence": 0.925,
+        "bbox": {
+          "x": 0.098039,
+          "y": 0.595152,
+          "width": 0.336078,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "/yusta/",
+            "confidence": 0.8115
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "/yusta/ /yusta/",
+            "confidence": 0.925
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "sentence",
+        "content": "I used to wear a uniform.",
+        "confidence": 0.8685,
+        "bbox": {
+          "x": 0.085333,
+          "y": 0.611025,
+          "width": 0.172,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "sentence",
+        "content": "used to wear a uniform. | didn't use to dye my hair, but | do now.",
+        "confidence": 0.9394,
+        "bbox": {
+          "x": 0.087843,
+          "y": 0.612424,
+          "width": 0.52,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I didn't use to dye my hair, but I do now.",
+            "confidence": 0.9172
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| used to wear a uniform. | didn’t use to dye my hair, but | do now.",
+            "confidence": 0.9394
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "heading",
+        "content": "Speaking Past and present",
+        "confidence": 0.9159,
+        "bbox": {
+          "x": 0.082667,
+          "y": 0.646059,
+          "width": 0.39,
+          "height": 0.02473
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "|) Speaking Past and present",
+            "confidence": 0.84
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Speaking Past and present",
+            "confidence": 0.9159
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "sentence",
+        "content": "A Read the list. Add two more questions about style and fashion.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.087059,
+          "y": 0.68303,
+          "width": 0.546275,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAiR wORK Read the list.Add two more questions about style and fashion.",
+            "confidence": 0.88
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Read the list. Add two more questions about style and fashion.",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "sentence",
+        "content": "Then interview your partner. Take notes.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.110588,
+          "y": 0.701515,
+          "width": 0.283922,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Then interview your partner.Take notes.",
+            "confidence": 0.8868
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Then interview your partner. Take notes.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "sentence",
+        "content": "What kind of clothing did you use to wear?",
+        "confidence": 0.951,
+        "bbox": {
+          "x": 0.110196,
+          "y": 0.722727,
+          "width": 0.312157,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What kind of clothing did you use to wear?",
+            "confidence": 0.9222
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "@ What kind of clothing did you use to wear?",
+            "confidence": 0.951
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "sentence",
+        "content": "What kind of hairstyles did you use to have?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.133725,
+          "y": 0.743636,
+          "width": 0.297647,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Whatkindofhairstylesdidyouusetohave?",
+            "confidence": 0.9323
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What kind of hairstyles did you use to have?",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "sentence",
+        "content": "What's something you didn't use to wear but do now?",
+        "confidence": 0.949,
+        "bbox": {
+          "x": 0.134118,
+          "y": 0.765152,
+          "width": 0.364706,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What's somethingyou didn't use to wear but do now?",
+            "confidence": 0.8817
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What’s something you didn’t use to wear but do now?",
+            "confidence": 0.949
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "paragraph",
+        "content": "B Tell another classmate any interesting information about your",
+        "confidence": 0.9556,
+        "bbox": {
+          "x": 0.088627,
+          "y": 0.834848,
+          "width": 0.544314,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAiRWOoRkTellanotherclassmateany interestinginformationaboutyour",
+            "confidence": 0.8901
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Tell another classmate any interesting information about your",
+            "confidence": 0.9556
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "partner's style and fashion.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.111765,
+          "y": 0.853636,
+          "width": 0.189804,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "partner's style and fashion.",
+            "confidence": 0.8638
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "partner’s style and fashion.",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "e",
+        "confidence": 0.63,
+        "bbox": {
+          "x": 0.236078,
+          "y": 0.887576,
+          "width": 0.005882,
+          "height": 0.004242
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0041",
+        "type": "heading",
+        "content": "Keep talking!",
+        "confidence": 0.8392,
+        "bbox": {
+          "x": 0.086667,
+          "y": 0.887687,
+          "width": 0.208,
+          "height": 0.022154
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "‘| Keep talking!",
+            "confidence": 0.6533
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Keep talking!",
+            "confidence": 0.8392
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "paragraph",
+        "content": "Student A go to page 127 and",
+        "confidence": 0.9571,
+        "bbox": {
+          "x": 0.094118,
+          "y": 0.924242,
+          "width": 0.201176,
+          "height": 0.010909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Student A go to page 127 and",
+            "confidence": 0.8728
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Student A go to page 127 and",
+            "confidence": 0.9571
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "paragraph",
+        "content": "Student B go to page 128 for more practice",
+        "confidence": 0.9511,
+        "bbox": {
+          "x": 0.094118,
+          "y": 0.939091,
+          "width": 0.296863,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Student Bgo to page 128 for more practice.",
+            "confidence": 0.8895
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Student B go to page 128 for more practice",
+            "confidence": 0.9511
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "audio_track",
+        "content": "25",
+        "confidence": 0.6516,
+        "bbox": {
+          "x": 0.910667,
+          "y": 0.956208,
+          "width": 0.023333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0045",
+        "type": "label",
+        "content": "I canask aboutand describepastfashions.",
+        "confidence": 0.9069,
+        "bbox": {
+          "x": 0.585333,
+          "y": 0.967027,
+          "width": 0.263333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "unit",
+      "Grammar Used to",
+      "Used to refers to something that was true in the past but isn't anymore or",
+      "something that happened regularly in the past but doesn't anymore.",
+      "Iused to have a black leather jacket.",
+      "Men and women in England and France used to wear long wigs.",
+      "Did you use to dye your hair?",
+      "Yes, | used to dye my hair all the time, but | don't dye it anymore.",
+      "No, | didn't use to dye my hair, but | do now.",
+      "A Write sentences with used to () or didn't use to (X). Then compare with a partner.",
+      "Max used to dye his hair black.",
+      "Max/ ()dyehis hairblack",
+      "an mn f F WN",
+      "Carly / (X) wear a uniform to school",
+      "Tina and I / () have ponytails",
+      "Britney / (\") wear the same bracelet every day",
+      "Roberto and Ana / (X) wear glasses",
+      "Kendra /(X) like leather skirts",
+      "B Complete the sentences with true information. Tell your partner.",
+      "I used to",
+      "as a kid, but I don't now.",
+      "Ididn't useto",
+      "but some of my friends did.",
+      "but they don't now.",
+      "3 Lots of people used to . , but they don't now.",
+      "Pronunciation Used toand use to",
+      "Listen and repeat. Notice how used to and use to sound the same.",
+      "/yusta/",
+      "/yusta/ /yusta/",
+      "I used to wear a uniform.",
+      "used to wear a uniform. | didn't use to dye my hair, but | do now.",
+      "Speaking Past and present",
+      "A Read the list. Add two more questions about style and fashion.",
+      "Then interview your partner. Take notes.",
+      "What kind of clothing did you use to wear?",
+      "What kind of hairstyles did you use to have?",
+      "What's something you didn't use to wear but do now?",
+      "B Tell another classmate any interesting information about your",
+      "partner's style and fashion.",
+      "e",
+      "Keep talking!",
+      "Student A go to page 127 and",
+      "Student B go to page 128 for more practice",
+      "I canask aboutand describepastfashions."
+    ],
+    "paragraphs": [
+      "Used to refers to something that was true in the past but isn't anymore or",
+      "Carly / (X) wear a uniform to school",
+      "Tina and I / () have ponytails",
+      "Britney / (\") wear the same bracelet every day",
+      "Roberto and Ana / (X) wear glasses",
+      "B Tell another classmate any interesting information about your",
+      "Student A go to page 127 and",
+      "Student B go to page 128 for more practice"
+    ],
+    "sentences": [
+      "unit Grammar Used to Used to refers to something that was true in the past but isn't anymore or something that happened regularly in the past but doesn't anymore",
+      "Iused to have a black leather jacket",
+      "Men and women in England and France used to wear long wigs",
+      "Did you use to dye your hair",
+      "Yes, | used to dye my hair all the time, but | don't dye it anymore",
+      "No, | didn't use to dye my hair, but | do now",
+      "A Write sentences with used to () or didn't use to (X)",
+      "Then compare with a partner",
+      "Max used to dye his hair black",
+      "Max/ ()dyehis hairblack an mn f F WN Carly / (X) wear a uniform to school Tina and I / () have ponytails Britney / (\") wear the same bracelet every day Roberto and Ana / (X) wear glasses Kendra /(X) like leather skirts B Complete the sentences with true information",
+      "Tell your partner",
+      "I used to as a kid, but I don't now",
+      "Ididn't useto but some of my friends did",
+      "but they don't now",
+      "3 Lots of people used to",
+      ", but they don't now",
+      "Pronunciation Used toand use to Listen and repeat",
+      "Notice how used to and use to sound the same",
+      "/yusta/ /yusta/ /yusta/ I used to wear a uniform",
+      "used to wear a uniform",
+      "| didn't use to dye my hair, but | do now",
+      "Speaking Past and present A Read the list",
+      "Add two more questions about style and fashion",
+      "Then interview your partner",
+      "Take notes",
+      "What kind of clothing did you use to wear",
+      "What kind of hairstyles did you use to have",
+      "What's something you didn't use to wear but do now",
+      "B Tell another classmate any interesting information about your partner's style and fashion",
+      "e Keep talking",
+      "Student A go to page 127 and Student B go to page 128 for more practice I canask aboutand describepastfashions"
+    ],
+    "vocabulary": [],
+    "grammar": [
+      {
+        "topic": "Used to",
+        "rule": [
+          "Grammar Used to",
+          "Men and women in England and France used to wear long wigs.",
+          "Did you use to dye your hair?",
+          "Yes, | used to dye my hair all the time, but | don't dye it anymore.",
+          "No, | didn't use to dye my hair, but | do now.",
+          "an mn f F WN",
+          "Carly / (X) wear a uniform to school",
+          "Britney / (\") wear the same bracelet every day",
+          "Roberto and Ana / (X) wear glasses",
+          "B Complete the sentences with true information. Tell your partner.",
+          "I used to",
+          "as a kid, but I don't now.",
+          "but some of my friends did.",
+          "but they don't now.",
+          "Pronunciation Used toand use to",
+          "I used to wear a uniform.",
+          "used to wear a uniform. | didn't use to dye my hair, but | do now.",
+          "A Read the list. Add two more questions about style and fashion.",
+          "Then interview your partner. Take notes.",
+          "B Tell another classmate any interesting information about your",
+          "partner's style and fashion.",
+          "Student A go to page 127 and",
+          "Student B go to page 128 for more practice"
+        ],
+        "positiveExamples": [
+          "Used to refers to something that was true in the past but isn't anymore or",
+          "something that happened regularly in the past but doesn't anymore.",
+          "Iused to have a black leather jacket.",
+          "A Write sentences with used to () or didn't use to (X). Then compare with a partner.",
+          "Max used to dye his hair black.",
+          "Max/ ()dyehis hairblack",
+          "Tina and I / () have ponytails",
+          "Kendra /(X) like leather skirts",
+          "Speaking Past and present",
+          "What kind of clothing did you use to wear?",
+          "What kind of hairstyles did you use to have?",
+          "What's something you didn't use to wear but do now?",
+          "I canask aboutand describepastfashions."
+        ],
+        "usageNotes": [],
+        "practice": [
+          "3 Lots of people used to . , but they don't now.",
+          "Listen and repeat. Notice how used to and use to sound the same.",
+          "25"
+        ]
+      }
+    ],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Yes, | used to dye my hair all the time, but | don't dye it anymore.",
+            "confidence": 0.9537,
+            "bbox": {
+              "x": 0.131765,
+              "y": 0.228485,
+              "width": 0.44,
+              "height": 0.012121
+            },
+            "sourceElementId": "text_0008"
+          },
+          {
+            "speaker": null,
+            "content": "No, | didn't use to dye my hair, but | do now.",
+            "confidence": 0.9575,
+            "bbox": {
+              "x": 0.132941,
+              "y": 0.245758,
+              "width": 0.299608,
+              "height": 0.012424
+            },
+            "sourceElementId": "text_0009"
+          },
+          {
+            "speaker": null,
+            "content": "A Write sentences with used to () or didn't use to (X).",
+            "confidence": 0.9452,
+            "bbox": {
+              "x": 0.084,
+              "y": 0.281813,
+              "width": 0.6,
+              "height": 0.015456
+            },
+            "sourceElementId": "text_0010"
+          },
+          {
+            "speaker": null,
+            "content": "Then compare with a partner.",
+            "confidence": 0.9452,
+            "bbox": {
+              "x": 0.084,
+              "y": 0.281813,
+              "width": 0.6,
+              "height": 0.015456
+            },
+            "sourceElementId": "text_0010"
+          },
+          {
+            "speaker": null,
+            "content": "as a kid, but I don't now.",
+            "confidence": 0.8589,
+            "bbox": {
+              "x": 0.37,
+              "y": 0.460072,
+              "width": 0.168,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0021"
+          },
+          {
+            "speaker": null,
+            "content": "but they don't now.",
+            "confidence": 0.9313,
+            "bbox": {
+              "x": 0.46,
+              "y": 0.500773,
+              "width": 0.142,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0024"
+          },
+          {
+            "speaker": null,
+            "content": "I used to wear a uniform.",
+            "confidence": 0.8685,
+            "bbox": {
+              "x": 0.085333,
+              "y": 0.611025,
+              "width": 0.172,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0030"
+          },
+          {
+            "speaker": null,
+            "content": "What kind of hairstyles did you use to have?",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.133725,
+              "y": 0.743636,
+              "width": 0.297647,
+              "height": 0.011818
+            },
+            "sourceElementId": "text_0036"
+          },
+          {
+            "speaker": null,
+            "content": "What's something you didn't use to wear but do now?",
+            "confidence": 0.949,
+            "bbox": {
+              "x": 0.134118,
+              "y": 0.765152,
+              "width": 0.364706,
+              "height": 0.011818
+            },
+            "sourceElementId": "text_0037"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "writing",
+        "instruction": "Write sentences with used to () or didn't use to (X). Then compare with a partner.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "true_false",
+        "instruction": "Complete the sentences with true information. Tell your partner.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "reading",
+        "instruction": "Read the list. Add two more questions about style and fashion.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "exercise",
+        "instruction": "Tell another classmate any interesting information about your",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Did you use to dye your hair?",
+          "Yes, | used to dye my hair all the time, but | don't dye it anymore.",
+          "No, | didn't use to dye my hair, but | do now.",
+          "A Write sentences with used to () or didn't use to (X). Then compare with a partner.",
+          "Max used to dye his hair black.",
+          "Max/ ()dyehis hairblack",
+          "an mn f F WN",
+          "Carly / (X) wear a uniform to school",
+          "Tina and I / () have ponytails",
+          "Britney / (\") wear the same bracelet every day",
+          "Roberto and Ana / (X) wear glasses",
+          "Kendra /(X) like leather skirts",
+          "B Complete the sentences with true information. Tell your partner."
+        ],
+        "position": {
+          "x": 0.064,
+          "y": 0.190606,
+          "width": 0.7,
+          "height": 0.280606
+        },
+        "textElementIds": [
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "I used to",
+          "as a kid, but I don't now.",
+          "Ididn't useto",
+          "but some of my friends did.",
+          "but they don't now.",
+          "3 Lots of people used to . , but they don't now.",
+          "Pronunciation Used toand use to",
+          "Listen and repeat. Notice how used to and use to sound the same.",
+          "/yusta/",
+          "/yusta/ /yusta/",
+          "I used to wear a uniform.",
+          "used to wear a uniform. | didn't use to dye my hair, but | do now.",
+          "Speaking Past and present"
+        ],
+        "position": {
+          "x": 0.062667,
+          "y": 0.438011,
+          "width": 0.565176,
+          "height": 0.2527780000000001
+        },
+        "textElementIds": [
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "A Read the list. Add two more questions about style and fashion.",
+          "Then interview your partner. Take notes.",
+          "What kind of clothing did you use to wear?",
+          "What kind of hairstyles did you use to have?",
+          "What's something you didn't use to wear but do now?",
+          "B Tell another classmate any interesting information about your",
+          "partner's style and fashion."
+        ],
+        "position": {
+          "x": 0.067059,
+          "y": 0.66303,
+          "width": 0.586275,
+          "height": 0.22242399999999996
+        },
+        "textElementIds": [
+          "text_0033",
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039"
+        ]
+      }
+    ],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "grammar",
+    "title": "unit",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [
+      {
+        "topic": "Used to",
+        "rule": [
+          "Grammar Used to",
+          "Men and women in England and France used to wear long wigs.",
+          "Did you use to dye your hair?",
+          "Yes, | used to dye my hair all the time, but | don't dye it anymore.",
+          "No, | didn't use to dye my hair, but | do now.",
+          "an mn f F WN",
+          "Carly / (X) wear a uniform to school",
+          "Britney / (\") wear the same bracelet every day",
+          "Roberto and Ana / (X) wear glasses",
+          "B Complete the sentences with true information. Tell your partner.",
+          "I used to",
+          "as a kid, but I don't now.",
+          "but some of my friends did.",
+          "but they don't now.",
+          "Pronunciation Used toand use to",
+          "I used to wear a uniform.",
+          "used to wear a uniform. | didn't use to dye my hair, but | do now.",
+          "A Read the list. Add two more questions about style and fashion.",
+          "Then interview your partner. Take notes.",
+          "B Tell another classmate any interesting information about your",
+          "partner's style and fashion.",
+          "Student A go to page 127 and",
+          "Student B go to page 128 for more practice"
+        ],
+        "positiveExamples": [
+          "Used to refers to something that was true in the past but isn't anymore or",
+          "something that happened regularly in the past but doesn't anymore.",
+          "Iused to have a black leather jacket.",
+          "A Write sentences with used to () or didn't use to (X). Then compare with a partner.",
+          "Max used to dye his hair black.",
+          "Max/ ()dyehis hairblack",
+          "Tina and I / () have ponytails",
+          "Kendra /(X) like leather skirts",
+          "Speaking Past and present",
+          "What kind of clothing did you use to wear?",
+          "What kind of hairstyles did you use to have?",
+          "What's something you didn't use to wear but do now?",
+          "I canask aboutand describepastfashions."
+        ],
+        "usageNotes": [],
+        "practice": [
+          "3 Lots of people used to . , but they don't now.",
+          "Listen and repeat. Notice how used to and use to sound the same.",
+          "25"
+        ]
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "Yes, | used to dye my hair all the time, but | don't dye it anymore.",
+            "confidence": 0.9537
+          },
+          {
+            "speaker": null,
+            "content": "No, | didn't use to dye my hair, but | do now.",
+            "confidence": 0.9575
+          },
+          {
+            "speaker": null,
+            "content": "A Write sentences with used to () or didn't use to (X).",
+            "confidence": 0.9452
+          },
+          {
+            "speaker": null,
+            "content": "Then compare with a partner.",
+            "confidence": 0.9452
+          },
+          {
+            "speaker": null,
+            "content": "as a kid, but I don't now.",
+            "confidence": 0.8589
+          },
+          {
+            "speaker": null,
+            "content": "but they don't now.",
+            "confidence": 0.9313
+          },
+          {
+            "speaker": null,
+            "content": "I used to wear a uniform.",
+            "confidence": 0.8685
+          },
+          {
+            "speaker": null,
+            "content": "What kind of hairstyles did you use to have?",
+            "confidence": 0.96
+          },
+          {
+            "speaker": null,
+            "content": "What's something you didn't use to wear but do now?",
+            "confidence": 0.949
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "writing",
+        "instruction": "Write sentences with used to () or didn't use to (X). Then compare with a partner.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "true_false",
+        "instruction": "Complete the sentences with true information. Tell your partner.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "reading",
+        "instruction": "Read the list. Add two more questions about style and fashion.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "exercise",
+        "instruction": "Tell another classmate any interesting information about your",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "6 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "dialoguesSplit": 2,
+      "grammarTopicOverride": 1
+    },
+    "averageOcrConfidence": 0.8856,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 3 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc3_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

@@ -1,0 +1,1237 @@
+{
+  "pageNumber": 2,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "sequential inference from neighboring footers",
+  "pdfPageNumber": 5,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 1_Part1.pdf",
+    "pdfLocalPageNumber": 5,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Welcome",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.053725,
+          "y": 0.080909,
+          "width": 0.236078,
+          "height": 0.027879
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Welcome",
+            "confidence": 0.95
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Welcome",
+            "confidence": 0.7682
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Introducing yourself",
+        "confidence": 0.8752,
+        "bbox": {
+          "x": 0.093333,
+          "y": 0.148377,
+          "width": 0.312667,
+          "height": 0.023699
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Introducing yourself",
+            "confidence": 0.7833
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Introducing yourself",
+            "confidence": 0.8752
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "label",
+        "content": "AListen and practice.",
+        "confidence": 0.8395,
+        "bbox": {
+          "x": 0.093333,
+          "y": 0.183411,
+          "width": 0.181333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "A (© Listen and practice.",
+            "confidence": 0.554
+          },
+          {
+            "engine": "rapidocr",
+            "content": "AListen and practice.",
+            "confidence": 0.8395
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "Simon Hello. I’m Simon.",
+        "confidence": 0.9325,
+        "bbox": {
+          "x": 0.135294,
+          "y": 0.207879,
+          "width": 0.164314,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Simon Hello.I'm Simon.",
+            "confidence": 0.896
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Simon Hello. I’m Simon.",
+            "confidence": 0.9325
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "sentence",
+        "content": "Chen Hi, Simon. My name is Chen.",
+        "confidence": 0.9543,
+        "bbox": {
+          "x": 0.143529,
+          "y": 0.222727,
+          "width": 0.230588,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Chen Hi,Simon.My nameis Chen.",
+            "confidence": 0.8808
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Chen Hi, Simon. My name is Chen.",
+            "confidence": 0.9543
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "Nice to meet you.",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.186275,
+          "y": 0.237576,
+          "width": 0.115686,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Nice to meet you.",
+            "confidence": 0.8428
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Nice to meet you.",
+            "confidence": 0.9575
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "sentence",
+        "content": "Simon Nice to meet you, too.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.134902,
+          "y": 0.252121,
+          "width": 0.196471,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Simon Nice to meet you, too.",
+            "confidence": 0.8559
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Simon Nice to meet you, too.",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "PAiR WoRK Introduce yourselves.",
+        "confidence": 0.8551,
+        "bbox": {
+          "x": 0.118667,
+          "y": 0.27254,
+          "width": 0.231333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "B ENR introduce yourselves.",
+            "confidence": 0.7175
+          },
+          {
+            "engine": "rapidocr",
+            "content": "PAiR WoRK Introduce yourselves.",
+            "confidence": 0.8551
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "Introducing someone else",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.096471,
+          "y": 0.579697,
+          "width": 0.395294,
+          "height": 0.022424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Introducing someone else",
+            "confidence": 0.8911
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Introducing someone else",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "AListen and practice.",
+        "confidence": 0.8631,
+        "bbox": {
+          "x": 0.092667,
+          "y": 0.612571,
+          "width": 0.182667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "AListen and practice.",
+            "confidence": 0.8631
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A ©} Listen and practice.",
+            "confidence": 0.532
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "sentence",
+        "content": "Chen, this is my friend Sofia.",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.185882,
+          "y": 0.637273,
+          "width": 0.188627,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Chen, this is my friend Sofia.",
+            "confidence": 0.8899
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Chen, this is my friend Sofia.",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "sentence",
+        "content": "Sofia Hi, Chen. Nice to meet you.",
+        "confidence": 0.9543,
+        "bbox": {
+          "x": 0.143137,
+          "y": 0.651212,
+          "width": 0.221961,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Sofia Hi,Chen.Nicetomeetyou.",
+            "confidence": 0.867
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Sofia Hi, Chen. Nice to meet you.",
+            "confidence": 0.9543
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "sentence",
+        "content": "Chen Nice to meet you, too, Sofia.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.143137,
+          "y": 0.66697,
+          "width": 0.229412,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Chen Nice to meet you, too, Sofia.",
+            "confidence": 0.8913
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Chen Nice to meet you, too, Sofia.",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "B Introduce your partner",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.095686,
+          "y": 0.688485,
+          "width": 0.280392,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Introduce your partner",
+            "confidence": 0.955
+          },
+          {
+            "engine": "rapidocr",
+            "content": "GROUPWORK",
+            "confidence": 0.8555
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Introduce your partner",
+            "confidence": 0.8925
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "from Exercise 1 to another classmate.",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.118431,
+          "y": 0.706667,
+          "width": 0.255294,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "fromExercise1to anotherclassmate",
+            "confidence": 0.9075
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "from Exercise 1 to another classmate.",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen and practice.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0003"
+        ],
+        "confidence": 0.8395
+      },
+      {
+        "exerciseNumber": "C",
+        "type": "exercise",
+        "instruction": "hen Hi, Simon. My name is Chen.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0005"
+        ],
+        "confidence": 0.9543
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Simon Hello. I’m Simon.",
+          "Chen Hi, Simon. My name is Chen.",
+          "Nice to meet you.",
+          "Simon Nice to meet you, too.",
+          "PAiR WoRK Introduce yourselves."
+        ],
+        "position": {
+          "x": 0.09866699999999999,
+          "y": 0.18787900000000002,
+          "width": 0.29545,
+          "height": 0.119087
+        },
+        "textElementIds": [
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Introducing someone else",
+          "AListen and practice.",
+          "Chen, this is my friend Sofia.",
+          "Sofia Hi, Chen. Nice to meet you.",
+          "Chen Nice to meet you, too, Sofia.",
+          "B Introduce your partner",
+          "from Exercise 1 to another classmate."
+        ],
+        "position": {
+          "x": 0.072667,
+          "y": 0.559697,
+          "width": 0.43909800000000004,
+          "height": 0.17666700000000002
+        },
+        "textElementIds": [
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "Welcome\nIntroducing yourself\nAListen and practice.\nSimon Hello.I'm Simon.\nChen Hi,Simon.My nameis Chen.\nNice to meet you.\nSimon Nice to meet you, too.\nPAiR WoRK Introduce yourselves.\nIntroducing someone else\nAListen and practice.\nChen, this is my friend Sofia.\nSofia Hi,Chen.Nicetomeetyou.\nChen Nice to meet you, too, Sofia.\nGROUPWORK\nIntroduce your partner\nfromExercise1to anotherclassmate\ndehkhodaedu.com",
+      "tesseract_psm3": "Welcome\n\n1 Introducing yourself\n\nA (© Listen and practice.\n\nSimon Hello. I’m Simon.\nChen Hi, Simon. My name is Chen.\nNice to meet you.\nSimon Nice to meet you, too.\n\nB ENR introduce yourselves.\n\nIntroducing someone else\n\nA ©} Listen and practice.\n\nChen, this is my friend Sofia.\nSofia Hi, Chen. Nice to meet you.\nChen Nice to meet you, too, Sofia.\n\nB Introduce your partner\nfrom Exercise 1 to another classmate.\n\ndehkhodaedu.com\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.9256,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "page",
+    "headings": [
+      "Welcome",
+      "Introducing yourself"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Welcome",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.053725,
+          "y": 0.080909,
+          "width": 0.236078,
+          "height": 0.027879
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Welcome",
+            "confidence": 0.95
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Welcome",
+            "confidence": 0.7682
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Introducing yourself",
+        "confidence": 0.8752,
+        "bbox": {
+          "x": 0.093333,
+          "y": 0.148377,
+          "width": 0.312667,
+          "height": 0.023699
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Introducing yourself",
+            "confidence": 0.7833
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Introducing yourself",
+            "confidence": 0.8752
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "label",
+        "content": "A Listen and practice.",
+        "confidence": 0.8395,
+        "bbox": {
+          "x": 0.093333,
+          "y": 0.183411,
+          "width": 0.181333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "A (© Listen and practice.",
+            "confidence": 0.554
+          },
+          {
+            "engine": "rapidocr",
+            "content": "AListen and practice.",
+            "confidence": 0.8395
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "Simon Hello. I'm Simon.",
+        "confidence": 0.9325,
+        "bbox": {
+          "x": 0.135294,
+          "y": 0.207879,
+          "width": 0.164314,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Simon Hello.I'm Simon.",
+            "confidence": 0.896
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Simon Hello. I’m Simon.",
+            "confidence": 0.9325
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "sentence",
+        "content": "Chen Hi, Simon. My name is Chen.",
+        "confidence": 0.9543,
+        "bbox": {
+          "x": 0.143529,
+          "y": 0.222727,
+          "width": 0.230588,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Chen Hi,Simon.My nameis Chen.",
+            "confidence": 0.8808
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Chen Hi, Simon. My name is Chen.",
+            "confidence": 0.9543
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "Nice to meet you.",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.186275,
+          "y": 0.237576,
+          "width": 0.115686,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Nice to meet you.",
+            "confidence": 0.8428
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Nice to meet you.",
+            "confidence": 0.9575
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "sentence",
+        "content": "Simon Nice to meet you, too.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.134902,
+          "y": 0.252121,
+          "width": 0.196471,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Simon Nice to meet you, too.",
+            "confidence": 0.8559
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Simon Nice to meet you, too.",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "PAi R Wo RK Introduce yourselves.",
+        "confidence": 0.8551,
+        "bbox": {
+          "x": 0.118667,
+          "y": 0.27254,
+          "width": 0.231333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "B ENR introduce yourselves.",
+            "confidence": 0.7175
+          },
+          {
+            "engine": "rapidocr",
+            "content": "PAiR WoRK Introduce yourselves.",
+            "confidence": 0.8551
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "Introducing someone else",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.096471,
+          "y": 0.579697,
+          "width": 0.395294,
+          "height": 0.022424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Introducing someone else",
+            "confidence": 0.8911
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Introducing someone else",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "A Listen and practice.",
+        "confidence": 0.8631,
+        "bbox": {
+          "x": 0.092667,
+          "y": 0.612571,
+          "width": 0.182667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "AListen and practice.",
+            "confidence": 0.8631
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A ©} Listen and practice.",
+            "confidence": 0.532
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "sentence",
+        "content": "Chen, this is my friend Sofia.",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.185882,
+          "y": 0.637273,
+          "width": 0.188627,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Chen, this is my friend Sofia.",
+            "confidence": 0.8899
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Chen, this is my friend Sofia.",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "sentence",
+        "content": "Sofia Hi, Chen. Nice to meet you.",
+        "confidence": 0.9543,
+        "bbox": {
+          "x": 0.143137,
+          "y": 0.651212,
+          "width": 0.221961,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Sofia Hi,Chen.Nicetomeetyou.",
+            "confidence": 0.867
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Sofia Hi, Chen. Nice to meet you.",
+            "confidence": 0.9543
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "sentence",
+        "content": "Chen Nice to meet you, too, Sofia.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.143137,
+          "y": 0.66697,
+          "width": 0.229412,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Chen Nice to meet you, too, Sofia.",
+            "confidence": 0.8913
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Chen Nice to meet you, too, Sofia.",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "B Introduce your partner",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.095686,
+          "y": 0.688485,
+          "width": 0.280392,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Introduce your partner",
+            "confidence": 0.955
+          },
+          {
+            "engine": "rapidocr",
+            "content": "GROUPWORK",
+            "confidence": 0.8555
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Introduce your partner",
+            "confidence": 0.8925
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "from Exercise 1 to another classmate.",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.118431,
+          "y": 0.706667,
+          "width": 0.255294,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "fromExercise1to anotherclassmate",
+            "confidence": 0.9075
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "from Exercise 1 to another classmate.",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Welcome",
+      "Introducing yourself",
+      "A Listen and practice.",
+      "Simon Hello. I'm Simon.",
+      "Chen Hi, Simon. My name is Chen.",
+      "Nice to meet you.",
+      "Simon Nice to meet you, too.",
+      "PAi R Wo RK Introduce yourselves.",
+      "Introducing someone else",
+      "A Listen and practice.",
+      "Chen, this is my friend Sofia.",
+      "Sofia Hi, Chen. Nice to meet you.",
+      "Chen Nice to meet you, too, Sofia.",
+      "B Introduce your partner",
+      "from Exercise 1 to another classmate."
+    ],
+    "paragraphs": [],
+    "sentences": [
+      "Welcome Introducing yourself A Listen and practice",
+      "Simon Hello",
+      "I'm Simon",
+      "Chen Hi, Simon",
+      "My name is Chen",
+      "Nice to meet you",
+      "Simon Nice to meet you, too",
+      "PAi R Wo RK Introduce yourselves",
+      "Introducing someone else A Listen and practice",
+      "Chen, this is my friend Sofia",
+      "Sofia Hi, Chen",
+      "Nice to meet you",
+      "Chen Nice to meet you, too, Sofia",
+      "B Introduce your partner from Exercise 1 to another classmate"
+    ],
+    "vocabulary": [
+      {
+        "word": "Hello. I'm ...",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "My name is ...",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "Nice to meet you",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "This is my friend ...",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      }
+    ],
+    "grammar": [],
+    "dialogues": [],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen and practice.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "C",
+        "type": "exercise",
+        "instruction": "hen Hi, Simon. My name is Chen.",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Simon Hello. I'm Simon.",
+          "Chen Hi, Simon. My name is Chen.",
+          "Nice to meet you.",
+          "Simon Nice to meet you, too.",
+          "PAi R Wo RK Introduce yourselves."
+        ],
+        "position": {
+          "x": 0.09866699999999999,
+          "y": 0.18787900000000002,
+          "width": 0.29545,
+          "height": 0.119087
+        },
+        "textElementIds": [
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Introducing someone else",
+          "A Listen and practice.",
+          "Chen, this is my friend Sofia.",
+          "Sofia Hi, Chen. Nice to meet you.",
+          "Chen Nice to meet you, too, Sofia.",
+          "B Introduce your partner",
+          "from Exercise 1 to another classmate."
+        ],
+        "position": {
+          "x": 0.072667,
+          "y": 0.559697,
+          "width": 0.43909800000000004,
+          "height": 0.17666700000000002
+        },
+        "textElementIds": [
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015"
+        ]
+      }
+    ],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "page",
+    "title": "Welcome",
+    "learningObjectives": [],
+    "targetVocabulary": [
+      {
+        "word": "Hello. I'm ...",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "My name is ...",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "Nice to meet you",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "This is my friend ...",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen and practice.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "C",
+        "type": "exercise",
+        "instruction": "hen Hi, Simon. My name is Chen.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ],
+    "verifiedAgainstPdf": true,
+    "repairStats": {},
+    "averageOcrConfidence": 0.9256,
+    "verificationMethod": "independent_ocr_crosscheck"
+  },
+  "metadata": {
+    "book": "Four Corners 1 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc1_v1",
+    "verificationMethod": "independent_ocr_crosscheck",
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

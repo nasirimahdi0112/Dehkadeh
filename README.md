@@ -1,190 +1,290 @@
-# QuizGenius (DehkadehQuiz) 🎓
 
-An AI-powered web application that automatically generates English language learning quizzes from digitized textbooks. Designed for educators to quickly create pedagogically-appropriate quizzes tailored to students' proficiency levels.
+# Task: High-Fidelity OCR Extraction of Scanned PDF Books to JSON
 
-![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)
-![React](https://img.shields.io/badge/React-18-blue?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
-![Genkit](https://img.shields.io/badge/Google%20Genkit-AI-green?logo=google)
+## Context
+You are processing scanned PDF books (image-based, not text-based) for an English language learning application. Each book has approximately 150-200 pages and contains:
+- English text (lessons, dialogues, exercises)
+- Tables (vocabulary lists, grammar charts)
+- Images with embedded text (speech bubbles, labels)
+- Page numbers (printed on the actual book pages, not PDF page numbers)
+- Watermarks/advertisements from scanning websites (MUST BE IGNORED)
 
-## ✨ Features
+## Objective
+Extract EVERY page of the PDF with 99%+ accuracy and output as individual JSON files, packaged in a ZIP archive.
 
-### 📚 Book Library
-- **12 Pre-processed English Textbooks** including:
-  - Family and Friends series (Levels 1-6)
-  - Four Corners series (Levels 1-3)
-  - Viewpoint series (Levels 1-3)
-- OCR-extracted content stored in structured JSON format
-- Page-by-page content with metadata
+## Input
+- Single PDF file (scanned, image-based)
+- Approximately 150-200 pages per book
 
-### 🤖 AI-Powered Question Generation
-- **Adaptive Difficulty**: Questions adjust based on selected book level
-- **Smart Content Analysis**: AI analyzes textbook content to generate relevant questions
-- **Multiple Question Types**:
-  - Multiple Choice
-  - Fill in the Blank
-  - True/False
-  - Short Answer
+## Output
+- ZIP file containing N JSON files (one per page)
+- Example: `Family_and_Friends_1_SB.zip` containing:
+  - `page_001.json`
+  - `page_002.json`
+  - ...
+  - `page_200.json`
 
-### ⚙️ Quiz Configuration
-- Select from available textbooks
-- Choose question type(s)
-- Specify number of questions
-- Define page ranges
-- Set difficulty levels
+## Technical Requirements
 
-### 👁️ Preview & Edit
-- Review generated questions before finalizing
-- Toggle answer key visibility
-- Edit questions as needed
-- Validate question quality
+### 1. OCR Engine Selection
+Use the BEST available OCR solution for maximum accuracy:
 
-### 📤 Export Options
-- **PDF Export**: Professional formatting with jsPDF & html2canvas
-- **Word Document Export**: Editable .docx files using docx library
-- Ready-to-print classroom materials
+**Priority Order:**
+1. **Google Cloud Vision API** (Document Text Detection) - HIGHEST ACCURACY
+2. **Tesseract.js** with LSTM model + English language pack
+3. **pdf.js** + **Tesseract** combination
 
-## 🛠️ Tech Stack
+**Configuration:**
+- Language: English (`eng`)
+- DPI: 300 (upscale if source is lower)
+- Pre-processing: Auto-rotation, deskew, noise reduction
 
-| Category | Technology |
-|----------|------------|
-| **Framework** | Next.js 15, React 18 |
-| **Language** | TypeScript |
-| **AI/ML** | Google Genkit, Generative AI |
-| **UI Components** | Radix UI, Tailwind CSS |
-| **Forms** | React Hook Form, Zod Validation |
-| **OCR** | Tesseract.js |
-| **Export** | jsPDF, html2canvas, docx |
-| **Styling** | Tailwind CSS, Class Variance Authority |
+### 2. Content Extraction Scope
+Extract ALL content types:
 
-## 🚀 Getting Started
+✅ **Text:**
+- Paragraphs (maintain reading order)
+- Headings (detect by font size/weight)
+- Dialogues (speaker labels + speech)
+- Exercise instructions
+- Vocabulary words + definitions
 
-### Prerequisites
+✅ **Tables:**
+- Preserve row/column structure
+- Include headers
+- Convert to nested arrays or objects
 
-- Node.js 18+ 
-- npm or yarn
-- Google Cloud API key (for Genkit AI features)
+✅ **Images with Text:**
+- Speech bubbles (extract text + position)
+- Labels and captions
+- Diagrams with text annotations
 
-### Installation
+✅ **Page Number:**
+- Detect the ACTUAL book page number (usually bottom-center or bottom-corner)
+- NOT the PDF page number
+- Format: integer (e.g., 1, 2, 3... not "Page 1" or "i, ii, iii")
 
-```bash
-# Clone the repository
-git clone <repository-url>
-cd quizgenius
+❌ **IGNORE (Do Not Extract):**
+- Watermarks from scanning websites (e.g., "Scan by XYZ", website URLs)
+- Advertisements
+- QR codes
+- Barcodes
+- Scanner metadata
 
-# Install dependencies
-npm install
-
-# Set up environment variables
-cp .env.example .env.local
-# Add your Google Cloud API key to .env.local
-```
-
-### Development
-
-```bash
-# Run the development server
-npm run dev
-
-# Open http://localhost:3000 in your browser
-```
-
-### Build for Production
-
-```bash
-# Create production build
-npm run build
-
-# Start production server
-npm start
-```
-
-## 📖 How It Works
-
-1. **Select Book**: Choose from the library of 12 pre-processed English textbooks
-2. **Configure Quiz**: Set question type, count, page range, and difficulty
-3. **Generate Questions**: AI analyzes book content and creates adaptive questions
-4. **Preview & Edit**: Review questions with optional answer key display
-5. **Export**: Download as PDF or Word document for classroom use
-
-## 📁 Project Structure
+### 3. Page Number Detection Algorithm
+The PDF page number ≠ Book page number. Use this logic:
 
 ```
-quizgenius/
-├── src/
-│   ├── app/                  # Next.js App Router pages
-│   ├── components/           # Reusable React components
-│   ├── lib/                  # Utility functions and configurations
-│   ├── hooks/                # Custom React hooks
-│   └── types/                # TypeScript type definitions
-├── public/                   # Static assets
-├── books/                    # Pre-processed textbook JSON files
-└── docs/                     # Documentation
+For each page:
+1. Extract text from bottom 10% of the page
+2. Look for standalone numbers (1-3 digits)
+3. Common positions: bottom-center, bottom-right, bottom-left
+4. Ignore numbers that are part of sentences
+5. If multiple numbers found, prefer the one that:
+   - Is isolated (surrounded by whitespace)
+   - Matches sequential pattern (previous page + 1)
+6. If no page number detected:
+   - Use PDF page number as fallback
+   - Add flag: "pageNumberDetected": false
 ```
 
-## 🎯 Use Cases
+### 4. Watermark/Advertisement Detection
+Identify and exclude scanning website artifacts:
 
-- **English Teachers**: Create customized quizzes in minutes
-- **Schools**: Standardize assessment materials across classes
-- **Tutors**: Generate practice exercises for individual students
-- **Curriculum Developers**: Prototype question banks quickly
+**Common Patterns:**
+- Repeated text across multiple pages (e.g., "Downloaded from www.example.com")
+- URLs (http://, www.)
+- Email addresses in footer
+- "Scan by [Name]" signatures
+- Logos in corners
 
-## 🔧 Configuration
-
-### Environment Variables
-
-Create a `.env.local` file in the root directory:
-
-```env
-GOOGLE_GENAI_API_KEY=your_api_key_here
+**Detection Method:**
+```
+1. Extract text from all pages
+2. Find strings that appear in >80% of pages
+3. Classify as watermark if:
+   - Contains URL pattern
+   - Contains email pattern
+   - Contains "scan", "download", "www" keywords
+   - Located in corners (top 5% or bottom 5% of page)
+4. Exclude these strings from JSON output
 ```
 
-### Adding New Books
+### 5. JSON Schema (Per Page)
 
-1. Process PDF textbook using OCR (see `docs/ocr-guide.md`)
-2. Convert to JSON format following the schema
-3. Place in `books/` directory
-4. Update book registry in `src/lib/books.ts`
+Each `page_XXX.json` must follow this structure:
 
-## 📄 Export Formats
+```json
+{
+  "pageNumber": 42,
+  "pageNumberDetected": true,
+  "pdfPageNumber": 45,
+  "content": {
+    "text": [
+      {
+        "type": "heading",
+        "content": "Unit 5: My Family",
+        "confidence": 0.98
+      },
+      {
+        "type": "paragraph",
+        "content": "This is my family. My father is a doctor. My mother is a teacher.",
+        "confidence": 0.95
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Anna",
+        "content": "Hello! My name is Anna.",
+        "confidence": 0.97
+      }
+    ],
+    "tables": [
+      {
+        "headers": ["Word", "Meaning", "Example"],
+        "rows": [
+          ["doctor", "a person who helps sick people", "My father is a doctor."],
+          ["teacher", "a person who teaches students", "My mother is a teacher."]
+        ]
+      }
+    ],
+    "images": [
+      {
+        "description": "Family photo with labels",
+        "text": ["Father", "Mother", "Sister", "Brother"],
+        "position": {
+          "x": 150,
+          "y": 200,
+          "width": 400,
+          "height": 300
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "ocrEngine": "Google Cloud Vision",
+    "processingTime": "2.3s",
+    "averageConfidence": 0.96,
+    "watermarksRemoved": [
+      "Downloaded from www.example.com"
+    ]
+  }
+}
+```
 
-### PDF Export
-- Professional layout
-- Includes answer key option
-- Print-ready formatting
+### 6. Quality Assurance Checklist
 
-### Word Export
-- Fully editable documents
-- Compatible with Microsoft Word & Google Docs
-- Preserves formatting and structure
+Before delivering the ZIP, verify:
 
-## 🤝 Contributing
+- [ ] **Completeness:** Number of JSON files = Number of PDF pages
+- [ ] **Page Numbers:** Sequential and logical (1, 2, 3... or 45, 46, 47...)
+- [ ] **No Empty Pages:** Every JSON has at least some content
+- [ ] **Watermark Removal:** Common scanning site text excluded
+- [ ] **Table Integrity:** Tables preserved as structured data, not plain text
+- [ ] **Text Accuracy:** Spot-check 5 random pages for OCR errors
+- [ ] **Image Text:** All visible text in images extracted
 
-Contributions are welcome! Please follow these steps:
+### 7. Error Handling
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+**If OCR confidence < 80%:**
+- Flag the page in metadata: `"lowConfidence": true`
+- Attempt re-processing with different settings (higher DPI, different engine)
+- If still low confidence, include raw OCR output with warning
 
-## 📝 License
+**If page number not detected:**
+- Use PDF page number as fallback
+- Set `"pageNumberDetected": false`
+- Log warning: "Could not detect book page number for PDF page 45"
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+**If table structure unclear:**
+- Extract as plain text with table markers
+- Set `"tableStructureConfidence": "low"`
+- Suggest manual review
 
-## 🙏 Acknowledgments
+### 8. Delivery Format
 
-- Google Genkit team for the AI framework
-- Radix UI for accessible components
-- Next.js team for the amazing framework
-- All textbook publishers for educational content
+**File Naming:**
+- ZIP: `{book_name}.zip` (e.g., `Family_and_Friends_1_SB.zip`)
+- JSON files: `page_XXX.json` (zero-padded to 3 digits)
+  - `page_001.json`
+  - `page_002.json`
+  - `page_100.json`
 
-## 📞 Support
+**ZIP Structure:**
+```
+Family_and_Friends_1_SB.zip
+├── page_001.json
+├── page_002.json
+├── ...
+└── page_200.json
+```
 
-For issues and questions:
-- Create an issue on GitHub
-- Contact: support@quizgenius.com
+### 9. Implementation Steps
 
----
+1. **Load PDF:**
+   - Use `pdf.js` or `PyMuPDF` to iterate through pages
+   - Get total page count
 
-**Built with ❤️ for English educators worldwide**
+2. **Process Each Page:**
+   - Convert page to image (PNG, 300 DPI)
+   - Run OCR (Google Vision or Tesseract)
+   - Extract text with confidence scores
+   - Detect page number (bottom region)
+   - Detect watermarks (compare with other pages)
+   - Extract tables (detect grid lines or structured text)
+   - Extract images with text
+
+3. **Build JSON:**
+   - Structure content according to schema
+   - Add metadata
+   - Validate JSON syntax
+
+4. **Package:**
+   - Write all JSON files to temp directory
+   - Create ZIP archive
+   - Delete temp files
+   - Return ZIP file path
+
+### 10. Success Criteria
+
+✅ **MUST HAVE:**
+- All pages extracted (no missing pages)
+- Page numbers correctly detected (or flagged as fallback)
+- Watermarks excluded
+- JSON files valid and parseable
+- Tables preserved as structured data
+
+✅ **NICE TO HAVE:**
+- Average OCR confidence > 90%
+- Images with text fully extracted
+- Dialogue speakers correctly identified
+- Headings detected by font size
+
+## Tools You Can Use
+
+- **Google Cloud Vision API** (if API key available)
+- **Tesseract.js** (Node.js) or **pytesseract** (Python)
+- **pdf.js** or **PyMuPDF** for PDF rendering
+- **sharp** or **jimp** for image processing
+- **adm-zip** or **archiver** for ZIP creation
+
+## Example Command
+
+```
+Input: /path/to/Family_and_Friends_1_SB.pdf
+Output: /path/to/Family_and_Friends_1_SB.zip
+```
+
+## Final Notes
+
+- Take your time for accuracy (better slow than wrong)
+- If unsure about page number, use PDF page number and flag it
+- If watermark detection is uncertain, err on the side of exclusion
+- Log all processing steps for debugging
+- This data will be used to generate English learning questions, so accuracy is CRITICAL
+
+Please process the PDF and deliver the ZIP file.
+# Firebase Studio
+
+This is a NextJS starter in Firebase Studio.
+
+To get started, take a look at src/app/page.tsx.

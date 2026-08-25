@@ -1,0 +1,3361 @@
+{
+  "pageNumber": 38,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 41,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 1_Part2.pdf",
+    "pdfLocalPageNumber": 15,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "What time is it?",
+        "confidence": 0.8897,
+        "bbox": {
+          "x": 0.128667,
+          "y": 0.064915,
+          "width": 0.388667,
+          "height": 0.030912
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Telling time",
+        "confidence": 0.8928,
+        "bbox": {
+          "x": 0.092,
+          "y": 0.125193,
+          "width": 0.18,
+          "height": 0.02473
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "5) Telling time",
+            "confidence": 0.6267
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Telling time",
+            "confidence": 0.8928
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "label",
+        "content": "A Listen and repeat.",
+        "confidence": 0.8512,
+        "bbox": {
+          "x": 0.092,
+          "y": 0.159711,
+          "width": 0.17,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A  Listen and repeat.",
+            "confidence": 0.8512
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A ©) Listen and repeat.",
+            "confidence": 0.866
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "12.05",
+        "confidence": 0.8115,
+        "bbox": {
+          "x": 0.692,
+          "y": 0.211231,
+          "width": 0.108,
+          "height": 0.032457
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "It's noon.",
+        "confidence": 0.8816,
+        "bbox": {
+          "x": 0.28,
+          "y": 0.28542,
+          "width": 0.064667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "It's midnight.",
+        "confidence": 0.9106,
+        "bbox": {
+          "x": 0.469333,
+          "y": 0.28542,
+          "width": 0.090667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "It'stwelve-oh-five.",
+        "confidence": 0.909,
+        "bbox": {
+          "x": 0.661333,
+          "y": 0.28542,
+          "width": 0.122,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "It'stwelve-oh-five.",
+            "confidence": 0.909
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "It’s twelve o'clock. It's noon, It’s midnight. It’s twelve-ob-five.",
+            "confidence": 0.7889
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "It's twelve o'clock.",
+        "confidence": 0.8828,
+        "bbox": {
+          "x": 0.095333,
+          "y": 0.285935,
+          "width": 0.12,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "sentence",
+        "content": "It’s twelve p.m. It’s twelve a.m. It’s five after twelve.",
+        "confidence": 0.928,
+        "bbox": {
+          "x": 0.283137,
+          "y": 0.30303,
+          "width": 0.509412,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "It's twelve p.m.",
+            "confidence": 0.8971
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "It’s twelve p.m. It’s twelve a.m. It’s five after twelve.",
+            "confidence": 0.928
+          },
+          {
+            "engine": "rapidocr",
+            "content": "It's twelve a.m.",
+            "confidence": 0.872
+          },
+          {
+            "engine": "rapidocr",
+            "content": "It'sfiveaftertwelve.",
+            "confidence": 0.9038
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "NANTES",
+        "confidence": 0.841,
+        "bbox": {
+          "x": 0.763333,
+          "y": 0.33797,
+          "width": 0.049333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "NANTES",
+            "confidence": 0.841
+          },
+          {
+            "engine": "rapidocr",
+            "content": "LONDRES",
+            "confidence": 0.7827
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "MONTREAL",
+        "confidence": 0.7641,
+        "bbox": {
+          "x": 0.677333,
+          "y": 0.347244,
+          "width": 0.036667,
+          "height": 0.007213
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "MONTREAL",
+            "confidence": 0.7641
+          },
+          {
+            "engine": "rapidocr",
+            "content": "FORTEPRAC",
+            "confidence": 0.5095
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "ATHEXES",
+        "confidence": 0.6219,
+        "bbox": {
+          "x": 0.863333,
+          "y": 0.347759,
+          "width": 0.029333,
+          "height": 0.007213
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "5621",
+        "confidence": 0.5976,
+        "bbox": {
+          "x": 0.762,
+          "y": 0.350335,
+          "width": 0.052667,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "5621",
+            "confidence": 0.5976
+          },
+          {
+            "engine": "rapidocr",
+            "content": "4626",
+            "confidence": 0.5349
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "12:15",
+        "confidence": 0.6733,
+        "bbox": {
+          "x": 0.152,
+          "y": 0.35085,
+          "width": 0.038,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "126",
+        "confidence": 0.5108,
+        "bbox": {
+          "x": 0.678,
+          "y": 0.356517,
+          "width": 0.032667,
+          "height": 0.009274
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "9281",
+        "confidence": 0.5504,
+        "bbox": {
+          "x": 0.864667,
+          "y": 0.356517,
+          "width": 0.03,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "12:408",
+        "confidence": 0.7003,
+        "bbox": {
+          "x": 0.53,
+          "y": 0.368882,
+          "width": 0.04,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "S#1227",
+            "confidence": 0.5995
+          },
+          {
+            "engine": "rapidocr",
+            "content": "12:408",
+            "confidence": 0.7003
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "ar",
+        "confidence": 0.46,
+        "bbox": {
+          "x": 0.527451,
+          "y": 0.396667,
+          "width": 0.045882,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "It's twelve-thirty.",
+        "confidence": 0.9145,
+        "bbox": {
+          "x": 0.281333,
+          "y": 0.417826,
+          "width": 0.114,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "It'stwelve-fifteen.",
+        "confidence": 0.9107,
+        "bbox": {
+          "x": 0.096,
+          "y": 0.419887,
+          "width": 0.119333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "It's twelve-forty.",
+        "confidence": 0.9178,
+        "bbox": {
+          "x": 0.471333,
+          "y": 0.419887,
+          "width": 0.11,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "sentence",
+        "content": "It’s twelve-fifteen. It’s twelve-thirty. It’s twelve-forty. It’s twelve forty-five.",
+        "confidence": 0.9211,
+        "bbox": {
+          "x": 0.097255,
+          "y": 0.42,
+          "width": 0.699216,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "It's twelve forty-five.",
+            "confidence": 0.8769
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "It’s twelve-fifteen. It’s twelve-thirty. It’s twelve-forty. It’s twelve forty-five.",
+            "confidence": 0.9211
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "It's twenty to one.",
+        "confidence": 0.8717,
+        "bbox": {
+          "x": 0.47,
+          "y": 0.436373,
+          "width": 0.122,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "It's a quarter to one.",
+        "confidence": 0.8807,
+        "bbox": {
+          "x": 0.662667,
+          "y": 0.436888,
+          "width": 0.134,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "sentence",
+        "content": "It’s a quarter after twelve. It’s half past twelve. It’s twenty to one. It’s a quarter to one.",
+        "confidence": 0.8861,
+        "bbox": {
+          "x": 0.097255,
+          "y": 0.437879,
+          "width": 0.698039,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "It'saquarteraftertwelve.It'shalfpasttwelve.",
+            "confidence": 0.9239
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "It’s a quarter after twelve. It’s half past twelve. It’s twenty to one. It’s a quarter to one.",
+            "confidence": 0.8861
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "sentence",
+        "content": "B Say the times in two ways.",
+        "confidence": 0.9514,
+        "bbox": {
+          "x": 0.097647,
+          "y": 0.466061,
+          "width": 0.287451,
+          "height": 0.015152
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Say the times in two ways.",
+            "confidence": 0.9514
+          },
+          {
+            "engine": "rapidocr",
+            "content": "PAIRWORK",
+            "confidence": 0.8483
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Saythetimesintwoways.",
+            "confidence": 0.8792
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "a.m.=midnight to noon",
+        "confidence": 0.8773,
+        "bbox": {
+          "x": 0.522667,
+          "y": 0.479134,
+          "width": 0.161333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "a.m. = midnight to noon",
+            "confidence": 0.492
+          },
+          {
+            "engine": "rapidocr",
+            "content": "a.m.=midnight to noon",
+            "confidence": 0.8773
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "7:30",
+        "confidence": 0.7975,
+        "bbox": {
+          "x": 0.192667,
+          "y": 0.486862,
+          "width": 0.032667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "9:45",
+        "confidence": 0.7986,
+        "bbox": {
+          "x": 0.117333,
+          "y": 0.487378,
+          "width": 0.031333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "6:03",
+        "confidence": 0.7984,
+        "bbox": {
+          "x": 0.269333,
+          "y": 0.487378,
+          "width": 0.033333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "1:15",
+        "confidence": 0.7983,
+        "bbox": {
+          "x": 0.346,
+          "y": 0.487378,
+          "width": 0.032,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "11:40.",
+        "confidence": 0.8538,
+        "bbox": {
+          "x": 0.422,
+          "y": 0.487378,
+          "width": 0.043333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "11:40.",
+            "confidence": 0.8538
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "9:45 7:30 6:03 1i5 11:40.",
+            "confidence": 0.766
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "p.m.=noon tomidnight",
+        "confidence": 0.9121,
+        "bbox": {
+          "x": 0.522,
+          "y": 0.498197,
+          "width": 0.162667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "p.m.=noon tomidnight",
+            "confidence": 0.9121
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "p.m. = noon to midnight",
+            "confidence": 0.498
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "Interactions Time",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.098824,
+          "y": 0.522121,
+          "width": 0.256471,
+          "height": 0.017576
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Interactions Time",
+            "confidence": 0.9062
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Interactions Time",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "A Listen and practice.",
+        "confidence": 0.9118,
+        "bbox": {
+          "x": 0.094,
+          "y": 0.554353,
+          "width": 0.182,
+          "height": 0.017517
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A  Listen and practice.",
+            "confidence": 0.9118
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A ©} Listen and practice.",
+            "confidence": 0.756
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "What's the time?",
+        "confidence": 0.843,
+        "bbox": {
+          "x": 0.510667,
+          "y": 0.747038,
+          "width": 0.114667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What's the time?",
+            "confidence": 0.843
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Joe Whattime is it? Keisha What's the time?",
+            "confidence": 0.825
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "Keisha",
+        "confidence": 0.7502,
+        "bbox": {
+          "x": 0.454,
+          "y": 0.748068,
+          "width": 0.048667,
+          "height": 0.010819
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "What time is it?",
+        "confidence": 0.8821,
+        "bbox": {
+          "x": 0.142,
+          "y": 0.748583,
+          "width": 0.103333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "Joe",
+        "confidence": 0.746,
+        "bbox": {
+          "x": 0.097333,
+          "y": 0.749098,
+          "width": 0.028,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "Emily",
+        "confidence": 0.769,
+        "bbox": {
+          "x": 0.451333,
+          "y": 0.765585,
+          "width": 0.044,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0041",
+        "type": "sentence",
+        "content": "Mike It’s 9:15. What time is the bus? Emily _ It’s 9:35. What time is our class?",
+        "confidence": 0.9071,
+        "bbox": {
+          "x": 0.1,
+          "y": 0.768182,
+          "width": 0.622353,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "It's9:35.Whattimeisourclass?",
+            "confidence": 0.9173
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Mike It’s 9:15. What time is the bus? Emily _ It’s 9:35. What time is our class?",
+            "confidence": 0.9071
+          },
+          {
+            "engine": "rapidocr",
+            "content": "It's9:15.Whattimeisthebus?",
+            "confidence": 0.8657
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "label",
+        "content": "Mike",
+        "confidence": 0.6679,
+        "bbox": {
+          "x": 0.099333,
+          "y": 0.769706,
+          "width": 0.034,
+          "height": 0.010819
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0043",
+        "type": "label",
+        "content": "Nine-twenty. We're early.",
+        "confidence": 0.8914,
+        "bbox": {
+          "x": 0.141333,
+          "y": 0.788253,
+          "width": 0.168667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Nine-twenty. We're early.",
+            "confidence": 0.8914
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Joe Nine-twenty. We're early. Keisha It’s at 9:30. We’re late!",
+            "confidence": 0.752
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "label",
+        "content": "Keisha",
+        "confidence": 0.7816,
+        "bbox": {
+          "x": 0.453333,
+          "y": 0.788253,
+          "width": 0.051333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0045",
+        "type": "label",
+        "content": "It's at 9:30.We're late!",
+        "confidence": 0.8459,
+        "bbox": {
+          "x": 0.510667,
+          "y": 0.789284,
+          "width": 0.149333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0046",
+        "type": "label",
+        "content": "Joe",
+        "confidence": 0.7474,
+        "bbox": {
+          "x": 0.096667,
+          "y": 0.789799,
+          "width": 0.03,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0047",
+        "type": "label",
+        "content": "Asking the time",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.106667,
+          "y": 0.819697,
+          "width": 0.120392,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Asking the time",
+            "confidence": 0.8457
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Asking the time",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0048",
+        "type": "sentence",
+        "content": "What time is it? | What's the time?",
+        "confidence": 0.8575,
+        "bbox": {
+          "x": 0.14,
+          "y": 0.852424,
+          "width": 0.39098,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What's the time?",
+            "confidence": 0.8081
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What time is it? | What's the time?",
+            "confidence": 0.8575
+          },
+          {
+            "engine": "rapidocr",
+            "content": "What time is it?",
+            "confidence": 0.8584
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0049",
+        "type": "sentence",
+        "content": "B Practice the conversations again with the times below.",
+        "confidence": 0.9522,
+        "bbox": {
+          "x": 0.101176,
+          "y": 0.897879,
+          "width": 0.480392,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAIRWORK",
+            "confidence": 0.8715
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Practice the conversations again with the times below.",
+            "confidence": 0.9522
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Practicethe conversations again withthetimes below.",
+            "confidence": 0.9084
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0050",
+        "type": "label",
+        "content": "5:45/5:30",
+        "confidence": 0.836,
+        "bbox": {
+          "x": 0.486667,
+          "y": 0.918083,
+          "width": 0.070667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0051",
+        "type": "label",
+        "content": "4:15/4:45",
+        "confidence": 0.8345,
+        "bbox": {
+          "x": 0.122667,
+          "y": 0.918599,
+          "width": 0.069333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0052",
+        "type": "label",
+        "content": "6:20/7:00",
+        "confidence": 0.8953,
+        "bbox": {
+          "x": 0.238,
+          "y": 0.918599,
+          "width": 0.070667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0053",
+        "type": "paragraph",
+        "content": "4:15 / 4:45 6:20 / 7:00 10:05 / 10:00 5:45 / 5:30",
+        "confidence": 0.9058,
+        "bbox": {
+          "x": 0.123529,
+          "y": 0.919394,
+          "width": 0.431765,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "10:05/10:00",
+            "confidence": 0.8521
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4:15 / 4:45 6:20 / 7:00 10:05 / 10:00 5:45 / 5:30",
+            "confidence": 0.9058
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0054",
+        "type": "label",
+        "content": "38",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.037647,
+          "y": 0.942727,
+          "width": 0.017647,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "38",
+            "confidence": 0.6665
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "38",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "It's noon.",
+            "confidence": 0.8816,
+            "bbox": {
+              "x": 0.28,
+              "y": 0.28542,
+              "width": 0.064667,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0005",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "It's midnight.",
+            "confidence": 0.9106,
+            "bbox": {
+              "x": 0.469333,
+              "y": 0.28542,
+              "width": 0.090667,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0006",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "It'stwelve-oh-five.",
+            "confidence": 0.909,
+            "bbox": {
+              "x": 0.661333,
+              "y": 0.28542,
+              "width": 0.122,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0007",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "It's twelve o'clock.",
+            "confidence": 0.8828,
+            "bbox": {
+              "x": 0.095333,
+              "y": 0.285935,
+              "width": 0.12,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0008",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "It's twelve-thirty.",
+            "confidence": 0.9145,
+            "bbox": {
+              "x": 0.281333,
+              "y": 0.417826,
+              "width": 0.114,
+              "height": 0.015456
+            },
+            "sourceElementId": "text_0019",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "It'stwelve-fifteen.",
+            "confidence": 0.9107,
+            "bbox": {
+              "x": 0.096,
+              "y": 0.419887,
+              "width": 0.119333,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0020",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "It's twelve-forty.",
+            "confidence": 0.9178,
+            "bbox": {
+              "x": 0.471333,
+              "y": 0.419887,
+              "width": 0.11,
+              "height": 0.01288
+            },
+            "sourceElementId": "text_0021",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "It's twenty to one.",
+            "confidence": 0.8717,
+            "bbox": {
+              "x": 0.47,
+              "y": 0.436373,
+              "width": 0.122,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0023",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "It's a quarter to one.",
+            "confidence": 0.8807,
+            "bbox": {
+              "x": 0.662667,
+              "y": 0.436888,
+              "width": 0.134,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0024",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "What's the time?",
+            "confidence": 0.843,
+            "bbox": {
+              "x": 0.510667,
+              "y": 0.747038,
+              "width": 0.114667,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0036",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "What time is it?",
+            "confidence": 0.8821,
+            "bbox": {
+              "x": 0.142,
+              "y": 0.748583,
+              "width": 0.103333,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0038",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Nine-twenty. We're early.",
+            "confidence": 0.8914,
+            "bbox": {
+              "x": 0.141333,
+              "y": 0.788253,
+              "width": 0.168667,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0043",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "It's at 9:30.We're late!",
+            "confidence": 0.8459,
+            "bbox": {
+              "x": 0.510667,
+              "y": 0.789284,
+              "width": 0.149333,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0045",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "What time is it? | What's the time?",
+            "confidence": 0.8575,
+            "bbox": {
+              "x": 0.14,
+              "y": 0.852424,
+              "width": 0.39098,
+              "height": 0.012424
+            },
+            "sourceElementId": "text_0048",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen and repeat.",
+        "items": [
+          {
+            "number": 12,
+            "prompt": "05",
+            "choices": [],
+            "answer": null,
+            "confidence": 0.8115,
+            "bbox": {
+              "x": 0.692,
+              "y": 0.211231,
+              "width": 0.108,
+              "height": 0.032457
+            }
+          }
+        ],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0003"
+        ],
+        "confidence": 0.8512
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "exercise",
+        "instruction": "Say the times in two ways.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0026"
+        ],
+        "confidence": 0.9514
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen and practice.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0035"
+        ],
+        "confidence": 0.9118
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "exercise",
+        "instruction": "Practice the conversations again with the times below.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0049"
+        ],
+        "confidence": 0.9522
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "12.05",
+          "It's noon.",
+          "It's midnight.",
+          "It'stwelve-oh-five.",
+          "It's twelve o'clock.",
+          "It’s twelve p.m. It’s twelve a.m. It’s five after twelve.",
+          "NANTES",
+          "MONTREAL",
+          "ATHEXES",
+          "5621",
+          "12:15",
+          "126",
+          "9281",
+          "12:408",
+          "ar",
+          "It's twelve-thirty.",
+          "It'stwelve-fifteen.",
+          "It's twelve-forty.",
+          "It’s twelve-fifteen. It’s twelve-thirty. It’s twelve-forty. It’s twelve forty-five.",
+          "It's twenty to one.",
+          "It's a quarter to one.",
+          "It’s a quarter after twelve. It’s half past twelve. It’s twenty to one. It’s a quarter to one.",
+          "B Say the times in two ways.",
+          "a.m.=midnight to noon",
+          "7:30",
+          "9:45",
+          "6:03",
+          "1:15",
+          "11:40.",
+          "p.m.=noon tomidnight"
+        ],
+        "position": {
+          "x": 0.075333,
+          "y": 0.191231,
+          "width": 0.839334,
+          "height": 0.34087599999999996
+        },
+        "textElementIds": [
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "What's the time?",
+          "Keisha",
+          "What time is it?",
+          "Joe",
+          "Emily",
+          "Mike It’s 9:15. What time is the bus? Emily _ It’s 9:35. What time is our class?",
+          "Mike",
+          "Nine-twenty. We're early.",
+          "Keisha",
+          "It's at 9:30.We're late!",
+          "Joe",
+          "Asking the time",
+          "What time is it? | What's the time?"
+        ],
+        "position": {
+          "x": 0.076667,
+          "y": 0.727038,
+          "width": 0.665686,
+          "height": 0.15781
+        },
+        "textElementIds": [
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040",
+          "text_0041",
+          "text_0042",
+          "text_0043",
+          "text_0044",
+          "text_0045",
+          "text_0046",
+          "text_0047",
+          "text_0048"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "What time is it?\nTelling time\nA  Listen and repeat.\n12.05\nIt's noon.\nIt's midnight.\nIt'stwelve-oh-five.\nIt's twelve o'clock.\nIt's twelve p.m.\nIt's twelve a.m.\nIt'sfiveaftertwelve.\nNANTES\nMONTREAL\nFORTEPRAC\nLONDRES\nATHEXES\n5621\n12:15\n126\n9281\n4626\nS#1227\n12:408\nIt's twelve-thirty.\nIt's twelve forty-five.\nIt'stwelve-fifteen.\nIt's twelve-forty.\nIt'saquarteraftertwelve.It'shalfpasttwelve.\nIt's twenty to one.\nIt's a quarter to one.\nPAIRWORK\nSaythetimesintwoways.\na.m.=midnight to noon\n7:30\n9:45\n6:03\n1:15\n11:40.\np.m.=noon tomidnight\nInteractions Time\nA  Listen and practice.\nWhat's the time?\nKeisha\nWhat time is it?\nJoe\nEmily\nIt's9:35.Whattimeisourclass?\nMike\nIt's9:15.Whattimeisthebus?\nNine-twenty. We're early.\nKeisha\nIt's at 9:30.We're late!\nJoe\nAsking the time\nWhat's the time?\nWhat time is it?\nPAIRWORK\nPracticethe conversations again withthetimes below.\n10:05/10:00\n5:45/5:30\n4:15/4:45\n6:20/7:00\n38\ndehkhodaedu.com",
+      "tesseract_psm3": "5) Telling time\n\nA ©) Listen and repeat.\n\n* @\n\nIt’s twelve o'clock. It's noon, It’s midnight. It’s twelve-ob-five.\nIt’s twelve p.m. It’s twelve a.m. It’s five after twelve.\n\n=\n\nar\nIt’s twelve-fifteen. It’s twelve-thirty. It’s twelve-forty. It’s twelve forty-five.\nIt’s a quarter after twelve. It’s half past twelve. It’s twenty to one. It’s a quarter to one.\n\nB Say the times in two ways.\n\na.m. = midnight to noon\n9:45 7:30 6:03 1i5 11:40.\n\np.m. = noon to midnight\nInteractions Time\n\nA ©} Listen and practice.\n\nJoe Whattime is it? Keisha What's the time?\nMike It’s 9:15. What time is the bus? Emily _ It’s 9:35. What time is our class?\nJoe  Nine-twenty. We're early. Keisha It’s at 9:30. We’re late!\n\nAsking the time\n\nWhat time is it? | What's the time?\n\nB Practice the conversations again with the times below.\n4:15 / 4:45 6:20 / 7:00 10:05 / 10:00 5:45 / 5:30\n38\n\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [
+      {
+        "id": "text_0004",
+        "type": "text",
+        "content": "* @",
+        "confidence": 0.87,
+        "bbox": {
+          "x": 0.309804,
+          "y": 0.187576,
+          "width": 0.296078,
+          "height": 0.083939
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "text",
+        "content": "=",
+        "confidence": 0.78,
+        "bbox": {
+          "x": 0.342353,
+          "y": 0.372727,
+          "width": 0.061569,
+          "height": 0.033636
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "averageConfidence": 0.8282,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "18 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "2 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "page",
+    "headings": [
+      "What time is it?",
+      "Telling time"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "What time is it?",
+        "confidence": 0.8897,
+        "bbox": {
+          "x": 0.128667,
+          "y": 0.064915,
+          "width": 0.388667,
+          "height": 0.030912
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Telling time",
+        "confidence": 0.8928,
+        "bbox": {
+          "x": 0.092,
+          "y": 0.125193,
+          "width": 0.18,
+          "height": 0.02473
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "5) Telling time",
+            "confidence": 0.6267
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Telling time",
+            "confidence": 0.8928
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "label",
+        "content": "A Listen and repeat.",
+        "confidence": 0.8512,
+        "bbox": {
+          "x": 0.092,
+          "y": 0.159711,
+          "width": 0.17,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A  Listen and repeat.",
+            "confidence": 0.8512
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A ©) Listen and repeat.",
+            "confidence": 0.866
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "It's noon.",
+        "confidence": 0.8816,
+        "bbox": {
+          "x": 0.28,
+          "y": 0.28542,
+          "width": 0.064667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "It's midnight.",
+        "confidence": 0.9106,
+        "bbox": {
+          "x": 0.469333,
+          "y": 0.28542,
+          "width": 0.090667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "It's twelve-oh-five.",
+        "confidence": 0.909,
+        "bbox": {
+          "x": 0.661333,
+          "y": 0.28542,
+          "width": 0.122,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "It'stwelve-oh-five.",
+            "confidence": 0.909
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "It’s twelve o'clock. It's noon, It’s midnight. It’s twelve-ob-five.",
+            "confidence": 0.7889
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "It's twelve o'clock.",
+        "confidence": 0.8828,
+        "bbox": {
+          "x": 0.095333,
+          "y": 0.285935,
+          "width": 0.12,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "sentence",
+        "content": "It's twelve p. m. It's twelve a. m. It's five after twelve.",
+        "confidence": 0.928,
+        "bbox": {
+          "x": 0.283137,
+          "y": 0.30303,
+          "width": 0.509412,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "It's twelve p.m.",
+            "confidence": 0.8971
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "It’s twelve p.m. It’s twelve a.m. It’s five after twelve.",
+            "confidence": 0.928
+          },
+          {
+            "engine": "rapidocr",
+            "content": "It's twelve a.m.",
+            "confidence": 0.872
+          },
+          {
+            "engine": "rapidocr",
+            "content": "It'sfiveaftertwelve.",
+            "confidence": 0.9038
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "NANTES",
+        "confidence": 0.841,
+        "bbox": {
+          "x": 0.763333,
+          "y": 0.33797,
+          "width": 0.049333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "NANTES",
+            "confidence": 0.841
+          },
+          {
+            "engine": "rapidocr",
+            "content": "LONDRES",
+            "confidence": 0.7827
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "MONTREAL",
+        "confidence": 0.7641,
+        "bbox": {
+          "x": 0.677333,
+          "y": 0.347244,
+          "width": 0.036667,
+          "height": 0.007213
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "MONTREAL",
+            "confidence": 0.7641
+          },
+          {
+            "engine": "rapidocr",
+            "content": "FORTEPRAC",
+            "confidence": 0.5095
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "At hexes",
+        "confidence": 0.6219,
+        "bbox": {
+          "x": 0.863333,
+          "y": 0.347759,
+          "width": 0.029333,
+          "height": 0.007213
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "ar",
+        "confidence": 0.46,
+        "bbox": {
+          "x": 0.527451,
+          "y": 0.396667,
+          "width": 0.045882,
+          "height": 0.008485
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "It's twelve-thirty.",
+        "confidence": 0.9145,
+        "bbox": {
+          "x": 0.281333,
+          "y": 0.417826,
+          "width": 0.114,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "It's twelve-fifteen.",
+        "confidence": 0.9107,
+        "bbox": {
+          "x": 0.096,
+          "y": 0.419887,
+          "width": 0.119333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "It's twelve-forty.",
+        "confidence": 0.9178,
+        "bbox": {
+          "x": 0.471333,
+          "y": 0.419887,
+          "width": 0.11,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "sentence",
+        "content": "It's twelve-fifteen. It's twelve-thirty. It's twelve-forty. It's twelve forty-five.",
+        "confidence": 0.9211,
+        "bbox": {
+          "x": 0.097255,
+          "y": 0.42,
+          "width": 0.699216,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "It's twelve forty-five.",
+            "confidence": 0.8769
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "It’s twelve-fifteen. It’s twelve-thirty. It’s twelve-forty. It’s twelve forty-five.",
+            "confidence": 0.9211
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "It's twenty to one.",
+        "confidence": 0.8717,
+        "bbox": {
+          "x": 0.47,
+          "y": 0.436373,
+          "width": 0.122,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "It's a quarter to one.",
+        "confidence": 0.8807,
+        "bbox": {
+          "x": 0.662667,
+          "y": 0.436888,
+          "width": 0.134,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "sentence",
+        "content": "It's a quarter after twelve. It's half past twelve. It's twenty to one. It's a quarter to one.",
+        "confidence": 0.8861,
+        "bbox": {
+          "x": 0.097255,
+          "y": 0.437879,
+          "width": 0.698039,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "It'saquarteraftertwelve.It'shalfpasttwelve.",
+            "confidence": 0.9239
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "It’s a quarter after twelve. It’s half past twelve. It’s twenty to one. It’s a quarter to one.",
+            "confidence": 0.8861
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "sentence",
+        "content": "B Say the times in two ways.",
+        "confidence": 0.9514,
+        "bbox": {
+          "x": 0.097647,
+          "y": 0.466061,
+          "width": 0.287451,
+          "height": 0.015152
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Say the times in two ways.",
+            "confidence": 0.9514
+          },
+          {
+            "engine": "rapidocr",
+            "content": "PAIRWORK",
+            "confidence": 0.8483
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Saythetimesintwoways.",
+            "confidence": 0.8792
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "a. m.=midnight to noon",
+        "confidence": 0.8773,
+        "bbox": {
+          "x": 0.522667,
+          "y": 0.479134,
+          "width": 0.161333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "a.m. = midnight to noon",
+            "confidence": 0.492
+          },
+          {
+            "engine": "rapidocr",
+            "content": "a.m.=midnight to noon",
+            "confidence": 0.8773
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "p. m.=noon to midnight",
+        "confidence": 0.9121,
+        "bbox": {
+          "x": 0.522,
+          "y": 0.498197,
+          "width": 0.162667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "p.m.=noon tomidnight",
+            "confidence": 0.9121
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "p.m. = noon to midnight",
+            "confidence": 0.498
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "Interactions Time",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.098824,
+          "y": 0.522121,
+          "width": 0.256471,
+          "height": 0.017576
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Interactions Time",
+            "confidence": 0.9062
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Interactions Time",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "A Listen and practice.",
+        "confidence": 0.9118,
+        "bbox": {
+          "x": 0.094,
+          "y": 0.554353,
+          "width": 0.182,
+          "height": 0.017517
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A  Listen and practice.",
+            "confidence": 0.9118
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A ©} Listen and practice.",
+            "confidence": 0.756
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "What's the time?",
+        "confidence": 0.843,
+        "bbox": {
+          "x": 0.510667,
+          "y": 0.747038,
+          "width": 0.114667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What's the time?",
+            "confidence": 0.843
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Joe Whattime is it? Keisha What's the time?",
+            "confidence": 0.825
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "Kei sha",
+        "confidence": 0.7502,
+        "bbox": {
+          "x": 0.454,
+          "y": 0.748068,
+          "width": 0.048667,
+          "height": 0.010819
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "What time is it?",
+        "confidence": 0.8821,
+        "bbox": {
+          "x": 0.142,
+          "y": 0.748583,
+          "width": 0.103333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "Joe",
+        "confidence": 0.746,
+        "bbox": {
+          "x": 0.097333,
+          "y": 0.749098,
+          "width": 0.028,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "Emily",
+        "confidence": 0.769,
+        "bbox": {
+          "x": 0.451333,
+          "y": 0.765585,
+          "width": 0.044,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0041",
+        "type": "sentence",
+        "content": "Mike It's 9:15. What time is the bus? Emily _ It's 9:35. What time is our class?",
+        "confidence": 0.9071,
+        "bbox": {
+          "x": 0.1,
+          "y": 0.768182,
+          "width": 0.622353,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "It's9:35.Whattimeisourclass?",
+            "confidence": 0.9173
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Mike It’s 9:15. What time is the bus? Emily _ It’s 9:35. What time is our class?",
+            "confidence": 0.9071
+          },
+          {
+            "engine": "rapidocr",
+            "content": "It's9:15.Whattimeisthebus?",
+            "confidence": 0.8657
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "label",
+        "content": "Mike",
+        "confidence": 0.6679,
+        "bbox": {
+          "x": 0.099333,
+          "y": 0.769706,
+          "width": 0.034,
+          "height": 0.010819
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0043",
+        "type": "label",
+        "content": "Nine-twenty. We're early.",
+        "confidence": 0.8914,
+        "bbox": {
+          "x": 0.141333,
+          "y": 0.788253,
+          "width": 0.168667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Nine-twenty. We're early.",
+            "confidence": 0.8914
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Joe Nine-twenty. We're early. Keisha It’s at 9:30. We’re late!",
+            "confidence": 0.752
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "label",
+        "content": "Kei sha",
+        "confidence": 0.7816,
+        "bbox": {
+          "x": 0.453333,
+          "y": 0.788253,
+          "width": 0.051333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0045",
+        "type": "label",
+        "content": "It's at 9:30. We're late!",
+        "confidence": 0.8459,
+        "bbox": {
+          "x": 0.510667,
+          "y": 0.789284,
+          "width": 0.149333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0046",
+        "type": "label",
+        "content": "Joe",
+        "confidence": 0.7474,
+        "bbox": {
+          "x": 0.096667,
+          "y": 0.789799,
+          "width": 0.03,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0047",
+        "type": "label",
+        "content": "Asking the time",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.106667,
+          "y": 0.819697,
+          "width": 0.120392,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Asking the time",
+            "confidence": 0.8457
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Asking the time",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0048",
+        "type": "sentence",
+        "content": "What time is it? | What's the time?",
+        "confidence": 0.8575,
+        "bbox": {
+          "x": 0.14,
+          "y": 0.852424,
+          "width": 0.39098,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What's the time?",
+            "confidence": 0.8081
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What time is it? | What's the time?",
+            "confidence": 0.8575
+          },
+          {
+            "engine": "rapidocr",
+            "content": "What time is it?",
+            "confidence": 0.8584
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0049",
+        "type": "sentence",
+        "content": "B Practice the conversations again with the times below.",
+        "confidence": 0.9522,
+        "bbox": {
+          "x": 0.101176,
+          "y": 0.897879,
+          "width": 0.480392,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAIRWORK",
+            "confidence": 0.8715
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Practice the conversations again with the times below.",
+            "confidence": 0.9522
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Practicethe conversations again withthetimes below.",
+            "confidence": 0.9084
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0054",
+        "type": "audio_track",
+        "content": "38",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.037647,
+          "y": 0.942727,
+          "width": 0.017647,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "38",
+            "confidence": 0.6665
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "38",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "What time is it?",
+      "Telling time",
+      "A Listen and repeat.",
+      "It's noon.",
+      "It's midnight.",
+      "It's twelve-oh-five.",
+      "It's twelve o'clock.",
+      "It's twelve p. m. It's twelve a. m. It's five after twelve.",
+      "NANTES",
+      "MONTREAL",
+      "At hexes",
+      "ar",
+      "It's twelve-thirty.",
+      "It's twelve-fifteen.",
+      "It's twelve-forty.",
+      "It's twelve-fifteen. It's twelve-thirty. It's twelve-forty. It's twelve forty-five.",
+      "It's twenty to one.",
+      "It's a quarter to one.",
+      "It's a quarter after twelve. It's half past twelve. It's twenty to one. It's a quarter to one.",
+      "B Say the times in two ways.",
+      "a. m.=midnight to noon",
+      "p. m.=noon to midnight",
+      "Interactions Time",
+      "A Listen and practice.",
+      "What's the time?",
+      "Kei sha",
+      "What time is it?",
+      "Joe",
+      "Emily",
+      "Mike It's 9:15. What time is the bus? Emily _ It's 9:35. What time is our class?",
+      "Mike",
+      "Nine-twenty. We're early.",
+      "Kei sha",
+      "It's at 9:30. We're late!",
+      "Joe",
+      "Asking the time",
+      "What time is it? | What's the time?",
+      "B Practice the conversations again with the times below."
+    ],
+    "paragraphs": [],
+    "sentences": [
+      "What time is it",
+      "Telling time A Listen and repeat",
+      "It's noon",
+      "It's midnight",
+      "It's twelve-oh-five",
+      "It's twelve o'clock",
+      "It's twelve p",
+      "m",
+      "It's twelve a",
+      "m",
+      "It's five after twelve",
+      "NANTES MONTREAL At hexes ar It's twelve-thirty",
+      "It's twelve-fifteen",
+      "It's twelve-forty",
+      "It's twelve-fifteen",
+      "It's twelve-thirty",
+      "It's twelve-forty",
+      "It's twelve forty-five",
+      "It's twenty to one",
+      "It's a quarter to one",
+      "It's a quarter after twelve",
+      "It's half past twelve",
+      "It's twenty to one",
+      "It's a quarter to one",
+      "B Say the times in two ways",
+      "a",
+      "m",
+      "=midnight to noon p",
+      "m",
+      "=noon to midnight Interactions Time A Listen and practice",
+      "What's the time",
+      "Kei sha What time is it",
+      "Joe Emily Mike It's 9:15",
+      "What time is the bus",
+      "Emily _ It's 9:35",
+      "What time is our class",
+      "Mike Nine-twenty",
+      "We're early",
+      "Kei sha It's at 9:30",
+      "We're late",
+      "Joe Asking the time What time is it",
+      "| What's the time",
+      "B Practice the conversations again with the times below"
+    ],
+    "vocabulary": [
+      {
+        "word": "o'clock",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "a quarter after",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "half past",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "a quarter to",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "noon",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "midnight",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "a.m.",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "p.m.",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      }
+    ],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "It's noon.",
+            "confidence": 0.8816,
+            "bbox": {
+              "x": 0.28,
+              "y": 0.28542,
+              "width": 0.064667,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0005"
+          },
+          {
+            "speaker": null,
+            "content": "It's midnight.",
+            "confidence": 0.9106,
+            "bbox": {
+              "x": 0.469333,
+              "y": 0.28542,
+              "width": 0.090667,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0006"
+          },
+          {
+            "speaker": null,
+            "content": "It's twelve-oh-five.",
+            "confidence": 0.909,
+            "bbox": {
+              "x": 0.661333,
+              "y": 0.28542,
+              "width": 0.122,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0007"
+          },
+          {
+            "speaker": null,
+            "content": "It's twelve o'clock.",
+            "confidence": 0.8828,
+            "bbox": {
+              "x": 0.095333,
+              "y": 0.285935,
+              "width": 0.12,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0008"
+          },
+          {
+            "speaker": null,
+            "content": "It's twelve-thirty.",
+            "confidence": 0.9145,
+            "bbox": {
+              "x": 0.281333,
+              "y": 0.417826,
+              "width": 0.114,
+              "height": 0.015456
+            },
+            "sourceElementId": "text_0019"
+          },
+          {
+            "speaker": null,
+            "content": "It's twelve-fifteen.",
+            "confidence": 0.9107,
+            "bbox": {
+              "x": 0.096,
+              "y": 0.419887,
+              "width": 0.119333,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0020"
+          },
+          {
+            "speaker": null,
+            "content": "It's twelve-forty.",
+            "confidence": 0.9178,
+            "bbox": {
+              "x": 0.471333,
+              "y": 0.419887,
+              "width": 0.11,
+              "height": 0.01288
+            },
+            "sourceElementId": "text_0021"
+          },
+          {
+            "speaker": null,
+            "content": "It's twenty to one.",
+            "confidence": 0.8717,
+            "bbox": {
+              "x": 0.47,
+              "y": 0.436373,
+              "width": 0.122,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0023"
+          },
+          {
+            "speaker": null,
+            "content": "It's a quarter to one.",
+            "confidence": 0.8807,
+            "bbox": {
+              "x": 0.662667,
+              "y": 0.436888,
+              "width": 0.134,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0024"
+          },
+          {
+            "speaker": null,
+            "content": "What's the time?",
+            "confidence": 0.843,
+            "bbox": {
+              "x": 0.510667,
+              "y": 0.747038,
+              "width": 0.114667,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0036"
+          },
+          {
+            "speaker": null,
+            "content": "What time is it?",
+            "confidence": 0.8821,
+            "bbox": {
+              "x": 0.142,
+              "y": 0.748583,
+              "width": 0.103333,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0038"
+          },
+          {
+            "speaker": null,
+            "content": "Nine-twenty.",
+            "confidence": 0.8914,
+            "bbox": {
+              "x": 0.141333,
+              "y": 0.788253,
+              "width": 0.168667,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0043"
+          },
+          {
+            "speaker": null,
+            "content": "We're early.",
+            "confidence": 0.8914,
+            "bbox": {
+              "x": 0.141333,
+              "y": 0.788253,
+              "width": 0.168667,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0043"
+          },
+          {
+            "speaker": null,
+            "content": "It's at 9:30.",
+            "confidence": 0.8459,
+            "bbox": {
+              "x": 0.510667,
+              "y": 0.789284,
+              "width": 0.149333,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0045"
+          },
+          {
+            "speaker": null,
+            "content": "We're late!",
+            "confidence": 0.8459,
+            "bbox": {
+              "x": 0.510667,
+              "y": 0.789284,
+              "width": 0.149333,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0045"
+          },
+          {
+            "speaker": null,
+            "content": "What time is it? | What's the time?",
+            "confidence": 0.8575,
+            "bbox": {
+              "x": 0.14,
+              "y": 0.852424,
+              "width": 0.39098,
+              "height": 0.012424
+            },
+            "sourceElementId": "text_0048"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen and repeat.",
+        "items": [
+          {
+            "number": 12,
+            "prompt": "05",
+            "choices": [],
+            "answer": null,
+            "confidence": 0.8115,
+            "bbox": {
+              "x": 0.692,
+              "y": 0.211231,
+              "width": 0.108,
+              "height": 0.032457
+            }
+          }
+        ],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "speaking",
+        "instruction": "Say the times in two ways.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen and practice.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "acting",
+        "instruction": "Practice the conversations again with the times below.",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "12.05",
+          "It's noon.",
+          "It's midnight.",
+          "It's twelve-oh-five.",
+          "It's twelve o'clock.",
+          "It's twelve p. m. It's twelve a. m. It's five after twelve.",
+          "NANTES",
+          "MONTREAL",
+          "At hexes",
+          "5621",
+          "12:15",
+          "126",
+          "9281",
+          "12:408",
+          "ar",
+          "It's twelve-thirty.",
+          "It's twelve-fifteen.",
+          "It's twelve-forty.",
+          "It's twelve-fifteen. It's twelve-thirty. It's twelve-forty. It's twelve forty-five.",
+          "It's twenty to one.",
+          "It's a quarter to one.",
+          "It's a quarter after twelve. It's half past twelve. It's twenty to one. It's a quarter to one.",
+          "B Say the times in two ways.",
+          "a. m.=midnight to noon",
+          "7:30",
+          "9:45",
+          "6:03",
+          "1:15",
+          "11:40.",
+          "p. m.=noon to midnight"
+        ],
+        "position": {
+          "x": 0.075333,
+          "y": 0.191231,
+          "width": 0.839334,
+          "height": 0.34087599999999996
+        },
+        "textElementIds": [
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "What's the time?",
+          "Kei sha",
+          "What time is it?",
+          "Joe",
+          "Emily",
+          "Mike It's 9:15. What time is the bus? Emily _ It's 9:35. What time is our class?",
+          "Mike",
+          "Nine-twenty. We're early.",
+          "Kei sha",
+          "It's at 9:30. We're late!",
+          "Joe",
+          "Asking the time",
+          "What time is it? | What's the time?"
+        ],
+        "position": {
+          "x": 0.076667,
+          "y": 0.727038,
+          "width": 0.665686,
+          "height": 0.15781
+        },
+        "textElementIds": [
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040",
+          "text_0041",
+          "text_0042",
+          "text_0043",
+          "text_0044",
+          "text_0045",
+          "text_0046",
+          "text_0047",
+          "text_0048"
+        ]
+      }
+    ],
+    "excludedGarbage": [
+      "12.05",
+      "5621",
+      "12:15",
+      "126",
+      "9281",
+      "12:408",
+      "7:30",
+      "9:45",
+      "6:03",
+      "1:15",
+      "11:40.",
+      "5:45/5:30",
+      "4:15/4:45",
+      "6:20/7:00",
+      "4:15 / 4:45 6:20 / 7:00 10:05 / 10:00 5:45 / 5:30"
+    ]
+  },
+  "learningContent": {
+    "pageType": "page",
+    "title": "What time is it?",
+    "learningObjectives": [],
+    "targetVocabulary": [
+      {
+        "word": "o'clock",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "a quarter after",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "half past",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "a quarter to",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "noon",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "midnight",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "a.m.",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "p.m.",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "It's noon.",
+            "confidence": 0.8816
+          },
+          {
+            "speaker": null,
+            "content": "It's midnight.",
+            "confidence": 0.9106
+          },
+          {
+            "speaker": null,
+            "content": "It's twelve-oh-five.",
+            "confidence": 0.909
+          },
+          {
+            "speaker": null,
+            "content": "It's twelve o'clock.",
+            "confidence": 0.8828
+          },
+          {
+            "speaker": null,
+            "content": "It's twelve-thirty.",
+            "confidence": 0.9145
+          },
+          {
+            "speaker": null,
+            "content": "It's twelve-fifteen.",
+            "confidence": 0.9107
+          },
+          {
+            "speaker": null,
+            "content": "It's twelve-forty.",
+            "confidence": 0.9178
+          },
+          {
+            "speaker": null,
+            "content": "It's twenty to one.",
+            "confidence": 0.8717
+          },
+          {
+            "speaker": null,
+            "content": "It's a quarter to one.",
+            "confidence": 0.8807
+          },
+          {
+            "speaker": null,
+            "content": "What's the time?",
+            "confidence": 0.843
+          },
+          {
+            "speaker": null,
+            "content": "What time is it?",
+            "confidence": 0.8821
+          },
+          {
+            "speaker": null,
+            "content": "Nine-twenty.",
+            "confidence": 0.8914
+          },
+          {
+            "speaker": null,
+            "content": "We're early.",
+            "confidence": 0.8914
+          },
+          {
+            "speaker": null,
+            "content": "It's at 9:30.",
+            "confidence": 0.8459
+          },
+          {
+            "speaker": null,
+            "content": "We're late!",
+            "confidence": 0.8459
+          },
+          {
+            "speaker": null,
+            "content": "What time is it? | What's the time?",
+            "confidence": 0.8575
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen and repeat.",
+        "items": [
+          {
+            "number": 12,
+            "prompt": "05",
+            "choices": [],
+            "answer": null,
+            "confidence": 0.8115,
+            "bbox": {
+              "x": 0.692,
+              "y": 0.211231,
+              "width": 0.108,
+              "height": 0.032457
+            }
+          }
+        ],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "speaking",
+        "instruction": "Say the times in two ways.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen and practice.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "acting",
+        "instruction": "Practice the conversations again with the times below.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": true,
+    "criticalUncertainties": [
+      "garbage-heavy: 15/54 text elements excluded"
+    ],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "18 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "2 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content.",
+      "15 garbage string(s) excluded"
+    ],
+    "verifiedAgainstPdf": true,
+    "repairStats": {
+      "garbageExcluded": 15,
+      "dialoguesSplit": 4
+    },
+    "averageOcrConfidence": 0.8282,
+    "verificationMethod": "independent_ocr_crosscheck"
+  },
+  "metadata": {
+    "book": "Four Corners 1 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc1_v1",
+    "verificationMethod": "independent_ocr_crosscheck",
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

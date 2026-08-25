@@ -1,0 +1,2196 @@
+{
+  "pageNumber": 55,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "verified sequential printed-footer pattern",
+  "pdfPageNumber": 56,
+  "source": {
+    "pdfFile": "Family and Friends 1 SB_Part1.pdf",
+    "pdfLocalPageNumber": 56,
+    "pageSizePoints": {
+      "width": 598.08,
+      "height": 796.32
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Review2",
+        "confidence": 0.8673,
+        "bbox": {
+          "x": 0.814667,
+          "y": 0.045568,
+          "width": 0.12,
+          "height": 0.022033
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "instruction",
+        "content": "4 Write.",
+        "confidence": 0.8017,
+        "bbox": {
+          "x": 0.026667,
+          "y": 0.077116,
+          "width": 0.102,
+          "height": 0.021032
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "He's",
+        "confidence": 0.7056,
+        "bbox": {
+          "x": 0.17,
+          "y": 0.08012,
+          "width": 0.048667,
+          "height": 0.02003
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "She's",
+        "confidence": 0.7843,
+        "bbox": {
+          "x": 0.249333,
+          "y": 0.081122,
+          "width": 0.058,
+          "height": 0.019529
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "TOYS",
+        "confidence": 0.7779,
+        "bbox": {
+          "x": 0.81,
+          "y": 0.275914,
+          "width": 0.052667,
+          "height": 0.019529
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0006",
+        "type": "paragraph",
+        "content": "1 He's adoctor, 2 a nurse. 3 a firefighter.",
+        "confidence": 0.8856,
+        "bbox": {
+          "x": 0.02809,
+          "y": 0.373418,
+          "width": 0.663724,
+          "height": 0.021097
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "He'sadoctor.",
+            "confidence": 0.8993
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 He's adoctor, 2 a nurse. 3 a firefighter.",
+            "confidence": 0.8856
+          },
+          {
+            "engine": "rapidocr",
+            "content": "afirefighter.",
+            "confidence": 0.8819
+          },
+          {
+            "engine": "rapidocr",
+            "content": "a nurse.",
+            "confidence": 0.7315
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "a student.",
+        "confidence": 0.845,
+        "bbox": {
+          "x": 0.801333,
+          "y": 0.376565,
+          "width": 0.105333,
+          "height": 0.016525
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "a student.",
+            "confidence": 0.845
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A a student.",
+            "confidence": 0.65
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "instruction",
+        "content": "5 Look at the picture again and write.",
+        "confidence": 0.915,
+        "bbox": {
+          "x": 0.026886,
+          "y": 0.419831,
+          "width": 0.439005,
+          "height": 0.020193
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Look at thepictureagainand write.",
+            "confidence": 0.887
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 Look at the picture again and write.",
+            "confidence": 0.915
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "1 Where's the ball?",
+        "confidence": 0.8379,
+        "bbox": {
+          "x": 0.056667,
+          "y": 0.454181,
+          "width": 0.195333,
+          "height": 0.018027
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "1 Where's the ball?",
+            "confidence": 0.8379
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Where's the ball? It's in ___the toy box.",
+            "confidence": 0.7311
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "in.",
+        "confidence": 0.5928,
+        "bbox": {
+          "x": 0.430667,
+          "y": 0.454181,
+          "width": 0.038,
+          "height": 0.019029
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "It's",
+        "confidence": 0.6792,
+        "bbox": {
+          "x": 0.362667,
+          "y": 0.454682,
+          "width": 0.037333,
+          "height": 0.019029
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "the toy box.",
+        "confidence": 0.8519,
+        "bbox": {
+          "x": 0.490667,
+          "y": 0.455684,
+          "width": 0.125333,
+          "height": 0.019529
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "It's",
+        "confidence": 0.7926,
+        "bbox": {
+          "x": 0.362667,
+          "y": 0.48673,
+          "width": 0.036667,
+          "height": 0.020531
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "the toy box.",
+        "confidence": 0.9196,
+        "bbox": {
+          "x": 0.493333,
+          "y": 0.487231,
+          "width": 0.124,
+          "height": 0.021532
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "paragraph",
+        "content": "2 Where's the doll? It's the toy box.",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.058587,
+          "y": 0.487342,
+          "width": 0.556982,
+          "height": 0.01959
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2 Where's the doll?",
+            "confidence": 0.8825
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Where's the doll? It's the toy box.",
+            "confidence": 0.94
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "the bag.",
+        "confidence": 0.7829,
+        "bbox": {
+          "x": 0.492667,
+          "y": 0.519279,
+          "width": 0.088667,
+          "height": 0.023035
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "It's",
+        "confidence": 0.7831,
+        "bbox": {
+          "x": 0.362667,
+          "y": 0.52028,
+          "width": 0.036667,
+          "height": 0.019529
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "paragraph",
+        "content": "3 Where's the ruler? It's the bag.",
+        "confidence": 0.8843,
+        "bbox": {
+          "x": 0.058587,
+          "y": 0.521097,
+          "width": 0.522071,
+          "height": 0.01959
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3 Where's the ruler?",
+            "confidence": 0.8587
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Where's the ruler? It's the bag.",
+            "confidence": 0.8843
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "It's",
+        "confidence": 0.7096,
+        "bbox": {
+          "x": 0.360667,
+          "y": 0.551828,
+          "width": 0.039333,
+          "height": 0.021032
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "the bag.",
+        "confidence": 0.8804,
+        "bbox": {
+          "x": 0.492,
+          "y": 0.551828,
+          "width": 0.089333,
+          "height": 0.023535
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "paragraph",
+        "content": "4 Where's the teddy bear? _It's the bag.",
+        "confidence": 0.8562,
+        "bbox": {
+          "x": 0.058587,
+          "y": 0.553345,
+          "width": 0.522071,
+          "height": 0.019289
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4 Where's theteddy bear?",
+            "confidence": 0.852
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 Where's the teddy bear? _It's the bag.",
+            "confidence": 0.8562
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "instruction",
+        "content": "6 Circle.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.026886,
+          "y": 0.596444,
+          "width": 0.097913,
+          "height": 0.015973
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "6 Circle.",
+            "confidence": 0.8106
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "6 Circle.",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "instruction",
+        "content": "7 Read and color.",
+        "confidence": 0.8781,
+        "bbox": {
+          "x": 0.023333,
+          "y": 0.775663,
+          "width": 0.21,
+          "height": 0.021032
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "7 Read and color.",
+            "confidence": 0.8781
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "7 Read and color.",
+            "confidence": 0.765
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "paragraph",
+        "content": "My work in Units 4, 5, and 6 is",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.06862,
+          "y": 0.81736,
+          "width": 0.426565,
+          "height": 0.023508
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "My work in Units 4, 5, and 6 is",
+            "confidence": 0.94
+          },
+          {
+            "engine": "rapidocr",
+            "content": "My workinUnirs4.5.and6is",
+            "confidence": 0.8384
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "Excellent",
+        "confidence": 0.8617,
+        "bbox": {
+          "x": 0.733333,
+          "y": 0.86029,
+          "width": 0.13,
+          "height": 0.020531
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "Good",
+        "confidence": 0.738,
+        "bbox": {
+          "x": 0.389333,
+          "y": 0.860791,
+          "width": 0.074667,
+          "height": 0.019529
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Oo: OO”",
+            "confidence": 0.22
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Good",
+            "confidence": 0.738
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "Onling",
+        "confidence": 0.89,
+        "bbox": {
+          "x": 0.095506,
+          "y": 0.910488,
+          "width": 0.04053,
+          "height": 0.010247
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Ontine",
+            "confidence": 0.7599
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Onling",
+            "confidence": 0.89
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "Pplay",
+        "confidence": 0.6611,
+        "bbox": {
+          "x": 0.052667,
+          "y": 0.910866,
+          "width": 0.092667,
+          "height": 0.041562
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "play memeenrs",
+            "confidence": 0.43
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Pplay",
+            "confidence": 0.6611
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0029",
+        "type": "instruction",
+        "content": "Play a game!",
+        "confidence": 0.8035,
+        "bbox": {
+          "x": 0.150667,
+          "y": 0.923886,
+          "width": 0.112667,
+          "height": 0.018027
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "55",
+        "confidence": 0.5054,
+        "bbox": {
+          "x": 0.922,
+          "y": 0.945919,
+          "width": 0.034667,
+          "height": 0.021532
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0031",
+        "type": "heading",
+        "content": "Review 2",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.810995,
+          "y": 0.952682,
+          "width": 0.069823,
+          "height": 0.010247
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Review 2",
+            "confidence": 0.7627
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Review 2",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "4",
+        "type": "writing_activity",
+        "instruction": "Write.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0002"
+        ],
+        "confidence": 0.8017
+      },
+      {
+        "exerciseNumber": "5",
+        "type": "writing_activity",
+        "instruction": "Look at the picture again and write.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0008"
+        ],
+        "confidence": 0.915
+      },
+      {
+        "exerciseNumber": "6",
+        "type": "selection_exercise",
+        "instruction": "Circle.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0022"
+        ],
+        "confidence": 0.95
+      },
+      {
+        "exerciseNumber": "7",
+        "type": "reading_activity",
+        "instruction": "Read and color.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0023"
+        ],
+        "confidence": 0.8781
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "TOYS",
+          "1 He's adoctor, 2 a nurse. 3 a firefighter.",
+          "a student.",
+          "5 Look at the picture again and write.",
+          "1 Where's the ball?",
+          "in.",
+          "It's",
+          "the toy box.",
+          "It's",
+          "the toy box.",
+          "2 Where's the doll? It's the toy box.",
+          "the bag.",
+          "It's",
+          "3 Where's the ruler? It's the bag.",
+          "It's",
+          "the bag.",
+          "4 Where's the teddy bear? _It's the bag.",
+          "6 Circle."
+        ],
+        "position": {
+          "x": 0.006886,
+          "y": 0.255914,
+          "width": 0.91978,
+          "height": 0.376503
+        },
+        "textElementIds": [
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "rawOcrAudit": {
+      "rapidocr": "Review2\n4 Write.\nHe's\nShe's\nTOYS\nHe'sadoctor.\nafirefighter.\na student.\na nurse.\nLook at thepictureagainand write.\n1 Where's the ball?\nin.\nIt's\nthe toy box.\n2 Where's the doll?\nIt's\nthe toy box.\nthe bag.\n3 Where's the ruler?\nIt's\nIt's\nthe bag.\n4 Where's theteddy bear?\n6 Circle.\n7 Read and color.\nMy workinUnirs4.5.and6is\nExcellent\nGood\nOntine\nPplay\nPlay a game!\n55\nReview 2",
+      "tesseract_psm3": "1 He's adoctor, 2 a nurse. 3 a firefighter.\n\n5 Look at the picture again and write.\n\n1 Where's the ball? It's in ___the toy box.\n2 Where's the doll? It's the toy box.\n3 Where's the ruler? It's the bag.\n4 Where's the teddy bear? _It's the bag.\n\n6 Circle.\n\n7 Read and color.\n\nMy work in Units 4, 5, and 6 is\n\nOo: OO”\n\nA a student.\n\nOnling\n\nplay memeenrs\n\nReview 2\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": "",
+      "footer_passes": [
+        "Onling ?\nReview 2",
+        "Onling\n\nel\n\nReview 2"
+      ]
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8153,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "12 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "review",
+    "pagePurpose": null,
+    "readingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "headings": [
+      {
+        "id": "text_0001",
+        "content": "Review 2",
+        "confidence": 0.8673,
+        "bbox": {
+          "x": 0.814667,
+          "y": 0.045568,
+          "width": 0.12,
+          "height": 0.022033
+        },
+        "repaired": true,
+        "sourceElementIds": [
+          "text_0001"
+        ]
+      },
+      {
+        "id": "text_0003",
+        "content": "He's",
+        "confidence": 0.7056,
+        "bbox": {
+          "x": 0.17,
+          "y": 0.08012,
+          "width": 0.048667,
+          "height": 0.02003
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0003"
+        ]
+      },
+      {
+        "id": "text_0004",
+        "content": "She's",
+        "confidence": 0.7843,
+        "bbox": {
+          "x": 0.249333,
+          "y": 0.081122,
+          "width": 0.058,
+          "height": 0.019529
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      },
+      {
+        "id": "text_0031",
+        "content": "Review 2",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.810995,
+          "y": 0.952682,
+          "width": 0.069823,
+          "height": 0.010247
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0031"
+        ]
+      }
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Review 2",
+        "originalContent": "Review2",
+        "confidence": 0.8673,
+        "bbox": {
+          "x": 0.814667,
+          "y": 0.045568,
+          "width": 0.12,
+          "height": 0.022033
+        },
+        "repaired": true,
+        "repairNotes": [
+          "heading_normalized"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0002",
+        "type": "instruction",
+        "content": "4 Write.",
+        "originalContent": "4 Write.",
+        "confidence": 0.8017,
+        "bbox": {
+          "x": 0.026667,
+          "y": 0.077116,
+          "width": 0.102,
+          "height": 0.021032
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "He's",
+        "originalContent": "He's",
+        "confidence": 0.7056,
+        "bbox": {
+          "x": 0.17,
+          "y": 0.08012,
+          "width": 0.048667,
+          "height": 0.02003
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "She's",
+        "originalContent": "She's",
+        "confidence": 0.7843,
+        "bbox": {
+          "x": 0.249333,
+          "y": 0.081122,
+          "width": 0.058,
+          "height": 0.019529
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "TOYS",
+        "originalContent": "TOYS",
+        "confidence": 0.7779,
+        "bbox": {
+          "x": 0.81,
+          "y": 0.275914,
+          "width": 0.052667,
+          "height": 0.019529
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0006",
+        "type": "paragraph",
+        "content": "1 He's adoctor, 2 a nurse. 3 a firefighter.",
+        "originalContent": "1 He's adoctor, 2 a nurse. 3 a firefighter.",
+        "confidence": 0.8856,
+        "bbox": {
+          "x": 0.02809,
+          "y": 0.373418,
+          "width": 0.663724,
+          "height": 0.021097
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "He'sadoctor.",
+            "confidence": 0.8993
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 He's adoctor, 2 a nurse. 3 a firefighter.",
+            "confidence": 0.8856
+          },
+          {
+            "engine": "rapidocr",
+            "content": "afirefighter.",
+            "confidence": 0.8819
+          },
+          {
+            "engine": "rapidocr",
+            "content": "a nurse.",
+            "confidence": 0.7315
+          }
+        ]
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "a student.",
+        "originalContent": "a student.",
+        "confidence": 0.845,
+        "bbox": {
+          "x": 0.801333,
+          "y": 0.376565,
+          "width": 0.105333,
+          "height": 0.016525
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "a student.",
+            "confidence": 0.845
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A a student.",
+            "confidence": 0.65
+          }
+        ]
+      },
+      {
+        "id": "text_0008",
+        "type": "instruction",
+        "content": "5 Look at the picture again and Write.",
+        "originalContent": "5 Look at the picture again and write.",
+        "confidence": 0.915,
+        "bbox": {
+          "x": 0.026886,
+          "y": 0.419831,
+          "width": 0.439005,
+          "height": 0.020193
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase_space_restored"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Look at thepictureagainand write.",
+            "confidence": 0.887
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 Look at the picture again and write.",
+            "confidence": 0.915
+          }
+        ]
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "1 Where's the ball?",
+        "originalContent": "1 Where's the ball?",
+        "confidence": 0.8379,
+        "bbox": {
+          "x": 0.056667,
+          "y": 0.454181,
+          "width": 0.195333,
+          "height": 0.018027
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "1 Where's the ball?",
+            "confidence": 0.8379
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Where's the ball? It's in ___the toy box.",
+            "confidence": 0.7311
+          }
+        ]
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "in.",
+        "originalContent": "in.",
+        "confidence": 0.5928,
+        "bbox": {
+          "x": 0.430667,
+          "y": 0.454181,
+          "width": 0.038,
+          "height": 0.019029
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "It's",
+        "originalContent": "It's",
+        "confidence": 0.6792,
+        "bbox": {
+          "x": 0.362667,
+          "y": 0.454682,
+          "width": 0.037333,
+          "height": 0.019029
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "the toy box.",
+        "originalContent": "the toy box.",
+        "confidence": 0.8519,
+        "bbox": {
+          "x": 0.490667,
+          "y": 0.455684,
+          "width": 0.125333,
+          "height": 0.019529
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "It's",
+        "originalContent": "It's",
+        "confidence": 0.7926,
+        "bbox": {
+          "x": 0.362667,
+          "y": 0.48673,
+          "width": 0.036667,
+          "height": 0.020531
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "the toy box.",
+        "originalContent": "the toy box.",
+        "confidence": 0.9196,
+        "bbox": {
+          "x": 0.493333,
+          "y": 0.487231,
+          "width": 0.124,
+          "height": 0.021532
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0015",
+        "type": "paragraph",
+        "content": "2 Where's the doll? It's the toy box.",
+        "originalContent": "2 Where's the doll? It's the toy box.",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.058587,
+          "y": 0.487342,
+          "width": 0.556982,
+          "height": 0.01959
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2 Where's the doll?",
+            "confidence": 0.8825
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Where's the doll? It's the toy box.",
+            "confidence": 0.94
+          }
+        ]
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "the bag.",
+        "originalContent": "the bag.",
+        "confidence": 0.7829,
+        "bbox": {
+          "x": 0.492667,
+          "y": 0.519279,
+          "width": 0.088667,
+          "height": 0.023035
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "It's",
+        "originalContent": "It's",
+        "confidence": 0.7831,
+        "bbox": {
+          "x": 0.362667,
+          "y": 0.52028,
+          "width": 0.036667,
+          "height": 0.019529
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0018",
+        "type": "paragraph",
+        "content": "3 Where's the ruler? It's the bag.",
+        "originalContent": "3 Where's the ruler? It's the bag.",
+        "confidence": 0.8843,
+        "bbox": {
+          "x": 0.058587,
+          "y": 0.521097,
+          "width": 0.522071,
+          "height": 0.01959
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3 Where's the ruler?",
+            "confidence": 0.8587
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Where's the ruler? It's the bag.",
+            "confidence": 0.8843
+          }
+        ]
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "It's",
+        "originalContent": "It's",
+        "confidence": 0.7096,
+        "bbox": {
+          "x": 0.360667,
+          "y": 0.551828,
+          "width": 0.039333,
+          "height": 0.021032
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "the bag.",
+        "originalContent": "the bag.",
+        "confidence": 0.8804,
+        "bbox": {
+          "x": 0.492,
+          "y": 0.551828,
+          "width": 0.089333,
+          "height": 0.023535
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0021",
+        "type": "paragraph",
+        "content": "4 Where's the teddy bear? _It's the bag.",
+        "originalContent": "4 Where's the teddy bear? _It's the bag.",
+        "confidence": 0.8562,
+        "bbox": {
+          "x": 0.058587,
+          "y": 0.553345,
+          "width": 0.522071,
+          "height": 0.019289
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4 Where's theteddy bear?",
+            "confidence": 0.852
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 Where's the teddy bear? _It's the bag.",
+            "confidence": 0.8562
+          }
+        ]
+      },
+      {
+        "id": "text_0022",
+        "type": "instruction",
+        "content": "6 Circle.",
+        "originalContent": "6 Circle.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.026886,
+          "y": 0.596444,
+          "width": 0.097913,
+          "height": 0.015973
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "6 Circle.",
+            "confidence": 0.8106
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "6 Circle.",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "id": "text_0023",
+        "type": "instruction",
+        "content": "7 Read and color.",
+        "originalContent": "7 Read and color.",
+        "confidence": 0.8781,
+        "bbox": {
+          "x": 0.023333,
+          "y": 0.775663,
+          "width": 0.21,
+          "height": 0.021032
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "7 Read and color.",
+            "confidence": 0.8781
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "7 Read and color.",
+            "confidence": 0.765
+          }
+        ]
+      },
+      {
+        "id": "text_0024",
+        "type": "paragraph",
+        "content": "My work in Units 4, 5, and 6 is",
+        "originalContent": "My work in Units 4, 5, and 6 is",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.06862,
+          "y": 0.81736,
+          "width": 0.426565,
+          "height": 0.023508
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "My work in Units 4, 5, and 6 is",
+            "confidence": 0.94
+          },
+          {
+            "engine": "rapidocr",
+            "content": "My workinUnirs4.5.and6is",
+            "confidence": 0.8384
+          }
+        ]
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "Excellent",
+        "originalContent": "Excellent",
+        "confidence": 0.8617,
+        "bbox": {
+          "x": 0.733333,
+          "y": 0.86029,
+          "width": 0.13,
+          "height": 0.020531
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "Good",
+        "originalContent": "Good",
+        "confidence": 0.738,
+        "bbox": {
+          "x": 0.389333,
+          "y": 0.860791,
+          "width": 0.074667,
+          "height": 0.019529
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Oo: OO”",
+            "confidence": 0.22
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Good",
+            "confidence": 0.738
+          }
+        ]
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "Onling",
+        "originalContent": "Onling",
+        "confidence": 0.89,
+        "bbox": {
+          "x": 0.095506,
+          "y": 0.910488,
+          "width": 0.04053,
+          "height": 0.010247
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Ontine",
+            "confidence": 0.7599
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Onling",
+            "confidence": 0.89
+          }
+        ]
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "Pplay",
+        "originalContent": "Pplay",
+        "confidence": 0.6611,
+        "bbox": {
+          "x": 0.052667,
+          "y": 0.910866,
+          "width": 0.092667,
+          "height": 0.041562
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "play memeenrs",
+            "confidence": 0.43
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Pplay",
+            "confidence": 0.6611
+          }
+        ]
+      },
+      {
+        "id": "text_0029",
+        "type": "instruction",
+        "content": "Play a game!",
+        "originalContent": "Play a game!",
+        "confidence": 0.8035,
+        "bbox": {
+          "x": 0.150667,
+          "y": 0.923886,
+          "width": 0.112667,
+          "height": 0.018027
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0031",
+        "type": "heading",
+        "content": "Review 2",
+        "originalContent": "Review 2",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.810995,
+          "y": 0.952682,
+          "width": 0.069823,
+          "height": 0.010247
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Review 2",
+            "confidence": 0.7627
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Review 2",
+            "confidence": 0.955
+          }
+        ]
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Review 2",
+      "4 Write.",
+      "He's",
+      "She's",
+      "TOYS",
+      "1 He's adoctor, 2 a nurse. 3 a firefighter.",
+      "a student.",
+      "5 Look at the picture again and Write.",
+      "1 Where's the ball?",
+      "in.",
+      "It's",
+      "the toy box.",
+      "It's",
+      "the toy box.",
+      "2 Where's the doll? It's the toy box.",
+      "the bag.",
+      "It's",
+      "3 Where's the ruler? It's the bag.",
+      "It's",
+      "the bag.",
+      "4 Where's the teddy bear? _It's the bag.",
+      "6 Circle.",
+      "7 Read and color.",
+      "My work in Units 4, 5, and 6 is",
+      "Excellent",
+      "Good",
+      "Onling",
+      "Pplay",
+      "Play a game!",
+      "Review 2"
+    ],
+    "paragraphs": [
+      {
+        "id": "text_0006",
+        "content": "1 He's adoctor, 2 a nurse. 3 a firefighter.",
+        "confidence": 0.8856,
+        "bbox": {
+          "x": 0.02809,
+          "y": 0.373418,
+          "width": 0.663724,
+          "height": 0.021097
+        },
+        "sourceElementIds": [
+          "text_0006"
+        ]
+      },
+      {
+        "id": "text_0015",
+        "content": "2 Where's the doll? It's the toy box.",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.058587,
+          "y": 0.487342,
+          "width": 0.556982,
+          "height": 0.01959
+        },
+        "sourceElementIds": [
+          "text_0015"
+        ]
+      },
+      {
+        "id": "text_0018",
+        "content": "3 Where's the ruler? It's the bag.",
+        "confidence": 0.8843,
+        "bbox": {
+          "x": 0.058587,
+          "y": 0.521097,
+          "width": 0.522071,
+          "height": 0.01959
+        },
+        "sourceElementIds": [
+          "text_0018"
+        ]
+      },
+      {
+        "id": "text_0021",
+        "content": "4 Where's the teddy bear? _It's the bag.",
+        "confidence": 0.8562,
+        "bbox": {
+          "x": 0.058587,
+          "y": 0.553345,
+          "width": 0.522071,
+          "height": 0.019289
+        },
+        "sourceElementIds": [
+          "text_0021"
+        ]
+      },
+      {
+        "id": "text_0024",
+        "content": "My work in Units 4, 5, and 6 is",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.06862,
+          "y": 0.81736,
+          "width": 0.426565,
+          "height": 0.023508
+        },
+        "sourceElementIds": [
+          "text_0024"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "text_0009",
+        "content": "1 Where's the ball?",
+        "confidence": 0.8379,
+        "bbox": {
+          "x": 0.056667,
+          "y": 0.454181,
+          "width": 0.195333,
+          "height": 0.018027
+        },
+        "sourceElementIds": [
+          "text_0009"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "Onling",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.89,
+        "sourceElementIds": [
+          "text_0027"
+        ],
+        "verification": {
+          "method": "filtered",
+          "verified": false
+        }
+      },
+      {
+        "word": "Pplay",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.6611,
+        "sourceElementIds": [
+          "text_0028"
+        ],
+        "verification": {
+          "method": "filtered",
+          "verified": false
+        }
+      }
+    ],
+    "grammar": [],
+    "dialogues": [],
+    "exercises": [
+      {
+        "exerciseNumber": "4",
+        "type": "writing_activity",
+        "instruction": "Write",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8017,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "exerciseNumber": "5",
+        "type": "writing_activity",
+        "instruction": "Look at the picture again and Write.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.915,
+        "sourceElementIds": [
+          "text_0008"
+        ]
+      },
+      {
+        "exerciseNumber": "6",
+        "type": "circle_exercise",
+        "instruction": "Circle",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.95,
+        "sourceElementIds": [
+          "text_0022"
+        ]
+      },
+      {
+        "exerciseNumber": "7",
+        "type": "reading_activity",
+        "instruction": "Read and color.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8781,
+        "sourceElementIds": [
+          "text_0023"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "activity",
+        "instruction": "Play a game!",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8035,
+        "sourceElementIds": [
+          "text_0029"
+        ]
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "TOYS",
+          "1 He's adoctor, 2 a nurse. 3 a firefighter.",
+          "a student.",
+          "5 Look at the picture again and Write.",
+          "1 Where's the ball?",
+          "in.",
+          "It's",
+          "the toy box.",
+          "It's",
+          "the toy box.",
+          "2 Where's the doll? It's the toy box.",
+          "the bag.",
+          "It's",
+          "3 Where's the ruler? It's the bag.",
+          "It's",
+          "the bag.",
+          "4 Where's the teddy bear? _It's the bag.",
+          "6 Circle."
+        ],
+        "position": {
+          "x": 0.006886,
+          "y": 0.255914,
+          "width": 0.91978,
+          "height": 0.376503
+        },
+        "textElementIds": [
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "nonEducationalText": [],
+    "excludedGarbage": [
+      {
+        "id": "text_0030",
+        "content": "55",
+        "originalContent": "55",
+        "confidence": 0.5054
+      }
+    ]
+  },
+  "learningContent": {
+    "pageType": "review",
+    "title": "Review 2",
+    "learningObjectives": [],
+    "targetVocabulary": [
+      {
+        "word": "Onling",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.89,
+        "sourceElementIds": [
+          "text_0027"
+        ]
+      },
+      {
+        "word": "Pplay",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.6611,
+        "sourceElementIds": [
+          "text_0028"
+        ]
+      }
+    ],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "4",
+        "type": "writing_activity",
+        "instruction": "Write",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8017,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "exerciseNumber": "5",
+        "type": "writing_activity",
+        "instruction": "Look at the picture again and Write.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.915,
+        "sourceElementIds": [
+          "text_0008"
+        ]
+      },
+      {
+        "exerciseNumber": "6",
+        "type": "circle_exercise",
+        "instruction": "Circle",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.95,
+        "sourceElementIds": [
+          "text_0022"
+        ]
+      },
+      {
+        "exerciseNumber": "7",
+        "type": "reading_activity",
+        "instruction": "Read and color.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8781,
+        "sourceElementIds": [
+          "text_0023"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "activity",
+        "instruction": "Play a game!",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8035,
+        "sourceElementIds": [
+          "text_0029"
+        ]
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [
+      {
+        "exerciseNumber": "4",
+        "instruction": "Write",
+        "type": "writing_activity",
+        "confidence": 0.8017
+      },
+      {
+        "exerciseNumber": "5",
+        "instruction": "Look at the picture again and Write.",
+        "type": "writing_activity",
+        "confidence": 0.915
+      },
+      {
+        "exerciseNumber": "7",
+        "instruction": "Read and color.",
+        "type": "reading_activity",
+        "confidence": 0.8781
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Play a game!",
+        "type": "activity",
+        "confidence": 0.8035
+      }
+    ],
+    "writing": [
+      {
+        "exerciseNumber": "4",
+        "instruction": "Write",
+        "type": "writing_activity",
+        "confidence": 0.8017
+      },
+      {
+        "exerciseNumber": "5",
+        "instruction": "Look at the picture again and Write.",
+        "type": "writing_activity",
+        "confidence": 0.915
+      },
+      {
+        "exerciseNumber": "6",
+        "instruction": "Circle",
+        "type": "circle_exercise",
+        "confidence": 0.95
+      }
+    ],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "text_repaired": 2,
+      "text_kept": 30,
+      "garbage_excluded": 1,
+      "vocab_kept": 11,
+      "exercises_reconstructed": 5
+    },
+    "averageOcrConfidence": 0.8153
+  },
+  "metadata": {
+    "book": "Family and Friends 1 Student Book (American)",
+    "author": "Naomi Simmons",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_v1",
+    "originalOcrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "originalAverageConfidence": 0.8153,
+    "noHallucinationPolicy": "Definitions, translations, speaker names, answers, and grammar rules are null or omitted unless visibly supported by page OCR/PDF. Text repairs are limited to spacing, punctuation, and clear OCR character errors."
+  }
+}

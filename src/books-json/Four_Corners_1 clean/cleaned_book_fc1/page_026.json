@@ -1,0 +1,2862 @@
+{
+  "pageNumber": 23,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 26,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 1_Part1.pdf",
+    "pdfLocalPageNumber": 26,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.840784,
+          "y": 0.025758,
+          "width": 0.028627,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "unit",
+            "confidence": 0.7405
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "unit",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Listening PeopleIknow",
+        "confidence": 0.9161,
+        "bbox": {
+          "x": 0.104667,
+          "y": 0.086038,
+          "width": 0.340667,
+          "height": 0.02679
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listening PeopleIknow",
+            "confidence": 0.9161
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listening People| know",
+            "confidence": 0.8733
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "sentence",
+        "content": "A Listen to Gina show some photos to her friend. Who are the people?",
+        "confidence": 0.9328,
+        "bbox": {
+          "x": 0.105333,
+          "y": 0.120556,
+          "width": 0.510667,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A  Listen to Gina show some photos to her friend. Who are the people?",
+            "confidence": 0.9328
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A ©) Listen to Gina show some photos to her friend. Who are the people?",
+            "confidence": 0.9333
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Check ()thecorrectanswers.",
+        "confidence": 0.936,
+        "bbox": {
+          "x": 0.128,
+          "y": 0.139619,
+          "width": 0.216,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Check ()thecorrectanswers.",
+            "confidence": 0.936
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Check (“) the correct answers.",
+            "confidence": 0.844
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "bent",
+        "confidence": 0.6724,
+        "bbox": {
+          "x": 0.804667,
+          "y": 0.221535,
+          "width": 0.061333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "teacher",
+        "confidence": 0.8247,
+        "bbox": {
+          "x": 0.725333,
+          "y": 0.315301,
+          "width": 0.071333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Ofriend",
+        "confidence": 0.7918,
+        "bbox": {
+          "x": 0.145333,
+          "y": 0.315817,
+          "width": 0.068,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Ofriend",
+            "confidence": 0.7918
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 (Jfriend 2 [-]classmate > (father 4 ([Jteacher",
+            "confidence": 0.45
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "father",
+        "confidence": 0.8501,
+        "bbox": {
+          "x": 0.534667,
+          "y": 0.315817,
+          "width": 0.064,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "classmate",
+        "confidence": 0.8451,
+        "bbox": {
+          "x": 0.343333,
+          "y": 0.316847,
+          "width": 0.089333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "grandfather",
+        "confidence": 0.8708,
+        "bbox": {
+          "x": 0.54,
+          "y": 0.335394,
+          "width": 0.096667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "(V7) brother {] sister (_] grandfather (_] mother",
+            "confidence": 0.6275
+          },
+          {
+            "engine": "rapidocr",
+            "content": "grandfather",
+            "confidence": 0.8708
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "mother",
+        "confidence": 0.8526,
+        "bbox": {
+          "x": 0.725333,
+          "y": 0.335394,
+          "width": 0.071333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "Zbrother",
+        "confidence": 0.852,
+        "bbox": {
+          "x": 0.152,
+          "y": 0.335909,
+          "width": 0.072667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "Isister",
+        "confidence": 0.8092,
+        "bbox": {
+          "x": 0.352667,
+          "y": 0.33694,
+          "width": 0.048667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "B Listen again. Answer the questions.",
+        "confidence": 0.9142,
+        "bbox": {
+          "x": 0.105333,
+          "y": 0.357032,
+          "width": 0.292,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B  Listen again. Answer the questions.",
+            "confidence": 0.9142
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B ¢)} Listen again. Answer the questions.",
+            "confidence": 0.83
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "15",
+        "confidence": 0.66,
+        "bbox": {
+          "x": 0.52902,
+          "y": 0.377576,
+          "width": 0.021176,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "15",
+            "confidence": 0.6257
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "15",
+            "confidence": 0.66
+          }
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "How oldis Mark?",
+        "confidence": 0.874,
+        "bbox": {
+          "x": 0.152,
+          "y": 0.381247,
+          "width": 0.114667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "How oldis Mark?",
+            "confidence": 0.874
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 How old is Mark?",
+            "confidence": 0.842
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "WhatcityisDominiquefrom?",
+        "confidence": 0.8743,
+        "bbox": {
+          "x": 0.153333,
+          "y": 0.40237,
+          "width": 0.195333,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "WhatcityisDominiquefrom?",
+            "confidence": 0.8743
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What city is Dominique from? pais Feet",
+            "confidence": 0.7543
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "2",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.131373,
+          "y": 0.403333,
+          "width": 0.005098,
+          "height": 0.007879
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "What's the man's name?",
+        "confidence": 0.8561,
+        "bbox": {
+          "x": 0.152667,
+          "y": 0.422463,
+          "width": 0.163333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What's the man's name?",
+            "confidence": 0.8561
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What’s the man’s name? ‘ eer ee",
+            "confidence": 0.6386
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "3",
+        "confidence": 0.88,
+        "bbox": {
+          "x": 0.131373,
+          "y": 0.424242,
+          "width": 0.00549,
+          "height": 0.007879
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "IsMs.ParkerAmerican?",
+        "confidence": 0.9113,
+        "bbox": {
+          "x": 0.152667,
+          "y": 0.443071,
+          "width": 0.158667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "IsMs.ParkerAmerican?",
+            "confidence": 0.9113
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Is Ms. Parker American? a",
+            "confidence": 0.734
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "4",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.13098,
+          "y": 0.445152,
+          "width": 0.006275,
+          "height": 0.006061
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "heading",
+        "content": "Writing and speaking My friends",
+        "confidence": 0.956,
+        "bbox": {
+          "x": 0.10902,
+          "y": 0.477273,
+          "width": 0.478039,
+          "height": 0.022424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Writing and speaking My friends",
+            "confidence": 0.8947
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Writing and speaking My friends",
+            "confidence": 0.956
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "sentence",
+        "content": "A Complete the chart with information about three friends. Then find photos or",
+        "confidence": 0.9323,
+        "bbox": {
+          "x": 0.108627,
+          "y": 0.512727,
+          "width": 0.55451,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Complete the chart with information about threefriends.Then find photos or",
+            "confidence": 0.9045
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Complete the chart with information about three friends. Then find photos or",
+            "confidence": 0.9323
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "draw pictures of them.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.132157,
+          "y": 0.530909,
+          "width": 0.15451,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "draw pictures of them.",
+            "confidence": 0.881
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "draw pictures of them.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "Friend 1",
+        "confidence": 0.8305,
+        "bbox": {
+          "x": 0.283333,
+          "y": 0.552808,
+          "width": 0.058667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "Friend 2",
+        "confidence": 0.8289,
+        "bbox": {
+          "x": 0.498,
+          "y": 0.552808,
+          "width": 0.059333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "Friend3",
+        "confidence": 0.813,
+        "bbox": {
+          "x": 0.712,
+          "y": 0.552808,
+          "width": 0.058,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "instruction",
+        "content": "Name",
+        "confidence": 0.7929,
+        "bbox": {
+          "x": 0.114,
+          "y": 0.573931,
+          "width": 0.043333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "Age",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.116471,
+          "y": 0.59,
+          "width": 0.023529,
+          "height": 0.017273
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Age",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Age",
+            "confidence": 0.6359
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "Other information T",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.117255,
+          "y": 0.626061,
+          "width": 0.165098,
+          "height": 0.024545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Nationality",
+            "confidence": 0.9127
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Nationality",
+            "confidence": 0.95
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Other information T",
+            "confidence": 0.93
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Otherinformation",
+            "confidence": 0.9038
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "sentence",
+        "content": "B Write sentences about your friends in the pictures. Use the",
+        "confidence": 0.9545,
+        "bbox": {
+          "x": 0.11098,
+          "y": 0.666667,
+          "width": 0.423137,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B Writesentencesaboutyourfriends inthepictures.Usethe",
+            "confidence": 0.9057
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Write sentences about your friends in the pictures. Use the",
+            "confidence": 0.9545
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "sentence",
+        "content": "model and your answers in Part A to help you.",
+        "confidence": 0.942,
+        "bbox": {
+          "x": 0.133725,
+          "y": 0.684545,
+          "width": 0.312941,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "modeland youranswers inPartAtohelpyou.",
+            "confidence": 0.9048
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "model and your answers in Part A to help you.",
+            "confidence": 0.942
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "My friends",
+        "confidence": 0.8901,
+        "bbox": {
+          "x": 0.129333,
+          "y": 0.721793,
+          "width": 0.114667,
+          "height": 0.020093
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "Mybestfriend isSamanthaShe's26yearsold",
+        "confidence": 0.9045,
+        "bbox": {
+          "x": 0.132667,
+          "y": 0.753735,
+          "width": 0.363333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "She's American She'sa teacher.",
+        "confidence": 0.854,
+        "bbox": {
+          "x": 0.132,
+          "y": 0.775889,
+          "width": 0.244,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "Emma ismyfriend,too.She's",
+        "confidence": 0.862,
+        "bbox": {
+          "x": 0.132,
+          "y": 0.797012,
+          "width": 0.222667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "heading",
+        "content": "GROUPWORK",
+        "confidence": 0.8851,
+        "bbox": {
+          "x": 0.132,
+          "y": 0.840804,
+          "width": 0.094,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "sentence",
+        "content": "Share your pictures and sentences.Ask and answer questions",
+        "confidence": 0.907,
+        "bbox": {
+          "x": 0.232667,
+          "y": 0.84338,
+          "width": 0.426,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Share your pictures and sentences.Ask and answer questions",
+            "confidence": 0.907
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "C (exes Share your pictures and sentences. Ask and answer questions",
+            "confidence": 0.8655
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "for more information.",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.134118,
+          "y": 0.861818,
+          "width": 0.148627,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "formore information.",
+            "confidence": 0.92
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "for more information.",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "dialogue_line",
+        "content": "A: This is my friend Samantha. She's 26 years old.",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.13451,
+          "y": 0.882727,
+          "width": 0.376863,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A:This ismyfriend Samantha.She's26yearsold.",
+            "confidence": 0.9153
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: This is my friend Samantha. She's 26 years old.",
+            "confidence": 0.94
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "dialogue_line",
+        "content": "B: Whats her last name?",
+        "confidence": 0.922,
+        "bbox": {
+          "x": 0.135294,
+          "y": 0.904848,
+          "width": 0.187059,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B:What's herlast name?",
+            "confidence": 0.8889
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: Whats her last name?",
+            "confidence": 0.922
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "label",
+        "content": "23",
+        "confidence": 0.5142,
+        "bbox": {
+          "x": 0.917333,
+          "y": 0.937146,
+          "width": 0.023333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0044",
+        "type": "sentence",
+        "content": "| can give information about family and friends. (@)",
+        "confidence": 0.8711,
+        "bbox": {
+          "x": 0.572941,
+          "y": 0.941212,
+          "width": 0.305098,
+          "height": 0.017576
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "| can give information about family and friends. (@)",
+            "confidence": 0.8711
+          },
+          {
+            "engine": "rapidocr",
+            "content": "I cangive informationaboutfamilyandfriends.",
+            "confidence": 0.9084
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "How oldis Mark?",
+            "confidence": 0.874,
+            "bbox": {
+              "x": 0.152,
+              "y": 0.381247,
+              "width": 0.114667,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0016",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "WhatcityisDominiquefrom?",
+            "confidence": 0.8743,
+            "bbox": {
+              "x": 0.153333,
+              "y": 0.40237,
+              "width": 0.195333,
+              "height": 0.011334
+            },
+            "sourceElementId": "text_0017",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "What's the man's name?",
+            "confidence": 0.8561,
+            "bbox": {
+              "x": 0.152667,
+              "y": 0.422463,
+              "width": 0.163333,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0019",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "IsMs.ParkerAmerican?",
+            "confidence": 0.9113,
+            "bbox": {
+              "x": 0.152667,
+              "y": 0.443071,
+              "width": 0.158667,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0021",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "She's American She'sa teacher.",
+            "confidence": 0.854,
+            "bbox": {
+              "x": 0.132,
+              "y": 0.775889,
+              "width": 0.244,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0036",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Emma ismyfriend,too.She's",
+            "confidence": 0.862,
+            "bbox": {
+              "x": 0.132,
+              "y": 0.797012,
+              "width": 0.222667,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0037",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "A: This is my friend Samantha. She's 26 years old.",
+            "confidence": 0.94,
+            "bbox": {
+              "x": 0.13451,
+              "y": 0.882727,
+              "width": 0.376863,
+              "height": 0.013333
+            },
+            "sourceElementId": "text_0041",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen to Gina show some photos to her friend. Who are the people?",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0003"
+        ],
+        "confidence": 0.9328
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "listening_activity",
+        "instruction": "Listen again. Answer the questions.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0014"
+        ],
+        "confidence": 0.9142
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "writing_activity",
+        "instruction": "Complete the chart with information about three friends. Then find photos or",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0024"
+        ],
+        "confidence": 0.9323
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "writing_activity",
+        "instruction": "Write sentences about your friends in the pictures. Use the",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0032"
+        ],
+        "confidence": 0.9545
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "bent",
+          "teacher",
+          "Ofriend",
+          "father",
+          "classmate",
+          "grandfather",
+          "mother",
+          "Zbrother",
+          "Isister",
+          "B Listen again. Answer the questions.",
+          "15",
+          "How oldis Mark?",
+          "WhatcityisDominiquefrom?",
+          "2",
+          "What's the man's name?",
+          "3",
+          "IsMs.ParkerAmerican?",
+          "4",
+          "Writing and speaking My friends"
+        ],
+        "position": {
+          "x": 0.08533299999999999,
+          "y": 0.20153500000000002,
+          "width": 0.800667,
+          "height": 0.31816199999999994
+        },
+        "textElementIds": [
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "A Complete the chart with information about three friends. Then find photos or",
+          "draw pictures of them.",
+          "Friend 1",
+          "Friend 2",
+          "Friend3",
+          "Name",
+          "Age",
+          "Other information T",
+          "B Write sentences about your friends in the pictures. Use the",
+          "model and your answers in Part A to help you."
+        ],
+        "position": {
+          "x": 0.088627,
+          "y": 0.492727,
+          "width": 0.701373,
+          "height": 0.22363599999999995
+        },
+        "textElementIds": [
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "My friends",
+          "Mybestfriend isSamanthaShe's26yearsold",
+          "She's American She'sa teacher.",
+          "Emma ismyfriend,too.She's",
+          "GROUPWORK",
+          "Share your pictures and sentences.Ask and answer questions",
+          "for more information."
+        ],
+        "position": {
+          "x": 0.109333,
+          "y": 0.701793,
+          "width": 0.569334,
+          "height": 0.18972199999999995
+        },
+        "textElementIds": [
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "unit\nListening PeopleIknow\nA  Listen to Gina show some photos to her friend. Who are the people?\nCheck ()thecorrectanswers.\nbent\nteacher\nOfriend\nfather\nclassmate\ngrandfather\nmother\nZbrother\nIsister\nB  Listen again. Answer the questions.\n15\nHow oldis Mark?\nWhatcityisDominiquefrom?\nWhat's the man's name?\nIsMs.ParkerAmerican?\nWriting and speaking My friends\nA Complete the chart with information about threefriends.Then find photos or\ndraw pictures of them.\nFriend 1\nFriend 2\nFriend3\nName\nAge\nNationality\nOtherinformation\nB Writesentencesaboutyourfriends inthepictures.Usethe\nmodeland youranswers inPartAtohelpyou.\nMy friends\nMybestfriend isSamanthaShe's26yearsold\nShe's American She'sa teacher.\nEmma ismyfriend,too.She's\nGROUPWORK\nShare your pictures and sentences.Ask and answer questions\nformore information.\nA:This ismyfriend Samantha.She's26yearsold.\nB:What's herlast name?\n23\nI cangive informationaboutfamilyandfriends.\ndehkhodaedu.com",
+      "tesseract_psm3": "unit\n\nListening People| know\n\nA ©) Listen to Gina show some photos to her friend. Who are the people?\nCheck (“) the correct answers.\n\n1 (Jfriend 2 [-]classmate > (father 4 ([Jteacher\n(V7) brother {] sister (_] grandfather (_] mother\n\nB ¢)} Listen again. Answer the questions.\n15\n\n1 How old is Mark?\n2\n3\n4\n\nWriting and speaking My friends\n\nA Complete the chart with information about three friends. Then find photos or\ndraw pictures of them.\n\nWhat city is Dominique from? pais Feet\nWhat’s the man’s name? ‘ eer ee\n\nIs Ms. Parker American? a\n\nAge\n\nNationality\n\nOther information T\n\nB Write sentences about your friends in the pictures. Use the\nmodel and your answers in Part A to help you.\n\nC (exes Share your pictures and sentences. Ask and answer questions\nfor more information.\n\nA: This is my friend Samantha. She's 26 years old.\nB: Whats her last name?\n\n| can give information about family and friends. (@)\n\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8723,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "5 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "listening_speaking_writing",
+    "headings": [
+      "unit",
+      "Listening People Iknow",
+      "Check ()the correct answers.",
+      "Writing and speaking My friends",
+      "Group work"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.840784,
+          "y": 0.025758,
+          "width": 0.028627,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "unit",
+            "confidence": 0.7405
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "unit",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Listening People Iknow",
+        "confidence": 0.9161,
+        "bbox": {
+          "x": 0.104667,
+          "y": 0.086038,
+          "width": 0.340667,
+          "height": 0.02679
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listening PeopleIknow",
+            "confidence": 0.9161
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listening People| know",
+            "confidence": 0.8733
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "sentence",
+        "content": "A Listen to Gina show some photos to her friend. Who are the people?",
+        "confidence": 0.9328,
+        "bbox": {
+          "x": 0.105333,
+          "y": 0.120556,
+          "width": 0.510667,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A  Listen to Gina show some photos to her friend. Who are the people?",
+            "confidence": 0.9328
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A ©) Listen to Gina show some photos to her friend. Who are the people?",
+            "confidence": 0.9333
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Check ()the correct answers.",
+        "confidence": 0.936,
+        "bbox": {
+          "x": 0.128,
+          "y": 0.139619,
+          "width": 0.216,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Check ()thecorrectanswers.",
+            "confidence": 0.936
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Check (“) the correct answers.",
+            "confidence": 0.844
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "bent",
+        "confidence": 0.6724,
+        "bbox": {
+          "x": 0.804667,
+          "y": 0.221535,
+          "width": 0.061333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "teacher",
+        "confidence": 0.8247,
+        "bbox": {
+          "x": 0.725333,
+          "y": 0.315301,
+          "width": 0.071333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Ofriend",
+        "confidence": 0.7918,
+        "bbox": {
+          "x": 0.145333,
+          "y": 0.315817,
+          "width": 0.068,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Ofriend",
+            "confidence": 0.7918
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 (Jfriend 2 [-]classmate > (father 4 ([Jteacher",
+            "confidence": 0.45
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "father",
+        "confidence": 0.8501,
+        "bbox": {
+          "x": 0.534667,
+          "y": 0.315817,
+          "width": 0.064,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "classmate",
+        "confidence": 0.8451,
+        "bbox": {
+          "x": 0.343333,
+          "y": 0.316847,
+          "width": 0.089333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "grandfather",
+        "confidence": 0.8708,
+        "bbox": {
+          "x": 0.54,
+          "y": 0.335394,
+          "width": 0.096667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "(V7) brother {] sister (_] grandfather (_] mother",
+            "confidence": 0.6275
+          },
+          {
+            "engine": "rapidocr",
+            "content": "grandfather",
+            "confidence": 0.8708
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "mother",
+        "confidence": 0.8526,
+        "bbox": {
+          "x": 0.725333,
+          "y": 0.335394,
+          "width": 0.071333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "Zbrother",
+        "confidence": 0.852,
+        "bbox": {
+          "x": 0.152,
+          "y": 0.335909,
+          "width": 0.072667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "I sister",
+        "confidence": 0.8092,
+        "bbox": {
+          "x": 0.352667,
+          "y": 0.33694,
+          "width": 0.048667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "B Listen again. Answer the questions.",
+        "confidence": 0.9142,
+        "bbox": {
+          "x": 0.105333,
+          "y": 0.357032,
+          "width": 0.292,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B  Listen again. Answer the questions.",
+            "confidence": 0.9142
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B ¢)} Listen again. Answer the questions.",
+            "confidence": 0.83
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "audio_track",
+        "content": "15",
+        "confidence": 0.66,
+        "bbox": {
+          "x": 0.52902,
+          "y": 0.377576,
+          "width": 0.021176,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "15",
+            "confidence": 0.6257
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "15",
+            "confidence": 0.66
+          }
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "How oldis Mark?",
+        "confidence": 0.874,
+        "bbox": {
+          "x": 0.152,
+          "y": 0.381247,
+          "width": 0.114667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "How oldis Mark?",
+            "confidence": 0.874
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 How old is Mark?",
+            "confidence": 0.842
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "What city is Dominique from?",
+        "confidence": 0.8743,
+        "bbox": {
+          "x": 0.153333,
+          "y": 0.40237,
+          "width": 0.195333,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "WhatcityisDominiquefrom?",
+            "confidence": 0.8743
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What city is Dominique from? pais Feet",
+            "confidence": 0.7543
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "audio_track",
+        "content": "2",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.131373,
+          "y": 0.403333,
+          "width": 0.005098,
+          "height": 0.007879
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "What's the man's name?",
+        "confidence": 0.8561,
+        "bbox": {
+          "x": 0.152667,
+          "y": 0.422463,
+          "width": 0.163333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What's the man's name?",
+            "confidence": 0.8561
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What’s the man’s name? ‘ eer ee",
+            "confidence": 0.6386
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "audio_track",
+        "content": "3",
+        "confidence": 0.88,
+        "bbox": {
+          "x": 0.131373,
+          "y": 0.424242,
+          "width": 0.00549,
+          "height": 0.007879
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "Is Ms. Parker American?",
+        "confidence": 0.9113,
+        "bbox": {
+          "x": 0.152667,
+          "y": 0.443071,
+          "width": 0.158667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "IsMs.ParkerAmerican?",
+            "confidence": 0.9113
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Is Ms. Parker American? a",
+            "confidence": 0.734
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "audio_track",
+        "content": "4",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.13098,
+          "y": 0.445152,
+          "width": 0.006275,
+          "height": 0.006061
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "heading",
+        "content": "Writing and speaking My friends",
+        "confidence": 0.956,
+        "bbox": {
+          "x": 0.10902,
+          "y": 0.477273,
+          "width": 0.478039,
+          "height": 0.022424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Writing and speaking My friends",
+            "confidence": 0.8947
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Writing and speaking My friends",
+            "confidence": 0.956
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "sentence",
+        "content": "A Complete the chart with information about three friends. Then find photos or",
+        "confidence": 0.9323,
+        "bbox": {
+          "x": 0.108627,
+          "y": 0.512727,
+          "width": 0.55451,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Complete the chart with information about threefriends.Then find photos or",
+            "confidence": 0.9045
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Complete the chart with information about three friends. Then find photos or",
+            "confidence": 0.9323
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "draw pictures of them.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.132157,
+          "y": 0.530909,
+          "width": 0.15451,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "draw pictures of them.",
+            "confidence": 0.881
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "draw pictures of them.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "Friend 1",
+        "confidence": 0.8305,
+        "bbox": {
+          "x": 0.283333,
+          "y": 0.552808,
+          "width": 0.058667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "Friend 2",
+        "confidence": 0.8289,
+        "bbox": {
+          "x": 0.498,
+          "y": 0.552808,
+          "width": 0.059333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "Friend 3",
+        "confidence": 0.813,
+        "bbox": {
+          "x": 0.712,
+          "y": 0.552808,
+          "width": 0.058,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "instruction",
+        "content": "Name",
+        "confidence": 0.7929,
+        "bbox": {
+          "x": 0.114,
+          "y": 0.573931,
+          "width": 0.043333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "Age",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.116471,
+          "y": 0.59,
+          "width": 0.023529,
+          "height": 0.017273
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Age",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Age",
+            "confidence": 0.6359
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "Other information T",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.117255,
+          "y": 0.626061,
+          "width": 0.165098,
+          "height": 0.024545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Nationality",
+            "confidence": 0.9127
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Nationality",
+            "confidence": 0.95
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Other information T",
+            "confidence": 0.93
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Otherinformation",
+            "confidence": 0.9038
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "sentence",
+        "content": "B Write sentences about your friends in the pictures. Use the",
+        "confidence": 0.9545,
+        "bbox": {
+          "x": 0.11098,
+          "y": 0.666667,
+          "width": 0.423137,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B Writesentencesaboutyourfriends inthepictures.Usethe",
+            "confidence": 0.9057
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Write sentences about your friends in the pictures. Use the",
+            "confidence": 0.9545
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "sentence",
+        "content": "model and your answers in Part A to help you.",
+        "confidence": 0.942,
+        "bbox": {
+          "x": 0.133725,
+          "y": 0.684545,
+          "width": 0.312941,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "modeland youranswers inPartAtohelpyou.",
+            "confidence": 0.9048
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "model and your answers in Part A to help you.",
+            "confidence": 0.942
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "My friends",
+        "confidence": 0.8901,
+        "bbox": {
+          "x": 0.129333,
+          "y": 0.721793,
+          "width": 0.114667,
+          "height": 0.020093
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "My best friend is Samantha She's 26years old",
+        "confidence": 0.9045,
+        "bbox": {
+          "x": 0.132667,
+          "y": 0.753735,
+          "width": 0.363333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "She's American She's a teacher.",
+        "confidence": 0.854,
+        "bbox": {
+          "x": 0.132,
+          "y": 0.775889,
+          "width": 0.244,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "Emma is my friend, too. She's",
+        "confidence": 0.862,
+        "bbox": {
+          "x": 0.132,
+          "y": 0.797012,
+          "width": 0.222667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "heading",
+        "content": "Group work",
+        "confidence": 0.8851,
+        "bbox": {
+          "x": 0.132,
+          "y": 0.840804,
+          "width": 0.094,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "sentence",
+        "content": "Share your pictures and sentences. Ask and answer questions",
+        "confidence": 0.907,
+        "bbox": {
+          "x": 0.232667,
+          "y": 0.84338,
+          "width": 0.426,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Share your pictures and sentences.Ask and answer questions",
+            "confidence": 0.907
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "C (exes Share your pictures and sentences. Ask and answer questions",
+            "confidence": 0.8655
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "for more information.",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.134118,
+          "y": 0.861818,
+          "width": 0.148627,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "formore information.",
+            "confidence": 0.92
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "for more information.",
+            "confidence": 0.9567
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "dialogue_line",
+        "content": "A: This is my friend Samantha. She's 26 years old.",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.13451,
+          "y": 0.882727,
+          "width": 0.376863,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A:This ismyfriend Samantha.She's26yearsold.",
+            "confidence": 0.9153
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: This is my friend Samantha. She's 26 years old.",
+            "confidence": 0.94
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "dialogue_line",
+        "content": "B: Whats her last name?",
+        "confidence": 0.922,
+        "bbox": {
+          "x": 0.135294,
+          "y": 0.904848,
+          "width": 0.187059,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B:What's herlast name?",
+            "confidence": 0.8889
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: Whats her last name?",
+            "confidence": 0.922
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "audio_track",
+        "content": "23",
+        "confidence": 0.5142,
+        "bbox": {
+          "x": 0.917333,
+          "y": 0.937146,
+          "width": 0.023333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0044",
+        "type": "sentence",
+        "content": "can give information about family and friends. (@)",
+        "confidence": 0.8711,
+        "bbox": {
+          "x": 0.572941,
+          "y": 0.941212,
+          "width": 0.305098,
+          "height": 0.017576
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "| can give information about family and friends. (@)",
+            "confidence": 0.8711
+          },
+          {
+            "engine": "rapidocr",
+            "content": "I cangive informationaboutfamilyandfriends.",
+            "confidence": 0.9084
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "unit",
+      "Listening People Iknow",
+      "A Listen to Gina show some photos to her friend. Who are the people?",
+      "Check ()the correct answers.",
+      "bent",
+      "teacher",
+      "Ofriend",
+      "father",
+      "classmate",
+      "grandfather",
+      "mother",
+      "Zbrother",
+      "I sister",
+      "B Listen again. Answer the questions.",
+      "How oldis Mark?",
+      "What city is Dominique from?",
+      "What's the man's name?",
+      "Is Ms. Parker American?",
+      "Writing and speaking My friends",
+      "A Complete the chart with information about three friends. Then find photos or",
+      "draw pictures of them.",
+      "Friend 1",
+      "Friend 2",
+      "Friend 3",
+      "Name",
+      "Age",
+      "Other information T",
+      "B Write sentences about your friends in the pictures. Use the",
+      "model and your answers in Part A to help you.",
+      "My friends",
+      "My best friend is Samantha She's 26years old",
+      "She's American She's a teacher.",
+      "Emma is my friend, too. She's",
+      "Group work",
+      "Share your pictures and sentences. Ask and answer questions",
+      "for more information.",
+      "A: This is my friend Samantha. She's 26 years old.",
+      "B: Whats her last name?",
+      "can give information about family and friends. (@)"
+    ],
+    "paragraphs": [],
+    "sentences": [
+      "unit Listening People Iknow A Listen to Gina show some photos to her friend",
+      "Who are the people",
+      "Check ()the correct answers",
+      "bent teacher Ofriend father classmate grandfather mother Zbrother I sister B Listen again",
+      "Answer the questions",
+      "How oldis Mark",
+      "What city is Dominique from",
+      "What's the man's name",
+      "Is Ms",
+      "Parker American",
+      "Writing and speaking My friends A Complete the chart with information about three friends",
+      "Then find photos or draw pictures of them",
+      "Friend 1 Friend 2 Friend 3 Name Age Other information T B Write sentences about your friends in the pictures",
+      "Use the model and your answers in Part A to help you",
+      "My friends My best friend is Samantha She's 26years old She's American She's a teacher",
+      "Emma is my friend, too",
+      "She's Group work Share your pictures and sentences",
+      "Ask and answer questions for more information",
+      "A: This is my friend Samantha",
+      "She's 26 years old",
+      "B: Whats her last name",
+      "can give information about family and friends",
+      "(@)"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "How oldis Mark?",
+            "confidence": 0.874,
+            "bbox": {
+              "x": 0.152,
+              "y": 0.381247,
+              "width": 0.114667,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0016"
+          },
+          {
+            "speaker": null,
+            "content": "What city is Dominique from?",
+            "confidence": 0.8743,
+            "bbox": {
+              "x": 0.153333,
+              "y": 0.40237,
+              "width": 0.195333,
+              "height": 0.011334
+            },
+            "sourceElementId": "text_0017"
+          },
+          {
+            "speaker": null,
+            "content": "What's the man's name?",
+            "confidence": 0.8561,
+            "bbox": {
+              "x": 0.152667,
+              "y": 0.422463,
+              "width": 0.163333,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0019"
+          },
+          {
+            "speaker": null,
+            "content": "Is Ms.",
+            "confidence": 0.9113,
+            "bbox": {
+              "x": 0.152667,
+              "y": 0.443071,
+              "width": 0.158667,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0021"
+          },
+          {
+            "speaker": null,
+            "content": "Parker American?",
+            "confidence": 0.9113,
+            "bbox": {
+              "x": 0.152667,
+              "y": 0.443071,
+              "width": 0.158667,
+              "height": 0.01185
+            },
+            "sourceElementId": "text_0021"
+          },
+          {
+            "speaker": null,
+            "content": "She's American She's a teacher.",
+            "confidence": 0.854,
+            "bbox": {
+              "x": 0.132,
+              "y": 0.775889,
+              "width": 0.244,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0036"
+          },
+          {
+            "speaker": null,
+            "content": "Emma is my friend, too.",
+            "confidence": 0.862,
+            "bbox": {
+              "x": 0.132,
+              "y": 0.797012,
+              "width": 0.222667,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0037"
+          },
+          {
+            "speaker": null,
+            "content": "She's",
+            "confidence": 0.862,
+            "bbox": {
+              "x": 0.132,
+              "y": 0.797012,
+              "width": 0.222667,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0037"
+          },
+          {
+            "speaker": null,
+            "content": "A: This is my friend Samantha.",
+            "confidence": 0.94,
+            "bbox": {
+              "x": 0.13451,
+              "y": 0.882727,
+              "width": 0.376863,
+              "height": 0.013333
+            },
+            "sourceElementId": "text_0041"
+          },
+          {
+            "speaker": null,
+            "content": "She's 26 years old.",
+            "confidence": 0.94,
+            "bbox": {
+              "x": 0.13451,
+              "y": 0.882727,
+              "width": 0.376863,
+              "height": 0.013333
+            },
+            "sourceElementId": "text_0041"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen to Gina show some photos to her friend. Who are the people?",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "listening_activity",
+        "instruction": "Listen again. Answer the questions.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "writing_activity",
+        "instruction": "Complete the chart with information about three friends. Then find photos or",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "writing",
+        "instruction": "Write sentences about your friends in the pictures. Use the",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "bent",
+          "teacher",
+          "Ofriend",
+          "father",
+          "classmate",
+          "grandfather",
+          "mother",
+          "Zbrother",
+          "I sister",
+          "B Listen again. Answer the questions.",
+          "15",
+          "How oldis Mark?",
+          "What city is Dominique from?",
+          "2",
+          "What's the man's name?",
+          "3",
+          "Is Ms. Parker American?",
+          "4",
+          "Writing and speaking My friends"
+        ],
+        "position": {
+          "x": 0.08533299999999999,
+          "y": 0.20153500000000002,
+          "width": 0.800667,
+          "height": 0.31816199999999994
+        },
+        "textElementIds": [
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "A Complete the chart with information about three friends. Then find photos or",
+          "draw pictures of them.",
+          "Friend 1",
+          "Friend 2",
+          "Friend 3",
+          "Name",
+          "Age",
+          "Other information T",
+          "B Write sentences about your friends in the pictures. Use the",
+          "model and your answers in Part A to help you."
+        ],
+        "position": {
+          "x": 0.088627,
+          "y": 0.492727,
+          "width": 0.701373,
+          "height": 0.22363599999999995
+        },
+        "textElementIds": [
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "My friends",
+          "My best friend is Samantha She's 26years old",
+          "She's American She's a teacher.",
+          "Emma is my friend, too. She's",
+          "Group work",
+          "Share your pictures and sentences. Ask and answer questions",
+          "for more information."
+        ],
+        "position": {
+          "x": 0.109333,
+          "y": 0.701793,
+          "width": 0.569334,
+          "height": 0.18972199999999995
+        },
+        "textElementIds": [
+          "text_0034",
+          "text_0035",
+          "text_0036",
+          "text_0037",
+          "text_0038",
+          "text_0039",
+          "text_0040"
+        ]
+      }
+    ],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "listening_speaking_writing",
+    "title": "unit",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "How oldis Mark?",
+            "confidence": 0.874
+          },
+          {
+            "speaker": null,
+            "content": "What city is Dominique from?",
+            "confidence": 0.8743
+          },
+          {
+            "speaker": null,
+            "content": "What's the man's name?",
+            "confidence": 0.8561
+          },
+          {
+            "speaker": null,
+            "content": "Is Ms.",
+            "confidence": 0.9113
+          },
+          {
+            "speaker": null,
+            "content": "Parker American?",
+            "confidence": 0.9113
+          },
+          {
+            "speaker": null,
+            "content": "She's American She's a teacher.",
+            "confidence": 0.854
+          },
+          {
+            "speaker": null,
+            "content": "Emma is my friend, too.",
+            "confidence": 0.862
+          },
+          {
+            "speaker": null,
+            "content": "She's",
+            "confidence": 0.862
+          },
+          {
+            "speaker": null,
+            "content": "A: This is my friend Samantha.",
+            "confidence": 0.94
+          },
+          {
+            "speaker": null,
+            "content": "She's 26 years old.",
+            "confidence": 0.94
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen to Gina show some photos to her friend. Who are the people?",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "listening_activity",
+        "instruction": "Listen again. Answer the questions.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "writing_activity",
+        "instruction": "Complete the chart with information about three friends. Then find photos or",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "writing",
+        "instruction": "Write sentences about your friends in the pictures. Use the",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "5 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "dialoguesSplit": 6
+    },
+    "averageOcrConfidence": 0.8723,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 1 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc1_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

@@ -1,0 +1,1371 @@
+{
+  "pageNumber": 142,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 149,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 4_Part7.pdf",
+    "pdfLocalPageNumber": 7,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Lesson A",
+        "confidence": 0.8064,
+        "bbox": {
+          "x": 0.214667,
+          "y": 0.038125,
+          "width": 0.183333,
+          "height": 0.022154
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "invite ~) LessonA",
+            "confidence": 0.42
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Lesson A",
+            "confidence": 0.8064
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.7419,
+        "bbox": {
+          "x": 0.072,
+          "y": 0.047398,
+          "width": 0.04,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "A logical explanation?",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.114118,
+          "y": 0.11303,
+          "width": 0.281961,
+          "height": 0.022121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A logical explanation?",
+            "confidence": 0.9101
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A logical explanation?",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Students C and D",
+        "confidence": 0.9075,
+        "bbox": {
+          "x": 0.115294,
+          "y": 0.149091,
+          "width": 0.12,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Students C and D",
+            "confidence": 0.8554
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Students C and D",
+            "confidence": 0.9075
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "sentence",
+        "content": "A You have a BEFORE picture of a home office. Describe the scene. What has",
+        "confidence": 0.9553,
+        "bbox": {
+          "x": 0.114902,
+          "y": 0.176061,
+          "width": 0.62,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAiRWORKYouhavea BEFOREpictureofahomeoffice.Describethescene.Whathas",
+            "confidence": 0.9028
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A You have a BEFORE picture of a home office. Describe the scene. What has",
+            "confidence": 0.9553
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "happened? What is happening?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.138824,
+          "y": 0.194545,
+          "width": 0.216078,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "happened?Whatishappening?",
+            "confidence": 0.8655
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "happened? What is happening?",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "sentence",
+        "content": "B Join classmates who have an AFTER picture. Their picture shows the office five",
+        "confidence": 0.9557,
+        "bbox": {
+          "x": 0.118431,
+          "y": 0.465455,
+          "width": 0.671765,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "GRouPWORkKJoinclassmateswhohaveanAFTERpicture.Theirpictureshowstheofficefive",
+            "confidence": 0.9172
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Join classmates who have an AFTER picture. Their picture shows the office five",
+            "confidence": 0.9557
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "sentence",
+        "content": "minutes after your picture. Listen to their ideas about what might have happened. Then tell",
+        "confidence": 0.9587,
+        "bbox": {
+          "x": 0.141176,
+          "y": 0.48303,
+          "width": 0.636078,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "minutes afteryour picture.Listen to theirideas about what might have happened.Then tell",
+            "confidence": 0.899
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "minutes after your picture. Listen to their ideas about what might have happened. Then tell",
+            "confidence": 0.9587
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "them what really happened.",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.140784,
+          "y": 0.501515,
+          "width": 0.195686,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "them what really happened.",
+            "confidence": 0.8592
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "them what really happened.",
+            "confidence": 0.9575
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "dialogue_line",
+        "content": "A: We think that someone might have...",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.140784,
+          "y": 0.522727,
+          "width": 0.305882,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A:Wethink that someone might have..",
+            "confidence": 0.9202
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: We think that someone might have...",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "dialogue_line",
+        "content": "B: Or someone could have.",
+        "confidence": 0.8677,
+        "bbox": {
+          "x": 0.14,
+          "y": 0.544049,
+          "width": 0.208667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B: Or someone could have.",
+            "confidence": 0.8677
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: Or someone could have...",
+            "confidence": 0.824
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "dialogue_line",
+        "content": "C:Actually,here'swhatreallyhappened..",
+        "confidence": 0.9369,
+        "bbox": {
+          "x": 0.140667,
+          "y": 0.566718,
+          "width": 0.316667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "C:Actually,here'swhatreallyhappened..",
+            "confidence": 0.9369
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "C: Actually, here's what really happened ...",
+            "confidence": 0.8443
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "sentence",
+        "content": "C Now you have a picture of a restaurant AFTER something has happened. What do",
+        "confidence": 0.9447,
+        "bbox": {
+          "x": 0.118824,
+          "y": 0.593333,
+          "width": 0.670588,
+          "height": 0.016364
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "C Now you have a picture of a restaurant AFTER something has happened. What do",
+            "confidence": 0.9447
+          },
+          {
+            "engine": "rapidocr",
+            "content": "PAiRWORKNowyouhaveapictureofarestaurantAFTER somethinghashappened.Whatdo",
+            "confidence": 0.9267
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "you think might have happened? Think of as many explanations as you can.",
+        "confidence": 0.9592,
+        "bbox": {
+          "x": 0.141569,
+          "y": 0.613939,
+          "width": 0.526667,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "you think might have happened? Think of as many explanations as you can.",
+            "confidence": 0.8776
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "you think might have happened? Think of as many explanations as you can.",
+            "confidence": 0.9592
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "heading",
+        "content": "GROUPWORK",
+        "confidence": 0.814,
+        "bbox": {
+          "x": 0.143333,
+          "y": 0.885626,
+          "width": 0.095333,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "D Join classmates who have a BEFORE picture. Their picture shows the restaurant",
+        "confidence": 0.9554,
+        "bbox": {
+          "x": 0.121569,
+          "y": 0.885758,
+          "width": 0.68,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Join classmates whohave a BEFOREpicture.Their picture shows the restaurant",
+            "confidence": 0.893
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "D Join classmates who have a BEFORE picture. Their picture shows the restaurant",
+            "confidence": 0.9554
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "sentence",
+        "content": "five minutes before. Tell them what you think might have happened. Then find out what really",
+        "confidence": 0.9581,
+        "bbox": {
+          "x": 0.143922,
+          "y": 0.903333,
+          "width": 0.656078,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "five minutes before.Tell them what you think might have happened.Then find out what really",
+            "confidence": 0.9023
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "five minutes before. Tell them what you think might have happened. Then find out what really",
+            "confidence": 0.9581
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "happened.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.144706,
+          "y": 0.922121,
+          "width": 0.072941,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "happened.",
+            "confidence": 0.8139
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "happened.",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "142",
+        "confidence": 0.6273,
+        "bbox": {
+          "x": 0.053333,
+          "y": 0.959815,
+          "width": 0.031333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "142",
+            "confidence": 0.6273
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "a",
+            "confidence": 0
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0020",
+        "type": "heading",
+        "content": "Keep talking!",
+        "confidence": 0.8623,
+        "bbox": {
+          "x": 0.126667,
+          "y": 0.968573,
+          "width": 0.087333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "Students C and D",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.115294,
+          "y": 0.149091,
+          "width": 0.12,
+          "height": 0.009697
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.9075
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "A: We think that someone might have...",
+            "confidence": 0.95,
+            "bbox": {
+              "x": 0.140784,
+              "y": 0.522727,
+              "width": 0.305882,
+              "height": 0.013333
+            },
+            "sourceElementId": "text_0010",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "B: Or someone could have.",
+            "confidence": 0.8677,
+            "bbox": {
+              "x": 0.14,
+              "y": 0.544049,
+              "width": 0.208667,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0011",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "C:Actually,here'swhatreallyhappened..",
+            "confidence": 0.9369,
+            "bbox": {
+              "x": 0.140667,
+              "y": 0.566718,
+              "width": 0.316667,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0012",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "exercise",
+        "instruction": "You have a BEFORE picture of a home office. Describe the scene. What has",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0005"
+        ],
+        "confidence": 0.9553
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "Lesson A\nunit\nA logical explanation?\nStudents C and D\nPAiRWORKYouhavea BEFOREpictureofahomeoffice.Describethescene.Whathas\nhappened?Whatishappening?\nGRouPWORkKJoinclassmateswhohaveanAFTERpicture.Theirpictureshowstheofficefive\nminutes afteryour picture.Listen to theirideas about what might have happened.Then tell\nthem what really happened.\nA:Wethink that someone might have..\nB: Or someone could have.\nC:Actually,here'swhatreallyhappened..\nPAiRWORKNowyouhaveapictureofarestaurantAFTER somethinghashappened.Whatdo\nyou think might have happened? Think of as many explanations as you can.\nJoin classmates whohave a BEFOREpicture.Their picture shows the restaurant\nGROUPWORK\nfive minutes before.Tell them what you think might have happened.Then find out what really\nhappened.\ndehkhodaedu.com\n142\nKeep talking!",
+      "tesseract_psm3": "invite ~) LessonA\n\nA logical explanation?\n\nStudents C and D\n\nA You have a BEFORE picture of a home office. Describe the scene. What has\nhappened? What is happening?\n\nB Join classmates who have an AFTER picture. Their picture shows the office five\nminutes after your picture. Listen to their ideas about what might have happened. Then tell\nthem what really happened.\n\nA: We think that someone might have...\nB: Or someone could have...\nC: Actually, here's what really happened ...\n\nC Now you have a picture of a restaurant AFTER something has happened. What do\nyou think might have happened? Think of as many explanations as you can.\n\nD Join classmates who have a BEFORE picture. Their picture shows the restaurant\nfive minutes before. Tell them what you think might have happened. Then find out what really\nhappened.\n\n2 dehkhodaedu.com\n\na\n\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.9001,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "2 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "lesson",
+    "headings": [
+      "Lesson A",
+      "unit",
+      "A logical explanation?",
+      "Students C and D",
+      "GROUPWORK",
+      "Keep talking!"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Lesson A",
+        "confidence": 0.8064,
+        "bbox": {
+          "x": 0.214667,
+          "y": 0.038125,
+          "width": 0.183333,
+          "height": 0.022154
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "invite ~) LessonA",
+            "confidence": 0.42
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Lesson A",
+            "confidence": 0.8064
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.7419,
+        "bbox": {
+          "x": 0.072,
+          "y": 0.047398,
+          "width": 0.04,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "A logical explanation?",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.114118,
+          "y": 0.11303,
+          "width": 0.281961,
+          "height": 0.022121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A logical explanation?",
+            "confidence": 0.9101
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A logical explanation?",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Students C and D",
+        "confidence": 0.9075,
+        "bbox": {
+          "x": 0.115294,
+          "y": 0.149091,
+          "width": 0.12,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Students C and D",
+            "confidence": 0.8554
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Students C and D",
+            "confidence": 0.9075
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "sentence",
+        "content": "A You have a BEFORE picture of a home office. Describe the scene. What has",
+        "confidence": 0.9553,
+        "bbox": {
+          "x": 0.114902,
+          "y": 0.176061,
+          "width": 0.62,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAiRWORKYouhavea BEFOREpictureofahomeoffice.Describethescene.Whathas",
+            "confidence": 0.9028
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A You have a BEFORE picture of a home office. Describe the scene. What has",
+            "confidence": 0.9553
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "happened? What is happening?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.138824,
+          "y": 0.194545,
+          "width": 0.216078,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "happened?Whatishappening?",
+            "confidence": 0.8655
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "happened? What is happening?",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "sentence",
+        "content": "B Join classmates who have an AFTER picture. Their picture shows the office five",
+        "confidence": 0.9557,
+        "bbox": {
+          "x": 0.118431,
+          "y": 0.465455,
+          "width": 0.671765,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "GRouPWORkKJoinclassmateswhohaveanAFTERpicture.Theirpictureshowstheofficefive",
+            "confidence": 0.9172
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Join classmates who have an AFTER picture. Their picture shows the office five",
+            "confidence": 0.9557
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "sentence",
+        "content": "minutes after your picture. Listen to their ideas about what might have happened. Then tell",
+        "confidence": 0.9587,
+        "bbox": {
+          "x": 0.141176,
+          "y": 0.48303,
+          "width": 0.636078,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "minutes afteryour picture.Listen to theirideas about what might have happened.Then tell",
+            "confidence": 0.899
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "minutes after your picture. Listen to their ideas about what might have happened. Then tell",
+            "confidence": 0.9587
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "them what really happened.",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.140784,
+          "y": 0.501515,
+          "width": 0.195686,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "them what really happened.",
+            "confidence": 0.8592
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "them what really happened.",
+            "confidence": 0.9575
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "dialogue_line",
+        "content": "A: We think that someone might have...",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.140784,
+          "y": 0.522727,
+          "width": 0.305882,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A:Wethink that someone might have..",
+            "confidence": 0.9202
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: We think that someone might have...",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "dialogue_line",
+        "content": "B: Or someone could have.",
+        "confidence": 0.8677,
+        "bbox": {
+          "x": 0.14,
+          "y": 0.544049,
+          "width": 0.208667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B: Or someone could have.",
+            "confidence": 0.8677
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: Or someone could have...",
+            "confidence": 0.824
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "dialogue_line",
+        "content": "C: Actually, here's whatreallyhappened..",
+        "confidence": 0.9369,
+        "bbox": {
+          "x": 0.140667,
+          "y": 0.566718,
+          "width": 0.316667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "C:Actually,here'swhatreallyhappened..",
+            "confidence": 0.9369
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "C: Actually, here's what really happened ...",
+            "confidence": 0.8443
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "sentence",
+        "content": "C Now you have a picture of a restaurant AFTER something has happened. What do",
+        "confidence": 0.9447,
+        "bbox": {
+          "x": 0.118824,
+          "y": 0.593333,
+          "width": 0.670588,
+          "height": 0.016364
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "C Now you have a picture of a restaurant AFTER something has happened. What do",
+            "confidence": 0.9447
+          },
+          {
+            "engine": "rapidocr",
+            "content": "PAiRWORKNowyouhaveapictureofarestaurantAFTER somethinghashappened.Whatdo",
+            "confidence": 0.9267
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "you think might have happened? Think of as many explanations as you can.",
+        "confidence": 0.9592,
+        "bbox": {
+          "x": 0.141569,
+          "y": 0.613939,
+          "width": 0.526667,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "you think might have happened? Think of as many explanations as you can.",
+            "confidence": 0.8776
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "you think might have happened? Think of as many explanations as you can.",
+            "confidence": 0.9592
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "heading",
+        "content": "GROUPWORK",
+        "confidence": 0.814,
+        "bbox": {
+          "x": 0.143333,
+          "y": 0.885626,
+          "width": 0.095333,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "D Join classmates who have a BEFORE picture. Their picture shows the restaurant",
+        "confidence": 0.9554,
+        "bbox": {
+          "x": 0.121569,
+          "y": 0.885758,
+          "width": 0.68,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Join classmates whohave a BEFOREpicture.Their picture shows the restaurant",
+            "confidence": 0.893
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "D Join classmates who have a BEFORE picture. Their picture shows the restaurant",
+            "confidence": 0.9554
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "sentence",
+        "content": "five minutes before. Tell them what you think might have happened. Then find out what really",
+        "confidence": 0.9581,
+        "bbox": {
+          "x": 0.143922,
+          "y": 0.903333,
+          "width": 0.656078,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "five minutes before.Tell them what you think might have happened.Then find out what really",
+            "confidence": 0.9023
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "five minutes before. Tell them what you think might have happened. Then find out what really",
+            "confidence": 0.9581
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "happened.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.144706,
+          "y": 0.922121,
+          "width": 0.072941,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "happened.",
+            "confidence": 0.8139
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "happened.",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "heading",
+        "content": "Keep talking!",
+        "confidence": 0.8623,
+        "bbox": {
+          "x": 0.126667,
+          "y": 0.968573,
+          "width": 0.087333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Lesson A",
+      "unit",
+      "A logical explanation?",
+      "Students C and D",
+      "A You have a BEFORE picture of a home office. Describe the scene. What has",
+      "happened? What is happening?",
+      "B Join classmates who have an AFTER picture. Their picture shows the office five",
+      "minutes after your picture. Listen to their ideas about what might have happened. Then tell",
+      "them what really happened.",
+      "A: We think that someone might have...",
+      "B: Or someone could have.",
+      "C: Actually, here's whatreallyhappened..",
+      "C Now you have a picture of a restaurant AFTER something has happened. What do",
+      "you think might have happened? Think of as many explanations as you can.",
+      "GROUPWORK",
+      "D Join classmates who have a BEFORE picture. Their picture shows the restaurant",
+      "five minutes before. Tell them what you think might have happened. Then find out what really",
+      "happened.",
+      "Keep talking!"
+    ],
+    "paragraphs": [],
+    "sentences": [
+      "Lesson A unit A logical explanation",
+      "Students C and D A You have a BEFORE picture of a home office",
+      "Describe the scene",
+      "What has happened",
+      "What is happening",
+      "B Join classmates who have an AFTER picture",
+      "Their picture shows the office five minutes after your picture",
+      "Listen to their ideas about what might have happened",
+      "Then tell them what really happened",
+      "A: We think that someone might have",
+      "B: Or someone could have",
+      "C: Actually, here's whatreallyhappened",
+      "C Now you have a picture of a restaurant AFTER something has happened",
+      "What do you think might have happened",
+      "Think of as many explanations as you can",
+      "GROUPWORK D Join classmates who have a BEFORE picture",
+      "Their picture shows the restaurant five minutes before",
+      "Tell them what you think might have happened",
+      "Then find out what really happened",
+      "Keep talking"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "A: We think that someone might have...",
+            "confidence": 0.95,
+            "bbox": {
+              "x": 0.140784,
+              "y": 0.522727,
+              "width": 0.305882,
+              "height": 0.013333
+            },
+            "sourceElementId": "text_0010"
+          },
+          {
+            "speaker": null,
+            "content": "B: Or someone could have.",
+            "confidence": 0.8677,
+            "bbox": {
+              "x": 0.14,
+              "y": 0.544049,
+              "width": 0.208667,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0011"
+          },
+          {
+            "speaker": null,
+            "content": "C: Actually, here's whatreallyhappened..",
+            "confidence": 0.9369,
+            "bbox": {
+              "x": 0.140667,
+              "y": 0.566718,
+              "width": 0.316667,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0012"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "exercise",
+        "instruction": "You have a BEFORE picture of a home office. Describe the scene. What has",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [],
+    "excludedGarbage": [
+      "142"
+    ]
+  },
+  "learningContent": {
+    "pageType": "lesson",
+    "title": "Lesson A",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "A: We think that someone might have...",
+            "confidence": 0.95
+          },
+          {
+            "speaker": null,
+            "content": "B: Or someone could have.",
+            "confidence": 0.8677
+          },
+          {
+            "speaker": null,
+            "content": "C: Actually, here's whatreallyhappened..",
+            "confidence": 0.9369
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "exercise",
+        "instruction": "You have a BEFORE picture of a home office. Describe the scene. What has",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "2 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content.",
+      "1 garbage string(s) excluded"
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "garbageExcluded": 1
+    },
+    "averageOcrConfidence": 0.9001,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 4 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc4_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

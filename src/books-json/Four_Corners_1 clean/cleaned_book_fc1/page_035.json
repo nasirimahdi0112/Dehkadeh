@@ -1,0 +1,2461 @@
+{
+  "pageNumber": 32,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 35,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 1_Part2.pdf",
+    "pdfLocalPageNumber": 9,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "vorite things",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.186275,
+          "y": 0.063636,
+          "width": 0.312157,
+          "height": 0.036061
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Favorite things",
+            "confidence": 0.8768
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "vorite things",
+            "confidence": 0.94
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "an Reading ©",
+        "confidence": 0.82,
+        "bbox": {
+          "x": 0.049412,
+          "y": 0.118182,
+          "width": 0.202353,
+          "height": 0.030909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "an Reading ©",
+            "confidence": 0.82
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Reading n",
+            "confidence": 0.8324
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "sentence",
+        "content": "A Look at the things in the pictures. What are they?",
+        "confidence": 0.9307,
+        "bbox": {
+          "x": 0.092,
+          "y": 0.157651,
+          "width": 0.360667,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Look at the things in the pictures. What are they?",
+            "confidence": 0.9307
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Look at the things in the pictures. What are they?",
+            "confidence": 0.8955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "paragraph",
+        "content": "B Read Yuna’s blog. Circle the things you think Yuna is interested in: sports / art / fashion / movies",
+        "confidence": 0.933,
+        "bbox": {
+          "x": 0.095686,
+          "y": 0.186364,
+          "width": 0.665098,
+          "height": 0.016364
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Read Yuna’s blog. Circle the things you think Yuna is interested in: sports / art / fashion / movies",
+            "confidence": 0.933
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Read Yuna's blog. Circle the things you think Yuna is interested in: sports / art /fashion /movies",
+            "confidence": 0.9268
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "YUNA'SBLOG:MY FAVORITETHINGS!",
+        "confidence": 0.9127,
+        "bbox": {
+          "x": 0.237333,
+          "y": 0.289541,
+          "width": 0.633333,
+          "height": 0.021123
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "YUNA'SBLOG:MY FAVORITETHINGS!",
+            "confidence": 0.9127
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "YUNA'S BLOG: MY FAVORITE THINGS!",
+            "confidence": 0.852
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "This is myfavoriteremote",
+        "confidence": 0.8905,
+        "bbox": {
+          "x": 0.674,
+          "y": 0.48171,
+          "width": 0.173333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "paragraph",
+        "content": "This is my favorite photo of This T-shirt is my favorite item This is my favorite remote",
+        "confidence": 0.9547,
+        "bbox": {
+          "x": 0.12902,
+          "y": 0.482727,
+          "width": 0.716078,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "This ismy favorite photo of",
+            "confidence": 0.909
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "This is my favorite photo of This T-shirt is my favorite item This is my favorite remote",
+            "confidence": 0.9547
+          },
+          {
+            "engine": "rapidocr",
+            "content": "This T-shirtismyfavoriteitem",
+            "confidence": 0.9292
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "my grandfather. He's from",
+        "confidence": 0.8792,
+        "bbox": {
+          "x": 0.128,
+          "y": 0.498712,
+          "width": 0.174667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "sentence",
+        "content": "my grandfather. He’s from of clothing. It’s from a street control. It’s for my brother.",
+        "confidence": 0.948,
+        "bbox": {
+          "x": 0.129412,
+          "y": 0.5,
+          "width": 0.720784,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "of clothing.It's from a street",
+            "confidence": 0.8735
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "my grandfather. He’s from of clothing. It’s from a street control. It’s for my brother.",
+            "confidence": 0.948
+          },
+          {
+            "engine": "rapidocr",
+            "content": "control.It'sformybrother.",
+            "confidence": 0.9344
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "Kyoto.",
+        "confidence": 0.855,
+        "bbox": {
+          "x": 0.126667,
+          "y": 0.515714,
+          "width": 0.045333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "marketin Mexico.",
+        "confidence": 0.8593,
+        "bbox": {
+          "x": 0.387333,
+          "y": 0.517774,
+          "width": 0.118667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "sentence",
+        "content": "Kyoto. market in Mexico. He talks and talks and talks!",
+        "confidence": 0.957,
+        "bbox": {
+          "x": 0.129412,
+          "y": 0.517879,
+          "width": 0.729804,
+          "height": 0.010909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Hetalks andtalks and talks!",
+            "confidence": 0.8268
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Kyoto. market in Mexico. He talks and talks and talks!",
+            "confidence": 0.957
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "This backpack is my favorite.",
+        "confidence": 0.8888,
+        "bbox": {
+          "x": 0.646667,
+          "y": 0.658423,
+          "width": 0.192,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "Here’s a photo of my favorite This is my favorite painting. This backpack is my favorite.",
+        "confidence": 0.9519,
+        "bbox": {
+          "x": 0.13098,
+          "y": 0.66,
+          "width": 0.706667,
+          "height": 0.014848
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "This is my favorite painting.",
+            "confidence": 0.8925
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Here’s a photo of my favorite This is my favorite painting. This backpack is my favorite.",
+            "confidence": 0.9519
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Here'sa photo of my favorite",
+            "confidence": 0.8943
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "umbrella. It’s my little it’s by Salvador Dali. He’s It’s my friend Marisa’s. It’s from",
+        "confidence": 0.9273,
+        "bbox": {
+          "x": 0.130588,
+          "y": 0.677273,
+          "width": 0.724314,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "umbrella.It'smy little",
+            "confidence": 0.8669
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "umbrella. It’s my little it’s by Salvador Dali. He’s It’s my friend Marisa’s. It’s from",
+            "confidence": 0.9273
+          },
+          {
+            "engine": "rapidocr",
+            "content": "It'smyfriendMarisa's.It'sfrom",
+            "confidence": 0.9302
+          },
+          {
+            "engine": "rapidocr",
+            "content": "It's by Salvador Dali. He's",
+            "confidence": 0.8907
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "San Francisco.",
+        "confidence": 0.8505,
+        "bbox": {
+          "x": 0.647333,
+          "y": 0.693972,
+          "width": 0.097333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "from Spain.",
+        "confidence": 0.8988,
+        "bbox": {
+          "x": 0.384,
+          "y": 0.694487,
+          "width": 0.080667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "sentence",
+        "content": "sister’s. She’s 8 years old. from Spain. San Francisco.",
+        "confidence": 0.9378,
+        "bbox": {
+          "x": 0.130588,
+          "y": 0.695152,
+          "width": 0.612157,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "sister's. She's 8 years old.",
+            "confidence": 0.9064
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "sister’s. She’s 8 years old. from Spain. San Francisco.",
+            "confidence": 0.9378
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "sentence",
+        "content": "C Read the webpage again. Answer the questions.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.096863,
+          "y": 0.742727,
+          "width": 0.34902,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "C Read the webpage again. Answer the questions.",
+            "confidence": 0.894
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "C Read the webpage again. Answer the questions.",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "Yuna'sgrandfatherisfromKyoto",
+        "confidence": 0.9291,
+        "bbox": {
+          "x": 0.407333,
+          "y": 0.759402,
+          "width": 0.252,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Yuna'sgrandfatherisfromKyoto",
+            "confidence": 0.9291
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "lL Who is from Kyoto? Yuna’s grandfather is from Kyoto.",
+            "confidence": 0.809
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "Who is from Kyoto?",
+        "confidence": 0.8901,
+        "bbox": {
+          "x": 0.138667,
+          "y": 0.762494,
+          "width": 0.133333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "Where is Yuna’s T-shirt from?",
+        "confidence": 0.942,
+        "bbox": {
+          "x": 0.142353,
+          "y": 0.784848,
+          "width": 0.189412,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Where is Yuna's T-shirt from?",
+            "confidence": 0.8953
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Where is Yuna’s T-shirt from?",
+            "confidence": 0.942
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "an nm & WwW NY",
+        "confidence": 0.534,
+        "bbox": {
+          "x": 0.117647,
+          "y": 0.785758,
+          "width": 0.012941,
+          "height": 0.091212
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "Who talks a lot? anes",
+        "confidence": 0.84,
+        "bbox": {
+          "x": 0.142745,
+          "y": 0.805758,
+          "width": 0.293333,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Who talks a lot?",
+            "confidence": 0.8722
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Who talks a lot? anes",
+            "confidence": 0.84
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "How old is Yuna’s sister?",
+        "confidence": 0.934,
+        "bbox": {
+          "x": 0.143529,
+          "y": 0.826667,
+          "width": 0.158824,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "How old is Yuna's sister?",
+            "confidence": 0.9029
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "How old is Yuna’s sister?",
+            "confidence": 0.934
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "sentence",
+        "content": "Who is Yuna’s favorite painting by?",
+        "confidence": 0.945,
+        "bbox": {
+          "x": 0.142745,
+          "y": 0.847273,
+          "width": 0.228627,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Who is Yuna's favorite painting by?",
+            "confidence": 0.859
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Who is Yuna’s favorite painting by?",
+            "confidence": 0.945
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "Where is Marisa’s backpack from?",
+        "confidence": 0.936,
+        "bbox": {
+          "x": 0.142745,
+          "y": 0.868182,
+          "width": 0.222745,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Where is Marisa's backpack from?",
+            "confidence": 0.8964
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Where is Marisa’s backpack from?",
+            "confidence": 0.936
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "heading",
+        "content": "PAIRWORK",
+        "confidence": 0.8702,
+        "bbox": {
+          "x": 0.120667,
+          "y": 0.893354,
+          "width": 0.078,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "sentence",
+        "content": "D Think of three favorite things. Tell your partner.",
+        "confidence": 0.9544,
+        "bbox": {
+          "x": 0.098039,
+          "y": 0.894545,
+          "width": 0.430196,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Thinkofthreefavoritethings.Tell yourpartner.",
+            "confidence": 0.9314
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "D Think of three favorite things. Tell your partner.",
+            "confidence": 0.9544
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "sentence",
+        "content": "\"My favorite item of clothing is my blue sweatshirt.”",
+        "confidence": 0.9367,
+        "bbox": {
+          "x": 0.120392,
+          "y": 0.916364,
+          "width": 0.385882,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"My favorite item of clothing is my blue Sweatshirt\"",
+            "confidence": 0.8919
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "\"My favorite item of clothing is my blue sweatshirt.”",
+            "confidence": 0.9367
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "32",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.036471,
+          "y": 0.940909,
+          "width": 0.015294,
+          "height": 0.009091
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "32",
+            "confidence": 0.5331
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "32",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "vorite things",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.186275,
+          "y": 0.063636,
+          "width": 0.312157,
+          "height": 0.036061
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.94
+      },
+      {
+        "word": "This is myfavoriteremote",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.674,
+          "y": 0.48171,
+          "width": 0.173333,
+          "height": 0.014426
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8905
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "YUNA'SBLOG:MY FAVORITETHINGS!",
+            "confidence": 0.9127,
+            "bbox": {
+              "x": 0.237333,
+              "y": 0.289541,
+              "width": 0.633333,
+              "height": 0.021123
+            },
+            "sourceElementId": "text_0005",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "my grandfather. He's from",
+            "confidence": 0.8792,
+            "bbox": {
+              "x": 0.128,
+              "y": 0.498712,
+              "width": 0.174667,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0008",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "my grandfather. He’s from of clothing. It’s from a street control. It’s for my brother.",
+            "confidence": 0.948,
+            "bbox": {
+              "x": 0.129412,
+              "y": 0.5,
+              "width": 0.720784,
+              "height": 0.013333
+            },
+            "sourceElementId": "text_0009",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Who is from Kyoto?",
+            "confidence": 0.8901,
+            "bbox": {
+              "x": 0.138667,
+              "y": 0.762494,
+              "width": 0.133333,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0021",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Where is Yuna’s T-shirt from?",
+            "confidence": 0.942,
+            "bbox": {
+              "x": 0.142353,
+              "y": 0.784848,
+              "width": 0.189412,
+              "height": 0.01
+            },
+            "sourceElementId": "text_0022",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Who talks a lot? anes",
+            "confidence": 0.84,
+            "bbox": {
+              "x": 0.142745,
+              "y": 0.805758,
+              "width": 0.293333,
+              "height": 0.009697
+            },
+            "sourceElementId": "text_0024",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "How old is Yuna’s sister?",
+            "confidence": 0.934,
+            "bbox": {
+              "x": 0.143529,
+              "y": 0.826667,
+              "width": 0.158824,
+              "height": 0.009697
+            },
+            "sourceElementId": "text_0025",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Who is Yuna’s favorite painting by?",
+            "confidence": 0.945,
+            "bbox": {
+              "x": 0.142745,
+              "y": 0.847273,
+              "width": 0.228627,
+              "height": 0.012424
+            },
+            "sourceElementId": "text_0026",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Where is Marisa’s backpack from?",
+            "confidence": 0.936,
+            "bbox": {
+              "x": 0.142745,
+              "y": 0.868182,
+              "width": 0.222745,
+              "height": 0.011818
+            },
+            "sourceElementId": "text_0027",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "exercise",
+        "instruction": "Look at the things in the pictures. What are they?",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0003"
+        ],
+        "confidence": 0.9307
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "selection_exercise",
+        "instruction": "Read Yuna’s blog. Circle the things you think Yuna is interested in: sports / art / fashion / movies",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0004"
+        ],
+        "confidence": 0.933
+      },
+      {
+        "exerciseNumber": "C",
+        "type": "reading_activity",
+        "instruction": "Read the webpage again. Answer the questions.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0019"
+        ],
+        "confidence": 0.95
+      },
+      {
+        "exerciseNumber": "D",
+        "type": "exercise",
+        "instruction": "Think of three favorite things. Tell your partner.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0029"
+        ],
+        "confidence": 0.9544
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "This is myfavoriteremote",
+          "This is my favorite photo of This T-shirt is my favorite item This is my favorite remote",
+          "my grandfather. He's from",
+          "my grandfather. He’s from of clothing. It’s from a street control. It’s for my brother.",
+          "Kyoto.",
+          "marketin Mexico.",
+          "Kyoto. market in Mexico. He talks and talks and talks!"
+        ],
+        "position": {
+          "x": 0.106667,
+          "y": 0.46171,
+          "width": 0.772549,
+          "height": 0.08843000000000006
+        },
+        "textElementIds": [
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "This backpack is my favorite.",
+          "Here’s a photo of my favorite This is my favorite painting. This backpack is my favorite.",
+          "umbrella. It’s my little it’s by Salvador Dali. He’s It’s my friend Marisa’s. It’s from",
+          "San Francisco.",
+          "from Spain.",
+          "sister’s. She’s 8 years old. from Spain. San Francisco.",
+          "C Read the webpage again. Answer the questions.",
+          "Yuna'sgrandfatherisfromKyoto",
+          "Who is from Kyoto?",
+          "Where is Yuna’s T-shirt from?",
+          "an nm & WwW NY",
+          "Who talks a lot? anes",
+          "How old is Yuna’s sister?",
+          "Who is Yuna’s favorite painting by?",
+          "Where is Marisa’s backpack from?"
+        ],
+        "position": {
+          "x": 0.076863,
+          "y": 0.638423,
+          "width": 0.798039,
+          "height": 0.26157700000000006
+        },
+        "textElementIds": [
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "Favorite things\nReading n\nA Look at the things in the pictures. What are they?\nRead Yuna's blog. Circle the things you think Yuna is interested in: sports / art /fashion /movies\nYUNA'SBLOG:MY FAVORITETHINGS!\nThis ismy favorite photo of\nThis is myfavoriteremote\nThis T-shirtismyfavoriteitem\nmy grandfather. He's from\nof clothing.It's from a street\ncontrol.It'sformybrother.\nKyoto.\nHetalks andtalks and talks!\nmarketin Mexico.\nThis backpack is my favorite.\nThis is my favorite painting.\nHere'sa photo of my favorite\numbrella.It'smy little\nIt'smyfriendMarisa's.It'sfrom\nIt's by Salvador Dali. He's\nsister's. She's 8 years old.\nSan Francisco.\nfrom Spain.\nC Read the webpage again. Answer the questions.\nYuna'sgrandfatherisfromKyoto\nWho is from Kyoto?\nWhere is Yuna's T-shirt from?\nWho talks a lot?\nHow old is Yuna's sister?\nWho is Yuna's favorite painting by?\nWhere is Marisa's backpack from?\nPAIRWORK\nThinkofthreefavoritethings.Tell yourpartner.\n\"My favorite item of clothing is my blue Sweatshirt\"\n32\ndehkhodaedu.com",
+      "tesseract_psm3": "vorite things\n\nan Reading ©\nA Look at the things in the pictures. What are they?\n\nB Read Yuna’s blog. Circle the things you think Yuna is interested in: sports / art / fashion / movies\n\nYUNA'S BLOG: MY FAVORITE THINGS!\n\nThis is my favorite photo of This T-shirt is my favorite item This is my favorite remote\nmy grandfather. He’s from of clothing. It’s from a street control. It’s for my brother.\nKyoto. market in Mexico. He talks and talks and talks!\n\n\\\n\nHere’s a photo of my favorite This is my favorite painting. This backpack is my favorite.\numbrella. It’s my little it’s by Salvador Dali. He’s It’s my friend Marisa’s. It’s from\nsister’s. She’s 8 years old. from Spain. San Francisco.\n\nC Read the webpage again. Answer the questions.\nlL Who is from Kyoto? Yuna’s grandfather is from Kyoto.\nWhere is Yuna’s T-shirt from?\nWho talks a lot? anes\nHow old is Yuna’s sister?\n\nWho is Yuna’s favorite painting by?\n\nan nm & WwW NY\n\nWhere is Marisa’s backpack from?\n\nD Think of three favorite things. Tell your partner.\n\"My favorite item of clothing is my blue sweatshirt.”\n\n32\n\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [
+      {
+        "id": "text_0013",
+        "type": "text",
+        "content": "\\",
+        "confidence": 0.5,
+        "bbox": {
+          "x": 0.408235,
+          "y": 0.574545,
+          "width": 0.001176,
+          "height": 0.00303
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "averageConfidence": 0.9011,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "1 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "1 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "reading",
+    "headings": [
+      "vo rite things",
+      "Pair work"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "vo rite things",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.186275,
+          "y": 0.063636,
+          "width": 0.312157,
+          "height": 0.036061
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Favorite things",
+            "confidence": 0.8768
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "vorite things",
+            "confidence": 0.94
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "sentence",
+        "content": "A Look at the things in the pictures. What are they?",
+        "confidence": 0.9307,
+        "bbox": {
+          "x": 0.092,
+          "y": 0.157651,
+          "width": 0.360667,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Look at the things in the pictures. What are they?",
+            "confidence": 0.9307
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Look at the things in the pictures. What are they?",
+            "confidence": 0.8955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "paragraph",
+        "content": "B Read Yuna's blog. Circle the things you think Yuna is interested in: sports / art / fashion / movies",
+        "confidence": 0.933,
+        "bbox": {
+          "x": 0.095686,
+          "y": 0.186364,
+          "width": 0.665098,
+          "height": 0.016364
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Read Yuna’s blog. Circle the things you think Yuna is interested in: sports / art / fashion / movies",
+            "confidence": 0.933
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Read Yuna's blog. Circle the things you think Yuna is interested in: sports / art /fashion /movies",
+            "confidence": 0.9268
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "YUNA'SBLOG: MY Favorite things!",
+        "confidence": 0.9127,
+        "bbox": {
+          "x": 0.237333,
+          "y": 0.289541,
+          "width": 0.633333,
+          "height": 0.021123
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "YUNA'SBLOG:MY FAVORITETHINGS!",
+            "confidence": 0.9127
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "YUNA'S BLOG: MY FAVORITE THINGS!",
+            "confidence": 0.852
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "This is my favorite remote",
+        "confidence": 0.8905,
+        "bbox": {
+          "x": 0.674,
+          "y": 0.48171,
+          "width": 0.173333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "paragraph",
+        "content": "This is my favorite photo of This T-shirt is my favorite item This is my favorite remote",
+        "confidence": 0.9547,
+        "bbox": {
+          "x": 0.12902,
+          "y": 0.482727,
+          "width": 0.716078,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "This ismy favorite photo of",
+            "confidence": 0.909
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "This is my favorite photo of This T-shirt is my favorite item This is my favorite remote",
+            "confidence": 0.9547
+          },
+          {
+            "engine": "rapidocr",
+            "content": "This T-shirtismyfavoriteitem",
+            "confidence": 0.9292
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "my grandfather. He's from",
+        "confidence": 0.8792,
+        "bbox": {
+          "x": 0.128,
+          "y": 0.498712,
+          "width": 0.174667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "sentence",
+        "content": "my grandfather. He's from of clothing. It's from a street control. It's for my brother.",
+        "confidence": 0.948,
+        "bbox": {
+          "x": 0.129412,
+          "y": 0.5,
+          "width": 0.720784,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "of clothing.It's from a street",
+            "confidence": 0.8735
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "my grandfather. He’s from of clothing. It’s from a street control. It’s for my brother.",
+            "confidence": 0.948
+          },
+          {
+            "engine": "rapidocr",
+            "content": "control.It'sformybrother.",
+            "confidence": 0.9344
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "Kyoto.",
+        "confidence": 0.855,
+        "bbox": {
+          "x": 0.126667,
+          "y": 0.515714,
+          "width": 0.045333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "market in Mexico.",
+        "confidence": 0.8593,
+        "bbox": {
+          "x": 0.387333,
+          "y": 0.517774,
+          "width": 0.118667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "sentence",
+        "content": "Kyoto. market in Mexico. He talks and talks and talks!",
+        "confidence": 0.957,
+        "bbox": {
+          "x": 0.129412,
+          "y": 0.517879,
+          "width": 0.729804,
+          "height": 0.010909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Hetalks andtalks and talks!",
+            "confidence": 0.8268
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Kyoto. market in Mexico. He talks and talks and talks!",
+            "confidence": 0.957
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "This backpack is my favorite.",
+        "confidence": 0.8888,
+        "bbox": {
+          "x": 0.646667,
+          "y": 0.658423,
+          "width": 0.192,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "Here's a photo of my favorite This is my favorite painting. This backpack is my favorite.",
+        "confidence": 0.9519,
+        "bbox": {
+          "x": 0.13098,
+          "y": 0.66,
+          "width": 0.706667,
+          "height": 0.014848
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "This is my favorite painting.",
+            "confidence": 0.8925
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Here’s a photo of my favorite This is my favorite painting. This backpack is my favorite.",
+            "confidence": 0.9519
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Here'sa photo of my favorite",
+            "confidence": 0.8943
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "umbrella. It's my little it's by Salvador Dali. He's It's my friend Marisa's. It's from",
+        "confidence": 0.9273,
+        "bbox": {
+          "x": 0.130588,
+          "y": 0.677273,
+          "width": 0.724314,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "umbrella.It'smy little",
+            "confidence": 0.8669
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "umbrella. It’s my little it’s by Salvador Dali. He’s It’s my friend Marisa’s. It’s from",
+            "confidence": 0.9273
+          },
+          {
+            "engine": "rapidocr",
+            "content": "It'smyfriendMarisa's.It'sfrom",
+            "confidence": 0.9302
+          },
+          {
+            "engine": "rapidocr",
+            "content": "It's by Salvador Dali. He's",
+            "confidence": 0.8907
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "San Francisco.",
+        "confidence": 0.8505,
+        "bbox": {
+          "x": 0.647333,
+          "y": 0.693972,
+          "width": 0.097333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "from Spain.",
+        "confidence": 0.8988,
+        "bbox": {
+          "x": 0.384,
+          "y": 0.694487,
+          "width": 0.080667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "sentence",
+        "content": "sister's. She's 8 years old. from Spain. San Francisco.",
+        "confidence": 0.9378,
+        "bbox": {
+          "x": 0.130588,
+          "y": 0.695152,
+          "width": 0.612157,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "sister's. She's 8 years old.",
+            "confidence": 0.9064
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "sister’s. She’s 8 years old. from Spain. San Francisco.",
+            "confidence": 0.9378
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "sentence",
+        "content": "C Read the webpage again. Answer the questions.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.096863,
+          "y": 0.742727,
+          "width": 0.34902,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "C Read the webpage again. Answer the questions.",
+            "confidence": 0.894
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "C Read the webpage again. Answer the questions.",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "Yuna's grandfather is from Kyoto",
+        "confidence": 0.9291,
+        "bbox": {
+          "x": 0.407333,
+          "y": 0.759402,
+          "width": 0.252,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Yuna'sgrandfatherisfromKyoto",
+            "confidence": 0.9291
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "lL Who is from Kyoto? Yuna’s grandfather is from Kyoto.",
+            "confidence": 0.809
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "Who is from Kyoto?",
+        "confidence": 0.8901,
+        "bbox": {
+          "x": 0.138667,
+          "y": 0.762494,
+          "width": 0.133333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "Where is Yuna's T-shirt from?",
+        "confidence": 0.942,
+        "bbox": {
+          "x": 0.142353,
+          "y": 0.784848,
+          "width": 0.189412,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Where is Yuna's T-shirt from?",
+            "confidence": 0.8953
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Where is Yuna’s T-shirt from?",
+            "confidence": 0.942
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "Who talks a lot? an es",
+        "confidence": 0.84,
+        "bbox": {
+          "x": 0.142745,
+          "y": 0.805758,
+          "width": 0.293333,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Who talks a lot?",
+            "confidence": 0.8722
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Who talks a lot? anes",
+            "confidence": 0.84
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "How old is Yuna's sister?",
+        "confidence": 0.934,
+        "bbox": {
+          "x": 0.143529,
+          "y": 0.826667,
+          "width": 0.158824,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "How old is Yuna's sister?",
+            "confidence": 0.9029
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "How old is Yuna’s sister?",
+            "confidence": 0.934
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "sentence",
+        "content": "Who is Yuna's favorite painting by?",
+        "confidence": 0.945,
+        "bbox": {
+          "x": 0.142745,
+          "y": 0.847273,
+          "width": 0.228627,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Who is Yuna's favorite painting by?",
+            "confidence": 0.859
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Who is Yuna’s favorite painting by?",
+            "confidence": 0.945
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "Where is Marisa's backpack from?",
+        "confidence": 0.936,
+        "bbox": {
+          "x": 0.142745,
+          "y": 0.868182,
+          "width": 0.222745,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Where is Marisa's backpack from?",
+            "confidence": 0.8964
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Where is Marisa’s backpack from?",
+            "confidence": 0.936
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "heading",
+        "content": "Pair work",
+        "confidence": 0.8702,
+        "bbox": {
+          "x": 0.120667,
+          "y": 0.893354,
+          "width": 0.078,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "sentence",
+        "content": "D Think of three favorite things. Tell your partner.",
+        "confidence": 0.9544,
+        "bbox": {
+          "x": 0.098039,
+          "y": 0.894545,
+          "width": 0.430196,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Thinkofthreefavoritethings.Tell yourpartner.",
+            "confidence": 0.9314
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "D Think of three favorite things. Tell your partner.",
+            "confidence": 0.9544
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "sentence",
+        "content": "My favorite item of clothing is my blue sweatshirt.",
+        "confidence": 0.9367,
+        "bbox": {
+          "x": 0.120392,
+          "y": 0.916364,
+          "width": 0.385882,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"My favorite item of clothing is my blue Sweatshirt\"",
+            "confidence": 0.8919
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "\"My favorite item of clothing is my blue sweatshirt.”",
+            "confidence": 0.9367
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "audio_track",
+        "content": "32",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.036471,
+          "y": 0.940909,
+          "width": 0.015294,
+          "height": 0.009091
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "32",
+            "confidence": 0.5331
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "32",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "vo rite things",
+      "A Look at the things in the pictures. What are they?",
+      "B Read Yuna's blog. Circle the things you think Yuna is interested in: sports / art / fashion / movies",
+      "YUNA'SBLOG: MY Favorite things!",
+      "This is my favorite remote",
+      "This is my favorite photo of This T-shirt is my favorite item This is my favorite remote",
+      "my grandfather. He's from",
+      "my grandfather. He's from of clothing. It's from a street control. It's for my brother.",
+      "Kyoto.",
+      "market in Mexico.",
+      "Kyoto. market in Mexico. He talks and talks and talks!",
+      "This backpack is my favorite.",
+      "Here's a photo of my favorite This is my favorite painting. This backpack is my favorite.",
+      "umbrella. It's my little it's by Salvador Dali. He's It's my friend Marisa's. It's from",
+      "San Francisco.",
+      "from Spain.",
+      "sister's. She's 8 years old. from Spain. San Francisco.",
+      "C Read the webpage again. Answer the questions.",
+      "Yuna's grandfather is from Kyoto",
+      "Who is from Kyoto?",
+      "Where is Yuna's T-shirt from?",
+      "Who talks a lot? an es",
+      "How old is Yuna's sister?",
+      "Who is Yuna's favorite painting by?",
+      "Where is Marisa's backpack from?",
+      "Pair work",
+      "D Think of three favorite things. Tell your partner.",
+      "My favorite item of clothing is my blue sweatshirt."
+    ],
+    "paragraphs": [
+      "B Read Yuna's blog. Circle the things you think Yuna is interested in: sports / art / fashion / movies",
+      "This is my favorite photo of This T-shirt is my favorite item This is my favorite remote"
+    ],
+    "sentences": [
+      "vo rite things A Look at the things in the pictures",
+      "What are they",
+      "B Read Yuna's blog",
+      "Circle the things you think Yuna is interested in: sports / art / fashion / movies YUNA'SBLOG: MY Favorite things",
+      "This is my favorite remote This is my favorite photo of This T-shirt is my favorite item This is my favorite remote my grandfather",
+      "He's from my grandfather",
+      "He's from of clothing",
+      "It's from a street control",
+      "It's for my brother",
+      "Kyoto",
+      "market in Mexico",
+      "Kyoto",
+      "market in Mexico",
+      "He talks and talks and talks",
+      "This backpack is my favorite",
+      "Here's a photo of my favorite This is my favorite painting",
+      "This backpack is my favorite",
+      "umbrella",
+      "It's my little it's by Salvador Dali",
+      "He's It's my friend Marisa's",
+      "It's from San Francisco",
+      "from Spain",
+      "sister's",
+      "She's 8 years old",
+      "from Spain",
+      "San Francisco",
+      "C Read the webpage again",
+      "Answer the questions",
+      "Yuna's grandfather is from Kyoto Who is from Kyoto",
+      "Where is Yuna's T-shirt from",
+      "Who talks a lot",
+      "an es How old is Yuna's sister",
+      "Who is Yuna's favorite painting by",
+      "Where is Marisa's backpack from",
+      "Pair work D Think of three favorite things",
+      "Tell your partner",
+      "My favorite item of clothing is my blue sweatshirt"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "YUNA'SBLOG: MY Favorite things!",
+            "confidence": 0.9127,
+            "bbox": {
+              "x": 0.237333,
+              "y": 0.289541,
+              "width": 0.633333,
+              "height": 0.021123
+            },
+            "sourceElementId": "text_0005"
+          },
+          {
+            "speaker": null,
+            "content": "my grandfather.",
+            "confidence": 0.8792,
+            "bbox": {
+              "x": 0.128,
+              "y": 0.498712,
+              "width": 0.174667,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0008"
+          },
+          {
+            "speaker": null,
+            "content": "He's from",
+            "confidence": 0.8792,
+            "bbox": {
+              "x": 0.128,
+              "y": 0.498712,
+              "width": 0.174667,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0008"
+          },
+          {
+            "speaker": null,
+            "content": "my grandfather.",
+            "confidence": 0.948,
+            "bbox": {
+              "x": 0.129412,
+              "y": 0.5,
+              "width": 0.720784,
+              "height": 0.013333
+            },
+            "sourceElementId": "text_0009"
+          },
+          {
+            "speaker": null,
+            "content": "He's from of clothing.",
+            "confidence": 0.948,
+            "bbox": {
+              "x": 0.129412,
+              "y": 0.5,
+              "width": 0.720784,
+              "height": 0.013333
+            },
+            "sourceElementId": "text_0009"
+          },
+          {
+            "speaker": null,
+            "content": "It's from a street control.",
+            "confidence": 0.948,
+            "bbox": {
+              "x": 0.129412,
+              "y": 0.5,
+              "width": 0.720784,
+              "height": 0.013333
+            },
+            "sourceElementId": "text_0009"
+          },
+          {
+            "speaker": null,
+            "content": "It's for my brother.",
+            "confidence": 0.948,
+            "bbox": {
+              "x": 0.129412,
+              "y": 0.5,
+              "width": 0.720784,
+              "height": 0.013333
+            },
+            "sourceElementId": "text_0009"
+          },
+          {
+            "speaker": null,
+            "content": "Who is from Kyoto?",
+            "confidence": 0.8901,
+            "bbox": {
+              "x": 0.138667,
+              "y": 0.762494,
+              "width": 0.133333,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0021"
+          },
+          {
+            "speaker": null,
+            "content": "Where is Yuna's T-shirt from?",
+            "confidence": 0.942,
+            "bbox": {
+              "x": 0.142353,
+              "y": 0.784848,
+              "width": 0.189412,
+              "height": 0.01
+            },
+            "sourceElementId": "text_0022"
+          },
+          {
+            "speaker": null,
+            "content": "Who talks a lot? an es",
+            "confidence": 0.84,
+            "bbox": {
+              "x": 0.142745,
+              "y": 0.805758,
+              "width": 0.293333,
+              "height": 0.009697
+            },
+            "sourceElementId": "text_0024"
+          },
+          {
+            "speaker": null,
+            "content": "How old is Yuna's sister?",
+            "confidence": 0.934,
+            "bbox": {
+              "x": 0.143529,
+              "y": 0.826667,
+              "width": 0.158824,
+              "height": 0.009697
+            },
+            "sourceElementId": "text_0025"
+          },
+          {
+            "speaker": null,
+            "content": "Who is Yuna's favorite painting by?",
+            "confidence": 0.945,
+            "bbox": {
+              "x": 0.142745,
+              "y": 0.847273,
+              "width": 0.228627,
+              "height": 0.012424
+            },
+            "sourceElementId": "text_0026"
+          },
+          {
+            "speaker": null,
+            "content": "Where is Marisa's backpack from?",
+            "confidence": 0.936,
+            "bbox": {
+              "x": 0.142745,
+              "y": 0.868182,
+              "width": 0.222745,
+              "height": 0.011818
+            },
+            "sourceElementId": "text_0027"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "exercise",
+        "instruction": "Look at the things in the pictures. What are they?",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "circling",
+        "instruction": "Read Yuna's blog. Circle the things you think Yuna is interested in: sports / art / fashion / movies",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "C",
+        "type": "reading",
+        "instruction": "Read the webpage again. Answer the questions.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "D",
+        "type": "exercise",
+        "instruction": "Think of three favorite things. Tell your partner.",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "This is my favorite remote",
+          "This is my favorite photo of This T-shirt is my favorite item This is my favorite remote",
+          "my grandfather. He's from",
+          "my grandfather. He's from of clothing. It's from a street control. It's for my brother.",
+          "Kyoto.",
+          "market in Mexico.",
+          "Kyoto. market in Mexico. He talks and talks and talks!"
+        ],
+        "position": {
+          "x": 0.106667,
+          "y": 0.46171,
+          "width": 0.772549,
+          "height": 0.08843000000000006
+        },
+        "textElementIds": [
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "This backpack is my favorite.",
+          "Here's a photo of my favorite This is my favorite painting. This backpack is my favorite.",
+          "umbrella. It's my little it's by Salvador Dali. He's It's my friend Marisa's. It's from",
+          "San Francisco.",
+          "from Spain.",
+          "sister's. She's 8 years old. from Spain. San Francisco.",
+          "C Read the webpage again. Answer the questions.",
+          "Yuna's grandfather is from Kyoto",
+          "Who is from Kyoto?",
+          "Where is Yuna's T-shirt from?",
+          "an nm & Ww W NY",
+          "Who talks a lot? an es",
+          "How old is Yuna's sister?",
+          "Who is Yuna's favorite painting by?",
+          "Where is Marisa's backpack from?"
+        ],
+        "position": {
+          "x": 0.076863,
+          "y": 0.638423,
+          "width": 0.798039,
+          "height": 0.26157700000000006
+        },
+        "textElementIds": [
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027"
+        ]
+      }
+    ],
+    "excludedGarbage": [
+      "an Reading ©",
+      "an nm & WwW NY"
+    ]
+  },
+  "learningContent": {
+    "pageType": "reading",
+    "title": "vo rite things",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "YUNA'SBLOG: MY Favorite things!",
+            "confidence": 0.9127
+          },
+          {
+            "speaker": null,
+            "content": "my grandfather.",
+            "confidence": 0.8792
+          },
+          {
+            "speaker": null,
+            "content": "He's from",
+            "confidence": 0.8792
+          },
+          {
+            "speaker": null,
+            "content": "my grandfather.",
+            "confidence": 0.948
+          },
+          {
+            "speaker": null,
+            "content": "He's from of clothing.",
+            "confidence": 0.948
+          },
+          {
+            "speaker": null,
+            "content": "It's from a street control.",
+            "confidence": 0.948
+          },
+          {
+            "speaker": null,
+            "content": "It's for my brother.",
+            "confidence": 0.948
+          },
+          {
+            "speaker": null,
+            "content": "Who is from Kyoto?",
+            "confidence": 0.8901
+          },
+          {
+            "speaker": null,
+            "content": "Where is Yuna's T-shirt from?",
+            "confidence": 0.942
+          },
+          {
+            "speaker": null,
+            "content": "Who talks a lot? an es",
+            "confidence": 0.84
+          },
+          {
+            "speaker": null,
+            "content": "How old is Yuna's sister?",
+            "confidence": 0.934
+          },
+          {
+            "speaker": null,
+            "content": "Who is Yuna's favorite painting by?",
+            "confidence": 0.945
+          },
+          {
+            "speaker": null,
+            "content": "Where is Marisa's backpack from?",
+            "confidence": 0.936
+          }
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "title": "vo rite things",
+        "paragraphs": [
+          "B Read Yuna's blog. Circle the things you think Yuna is interested in: sports / art / fashion / movies",
+          "This is my favorite photo of This T-shirt is my favorite item This is my favorite remote"
+        ],
+        "sentences": [
+          "vo rite things A Look at the things in the pictures",
+          "What are they",
+          "B Read Yuna's blog",
+          "Circle the things you think Yuna is interested in: sports / art / fashion / movies YUNA'SBLOG: MY Favorite things",
+          "This is my favorite remote This is my favorite photo of This T-shirt is my favorite item This is my favorite remote my grandfather",
+          "He's from my grandfather",
+          "He's from of clothing",
+          "It's from a street control",
+          "It's for my brother",
+          "Kyoto",
+          "market in Mexico",
+          "Kyoto",
+          "market in Mexico",
+          "He talks and talks and talks",
+          "This backpack is my favorite",
+          "Here's a photo of my favorite This is my favorite painting",
+          "This backpack is my favorite",
+          "umbrella",
+          "It's my little it's by Salvador Dali",
+          "He's It's my friend Marisa's",
+          "It's from San Francisco",
+          "from Spain",
+          "sister's",
+          "She's 8 years old",
+          "from Spain",
+          "San Francisco",
+          "C Read the webpage again",
+          "Answer the questions",
+          "Yuna's grandfather is from Kyoto Who is from Kyoto",
+          "Where is Yuna's T-shirt from",
+          "Who talks a lot",
+          "an es How old is Yuna's sister",
+          "Who is Yuna's favorite painting by",
+          "Where is Marisa's backpack from",
+          "Pair work D Think of three favorite things",
+          "Tell your partner",
+          "My favorite item of clothing is my blue sweatshirt"
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "exercise",
+        "instruction": "Look at the things in the pictures. What are they?",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "circling",
+        "instruction": "Read Yuna's blog. Circle the things you think Yuna is interested in: sports / art / fashion / movies",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "C",
+        "type": "reading",
+        "instruction": "Read the webpage again. Answer the questions.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "D",
+        "type": "exercise",
+        "instruction": "Think of three favorite things. Tell your partner.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "1 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "1 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content.",
+      "2 garbage string(s) excluded"
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "garbageExcluded": 2,
+      "dialoguesSplit": 6
+    },
+    "averageOcrConfidence": 0.9011,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 1 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc1_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

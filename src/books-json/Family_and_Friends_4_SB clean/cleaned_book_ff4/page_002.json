@@ -1,0 +1,426 @@
+{
+  "pageNumber": 2,
+  "pageNumberDetected": false,
+  "pageNumberDetectionMethod": "fallback to PDF page number; printed book number not confidently detected",
+  "pdfPageNumber": 2,
+  "source": {
+    "pdfFile": "Family and Friends 4 SB_Part1.pdf",
+    "pdfLocalPageNumber": 2,
+    "pageSizePoints": {
+      "width": 591.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "American",
+        "confidence": 0.8346,
+        "bbox": {
+          "x": 0.296,
+          "y": 0.101543,
+          "width": 0.148667,
+          "height": 0.032354
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "American",
+            "confidence": 0.8346
+          },
+          {
+            "engine": "rapidocr",
+            "content": "amily",
+            "confidence": 0.6947
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "label",
+        "content": "Friends",
+        "confidence": 0.8071,
+        "bbox": {
+          "x": 0.136667,
+          "y": 0.237432,
+          "width": 0.562,
+          "height": 0.152315
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "and",
+            "confidence": 0.7345
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Friends",
+            "confidence": 0.8071
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "label",
+        "content": "StudentBook",
+        "confidence": 0.8344,
+        "bbox": {
+          "x": 0.568667,
+          "y": 0.361374,
+          "width": 0.270667,
+          "height": 0.027377
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "Naomi Simmons",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.385708,
+          "y": 0.856667,
+          "width": 0.215997,
+          "height": 0.017273
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "NaomiSimmons",
+            "confidence": 0.9103
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Naomi Simmons",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "OXFORD",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.421031,
+          "y": 0.924545,
+          "width": 0.146163,
+          "height": 0.018182
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "OXFORD",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "OXFORD",
+            "confidence": 0.8
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "UNIVERSITY PRESS",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.423467,
+          "y": 0.948788,
+          "width": 0.141291,
+          "height": 0.007879
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "UNIVERSITY PRESS",
+            "confidence": 0.864
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "UNIVERSITY PRESS",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [],
+    "ocrExercises": [],
+    "ocrTables": [],
+    "ocrImages": [],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "American\namily\nand\nFriends\nStudentBook\nNaomiSimmons\nOXFORD\nUNIVERSITY PRESS",
+      "tesseract_psm3": "Naomi Simmons\n\nOXFORD\n\nUNIVERSITY PRESS\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8902,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "Printed book page number was not confidently detected; pageNumber uses the PDF-page fallback and pageNumberDetected is false."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "front_matter",
+    "headings": [
+      "American"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "American",
+        "confidence": 0.8346,
+        "bbox": {
+          "x": 0.296,
+          "y": 0.101543,
+          "width": 0.148667,
+          "height": 0.032354
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "American",
+            "confidence": 0.8346
+          },
+          {
+            "engine": "rapidocr",
+            "content": "amily",
+            "confidence": 0.6947
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "label",
+        "content": "Friends",
+        "confidence": 0.8071,
+        "bbox": {
+          "x": 0.136667,
+          "y": 0.237432,
+          "width": 0.562,
+          "height": 0.152315
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "and",
+            "confidence": 0.7345
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Friends",
+            "confidence": 0.8071
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "label",
+        "content": "Student Book",
+        "confidence": 0.8344,
+        "bbox": {
+          "x": 0.568667,
+          "y": 0.361374,
+          "width": 0.270667,
+          "height": 0.027377
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "Naomi Simmons",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.385708,
+          "y": 0.856667,
+          "width": 0.215997,
+          "height": 0.017273
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "NaomiSimmons",
+            "confidence": 0.9103
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Naomi Simmons",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "OXFORD",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.421031,
+          "y": 0.924545,
+          "width": 0.146163,
+          "height": 0.018182
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "OXFORD",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "OXFORD",
+            "confidence": 0.8
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "UNIVERSITY PRESS",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.423467,
+          "y": 0.948788,
+          "width": 0.141291,
+          "height": 0.007879
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "UNIVERSITY PRESS",
+            "confidence": 0.864
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "UNIVERSITY PRESS",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "American",
+      "Friends",
+      "Student Book",
+      "Naomi Simmons",
+      "OXFORD",
+      "UNIVERSITY PRESS"
+    ],
+    "paragraphs": [],
+    "sentences": [
+      "American Friends Student Book Naomi Simmons OXFORD UNIVERSITY PRESS"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [],
+    "exercises": [],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "front_matter",
+    "title": "American",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [],
+    "reading": [],
+    "exercises": [],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "Printed book page number was not confidently detected; pageNumber uses the PDF-page fallback and pageNumberDetected is false."
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {},
+    "averageOcrConfidence": 0.8902,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Family and Friends 4 Student Book (American)",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_ff4_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

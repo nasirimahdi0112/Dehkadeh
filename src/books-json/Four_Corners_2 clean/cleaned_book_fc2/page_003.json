@@ -1,0 +1,3005 @@
+{
+  "pageNumber": 3,
+  "pageNumberDetected": false,
+  "pageNumberDetectionMethod": "fallback to PDF page number; printed book number not confidently detected",
+  "pdfPageNumber": 3,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 2_Part1.pdf",
+    "pdfLocalPageNumber": 3,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "CAMBRIDGE",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.127059,
+          "y": 0.079091,
+          "width": 0.143137,
+          "height": 0.014848
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "CAMBRIDGE",
+            "confidence": 0.95
+          },
+          {
+            "engine": "rapidocr",
+            "content": "CAMBRIDGE",
+            "confidence": 0.8947
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "UNIVERSITY PRESS",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.128235,
+          "y": 0.096667,
+          "width": 0.140784,
+          "height": 0.007879
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "UNIVERSITYPRESS",
+            "confidence": 0.9155
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "UNIVERSITY PRESS",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "University Printing House, Cambridge CB2 8BS, United Kingdom",
+        "confidence": 0.9475,
+        "bbox": {
+          "x": 0.127451,
+          "y": 0.124848,
+          "width": 0.433725,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "University Printing House, Cambridge CB2 8BS, United Kingdom",
+            "confidence": 0.916
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "University Printing House, Cambridge CB2 8BS, United Kingdom",
+            "confidence": 0.9475
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "One Liberty Plaza, 20th Floor, New York, NY 10006, USA",
+        "confidence": 0.956,
+        "bbox": {
+          "x": 0.127451,
+          "y": 0.147273,
+          "width": 0.383137,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "One Liberty Plaza, 20th Floor, New York, NY 10006, USA",
+            "confidence": 0.908
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "One Liberty Plaza, 20th Floor, New York, NY 10006, USA",
+            "confidence": 0.956
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "paragraph",
+        "content": "477 Williamstown Road, Port Melbourne, VIC 3207, Australia",
+        "confidence": 0.9525,
+        "bbox": {
+          "x": 0.127059,
+          "y": 0.169697,
+          "width": 0.411765,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "477Williamstown Road, Port Melbourne,VIC 3207,Australia",
+            "confidence": 0.8848
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "477 Williamstown Road, Port Melbourne, VIC 3207, Australia",
+            "confidence": 0.9525
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "paragraph",
+        "content": "314-321, 3rd Floor, Plot 3, Splendor Forum, Jasola District Centre, New Delhi — 110025, India",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.127843,
+          "y": 0.191818,
+          "width": 0.618039,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "314-321, 3rd Floor, Plot 3, Splendor Forum, Jasola District Centre, New Delhi -- 110025, India",
+            "confidence": 0.9056
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "314-321, 3rd Floor, Plot 3, Splendor Forum, Jasola District Centre, New Delhi — 110025, India",
+            "confidence": 0.94
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "79Anson Road,#06-04/06, Singapore079906",
+        "confidence": 0.9033,
+        "bbox": {
+          "x": 0.126,
+          "y": 0.213292,
+          "width": 0.307333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "79Anson Road,#06-04/06, Singapore079906",
+            "confidence": 0.9033
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "79 Anson Road, #06-04/06, Singapore 079906",
+            "confidence": 0.87
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "sentence",
+        "content": "Cambridge University Press is part of the University of Cambridge.",
+        "confidence": 0.958,
+        "bbox": {
+          "x": 0.127843,
+          "y": 0.244242,
+          "width": 0.439216,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Cambridge University Press is part of the University of Cambridge.",
+            "confidence": 0.9242
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Cambridge University Press is part of the University of Cambridge.",
+            "confidence": 0.958
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "paragraph",
+        "content": "It furthers the University’s mission by disseminating knowledge in the pursuit of education,",
+        "confidence": 0.9592,
+        "bbox": {
+          "x": 0.128235,
+          "y": 0.266364,
+          "width": 0.594902,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "It furthers the University's mission by disseminating knowledge in the pursuit of education,",
+            "confidence": 0.9167
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "It furthers the University’s mission by disseminating knowledge in the pursuit of education,",
+            "confidence": 0.9592
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "sentence",
+        "content": "learning and research at the highest international levels of excellence.",
+        "confidence": 0.961,
+        "bbox": {
+          "x": 0.128627,
+          "y": 0.281818,
+          "width": 0.451373,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "learning and research at the highest international levels of excellence.",
+            "confidence": 0.9215
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "learning and research at the highest international levels of excellence.",
+            "confidence": 0.961
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "www.cambridge.org",
+        "confidence": 0.8912,
+        "bbox": {
+          "x": 0.125333,
+          "y": 0.301906,
+          "width": 0.136,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "www.cambridge.org",
+            "confidence": 0.8912
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "www.cambridge.org",
+            "confidence": 0.9
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "Information on this title: www.cambridge.org/fourcorners",
+        "confidence": 0.9518,
+        "bbox": {
+          "x": 0.125333,
+          "y": 0.316847,
+          "width": 0.378667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Information on this title: www.cambridge.org/fourcorners",
+            "confidence": 0.9518
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Information on this title: www.cambridge.org/fourcorners",
+            "confidence": 0.94
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "paragraph",
+        "content": "© Cambridge University Press 2012, 2019",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.128235,
+          "y": 0.341515,
+          "width": 0.276078,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Cambridge University Press2012,2019",
+            "confidence": 0.8921
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "© Cambridge University Press 2012, 2019",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "This publication is in copyright. Subject to statutory exception",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.128235,
+          "y": 0.363939,
+          "width": 0.40549,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "This publication is in copyright. Subject to statutory exception",
+            "confidence": 0.9253
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "This publication is in copyright. Subject to statutory exception",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "paragraph",
+        "content": "and to the provisions of relevant collective licensing agreements,",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.128627,
+          "y": 0.379091,
+          "width": 0.422353,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "and to the provisions of relevant collective licensing agreements,",
+            "confidence": 0.9243
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "and to the provisions of relevant collective licensing agreements,",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "paragraph",
+        "content": "no reproduction of any part may take place without the written",
+        "confidence": 0.9609,
+        "bbox": {
+          "x": 0.128627,
+          "y": 0.393636,
+          "width": 0.406667,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "no reproduction of any part may take place without the written",
+            "confidence": 0.9306
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "no reproduction of any part may take place without the written",
+            "confidence": 0.9609
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "permission of Cambridge University Press.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.128235,
+          "y": 0.408788,
+          "width": 0.279608,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "permission of Cambridge University Press.",
+            "confidence": 0.92
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "permission of Cambridge University Press.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "First published 2012",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.128627,
+          "y": 0.431212,
+          "width": 0.132549,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "First published 2012",
+            "confidence": 0.9022
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "First published 2012",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "Second edition 2019",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.128627,
+          "y": 0.446061,
+          "width": 0.132549,
+          "height": 0.009091
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Second edition 2019",
+            "confidence": 0.8444
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Second edition 2019",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "paragraph",
+        "content": "20 19 18 17 16 15 14 13 12 11 10987654321",
+        "confidence": 0.9282,
+        "bbox": {
+          "x": 0.12902,
+          "y": 0.468182,
+          "width": 0.403529,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2019181716151413121110987654321",
+            "confidence": 0.9117
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "20 19 18 17 16 15 14 13 12 11 10987654321",
+            "confidence": 0.9282
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "paragraph",
+        "content": "Printed in Dubai by Oriental Press",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.129412,
+          "y": 0.490909,
+          "width": 0.221961,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Printed in Dubai by Oriental Press",
+            "confidence": 0.8632
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Printed in Dubai by Oriental Press",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "paragraph",
+        "content": "A catalogue record for this publication is available from the British Library",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.128627,
+          "y": 0.51303,
+          "width": 0.493333,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A catalogue record for this publication is available from the British Library",
+            "confidence": 0.9174
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A catalogue record for this publication is available from the British Library",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "ISBN978-1-108-56021-4",
+        "confidence": 0.8136,
+        "bbox": {
+          "x": 0.128667,
+          "y": 0.535291,
+          "width": 0.175333,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "paragraph",
+        "content": "ISBN 978-1-108-56021-4 Student’s Book with Online Self-Study 2",
+        "confidence": 0.9375,
+        "bbox": {
+          "x": 0.129804,
+          "y": 0.535455,
+          "width": 0.454902,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Student'sBook withOnline Self-Study2",
+            "confidence": 0.9031
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ISBN 978-1-108-56021-4 Student’s Book with Online Self-Study 2",
+            "confidence": 0.9375
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "ISBN 978-1-108-57070-1",
+        "confidence": 0.9015,
+        "bbox": {
+          "x": 0.127333,
+          "y": 0.549717,
+          "width": 0.177333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "paragraph",
+        "content": "ISBN 978-1-108-57070-1 Student’s Book with Online Self-Study 2A",
+        "confidence": 0.9125,
+        "bbox": {
+          "x": 0.130196,
+          "y": 0.550303,
+          "width": 0.466667,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Student'sBook withOnline Self-Study2A",
+            "confidence": 0.9047
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ISBN 978-1-108-57070-1 Student’s Book with Online Self-Study 2A",
+            "confidence": 0.9125
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "ISBN 978-1-108-62772-6",
+        "confidence": 0.8763,
+        "bbox": {
+          "x": 0.127333,
+          "y": 0.564657,
+          "width": 0.176667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "paragraph",
+        "content": "ISBN 978-1-108-62772-6 Student’s Book with Online Self-Study 2B",
+        "confidence": 0.9363,
+        "bbox": {
+          "x": 0.129412,
+          "y": 0.565152,
+          "width": 0.465882,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Student'sBook withOnline Self-Study2B",
+            "confidence": 0.9202
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ISBN 978-1-108-62772-6 Student’s Book with Online Self-Study 2B",
+            "confidence": 0.9363
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "ISBN 978-1-108-62849-5",
+        "confidence": 0.8376,
+        "bbox": {
+          "x": 0.127333,
+          "y": 0.579598,
+          "width": 0.176,
+          "height": 0.011334
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "paragraph",
+        "content": "ISBN 978-1-108-62849-5 Student’s Book with Online Self-Study and Online Workbook 2",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.129412,
+          "y": 0.58,
+          "width": 0.604706,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Student's Book with Online Self-Study and Online Workbook 2",
+            "confidence": 0.9301
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ISBN 978-1-108-62849-5 Student’s Book with Online Self-Study and Online Workbook 2",
+            "confidence": 0.94
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "ISBN 978-1-108-57586-7",
+        "confidence": 0.8905,
+        "bbox": {
+          "x": 0.128,
+          "y": 0.594024,
+          "width": 0.176,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "paragraph",
+        "content": "ISBN 978-1-108-57586-7 Student’s Book with Online Self-Study and Online Workbook 2A",
+        "confidence": 0.9345,
+        "bbox": {
+          "x": 0.129804,
+          "y": 0.594545,
+          "width": 0.616078,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Student's Book with Online Self-Study and Online Workbook 2A",
+            "confidence": 0.8941
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ISBN 978-1-108-57586-7 Student’s Book with Online Self-Study and Online Workbook 2A",
+            "confidence": 0.9345
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "ISBN 978-1-108-62779-5",
+        "confidence": 0.8785,
+        "bbox": {
+          "x": 0.128,
+          "y": 0.608449,
+          "width": 0.176,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "paragraph",
+        "content": "ISBN 978-1-108-62779-5 Student’s Book with Online Self-Study and Online Workbook 2B",
+        "confidence": 0.9409,
+        "bbox": {
+          "x": 0.129804,
+          "y": 0.609697,
+          "width": 0.61451,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Student's Book with Online Self-Study and Online Workbook 2B",
+            "confidence": 0.8984
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ISBN 978-1-108-62779-5 Student’s Book with Online Self-Study and Online Workbook 2B",
+            "confidence": 0.9409
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "Workbook 2",
+        "confidence": 0.7557,
+        "bbox": {
+          "x": 0.318,
+          "y": 0.623905,
+          "width": 0.082667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "ISBN 978-1-108-45958-7 Workbook 2",
+        "confidence": 0.905,
+        "bbox": {
+          "x": 0.130196,
+          "y": 0.625152,
+          "width": 0.268235,
+          "height": 0.009091
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "ISBN 978-1-108-45958-7",
+            "confidence": 0.8873
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ISBN 978-1-108-45958-7 Workbook 2",
+            "confidence": 0.905
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "Workbook2A",
+        "confidence": 0.7727,
+        "bbox": {
+          "x": 0.318,
+          "y": 0.638846,
+          "width": 0.092667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "ISBN 978-1-108-45959-4 Workbook 2A",
+        "confidence": 0.925,
+        "bbox": {
+          "x": 0.130588,
+          "y": 0.64,
+          "width": 0.279608,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "ISBN 978-1-108-45959-4",
+            "confidence": 0.8802
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ISBN 978-1-108-45959-4 Workbook 2A",
+            "confidence": 0.925
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "Workbook 2B",
+        "confidence": 0.8556,
+        "bbox": {
+          "x": 0.317333,
+          "y": 0.653272,
+          "width": 0.092667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "ISBN 978-1-108-45961-7 Workbook 2B",
+        "confidence": 0.92,
+        "bbox": {
+          "x": 0.130196,
+          "y": 0.654848,
+          "width": 0.278039,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "ISBN 978-1-108-45961-7",
+            "confidence": 0.8569
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ISBN 978-1-108-45961-7 Workbook 2B",
+            "confidence": 0.92
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "paragraph",
+        "content": "ISBN 978-1-108-65228-5 Teacher’s Edition with Complete Assessment Program 2",
+        "confidence": 0.9411,
+        "bbox": {
+          "x": 0.130588,
+          "y": 0.669091,
+          "width": 0.556471,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Teacher's Edition with Complete Assessment Program 2",
+            "confidence": 0.8958
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ISBN 978-1-108-65228-5 Teacher’s Edition with Complete Assessment Program 2",
+            "confidence": 0.9411
+          },
+          {
+            "engine": "rapidocr",
+            "content": "ISBN 978-1-108-65228-5",
+            "confidence": 0.8679
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "label",
+        "content": "ISBN 978-1-108-56039-9",
+        "confidence": 0.8728,
+        "bbox": {
+          "x": 0.128667,
+          "y": 0.683668,
+          "width": 0.175333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "paragraph",
+        "content": "ISBN 978-1-108-56039-9 Full Contact with Online Self-Study 2",
+        "confidence": 0.9413,
+        "bbox": {
+          "x": 0.130588,
+          "y": 0.684545,
+          "width": 0.436471,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Full Contact with Online Self-Study 2",
+            "confidence": 0.9245
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ISBN 978-1-108-56039-9 Full Contact with Online Self-Study 2",
+            "confidence": 0.9413
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0044",
+        "type": "label",
+        "content": "ISBN 978-1-108-63454-0",
+        "confidence": 0.8937,
+        "bbox": {
+          "x": 0.128667,
+          "y": 0.698094,
+          "width": 0.175333,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0045",
+        "type": "paragraph",
+        "content": "ISBN 978-1-108-63454-0 Full Contact with Online Self-Study 2A",
+        "confidence": 0.9425,
+        "bbox": {
+          "x": 0.130588,
+          "y": 0.699697,
+          "width": 0.448235,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Full Contact with Online Self-Study 2A",
+            "confidence": 0.8856
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ISBN 978-1-108-63454-0 Full Contact with Online Self-Study 2A",
+            "confidence": 0.9425
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0046",
+        "type": "label",
+        "content": "ISBN 978-1-108-68906-9",
+        "confidence": 0.8845,
+        "bbox": {
+          "x": 0.128667,
+          "y": 0.71355,
+          "width": 0.176,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0047",
+        "type": "paragraph",
+        "content": "ISBN 978-1-108-68906-9 Full Contact with Online Self-Study 2B",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.13098,
+          "y": 0.714545,
+          "width": 0.446275,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Full Contact with Online Self-Study 2B",
+            "confidence": 0.9055
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ISBN 978-1-108-68906-9 Full Contact with Online Self-Study 2B",
+            "confidence": 0.94
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0048",
+        "type": "label",
+        "content": "Presentation Plus Level 2",
+        "confidence": 0.8866,
+        "bbox": {
+          "x": 0.316,
+          "y": 0.727975,
+          "width": 0.170667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0049",
+        "type": "paragraph",
+        "content": "ISBN 978-1-108-45968-6 Presentation Plus Level 2",
+        "confidence": 0.9283,
+        "bbox": {
+          "x": 0.131373,
+          "y": 0.729394,
+          "width": 0.353333,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "ISBN 978-1-108-45968-6",
+            "confidence": 0.8923
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ISBN 978-1-108-45968-6 Presentation Plus Level 2",
+            "confidence": 0.9283
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0050",
+        "type": "label",
+        "content": "Additional resourcesforthis publicationat www.cambridge.org/fourcorners",
+        "confidence": 0.9393,
+        "bbox": {
+          "x": 0.13,
+          "y": 0.751674,
+          "width": 0.496,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Additional resourcesforthis publicationat www.cambridge.org/fourcorners",
+            "confidence": 0.9393
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Additional resources for this publication at www.cambridge.org/fourcorners",
+            "confidence": 0.9457
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0051",
+        "type": "paragraph",
+        "content": "Cambridge University Press has no responsibility for the persistence or accuracy",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.131373,
+          "y": 0.774242,
+          "width": 0.525098,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Cambridge University Press has no responsibility for the persistence or accuracy",
+            "confidence": 0.9066
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Cambridge University Press has no responsibility for the persistence or accuracy",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0052",
+        "type": "paragraph",
+        "content": "of URLs for external or third-party internet websites referred to in this publication,",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.131373,
+          "y": 0.789091,
+          "width": 0.54,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "of URLs for external or third-party internet websites referred to in this publication,",
+            "confidence": 0.9341
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "of URLs for external or third-party internet websites referred to in this publication,",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0053",
+        "type": "paragraph",
+        "content": "and does not guarantee that any content on such websites is, or will remain,",
+        "confidence": 0.9607,
+        "bbox": {
+          "x": 0.131765,
+          "y": 0.804242,
+          "width": 0.491373,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "and does not guarantee that any content on such websites is, or will remain,",
+            "confidence": 0.9272
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "and does not guarantee that any content on such websites is, or will remain,",
+            "confidence": 0.9607
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0054",
+        "type": "sentence",
+        "content": "accurate or appropriate. Information regarding prices, travel timetables, and other",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.131765,
+          "y": 0.818788,
+          "width": 0.53098,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "accurate or appropriate. Information regarding prices, travel timetables, and other",
+            "confidence": 0.9374
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "accurate or appropriate. Information regarding prices, travel timetables, and other",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0055",
+        "type": "paragraph",
+        "content": "factual information given in this work is correct at the time of first printing but",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.131765,
+          "y": 0.833939,
+          "width": 0.512157,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "factual information given in this work is correct at the time of first printing but",
+            "confidence": 0.9246
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "factual information given in this work is correct at the time of first printing but",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0056",
+        "type": "paragraph",
+        "content": "Cambridge University Press does not guarantee the accuracy of such information",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.131765,
+          "y": 0.848485,
+          "width": 0.528235,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Cambridge University Press does not guarantee the accuracy of such information",
+            "confidence": 0.9143
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Cambridge University Press does not guarantee the accuracy of such information",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0057",
+        "type": "label",
+        "content": "thereafter.",
+        "confidence": 0.8932,
+        "bbox": {
+          "x": 0.129333,
+          "y": 0.861412,
+          "width": 0.070667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "thereafter.",
+            "confidence": 0.8932
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "thereafter.",
+            "confidence": 0.85
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [],
+    "ocrExercises": [],
+    "ocrTables": [],
+    "ocrImages": [],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "CAMBRIDGE\nUNIVERSITYPRESS\nUniversity Printing House, Cambridge CB2 8BS, United Kingdom\nOne Liberty Plaza, 20th Floor, New York, NY 10006, USA\n477Williamstown Road, Port Melbourne,VIC 3207,Australia\n314-321, 3rd Floor, Plot 3, Splendor Forum, Jasola District Centre, New Delhi -- 110025, India\n79Anson Road,#06-04/06, Singapore079906\nCambridge University Press is part of the University of Cambridge.\nIt furthers the University's mission by disseminating knowledge in the pursuit of education,\nlearning and research at the highest international levels of excellence.\nwww.cambridge.org\nInformation on this title: www.cambridge.org/fourcorners\nCambridge University Press2012,2019\nThis publication is in copyright. Subject to statutory exception\nand to the provisions of relevant collective licensing agreements,\nno reproduction of any part may take place without the written\npermission of Cambridge University Press.\nFirst published 2012\nSecond edition 2019\n2019181716151413121110987654321\nPrinted in Dubai by Oriental Press\nA catalogue record for this publication is available from the British Library\nStudent'sBook withOnline Self-Study2\nISBN978-1-108-56021-4\nStudent'sBook withOnline Self-Study2A\nISBN 978-1-108-57070-1\nStudent'sBook withOnline Self-Study2B\nISBN 978-1-108-62772-6\nStudent's Book with Online Self-Study and Online Workbook 2\nISBN 978-1-108-62849-5\nStudent's Book with Online Self-Study and Online Workbook 2A\nISBN 978-1-108-57586-7\nStudent's Book with Online Self-Study and Online Workbook 2B\nISBN 978-1-108-62779-5\nISBN 978-1-108-45958-7\nWorkbook 2\nISBN 978-1-108-45959-4\nWorkbook2A\nISBN 978-1-108-45961-7\nWorkbook 2B\nTeacher's Edition with Complete Assessment Program 2\nISBN 978-1-108-65228-5\nFull Contact with Online Self-Study 2\nISBN 978-1-108-56039-9\nISBN 978-1-108-63454-0\nFull Contact with Online Self-Study 2A\nFull Contact with Online Self-Study 2B\nISBN 978-1-108-68906-9\nPresentation Plus Level 2\nISBN 978-1-108-45968-6\nAdditional resourcesforthis publicationat www.cambridge.org/fourcorners\nCambridge University Press has no responsibility for the persistence or accuracy\nof URLs for external or third-party internet websites referred to in this publication,\nand does not guarantee that any content on such websites is, or will remain,\naccurate or appropriate. Information regarding prices, travel timetables, and other\nfactual information given in this work is correct at the time of first printing but\nCambridge University Press does not guarantee the accuracy of such information\nthereafter.\ndehkhodaedu.com",
+      "tesseract_psm3": "CAMBRIDGE\nUNIVERSITY PRESS\n\nUniversity Printing House, Cambridge CB2 8BS, United Kingdom\n\nOne Liberty Plaza, 20th Floor, New York, NY 10006, USA\n\n477 Williamstown Road, Port Melbourne, VIC 3207, Australia\n\n314-321, 3rd Floor, Plot 3, Splendor Forum, Jasola District Centre, New Delhi — 110025, India\n79 Anson Road, #06-04/06, Singapore 079906\n\nCambridge University Press is part of the University of Cambridge.\n\nIt furthers the University’s mission by disseminating knowledge in the pursuit of education,\nlearning and research at the highest international levels of excellence.\n\nwww.cambridge.org\nInformation on this title: www.cambridge.org/fourcorners\n\n© Cambridge University Press 2012, 2019\n\nThis publication is in copyright. Subject to statutory exception\nand to the provisions of relevant collective licensing agreements,\nno reproduction of any part may take place without the written\npermission of Cambridge University Press.\n\nFirst published 2012\nSecond edition 2019\n\n20 19 18 17 16 15 14 13 12 11 10987654321\nPrinted in Dubai by Oriental Press\nA catalogue record for this publication is available from the British Library\n\nISBN 978-1-108-56021-4 Student’s Book with Online Self-Study 2\n\nISBN 978-1-108-57070-1 Student’s Book with Online Self-Study 2A\n\nISBN 978-1-108-62772-6 Student’s Book with Online Self-Study 2B\n\nISBN 978-1-108-62849-5 Student’s Book with Online Self-Study and Online Workbook 2\nISBN 978-1-108-57586-7 Student’s Book with Online Self-Study and Online Workbook 2A\nISBN 978-1-108-62779-5 Student’s Book with Online Self-Study and Online Workbook 2B\nISBN 978-1-108-45958-7 Workbook 2\n\nISBN 978-1-108-45959-4 Workbook 2A\n\nISBN 978-1-108-45961-7 Workbook 2B\n\nISBN 978-1-108-65228-5 Teacher’s Edition with Complete Assessment Program 2\n\nISBN 978-1-108-56039-9 Full Contact with Online Self-Study 2\n\nISBN 978-1-108-63454-0 Full Contact with Online Self-Study 2A\n\nISBN 978-1-108-68906-9 Full Contact with Online Self-Study 2B\n\nISBN 978-1-108-45968-6 Presentation Plus Level 2\n\nAdditional resources for this publication at www.cambridge.org/fourcorners\n\nCambridge University Press has no responsibility for the persistence or accuracy\nof URLs for external or third-party internet websites referred to in this publication,\nand does not guarantee that any content on such websites is, or will remain,\naccurate or appropriate. Information regarding prices, travel timetables, and other\nfactual information given in this work is correct at the time of first printing but\nCambridge University Press does not guarantee the accuracy of such information\nthereafter.\n\ndehkhodaedu.com\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.9233,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "Printed book page number was not confidently detected; pageNumber uses the PDF-page fallback and pageNumberDetected is false.",
+      "2 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "front_matter",
+    "headings": [
+      "CAMBRIDGE",
+      "UNIVERSITY PRESS",
+      "University Printing House, Cambridge CB 2 8BS, United Kingdom",
+      "One Liberty Plaza, 20th Floor, New York, NY 10006, USA"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "CAMBRIDGE",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.127059,
+          "y": 0.079091,
+          "width": 0.143137,
+          "height": 0.014848
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "CAMBRIDGE",
+            "confidence": 0.95
+          },
+          {
+            "engine": "rapidocr",
+            "content": "CAMBRIDGE",
+            "confidence": 0.8947
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "UNIVERSITY PRESS",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.128235,
+          "y": 0.096667,
+          "width": 0.140784,
+          "height": 0.007879
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "UNIVERSITYPRESS",
+            "confidence": 0.9155
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "UNIVERSITY PRESS",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "University Printing House, Cambridge CB 2 8BS, United Kingdom",
+        "confidence": 0.9475,
+        "bbox": {
+          "x": 0.127451,
+          "y": 0.124848,
+          "width": 0.433725,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "University Printing House, Cambridge CB2 8BS, United Kingdom",
+            "confidence": 0.916
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "University Printing House, Cambridge CB2 8BS, United Kingdom",
+            "confidence": 0.9475
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "One Liberty Plaza, 20th Floor, New York, NY 10006, USA",
+        "confidence": 0.956,
+        "bbox": {
+          "x": 0.127451,
+          "y": 0.147273,
+          "width": 0.383137,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "One Liberty Plaza, 20th Floor, New York, NY 10006, USA",
+            "confidence": 0.908
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "One Liberty Plaza, 20th Floor, New York, NY 10006, USA",
+            "confidence": 0.956
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "paragraph",
+        "content": "477 Williamstown Road, Port Melbourne, VIC 3207, Australia",
+        "confidence": 0.9525,
+        "bbox": {
+          "x": 0.127059,
+          "y": 0.169697,
+          "width": 0.411765,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "477Williamstown Road, Port Melbourne,VIC 3207,Australia",
+            "confidence": 0.8848
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "477 Williamstown Road, Port Melbourne, VIC 3207, Australia",
+            "confidence": 0.9525
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "paragraph",
+        "content": "314-321, 3rd Floor, Plot 3, Splendor Forum, Jasola District Centre, New Delhi - 110025, India",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.127843,
+          "y": 0.191818,
+          "width": 0.618039,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "314-321, 3rd Floor, Plot 3, Splendor Forum, Jasola District Centre, New Delhi -- 110025, India",
+            "confidence": 0.9056
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "314-321, 3rd Floor, Plot 3, Splendor Forum, Jasola District Centre, New Delhi — 110025, India",
+            "confidence": 0.94
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "79Anson Road,#06-04/06, Singapore 079906",
+        "confidence": 0.9033,
+        "bbox": {
+          "x": 0.126,
+          "y": 0.213292,
+          "width": 0.307333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "79Anson Road,#06-04/06, Singapore079906",
+            "confidence": 0.9033
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "79 Anson Road, #06-04/06, Singapore 079906",
+            "confidence": 0.87
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "sentence",
+        "content": "Cambridge University Press is part of the University of Cambridge.",
+        "confidence": 0.958,
+        "bbox": {
+          "x": 0.127843,
+          "y": 0.244242,
+          "width": 0.439216,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Cambridge University Press is part of the University of Cambridge.",
+            "confidence": 0.9242
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Cambridge University Press is part of the University of Cambridge.",
+            "confidence": 0.958
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "paragraph",
+        "content": "It furthers the University's mission by disseminating knowledge in the pursuit of education",
+        "confidence": 0.9592,
+        "bbox": {
+          "x": 0.128235,
+          "y": 0.266364,
+          "width": 0.594902,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "It furthers the University's mission by disseminating knowledge in the pursuit of education,",
+            "confidence": 0.9167
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "It furthers the University’s mission by disseminating knowledge in the pursuit of education,",
+            "confidence": 0.9592
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "sentence",
+        "content": "learning and research at the highest international levels of excellence.",
+        "confidence": 0.961,
+        "bbox": {
+          "x": 0.128627,
+          "y": 0.281818,
+          "width": 0.451373,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "learning and research at the highest international levels of excellence.",
+            "confidence": 0.9215
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "learning and research at the highest international levels of excellence.",
+            "confidence": 0.961
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "www. cambridge. org",
+        "confidence": 0.8912,
+        "bbox": {
+          "x": 0.125333,
+          "y": 0.301906,
+          "width": 0.136,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "www.cambridge.org",
+            "confidence": 0.8912
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "www.cambridge.org",
+            "confidence": 0.9
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "Information on this title: www. cambridge. org/fourcorners",
+        "confidence": 0.9518,
+        "bbox": {
+          "x": 0.125333,
+          "y": 0.316847,
+          "width": 0.378667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Information on this title: www.cambridge.org/fourcorners",
+            "confidence": 0.9518
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Information on this title: www.cambridge.org/fourcorners",
+            "confidence": 0.94
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "This publication is in copyright. Subject to statutory exception",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.128235,
+          "y": 0.363939,
+          "width": 0.40549,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "This publication is in copyright. Subject to statutory exception",
+            "confidence": 0.9253
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "This publication is in copyright. Subject to statutory exception",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "paragraph",
+        "content": "and to the provisions of relevant collective licensing agreements",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.128627,
+          "y": 0.379091,
+          "width": 0.422353,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "and to the provisions of relevant collective licensing agreements,",
+            "confidence": 0.9243
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "and to the provisions of relevant collective licensing agreements,",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "paragraph",
+        "content": "no reproduction of any part may take place without the written",
+        "confidence": 0.9609,
+        "bbox": {
+          "x": 0.128627,
+          "y": 0.393636,
+          "width": 0.406667,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "no reproduction of any part may take place without the written",
+            "confidence": 0.9306
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "no reproduction of any part may take place without the written",
+            "confidence": 0.9609
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "permission of Cambridge University Press.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.128235,
+          "y": 0.408788,
+          "width": 0.279608,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "permission of Cambridge University Press.",
+            "confidence": 0.92
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "permission of Cambridge University Press.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "First published 2012",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.128627,
+          "y": 0.431212,
+          "width": 0.132549,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "First published 2012",
+            "confidence": 0.9022
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "First published 2012",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "Second edition 2019",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.128627,
+          "y": 0.446061,
+          "width": 0.132549,
+          "height": 0.009091
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Second edition 2019",
+            "confidence": 0.8444
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Second edition 2019",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "paragraph",
+        "content": "Printed in Dubai by Oriental Press",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.129412,
+          "y": 0.490909,
+          "width": 0.221961,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Printed in Dubai by Oriental Press",
+            "confidence": 0.8632
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Printed in Dubai by Oriental Press",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "paragraph",
+        "content": "A catalogue record for this publication is available from the British Library",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.128627,
+          "y": 0.51303,
+          "width": 0.493333,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A catalogue record for this publication is available from the British Library",
+            "confidence": 0.9174
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A catalogue record for this publication is available from the British Library",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "paragraph",
+        "content": "ISBN 978-1-108-56021-4 Student's Book with Online Self-Study 2",
+        "confidence": 0.9375,
+        "bbox": {
+          "x": 0.129804,
+          "y": 0.535455,
+          "width": 0.454902,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Student'sBook withOnline Self-Study2",
+            "confidence": 0.9031
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ISBN 978-1-108-56021-4 Student’s Book with Online Self-Study 2",
+            "confidence": 0.9375
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "paragraph",
+        "content": "ISBN 978-1-108-57070-1 Student's Book with Online Self-Study 2A",
+        "confidence": 0.9125,
+        "bbox": {
+          "x": 0.130196,
+          "y": 0.550303,
+          "width": 0.466667,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Student'sBook withOnline Self-Study2A",
+            "confidence": 0.9047
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ISBN 978-1-108-57070-1 Student’s Book with Online Self-Study 2A",
+            "confidence": 0.9125
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "paragraph",
+        "content": "ISBN 978-1-108-62772-6 Student's Book with Online Self-Study 2B",
+        "confidence": 0.9363,
+        "bbox": {
+          "x": 0.129412,
+          "y": 0.565152,
+          "width": 0.465882,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Student'sBook withOnline Self-Study2B",
+            "confidence": 0.9202
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ISBN 978-1-108-62772-6 Student’s Book with Online Self-Study 2B",
+            "confidence": 0.9363
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "paragraph",
+        "content": "ISBN 978-1-108-62849-5 Student's Book with Online Self-Study and Online Workbook 2",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.129412,
+          "y": 0.58,
+          "width": 0.604706,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Student's Book with Online Self-Study and Online Workbook 2",
+            "confidence": 0.9301
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ISBN 978-1-108-62849-5 Student’s Book with Online Self-Study and Online Workbook 2",
+            "confidence": 0.94
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "paragraph",
+        "content": "ISBN 978-1-108-57586-7 Student's Book with Online Self-Study and Online Workbook 2A",
+        "confidence": 0.9345,
+        "bbox": {
+          "x": 0.129804,
+          "y": 0.594545,
+          "width": 0.616078,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Student's Book with Online Self-Study and Online Workbook 2A",
+            "confidence": 0.8941
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ISBN 978-1-108-57586-7 Student’s Book with Online Self-Study and Online Workbook 2A",
+            "confidence": 0.9345
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "paragraph",
+        "content": "ISBN 978-1-108-62779-5 Student's Book with Online Self-Study and Online Workbook 2B",
+        "confidence": 0.9409,
+        "bbox": {
+          "x": 0.129804,
+          "y": 0.609697,
+          "width": 0.61451,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Student's Book with Online Self-Study and Online Workbook 2B",
+            "confidence": 0.8984
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ISBN 978-1-108-62779-5 Student’s Book with Online Self-Study and Online Workbook 2B",
+            "confidence": 0.9409
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "Workbook 2",
+        "confidence": 0.7557,
+        "bbox": {
+          "x": 0.318,
+          "y": 0.623905,
+          "width": 0.082667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "ISBN 978-1-108-45958-7 Workbook 2",
+        "confidence": 0.905,
+        "bbox": {
+          "x": 0.130196,
+          "y": 0.625152,
+          "width": 0.268235,
+          "height": 0.009091
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "ISBN 978-1-108-45958-7",
+            "confidence": 0.8873
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ISBN 978-1-108-45958-7 Workbook 2",
+            "confidence": 0.905
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "Workbook 2A",
+        "confidence": 0.7727,
+        "bbox": {
+          "x": 0.318,
+          "y": 0.638846,
+          "width": 0.092667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0038",
+        "type": "label",
+        "content": "ISBN 978-1-108-45959-4 Workbook 2A",
+        "confidence": 0.925,
+        "bbox": {
+          "x": 0.130588,
+          "y": 0.64,
+          "width": 0.279608,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "ISBN 978-1-108-45959-4",
+            "confidence": 0.8802
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ISBN 978-1-108-45959-4 Workbook 2A",
+            "confidence": 0.925
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "label",
+        "content": "Workbook 2B",
+        "confidence": 0.8556,
+        "bbox": {
+          "x": 0.317333,
+          "y": 0.653272,
+          "width": 0.092667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "ISBN 978-1-108-45961-7 Workbook 2B",
+        "confidence": 0.92,
+        "bbox": {
+          "x": 0.130196,
+          "y": 0.654848,
+          "width": 0.278039,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "ISBN 978-1-108-45961-7",
+            "confidence": 0.8569
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ISBN 978-1-108-45961-7 Workbook 2B",
+            "confidence": 0.92
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "paragraph",
+        "content": "ISBN 978-1-108-65228-5 Teacher's Edition with Complete Assessment Program 2",
+        "confidence": 0.9411,
+        "bbox": {
+          "x": 0.130588,
+          "y": 0.669091,
+          "width": 0.556471,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Teacher's Edition with Complete Assessment Program 2",
+            "confidence": 0.8958
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ISBN 978-1-108-65228-5 Teacher’s Edition with Complete Assessment Program 2",
+            "confidence": 0.9411
+          },
+          {
+            "engine": "rapidocr",
+            "content": "ISBN 978-1-108-65228-5",
+            "confidence": 0.8679
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "paragraph",
+        "content": "ISBN 978-1-108-56039-9 Full Contact with Online Self-Study 2",
+        "confidence": 0.9413,
+        "bbox": {
+          "x": 0.130588,
+          "y": 0.684545,
+          "width": 0.436471,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Full Contact with Online Self-Study 2",
+            "confidence": 0.9245
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ISBN 978-1-108-56039-9 Full Contact with Online Self-Study 2",
+            "confidence": 0.9413
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0045",
+        "type": "paragraph",
+        "content": "ISBN 978-1-108-63454-0 Full Contact with Online Self-Study 2A",
+        "confidence": 0.9425,
+        "bbox": {
+          "x": 0.130588,
+          "y": 0.699697,
+          "width": 0.448235,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Full Contact with Online Self-Study 2A",
+            "confidence": 0.8856
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ISBN 978-1-108-63454-0 Full Contact with Online Self-Study 2A",
+            "confidence": 0.9425
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0047",
+        "type": "paragraph",
+        "content": "ISBN 978-1-108-68906-9 Full Contact with Online Self-Study 2B",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.13098,
+          "y": 0.714545,
+          "width": 0.446275,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Full Contact with Online Self-Study 2B",
+            "confidence": 0.9055
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ISBN 978-1-108-68906-9 Full Contact with Online Self-Study 2B",
+            "confidence": 0.94
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0048",
+        "type": "label",
+        "content": "Presentation Plus Level 2",
+        "confidence": 0.8866,
+        "bbox": {
+          "x": 0.316,
+          "y": 0.727975,
+          "width": 0.170667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0049",
+        "type": "paragraph",
+        "content": "ISBN 978-1-108-45968-6 Presentation Plus Level 2",
+        "confidence": 0.9283,
+        "bbox": {
+          "x": 0.131373,
+          "y": 0.729394,
+          "width": 0.353333,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "ISBN 978-1-108-45968-6",
+            "confidence": 0.8923
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ISBN 978-1-108-45968-6 Presentation Plus Level 2",
+            "confidence": 0.9283
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0050",
+        "type": "label",
+        "content": "Additional resourcesforthis publicationat www. cambridge. org/fourcorners",
+        "confidence": 0.9393,
+        "bbox": {
+          "x": 0.13,
+          "y": 0.751674,
+          "width": 0.496,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Additional resourcesforthis publicationat www.cambridge.org/fourcorners",
+            "confidence": 0.9393
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Additional resources for this publication at www.cambridge.org/fourcorners",
+            "confidence": 0.9457
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0051",
+        "type": "paragraph",
+        "content": "Cambridge University Press has no responsibility for the persistence or accuracy",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.131373,
+          "y": 0.774242,
+          "width": 0.525098,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Cambridge University Press has no responsibility for the persistence or accuracy",
+            "confidence": 0.9066
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Cambridge University Press has no responsibility for the persistence or accuracy",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0052",
+        "type": "paragraph",
+        "content": "of URLs for external or third-party internet websites referred to in this publication",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.131373,
+          "y": 0.789091,
+          "width": 0.54,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "of URLs for external or third-party internet websites referred to in this publication,",
+            "confidence": 0.9341
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "of URLs for external or third-party internet websites referred to in this publication,",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0053",
+        "type": "paragraph",
+        "content": "and does not guarantee that any content on such websites is, or will remain",
+        "confidence": 0.9607,
+        "bbox": {
+          "x": 0.131765,
+          "y": 0.804242,
+          "width": 0.491373,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "and does not guarantee that any content on such websites is, or will remain,",
+            "confidence": 0.9272
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "and does not guarantee that any content on such websites is, or will remain,",
+            "confidence": 0.9607
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0054",
+        "type": "sentence",
+        "content": "accurate or appropriate. Information regarding prices, travel timetables, and other",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.131765,
+          "y": 0.818788,
+          "width": 0.53098,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "accurate or appropriate. Information regarding prices, travel timetables, and other",
+            "confidence": 0.9374
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "accurate or appropriate. Information regarding prices, travel timetables, and other",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0055",
+        "type": "paragraph",
+        "content": "factual information given in this work is correct at the time of first printing but",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.131765,
+          "y": 0.833939,
+          "width": 0.512157,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "factual information given in this work is correct at the time of first printing but",
+            "confidence": 0.9246
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "factual information given in this work is correct at the time of first printing but",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0056",
+        "type": "paragraph",
+        "content": "Cambridge University Press does not guarantee the accuracy of such information",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.131765,
+          "y": 0.848485,
+          "width": 0.528235,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Cambridge University Press does not guarantee the accuracy of such information",
+            "confidence": 0.9143
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Cambridge University Press does not guarantee the accuracy of such information",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0057",
+        "type": "label",
+        "content": "thereafter.",
+        "confidence": 0.8932,
+        "bbox": {
+          "x": 0.129333,
+          "y": 0.861412,
+          "width": 0.070667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "thereafter.",
+            "confidence": 0.8932
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "thereafter.",
+            "confidence": 0.85
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "CAMBRIDGE",
+      "UNIVERSITY PRESS",
+      "University Printing House, Cambridge CB 2 8BS, United Kingdom",
+      "One Liberty Plaza, 20th Floor, New York, NY 10006, USA",
+      "477 Williamstown Road, Port Melbourne, VIC 3207, Australia",
+      "314-321, 3rd Floor, Plot 3, Splendor Forum, Jasola District Centre, New Delhi - 110025, India",
+      "79Anson Road,#06-04/06, Singapore 079906",
+      "Cambridge University Press is part of the University of Cambridge.",
+      "It furthers the University's mission by disseminating knowledge in the pursuit of education",
+      "learning and research at the highest international levels of excellence.",
+      "www. cambridge. org",
+      "Information on this title: www. cambridge. org/fourcorners",
+      "This publication is in copyright. Subject to statutory exception",
+      "and to the provisions of relevant collective licensing agreements",
+      "no reproduction of any part may take place without the written",
+      "permission of Cambridge University Press.",
+      "First published 2012",
+      "Second edition 2019",
+      "Printed in Dubai by Oriental Press",
+      "A catalogue record for this publication is available from the British Library",
+      "ISBN 978-1-108-56021-4 Student's Book with Online Self-Study 2",
+      "ISBN 978-1-108-57070-1 Student's Book with Online Self-Study 2A",
+      "ISBN 978-1-108-62772-6 Student's Book with Online Self-Study 2B",
+      "ISBN 978-1-108-62849-5 Student's Book with Online Self-Study and Online Workbook 2",
+      "ISBN 978-1-108-57586-7 Student's Book with Online Self-Study and Online Workbook 2A",
+      "ISBN 978-1-108-62779-5 Student's Book with Online Self-Study and Online Workbook 2B",
+      "Workbook 2",
+      "ISBN 978-1-108-45958-7 Workbook 2",
+      "Workbook 2A",
+      "ISBN 978-1-108-45959-4 Workbook 2A",
+      "Workbook 2B",
+      "ISBN 978-1-108-45961-7 Workbook 2B",
+      "ISBN 978-1-108-65228-5 Teacher's Edition with Complete Assessment Program 2",
+      "ISBN 978-1-108-56039-9 Full Contact with Online Self-Study 2",
+      "ISBN 978-1-108-63454-0 Full Contact with Online Self-Study 2A",
+      "ISBN 978-1-108-68906-9 Full Contact with Online Self-Study 2B",
+      "Presentation Plus Level 2",
+      "ISBN 978-1-108-45968-6 Presentation Plus Level 2",
+      "Additional resourcesforthis publicationat www. cambridge. org/fourcorners",
+      "Cambridge University Press has no responsibility for the persistence or accuracy",
+      "of URLs for external or third-party internet websites referred to in this publication",
+      "and does not guarantee that any content on such websites is, or will remain",
+      "accurate or appropriate. Information regarding prices, travel timetables, and other",
+      "factual information given in this work is correct at the time of first printing but",
+      "Cambridge University Press does not guarantee the accuracy of such information",
+      "thereafter."
+    ],
+    "paragraphs": [
+      "477 Williamstown Road, Port Melbourne, VIC 3207, Australia",
+      "314-321, 3rd Floor, Plot 3, Splendor Forum, Jasola District Centre, New Delhi - 110025, India",
+      "It furthers the University's mission by disseminating knowledge in the pursuit of education",
+      "and to the provisions of relevant collective licensing agreements",
+      "no reproduction of any part may take place without the written",
+      "Printed in Dubai by Oriental Press",
+      "A catalogue record for this publication is available from the British Library",
+      "ISBN 978-1-108-56021-4 Student's Book with Online Self-Study 2",
+      "ISBN 978-1-108-57070-1 Student's Book with Online Self-Study 2A",
+      "ISBN 978-1-108-62772-6 Student's Book with Online Self-Study 2B",
+      "ISBN 978-1-108-62849-5 Student's Book with Online Self-Study and Online Workbook 2",
+      "ISBN 978-1-108-57586-7 Student's Book with Online Self-Study and Online Workbook 2A",
+      "ISBN 978-1-108-62779-5 Student's Book with Online Self-Study and Online Workbook 2B",
+      "ISBN 978-1-108-65228-5 Teacher's Edition with Complete Assessment Program 2",
+      "ISBN 978-1-108-56039-9 Full Contact with Online Self-Study 2",
+      "ISBN 978-1-108-63454-0 Full Contact with Online Self-Study 2A",
+      "ISBN 978-1-108-68906-9 Full Contact with Online Self-Study 2B",
+      "ISBN 978-1-108-45968-6 Presentation Plus Level 2",
+      "Cambridge University Press has no responsibility for the persistence or accuracy",
+      "of URLs for external or third-party internet websites referred to in this publication",
+      "and does not guarantee that any content on such websites is, or will remain",
+      "factual information given in this work is correct at the time of first printing but",
+      "Cambridge University Press does not guarantee the accuracy of such information"
+    ],
+    "sentences": [
+      "CAMBRIDGE UNIVERSITY PRESS University Printing House, Cambridge CB 2 8BS, United Kingdom One Liberty Plaza, 20th Floor, New York, NY 10006, USA 477 Williamstown Road, Port Melbourne, VIC 3207, Australia 314-321, 3rd Floor, Plot 3, Splendor Forum, Jasola District Centre, New Delhi - 110025, India 79Anson Road,#06-04/06, Singapore 079906 Cambridge University Press is part of the University of Cambridge",
+      "It furthers the University's mission by disseminating knowledge in the pursuit of education learning and research at the highest international levels of excellence",
+      "www",
+      "cambridge",
+      "org Information on this title: www",
+      "cambridge",
+      "org/fourcorners This publication is in copyright",
+      "Subject to statutory exception and to the provisions of relevant collective licensing agreements no reproduction of any part may take place without the written permission of Cambridge University Press",
+      "First published 2012 Second edition 2019 Printed in Dubai by Oriental Press A catalogue record for this publication is available from the British Library ISBN 978-1-108-56021-4 Student's Book with Online Self-Study 2 ISBN 978-1-108-57070-1 Student's Book with Online Self-Study 2A ISBN 978-1-108-62772-6 Student's Book with Online Self-Study 2B ISBN 978-1-108-62849-5 Student's Book with Online Self-Study and Online Workbook 2 ISBN 978-1-108-57586-7 Student's Book with Online Self-Study and Online Workbook 2A ISBN 978-1-108-62779-5 Student's Book with Online Self-Study and Online Workbook 2B Workbook 2 ISBN 978-1-108-45958-7 Workbook 2 Workbook 2A ISBN 978-1-108-45959-4 Workbook 2A Workbook 2B ISBN 978-1-108-45961-7 Workbook 2B ISBN 978-1-108-65228-5 Teacher's Edition with Complete Assessment Program 2 ISBN 978-1-108-56039-9 Full Contact with Online Self-Study 2 ISBN 978-1-108-63454-0 Full Contact with Online Self-Study 2A ISBN 978-1-108-68906-9 Full Contact with Online Self-Study 2B Presentation Plus Level 2 ISBN 978-1-108-45968-6 Presentation Plus Level 2 Additional resourcesforthis publicationat www",
+      "cambridge",
+      "org/fourcorners Cambridge University Press has no responsibility for the persistence or accuracy of URLs for external or third-party internet websites referred to in this publication and does not guarantee that any content on such websites is, or will remain accurate or appropriate",
+      "Information regarding prices, travel timetables, and other factual information given in this work is correct at the time of first printing but Cambridge University Press does not guarantee the accuracy of such information thereafter"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [],
+    "exercises": [],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [],
+    "excludedGarbage": [
+      "© Cambridge University Press 2012, 2019",
+      "20 19 18 17 16 15 14 13 12 11 10987654321",
+      "ISBN978-1-108-56021-4",
+      "ISBN 978-1-108-57070-1",
+      "ISBN 978-1-108-62772-6",
+      "ISBN 978-1-108-62849-5",
+      "ISBN 978-1-108-57586-7",
+      "ISBN 978-1-108-62779-5",
+      "ISBN 978-1-108-56039-9",
+      "ISBN 978-1-108-63454-0",
+      "ISBN 978-1-108-68906-9"
+    ]
+  },
+  "learningContent": {
+    "pageType": "front_matter",
+    "title": "CAMBRIDGE",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [],
+    "reading": [],
+    "exercises": [],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "Printed book page number was not confidently detected; pageNumber uses the PDF-page fallback and pageNumberDetected is false.",
+      "2 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content.",
+      "11 garbage string(s) excluded"
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "garbageExcluded": 11
+    },
+    "averageOcrConfidence": 0.9233,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 2 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc2_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

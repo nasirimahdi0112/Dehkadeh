@@ -1,0 +1,2421 @@
+{
+  "pageNumber": 22,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 29,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 2_Part2.pdf",
+    "pdfLocalPageNumber": 7,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "People's profiles",
+        "confidence": 0.9041,
+        "bbox": {
+          "x": 0.137333,
+          "y": 0.049459,
+          "width": 0.420667,
+          "height": 0.041731
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "D }Beople’s profiles",
+            "confidence": 0.66
+          },
+          {
+            "engine": "rapidocr",
+            "content": "People's profiles",
+            "confidence": 0.9041
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "i) Reading 9",
+        "confidence": 0.82,
+        "bbox": {
+          "x": 0.073333,
+          "y": 0.114545,
+          "width": 0.203529,
+          "height": 0.026667
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "i) Reading 9",
+            "confidence": 0.82
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Reading n",
+            "confidence": 0.7921
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "sentence",
+        "content": "A Read the webpage profiles. What is each person like?",
+        "confidence": 0.914,
+        "bbox": {
+          "x": 0.119216,
+          "y": 0.153939,
+          "width": 0.386667,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Read the webpage profiles.What is each person like?",
+            "confidence": 0.8719
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Read the webpage profiles. What is each person like?",
+            "confidence": 0.914
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "Online profiles",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.275294,
+          "y": 0.231515,
+          "width": 0.251373,
+          "height": 0.025152
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Online profiles",
+            "confidence": 0.8875
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Online profiles",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "instruction",
+        "content": "Name: Adriano Home: Belo Horizonte, Brazil",
+        "confidence": 0.9367,
+        "bbox": {
+          "x": 0.276863,
+          "y": 0.273333,
+          "width": 0.305882,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Name:AdrianoHome:Belo Horizonte,Brazil",
+            "confidence": 0.911
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Name: Adriano Home: Belo Horizonte, Brazil",
+            "confidence": 0.9367
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "sentence",
+        "content": "Appearance: |’m tall and have long brown hair. | wear only black.",
+        "confidence": 0.945,
+        "bbox": {
+          "x": 0.275686,
+          "y": 0.289394,
+          "width": 0.425098,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Appearance:I'm talland havelongbrown hair.Iwearonly black.",
+            "confidence": 0.8841
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Appearance: |’m tall and have long brown hair. | wear only black.",
+            "confidence": 0.945
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "paragraph",
+        "content": "_ Personality: I’m a very creative person. | like to make different things from paper. | do it just for",
+        "confidence": 0.9105,
+        "bbox": {
+          "x": 0.258824,
+          "y": 0.305758,
+          "width": 0.637255,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Personality:I'm a very creative person.I liketo make different things from paper.Ido it justfor",
+            "confidence": 0.8808
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "_ Personality: I’m a very creative person. | like to make different things from paper. | do it just for",
+            "confidence": 0.9105
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "sentence",
+        "content": "fun. | can make airplanes, birds, boats, and flowers.",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.276471,
+          "y": 0.321515,
+          "width": 0.336078,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "fun.Icanmakeairplanes,birds,boats,andflowers.",
+            "confidence": 0.8771
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "fun. | can make airplanes, birds, boats, and flowers.",
+            "confidence": 0.94
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "instruction",
+        "content": "Name:Bea Home:London, U.K.",
+        "confidence": 0.8666,
+        "bbox": {
+          "x": 0.275333,
+          "y": 0.353426,
+          "width": 0.223333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Name:Bea Home:London, U.K.",
+            "confidence": 0.8666
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Name: Bea Home: London, U.K.",
+            "confidence": 0.46
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "sentence",
+        "content": "__ Appearance: I’m 60, with red hair. | always wear green glasses.",
+        "confidence": 0.8767,
+        "bbox": {
+          "x": 0.261961,
+          "y": 0.369697,
+          "width": 0.423529,
+          "height": 0.01697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "__ Appearance: I’m 60, with red hair. | always wear green glasses.",
+            "confidence": 0.8767
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Appearance:I'm 60,with redhair.Ialways weargreen glasses.",
+            "confidence": 0.9294
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "paragraph",
+        "content": "Personality: | think I'm a very generous person. | have a lot of free time, so | do a lot of volunteer",
+        "confidence": 0.9109,
+        "bbox": {
+          "x": 0.272941,
+          "y": 0.384242,
+          "width": 0.632549,
+          "height": 0.016667
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Personality: | think I'm a very generous person. | have a lot of free time, so | do a lot of volunteer",
+            "confidence": 0.9109
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Personality:I think I'm a very generous person.Ihavea lotoffree time, soIdo a lot ofvolunteer",
+            "confidence": 0.8952
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "instruction",
+        "content": "work at local schools. To me, it’s very important to give back to my community.",
+        "confidence": 0.9573,
+        "bbox": {
+          "x": 0.276471,
+          "y": 0.403333,
+          "width": 0.518431,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "work at local schools.Tome,it's very importantto giveback tomycommunity.",
+            "confidence": 0.9222
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "work at local schools. To me, it’s very important to give back to my community.",
+            "confidence": 0.9573
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "instruction",
+        "content": "Name:Suchin Home:Bangkok,Thailand",
+        "confidence": 0.9215,
+        "bbox": {
+          "x": 0.275333,
+          "y": 0.435858,
+          "width": 0.284667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Name:Suchin Home:Bangkok,Thailand",
+            "confidence": 0.9215
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Name: Suchin Home: Bangkok, Thailand",
+            "confidence": 0.894
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "Appearance:I'm30.I'mmedium height andIhave shorthair.",
+        "confidence": 0.9125,
+        "bbox": {
+          "x": 0.276,
+          "y": 0.452344,
+          "width": 0.403333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Appearance:I'm30.I'mmedium height andIhave shorthair.",
+            "confidence": 0.9125
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Appearance: I’m 30. |’m medium height and | have short hair.",
+            "confidence": 0.89
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "Personality: I’m friendly and hardworking. | work as a salesclerk in a clothing store. We sell clothing",
+        "confidence": 0.9318,
+        "bbox": {
+          "x": 0.276863,
+          "y": 0.467576,
+          "width": 0.646275,
+          "height": 0.016667
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Personality: I’m friendly and hardworking. | work as a salesclerk in a clothing store. We sell clothing",
+            "confidence": 0.9318
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Personality:I'mfriendly and hardworking.Iwork as a salesclerk in a clothing store.We sell clothing",
+            "confidence": 0.9083
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "from northern Thailand there.In myfree time,Iplay the seung,a traditional musical instrument.",
+        "confidence": 0.9312,
+        "bbox": {
+          "x": 0.274667,
+          "y": 0.483771,
+          "width": 0.631333,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "from northern Thailand there.In myfree time,Iplay the seung,a traditional musical instrument.",
+            "confidence": 0.9312
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "_ ~ from northern Thailand there. In my free time, | play the seung, a traditional musical instrument.",
+            "confidence": 0.895
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "eee ee",
+        "confidence": 0.26,
+        "bbox": {
+          "x": 0.199608,
+          "y": 0.513333,
+          "width": 0.056078,
+          "height": 0.002424
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "instruction",
+        "content": "Name:Marco Home:lquitos,Peru",
+        "confidence": 0.8613,
+        "bbox": {
+          "x": 0.275333,
+          "y": 0.517259,
+          "width": 0.238667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "sentence",
+        "content": "Appearance:I'm tall and handsome,with long black hair.",
+        "confidence": 0.8682,
+        "bbox": {
+          "x": 0.275333,
+          "y": 0.533745,
+          "width": 0.378667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "Personality: I'm talkative and friendly.Ihavea part-time job.Iquitos is in theAmazon,so piranha",
+        "confidence": 0.8963,
+        "bbox": {
+          "x": 0.275333,
+          "y": 0.549717,
+          "width": 0.637333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "sentence",
+        "content": "fishing is very popular.Itake touristsfishing,but we neverkeepthefish.",
+        "confidence": 0.9247,
+        "bbox": {
+          "x": 0.274667,
+          "y": 0.565688,
+          "width": 0.475333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "sentence",
+        "content": "B Read the webpage again. Adriano, Bea, Suchin, and Marco later uploaded these photos",
+        "confidence": 0.9514,
+        "bbox": {
+          "x": 0.121569,
+          "y": 0.607576,
+          "width": 0.620784,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B Read the webpage again. Adriano, Bea, Suchin, and Marco later uploaded these photos",
+            "confidence": 0.9257
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Read the webpage again. Adriano, Bea, Suchin, and Marco later uploaded these photos",
+            "confidence": 0.9514
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "sentence",
+        "content": "to their profiles. Write the name of the person under the correct photo.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.143529,
+          "y": 0.625758,
+          "width": 0.488235,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "to their profiles.Write thename of theperson under the correct photo.",
+            "confidence": 0.8734
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "to their profiles. Write the name of the person under the correct photo.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "sentence",
+        "content": "C Who wrote each sentence? Write the names.",
+        "confidence": 0.9237,
+        "bbox": {
+          "x": 0.121569,
+          "y": 0.791818,
+          "width": 0.32549,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "C Who wrote each sentence? Write the names.",
+            "confidence": 0.887
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "C Who wrote each sentence? Write the names.",
+            "confidence": 0.9237
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "Butthere'soneproblem-Ican'tswim!",
+        "confidence": 0.9051,
+        "bbox": {
+          "x": 0.340667,
+          "y": 0.815559,
+          "width": 0.266,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Butthere'soneproblem-Ican'tswim!",
+            "confidence": 0.9051
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 __ But there’s one problem - | can’t swim!",
+            "confidence": 0.681
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "sentence",
+        "content": "2 _ My neighbors complain about the noise.",
+        "confidence": 0.9425,
+        "bbox": {
+          "x": 0.144314,
+          "y": 0.841515,
+          "width": 0.468627,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "My neighbors complain about the noise.",
+            "confidence": 0.8964
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 _ My neighbors complain about the noise.",
+            "confidence": 0.9425
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "sentence",
+        "content": "3 | especially like to work with children.",
+        "confidence": 0.9425,
+        "bbox": {
+          "x": 0.143922,
+          "y": 0.865455,
+          "width": 0.451373,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Iespecially liketoworkwithchildren.",
+            "confidence": 0.888
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 | especially like to work with children.",
+            "confidence": 0.9425
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "I spenda lotofmoneyonpaper!",
+        "confidence": 0.8614,
+        "bbox": {
+          "x": 0.336,
+          "y": 0.889232,
+          "width": 0.226667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I spenda lotofmoneyonpaper!",
+            "confidence": 0.8614
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 dE Spend a lot of money on paper!",
+            "confidence": 0.8389
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "heading",
+        "content": "PAIRWORK",
+        "confidence": 0.8413,
+        "bbox": {
+          "x": 0.142,
+          "y": 0.915507,
+          "width": 0.080667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "sentence",
+        "content": "D Which person do you think is interesting? Why? Tell you partner.",
+        "confidence": 0.9558,
+        "bbox": {
+          "x": 0.123137,
+          "y": 0.917576,
+          "width": 0.547059,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Which person do you think is interesting? Why? Tell you partner.",
+            "confidence": 0.9102
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "D Which person do you think is interesting? Why? Tell you partner.",
+            "confidence": 0.9558
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "22",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.056471,
+          "y": 0.942424,
+          "width": 0.017255,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "22",
+            "confidence": 0.6571
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "22",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "People's profiles",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.137333,
+          "y": 0.049459,
+          "width": 0.420667,
+          "height": 0.041731
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.9041
+      },
+      {
+        "word": "Online profiles",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.275294,
+          "y": 0.231515,
+          "width": 0.251373,
+          "height": 0.025152
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.955
+      },
+      {
+        "word": "eee ee",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.199608,
+          "y": 0.513333,
+          "width": 0.056078,
+          "height": 0.002424
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.26
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Appearance:I'm30.I'mmedium height andIhave shorthair.",
+            "confidence": 0.9125,
+            "bbox": {
+              "x": 0.276,
+              "y": 0.452344,
+              "width": 0.403333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0014",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Appearance:I'm tall and handsome,with long black hair.",
+            "confidence": 0.8682,
+            "bbox": {
+              "x": 0.275333,
+              "y": 0.533745,
+              "width": 0.378667,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0019",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Personality: I'm talkative and friendly.Ihavea part-time job.Iquitos is in theAmazon,so piranha",
+            "confidence": 0.8963,
+            "bbox": {
+              "x": 0.275333,
+              "y": 0.549717,
+              "width": 0.637333,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0020",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Butthere'soneproblem-Ican'tswim!",
+            "confidence": 0.9051,
+            "bbox": {
+              "x": 0.340667,
+              "y": 0.815559,
+              "width": 0.266,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0025",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I spenda lotofmoneyonpaper!",
+            "confidence": 0.8614,
+            "bbox": {
+              "x": 0.336,
+              "y": 0.889232,
+              "width": 0.226667,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0028",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "reading_activity",
+        "instruction": "Read the webpage profiles. What is each person like?",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0003"
+        ],
+        "confidence": 0.914
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "reading_activity",
+        "instruction": "Read the webpage again. Adriano, Bea, Suchin, and Marco later uploaded these photos",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0022"
+        ],
+        "confidence": 0.9514
+      },
+      {
+        "exerciseNumber": "C",
+        "type": "writing_activity",
+        "instruction": "Who wrote each sentence? Write the names.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0024"
+        ],
+        "confidence": 0.9237
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "exercise",
+        "instruction": "| especially like to work with children.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0027"
+        ],
+        "confidence": 0.9425
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "eee ee",
+          "Name:Marco Home:lquitos,Peru",
+          "Appearance:I'm tall and handsome,with long black hair.",
+          "Personality: I'm talkative and friendly.Ihavea part-time job.Iquitos is in theAmazon,so piranha",
+          "fishing is very popular.Itake touristsfishing,but we neverkeepthefish.",
+          "B Read the webpage again. Adriano, Bea, Suchin, and Marco later uploaded these photos",
+          "to their profiles. Write the name of the person under the correct photo."
+        ],
+        "position": {
+          "x": 0.10156899999999999,
+          "y": 0.493333,
+          "width": 0.831097,
+          "height": 0.16636400000000007
+        },
+        "textElementIds": [
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "C Who wrote each sentence? Write the names.",
+          "Butthere'soneproblem-Ican'tswim!",
+          "2 _ My neighbors complain about the noise.",
+          "3 | especially like to work with children."
+        ],
+        "position": {
+          "x": 0.10156899999999999,
+          "y": 0.771818,
+          "width": 0.531372,
+          "height": 0.12606099999999998
+        },
+        "textElementIds": [
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "People's profiles\nReading n\nA Read the webpage profiles.What is each person like?\nOnline profiles\nName:AdrianoHome:Belo Horizonte,Brazil\nAppearance:I'm talland havelongbrown hair.Iwearonly black.\nPersonality:I'm a very creative person.I liketo make different things from paper.Ido it justfor\nfun.Icanmakeairplanes,birds,boats,andflowers.\nName:Bea Home:London, U.K.\nAppearance:I'm 60,with redhair.Ialways weargreen glasses.\nPersonality:I think I'm a very generous person.Ihavea lotoffree time, soIdo a lot ofvolunteer\nwork at local schools.Tome,it's very importantto giveback tomycommunity.\nName:Suchin Home:Bangkok,Thailand\nAppearance:I'm30.I'mmedium height andIhave shorthair.\nPersonality:I'mfriendly and hardworking.Iwork as a salesclerk in a clothing store.We sell clothing\nfrom northern Thailand there.In myfree time,Iplay the seung,a traditional musical instrument.\nName:Marco Home:lquitos,Peru\nAppearance:I'm tall and handsome,with long black hair.\nPersonality: I'm talkative and friendly.Ihavea part-time job.Iquitos is in theAmazon,so piranha\nfishing is very popular.Itake touristsfishing,but we neverkeepthefish.\nB Read the webpage again. Adriano, Bea, Suchin, and Marco later uploaded these photos\nto their profiles.Write thename of theperson under the correct photo.\nC Who wrote each sentence? Write the names.\nButthere'soneproblem-Ican'tswim!\nMy neighbors complain about the noise.\nIespecially liketoworkwithchildren.\nI spenda lotofmoneyonpaper!\nPAIRWORK\nWhich person do you think is interesting? Why? Tell you partner.\n22\ndehkhodaedu.com",
+      "tesseract_psm3": "D }Beople’s profiles\n\ni) Reading 9\n\nA Read the webpage profiles. What is each person like?\n\na SN\n\nOnline profiles\n\nName: Adriano Home: Belo Horizonte, Brazil\n\nAppearance: |’m tall and have long brown hair. | wear only black.\n\n_ Personality: I’m a very creative person. | like to make different things from paper. | do it just for\nfun. | can make airplanes, birds, boats, and flowers.\n\nName: Bea Home: London, U.K.\n\n__ Appearance: I’m 60, with red hair. | always wear green glasses.\nPersonality: | think I'm a very generous person. | have a lot of free time, so | do a lot of volunteer\nwork at local schools. To me, it’s very important to give back to my community.\n\nName: Suchin Home: Bangkok, Thailand\n\nAppearance: I’m 30. |’m medium height and | have short hair.\n\nPersonality: I’m friendly and hardworking. | work as a salesclerk in a clothing store. We sell clothing\n_ ~ from northern Thailand there. In my free time, | play the seung, a traditional musical instrument.\n\neee ee\nte\n\nB Read the webpage again. Adriano, Bea, Suchin, and Marco later uploaded these photos\nto their profiles. Write the name of the person under the correct photo.\n\nC Who wrote each sentence? Write the names.\n\n1 __ But there’s one problem - | can’t swim!\n2 _ My neighbors complain about the noise.\n3 | especially like to work with children.\n\n4 dE Spend a lot of money on paper!\n\nD Which person do you think is interesting? Why? Tell you partner.\n22\n\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [
+      {
+        "id": "text_0004",
+        "type": "text",
+        "content": "a SN",
+        "confidence": 0.175,
+        "bbox": {
+          "x": 0.268235,
+          "y": 0.210606,
+          "width": 0.045098,
+          "height": 0.006667
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0019",
+        "type": "text",
+        "content": "te",
+        "confidence": 0.24,
+        "bbox": {
+          "x": 0.235294,
+          "y": 0.516061,
+          "width": 0.018431,
+          "height": 0.001212
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "averageConfidence": 0.8927,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "1 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "2 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "reading",
+    "headings": [
+      "People's profiles",
+      "i) Reading 9",
+      "PAIRWORK"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "People's profiles",
+        "confidence": 0.9041,
+        "bbox": {
+          "x": 0.137333,
+          "y": 0.049459,
+          "width": 0.420667,
+          "height": 0.041731
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "D }Beople’s profiles",
+            "confidence": 0.66
+          },
+          {
+            "engine": "rapidocr",
+            "content": "People's profiles",
+            "confidence": 0.9041
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "i) Reading 9",
+        "confidence": 0.82,
+        "bbox": {
+          "x": 0.073333,
+          "y": 0.114545,
+          "width": 0.203529,
+          "height": 0.026667
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "i) Reading 9",
+            "confidence": 0.82
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Reading n",
+            "confidence": 0.7921
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "sentence",
+        "content": "A Read the webpage profiles. What is each person like?",
+        "confidence": 0.914,
+        "bbox": {
+          "x": 0.119216,
+          "y": 0.153939,
+          "width": 0.386667,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Read the webpage profiles.What is each person like?",
+            "confidence": 0.8719
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Read the webpage profiles. What is each person like?",
+            "confidence": 0.914
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "Online profiles",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.275294,
+          "y": 0.231515,
+          "width": 0.251373,
+          "height": 0.025152
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Online profiles",
+            "confidence": 0.8875
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Online profiles",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "instruction",
+        "content": "Name: Adriano Home: Belo Horizonte, Brazil",
+        "confidence": 0.9367,
+        "bbox": {
+          "x": 0.276863,
+          "y": 0.273333,
+          "width": 0.305882,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Name:AdrianoHome:Belo Horizonte,Brazil",
+            "confidence": 0.911
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Name: Adriano Home: Belo Horizonte, Brazil",
+            "confidence": 0.9367
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "sentence",
+        "content": "Appearance: |'m tall and have long brown hair. | wear only black.",
+        "confidence": 0.945,
+        "bbox": {
+          "x": 0.275686,
+          "y": 0.289394,
+          "width": 0.425098,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Appearance:I'm talland havelongbrown hair.Iwearonly black.",
+            "confidence": 0.8841
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Appearance: |’m tall and have long brown hair. | wear only black.",
+            "confidence": 0.945
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "paragraph",
+        "content": "Personality: I'm a very creative person. | like to make different things from paper. | do it just for",
+        "confidence": 0.9105,
+        "bbox": {
+          "x": 0.258824,
+          "y": 0.305758,
+          "width": 0.637255,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Personality:I'm a very creative person.I liketo make different things from paper.Ido it justfor",
+            "confidence": 0.8808
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "_ Personality: I’m a very creative person. | like to make different things from paper. | do it just for",
+            "confidence": 0.9105
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "sentence",
+        "content": "fun. | can make airplanes, birds, boats, and flowers.",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.276471,
+          "y": 0.321515,
+          "width": 0.336078,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "fun.Icanmakeairplanes,birds,boats,andflowers.",
+            "confidence": 0.8771
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "fun. | can make airplanes, birds, boats, and flowers.",
+            "confidence": 0.94
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "instruction",
+        "content": "Name: Bea Home: London, U. K.",
+        "confidence": 0.8666,
+        "bbox": {
+          "x": 0.275333,
+          "y": 0.353426,
+          "width": 0.223333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Name:Bea Home:London, U.K.",
+            "confidence": 0.8666
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Name: Bea Home: London, U.K.",
+            "confidence": 0.46
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "sentence",
+        "content": "Appearance: I'm 60, with red hair. | always wear green glasses.",
+        "confidence": 0.8767,
+        "bbox": {
+          "x": 0.261961,
+          "y": 0.369697,
+          "width": 0.423529,
+          "height": 0.01697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "__ Appearance: I’m 60, with red hair. | always wear green glasses.",
+            "confidence": 0.8767
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Appearance:I'm 60,with redhair.Ialways weargreen glasses.",
+            "confidence": 0.9294
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "paragraph",
+        "content": "Personality: | think I'm a very generous person. | have a lot of free time, so | do a lot of volunteer",
+        "confidence": 0.9109,
+        "bbox": {
+          "x": 0.272941,
+          "y": 0.384242,
+          "width": 0.632549,
+          "height": 0.016667
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Personality: | think I'm a very generous person. | have a lot of free time, so | do a lot of volunteer",
+            "confidence": 0.9109
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Personality:I think I'm a very generous person.Ihavea lotoffree time, soIdo a lot ofvolunteer",
+            "confidence": 0.8952
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "instruction",
+        "content": "work at local schools. To me, it's very important to give back to my community.",
+        "confidence": 0.9573,
+        "bbox": {
+          "x": 0.276471,
+          "y": 0.403333,
+          "width": 0.518431,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "work at local schools.Tome,it's very importantto giveback tomycommunity.",
+            "confidence": 0.9222
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "work at local schools. To me, it’s very important to give back to my community.",
+            "confidence": 0.9573
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "instruction",
+        "content": "Name: Suchin Home: Bangkok, Thailand",
+        "confidence": 0.9215,
+        "bbox": {
+          "x": 0.275333,
+          "y": 0.435858,
+          "width": 0.284667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Name:Suchin Home:Bangkok,Thailand",
+            "confidence": 0.9215
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Name: Suchin Home: Bangkok, Thailand",
+            "confidence": 0.894
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "Appearance: I'm 30. I'm medium height and Ihave shorthair.",
+        "confidence": 0.9125,
+        "bbox": {
+          "x": 0.276,
+          "y": 0.452344,
+          "width": 0.403333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Appearance:I'm30.I'mmedium height andIhave shorthair.",
+            "confidence": 0.9125
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Appearance: I’m 30. |’m medium height and | have short hair.",
+            "confidence": 0.89
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "Personality: I'm friendly and hardworking. | work as a salesclerk in a clothing store. We sell clothing",
+        "confidence": 0.9318,
+        "bbox": {
+          "x": 0.276863,
+          "y": 0.467576,
+          "width": 0.646275,
+          "height": 0.016667
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Personality: I’m friendly and hardworking. | work as a salesclerk in a clothing store. We sell clothing",
+            "confidence": 0.9318
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Personality:I'mfriendly and hardworking.Iwork as a salesclerk in a clothing store.We sell clothing",
+            "confidence": 0.9083
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "from northern Thailand there. In myfree time, Iplay the seung, a traditional musical instrument.",
+        "confidence": 0.9312,
+        "bbox": {
+          "x": 0.274667,
+          "y": 0.483771,
+          "width": 0.631333,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "from northern Thailand there.In myfree time,Iplay the seung,a traditional musical instrument.",
+            "confidence": 0.9312
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "_ ~ from northern Thailand there. In my free time, | play the seung, a traditional musical instrument.",
+            "confidence": 0.895
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "eee ee",
+        "confidence": 0.26,
+        "bbox": {
+          "x": 0.199608,
+          "y": 0.513333,
+          "width": 0.056078,
+          "height": 0.002424
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "instruction",
+        "content": "Name: Marco Home: lquitos, Peru",
+        "confidence": 0.8613,
+        "bbox": {
+          "x": 0.275333,
+          "y": 0.517259,
+          "width": 0.238667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "sentence",
+        "content": "Appearance: I'm tall and handsome, with long black hair.",
+        "confidence": 0.8682,
+        "bbox": {
+          "x": 0.275333,
+          "y": 0.533745,
+          "width": 0.378667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "sentence",
+        "content": "Personality: I'm talkative and friendly. Ihavea part-time job. Iquitos is in the Amazon, so piranha",
+        "confidence": 0.8963,
+        "bbox": {
+          "x": 0.275333,
+          "y": 0.549717,
+          "width": 0.637333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "sentence",
+        "content": "fishing is very popular. Itake touristsfishing, but we neverkeepthefish.",
+        "confidence": 0.9247,
+        "bbox": {
+          "x": 0.274667,
+          "y": 0.565688,
+          "width": 0.475333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "sentence",
+        "content": "B Read the webpage again. Adriano, Bea, Suchin, and Marco later uploaded these photos",
+        "confidence": 0.9514,
+        "bbox": {
+          "x": 0.121569,
+          "y": 0.607576,
+          "width": 0.620784,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B Read the webpage again. Adriano, Bea, Suchin, and Marco later uploaded these photos",
+            "confidence": 0.9257
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Read the webpage again. Adriano, Bea, Suchin, and Marco later uploaded these photos",
+            "confidence": 0.9514
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "sentence",
+        "content": "to their profiles. Write the name of the person under the correct photo.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.143529,
+          "y": 0.625758,
+          "width": 0.488235,
+          "height": 0.013939
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "to their profiles.Write thename of theperson under the correct photo.",
+            "confidence": 0.8734
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "to their profiles. Write the name of the person under the correct photo.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "sentence",
+        "content": "C Who wrote each sentence? Write the names.",
+        "confidence": 0.9237,
+        "bbox": {
+          "x": 0.121569,
+          "y": 0.791818,
+          "width": 0.32549,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "C Who wrote each sentence? Write the names.",
+            "confidence": 0.887
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "C Who wrote each sentence? Write the names.",
+            "confidence": 0.9237
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "Butthere's oneproblem-Ican't swim!",
+        "confidence": 0.9051,
+        "bbox": {
+          "x": 0.340667,
+          "y": 0.815559,
+          "width": 0.266,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Butthere'soneproblem-Ican'tswim!",
+            "confidence": 0.9051
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 __ But there’s one problem - | can’t swim!",
+            "confidence": 0.681
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "sentence",
+        "content": "2 _ My neighbors complain about the noise.",
+        "confidence": 0.9425,
+        "bbox": {
+          "x": 0.144314,
+          "y": 0.841515,
+          "width": 0.468627,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "My neighbors complain about the noise.",
+            "confidence": 0.8964
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 _ My neighbors complain about the noise.",
+            "confidence": 0.9425
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "sentence",
+        "content": "3 | especially like to work with children.",
+        "confidence": 0.9425,
+        "bbox": {
+          "x": 0.143922,
+          "y": 0.865455,
+          "width": 0.451373,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Iespecially liketoworkwithchildren.",
+            "confidence": 0.888
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 | especially like to work with children.",
+            "confidence": 0.9425
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "I spenda lotofmoneyonpaper!",
+        "confidence": 0.8614,
+        "bbox": {
+          "x": 0.336,
+          "y": 0.889232,
+          "width": 0.226667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I spenda lotofmoneyonpaper!",
+            "confidence": 0.8614
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 dE Spend a lot of money on paper!",
+            "confidence": 0.8389
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "heading",
+        "content": "PAIRWORK",
+        "confidence": 0.8413,
+        "bbox": {
+          "x": 0.142,
+          "y": 0.915507,
+          "width": 0.080667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "sentence",
+        "content": "D Which person do you think is interesting? Why? Tell you partner.",
+        "confidence": 0.9558,
+        "bbox": {
+          "x": 0.123137,
+          "y": 0.917576,
+          "width": 0.547059,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Which person do you think is interesting? Why? Tell you partner.",
+            "confidence": 0.9102
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "D Which person do you think is interesting? Why? Tell you partner.",
+            "confidence": 0.9558
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "audio_track",
+        "content": "22",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.056471,
+          "y": 0.942424,
+          "width": 0.017255,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "22",
+            "confidence": 0.6571
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "22",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "People's profiles",
+      "i) Reading 9",
+      "A Read the webpage profiles. What is each person like?",
+      "Online profiles",
+      "Name: Adriano Home: Belo Horizonte, Brazil",
+      "Appearance: |'m tall and have long brown hair. | wear only black.",
+      "Personality: I'm a very creative person. | like to make different things from paper. | do it just for",
+      "fun. | can make airplanes, birds, boats, and flowers.",
+      "Name: Bea Home: London, U. K.",
+      "Appearance: I'm 60, with red hair. | always wear green glasses.",
+      "Personality: | think I'm a very generous person. | have a lot of free time, so | do a lot of volunteer",
+      "work at local schools. To me, it's very important to give back to my community.",
+      "Name: Suchin Home: Bangkok, Thailand",
+      "Appearance: I'm 30. I'm medium height and Ihave shorthair.",
+      "Personality: I'm friendly and hardworking. | work as a salesclerk in a clothing store. We sell clothing",
+      "from northern Thailand there. In myfree time, Iplay the seung, a traditional musical instrument.",
+      "eee ee",
+      "Name: Marco Home: lquitos, Peru",
+      "Appearance: I'm tall and handsome, with long black hair.",
+      "Personality: I'm talkative and friendly. Ihavea part-time job. Iquitos is in the Amazon, so piranha",
+      "fishing is very popular. Itake touristsfishing, but we neverkeepthefish.",
+      "B Read the webpage again. Adriano, Bea, Suchin, and Marco later uploaded these photos",
+      "to their profiles. Write the name of the person under the correct photo.",
+      "C Who wrote each sentence? Write the names.",
+      "Butthere's oneproblem-Ican't swim!",
+      "2 _ My neighbors complain about the noise.",
+      "3 | especially like to work with children.",
+      "I spenda lotofmoneyonpaper!",
+      "PAIRWORK",
+      "D Which person do you think is interesting? Why? Tell you partner."
+    ],
+    "paragraphs": [
+      "Personality: I'm a very creative person. | like to make different things from paper. | do it just for",
+      "Personality: | think I'm a very generous person. | have a lot of free time, so | do a lot of volunteer"
+    ],
+    "sentences": [
+      "People's profiles i) Reading 9 A Read the webpage profiles",
+      "What is each person like",
+      "Online profiles Name: Adriano Home: Belo Horizonte, Brazil Appearance: |'m tall and have long brown hair",
+      "| wear only black",
+      "Personality: I'm a very creative person",
+      "| like to make different things from paper",
+      "| do it just for fun",
+      "| can make airplanes, birds, boats, and flowers",
+      "Name: Bea Home: London, U",
+      "K",
+      "Appearance: I'm 60, with red hair",
+      "| always wear green glasses",
+      "Personality: | think I'm a very generous person",
+      "| have a lot of free time, so | do a lot of volunteer work at local schools",
+      "To me, it's very important to give back to my community",
+      "Name: Suchin Home: Bangkok, Thailand Appearance: I'm 30",
+      "I'm medium height and Ihave shorthair",
+      "Personality: I'm friendly and hardworking",
+      "| work as a salesclerk in a clothing store",
+      "We sell clothing from northern Thailand there",
+      "In myfree time, Iplay the seung, a traditional musical instrument",
+      "eee ee Name: Marco Home: lquitos, Peru Appearance: I'm tall and handsome, with long black hair",
+      "Personality: I'm talkative and friendly",
+      "Ihavea part-time job",
+      "Iquitos is in the Amazon, so piranha fishing is very popular",
+      "Itake touristsfishing, but we neverkeepthefish",
+      "B Read the webpage again",
+      "Adriano, Bea, Suchin, and Marco later uploaded these photos to their profiles",
+      "Write the name of the person under the correct photo",
+      "C Who wrote each sentence",
+      "Write the names",
+      "Butthere's oneproblem-Ican't swim",
+      "2 _ My neighbors complain about the noise",
+      "3 | especially like to work with children",
+      "I spenda lotofmoneyonpaper",
+      "PAIRWORK D Which person do you think is interesting",
+      "Why",
+      "Tell you partner"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Appearance: I'm 30.",
+            "confidence": 0.9125,
+            "bbox": {
+              "x": 0.276,
+              "y": 0.452344,
+              "width": 0.403333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0014"
+          },
+          {
+            "speaker": null,
+            "content": "I'm medium height and Ihave shorthair.",
+            "confidence": 0.9125,
+            "bbox": {
+              "x": 0.276,
+              "y": 0.452344,
+              "width": 0.403333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0014"
+          },
+          {
+            "speaker": null,
+            "content": "Appearance: I'm tall and handsome, with long black hair.",
+            "confidence": 0.8682,
+            "bbox": {
+              "x": 0.275333,
+              "y": 0.533745,
+              "width": 0.378667,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0019"
+          },
+          {
+            "speaker": null,
+            "content": "Personality: I'm talkative and friendly.",
+            "confidence": 0.8963,
+            "bbox": {
+              "x": 0.275333,
+              "y": 0.549717,
+              "width": 0.637333,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0020"
+          },
+          {
+            "speaker": null,
+            "content": "Ihavea part-time job.",
+            "confidence": 0.8963,
+            "bbox": {
+              "x": 0.275333,
+              "y": 0.549717,
+              "width": 0.637333,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0020"
+          },
+          {
+            "speaker": null,
+            "content": "Iquitos is in the Amazon, so piranha",
+            "confidence": 0.8963,
+            "bbox": {
+              "x": 0.275333,
+              "y": 0.549717,
+              "width": 0.637333,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0020"
+          },
+          {
+            "speaker": null,
+            "content": "Butthere's oneproblem-Ican't swim!",
+            "confidence": 0.9051,
+            "bbox": {
+              "x": 0.340667,
+              "y": 0.815559,
+              "width": 0.266,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0025"
+          },
+          {
+            "speaker": null,
+            "content": "I spenda lotofmoneyonpaper!",
+            "confidence": 0.8614,
+            "bbox": {
+              "x": 0.336,
+              "y": 0.889232,
+              "width": 0.226667,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0028"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "reading",
+        "instruction": "Read the webpage profiles. What is each person like?",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "reading",
+        "instruction": "Read the webpage again. Adriano, Bea, Suchin, and Marco later uploaded these photos",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "C",
+        "type": "writing",
+        "instruction": "Who wrote each sentence? Write the names.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "exercise",
+        "instruction": "especially like to work with children.",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "eee ee",
+          "Name: Marco Home: lquitos, Peru",
+          "Appearance: I'm tall and handsome, with long black hair.",
+          "Personality: I'm talkative and friendly. Ihavea part-time job. Iquitos is in the Amazon, so piranha",
+          "fishing is very popular. Itake touristsfishing, but we neverkeepthefish.",
+          "B Read the webpage again. Adriano, Bea, Suchin, and Marco later uploaded these photos",
+          "to their profiles. Write the name of the person under the correct photo."
+        ],
+        "position": {
+          "x": 0.10156899999999999,
+          "y": 0.493333,
+          "width": 0.831097,
+          "height": 0.16636400000000007
+        },
+        "textElementIds": [
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "C Who wrote each sentence? Write the names.",
+          "Butthere's oneproblem-Ican't swim!",
+          "2 _ My neighbors complain about the noise.",
+          "3 | especially like to work with children."
+        ],
+        "position": {
+          "x": 0.10156899999999999,
+          "y": 0.771818,
+          "width": 0.531372,
+          "height": 0.12606099999999998
+        },
+        "textElementIds": [
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027"
+        ]
+      }
+    ],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "reading",
+    "title": "People's profiles",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "Appearance: I'm 30.",
+            "confidence": 0.9125
+          },
+          {
+            "speaker": null,
+            "content": "I'm medium height and Ihave shorthair.",
+            "confidence": 0.9125
+          },
+          {
+            "speaker": null,
+            "content": "Appearance: I'm tall and handsome, with long black hair.",
+            "confidence": 0.8682
+          },
+          {
+            "speaker": null,
+            "content": "Personality: I'm talkative and friendly.",
+            "confidence": 0.8963
+          },
+          {
+            "speaker": null,
+            "content": "Ihavea part-time job.",
+            "confidence": 0.8963
+          },
+          {
+            "speaker": null,
+            "content": "Iquitos is in the Amazon, so piranha",
+            "confidence": 0.8963
+          },
+          {
+            "speaker": null,
+            "content": "Butthere's oneproblem-Ican't swim!",
+            "confidence": 0.9051
+          },
+          {
+            "speaker": null,
+            "content": "I spenda lotofmoneyonpaper!",
+            "confidence": 0.8614
+          }
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "title": "People's profiles",
+        "paragraphs": [
+          "Personality: I'm a very creative person. | like to make different things from paper. | do it just for",
+          "Personality: | think I'm a very generous person. | have a lot of free time, so | do a lot of volunteer"
+        ],
+        "sentences": [
+          "People's profiles i) Reading 9 A Read the webpage profiles",
+          "What is each person like",
+          "Online profiles Name: Adriano Home: Belo Horizonte, Brazil Appearance: |'m tall and have long brown hair",
+          "| wear only black",
+          "Personality: I'm a very creative person",
+          "| like to make different things from paper",
+          "| do it just for fun",
+          "| can make airplanes, birds, boats, and flowers",
+          "Name: Bea Home: London, U",
+          "K",
+          "Appearance: I'm 60, with red hair",
+          "| always wear green glasses",
+          "Personality: | think I'm a very generous person",
+          "| have a lot of free time, so | do a lot of volunteer work at local schools",
+          "To me, it's very important to give back to my community",
+          "Name: Suchin Home: Bangkok, Thailand Appearance: I'm 30",
+          "I'm medium height and Ihave shorthair",
+          "Personality: I'm friendly and hardworking",
+          "| work as a salesclerk in a clothing store",
+          "We sell clothing from northern Thailand there",
+          "In myfree time, Iplay the seung, a traditional musical instrument",
+          "eee ee Name: Marco Home: lquitos, Peru Appearance: I'm tall and handsome, with long black hair",
+          "Personality: I'm talkative and friendly",
+          "Ihavea part-time job",
+          "Iquitos is in the Amazon, so piranha fishing is very popular",
+          "Itake touristsfishing, but we neverkeepthefish",
+          "B Read the webpage again",
+          "Adriano, Bea, Suchin, and Marco later uploaded these photos to their profiles",
+          "Write the name of the person under the correct photo",
+          "C Who wrote each sentence",
+          "Write the names",
+          "Butthere's oneproblem-Ican't swim",
+          "2 _ My neighbors complain about the noise",
+          "3 | especially like to work with children",
+          "I spenda lotofmoneyonpaper",
+          "PAIRWORK D Which person do you think is interesting",
+          "Why",
+          "Tell you partner"
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "reading",
+        "instruction": "Read the webpage profiles. What is each person like?",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "reading",
+        "instruction": "Read the webpage again. Adriano, Bea, Suchin, and Marco later uploaded these photos",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "C",
+        "type": "writing",
+        "instruction": "Who wrote each sentence? Write the names.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "exercise",
+        "instruction": "especially like to work with children.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "1 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "2 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "dialoguesSplit": 5
+    },
+    "averageOcrConfidence": 0.8927,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 2 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc2_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

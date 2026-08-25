@@ -1,0 +1,3359 @@
+{
+  "pageNumber": 20,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "verified sequential printed-footer pattern",
+  "pdfPageNumber": 21,
+  "source": {
+    "pdfFile": "Family and Friends 1 SB_Part1.pdf",
+    "pdfLocalPageNumber": 21,
+    "pageSizePoints": {
+      "width": 598.08,
+      "height": 796.32
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Skills Time!",
+        "confidence": 0.8661,
+        "bbox": {
+          "x": 0.144,
+          "y": 0.036054,
+          "width": 0.245333,
+          "height": 0.032048
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Lesson Five",
+        "confidence": 0.8611,
+        "bbox": {
+          "x": 0.073333,
+          "y": 0.084627,
+          "width": 0.134,
+          "height": 0.019529
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Reading",
+        "confidence": 0.8591,
+        "bbox": {
+          "x": 0.074667,
+          "y": 0.134201,
+          "width": 0.089333,
+          "height": 0.022534
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "instruction",
+        "content": "1 Point to an animal and a toy. Say the words.",
+        "confidence": 0.9064,
+        "bbox": {
+          "x": 0.06862,
+          "y": 0.172092,
+          "width": 0.516453,
+          "height": 0.023508
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "1 Point to an animal and a toy.Say the words",
+            "confidence": 0.8759
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Point to an animal and a toy. Say the words.",
+            "confidence": 0.9064
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "instruction",
+        "content": "2 Read and listen to the poem. @) 30",
+        "confidence": 0.9233,
+        "bbox": {
+          "x": 0.067416,
+          "y": 0.206148,
+          "width": 0.399278,
+          "height": 0.020193
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2 Read and listen tothepoem.",
+            "confidence": 0.8305
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Read and listen to the poem. @) 30",
+            "confidence": 0.9233
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "30",
+        "confidence": 0.5615,
+        "bbox": {
+          "x": 0.451333,
+          "y": 0.211317,
+          "width": 0.016,
+          "height": 0.011017
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0007",
+        "type": "sentence",
+        "content": "My favorite ...",
+        "confidence": 0.9267,
+        "bbox": {
+          "x": 0.441011,
+          "y": 0.263412,
+          "width": 0.176565,
+          "height": 0.026221
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "My favorite...",
+            "confidence": 0.7848
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My favorite ...",
+            "confidence": 0.9267
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "sentence",
+        "content": "What's my favorite toy?",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.404896,
+          "y": 0.303195,
+          "width": 0.246388,
+          "height": 0.024412
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What's my favorite toy?",
+            "confidence": 0.909
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What's my favorite toy?",
+            "confidence": 0.93
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "sentence",
+        "content": "My favorite one of dll.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.414125,
+          "y": 0.331826,
+          "width": 0.232745,
+          "height": 0.024714
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "My favorite one of all.",
+            "confidence": 0.8692
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My favorite one of dll.",
+            "confidence": 0.95
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "sentence",
+        "content": "Is it my scooter? Is it my doll?",
+        "confidence": 0.8912,
+        "bbox": {
+          "x": 0.371188,
+          "y": 0.359855,
+          "width": 0.31862,
+          "height": 0.024412
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Is it my scooter? Is it my doll?",
+            "confidence": 0.8733
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Is it my scooter? Is it my doll?",
+            "confidence": 0.8912
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "sentence",
+        "content": "No, it's my orange ball.",
+        "confidence": 0.9272,
+        "bbox": {
+          "x": 0.402667,
+          "y": 0.38658,
+          "width": 0.252667,
+          "height": 0.025038
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "No, it's my orange ball.",
+            "confidence": 0.9272
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "No, it’s my orange ball.",
+            "confidence": 0.888
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "sentence",
+        "content": "What's my favorite color?",
+        "confidence": 0.9275,
+        "bbox": {
+          "x": 0.394864,
+          "y": 0.427366,
+          "width": 0.270064,
+          "height": 0.02381
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What's my favorite color?",
+            "confidence": 0.8924
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What's my favorite color?",
+            "confidence": 0.9275
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "sentence",
+        "content": "What do you think?",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.427368,
+          "y": 0.455395,
+          "width": 0.203852,
+          "height": 0.024412
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What do you think?",
+            "confidence": 0.888
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What do you think?",
+            "confidence": 0.9575
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "Is it yellow? Is it white?",
+        "confidence": 0.8847,
+        "bbox": {
+          "x": 0.408667,
+          "y": 0.481222,
+          "width": 0.243333,
+          "height": 0.02654
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Is it yellow? Is it white?",
+            "confidence": 0.8847
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Is it yellow? Is it white?",
+            "confidence": 0.8317
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "No, it’s the color pink.",
+        "confidence": 0.916,
+        "bbox": {
+          "x": 0.414125,
+          "y": 0.512658,
+          "width": 0.233949,
+          "height": 0.02381
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "No, it's the color pink",
+            "confidence": 0.8241
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "No, it’s the color pink.",
+            "confidence": 0.916
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "What's my favorite animal?",
+        "confidence": 0.931,
+        "bbox": {
+          "x": 0.384667,
+          "y": 0.548823,
+          "width": 0.292,
+          "height": 0.027041
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What's my favorite animal?",
+            "confidence": 0.931
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What's my favorite animal?",
+            "confidence": 0.8175
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "paragraph",
+        "content": "Try to guess the word.",
+        "confidence": 0.938,
+        "bbox": {
+          "x": 0.412921,
+          "y": 0.580169,
+          "width": 0.233949,
+          "height": 0.025316
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Try to guess the word.",
+            "confidence": 0.9081
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Try to guess the word.",
+            "confidence": 0.938
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "paragraph",
+        "content": "\\s it a zebra? Is it a cate",
+        "confidence": 0.8225,
+        "bbox": {
+          "x": 0.399278,
+          "y": 0.608198,
+          "width": 0.264446,
+          "height": 0.019289
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "\\s it a zebra? Is it a cate",
+            "confidence": 0.8225
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Isitazebra?Isitqcat?",
+            "confidence": 0.8053
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "sentence",
+        "content": "No, it's a pretty bird.",
+        "confidence": 0.8772,
+        "bbox": {
+          "x": 0.418,
+          "y": 0.635954,
+          "width": 0.225333,
+          "height": 0.025038
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "No, it's a pretty bird.",
+            "confidence": 0.8772
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "No, it's a pretty bird.",
+            "confidence": 0.818
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "| Holly, age 7.",
+        "confidence": 0.835,
+        "bbox": {
+          "x": 0.401685,
+          "y": 0.675708,
+          "width": 0.192215,
+          "height": 0.025316
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Holly, age 7.",
+            "confidence": 0.8397
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| Holly, age 7.",
+            "confidence": 0.835
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "instruction",
+        "content": "3 Read again and write.",
+        "confidence": 0.948,
+        "bbox": {
+          "x": 0.07183,
+          "y": 0.79566,
+          "width": 0.272472,
+          "height": 0.01959
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3Readagainand write.",
+            "confidence": 0.8882
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Read again and write.",
+            "confidence": 0.948
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "paragraph",
+        "content": "My favorite toy is a ball",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.257624,
+          "y": 0.822785,
+          "width": 0.288122,
+          "height": 0.020193
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "ball",
+            "confidence": 0.7945
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My favorite toy is a ball",
+            "confidence": 0.9567
+          },
+          {
+            "engine": "rapidocr",
+            "content": "My favorite toy is a",
+            "confidence": 0.8453
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "Myfavoritecoloris",
+        "confidence": 0.8715,
+        "bbox": {
+          "x": 0.257333,
+          "y": 0.851778,
+          "width": 0.190667,
+          "height": 0.017526
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Myfavoritecoloris",
+            "confidence": 0.8715
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My favorite color is :",
+            "confidence": 0.826
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "Myfavorite",
+        "confidence": 0.8679,
+        "bbox": {
+          "x": 0.256,
+          "y": 0.877817,
+          "width": 0.116,
+          "height": 0.020531
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "sentence",
+        "content": "My favorite _ isa bird.",
+        "confidence": 0.902,
+        "bbox": {
+          "x": 0.258828,
+          "y": 0.878541,
+          "width": 0.351124,
+          "height": 0.019289
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "is a bird.",
+            "confidence": 0.8477
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My favorite _ isa bird.",
+            "confidence": 0.902
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "20",
+        "confidence": 0.666,
+        "bbox": {
+          "x": 0.038,
+          "y": 0.943916,
+          "width": 0.032667,
+          "height": 0.018528
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0027",
+        "type": "heading",
+        "content": "Unit2",
+        "confidence": 0.8093,
+        "bbox": {
+          "x": 0.120667,
+          "y": 0.947922,
+          "width": 0.054667,
+          "height": 0.014021
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "Reading:apoem",
+        "confidence": 0.8488,
+        "bbox": {
+          "x": 0.177333,
+          "y": 0.947922,
+          "width": 0.136667,
+          "height": 0.015023
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "bis Unit 2 Reading: a poem",
+            "confidence": 0.77
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Reading:apoem",
+            "confidence": 0.8488
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "Skills Time!",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.144,
+          "y": 0.036054,
+          "width": 0.245333,
+          "height": 0.032048
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8661
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "My favorite ...",
+            "confidence": 0.9267,
+            "bbox": {
+              "x": 0.441011,
+              "y": 0.263412,
+              "width": 0.176565,
+              "height": 0.026221
+            },
+            "sourceElementId": "text_0007",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "What's my favorite toy?",
+            "confidence": 0.93,
+            "bbox": {
+              "x": 0.404896,
+              "y": 0.303195,
+              "width": 0.246388,
+              "height": 0.024412
+            },
+            "sourceElementId": "text_0008",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "My favorite one of dll.",
+            "confidence": 0.95,
+            "bbox": {
+              "x": 0.414125,
+              "y": 0.331826,
+              "width": 0.232745,
+              "height": 0.024714
+            },
+            "sourceElementId": "text_0009",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Is it my scooter? Is it my doll?",
+            "confidence": 0.8912,
+            "bbox": {
+              "x": 0.371188,
+              "y": 0.359855,
+              "width": 0.31862,
+              "height": 0.024412
+            },
+            "sourceElementId": "text_0010",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "No, it's my orange ball.",
+            "confidence": 0.9272,
+            "bbox": {
+              "x": 0.402667,
+              "y": 0.38658,
+              "width": 0.252667,
+              "height": 0.025038
+            },
+            "sourceElementId": "text_0011",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "What's my favorite color?",
+            "confidence": 0.9275,
+            "bbox": {
+              "x": 0.394864,
+              "y": 0.427366,
+              "width": 0.270064,
+              "height": 0.02381
+            },
+            "sourceElementId": "text_0012",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "What do you think?",
+            "confidence": 0.9575,
+            "bbox": {
+              "x": 0.427368,
+              "y": 0.455395,
+              "width": 0.203852,
+              "height": 0.024412
+            },
+            "sourceElementId": "text_0013",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Is it yellow? Is it white?",
+            "confidence": 0.8847,
+            "bbox": {
+              "x": 0.408667,
+              "y": 0.481222,
+              "width": 0.243333,
+              "height": 0.02654
+            },
+            "sourceElementId": "text_0014",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "No, it’s the color pink.",
+            "confidence": 0.916,
+            "bbox": {
+              "x": 0.414125,
+              "y": 0.512658,
+              "width": 0.233949,
+              "height": 0.02381
+            },
+            "sourceElementId": "text_0015",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "What's my favorite animal?",
+            "confidence": 0.931,
+            "bbox": {
+              "x": 0.384667,
+              "y": 0.548823,
+              "width": 0.292,
+              "height": 0.027041
+            },
+            "sourceElementId": "text_0016",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "No, it's a pretty bird.",
+            "confidence": 0.8772,
+            "bbox": {
+              "x": 0.418,
+              "y": 0.635954,
+              "width": 0.225333,
+              "height": 0.025038
+            },
+            "sourceElementId": "text_0019",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "My favorite _ isa bird.",
+            "confidence": 0.902,
+            "bbox": {
+              "x": 0.258828,
+              "y": 0.878541,
+              "width": 0.351124,
+              "height": 0.019289
+            },
+            "sourceElementId": "text_0025",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Speech-bubble/dialogue-like text was detected spatially; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "speaking_activity",
+        "instruction": "Point to an animal and a toy. Say the words.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0004"
+        ],
+        "confidence": 0.9064
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "listening_activity",
+        "instruction": "Read and listen to the poem. @) 30",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0005"
+        ],
+        "confidence": 0.9233
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "writing_activity",
+        "instruction": "Read again and write.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0021"
+        ],
+        "confidence": 0.948
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "2 Read and listen to the poem. @) 30",
+          "30",
+          "My favorite ...",
+          "What's my favorite toy?",
+          "My favorite one of dll.",
+          "Is it my scooter? Is it my doll?",
+          "No, it's my orange ball."
+        ],
+        "position": {
+          "x": 0.047416,
+          "y": 0.186148,
+          "width": 0.662392,
+          "height": 0.24547
+        },
+        "textElementIds": [
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "What's my favorite color?",
+          "What do you think?",
+          "Is it yellow? Is it white?",
+          "No, it’s the color pink.",
+          "What's my favorite animal?",
+          "Try to guess the word.",
+          "\\s it a zebra? Is it a cate",
+          "No, it's a pretty bird."
+        ],
+        "position": {
+          "x": 0.364667,
+          "y": 0.407366,
+          "width": 0.332,
+          "height": 0.273626
+        },
+        "textElementIds": [
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "| Holly, age 7.",
+          "3 Read again and write.",
+          "My favorite toy is a ball",
+          "Myfavoritecoloris"
+        ],
+        "position": {
+          "x": 0.05183,
+          "y": 0.655708,
+          "width": 0.56207,
+          "height": 0.233596
+        },
+        "textElementIds": [
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [
+      {
+        "content": "My favorite ...",
+        "confidence": 0.9267,
+        "bbox": {
+          "x": 0.441011,
+          "y": 0.263412,
+          "width": 0.176565,
+          "height": 0.026221
+        },
+        "sourceElementId": "text_0007"
+      },
+      {
+        "content": "What's my favorite toy?",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.404896,
+          "y": 0.303195,
+          "width": 0.246388,
+          "height": 0.024412
+        },
+        "sourceElementId": "text_0008"
+      },
+      {
+        "content": "My favorite one of dll.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.414125,
+          "y": 0.331826,
+          "width": 0.232745,
+          "height": 0.024714
+        },
+        "sourceElementId": "text_0009"
+      },
+      {
+        "content": "Is it my scooter? Is it my doll?",
+        "confidence": 0.8912,
+        "bbox": {
+          "x": 0.371188,
+          "y": 0.359855,
+          "width": 0.31862,
+          "height": 0.024412
+        },
+        "sourceElementId": "text_0010"
+      },
+      {
+        "content": "No, it's my orange ball.",
+        "confidence": 0.9272,
+        "bbox": {
+          "x": 0.402667,
+          "y": 0.38658,
+          "width": 0.252667,
+          "height": 0.025038
+        },
+        "sourceElementId": "text_0011"
+      },
+      {
+        "content": "What's my favorite color?",
+        "confidence": 0.9275,
+        "bbox": {
+          "x": 0.394864,
+          "y": 0.427366,
+          "width": 0.270064,
+          "height": 0.02381
+        },
+        "sourceElementId": "text_0012"
+      },
+      {
+        "content": "What do you think?",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.427368,
+          "y": 0.455395,
+          "width": 0.203852,
+          "height": 0.024412
+        },
+        "sourceElementId": "text_0013"
+      },
+      {
+        "content": "Is it yellow? Is it white?",
+        "confidence": 0.8847,
+        "bbox": {
+          "x": 0.408667,
+          "y": 0.481222,
+          "width": 0.243333,
+          "height": 0.02654
+        },
+        "sourceElementId": "text_0014"
+      },
+      {
+        "content": "No, it’s the color pink.",
+        "confidence": 0.916,
+        "bbox": {
+          "x": 0.414125,
+          "y": 0.512658,
+          "width": 0.233949,
+          "height": 0.02381
+        },
+        "sourceElementId": "text_0015"
+      },
+      {
+        "content": "What's my favorite animal?",
+        "confidence": 0.931,
+        "bbox": {
+          "x": 0.384667,
+          "y": 0.548823,
+          "width": 0.292,
+          "height": 0.027041
+        },
+        "sourceElementId": "text_0016"
+      },
+      {
+        "content": "Try to guess the word.",
+        "confidence": 0.938,
+        "bbox": {
+          "x": 0.412921,
+          "y": 0.580169,
+          "width": 0.233949,
+          "height": 0.025316
+        },
+        "sourceElementId": "text_0017"
+      },
+      {
+        "content": "\\s it a zebra? Is it a cate",
+        "confidence": 0.8225,
+        "bbox": {
+          "x": 0.399278,
+          "y": 0.608198,
+          "width": 0.264446,
+          "height": 0.019289
+        },
+        "sourceElementId": "text_0018"
+      },
+      {
+        "content": "No, it's a pretty bird.",
+        "confidence": 0.8772,
+        "bbox": {
+          "x": 0.418,
+          "y": 0.635954,
+          "width": 0.225333,
+          "height": 0.025038
+        },
+        "sourceElementId": "text_0019"
+      },
+      {
+        "content": "| Holly, age 7.",
+        "confidence": 0.835,
+        "bbox": {
+          "x": 0.401685,
+          "y": 0.675708,
+          "width": 0.192215,
+          "height": 0.025316
+        },
+        "sourceElementId": "text_0020"
+      },
+      {
+        "content": "My favorite toy is a ball",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.257624,
+          "y": 0.822785,
+          "width": 0.288122,
+          "height": 0.020193
+        },
+        "sourceElementId": "text_0022"
+      },
+      {
+        "content": "My favorite _ isa bird.",
+        "confidence": 0.902,
+        "bbox": {
+          "x": 0.258828,
+          "y": 0.878541,
+          "width": 0.351124,
+          "height": 0.019289
+        },
+        "sourceElementId": "text_0025"
+      }
+    ],
+    "rawOcrAudit": {
+      "rapidocr": "Skills Time!\nLesson Five\nReading\n1 Point to an animal and a toy.Say the words\n2 Read and listen tothepoem.\n30\nMy favorite...\nWhat's my favorite toy?\nMy favorite one of all.\nIs it my scooter? Is it my doll?\nNo, it's my orange ball.\nWhat's my favorite color?\nWhat do you think?\nIs it yellow? Is it white?\nNo, it's the color pink\nWhat's my favorite animal?\nTry to guess the word.\nIsitazebra?Isitqcat?\nNo, it's a pretty bird.\nHolly, age 7.\n3Readagainand write.\nball\nMy favorite toy is a\nMyfavoritecoloris\nis a bird.\nMyfavorite\n20\nUnit2\nReading:apoem",
+      "tesseract_psm3": "1 Point to an animal and a toy. Say the words.\n\n2 Read and listen to the poem. @) 30\n\nMy favorite ...\n\nWhat's my favorite toy?\nMy favorite one of dll.\nIs it my scooter? Is it my doll?\nNo, it’s my orange ball.\nWhat's my favorite color?\nWhat do you think?\nIs it yellow? Is it white?\nNo, it’s the color pink.\n\n—\n\nWhat's my favorite animal?\nTry to guess the word.\n\\s it a zebra? Is it a cate\n\nNo, it's a pretty bird.\n| Holly, age 7.\n\n3 Read again and write.\n\nMy favorite toy is a ball\nMy favorite color is :\nMy favorite _ isa bird.\n\nbis Unit 2 Reading: a poem\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": "",
+      "footer_passes": [
+        "\\62/ My favorite Is a bird.\nbis Unit 2 Reading: a poem",
+        "isa\n\nird.\n\n\\62/ My favorite\n\nUnit 2 Reading: a poem"
+      ]
+    },
+    "excludedOcrNoise": [
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "—",
+        "confidence": 0.2,
+        "bbox": {
+          "x": 0.538925,
+          "y": 0.537071,
+          "width": 0.113563,
+          "height": 0.006028
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "averageConfidence": 0.8772,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "2 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "1 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "skills_time",
+    "pagePurpose": null,
+    "readingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "headings": [
+      {
+        "id": "text_0001",
+        "content": "Skills Time!",
+        "confidence": 0.8661,
+        "bbox": {
+          "x": 0.144,
+          "y": 0.036054,
+          "width": 0.245333,
+          "height": 0.032048
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0001"
+        ]
+      },
+      {
+        "id": "text_0002",
+        "content": "Lesson Five",
+        "confidence": 0.8611,
+        "bbox": {
+          "x": 0.073333,
+          "y": 0.084627,
+          "width": 0.134,
+          "height": 0.019529
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "id": "text_0003",
+        "content": "Reading",
+        "confidence": 0.8591,
+        "bbox": {
+          "x": 0.074667,
+          "y": 0.134201,
+          "width": 0.089333,
+          "height": 0.022534
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0003"
+        ]
+      },
+      {
+        "id": "text_0027",
+        "content": "Unit 2",
+        "confidence": 0.8093,
+        "bbox": {
+          "x": 0.120667,
+          "y": 0.947922,
+          "width": 0.054667,
+          "height": 0.014021
+        },
+        "repaired": true,
+        "sourceElementIds": [
+          "text_0027"
+        ]
+      }
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Skills Time!",
+        "originalContent": "Skills Time!",
+        "confidence": 0.8661,
+        "bbox": {
+          "x": 0.144,
+          "y": 0.036054,
+          "width": 0.245333,
+          "height": 0.032048
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Lesson Five",
+        "originalContent": "Lesson Five",
+        "confidence": 0.8611,
+        "bbox": {
+          "x": 0.073333,
+          "y": 0.084627,
+          "width": 0.134,
+          "height": 0.019529
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Reading",
+        "originalContent": "Reading",
+        "confidence": 0.8591,
+        "bbox": {
+          "x": 0.074667,
+          "y": 0.134201,
+          "width": 0.089333,
+          "height": 0.022534
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0004",
+        "type": "instruction",
+        "content": "1 Point to an animal and a toy. Say the words.",
+        "originalContent": "1 Point to an animal and a toy. Say the words.",
+        "confidence": 0.9064,
+        "bbox": {
+          "x": 0.06862,
+          "y": 0.172092,
+          "width": 0.516453,
+          "height": 0.023508
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "1 Point to an animal and a toy.Say the words",
+            "confidence": 0.8759
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Point to an animal and a toy. Say the words.",
+            "confidence": 0.9064
+          }
+        ]
+      },
+      {
+        "id": "text_0005",
+        "type": "instruction",
+        "content": "2 Read and listen to the poem. @) 30",
+        "originalContent": "2 Read and listen to the poem. @) 30",
+        "confidence": 0.9233,
+        "bbox": {
+          "x": 0.067416,
+          "y": 0.206148,
+          "width": 0.399278,
+          "height": 0.020193
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2 Read and listen tothepoem.",
+            "confidence": 0.8305
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Read and listen to the poem. @) 30",
+            "confidence": 0.9233
+          }
+        ]
+      },
+      {
+        "id": "text_0007",
+        "type": "sentence",
+        "content": "My favorite...",
+        "originalContent": "My favorite ...",
+        "confidence": 0.9267,
+        "bbox": {
+          "x": 0.441011,
+          "y": 0.263412,
+          "width": 0.176565,
+          "height": 0.026221
+        },
+        "repaired": true,
+        "repairNotes": [
+          "cleaned"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "My favorite...",
+            "confidence": 0.7848
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My favorite ...",
+            "confidence": 0.9267
+          }
+        ]
+      },
+      {
+        "id": "text_0008",
+        "type": "sentence",
+        "content": "What's my favorite toy?",
+        "originalContent": "What's my favorite toy?",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.404896,
+          "y": 0.303195,
+          "width": 0.246388,
+          "height": 0.024412
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What's my favorite toy?",
+            "confidence": 0.909
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What's my favorite toy?",
+            "confidence": 0.93
+          }
+        ]
+      },
+      {
+        "id": "text_0009",
+        "type": "sentence",
+        "content": "My favorite one of dll.",
+        "originalContent": "My favorite one of dll.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.414125,
+          "y": 0.331826,
+          "width": 0.232745,
+          "height": 0.024714
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "My favorite one of all.",
+            "confidence": 0.8692
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My favorite one of dll.",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "id": "text_0010",
+        "type": "sentence",
+        "content": "Is it my scooter? Is it my doll?",
+        "originalContent": "Is it my scooter? Is it my doll?",
+        "confidence": 0.8912,
+        "bbox": {
+          "x": 0.371188,
+          "y": 0.359855,
+          "width": 0.31862,
+          "height": 0.024412
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Is it my scooter? Is it my doll?",
+            "confidence": 0.8733
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Is it my scooter? Is it my doll?",
+            "confidence": 0.8912
+          }
+        ]
+      },
+      {
+        "id": "text_0011",
+        "type": "sentence",
+        "content": "No, it's my orange ball.",
+        "originalContent": "No, it's my orange ball.",
+        "confidence": 0.9272,
+        "bbox": {
+          "x": 0.402667,
+          "y": 0.38658,
+          "width": 0.252667,
+          "height": 0.025038
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "No, it's my orange ball.",
+            "confidence": 0.9272
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "No, it’s my orange ball.",
+            "confidence": 0.888
+          }
+        ]
+      },
+      {
+        "id": "text_0012",
+        "type": "sentence",
+        "content": "What's my favorite color?",
+        "originalContent": "What's my favorite color?",
+        "confidence": 0.9275,
+        "bbox": {
+          "x": 0.394864,
+          "y": 0.427366,
+          "width": 0.270064,
+          "height": 0.02381
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What's my favorite color?",
+            "confidence": 0.8924
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What's my favorite color?",
+            "confidence": 0.9275
+          }
+        ]
+      },
+      {
+        "id": "text_0013",
+        "type": "sentence",
+        "content": "What do you think?",
+        "originalContent": "What do you think?",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.427368,
+          "y": 0.455395,
+          "width": 0.203852,
+          "height": 0.024412
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What do you think?",
+            "confidence": 0.888
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What do you think?",
+            "confidence": 0.9575
+          }
+        ]
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "Is it yellow? Is it white?",
+        "originalContent": "Is it yellow? Is it white?",
+        "confidence": 0.8847,
+        "bbox": {
+          "x": 0.408667,
+          "y": 0.481222,
+          "width": 0.243333,
+          "height": 0.02654
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Is it yellow? Is it white?",
+            "confidence": 0.8847
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Is it yellow? Is it white?",
+            "confidence": 0.8317
+          }
+        ]
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "No, it's the color pink.",
+        "originalContent": "No, it’s the color pink.",
+        "confidence": 0.916,
+        "bbox": {
+          "x": 0.414125,
+          "y": 0.512658,
+          "width": 0.233949,
+          "height": 0.02381
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized_unicode_or_edges"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "No, it's the color pink",
+            "confidence": 0.8241
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "No, it’s the color pink.",
+            "confidence": 0.916
+          }
+        ]
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "What's my favorite animal?",
+        "originalContent": "What's my favorite animal?",
+        "confidence": 0.931,
+        "bbox": {
+          "x": 0.384667,
+          "y": 0.548823,
+          "width": 0.292,
+          "height": 0.027041
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What's my favorite animal?",
+            "confidence": 0.931
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What's my favorite animal?",
+            "confidence": 0.8175
+          }
+        ]
+      },
+      {
+        "id": "text_0017",
+        "type": "paragraph",
+        "content": "Try to guess the word.",
+        "originalContent": "Try to guess the word.",
+        "confidence": 0.938,
+        "bbox": {
+          "x": 0.412921,
+          "y": 0.580169,
+          "width": 0.233949,
+          "height": 0.025316
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Try to guess the word.",
+            "confidence": 0.9081
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Try to guess the word.",
+            "confidence": 0.938
+          }
+        ]
+      },
+      {
+        "id": "text_0018",
+        "type": "paragraph",
+        "content": "\\s it a zebra? Is it a cate",
+        "originalContent": "\\s it a zebra? Is it a cate",
+        "confidence": 0.8225,
+        "bbox": {
+          "x": 0.399278,
+          "y": 0.608198,
+          "width": 0.264446,
+          "height": 0.019289
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "\\s it a zebra? Is it a cate",
+            "confidence": 0.8225
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Isitazebra?Isitqcat?",
+            "confidence": 0.8053
+          }
+        ]
+      },
+      {
+        "id": "text_0019",
+        "type": "sentence",
+        "content": "No, It's a pretty bird.",
+        "originalContent": "No, it's a pretty bird.",
+        "confidence": 0.8772,
+        "bbox": {
+          "x": 0.418,
+          "y": 0.635954,
+          "width": 0.225333,
+          "height": 0.025038
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase_space_restored"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "No, it's a pretty bird.",
+            "confidence": 0.8772
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "No, it's a pretty bird.",
+            "confidence": 0.818
+          }
+        ]
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "Holly, age 7.",
+        "originalContent": "| Holly, age 7.",
+        "confidence": 0.835,
+        "bbox": {
+          "x": 0.401685,
+          "y": 0.675708,
+          "width": 0.192215,
+          "height": 0.025316
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized_unicode_or_edges"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Holly, age 7.",
+            "confidence": 0.8397
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "| Holly, age 7.",
+            "confidence": 0.835
+          }
+        ]
+      },
+      {
+        "id": "text_0021",
+        "type": "instruction",
+        "content": "3 Read again and Write.",
+        "originalContent": "3 Read again and write.",
+        "confidence": 0.948,
+        "bbox": {
+          "x": 0.07183,
+          "y": 0.79566,
+          "width": 0.272472,
+          "height": 0.01959
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase_space_restored"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3Readagainand write.",
+            "confidence": 0.8882
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Read again and write.",
+            "confidence": 0.948
+          }
+        ]
+      },
+      {
+        "id": "text_0022",
+        "type": "paragraph",
+        "content": "My favorite toy is a ball",
+        "originalContent": "My favorite toy is a ball",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.257624,
+          "y": 0.822785,
+          "width": 0.288122,
+          "height": 0.020193
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "ball",
+            "confidence": 0.7945
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My favorite toy is a ball",
+            "confidence": 0.9567
+          },
+          {
+            "engine": "rapidocr",
+            "content": "My favorite toy is a",
+            "confidence": 0.8453
+          }
+        ]
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "My favorite color is",
+        "originalContent": "Myfavoritecoloris",
+        "confidence": 0.8715,
+        "bbox": {
+          "x": 0.257333,
+          "y": 0.851778,
+          "width": 0.190667,
+          "height": 0.017526
+        },
+        "repaired": true,
+        "repairNotes": [
+          "missing_spaces_split"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Myfavoritecoloris",
+            "confidence": 0.8715
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My favorite color is :",
+            "confidence": 0.826
+          }
+        ]
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "My favorite",
+        "originalContent": "Myfavorite",
+        "confidence": 0.8679,
+        "bbox": {
+          "x": 0.256,
+          "y": 0.877817,
+          "width": 0.116,
+          "height": 0.020531
+        },
+        "repaired": true,
+        "repairNotes": [
+          "missing_spaces_split"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0025",
+        "type": "sentence",
+        "content": "My favorite _ isa bird.",
+        "originalContent": "My favorite _ isa bird.",
+        "confidence": 0.902,
+        "bbox": {
+          "x": 0.258828,
+          "y": 0.878541,
+          "width": 0.351124,
+          "height": 0.019289
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "is a bird.",
+            "confidence": 0.8477
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My favorite _ isa bird.",
+            "confidence": 0.902
+          }
+        ]
+      },
+      {
+        "id": "text_0027",
+        "type": "heading",
+        "content": "Unit 2",
+        "originalContent": "Unit2",
+        "confidence": 0.8093,
+        "bbox": {
+          "x": 0.120667,
+          "y": 0.947922,
+          "width": 0.054667,
+          "height": 0.014021
+        },
+        "repaired": true,
+        "repairNotes": [
+          "heading_normalized"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "Reading: apoem",
+        "originalContent": "Reading:apoem",
+        "confidence": 0.8488,
+        "bbox": {
+          "x": 0.177333,
+          "y": 0.947922,
+          "width": 0.136667,
+          "height": 0.015023
+        },
+        "repaired": true,
+        "repairNotes": [
+          "missing_spaces_split"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "bis Unit 2 Reading: a poem",
+            "confidence": 0.77
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Reading:apoem",
+            "confidence": 0.8488
+          }
+        ]
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Skills Time!",
+      "Lesson Five",
+      "Reading",
+      "1 Point to an animal and a toy. Say the words.",
+      "2 Read and listen to the poem. @) 30",
+      "My favorite...",
+      "What's my favorite toy?",
+      "My favorite one of dll.",
+      "Is it my scooter? Is it my doll?",
+      "No, it's my orange ball.",
+      "What's my favorite color?",
+      "What do you think?",
+      "Is it yellow? Is it white?",
+      "No, it's the color pink.",
+      "What's my favorite animal?",
+      "Try to guess the word.",
+      "\\s it a zebra? Is it a cate",
+      "No, It's a pretty bird.",
+      "Holly, age 7.",
+      "3 Read again and Write.",
+      "My favorite toy is a ball",
+      "My favorite color is",
+      "My favorite",
+      "My favorite _ isa bird.",
+      "Unit 2",
+      "Reading: apoem"
+    ],
+    "paragraphs": [
+      {
+        "id": "text_0017",
+        "content": "Try to guess the word.",
+        "confidence": 0.938,
+        "bbox": {
+          "x": 0.412921,
+          "y": 0.580169,
+          "width": 0.233949,
+          "height": 0.025316
+        },
+        "sourceElementIds": [
+          "text_0017"
+        ]
+      },
+      {
+        "id": "text_0018",
+        "content": "\\s it a zebra? Is it a cate",
+        "confidence": 0.8225,
+        "bbox": {
+          "x": 0.399278,
+          "y": 0.608198,
+          "width": 0.264446,
+          "height": 0.019289
+        },
+        "sourceElementIds": [
+          "text_0018"
+        ]
+      },
+      {
+        "id": "text_0022",
+        "content": "My favorite toy is a ball",
+        "confidence": 0.9567,
+        "bbox": {
+          "x": 0.257624,
+          "y": 0.822785,
+          "width": 0.288122,
+          "height": 0.020193
+        },
+        "sourceElementIds": [
+          "text_0022"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "text_0007",
+        "content": "My favorite...",
+        "confidence": 0.9267,
+        "bbox": {
+          "x": 0.441011,
+          "y": 0.263412,
+          "width": 0.176565,
+          "height": 0.026221
+        },
+        "sourceElementIds": [
+          "text_0007"
+        ]
+      },
+      {
+        "id": "text_0008",
+        "content": "What's my favorite toy?",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.404896,
+          "y": 0.303195,
+          "width": 0.246388,
+          "height": 0.024412
+        },
+        "sourceElementIds": [
+          "text_0008"
+        ]
+      },
+      {
+        "id": "text_0009",
+        "content": "My favorite one of dll.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.414125,
+          "y": 0.331826,
+          "width": 0.232745,
+          "height": 0.024714
+        },
+        "sourceElementIds": [
+          "text_0009"
+        ]
+      },
+      {
+        "id": "text_0010",
+        "content": "Is it my scooter? Is it my doll?",
+        "confidence": 0.8912,
+        "bbox": {
+          "x": 0.371188,
+          "y": 0.359855,
+          "width": 0.31862,
+          "height": 0.024412
+        },
+        "sourceElementIds": [
+          "text_0010"
+        ]
+      },
+      {
+        "id": "text_0011",
+        "content": "No, it's my orange ball.",
+        "confidence": 0.9272,
+        "bbox": {
+          "x": 0.402667,
+          "y": 0.38658,
+          "width": 0.252667,
+          "height": 0.025038
+        },
+        "sourceElementIds": [
+          "text_0011"
+        ]
+      },
+      {
+        "id": "text_0012",
+        "content": "What's my favorite color?",
+        "confidence": 0.9275,
+        "bbox": {
+          "x": 0.394864,
+          "y": 0.427366,
+          "width": 0.270064,
+          "height": 0.02381
+        },
+        "sourceElementIds": [
+          "text_0012"
+        ]
+      },
+      {
+        "id": "text_0013",
+        "content": "What do you think?",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.427368,
+          "y": 0.455395,
+          "width": 0.203852,
+          "height": 0.024412
+        },
+        "sourceElementIds": [
+          "text_0013"
+        ]
+      },
+      {
+        "id": "text_0014",
+        "content": "Is it yellow? Is it white?",
+        "confidence": 0.8847,
+        "bbox": {
+          "x": 0.408667,
+          "y": 0.481222,
+          "width": 0.243333,
+          "height": 0.02654
+        },
+        "sourceElementIds": [
+          "text_0014"
+        ]
+      },
+      {
+        "id": "text_0015",
+        "content": "No, it's the color pink.",
+        "confidence": 0.916,
+        "bbox": {
+          "x": 0.414125,
+          "y": 0.512658,
+          "width": 0.233949,
+          "height": 0.02381
+        },
+        "sourceElementIds": [
+          "text_0015"
+        ]
+      },
+      {
+        "id": "text_0016",
+        "content": "What's my favorite animal?",
+        "confidence": 0.931,
+        "bbox": {
+          "x": 0.384667,
+          "y": 0.548823,
+          "width": 0.292,
+          "height": 0.027041
+        },
+        "sourceElementIds": [
+          "text_0016"
+        ]
+      },
+      {
+        "id": "text_0019",
+        "content": "No, It's a pretty bird.",
+        "confidence": 0.8772,
+        "bbox": {
+          "x": 0.418,
+          "y": 0.635954,
+          "width": 0.225333,
+          "height": 0.025038
+        },
+        "sourceElementIds": [
+          "text_0019"
+        ]
+      },
+      {
+        "id": "text_0025",
+        "content": "My favorite _ isa bird.",
+        "confidence": 0.902,
+        "bbox": {
+          "x": 0.258828,
+          "y": 0.878541,
+          "width": 0.351124,
+          "height": 0.019289
+        },
+        "sourceElementIds": [
+          "text_0025"
+        ]
+      }
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "lines": [
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "My favorite...",
+            "confidence": 0.9267,
+            "bbox": {
+              "x": 0.441011,
+              "y": 0.263412,
+              "width": 0.176565,
+              "height": 0.026221
+            },
+            "sourceElementId": "text_0007",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": [
+              "cleaned"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "What's my favorite toy?",
+            "confidence": 0.93,
+            "bbox": {
+              "x": 0.404896,
+              "y": 0.303195,
+              "width": 0.246388,
+              "height": 0.024412
+            },
+            "sourceElementId": "text_0008",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "My favorite one of dll.",
+            "confidence": 0.95,
+            "bbox": {
+              "x": 0.414125,
+              "y": 0.331826,
+              "width": 0.232745,
+              "height": 0.024714
+            },
+            "sourceElementId": "text_0009",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Is it my scooter? Is it my doll?",
+            "confidence": 0.8912,
+            "bbox": {
+              "x": 0.371188,
+              "y": 0.359855,
+              "width": 0.31862,
+              "height": 0.024412
+            },
+            "sourceElementId": "text_0010",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "No, it's my orange ball.",
+            "confidence": 0.9272,
+            "bbox": {
+              "x": 0.402667,
+              "y": 0.38658,
+              "width": 0.252667,
+              "height": 0.025038
+            },
+            "sourceElementId": "text_0011",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "What's my favorite color?",
+            "confidence": 0.9275,
+            "bbox": {
+              "x": 0.394864,
+              "y": 0.427366,
+              "width": 0.270064,
+              "height": 0.02381
+            },
+            "sourceElementId": "text_0012",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "What do you think?",
+            "confidence": 0.9575,
+            "bbox": {
+              "x": 0.427368,
+              "y": 0.455395,
+              "width": 0.203852,
+              "height": 0.024412
+            },
+            "sourceElementId": "text_0013",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Is it yellow? Is it white?",
+            "confidence": 0.8847,
+            "bbox": {
+              "x": 0.408667,
+              "y": 0.481222,
+              "width": 0.243333,
+              "height": 0.02654
+            },
+            "sourceElementId": "text_0014",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "No, it's the color pink.",
+            "confidence": 0.916,
+            "bbox": {
+              "x": 0.414125,
+              "y": 0.512658,
+              "width": 0.233949,
+              "height": 0.02381
+            },
+            "sourceElementId": "text_0015",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": [
+              "normalized_unicode_or_edges"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "What's my favorite animal?",
+            "confidence": 0.931,
+            "bbox": {
+              "x": 0.384667,
+              "y": 0.548823,
+              "width": 0.292,
+              "height": 0.027041
+            },
+            "sourceElementId": "text_0016",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "No, It's a pretty bird.",
+            "confidence": 0.8772,
+            "bbox": {
+              "x": 0.418,
+              "y": 0.635954,
+              "width": 0.225333,
+              "height": 0.025038
+            },
+            "sourceElementId": "text_0019",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": [
+              "phrase_space_restored"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "My favorite _ isa bird.",
+            "confidence": 0.902,
+            "bbox": {
+              "x": 0.258828,
+              "y": 0.878541,
+              "width": 0.351124,
+              "height": 0.019289
+            },
+            "sourceElementId": "text_0025",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          }
+        ],
+        "confidence": 0.9184166666666668
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "speaking_activity",
+        "instruction": "Point to an animal and a toy. Say the words.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.9064,
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "listening_activity",
+        "instruction": "Read and listen to the poem.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.9233,
+        "sourceElementIds": [
+          "text_0005"
+        ]
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "writing_activity",
+        "instruction": "Read again and Write.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.948,
+        "sourceElementIds": [
+          "text_0021"
+        ]
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [
+      {
+        "lines": [
+          {
+            "content": "My favorite...",
+            "confidence": 0.9267,
+            "bbox": {
+              "x": 0.441011,
+              "y": 0.263412,
+              "width": 0.176565,
+              "height": 0.026221
+            },
+            "sourceElementId": "text_0007",
+            "repairNotes": [
+              "cleaned"
+            ]
+          },
+          {
+            "content": "What's my favorite toy?",
+            "confidence": 0.93,
+            "bbox": {
+              "x": 0.404896,
+              "y": 0.303195,
+              "width": 0.246388,
+              "height": 0.024412
+            },
+            "sourceElementId": "text_0008",
+            "repairNotes": []
+          },
+          {
+            "content": "My favorite one of dll.",
+            "confidence": 0.95,
+            "bbox": {
+              "x": 0.414125,
+              "y": 0.331826,
+              "width": 0.232745,
+              "height": 0.024714
+            },
+            "sourceElementId": "text_0009",
+            "repairNotes": []
+          },
+          {
+            "content": "Is it my scooter? Is it my doll?",
+            "confidence": 0.8912,
+            "bbox": {
+              "x": 0.371188,
+              "y": 0.359855,
+              "width": 0.31862,
+              "height": 0.024412
+            },
+            "sourceElementId": "text_0010",
+            "repairNotes": []
+          },
+          {
+            "content": "No, it's my orange ball.",
+            "confidence": 0.9272,
+            "bbox": {
+              "x": 0.402667,
+              "y": 0.38658,
+              "width": 0.252667,
+              "height": 0.025038
+            },
+            "sourceElementId": "text_0011",
+            "repairNotes": []
+          },
+          {
+            "content": "What's my favorite color?",
+            "confidence": 0.9275,
+            "bbox": {
+              "x": 0.394864,
+              "y": 0.427366,
+              "width": 0.270064,
+              "height": 0.02381
+            },
+            "sourceElementId": "text_0012",
+            "repairNotes": []
+          },
+          {
+            "content": "What do you think?",
+            "confidence": 0.9575,
+            "bbox": {
+              "x": 0.427368,
+              "y": 0.455395,
+              "width": 0.203852,
+              "height": 0.024412
+            },
+            "sourceElementId": "text_0013",
+            "repairNotes": []
+          },
+          {
+            "content": "Is it yellow? Is it white?",
+            "confidence": 0.8847,
+            "bbox": {
+              "x": 0.408667,
+              "y": 0.481222,
+              "width": 0.243333,
+              "height": 0.02654
+            },
+            "sourceElementId": "text_0014",
+            "repairNotes": []
+          },
+          {
+            "content": "No, it's the color pink.",
+            "confidence": 0.916,
+            "bbox": {
+              "x": 0.414125,
+              "y": 0.512658,
+              "width": 0.233949,
+              "height": 0.02381
+            },
+            "sourceElementId": "text_0015",
+            "repairNotes": [
+              "normalized_unicode_or_edges"
+            ]
+          },
+          {
+            "content": "What's my favorite animal?",
+            "confidence": 0.931,
+            "bbox": {
+              "x": 0.384667,
+              "y": 0.548823,
+              "width": 0.292,
+              "height": 0.027041
+            },
+            "sourceElementId": "text_0016",
+            "repairNotes": []
+          },
+          {
+            "content": "Try to guess the word.",
+            "confidence": 0.938,
+            "bbox": {
+              "x": 0.412921,
+              "y": 0.580169,
+              "width": 0.233949,
+              "height": 0.025316
+            },
+            "sourceElementId": "text_0017",
+            "repairNotes": []
+          },
+          {
+            "content": "\\s it a zebra? Is it a cate",
+            "confidence": 0.8225,
+            "bbox": {
+              "x": 0.399278,
+              "y": 0.608198,
+              "width": 0.264446,
+              "height": 0.019289
+            },
+            "sourceElementId": "text_0018",
+            "repairNotes": []
+          },
+          {
+            "content": "No, It's a pretty bird.",
+            "confidence": 0.8772,
+            "bbox": {
+              "x": 0.418,
+              "y": 0.635954,
+              "width": 0.225333,
+              "height": 0.025038
+            },
+            "sourceElementId": "text_0019",
+            "repairNotes": [
+              "phrase_space_restored"
+            ]
+          },
+          {
+            "content": "Holly, age 7.",
+            "confidence": 0.835,
+            "bbox": {
+              "x": 0.401685,
+              "y": 0.675708,
+              "width": 0.192215,
+              "height": 0.025316
+            },
+            "sourceElementId": "text_0020",
+            "repairNotes": [
+              "normalized_unicode_or_edges"
+            ]
+          },
+          {
+            "content": "My favorite toy is a ball",
+            "confidence": 0.9567,
+            "bbox": {
+              "x": 0.257624,
+              "y": 0.822785,
+              "width": 0.288122,
+              "height": 0.020193
+            },
+            "sourceElementId": "text_0022",
+            "repairNotes": []
+          },
+          {
+            "content": "My favorite _ isa bird.",
+            "confidence": 0.902,
+            "bbox": {
+              "x": 0.258828,
+              "y": 0.878541,
+              "width": 0.351124,
+              "height": 0.019289
+            },
+            "sourceElementId": "text_0025",
+            "repairNotes": []
+          }
+        ],
+        "confidence": 0.910825
+      }
+    ],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "2 Read and listen to the poem. @) 30",
+          "My favorite...",
+          "What's my favorite toy?",
+          "My favorite one of dll.",
+          "Is it my scooter? Is it my doll?",
+          "No, it's my orange ball."
+        ],
+        "position": {
+          "x": 0.047416,
+          "y": 0.186148,
+          "width": 0.662392,
+          "height": 0.24547
+        },
+        "textElementIds": [
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "What's my favorite color?",
+          "What do you think?",
+          "Is it yellow? Is it white?",
+          "No, it's the color pink.",
+          "What's my favorite animal?",
+          "Try to guess the word.",
+          "\\s it a zebra? Is it a cate",
+          "No, It's a pretty bird."
+        ],
+        "position": {
+          "x": 0.364667,
+          "y": 0.407366,
+          "width": 0.332,
+          "height": 0.273626
+        },
+        "textElementIds": [
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Holly, age 7.",
+          "3 Read again and Write.",
+          "My favorite toy is a ball",
+          "My favorite color is"
+        ],
+        "position": {
+          "x": 0.05183,
+          "y": 0.655708,
+          "width": 0.56207,
+          "height": 0.233596
+        },
+        "textElementIds": [
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "nonEducationalText": [],
+    "excludedGarbage": [
+      {
+        "id": "text_0006",
+        "content": "30",
+        "originalContent": "30",
+        "confidence": 0.5615
+      },
+      {
+        "id": "text_0026",
+        "content": "20",
+        "originalContent": "20",
+        "confidence": 0.666
+      }
+    ]
+  },
+  "learningContent": {
+    "pageType": "skills_time",
+    "title": "Skills Time!",
+    "learningObjectives": [
+      "Study content: Reading"
+    ],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "My favorite...",
+            "confidence": 0.9267
+          },
+          {
+            "speaker": null,
+            "content": "What's my favorite toy?",
+            "confidence": 0.93
+          },
+          {
+            "speaker": null,
+            "content": "My favorite one of dll.",
+            "confidence": 0.95
+          },
+          {
+            "speaker": null,
+            "content": "Is it my scooter? Is it my doll?",
+            "confidence": 0.8912
+          },
+          {
+            "speaker": null,
+            "content": "No, it's my orange ball.",
+            "confidence": 0.9272
+          },
+          {
+            "speaker": null,
+            "content": "What's my favorite color?",
+            "confidence": 0.9275
+          },
+          {
+            "speaker": null,
+            "content": "What do you think?",
+            "confidence": 0.9575
+          },
+          {
+            "speaker": null,
+            "content": "Is it yellow? Is it white?",
+            "confidence": 0.8847
+          },
+          {
+            "speaker": null,
+            "content": "No, it's the color pink.",
+            "confidence": 0.916
+          },
+          {
+            "speaker": null,
+            "content": "What's my favorite animal?",
+            "confidence": 0.931
+          },
+          {
+            "speaker": null,
+            "content": "No, It's a pretty bird.",
+            "confidence": 0.8772
+          },
+          {
+            "speaker": null,
+            "content": "My favorite _ isa bird.",
+            "confidence": 0.902
+          }
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "title": "Skills Time!",
+        "text": "My favorite... What's my favorite toy? My favorite one of dll. Is it my scooter? Is it my doll? No, it's my orange ball. What's my favorite color? What do you think? Is it yellow? Is it white? No, it's the color pink. What's my favorite animal? No, It's a pretty bird. My favorite _ isa bird.",
+        "confidence": null,
+        "sourceElementIds": [],
+        "note": "Concatenated from sentence-level OCR on reading page."
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "speaking_activity",
+        "instruction": "Point to an animal and a toy. Say the words.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.9064,
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "listening_activity",
+        "instruction": "Read and listen to the poem.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.9233,
+        "sourceElementIds": [
+          "text_0005"
+        ]
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "writing_activity",
+        "instruction": "Read again and Write.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.948,
+        "sourceElementIds": [
+          "text_0021"
+        ]
+      }
+    ],
+    "pronunciation": [],
+    "listening": [
+      {
+        "exerciseNumber": "2",
+        "instruction": "Read and listen to the poem.",
+        "type": "listening_activity",
+        "confidence": 0.9233
+      }
+    ],
+    "speaking": [
+      {
+        "exerciseNumber": "1",
+        "instruction": "Point to an animal and a toy. Say the words.",
+        "type": "speaking_activity",
+        "confidence": 0.9064
+      },
+      {
+        "exerciseNumber": "2",
+        "instruction": "Read and listen to the poem.",
+        "type": "listening_activity",
+        "confidence": 0.9233
+      },
+      {
+        "exerciseNumber": "3",
+        "instruction": "Read again and Write.",
+        "type": "writing_activity",
+        "confidence": 0.948
+      }
+    ],
+    "writing": [
+      {
+        "exerciseNumber": "3",
+        "instruction": "Read again and Write.",
+        "type": "writing_activity",
+        "confidence": 0.948
+      }
+    ],
+    "songsOrPoems": [
+      {
+        "lines": [
+          {
+            "content": "My favorite...",
+            "confidence": 0.9267,
+            "bbox": {
+              "x": 0.441011,
+              "y": 0.263412,
+              "width": 0.176565,
+              "height": 0.026221
+            },
+            "sourceElementId": "text_0007",
+            "repairNotes": [
+              "cleaned"
+            ]
+          },
+          {
+            "content": "What's my favorite toy?",
+            "confidence": 0.93,
+            "bbox": {
+              "x": 0.404896,
+              "y": 0.303195,
+              "width": 0.246388,
+              "height": 0.024412
+            },
+            "sourceElementId": "text_0008",
+            "repairNotes": []
+          },
+          {
+            "content": "My favorite one of dll.",
+            "confidence": 0.95,
+            "bbox": {
+              "x": 0.414125,
+              "y": 0.331826,
+              "width": 0.232745,
+              "height": 0.024714
+            },
+            "sourceElementId": "text_0009",
+            "repairNotes": []
+          },
+          {
+            "content": "Is it my scooter? Is it my doll?",
+            "confidence": 0.8912,
+            "bbox": {
+              "x": 0.371188,
+              "y": 0.359855,
+              "width": 0.31862,
+              "height": 0.024412
+            },
+            "sourceElementId": "text_0010",
+            "repairNotes": []
+          },
+          {
+            "content": "No, it's my orange ball.",
+            "confidence": 0.9272,
+            "bbox": {
+              "x": 0.402667,
+              "y": 0.38658,
+              "width": 0.252667,
+              "height": 0.025038
+            },
+            "sourceElementId": "text_0011",
+            "repairNotes": []
+          },
+          {
+            "content": "What's my favorite color?",
+            "confidence": 0.9275,
+            "bbox": {
+              "x": 0.394864,
+              "y": 0.427366,
+              "width": 0.270064,
+              "height": 0.02381
+            },
+            "sourceElementId": "text_0012",
+            "repairNotes": []
+          },
+          {
+            "content": "What do you think?",
+            "confidence": 0.9575,
+            "bbox": {
+              "x": 0.427368,
+              "y": 0.455395,
+              "width": 0.203852,
+              "height": 0.024412
+            },
+            "sourceElementId": "text_0013",
+            "repairNotes": []
+          },
+          {
+            "content": "Is it yellow? Is it white?",
+            "confidence": 0.8847,
+            "bbox": {
+              "x": 0.408667,
+              "y": 0.481222,
+              "width": 0.243333,
+              "height": 0.02654
+            },
+            "sourceElementId": "text_0014",
+            "repairNotes": []
+          },
+          {
+            "content": "No, it's the color pink.",
+            "confidence": 0.916,
+            "bbox": {
+              "x": 0.414125,
+              "y": 0.512658,
+              "width": 0.233949,
+              "height": 0.02381
+            },
+            "sourceElementId": "text_0015",
+            "repairNotes": [
+              "normalized_unicode_or_edges"
+            ]
+          },
+          {
+            "content": "What's my favorite animal?",
+            "confidence": 0.931,
+            "bbox": {
+              "x": 0.384667,
+              "y": 0.548823,
+              "width": 0.292,
+              "height": 0.027041
+            },
+            "sourceElementId": "text_0016",
+            "repairNotes": []
+          },
+          {
+            "content": "Try to guess the word.",
+            "confidence": 0.938,
+            "bbox": {
+              "x": 0.412921,
+              "y": 0.580169,
+              "width": 0.233949,
+              "height": 0.025316
+            },
+            "sourceElementId": "text_0017",
+            "repairNotes": []
+          },
+          {
+            "content": "\\s it a zebra? Is it a cate",
+            "confidence": 0.8225,
+            "bbox": {
+              "x": 0.399278,
+              "y": 0.608198,
+              "width": 0.264446,
+              "height": 0.019289
+            },
+            "sourceElementId": "text_0018",
+            "repairNotes": []
+          },
+          {
+            "content": "No, It's a pretty bird.",
+            "confidence": 0.8772,
+            "bbox": {
+              "x": 0.418,
+              "y": 0.635954,
+              "width": 0.225333,
+              "height": 0.025038
+            },
+            "sourceElementId": "text_0019",
+            "repairNotes": [
+              "phrase_space_restored"
+            ]
+          },
+          {
+            "content": "Holly, age 7.",
+            "confidence": 0.835,
+            "bbox": {
+              "x": 0.401685,
+              "y": 0.675708,
+              "width": 0.192215,
+              "height": 0.025316
+            },
+            "sourceElementId": "text_0020",
+            "repairNotes": [
+              "normalized_unicode_or_edges"
+            ]
+          },
+          {
+            "content": "My favorite toy is a ball",
+            "confidence": 0.9567,
+            "bbox": {
+              "x": 0.257624,
+              "y": 0.822785,
+              "width": 0.288122,
+              "height": 0.020193
+            },
+            "sourceElementId": "text_0022",
+            "repairNotes": []
+          },
+          {
+            "content": "My favorite _ isa bird.",
+            "confidence": 0.902,
+            "bbox": {
+              "x": 0.258828,
+              "y": 0.878541,
+              "width": 0.351124,
+              "height": 0.019289
+            },
+            "sourceElementId": "text_0025",
+            "repairNotes": []
+          }
+        ],
+        "confidence": 0.910825
+      }
+    ],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "text_kept": 26,
+      "garbage_excluded": 2,
+      "text_repaired": 9,
+      "vocab_kept": 1,
+      "dialogue_lines": 12,
+      "dialogues_reconstructed": 1,
+      "exercises_reconstructed": 3,
+      "song_lines": 16
+    },
+    "averageOcrConfidence": 0.8772
+  },
+  "metadata": {
+    "book": "Family and Friends 1 Student Book (American)",
+    "author": "Naomi Simmons",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_v1",
+    "originalOcrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "originalAverageConfidence": 0.8772,
+    "noHallucinationPolicy": "Definitions, translations, speaker names, answers, and grammar rules are null or omitted unless visibly supported by page OCR/PDF. Text repairs are limited to spacing, punctuation, and clear OCR character errors."
+  }
+}

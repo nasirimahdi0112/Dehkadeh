@@ -1,0 +1,2311 @@
+{
+  "pageNumber": 6,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "pdf_visual_verification",
+  "pdfPageNumber": 7,
+  "source": {
+    "pdfFile": "Family and Friends 1 SB_Part1.pdf",
+    "pdfLocalPageNumber": 7,
+    "pageSizePoints": {
+      "width": 598.08,
+      "height": 796.32
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "LessonThree",
+        "confidence": 0.893,
+        "bbox": {
+          "x": 0.06,
+          "y": 0.039559,
+          "width": 0.168,
+          "height": 0.024036
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Listen, point, and repeat.",
+        "confidence": 0.89,
+        "bbox": {
+          "x": 0.084667,
+          "y": 0.088633,
+          "width": 0.285333,
+          "height": 0.019029
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listen, point, and repeat. © os Listen and check (v), @ 0s",
+            "confidence": 0.8442
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen, point, and repeat.",
+            "confidence": 0.89
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "instruction",
+        "content": "2Listen and check ().",
+        "confidence": 0.8454,
+        "bbox": {
+          "x": 0.479333,
+          "y": 0.089634,
+          "width": 0.269333,
+          "height": 0.016525
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "05",
+        "confidence": 0.5661,
+        "bbox": {
+          "x": 0.402,
+          "y": 0.095143,
+          "width": 0.013333,
+          "height": 0.009014
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0005",
+        "type": "heading",
+        "content": "three",
+        "confidence": 0.7644,
+        "bbox": {
+          "x": 0.206667,
+          "y": 0.133701,
+          "width": 0.061333,
+          "height": 0.022534
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0006",
+        "type": "heading",
+        "content": "six",
+        "confidence": 0.6285,
+        "bbox": {
+          "x": 0.494,
+          "y": 0.139209,
+          "width": 0.028,
+          "height": 0.014021
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0007",
+        "type": "heading",
+        "content": "ten",
+        "confidence": 0.6957,
+        "bbox": {
+          "x": 0.844,
+          "y": 0.139209,
+          "width": 0.035333,
+          "height": 0.015023
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0008",
+        "type": "heading",
+        "content": "eight",
+        "confidence": 0.7917,
+        "bbox": {
+          "x": 0.654,
+          "y": 0.142213,
+          "width": 0.057333,
+          "height": 0.019529
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "two",
+        "confidence": 0.7245,
+        "bbox": {
+          "x": 0.124,
+          "y": 0.171257,
+          "width": 0.043333,
+          "height": 0.018528
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "five",
+        "confidence": 0.7148,
+        "bbox": {
+          "x": 0.384667,
+          "y": 0.176264,
+          "width": 0.043333,
+          "height": 0.02003
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "nine",
+        "confidence": 0.7964,
+        "bbox": {
+          "x": 0.764667,
+          "y": 0.222834,
+          "width": 0.049333,
+          "height": 0.017026
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "one",
+        "confidence": 0.7474,
+        "bbox": {
+          "x": 0.079333,
+          "y": 0.247371,
+          "width": 0.041333,
+          "height": 0.014021
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "four",
+        "confidence": 0.7007,
+        "bbox": {
+          "x": 0.316,
+          "y": 0.249875,
+          "width": 0.049333,
+          "height": 0.022534
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "seven",
+        "confidence": 0.8286,
+        "bbox": {
+          "x": 0.583333,
+          "y": 0.341512,
+          "width": 0.059333,
+          "height": 0.014021
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "instruction",
+        "content": "Look at the pictureagain.Point, ask,and answer.",
+        "confidence": 0.8859,
+        "bbox": {
+          "x": 0.082,
+          "y": 0.438157,
+          "width": 0.553333,
+          "height": 0.019529
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "How old are you?",
+        "confidence": 0.8139,
+        "bbox": {
+          "x": 0.144,
+          "y": 0.475714,
+          "width": 0.159333,
+          "height": 0.021032
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "sentence",
+        "content": "I'm seven.",
+        "confidence": 0.7715,
+        "bbox": {
+          "x": 0.346667,
+          "y": 0.477216,
+          "width": 0.092667,
+          "height": 0.018027
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "instruction",
+        "content": "4Listen andpoint.Listen andchant.",
+        "confidence": 0.8805,
+        "bbox": {
+          "x": 0.056667,
+          "y": 0.529795,
+          "width": 0.413333,
+          "height": 0.022534
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "07",
+        "confidence": 0.661,
+        "bbox": {
+          "x": 0.508,
+          "y": 0.538307,
+          "width": 0.012667,
+          "height": 0.008513
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "Sunday",
+        "confidence": 0.8249,
+        "bbox": {
+          "x": 0.2,
+          "y": 0.637456,
+          "width": 0.152,
+          "height": 0.043565
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "Tuesday",
+        "confidence": 0.801,
+        "bbox": {
+          "x": 0.201333,
+          "y": 0.715073,
+          "width": 0.156667,
+          "height": 0.042063
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "Thursday",
+        "confidence": 0.8667,
+        "bbox": {
+          "x": 0.183333,
+          "y": 0.795694,
+          "width": 0.191333,
+          "height": 0.038057
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "Friday",
+        "confidence": 0.8453,
+        "bbox": {
+          "x": 0.201333,
+          "y": 0.832749,
+          "width": 0.132,
+          "height": 0.043065
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "Sat urday",
+        "confidence": 0.7621,
+        "bbox": {
+          "x": 0.201333,
+          "y": 0.874812,
+          "width": 0.174667,
+          "height": 0.038057
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0025",
+        "type": "heading",
+        "content": "Starter",
+        "confidence": 0.8313,
+        "bbox": {
+          "x": 0.104,
+          "y": 0.95343,
+          "width": 0.062,
+          "height": 0.015023
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "sentence",
+        "content": "Howoldareyou?",
+        "confidence": 0.9055,
+        "bbox": {
+          "x": 0.175333,
+          "y": 0.95343,
+          "width": 0.136,
+          "height": 0.015523
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "ten",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.844,
+          "y": 0.139209,
+          "width": 0.035333,
+          "height": 0.015023
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.6957
+      },
+      {
+        "word": "eight",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.654,
+          "y": 0.142213,
+          "width": 0.057333,
+          "height": 0.019529
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.7917
+      },
+      {
+        "word": "nine",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.764667,
+          "y": 0.222834,
+          "width": 0.049333,
+          "height": 0.017026
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.7964
+      },
+      {
+        "word": "seven",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.583333,
+          "y": 0.341512,
+          "width": 0.059333,
+          "height": 0.014021
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.8286
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "How old are you?",
+            "confidence": 0.8139,
+            "bbox": {
+              "x": 0.144,
+              "y": 0.475714,
+              "width": 0.159333,
+              "height": 0.021032
+            },
+            "sourceElementId": "text_0016",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I'm seven.",
+            "confidence": 0.7715,
+            "bbox": {
+              "x": 0.346667,
+              "y": 0.477216,
+              "width": 0.092667,
+              "height": 0.018027
+            },
+            "sourceElementId": "text_0017",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Speech-bubble/dialogue-like text was detected spatially; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "2",
+        "type": "selection_exercise",
+        "instruction": "Listen and check ().",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0003"
+        ],
+        "confidence": 0.8454
+      },
+      {
+        "exerciseNumber": "4",
+        "type": "listening_activity",
+        "instruction": "Listen andpoint.Listen andchant.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0018"
+        ],
+        "confidence": 0.8805
+      }
+    ],
+    "ocrTables": [
+      {
+        "title": null,
+        "headers": [],
+        "rows": [
+          [
+            "nine"
+          ],
+          [
+            "one"
+          ],
+          [
+            "four"
+          ],
+          [
+            "seven"
+          ],
+          [
+            "Look at the pictureagain.Point, ask,and answer."
+          ],
+          [
+            "How old are you?"
+          ],
+          [
+            "I'm seven."
+          ],
+          [
+            "4Listen andpoint.Listen andchant."
+          ],
+          [
+            "07"
+          ],
+          [
+            "Sunday"
+          ],
+          [
+            "Tuesday"
+          ],
+          [
+            "Thursday"
+          ],
+          [
+            "Friday"
+          ],
+          [
+            "Sat urday"
+          ]
+        ],
+        "tableStructureConfidence": "low",
+        "fallbackText": "LessonThree Listen, point, and repeat. 2Listen and check (). 05 three six ten eight two five nine one four seven Look at the pictureagain.Point, ask,and answer. How old are you? I'm seven. 4Listen andpoint.Listen andchant. 07 Sunday Tuesday Thursday Friday Sat urday Starter Howoldareyou?",
+        "sourceElementIds": [
+          "text_0001",
+          "text_0002",
+          "text_0003",
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026"
+        ]
+      }
+    ],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "nine",
+          "one",
+          "four",
+          "seven"
+        ],
+        "position": {
+          "x": 0.059333,
+          "y": 0.202834,
+          "width": 0.774667,
+          "height": 0.172699
+        },
+        "textElementIds": [
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Look at the pictureagain.Point, ask,and answer.",
+          "How old are you?",
+          "I'm seven.",
+          "4Listen andpoint.Listen andchant.",
+          "07"
+        ],
+        "position": {
+          "x": 0.036667,
+          "y": 0.418157,
+          "width": 0.618666,
+          "height": 0.154172
+        },
+        "textElementIds": [
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Sunday",
+          "Tuesday",
+          "Thursday",
+          "Friday"
+        ],
+        "position": {
+          "x": 0.163333,
+          "y": 0.617456,
+          "width": 0.231333,
+          "height": 0.278358
+        },
+        "textElementIds": [
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "rawOcrAudit": {
+      "rapidocr": "LessonThree\nListen, point, and repeat.\n2Listen and check ().\n05\nthree\nsix\nten\neight\ntwo\nfive\nnine\none\nfour\nseven\nLook at the pictureagain.Point, ask,and answer.\nHow old are you?\nI'm seven.\n4Listen andpoint.Listen andchant.\n07\nSunday\nTuesday\nThursday\nFriday\nSat urday\nStarter\nHowoldareyou?",
+      "tesseract_psm3": "Listen, point, and repeat. © os Listen and check (v), @ 0s\n\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": "",
+      "footer_passes": [
+        "a Starter How old are you?",
+        "aburda\n\nStarter How old are you?"
+      ]
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.786,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "13 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "lesson",
+    "pagePurpose": null,
+    "readingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "headings": [
+      {
+        "id": "text_0001",
+        "content": "Lesson Three",
+        "confidence": 0.893,
+        "bbox": {
+          "x": 0.06,
+          "y": 0.039559,
+          "width": 0.168,
+          "height": 0.024036
+        },
+        "repaired": true,
+        "sourceElementIds": [
+          "text_0001"
+        ]
+      },
+      {
+        "id": "text_0002",
+        "content": "Listen, point, and repeat.",
+        "confidence": 0.89,
+        "bbox": {
+          "x": 0.084667,
+          "y": 0.088633,
+          "width": 0.285333,
+          "height": 0.019029
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "id": "text_0005",
+        "content": "three",
+        "confidence": 0.7644,
+        "bbox": {
+          "x": 0.206667,
+          "y": 0.133701,
+          "width": 0.061333,
+          "height": 0.022534
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0005"
+        ]
+      },
+      {
+        "id": "text_0006",
+        "content": "six",
+        "confidence": 0.6285,
+        "bbox": {
+          "x": 0.494,
+          "y": 0.139209,
+          "width": 0.028,
+          "height": 0.014021
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0006"
+        ]
+      },
+      {
+        "id": "text_0007",
+        "content": "ten",
+        "confidence": 0.6957,
+        "bbox": {
+          "x": 0.844,
+          "y": 0.139209,
+          "width": 0.035333,
+          "height": 0.015023
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0007"
+        ]
+      },
+      {
+        "id": "text_0008",
+        "content": "eight",
+        "confidence": 0.7917,
+        "bbox": {
+          "x": 0.654,
+          "y": 0.142213,
+          "width": 0.057333,
+          "height": 0.019529
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0008"
+        ]
+      },
+      {
+        "id": "text_0025",
+        "content": "Starter",
+        "confidence": 0.8313,
+        "bbox": {
+          "x": 0.104,
+          "y": 0.95343,
+          "width": 0.062,
+          "height": 0.015023
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0025"
+        ]
+      }
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Lesson Three",
+        "originalContent": "LessonThree",
+        "confidence": 0.893,
+        "bbox": {
+          "x": 0.06,
+          "y": 0.039559,
+          "width": 0.168,
+          "height": 0.024036
+        },
+        "repaired": true,
+        "repairNotes": [
+          "heading_normalized"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Listen, point, and repeat.",
+        "originalContent": "Listen, point, and repeat.",
+        "confidence": 0.89,
+        "bbox": {
+          "x": 0.084667,
+          "y": 0.088633,
+          "width": 0.285333,
+          "height": 0.019029
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listen, point, and repeat. © os Listen and check (v), @ 0s",
+            "confidence": 0.8442
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen, point, and repeat.",
+            "confidence": 0.89
+          }
+        ]
+      },
+      {
+        "id": "text_0003",
+        "type": "instruction",
+        "content": "2Listen and check ().",
+        "originalContent": "2Listen and check ().",
+        "confidence": 0.8454,
+        "bbox": {
+          "x": 0.479333,
+          "y": 0.089634,
+          "width": 0.269333,
+          "height": 0.016525
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0005",
+        "type": "heading",
+        "content": "three",
+        "originalContent": "three",
+        "confidence": 0.7644,
+        "bbox": {
+          "x": 0.206667,
+          "y": 0.133701,
+          "width": 0.061333,
+          "height": 0.022534
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0006",
+        "type": "heading",
+        "content": "six",
+        "originalContent": "six",
+        "confidence": 0.6285,
+        "bbox": {
+          "x": 0.494,
+          "y": 0.139209,
+          "width": 0.028,
+          "height": 0.014021
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0007",
+        "type": "heading",
+        "content": "ten",
+        "originalContent": "ten",
+        "confidence": 0.6957,
+        "bbox": {
+          "x": 0.844,
+          "y": 0.139209,
+          "width": 0.035333,
+          "height": 0.015023
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0008",
+        "type": "heading",
+        "content": "eight",
+        "originalContent": "eight",
+        "confidence": 0.7917,
+        "bbox": {
+          "x": 0.654,
+          "y": 0.142213,
+          "width": 0.057333,
+          "height": 0.019529
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "two",
+        "originalContent": "two",
+        "confidence": 0.7245,
+        "bbox": {
+          "x": 0.124,
+          "y": 0.171257,
+          "width": 0.043333,
+          "height": 0.018528
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "five",
+        "originalContent": "five",
+        "confidence": 0.7148,
+        "bbox": {
+          "x": 0.384667,
+          "y": 0.176264,
+          "width": 0.043333,
+          "height": 0.02003
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "nine",
+        "originalContent": "nine",
+        "confidence": 0.7964,
+        "bbox": {
+          "x": 0.764667,
+          "y": 0.222834,
+          "width": 0.049333,
+          "height": 0.017026
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "one",
+        "originalContent": "one",
+        "confidence": 0.7474,
+        "bbox": {
+          "x": 0.079333,
+          "y": 0.247371,
+          "width": 0.041333,
+          "height": 0.014021
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "four",
+        "originalContent": "four",
+        "confidence": 0.7007,
+        "bbox": {
+          "x": 0.316,
+          "y": 0.249875,
+          "width": 0.049333,
+          "height": 0.022534
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "seven",
+        "originalContent": "seven",
+        "confidence": 0.8286,
+        "bbox": {
+          "x": 0.583333,
+          "y": 0.341512,
+          "width": 0.059333,
+          "height": 0.014021
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0015",
+        "type": "instruction",
+        "content": "Look at the picture again. Point, ask, and answer.",
+        "originalContent": "Look at the pictureagain.Point, ask,and answer.",
+        "confidence": 0.8859,
+        "bbox": {
+          "x": 0.082,
+          "y": 0.438157,
+          "width": 0.553333,
+          "height": 0.019529
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase_space_restored",
+          "missing_spaces_split"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "How old are you?",
+        "originalContent": "How old are you?",
+        "confidence": 0.8139,
+        "bbox": {
+          "x": 0.144,
+          "y": 0.475714,
+          "width": 0.159333,
+          "height": 0.021032
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0017",
+        "type": "sentence",
+        "content": "I'm seven.",
+        "originalContent": "I'm seven.",
+        "confidence": 0.7715,
+        "bbox": {
+          "x": 0.346667,
+          "y": 0.477216,
+          "width": 0.092667,
+          "height": 0.018027
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0018",
+        "type": "instruction",
+        "content": "4 Listen and point. Listen and chant.",
+        "originalContent": "4Listen andpoint.Listen andchant.",
+        "confidence": 0.8805,
+        "bbox": {
+          "x": 0.056667,
+          "y": 0.529795,
+          "width": 0.413333,
+          "height": 0.022534
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase_space_restored",
+          "missing_spaces_split"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "Sunday",
+        "originalContent": "Sunday",
+        "confidence": 0.8249,
+        "bbox": {
+          "x": 0.2,
+          "y": 0.637456,
+          "width": 0.152,
+          "height": 0.043565
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "Tuesday",
+        "originalContent": "Tuesday",
+        "confidence": 0.801,
+        "bbox": {
+          "x": 0.201333,
+          "y": 0.715073,
+          "width": 0.156667,
+          "height": 0.042063
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "Thursday",
+        "originalContent": "Thursday",
+        "confidence": 0.8667,
+        "bbox": {
+          "x": 0.183333,
+          "y": 0.795694,
+          "width": 0.191333,
+          "height": 0.038057
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "Friday",
+        "originalContent": "Friday",
+        "confidence": 0.8453,
+        "bbox": {
+          "x": 0.201333,
+          "y": 0.832749,
+          "width": 0.132,
+          "height": 0.043065
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "Sat urday",
+        "originalContent": "Sat urday",
+        "confidence": 0.7621,
+        "bbox": {
+          "x": 0.201333,
+          "y": 0.874812,
+          "width": 0.174667,
+          "height": 0.038057
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0025",
+        "type": "heading",
+        "content": "Starter",
+        "originalContent": "Starter",
+        "confidence": 0.8313,
+        "bbox": {
+          "x": 0.104,
+          "y": 0.95343,
+          "width": 0.062,
+          "height": 0.015023
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0026",
+        "type": "sentence",
+        "content": "How old are you?",
+        "originalContent": "Howoldareyou?",
+        "confidence": 0.9055,
+        "bbox": {
+          "x": 0.175333,
+          "y": 0.95343,
+          "width": 0.136,
+          "height": 0.015523
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase_space_restored"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Lesson Three",
+      "Listen, point, and repeat.",
+      "2Listen and check ().",
+      "three",
+      "six",
+      "ten",
+      "eight",
+      "two",
+      "five",
+      "nine",
+      "one",
+      "four",
+      "seven",
+      "Look at the picture again. Point, ask, and answer.",
+      "How old are you?",
+      "I'm seven.",
+      "4 Listen and point. Listen and chant.",
+      "Sunday",
+      "Tuesday",
+      "Thursday",
+      "Friday",
+      "Sat urday",
+      "Starter",
+      "How old are you?"
+    ],
+    "paragraphs": [],
+    "sentences": [
+      {
+        "id": "text_0016",
+        "content": "How old are you?",
+        "confidence": 0.8139,
+        "bbox": {
+          "x": 0.144,
+          "y": 0.475714,
+          "width": 0.159333,
+          "height": 0.021032
+        },
+        "sourceElementIds": [
+          "text_0016"
+        ]
+      },
+      {
+        "id": "text_0017",
+        "content": "I'm seven.",
+        "confidence": 0.7715,
+        "bbox": {
+          "x": 0.346667,
+          "y": 0.477216,
+          "width": 0.092667,
+          "height": 0.018027
+        },
+        "sourceElementIds": [
+          "text_0017"
+        ]
+      },
+      {
+        "id": "text_0026",
+        "content": "How old are you?",
+        "confidence": 0.9055,
+        "bbox": {
+          "x": 0.175333,
+          "y": 0.95343,
+          "width": 0.136,
+          "height": 0.015523
+        },
+        "sourceElementIds": [
+          "text_0026"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "one",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "two",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "three",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "four",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "five",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "six",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "seven",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "eight",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "nine",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "ten",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "Sunday",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "Monday",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "Tuesday",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "Wednesday",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "Thursday",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "Friday",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      },
+      {
+        "word": "Saturday",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "filtered",
+          "verified": true
+        }
+      }
+    ],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "lines": [
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "How old are you?",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "I'm seven.",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          }
+        ],
+        "confidence": 0.99
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "listening_activity",
+        "instruction": "Listen, point, and repeat.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "listening_check",
+        "instruction": "Listen and check (✓).",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "speaking_activity",
+        "instruction": "Look at the picture again. Point, ask, and answer.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "4",
+        "type": "listening_chant",
+        "instruction": "Listen and point. Listen and chant.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "tables": [
+      {
+        "title": null,
+        "headers": [],
+        "rows": [
+          [
+            "nine"
+          ],
+          [
+            "one"
+          ],
+          [
+            "four"
+          ],
+          [
+            "seven"
+          ],
+          [
+            "Look at the picture again. Point, ask, and answer."
+          ],
+          [
+            "How old are you?"
+          ],
+          [
+            "I'm seven."
+          ],
+          [
+            "4 Listen and point. Listen and chant."
+          ],
+          [
+            "07"
+          ],
+          [
+            "Sunday"
+          ],
+          [
+            "Tuesday"
+          ],
+          [
+            "Thursday"
+          ],
+          [
+            "Friday"
+          ],
+          [
+            "Sat urday"
+          ]
+        ],
+        "tableStructureConfidence": "high",
+        "fallbackText": "LessonThree Listen, point, and repeat. 2Listen and check (). 05 three six ten eight two five nine one four seven Look at the pictureagain.Point, ask,and answer. How old are you? I'm seven. 4Listen andpoint.Listen andchant. 07 Sunday Tuesday Thursday Friday Sat urday Starter Howoldareyou?",
+        "sourceElementIds": [
+          "text_0001",
+          "text_0002",
+          "text_0003",
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026"
+        ]
+      }
+    ],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "nine",
+          "one",
+          "four",
+          "seven"
+        ],
+        "position": {
+          "x": 0.059333,
+          "y": 0.202834,
+          "width": 0.774667,
+          "height": 0.172699
+        },
+        "textElementIds": [
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Look at the picture again. Point, ask, and answer.",
+          "How old are you?",
+          "I'm seven.",
+          "4 Listen and point. Listen and chant."
+        ],
+        "position": {
+          "x": 0.036667,
+          "y": 0.418157,
+          "width": 0.618666,
+          "height": 0.154172
+        },
+        "textElementIds": [
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Sunday",
+          "Tuesday",
+          "Thursday",
+          "Friday"
+        ],
+        "position": {
+          "x": 0.163333,
+          "y": 0.617456,
+          "width": 0.231333,
+          "height": 0.278358
+        },
+        "textElementIds": [
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "nonEducationalText": [],
+    "excludedGarbage": [
+      {
+        "id": "text_0004",
+        "content": "05",
+        "originalContent": "05",
+        "confidence": 0.5661
+      },
+      {
+        "id": "text_0019",
+        "content": "07",
+        "originalContent": "07",
+        "confidence": 0.661
+      }
+    ]
+  },
+  "learningContent": {
+    "pageType": "lesson",
+    "title": "Lesson Three",
+    "learningObjectives": [],
+    "targetVocabulary": [
+      {
+        "word": "one",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "two",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "three",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "four",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "five",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "six",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "seven",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "eight",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "nine",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "ten",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "Sunday",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "Monday",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "Tuesday",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "Wednesday",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "Thursday",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "Friday",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "Saturday",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "How old are you?",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "I'm seven.",
+            "confidence": 0.99
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "listening_activity",
+        "instruction": "Listen, point, and repeat.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "listening_check",
+        "instruction": "Listen and check (✓).",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "speaking_activity",
+        "instruction": "Look at the picture again. Point, ask, and answer.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "4",
+        "type": "listening_chant",
+        "instruction": "Listen and point. Listen and chant.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [
+      {
+        "exerciseNumber": "1",
+        "instruction": "Listen, point, and repeat.",
+        "type": "listening_activity",
+        "confidence": 0.99
+      },
+      {
+        "exerciseNumber": "2",
+        "instruction": "Listen and check (✓).",
+        "type": "listening_check",
+        "confidence": 0.99
+      },
+      {
+        "exerciseNumber": "4",
+        "instruction": "Listen and point. Listen and chant.",
+        "type": "listening_chant",
+        "confidence": 0.99
+      }
+    ],
+    "speaking": [
+      {
+        "exerciseNumber": "1",
+        "instruction": "Listen, point, and repeat.",
+        "type": "listening_activity",
+        "confidence": 0.99
+      },
+      {
+        "exerciseNumber": "3",
+        "instruction": "Look at the picture again. Point, ask, and answer.",
+        "type": "speaking_activity",
+        "confidence": 0.99
+      }
+    ],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": [
+      {
+        "title": null,
+        "headers": [],
+        "rows": [
+          [
+            "nine"
+          ],
+          [
+            "one"
+          ],
+          [
+            "four"
+          ],
+          [
+            "seven"
+          ],
+          [
+            "Look at the picture again. Point, ask, and answer."
+          ],
+          [
+            "How old are you?"
+          ],
+          [
+            "I'm seven."
+          ],
+          [
+            "4 Listen and point. Listen and chant."
+          ],
+          [
+            "07"
+          ],
+          [
+            "Sunday"
+          ],
+          [
+            "Tuesday"
+          ],
+          [
+            "Thursday"
+          ],
+          [
+            "Friday"
+          ],
+          [
+            "Sat urday"
+          ]
+        ],
+        "tableStructureConfidence": "high",
+        "fallbackText": "LessonThree Listen, point, and repeat. 2Listen and check (). 05 three six ten eight two five nine one four seven Look at the pictureagain.Point, ask,and answer. How old are you? I'm seven. 4Listen andpoint.Listen andchant. 07 Sunday Tuesday Thursday Friday Sat urday Starter Howoldareyou?",
+        "sourceElementIds": [
+          "text_0001",
+          "text_0002",
+          "text_0003",
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026"
+        ]
+      }
+    ]
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [],
+    "verifiedAgainstPdf": true,
+    "repairStats": {
+      "text_repaired": 4,
+      "text_kept": 24,
+      "garbage_excluded": 2,
+      "vocab_kept": 17,
+      "dialogue_lines": 2,
+      "dialogues_reconstructed": 1,
+      "exercises_reconstructed": 5,
+      "tables": 1
+    },
+    "averageOcrConfidence": 0.786
+  },
+  "metadata": {
+    "book": "Family and Friends 1 Student Book (American)",
+    "author": "Naomi Simmons",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_v1",
+    "originalOcrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "originalAverageConfidence": 0.786,
+    "noHallucinationPolicy": "Definitions, translations, speaker names, answers, and grammar rules are null or omitted unless visibly supported by page OCR/PDF. Text repairs are limited to spacing, punctuation, and clear OCR character errors."
+  }
+}

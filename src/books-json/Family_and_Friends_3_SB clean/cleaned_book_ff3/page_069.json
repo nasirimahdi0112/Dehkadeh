@@ -1,0 +1,3256 @@
+{
+  "pageNumber": 68,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "verified sequential printed-footer pattern",
+  "pdfPageNumber": 69,
+  "source": {
+    "pdfFile": "Family and Friends 3 SB_Part1.pdf",
+    "pdfLocalPageNumber": 69,
+    "pageSizePoints": {
+      "width": 586.56,
+      "height": 785.04
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Skills Time!",
+        "confidence": 0.8361,
+        "bbox": {
+          "x": 0.134667,
+          "y": 0.021425,
+          "width": 0.31,
+          "height": 0.037867
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Lesson Five",
+        "confidence": 0.8508,
+        "bbox": {
+          "x": 0.063333,
+          "y": 0.078724,
+          "width": 0.154,
+          "height": 0.01993
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Reading",
+        "confidence": 0.8485,
+        "bbox": {
+          "x": 0.062667,
+          "y": 0.120578,
+          "width": 0.084667,
+          "height": 0.018934
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Reading",
+            "confidence": 0.8485
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "neading",
+            "confidence": 0.8
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Listen,point, and repeat.",
+        "confidence": 0.8938,
+        "bbox": {
+          "x": 0.082667,
+          "y": 0.152466,
+          "width": 0.260667,
+          "height": 0.017439
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listen, point, and repeat. @ «:",
+            "confidence": 0.87
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen,point, and repeat.",
+            "confidence": 0.8938
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "81",
+        "confidence": 0.6164,
+        "bbox": {
+          "x": 0.377333,
+          "y": 0.155954,
+          "width": 0.015333,
+          "height": 0.009965
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "salt",
+        "confidence": 0.776,
+        "bbox": {
+          "x": 0.566667,
+          "y": 0.254111,
+          "width": 0.050667,
+          "height": 0.021923
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "butter",
+        "confidence": 0.7244,
+        "bbox": {
+          "x": 0.238,
+          "y": 0.254609,
+          "width": 0.076667,
+          "height": 0.020927
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "cheese",
+        "confidence": 0.8534,
+        "bbox": {
+          "x": 0.394667,
+          "y": 0.254609,
+          "width": 0.080667,
+          "height": 0.020927
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "potato",
+        "confidence": 0.8279,
+        "bbox": {
+          "x": 0.075333,
+          "y": 0.255107,
+          "width": 0.082,
+          "height": 0.021923
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "peas",
+        "confidence": 0.7749,
+        "bbox": {
+          "x": 0.881333,
+          "y": 0.256104,
+          "width": 0.060667,
+          "height": 0.019432
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "pepper",
+        "confidence": 0.8246,
+        "bbox": {
+          "x": 0.71,
+          "y": 0.257598,
+          "width": 0.084667,
+          "height": 0.018435
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "sentence",
+        "content": "What food can you see in the pictures below?",
+        "confidence": 0.9589,
+        "bbox": {
+          "x": 0.083879,
+          "y": 0.297463,
+          "width": 0.461948,
+          "height": 0.01712
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What food canyousee inthepictures below?",
+            "confidence": 0.8753
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What food can you see in the pictures below?",
+            "confidence": 0.9589
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "instruction",
+        "content": "Listen and read.",
+        "confidence": 0.8735,
+        "bbox": {
+          "x": 0.08,
+          "y": 0.333832,
+          "width": 0.172,
+          "height": 0.016442
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listen and read. © «",
+            "confidence": 0.774
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen and read.",
+            "confidence": 0.8735
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "My Favorite Dish",
+        "confidence": 0.8663,
+        "bbox": {
+          "x": 0.147333,
+          "y": 0.389138,
+          "width": 0.348,
+          "height": 0.04584
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "Today Iwant totell yon,",
+        "confidence": 0.7982,
+        "bbox": {
+          "x": 0.577333,
+          "y": 0.396114,
+          "width": 0.225333,
+          "height": 0.017439
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "Howtomakaiyifavoritedish",
+        "confidence": 0.802,
+        "bbox": {
+          "x": 0.577333,
+          "y": 0.417539,
+          "width": 0.286,
+          "height": 0.014948
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "You naed twobigpotatoes.",
+        "confidence": 0.8241,
+        "bbox": {
+          "x": 0.577333,
+          "y": 0.435476,
+          "width": 0.258667,
+          "height": 0.017937
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "paragraph",
+        "content": "And youneed a piece offish.",
+        "confidence": 0.8179,
+        "bbox": {
+          "x": 0.576667,
+          "y": 0.45441,
+          "width": 0.266667,
+          "height": 0.017937
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "paragraph",
+        "content": "You need somemilk ana butter",
+        "confidence": 0.8066,
+        "bbox": {
+          "x": 0.574667,
+          "y": 0.479322,
+          "width": 0.298,
+          "height": 0.018435
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "And you moedarlotofaheese.",
+        "confidence": 0.8364,
+        "bbox": {
+          "x": 0.575333,
+          "y": 0.500249,
+          "width": 0.278,
+          "height": 0.016442
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "Youheed some saltandpepper",
+        "confidence": 0.8006,
+        "bbox": {
+          "x": 0.576,
+          "y": 0.519183,
+          "width": 0.3,
+          "height": 0.017937
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "Andsyouneed sohehiueFreshipeas.",
+        "confidence": 0.7386,
+        "bbox": {
+          "x": 0.574667,
+          "y": 0.537618,
+          "width": 0.338,
+          "height": 0.018435
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "Youcodldthetwo potatoes",
+        "confidence": 0.826,
+        "bbox": {
+          "x": 0.576,
+          "y": 0.563528,
+          "width": 0.262667,
+          "height": 0.019432
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "Andyoumash them inapot",
+        "confidence": 0.8278,
+        "bbox": {
+          "x": 0.574,
+          "y": 0.583956,
+          "width": 0.269333,
+          "height": 0.016941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "Youcookthepeasmwater",
+        "confidence": 0.9257,
+        "bbox": {
+          "x": 0.574667,
+          "y": 0.60289,
+          "width": 0.258,
+          "height": 0.017937
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "Ahd youmakethieniniceanahot",
+        "confidence": 0.8003,
+        "bbox": {
+          "x": 0.574667,
+          "y": 0.621824,
+          "width": 0.310667,
+          "height": 0.016941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "Youcookthe hshinniilkhow",
+        "confidence": 0.7288,
+        "bbox": {
+          "x": 0.572667,
+          "y": 0.647733,
+          "width": 0.272,
+          "height": 0.016442
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "And you putitina dish.",
+        "confidence": 0.8409,
+        "bbox": {
+          "x": 0.573333,
+          "y": 0.667165,
+          "width": 0.225333,
+          "height": 0.017937
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "You takethepeasand butter",
+        "confidence": 0.8469,
+        "bbox": {
+          "x": 0.574,
+          "y": 0.687095,
+          "width": 0.284667,
+          "height": 0.015944
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "AndoyoumixChemwiththe fish.",
+        "confidence": 0.7944,
+        "bbox": {
+          "x": 0.573333,
+          "y": 0.705531,
+          "width": 0.303333,
+          "height": 0.016941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "Youadathemashedpotatoes",
+        "confidence": 0.8832,
+        "bbox": {
+          "x": 0.573333,
+          "y": 0.730942,
+          "width": 0.296,
+          "height": 0.018435
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "paragraph",
+        "content": "Anal you put the chease on top",
+        "confidence": 0.7466,
+        "bbox": {
+          "x": 0.573333,
+          "y": 0.750872,
+          "width": 0.296,
+          "height": 0.018435
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "Yourcookttinthe oven",
+        "confidence": 0.8199,
+        "bbox": {
+          "x": 0.574667,
+          "y": 0.770304,
+          "width": 0.216667,
+          "height": 0.016442
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "Whenft'sbrown ontopyoustop!",
+        "confidence": 0.8573,
+        "bbox": {
+          "x": 0.574667,
+          "y": 0.788241,
+          "width": 0.314667,
+          "height": 0.020927
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "instruction",
+        "content": "Read again and write T (true) or F (false).",
+        "confidence": 0.9411,
+        "bbox": {
+          "x": 0.080196,
+          "y": 0.853867,
+          "width": 0.418576,
+          "height": 0.023234
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "H Read again and write T(true) orF (false).",
+            "confidence": 0.8784
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Read again and write T (true) or F (false).",
+            "confidence": 0.9411
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "paragraph",
+        "content": "1 You need two small potatoes. F 2 You need a piece of meat.",
+        "confidence": 0.9243,
+        "bbox": {
+          "x": 0.078969,
+          "y": 0.881076,
+          "width": 0.713584,
+          "height": 0.017732
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2 You need a piece of meat.",
+            "confidence": 0.8644
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 You need two small potatoes. F 2 You need a piece of meat.",
+            "confidence": 0.9243
+          },
+          {
+            "engine": "rapidocr",
+            "content": "1 Youneedtwosmall potatoes.",
+            "confidence": 0.8303
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0037",
+        "type": "paragraph",
+        "content": "3 You need some butter. 4 You cook the peas in milk.",
+        "confidence": 0.9525,
+        "bbox": {
+          "x": 0.078969,
+          "y": 0.904922,
+          "width": 0.713584,
+          "height": 0.016203
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4You cookthepeasinmilk.",
+            "confidence": 0.8733
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 You need some butter. 4 You cook the peas in milk.",
+            "confidence": 0.9525
+          },
+          {
+            "engine": "rapidocr",
+            "content": "3 You need some butter.",
+            "confidence": 0.8321
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "paragraph",
+        "content": "5 You putthe fish in a dish.",
+        "confidence": 0.8419,
+        "bbox": {
+          "x": 0.076667,
+          "y": 0.927255,
+          "width": 0.266667,
+          "height": 0.017937
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "paragraph",
+        "content": "5 You put the fish in a dish. 6 You put the cheese on top.",
+        "confidence": 0.954,
+        "bbox": {
+          "x": 0.078969,
+          "y": 0.928157,
+          "width": 0.718085,
+          "height": 0.01712
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "6 Youputthe cheeseontop.",
+            "confidence": 0.8838
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 You put the fish in a dish. 6 You put the cheese on top.",
+            "confidence": 0.954
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "label",
+        "content": "68",
+        "confidence": 0.6663,
+        "bbox": {
+          "x": 0.018667,
+          "y": 0.965122,
+          "width": 0.033333,
+          "height": 0.017937
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0041",
+        "type": "label",
+        "content": "Reading:orecipe",
+        "confidence": 0.7984,
+        "bbox": {
+          "x": 0.236667,
+          "y": 0.969108,
+          "width": 0.129333,
+          "height": 0.016941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0042",
+        "type": "heading",
+        "content": "Unit8Food",
+        "confidence": 0.8216,
+        "bbox": {
+          "x": 0.100667,
+          "y": 0.969606,
+          "width": 0.106,
+          "height": 0.014948
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "salt",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.566667,
+          "y": 0.254111,
+          "width": 0.050667,
+          "height": 0.021923
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.776
+      },
+      {
+        "word": "butter",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.238,
+          "y": 0.254609,
+          "width": 0.076667,
+          "height": 0.020927
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.7244
+      },
+      {
+        "word": "cheese",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.394667,
+          "y": 0.254609,
+          "width": 0.080667,
+          "height": 0.020927
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.8534
+      },
+      {
+        "word": "potato",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.075333,
+          "y": 0.255107,
+          "width": 0.082,
+          "height": 0.021923
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.8279
+      },
+      {
+        "word": "peas",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.881333,
+          "y": 0.256104,
+          "width": 0.060667,
+          "height": 0.019432
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.7749
+      },
+      {
+        "word": "pepper",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.71,
+          "y": 0.257598,
+          "width": 0.084667,
+          "height": 0.018435
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.8246
+      },
+      {
+        "word": "Howtomakaiyifavoritedish",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.577333,
+          "y": 0.417539,
+          "width": 0.286,
+          "height": 0.014948
+        },
+        "evidence": "short label in upper lesson/picture region",
+        "confidence": 0.802
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [],
+    "ocrExercises": [],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "salt",
+          "butter",
+          "cheese",
+          "potato",
+          "peas",
+          "pepper",
+          "What food can you see in the pictures below?",
+          "Listen and read.",
+          "My Favorite Dish",
+          "Today Iwant totell yon,",
+          "Howtomakaiyifavoritedish",
+          "You naed twobigpotatoes."
+        ],
+        "position": {
+          "x": 0.055333,
+          "y": 0.234111,
+          "width": 0.906667,
+          "height": 0.239302
+        },
+        "textElementIds": [
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "And youneed a piece offish.",
+          "You need somemilk ana butter",
+          "And you moedarlotofaheese.",
+          "Youheed some saltandpepper",
+          "Andsyouneed sohehiueFreshipeas.",
+          "Youcodldthetwo potatoes",
+          "Andyoumash them inapot",
+          "Youcookthepeasmwater",
+          "Ahd youmakethieniniceanahot",
+          "Youcookthe hshinniilkhow",
+          "And you putitina dish.",
+          "You takethepeasand butter"
+        ],
+        "position": {
+          "x": 0.552667,
+          "y": 0.43441,
+          "width": 0.38,
+          "height": 0.288629
+        },
+        "textElementIds": [
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "AndoyoumixChemwiththe fish.",
+          "Youadathemashedpotatoes",
+          "Anal you put the chease on top",
+          "Yourcookttinthe oven",
+          "Whenft'sbrown ontopyoustop!",
+          "Read again and write T (true) or F (false)."
+        ],
+        "position": {
+          "x": 0.060196,
+          "y": 0.685531,
+          "width": 0.849138,
+          "height": 0.21157
+        },
+        "textElementIds": [
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [
+      {
+        "content": "What food can you see in the pictures below?",
+        "confidence": 0.9589,
+        "bbox": {
+          "x": 0.083879,
+          "y": 0.297463,
+          "width": 0.461948,
+          "height": 0.01712
+        },
+        "sourceElementId": "text_0012"
+      },
+      {
+        "content": "Listen and read.",
+        "confidence": 0.8735,
+        "bbox": {
+          "x": 0.08,
+          "y": 0.333832,
+          "width": 0.172,
+          "height": 0.016442
+        },
+        "sourceElementId": "text_0013"
+      },
+      {
+        "content": "My Favorite Dish",
+        "confidence": 0.8663,
+        "bbox": {
+          "x": 0.147333,
+          "y": 0.389138,
+          "width": 0.348,
+          "height": 0.04584
+        },
+        "sourceElementId": "text_0014"
+      },
+      {
+        "content": "Today Iwant totell yon,",
+        "confidence": 0.7982,
+        "bbox": {
+          "x": 0.577333,
+          "y": 0.396114,
+          "width": 0.225333,
+          "height": 0.017439
+        },
+        "sourceElementId": "text_0015"
+      },
+      {
+        "content": "You naed twobigpotatoes.",
+        "confidence": 0.8241,
+        "bbox": {
+          "x": 0.577333,
+          "y": 0.435476,
+          "width": 0.258667,
+          "height": 0.017937
+        },
+        "sourceElementId": "text_0017"
+      },
+      {
+        "content": "And youneed a piece offish.",
+        "confidence": 0.8179,
+        "bbox": {
+          "x": 0.576667,
+          "y": 0.45441,
+          "width": 0.266667,
+          "height": 0.017937
+        },
+        "sourceElementId": "text_0018"
+      },
+      {
+        "content": "You need somemilk ana butter",
+        "confidence": 0.8066,
+        "bbox": {
+          "x": 0.574667,
+          "y": 0.479322,
+          "width": 0.298,
+          "height": 0.018435
+        },
+        "sourceElementId": "text_0019"
+      },
+      {
+        "content": "And you moedarlotofaheese.",
+        "confidence": 0.8364,
+        "bbox": {
+          "x": 0.575333,
+          "y": 0.500249,
+          "width": 0.278,
+          "height": 0.016442
+        },
+        "sourceElementId": "text_0020"
+      },
+      {
+        "content": "Youheed some saltandpepper",
+        "confidence": 0.8006,
+        "bbox": {
+          "x": 0.576,
+          "y": 0.519183,
+          "width": 0.3,
+          "height": 0.017937
+        },
+        "sourceElementId": "text_0021"
+      },
+      {
+        "content": "Andyoumash them inapot",
+        "confidence": 0.8278,
+        "bbox": {
+          "x": 0.574,
+          "y": 0.583956,
+          "width": 0.269333,
+          "height": 0.016941
+        },
+        "sourceElementId": "text_0024"
+      },
+      {
+        "content": "And you putitina dish.",
+        "confidence": 0.8409,
+        "bbox": {
+          "x": 0.573333,
+          "y": 0.667165,
+          "width": 0.225333,
+          "height": 0.017937
+        },
+        "sourceElementId": "text_0028"
+      },
+      {
+        "content": "You takethepeasand butter",
+        "confidence": 0.8469,
+        "bbox": {
+          "x": 0.574,
+          "y": 0.687095,
+          "width": 0.284667,
+          "height": 0.015944
+        },
+        "sourceElementId": "text_0029"
+      },
+      {
+        "content": "Anal you put the chease on top",
+        "confidence": 0.7466,
+        "bbox": {
+          "x": 0.573333,
+          "y": 0.750872,
+          "width": 0.296,
+          "height": 0.018435
+        },
+        "sourceElementId": "text_0032"
+      },
+      {
+        "content": "Read again and write T (true) or F (false).",
+        "confidence": 0.9411,
+        "bbox": {
+          "x": 0.080196,
+          "y": 0.853867,
+          "width": 0.418576,
+          "height": 0.023234
+        },
+        "sourceElementId": "text_0035"
+      }
+    ],
+    "rawOcrAudit": {
+      "rapidocr": "Skills Time!\nLesson Five\nReading\nListen,point, and repeat.\n81\nsalt\nbutter\ncheese\npotato\npeas\npepper\nWhat food canyousee inthepictures below?\nListen and read.\nMy Favorite Dish\nToday Iwant totell yon,\nHowtomakaiyifavoritedish\nYou naed twobigpotatoes.\nAnd youneed a piece offish.\nYou need somemilk ana butter\nAnd you moedarlotofaheese.\nYouheed some saltandpepper\nAndsyouneed sohehiueFreshipeas.\nYoucodldthetwo potatoes\nAndyoumash them inapot\nYoucookthepeasmwater\nAhd youmakethieniniceanahot\nYoucookthe hshinniilkhow\nAnd you putitina dish.\nYou takethepeasand butter\nAndoyoumixChemwiththe fish.\nYouadathemashedpotatoes\nAnal you put the chease on top\nYourcookttinthe oven\nWhenft'sbrown ontopyoustop!\nH Read again and write T(true) orF (false).\n2 You need a piece of meat.\n1 Youneedtwosmall potatoes.\n4You cookthepeasinmilk.\n3 You need some butter.\n6 Youputthe cheeseontop.\n5 You putthe fish in a dish.\n68\nReading:orecipe\nUnit8Food",
+      "tesseract_psm3": "neading\n\nListen, point, and repeat. @ «:\n\nWhat food can you see in the pictures below?\n\nListen and read. © «\n\nRead again and write T (true) or F (false).\n\n1 You need two small potatoes. F 2 You need a piece of meat.\n3 You need some butter. 4 You cook the peas in milk.\n5 You put the fish in a dish. 6 You put the cheese on top.\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": "",
+      "footer_passes": [
+        "1 You need two small potatoes. F_ 2 Youneedapieceofmeat.  —_\n\n3 You need some butter. a 4 You cook the peas in milk. _\n\n5 You put the fish in a dish. _ 6 Youputthecheeseontop.  __\nks Unit 8 Food Reading: a recipe",
+        "F\n\n1 You need two small potatoes.\n\n2 You need a piece of meat.\n\n3 You need some butter.\n\n4 You cook the peas in milk.\n\n5 You put the fish in a dish.\n\n6 You put the cheese on top.\n\nUnit8 Food Reading: a recipe"
+      ]
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8273,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "11 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "skills_time",
+    "pagePurpose": null,
+    "readingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "headings": [
+      {
+        "id": "text_0001",
+        "content": "Skills Time!",
+        "confidence": 0.8361,
+        "bbox": {
+          "x": 0.134667,
+          "y": 0.021425,
+          "width": 0.31,
+          "height": 0.037867
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0001"
+        ]
+      },
+      {
+        "id": "text_0002",
+        "content": "Lesson Five",
+        "confidence": 0.8508,
+        "bbox": {
+          "x": 0.063333,
+          "y": 0.078724,
+          "width": 0.154,
+          "height": 0.01993
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "id": "text_0003",
+        "content": "Reading",
+        "confidence": 0.8485,
+        "bbox": {
+          "x": 0.062667,
+          "y": 0.120578,
+          "width": 0.084667,
+          "height": 0.018934
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0003"
+        ]
+      },
+      {
+        "id": "text_0004",
+        "content": "Listen, point, and repeat.",
+        "confidence": 0.8938,
+        "bbox": {
+          "x": 0.082667,
+          "y": 0.152466,
+          "width": 0.260667,
+          "height": 0.017439
+        },
+        "repaired": true,
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      },
+      {
+        "id": "text_0042",
+        "content": "Unit 8 Food",
+        "confidence": 0.8216,
+        "bbox": {
+          "x": 0.100667,
+          "y": 0.969606,
+          "width": 0.106,
+          "height": 0.014948
+        },
+        "repaired": true,
+        "sourceElementIds": [
+          "text_0042"
+        ]
+      }
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Skills Time!",
+        "originalContent": "Skills Time!",
+        "confidence": 0.8361,
+        "bbox": {
+          "x": 0.134667,
+          "y": 0.021425,
+          "width": 0.31,
+          "height": 0.037867
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Lesson Five",
+        "originalContent": "Lesson Five",
+        "confidence": 0.8508,
+        "bbox": {
+          "x": 0.063333,
+          "y": 0.078724,
+          "width": 0.154,
+          "height": 0.01993
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Reading",
+        "originalContent": "Reading",
+        "confidence": 0.8485,
+        "bbox": {
+          "x": 0.062667,
+          "y": 0.120578,
+          "width": 0.084667,
+          "height": 0.018934
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Reading",
+            "confidence": 0.8485
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "neading",
+            "confidence": 0.8
+          }
+        ]
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Listen, point, and repeat.",
+        "originalContent": "Listen,point, and repeat.",
+        "confidence": 0.8938,
+        "bbox": {
+          "x": 0.082667,
+          "y": 0.152466,
+          "width": 0.260667,
+          "height": 0.017439
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listen, point, and repeat. @ «:",
+            "confidence": 0.87
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen,point, and repeat.",
+            "confidence": 0.8938
+          }
+        ]
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "salt",
+        "originalContent": "salt",
+        "confidence": 0.776,
+        "bbox": {
+          "x": 0.566667,
+          "y": 0.254111,
+          "width": 0.050667,
+          "height": 0.021923
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "butter",
+        "originalContent": "butter",
+        "confidence": 0.7244,
+        "bbox": {
+          "x": 0.238,
+          "y": 0.254609,
+          "width": 0.076667,
+          "height": 0.020927
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "cheese",
+        "originalContent": "cheese",
+        "confidence": 0.8534,
+        "bbox": {
+          "x": 0.394667,
+          "y": 0.254609,
+          "width": 0.080667,
+          "height": 0.020927
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "potato",
+        "originalContent": "potato",
+        "confidence": 0.8279,
+        "bbox": {
+          "x": 0.075333,
+          "y": 0.255107,
+          "width": 0.082,
+          "height": 0.021923
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "peas",
+        "originalContent": "peas",
+        "confidence": 0.7749,
+        "bbox": {
+          "x": 0.881333,
+          "y": 0.256104,
+          "width": 0.060667,
+          "height": 0.019432
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "pepper",
+        "originalContent": "pepper",
+        "confidence": 0.8246,
+        "bbox": {
+          "x": 0.71,
+          "y": 0.257598,
+          "width": 0.084667,
+          "height": 0.018435
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0012",
+        "type": "sentence",
+        "content": "What food can you see in the pictures below?",
+        "originalContent": "What food can you see in the pictures below?",
+        "confidence": 0.9589,
+        "bbox": {
+          "x": 0.083879,
+          "y": 0.297463,
+          "width": 0.461948,
+          "height": 0.01712
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "What food canyousee inthepictures below?",
+            "confidence": 0.8753
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "What food can you see in the pictures below?",
+            "confidence": 0.9589
+          }
+        ]
+      },
+      {
+        "id": "text_0013",
+        "type": "instruction",
+        "content": "Listen and read.",
+        "originalContent": "Listen and read.",
+        "confidence": 0.8735,
+        "bbox": {
+          "x": 0.08,
+          "y": 0.333832,
+          "width": 0.172,
+          "height": 0.016442
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Listen and read. © «",
+            "confidence": 0.774
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen and read.",
+            "confidence": 0.8735
+          }
+        ]
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "My Favorite Dish",
+        "originalContent": "My Favorite Dish",
+        "confidence": 0.8663,
+        "bbox": {
+          "x": 0.147333,
+          "y": 0.389138,
+          "width": 0.348,
+          "height": 0.04584
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "Today Iwant totell yon,",
+        "originalContent": "Today Iwant totell yon,",
+        "confidence": 0.7982,
+        "bbox": {
+          "x": 0.577333,
+          "y": 0.396114,
+          "width": 0.225333,
+          "height": 0.017439
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "How to makai yi favorite dish",
+        "originalContent": "Howtomakaiyifavoritedish",
+        "confidence": 0.802,
+        "bbox": {
+          "x": 0.577333,
+          "y": 0.417539,
+          "width": 0.286,
+          "height": 0.014948
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "You naed two big potatoes.",
+        "originalContent": "You naed twobigpotatoes.",
+        "confidence": 0.8241,
+        "bbox": {
+          "x": 0.577333,
+          "y": 0.435476,
+          "width": 0.258667,
+          "height": 0.017937
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0018",
+        "type": "paragraph",
+        "content": "And youneed a piece offish.",
+        "originalContent": "And youneed a piece offish.",
+        "confidence": 0.8179,
+        "bbox": {
+          "x": 0.576667,
+          "y": 0.45441,
+          "width": 0.266667,
+          "height": 0.017937
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0019",
+        "type": "paragraph",
+        "content": "You need some milk ana butter",
+        "originalContent": "You need somemilk ana butter",
+        "confidence": 0.8066,
+        "bbox": {
+          "x": 0.574667,
+          "y": 0.479322,
+          "width": 0.298,
+          "height": 0.018435
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "And you moe dar lot of a heese.",
+        "originalContent": "And you moedarlotofaheese.",
+        "confidence": 0.8364,
+        "bbox": {
+          "x": 0.575333,
+          "y": 0.500249,
+          "width": 0.278,
+          "height": 0.016442
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "Youheed some salt and pepper",
+        "originalContent": "Youheed some saltandpepper",
+        "confidence": 0.8006,
+        "bbox": {
+          "x": 0.576,
+          "y": 0.519183,
+          "width": 0.3,
+          "height": 0.017937
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "And s you need so he hi ue Fresh i peas.",
+        "originalContent": "Andsyouneed sohehiueFreshipeas.",
+        "confidence": 0.7386,
+        "bbox": {
+          "x": 0.574667,
+          "y": 0.537618,
+          "width": 0.338,
+          "height": 0.018435
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "You cod ld the two potatoes",
+        "originalContent": "Youcodldthetwo potatoes",
+        "confidence": 0.826,
+        "bbox": {
+          "x": 0.576,
+          "y": 0.563528,
+          "width": 0.262667,
+          "height": 0.019432
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "And you mash them inapot",
+        "originalContent": "Andyoumash them inapot",
+        "confidence": 0.8278,
+        "bbox": {
+          "x": 0.574,
+          "y": 0.583956,
+          "width": 0.269333,
+          "height": 0.016941
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "You cook the peas m water",
+        "originalContent": "Youcookthepeasmwater",
+        "confidence": 0.9257,
+        "bbox": {
+          "x": 0.574667,
+          "y": 0.60289,
+          "width": 0.258,
+          "height": 0.017937
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "Ahd you make th ien in ice an a hot",
+        "originalContent": "Ahd youmakethieniniceanahot",
+        "confidence": 0.8003,
+        "bbox": {
+          "x": 0.574667,
+          "y": 0.621824,
+          "width": 0.310667,
+          "height": 0.016941
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "You cook the hsh in ni ilk how",
+        "originalContent": "Youcookthe hshinniilkhow",
+        "confidence": 0.7288,
+        "bbox": {
+          "x": 0.572667,
+          "y": 0.647733,
+          "width": 0.272,
+          "height": 0.016442
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "And you put it in a dish.",
+        "originalContent": "And you putitina dish.",
+        "confidence": 0.8409,
+        "bbox": {
+          "x": 0.573333,
+          "y": 0.667165,
+          "width": 0.225333,
+          "height": 0.017937
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "You take the peas and butter",
+        "originalContent": "You takethepeasand butter",
+        "confidence": 0.8469,
+        "bbox": {
+          "x": 0.574,
+          "y": 0.687095,
+          "width": 0.284667,
+          "height": 0.015944
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "Ando you mix Chem with the fish.",
+        "originalContent": "AndoyoumixChemwiththe fish.",
+        "confidence": 0.7944,
+        "bbox": {
+          "x": 0.573333,
+          "y": 0.705531,
+          "width": 0.303333,
+          "height": 0.016941
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "You ada the mashed potatoes",
+        "originalContent": "Youadathemashedpotatoes",
+        "confidence": 0.8832,
+        "bbox": {
+          "x": 0.573333,
+          "y": 0.730942,
+          "width": 0.296,
+          "height": 0.018435
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0032",
+        "type": "paragraph",
+        "content": "Anal you put the chease on top",
+        "originalContent": "Anal you put the chease on top",
+        "confidence": 0.7466,
+        "bbox": {
+          "x": 0.573333,
+          "y": 0.750872,
+          "width": 0.296,
+          "height": 0.018435
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "Your cook tt in the oven",
+        "originalContent": "Yourcookttinthe oven",
+        "confidence": 0.8199,
+        "bbox": {
+          "x": 0.574667,
+          "y": 0.770304,
+          "width": 0.216667,
+          "height": 0.016442
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0034",
+        "type": "label",
+        "content": "When ft's brown on top you stop!",
+        "originalContent": "Whenft'sbrown ontopyoustop!",
+        "confidence": 0.8573,
+        "bbox": {
+          "x": 0.574667,
+          "y": 0.788241,
+          "width": 0.314667,
+          "height": 0.020927
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0035",
+        "type": "instruction",
+        "content": "Read again and write T (true) or F (false).",
+        "originalContent": "Read again and write T (true) or F (false).",
+        "confidence": 0.9411,
+        "bbox": {
+          "x": 0.080196,
+          "y": 0.853867,
+          "width": 0.418576,
+          "height": 0.023234
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "H Read again and write T(true) orF (false).",
+            "confidence": 0.8784
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Read again and write T (true) or F (false).",
+            "confidence": 0.9411
+          }
+        ]
+      },
+      {
+        "id": "text_0036",
+        "type": "paragraph",
+        "content": "1 You need two small potatoes. F 2 You need a piece of meat.",
+        "originalContent": "1 You need two small potatoes. F 2 You need a piece of meat.",
+        "confidence": 0.9243,
+        "bbox": {
+          "x": 0.078969,
+          "y": 0.881076,
+          "width": 0.713584,
+          "height": 0.017732
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "2 You need a piece of meat.",
+            "confidence": 0.8644
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 You need two small potatoes. F 2 You need a piece of meat.",
+            "confidence": 0.9243
+          },
+          {
+            "engine": "rapidocr",
+            "content": "1 Youneedtwosmall potatoes.",
+            "confidence": 0.8303
+          }
+        ]
+      },
+      {
+        "id": "text_0037",
+        "type": "paragraph",
+        "content": "3 You need some butter. 4 You cook the peas in milk.",
+        "originalContent": "3 You need some butter. 4 You cook the peas in milk.",
+        "confidence": 0.9525,
+        "bbox": {
+          "x": 0.078969,
+          "y": 0.904922,
+          "width": 0.713584,
+          "height": 0.016203
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4You cookthepeasinmilk.",
+            "confidence": 0.8733
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 You need some butter. 4 You cook the peas in milk.",
+            "confidence": 0.9525
+          },
+          {
+            "engine": "rapidocr",
+            "content": "3 You need some butter.",
+            "confidence": 0.8321
+          }
+        ]
+      },
+      {
+        "id": "text_0038",
+        "type": "paragraph",
+        "content": "5 You putthe fish in a dish.",
+        "originalContent": "5 You putthe fish in a dish.",
+        "confidence": 0.8419,
+        "bbox": {
+          "x": 0.076667,
+          "y": 0.927255,
+          "width": 0.266667,
+          "height": 0.017937
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0039",
+        "type": "paragraph",
+        "content": "5 You put the fish in a dish. 6 You put the cheese on top.",
+        "originalContent": "5 You put the fish in a dish. 6 You put the cheese on top.",
+        "confidence": 0.954,
+        "bbox": {
+          "x": 0.078969,
+          "y": 0.928157,
+          "width": 0.718085,
+          "height": 0.01712
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "6 Youputthe cheeseontop.",
+            "confidence": 0.8838
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 You put the fish in a dish. 6 You put the cheese on top.",
+            "confidence": 0.954
+          }
+        ]
+      },
+      {
+        "id": "text_0041",
+        "type": "label",
+        "content": "Reading: orecipe",
+        "originalContent": "Reading:orecipe",
+        "confidence": 0.7984,
+        "bbox": {
+          "x": 0.236667,
+          "y": 0.969108,
+          "width": 0.129333,
+          "height": 0.016941
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0042",
+        "type": "heading",
+        "content": "Unit 8 Food",
+        "originalContent": "Unit8Food",
+        "confidence": 0.8216,
+        "bbox": {
+          "x": 0.100667,
+          "y": 0.969606,
+          "width": 0.106,
+          "height": 0.014948
+        },
+        "repaired": true,
+        "repairNotes": [
+          "heading"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Skills Time!",
+      "Lesson Five",
+      "Reading",
+      "Listen, point, and repeat.",
+      "salt",
+      "butter",
+      "cheese",
+      "potato",
+      "peas",
+      "pepper",
+      "What food can you see in the pictures below?",
+      "Listen and read.",
+      "My Favorite Dish",
+      "Today Iwant totell yon,",
+      "How to makai yi favorite dish",
+      "You naed two big potatoes.",
+      "And youneed a piece offish.",
+      "You need some milk ana butter",
+      "And you moe dar lot of a heese.",
+      "Youheed some salt and pepper",
+      "And s you need so he hi ue Fresh i peas.",
+      "You cod ld the two potatoes",
+      "And you mash them inapot",
+      "You cook the peas m water",
+      "Ahd you make th ien in ice an a hot",
+      "You cook the hsh in ni ilk how",
+      "And you put it in a dish.",
+      "You take the peas and butter",
+      "Ando you mix Chem with the fish.",
+      "You ada the mashed potatoes",
+      "Anal you put the chease on top",
+      "Your cook tt in the oven",
+      "When ft's brown on top you stop!",
+      "Read again and write T (true) or F (false).",
+      "1 You need two small potatoes. F 2 You need a piece of meat.",
+      "3 You need some butter. 4 You cook the peas in milk.",
+      "5 You putthe fish in a dish.",
+      "5 You put the fish in a dish. 6 You put the cheese on top.",
+      "Reading: orecipe",
+      "Unit 8 Food"
+    ],
+    "paragraphs": [
+      {
+        "id": "text_0018",
+        "content": "And youneed a piece offish.",
+        "confidence": 0.8179,
+        "bbox": {
+          "x": 0.576667,
+          "y": 0.45441,
+          "width": 0.266667,
+          "height": 0.017937
+        },
+        "sourceElementIds": [
+          "text_0018"
+        ]
+      },
+      {
+        "id": "text_0019",
+        "content": "You need some milk ana butter",
+        "confidence": 0.8066,
+        "bbox": {
+          "x": 0.574667,
+          "y": 0.479322,
+          "width": 0.298,
+          "height": 0.018435
+        },
+        "sourceElementIds": [
+          "text_0019"
+        ]
+      },
+      {
+        "id": "text_0032",
+        "content": "Anal you put the chease on top",
+        "confidence": 0.7466,
+        "bbox": {
+          "x": 0.573333,
+          "y": 0.750872,
+          "width": 0.296,
+          "height": 0.018435
+        },
+        "sourceElementIds": [
+          "text_0032"
+        ]
+      },
+      {
+        "id": "text_0036",
+        "content": "1 You need two small potatoes. F 2 You need a piece of meat.",
+        "confidence": 0.9243,
+        "bbox": {
+          "x": 0.078969,
+          "y": 0.881076,
+          "width": 0.713584,
+          "height": 0.017732
+        },
+        "sourceElementIds": [
+          "text_0036"
+        ]
+      },
+      {
+        "id": "text_0037",
+        "content": "3 You need some butter. 4 You cook the peas in milk.",
+        "confidence": 0.9525,
+        "bbox": {
+          "x": 0.078969,
+          "y": 0.904922,
+          "width": 0.713584,
+          "height": 0.016203
+        },
+        "sourceElementIds": [
+          "text_0037"
+        ]
+      },
+      {
+        "id": "text_0038",
+        "content": "5 You putthe fish in a dish.",
+        "confidence": 0.8419,
+        "bbox": {
+          "x": 0.076667,
+          "y": 0.927255,
+          "width": 0.266667,
+          "height": 0.017937
+        },
+        "sourceElementIds": [
+          "text_0038"
+        ]
+      },
+      {
+        "id": "text_0039",
+        "content": "5 You put the fish in a dish. 6 You put the cheese on top.",
+        "confidence": 0.954,
+        "bbox": {
+          "x": 0.078969,
+          "y": 0.928157,
+          "width": 0.718085,
+          "height": 0.01712
+        },
+        "sourceElementIds": [
+          "text_0039"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "text_0012",
+        "content": "What food can you see in the pictures below?",
+        "confidence": 0.9589,
+        "bbox": {
+          "x": 0.083879,
+          "y": 0.297463,
+          "width": 0.461948,
+          "height": 0.01712
+        },
+        "sourceElementIds": [
+          "text_0012"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "salt",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.776,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "butter",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7244,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "cheese",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8534,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "potato",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8279,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "peas",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7749,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "pepper",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8246,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      }
+    ],
+    "grammar": [],
+    "dialogues": [],
+    "exercises": [
+      {
+        "exerciseNumber": null,
+        "type": "listening_activity",
+        "instruction": "Listen and read.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8735,
+        "sourceElementIds": [
+          "text_0013"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "listening_activity",
+        "instruction": "Listen, point, and repeat.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8938,
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "true_false",
+        "instruction": "Read again and write T (true) or F (false).",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.9411,
+        "sourceElementIds": [
+          "text_0035"
+        ]
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [
+      {
+        "lines": [
+          {
+            "content": "What food can you see in the pictures below?",
+            "confidence": 0.9589,
+            "bbox": {
+              "x": 0.083879,
+              "y": 0.297463,
+              "width": 0.461948,
+              "height": 0.01712
+            },
+            "sourceElementId": "text_0012",
+            "repairNotes": []
+          },
+          {
+            "content": "My Favorite Dish",
+            "confidence": 0.8663,
+            "bbox": {
+              "x": 0.147333,
+              "y": 0.389138,
+              "width": 0.348,
+              "height": 0.04584
+            },
+            "sourceElementId": "text_0014",
+            "repairNotes": []
+          },
+          {
+            "content": "Today Iwant totell yon,",
+            "confidence": 0.7982,
+            "bbox": {
+              "x": 0.577333,
+              "y": 0.396114,
+              "width": 0.225333,
+              "height": 0.017439
+            },
+            "sourceElementId": "text_0015",
+            "repairNotes": []
+          },
+          {
+            "content": "You naed two big potatoes.",
+            "confidence": 0.8241,
+            "bbox": {
+              "x": 0.577333,
+              "y": 0.435476,
+              "width": 0.258667,
+              "height": 0.017937
+            },
+            "sourceElementId": "text_0017",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "And youneed a piece offish.",
+            "confidence": 0.8179,
+            "bbox": {
+              "x": 0.576667,
+              "y": 0.45441,
+              "width": 0.266667,
+              "height": 0.017937
+            },
+            "sourceElementId": "text_0018",
+            "repairNotes": []
+          },
+          {
+            "content": "You need some milk ana butter",
+            "confidence": 0.8066,
+            "bbox": {
+              "x": 0.574667,
+              "y": 0.479322,
+              "width": 0.298,
+              "height": 0.018435
+            },
+            "sourceElementId": "text_0019",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "And you moe dar lot of a heese.",
+            "confidence": 0.8364,
+            "bbox": {
+              "x": 0.575333,
+              "y": 0.500249,
+              "width": 0.278,
+              "height": 0.016442
+            },
+            "sourceElementId": "text_0020",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "Youheed some salt and pepper",
+            "confidence": 0.8006,
+            "bbox": {
+              "x": 0.576,
+              "y": 0.519183,
+              "width": 0.3,
+              "height": 0.017937
+            },
+            "sourceElementId": "text_0021",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "And you mash them inapot",
+            "confidence": 0.8278,
+            "bbox": {
+              "x": 0.574,
+              "y": 0.583956,
+              "width": 0.269333,
+              "height": 0.016941
+            },
+            "sourceElementId": "text_0024",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "And you put it in a dish.",
+            "confidence": 0.8409,
+            "bbox": {
+              "x": 0.573333,
+              "y": 0.667165,
+              "width": 0.225333,
+              "height": 0.017937
+            },
+            "sourceElementId": "text_0028",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "You take the peas and butter",
+            "confidence": 0.8469,
+            "bbox": {
+              "x": 0.574,
+              "y": 0.687095,
+              "width": 0.284667,
+              "height": 0.015944
+            },
+            "sourceElementId": "text_0029",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "Anal you put the chease on top",
+            "confidence": 0.7466,
+            "bbox": {
+              "x": 0.573333,
+              "y": 0.750872,
+              "width": 0.296,
+              "height": 0.018435
+            },
+            "sourceElementId": "text_0032",
+            "repairNotes": []
+          }
+        ],
+        "confidence": 0.8309333333333333
+      }
+    ],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "salt",
+          "butter",
+          "cheese",
+          "potato",
+          "peas",
+          "pepper",
+          "What food can you see in the pictures below?",
+          "Listen and read.",
+          "My Favorite Dish",
+          "Today Iwant totell yon,",
+          "How to makai yi favorite dish",
+          "You naed two big potatoes."
+        ],
+        "position": {
+          "x": 0.055333,
+          "y": 0.234111,
+          "width": 0.906667,
+          "height": 0.239302
+        },
+        "textElementIds": [
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "And youneed a piece offish.",
+          "You need some milk ana butter",
+          "And you moe dar lot of a heese.",
+          "Youheed some salt and pepper",
+          "And s you need so he hi ue Fresh i peas.",
+          "You cod ld the two potatoes",
+          "And you mash them inapot",
+          "You cook the peas m water",
+          "Ahd you make th ien in ice an a hot",
+          "You cook the hsh in ni ilk how",
+          "And you put it in a dish.",
+          "You take the peas and butter"
+        ],
+        "position": {
+          "x": 0.552667,
+          "y": 0.43441,
+          "width": 0.38,
+          "height": 0.288629
+        },
+        "textElementIds": [
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Ando you mix Chem with the fish.",
+          "You ada the mashed potatoes",
+          "Anal you put the chease on top",
+          "Your cook tt in the oven",
+          "When ft's brown on top you stop!",
+          "Read again and write T (true) or F (false)."
+        ],
+        "position": {
+          "x": 0.060196,
+          "y": 0.685531,
+          "width": 0.849138,
+          "height": 0.21157
+        },
+        "textElementIds": [
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033",
+          "text_0034",
+          "text_0035"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "nonEducationalText": [],
+    "excludedGarbage": [
+      {
+        "id": "text_0005",
+        "content": "81",
+        "originalContent": "81",
+        "confidence": 0.6164
+      },
+      {
+        "id": "text_0040",
+        "content": "68",
+        "originalContent": "68",
+        "confidence": 0.6663
+      }
+    ]
+  },
+  "learningContent": {
+    "pageType": "skills_time",
+    "title": "Skills Time!",
+    "learningObjectives": [
+      "Study content: Reading"
+    ],
+    "targetVocabulary": [
+      {
+        "word": "salt",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.776,
+        "sourceElementIds": []
+      },
+      {
+        "word": "butter",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7244,
+        "sourceElementIds": []
+      },
+      {
+        "word": "cheese",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8534,
+        "sourceElementIds": []
+      },
+      {
+        "word": "potato",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8279,
+        "sourceElementIds": []
+      },
+      {
+        "word": "peas",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7749,
+        "sourceElementIds": []
+      },
+      {
+        "word": "pepper",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8246,
+        "sourceElementIds": []
+      }
+    ],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [],
+    "reading": [
+      {
+        "title": "Skills Time!",
+        "text": "1 You need two small potatoes. F 2 You need a piece of meat.",
+        "confidence": 0.9243,
+        "sourceElementIds": [
+          "text_0036"
+        ]
+      },
+      {
+        "title": "Skills Time!",
+        "text": "3 You need some butter. 4 You cook the peas in milk.",
+        "confidence": 0.9525,
+        "sourceElementIds": [
+          "text_0037"
+        ]
+      },
+      {
+        "title": "Skills Time!",
+        "text": "5 You put the fish in a dish. 6 You put the cheese on top.",
+        "confidence": 0.954,
+        "sourceElementIds": [
+          "text_0039"
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": null,
+        "type": "listening_activity",
+        "instruction": "Listen and read.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8735,
+        "sourceElementIds": [
+          "text_0013"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "listening_activity",
+        "instruction": "Listen, point, and repeat.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8938,
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "true_false",
+        "instruction": "Read again and write T (true) or F (false).",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.9411,
+        "sourceElementIds": [
+          "text_0035"
+        ]
+      }
+    ],
+    "pronunciation": [],
+    "listening": [
+      {
+        "exerciseNumber": null,
+        "instruction": "Listen and read.",
+        "type": "listening_activity",
+        "confidence": 0.8735
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Listen, point, and repeat.",
+        "type": "listening_activity",
+        "confidence": 0.8938
+      }
+    ],
+    "speaking": [
+      {
+        "exerciseNumber": null,
+        "instruction": "Listen and read.",
+        "type": "listening_activity",
+        "confidence": 0.8735
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Listen, point, and repeat.",
+        "type": "listening_activity",
+        "confidence": 0.8938
+      }
+    ],
+    "writing": [
+      {
+        "exerciseNumber": null,
+        "instruction": "Read again and write T (true) or F (false).",
+        "type": "true_false",
+        "confidence": 0.9411
+      }
+    ],
+    "songsOrPoems": [
+      {
+        "lines": [
+          {
+            "content": "What food can you see in the pictures below?",
+            "confidence": 0.9589,
+            "bbox": {
+              "x": 0.083879,
+              "y": 0.297463,
+              "width": 0.461948,
+              "height": 0.01712
+            },
+            "sourceElementId": "text_0012",
+            "repairNotes": []
+          },
+          {
+            "content": "My Favorite Dish",
+            "confidence": 0.8663,
+            "bbox": {
+              "x": 0.147333,
+              "y": 0.389138,
+              "width": 0.348,
+              "height": 0.04584
+            },
+            "sourceElementId": "text_0014",
+            "repairNotes": []
+          },
+          {
+            "content": "Today Iwant totell yon,",
+            "confidence": 0.7982,
+            "bbox": {
+              "x": 0.577333,
+              "y": 0.396114,
+              "width": 0.225333,
+              "height": 0.017439
+            },
+            "sourceElementId": "text_0015",
+            "repairNotes": []
+          },
+          {
+            "content": "You naed two big potatoes.",
+            "confidence": 0.8241,
+            "bbox": {
+              "x": 0.577333,
+              "y": 0.435476,
+              "width": 0.258667,
+              "height": 0.017937
+            },
+            "sourceElementId": "text_0017",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "And youneed a piece offish.",
+            "confidence": 0.8179,
+            "bbox": {
+              "x": 0.576667,
+              "y": 0.45441,
+              "width": 0.266667,
+              "height": 0.017937
+            },
+            "sourceElementId": "text_0018",
+            "repairNotes": []
+          },
+          {
+            "content": "You need some milk ana butter",
+            "confidence": 0.8066,
+            "bbox": {
+              "x": 0.574667,
+              "y": 0.479322,
+              "width": 0.298,
+              "height": 0.018435
+            },
+            "sourceElementId": "text_0019",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "And you moe dar lot of a heese.",
+            "confidence": 0.8364,
+            "bbox": {
+              "x": 0.575333,
+              "y": 0.500249,
+              "width": 0.278,
+              "height": 0.016442
+            },
+            "sourceElementId": "text_0020",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "Youheed some salt and pepper",
+            "confidence": 0.8006,
+            "bbox": {
+              "x": 0.576,
+              "y": 0.519183,
+              "width": 0.3,
+              "height": 0.017937
+            },
+            "sourceElementId": "text_0021",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "And you mash them inapot",
+            "confidence": 0.8278,
+            "bbox": {
+              "x": 0.574,
+              "y": 0.583956,
+              "width": 0.269333,
+              "height": 0.016941
+            },
+            "sourceElementId": "text_0024",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "And you put it in a dish.",
+            "confidence": 0.8409,
+            "bbox": {
+              "x": 0.573333,
+              "y": 0.667165,
+              "width": 0.225333,
+              "height": 0.017937
+            },
+            "sourceElementId": "text_0028",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "You take the peas and butter",
+            "confidence": 0.8469,
+            "bbox": {
+              "x": 0.574,
+              "y": 0.687095,
+              "width": 0.284667,
+              "height": 0.015944
+            },
+            "sourceElementId": "text_0029",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "Anal you put the chease on top",
+            "confidence": 0.7466,
+            "bbox": {
+              "x": 0.573333,
+              "y": 0.750872,
+              "width": 0.296,
+              "height": 0.018435
+            },
+            "sourceElementId": "text_0032",
+            "repairNotes": []
+          }
+        ],
+        "confidence": 0.8309333333333333
+      }
+    ],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "text_kept": 40,
+      "text_repaired": 20,
+      "garbage_excluded": 2,
+      "vocab_kept": 6,
+      "vocab_rejected": 1,
+      "exercises_reconstructed": 3,
+      "song_lines": 12
+    },
+    "averageOcrConfidence": 0.8273
+  },
+  "metadata": {
+    "book": "Family and Friends 3 Student Book (American)",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_ff3_v1",
+    "originalOcrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "originalAverageConfidence": 0.8273,
+    "noHallucinationPolicy": "Definitions, translations, speaker names, answers, and grammar rules are null or omitted unless visibly supported by page OCR/PDF. Text repairs are limited to spacing, punctuation, and clear OCR character errors."
+  }
+}

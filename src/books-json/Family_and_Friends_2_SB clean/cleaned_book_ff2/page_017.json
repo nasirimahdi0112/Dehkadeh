@@ -1,0 +1,2545 @@
+{
+  "pageNumber": 16,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "pdf_visual_verification",
+  "pdfPageNumber": 17,
+  "source": {
+    "pdfFile": "Family and Friends 2 SB_Part1.pdf",
+    "pdfLocalPageNumber": 17,
+    "pageSizePoints": {
+      "width": 595.2,
+      "height": 785.04
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "They're happy",
+        "confidence": 0.7758,
+        "bbox": {
+          "x": 0.194667,
+          "y": 0.015167,
+          "width": 0.484667,
+          "height": 0.068251
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "now!",
+        "confidence": 0.6957,
+        "bbox": {
+          "x": 0.656,
+          "y": 0.021234,
+          "width": 0.172667,
+          "height": 0.052073
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Lesson One Words J",
+        "confidence": 0.8725,
+        "bbox": {
+          "x": 0.034677,
+          "y": 0.083766,
+          "width": 0.283468,
+          "height": 0.035157
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Lesson One Words J",
+            "confidence": 0.8725
+          },
+          {
+            "engine": "rapidocr",
+            "content": "LessonOneWords",
+            "confidence": 0.8606
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Listen,point, and repeat.",
+        "confidence": 0.8652,
+        "bbox": {
+          "x": 0.053333,
+          "y": 0.135996,
+          "width": 0.308667,
+          "height": 0.020728
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Listen, point, and repeat. © i« 2 Listen and chant. © 19",
+            "confidence": 0.8069
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen,point, and repeat.",
+            "confidence": 0.8652
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "instruction",
+        "content": "2 Listen and chant.",
+        "confidence": 0.8912,
+        "bbox": {
+          "x": 0.486,
+          "y": 0.136502,
+          "width": 0.238,
+          "height": 0.018706
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "18",
+        "confidence": 0.6459,
+        "bbox": {
+          "x": 0.398667,
+          "y": 0.142568,
+          "width": 0.012667,
+          "height": 0.008595
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "19",
+        "confidence": 0.6075,
+        "bbox": {
+          "x": 0.764,
+          "y": 0.143579,
+          "width": 0.01,
+          "height": 0.007078
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "hot",
+        "confidence": 0.7149,
+        "bbox": {
+          "x": 0.113333,
+          "y": 0.260364,
+          "width": 0.044667,
+          "height": 0.020728
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "thirsty",
+        "confidence": 0.8626,
+        "bbox": {
+          "x": 0.556,
+          "y": 0.26087,
+          "width": 0.077333,
+          "height": 0.022245
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "happy",
+        "confidence": 0.8296,
+        "bbox": {
+          "x": 0.708667,
+          "y": 0.26087,
+          "width": 0.077333,
+          "height": 0.02275
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "hungry",
+        "confidence": 0.7975,
+        "bbox": {
+          "x": 0.400667,
+          "y": 0.261881,
+          "width": 0.084667,
+          "height": 0.021234
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "sad",
+        "confidence": 0.7389,
+        "bbox": {
+          "x": 0.878,
+          "y": 0.262386,
+          "width": 0.044667,
+          "height": 0.018706
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0013",
+        "type": "instruction",
+        "content": "Listen and read.",
+        "confidence": 0.813,
+        "bbox": {
+          "x": 0.056,
+          "y": 0.320526,
+          "width": 0.229333,
+          "height": 0.017695
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "20",
+        "confidence": 0.6552,
+        "bbox": {
+          "x": 0.292667,
+          "y": 0.325076,
+          "width": 0.016,
+          "height": 0.010617
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "Oh no,They're crying.Are they hot?",
+        "confidence": 0.8707,
+        "bbox": {
+          "x": 0.566667,
+          "y": 0.36451,
+          "width": 0.338,
+          "height": 0.019717
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "Hello, babies!",
+        "confidence": 0.8658,
+        "bbox": {
+          "x": 0.1,
+          "y": 0.366026,
+          "width": 0.131333,
+          "height": 0.018706
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "No, they aren't",
+        "confidence": 0.8833,
+        "bbox": {
+          "x": 0.786,
+          "y": 0.404954,
+          "width": 0.146,
+          "height": 0.016684
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ba they aren't. st",
+            "confidence": 0.385
+          },
+          {
+            "engine": "rapidocr",
+            "content": "No, they aren't",
+            "confidence": 0.8833
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "They're twins-brother and sister.",
+        "confidence": 0.9104,
+        "bbox": {
+          "x": 0.144667,
+          "y": 0.510617,
+          "width": 0.324,
+          "height": 0.018706
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "sentence",
+        "content": "Are they cold?",
+        "confidence": 0.911,
+        "bbox": {
+          "x": 0.093333,
+          "y": 0.557128,
+          "width": 0.135333,
+          "height": 0.019717
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "instruction",
+        "content": "Look!Bananas",
+        "confidence": 0.8616,
+        "bbox": {
+          "x": 0.570667,
+          "y": 0.560667,
+          "width": 0.142,
+          "height": 0.015167
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "Canthe babies",
+        "confidence": 0.8379,
+        "bbox": {
+          "x": 0.528,
+          "y": 0.682508,
+          "width": 0.144,
+          "height": 0.015167
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "eat bananas?",
+        "confidence": 0.8618,
+        "bbox": {
+          "x": 0.532667,
+          "y": 0.703236,
+          "width": 0.134,
+          "height": 0.015167
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "sentence",
+        "content": "Yes.what a good idea!",
+        "confidence": 0.8728,
+        "bbox": {
+          "x": 0.707333,
+          "y": 0.705763,
+          "width": 0.218667,
+          "height": 0.016684
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "No,theyaren'tcold",
+        "confidence": 0.8711,
+        "bbox": {
+          "x": 0.248667,
+          "y": 0.70728,
+          "width": 0.19,
+          "height": 0.016684
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "instruction",
+        "content": "Look, they're hungry",
+        "confidence": 0.899,
+        "bbox": {
+          "x": 0.086,
+          "y": 0.751769,
+          "width": 0.2,
+          "height": 0.022245
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "They're happy now",
+        "confidence": 0.8867,
+        "bbox": {
+          "x": 0.568145,
+          "y": 0.752981,
+          "width": 0.180645,
+          "height": 0.017426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "They're happy now",
+            "confidence": 0.8519
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "They're happy now",
+            "confidence": 0.8867
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "paragraph",
+        "content": "1 and we're happy too.",
+        "confidence": 0.904,
+        "bbox": {
+          "x": 0.540323,
+          "y": 0.772852,
+          "width": 0.217742,
+          "height": 0.017426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "and we're happy too.",
+            "confidence": 0.8895
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 and we're happy too.",
+            "confidence": 0.904
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "sentence",
+        "content": "Yes,theylikebananas.",
+        "confidence": 0.8449,
+        "bbox": {
+          "x": 0.229333,
+          "y": 0.89636,
+          "width": 0.211333,
+          "height": 0.016684
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "16",
+        "confidence": 0.6597,
+        "bbox": {
+          "x": 0.006,
+          "y": 0.950455,
+          "width": 0.031333,
+          "height": 0.018706
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "16",
+            "confidence": 0.6597
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "16 Unit 2 Feelings",
+            "confidence": 0.605
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "Feelings",
+        "confidence": 0.873,
+        "bbox": {
+          "x": 0.137333,
+          "y": 0.955511,
+          "width": 0.08,
+          "height": 0.016178
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "heading",
+        "content": "Unit2",
+        "confidence": 0.8053,
+        "bbox": {
+          "x": 0.08,
+          "y": 0.956016,
+          "width": 0.058667,
+          "height": 0.01365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "They're happy",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.194667,
+          "y": 0.015167,
+          "width": 0.484667,
+          "height": 0.068251
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.7758
+      },
+      {
+        "word": "now!",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.656,
+          "y": 0.021234,
+          "width": 0.172667,
+          "height": 0.052073
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.6957
+      },
+      {
+        "word": "hot",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.113333,
+          "y": 0.260364,
+          "width": 0.044667,
+          "height": 0.020728
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.7149
+      },
+      {
+        "word": "thirsty",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.556,
+          "y": 0.26087,
+          "width": 0.077333,
+          "height": 0.022245
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8626
+      },
+      {
+        "word": "happy",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.708667,
+          "y": 0.26087,
+          "width": 0.077333,
+          "height": 0.02275
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8296
+      },
+      {
+        "word": "hungry",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.400667,
+          "y": 0.261881,
+          "width": 0.084667,
+          "height": 0.021234
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.7975
+      },
+      {
+        "word": "sad",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.878,
+          "y": 0.262386,
+          "width": 0.044667,
+          "height": 0.018706
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.7389
+      },
+      {
+        "word": "Hello, babies!",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.1,
+          "y": 0.366026,
+          "width": 0.131333,
+          "height": 0.018706
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8658
+      },
+      {
+        "word": "No, they aren't",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.786,
+          "y": 0.404954,
+          "width": 0.146,
+          "height": 0.016684
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8833
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Oh no,They're crying.Are they hot?",
+            "confidence": 0.8707,
+            "bbox": {
+              "x": 0.566667,
+              "y": 0.36451,
+              "width": 0.338,
+              "height": 0.019717
+            },
+            "sourceElementId": "text_0015",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Hello, babies!",
+            "confidence": 0.8658,
+            "bbox": {
+              "x": 0.1,
+              "y": 0.366026,
+              "width": 0.131333,
+              "height": 0.018706
+            },
+            "sourceElementId": "text_0016",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "They're twins-brother and sister.",
+            "confidence": 0.9104,
+            "bbox": {
+              "x": 0.144667,
+              "y": 0.510617,
+              "width": 0.324,
+              "height": 0.018706
+            },
+            "sourceElementId": "text_0018",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Are they cold?",
+            "confidence": 0.911,
+            "bbox": {
+              "x": 0.093333,
+              "y": 0.557128,
+              "width": 0.135333,
+              "height": 0.019717
+            },
+            "sourceElementId": "text_0019",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Yes.what a good idea!",
+            "confidence": 0.8728,
+            "bbox": {
+              "x": 0.707333,
+              "y": 0.705763,
+              "width": 0.218667,
+              "height": 0.016684
+            },
+            "sourceElementId": "text_0023",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Speech-bubble/dialogue-like text was detected spatially; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "2",
+        "type": "listening_activity",
+        "instruction": "Listen and chant.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0005"
+        ],
+        "confidence": 0.8912
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "hot",
+          "thirsty",
+          "happy",
+          "hungry",
+          "sad",
+          "Listen and read.",
+          "20",
+          "Oh no,They're crying.Are they hot?",
+          "Hello, babies!",
+          "No, they aren't"
+        ],
+        "position": {
+          "x": 0.036,
+          "y": 0.240364,
+          "width": 0.916,
+          "height": 0.201274
+        },
+        "textElementIds": [
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "They're twins-brother and sister.",
+          "Are they cold?",
+          "Look!Bananas"
+        ],
+        "position": {
+          "x": 0.073333,
+          "y": 0.490617,
+          "width": 0.659334,
+          "height": 0.106228
+        },
+        "textElementIds": [
+          "text_0018",
+          "text_0019",
+          "text_0020"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Canthe babies",
+          "eat bananas?",
+          "Yes.what a good idea!",
+          "No,theyaren'tcold",
+          "Look, they're hungry",
+          "They're happy now",
+          "1 and we're happy too."
+        ],
+        "position": {
+          "x": 0.066,
+          "y": 0.662508,
+          "width": 0.88,
+          "height": 0.14777
+        },
+        "textElementIds": [
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "rawOcrAudit": {
+      "rapidocr": "They're happy\nnow!\nLessonOneWords\nListen,point, and repeat.\n2 Listen and chant.\n18\n19\nhot\nthirsty\nhappy\nhungry\nsad\nListen and read.\n20\nOh no,They're crying.Are they hot?\nHello, babies!\nNo, they aren't\nThey're twins-brother and sister.\nAre they cold?\nLook!Bananas\nCanthe babies\neat bananas?\nYes.what a good idea!\nNo,theyaren'tcold\nThey're happy now\nLook, they're hungry\nand we're happy too.\nYes,theylikebananas.\n16\nFeelings\nUnit2",
+      "tesseract_psm3": "Lesson One Words J\n\n1 Listen, point, and repeat. © i« 2 Listen and chant. © 19\n\nBa they aren't. st\n‘ 5y\n\nThey're happy now\n1 and we're happy too.\n\n16 Unit 2 Feelings\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": "",
+      "footer_passes": [
+        "16 \\ Unit 2 Feelings",
+        "A a ite\n\ne.”\n\nAy\n\n‘es they like bananas.\n\n16\n\nUnit 2 Feelings\n\n—"
+      ]
+    },
+    "excludedOcrNoise": [
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "‘ 5y",
+        "confidence": 0.035,
+        "bbox": {
+          "x": 0.697177,
+          "y": 0.46897,
+          "width": 0.227823,
+          "height": 0.013146
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "averageConfidence": 0.8189,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "9 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "1 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "lesson",
+    "pagePurpose": null,
+    "readingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "headings": [
+      {
+        "id": "text_0001",
+        "content": "They're happy",
+        "confidence": 0.7758,
+        "bbox": {
+          "x": 0.194667,
+          "y": 0.015167,
+          "width": 0.484667,
+          "height": 0.068251
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0001"
+        ]
+      },
+      {
+        "id": "text_0002",
+        "content": "now!",
+        "confidence": 0.6957,
+        "bbox": {
+          "x": 0.656,
+          "y": 0.021234,
+          "width": 0.172667,
+          "height": 0.052073
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "id": "text_0003",
+        "content": "Lesson One Words J",
+        "confidence": 0.8725,
+        "bbox": {
+          "x": 0.034677,
+          "y": 0.083766,
+          "width": 0.283468,
+          "height": 0.035157
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0003"
+        ]
+      },
+      {
+        "id": "text_0004",
+        "content": "Listen, point, and repeat.",
+        "confidence": 0.8652,
+        "bbox": {
+          "x": 0.053333,
+          "y": 0.135996,
+          "width": 0.308667,
+          "height": 0.020728
+        },
+        "repaired": true,
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      },
+      {
+        "id": "text_0031",
+        "content": "Unit 2",
+        "confidence": 0.8053,
+        "bbox": {
+          "x": 0.08,
+          "y": 0.956016,
+          "width": 0.058667,
+          "height": 0.01365
+        },
+        "repaired": true,
+        "sourceElementIds": [
+          "text_0031"
+        ]
+      }
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "They're happy",
+        "originalContent": "They're happy",
+        "confidence": 0.7758,
+        "bbox": {
+          "x": 0.194667,
+          "y": 0.015167,
+          "width": 0.484667,
+          "height": 0.068251
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "now!",
+        "originalContent": "now!",
+        "confidence": 0.6957,
+        "bbox": {
+          "x": 0.656,
+          "y": 0.021234,
+          "width": 0.172667,
+          "height": 0.052073
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Lesson One Words J",
+        "originalContent": "Lesson One Words J",
+        "confidence": 0.8725,
+        "bbox": {
+          "x": 0.034677,
+          "y": 0.083766,
+          "width": 0.283468,
+          "height": 0.035157
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Lesson One Words J",
+            "confidence": 0.8725
+          },
+          {
+            "engine": "rapidocr",
+            "content": "LessonOneWords",
+            "confidence": 0.8606
+          }
+        ]
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Listen, point, and repeat.",
+        "originalContent": "Listen,point, and repeat.",
+        "confidence": 0.8652,
+        "bbox": {
+          "x": 0.053333,
+          "y": 0.135996,
+          "width": 0.308667,
+          "height": 0.020728
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Listen, point, and repeat. © i« 2 Listen and chant. © 19",
+            "confidence": 0.8069
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen,point, and repeat.",
+            "confidence": 0.8652
+          }
+        ]
+      },
+      {
+        "id": "text_0005",
+        "type": "instruction",
+        "content": "2 Listen and chant.",
+        "originalContent": "2 Listen and chant.",
+        "confidence": 0.8912,
+        "bbox": {
+          "x": 0.486,
+          "y": 0.136502,
+          "width": 0.238,
+          "height": 0.018706
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "hot",
+        "originalContent": "hot",
+        "confidence": 0.7149,
+        "bbox": {
+          "x": 0.113333,
+          "y": 0.260364,
+          "width": 0.044667,
+          "height": 0.020728
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "thirsty",
+        "originalContent": "thirsty",
+        "confidence": 0.8626,
+        "bbox": {
+          "x": 0.556,
+          "y": 0.26087,
+          "width": 0.077333,
+          "height": 0.022245
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "happy",
+        "originalContent": "happy",
+        "confidence": 0.8296,
+        "bbox": {
+          "x": 0.708667,
+          "y": 0.26087,
+          "width": 0.077333,
+          "height": 0.02275
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "hungry",
+        "originalContent": "hungry",
+        "confidence": 0.7975,
+        "bbox": {
+          "x": 0.400667,
+          "y": 0.261881,
+          "width": 0.084667,
+          "height": 0.021234
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "sad",
+        "originalContent": "sad",
+        "confidence": 0.7389,
+        "bbox": {
+          "x": 0.878,
+          "y": 0.262386,
+          "width": 0.044667,
+          "height": 0.018706
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0013",
+        "type": "instruction",
+        "content": "Listen and read.",
+        "originalContent": "Listen and read.",
+        "confidence": 0.813,
+        "bbox": {
+          "x": 0.056,
+          "y": 0.320526,
+          "width": 0.229333,
+          "height": 0.017695
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "Oh no, They're crying. Are they hot?",
+        "originalContent": "Oh no,They're crying.Are they hot?",
+        "confidence": 0.8707,
+        "bbox": {
+          "x": 0.566667,
+          "y": 0.36451,
+          "width": 0.338,
+          "height": 0.019717
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0016",
+        "type": "sentence",
+        "content": "Hello, babies!",
+        "originalContent": "Hello, babies!",
+        "confidence": 0.8658,
+        "bbox": {
+          "x": 0.1,
+          "y": 0.366026,
+          "width": 0.131333,
+          "height": 0.018706
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "No, they aren't",
+        "originalContent": "No, they aren't",
+        "confidence": 0.8833,
+        "bbox": {
+          "x": 0.786,
+          "y": 0.404954,
+          "width": 0.146,
+          "height": 0.016684
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Ba they aren't. st",
+            "confidence": 0.385
+          },
+          {
+            "engine": "rapidocr",
+            "content": "No, they aren't",
+            "confidence": 0.8833
+          }
+        ]
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "They're twins-brother and sister.",
+        "originalContent": "They're twins-brother and sister.",
+        "confidence": 0.9104,
+        "bbox": {
+          "x": 0.144667,
+          "y": 0.510617,
+          "width": 0.324,
+          "height": 0.018706
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0019",
+        "type": "sentence",
+        "content": "Are they cold?",
+        "originalContent": "Are they cold?",
+        "confidence": 0.911,
+        "bbox": {
+          "x": 0.093333,
+          "y": 0.557128,
+          "width": 0.135333,
+          "height": 0.019717
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0020",
+        "type": "instruction",
+        "content": "Look! Bananas",
+        "originalContent": "Look!Bananas",
+        "confidence": 0.8616,
+        "bbox": {
+          "x": 0.570667,
+          "y": 0.560667,
+          "width": 0.142,
+          "height": 0.015167
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "Canthe babies",
+        "originalContent": "Canthe babies",
+        "confidence": 0.8379,
+        "bbox": {
+          "x": 0.528,
+          "y": 0.682508,
+          "width": 0.144,
+          "height": 0.015167
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "eat bananas?",
+        "originalContent": "eat bananas?",
+        "confidence": 0.8618,
+        "bbox": {
+          "x": 0.532667,
+          "y": 0.703236,
+          "width": 0.134,
+          "height": 0.015167
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0023",
+        "type": "sentence",
+        "content": "Yes. what a good idea!",
+        "originalContent": "Yes.what a good idea!",
+        "confidence": 0.8728,
+        "bbox": {
+          "x": 0.707333,
+          "y": 0.705763,
+          "width": 0.218667,
+          "height": 0.016684
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "No, they aren't cold",
+        "originalContent": "No,theyaren'tcold",
+        "confidence": 0.8711,
+        "bbox": {
+          "x": 0.248667,
+          "y": 0.70728,
+          "width": 0.19,
+          "height": 0.016684
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0025",
+        "type": "instruction",
+        "content": "Look, they're hungry",
+        "originalContent": "Look, they're hungry",
+        "confidence": 0.899,
+        "bbox": {
+          "x": 0.086,
+          "y": 0.751769,
+          "width": 0.2,
+          "height": 0.022245
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "They're happy now",
+        "originalContent": "They're happy now",
+        "confidence": 0.8867,
+        "bbox": {
+          "x": 0.568145,
+          "y": 0.752981,
+          "width": 0.180645,
+          "height": 0.017426
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "They're happy now",
+            "confidence": 0.8519
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "They're happy now",
+            "confidence": 0.8867
+          }
+        ]
+      },
+      {
+        "id": "text_0027",
+        "type": "paragraph",
+        "content": "1 and we're happy too.",
+        "originalContent": "1 and we're happy too.",
+        "confidence": 0.904,
+        "bbox": {
+          "x": 0.540323,
+          "y": 0.772852,
+          "width": 0.217742,
+          "height": 0.017426
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "and we're happy too.",
+            "confidence": 0.8895
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 and we're happy too.",
+            "confidence": 0.904
+          }
+        ]
+      },
+      {
+        "id": "text_0028",
+        "type": "sentence",
+        "content": "Yes, they like bananas.",
+        "originalContent": "Yes,theylikebananas.",
+        "confidence": 0.8449,
+        "bbox": {
+          "x": 0.229333,
+          "y": 0.89636,
+          "width": 0.211333,
+          "height": 0.016684
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "Feelings",
+        "originalContent": "Feelings",
+        "confidence": 0.873,
+        "bbox": {
+          "x": 0.137333,
+          "y": 0.955511,
+          "width": 0.08,
+          "height": 0.016178
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0031",
+        "type": "heading",
+        "content": "Unit 2",
+        "originalContent": "Unit2",
+        "confidence": 0.8053,
+        "bbox": {
+          "x": 0.08,
+          "y": 0.956016,
+          "width": 0.058667,
+          "height": 0.01365
+        },
+        "repaired": true,
+        "repairNotes": [
+          "heading"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      }
+    ],
+    "fullTextReadingOrder": [
+      "They're happy",
+      "now!",
+      "Lesson One Words J",
+      "Listen, point, and repeat.",
+      "2 Listen and chant.",
+      "hot",
+      "thirsty",
+      "happy",
+      "hungry",
+      "sad",
+      "Listen and read.",
+      "Oh no, They're crying. Are they hot?",
+      "Hello, babies!",
+      "No, they aren't",
+      "They're twins-brother and sister.",
+      "Are they cold?",
+      "Look! Bananas",
+      "Canthe babies",
+      "eat bananas?",
+      "Yes. what a good idea!",
+      "No, they aren't cold",
+      "Look, they're hungry",
+      "They're happy now",
+      "1 and we're happy too.",
+      "Yes, they like bananas.",
+      "Feelings",
+      "Unit 2"
+    ],
+    "paragraphs": [
+      {
+        "id": "text_0027",
+        "content": "1 and we're happy too.",
+        "confidence": 0.904,
+        "bbox": {
+          "x": 0.540323,
+          "y": 0.772852,
+          "width": 0.217742,
+          "height": 0.017426
+        },
+        "sourceElementIds": [
+          "text_0027"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "text_0015",
+        "content": "Oh no, They're crying. Are they hot?",
+        "confidence": 0.8707,
+        "bbox": {
+          "x": 0.566667,
+          "y": 0.36451,
+          "width": 0.338,
+          "height": 0.019717
+        },
+        "sourceElementIds": [
+          "text_0015"
+        ]
+      },
+      {
+        "id": "text_0016",
+        "content": "Hello, babies!",
+        "confidence": 0.8658,
+        "bbox": {
+          "x": 0.1,
+          "y": 0.366026,
+          "width": 0.131333,
+          "height": 0.018706
+        },
+        "sourceElementIds": [
+          "text_0016"
+        ]
+      },
+      {
+        "id": "text_0017",
+        "content": "No, they aren't",
+        "confidence": 0.8833,
+        "bbox": {
+          "x": 0.786,
+          "y": 0.404954,
+          "width": 0.146,
+          "height": 0.016684
+        },
+        "sourceElementIds": [
+          "text_0017"
+        ]
+      },
+      {
+        "id": "text_0018",
+        "content": "They're twins-brother and sister.",
+        "confidence": 0.9104,
+        "bbox": {
+          "x": 0.144667,
+          "y": 0.510617,
+          "width": 0.324,
+          "height": 0.018706
+        },
+        "sourceElementIds": [
+          "text_0018"
+        ]
+      },
+      {
+        "id": "text_0019",
+        "content": "Are they cold?",
+        "confidence": 0.911,
+        "bbox": {
+          "x": 0.093333,
+          "y": 0.557128,
+          "width": 0.135333,
+          "height": 0.019717
+        },
+        "sourceElementIds": [
+          "text_0019"
+        ]
+      },
+      {
+        "id": "text_0022",
+        "content": "eat bananas?",
+        "confidence": 0.8618,
+        "bbox": {
+          "x": 0.532667,
+          "y": 0.703236,
+          "width": 0.134,
+          "height": 0.015167
+        },
+        "sourceElementIds": [
+          "text_0022"
+        ]
+      },
+      {
+        "id": "text_0023",
+        "content": "Yes. what a good idea!",
+        "confidence": 0.8728,
+        "bbox": {
+          "x": 0.707333,
+          "y": 0.705763,
+          "width": 0.218667,
+          "height": 0.016684
+        },
+        "sourceElementIds": [
+          "text_0023"
+        ]
+      },
+      {
+        "id": "text_0024",
+        "content": "No, they aren't cold",
+        "confidence": 0.8711,
+        "bbox": {
+          "x": 0.248667,
+          "y": 0.70728,
+          "width": 0.19,
+          "height": 0.016684
+        },
+        "sourceElementIds": [
+          "text_0024"
+        ]
+      },
+      {
+        "id": "text_0026",
+        "content": "They're happy now",
+        "confidence": 0.8867,
+        "bbox": {
+          "x": 0.568145,
+          "y": 0.752981,
+          "width": 0.180645,
+          "height": 0.017426
+        },
+        "sourceElementIds": [
+          "text_0026"
+        ]
+      },
+      {
+        "id": "text_0028",
+        "content": "Yes, they like bananas.",
+        "confidence": 0.8449,
+        "bbox": {
+          "x": 0.229333,
+          "y": 0.89636,
+          "width": 0.211333,
+          "height": 0.016684
+        },
+        "sourceElementIds": [
+          "text_0028"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "hot",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "evidence": "pdf_visual_verification",
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      },
+      {
+        "word": "cold",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "evidence": "pdf_visual_verification",
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      },
+      {
+        "word": "hungry",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "evidence": "pdf_visual_verification",
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      },
+      {
+        "word": "thirsty",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "evidence": "pdf_visual_verification",
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      },
+      {
+        "word": "happy",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "evidence": "pdf_visual_verification",
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      },
+      {
+        "word": "sad",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "evidence": "pdf_visual_verification",
+        "verification": {
+          "method": "pdf_visual_verification",
+          "verified": true
+        }
+      }
+    ],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "lines": [
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Hello, babies!",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "They're twins - brother and sister.",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Oh no. They're crying. Are they hot?",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "No, they aren't.",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Are they cold?",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "No, they aren't cold.",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Look! Bananas.",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Can the babies eat bananas?",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Yes. What a good idea!",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Look, they're hungry.",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Yes, they like bananas.",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "They're happy now and we're happy too.",
+            "confidence": 0.99,
+            "repairNotes": [
+              "pdf_visual_verification"
+            ]
+          }
+        ],
+        "confidence": 0.99
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "listening_activity",
+        "instruction": "Listen, point, and repeat.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "prompts": [],
+        "blanks": [],
+        "choices": [],
+        "matchingPairs": [],
+        "repairNotes": [
+          "pdf_visual_verification"
+        ]
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "listening_chant",
+        "instruction": "Listen and chant.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "prompts": [],
+        "blanks": [],
+        "choices": [],
+        "matchingPairs": [],
+        "repairNotes": [
+          "pdf_visual_verification"
+        ]
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "listening_activity",
+        "instruction": "Listen and read.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": [],
+        "prompts": [],
+        "blanks": [],
+        "choices": [],
+        "matchingPairs": [],
+        "repairNotes": [
+          "pdf_visual_verification"
+        ]
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "hot",
+          "thirsty",
+          "happy",
+          "hungry",
+          "sad",
+          "Listen and read.",
+          "Oh no, They're crying. Are they hot?",
+          "Hello, babies!",
+          "No, they aren't"
+        ],
+        "position": {
+          "x": 0.036,
+          "y": 0.240364,
+          "width": 0.916,
+          "height": 0.201274
+        },
+        "textElementIds": [
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "They're twins-brother and sister.",
+          "Are they cold?",
+          "Look! Bananas"
+        ],
+        "position": {
+          "x": 0.073333,
+          "y": 0.490617,
+          "width": 0.659334,
+          "height": 0.106228
+        },
+        "textElementIds": [
+          "text_0018",
+          "text_0019",
+          "text_0020"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Canthe babies",
+          "eat bananas?",
+          "Yes. what a good idea!",
+          "No, they aren't cold",
+          "Look, they're hungry",
+          "They're happy now",
+          "1 and we're happy too."
+        ],
+        "position": {
+          "x": 0.066,
+          "y": 0.662508,
+          "width": 0.88,
+          "height": 0.14777
+        },
+        "textElementIds": [
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "nonEducationalText": [],
+    "excludedGarbage": [
+      {
+        "id": "text_0006",
+        "content": "18",
+        "originalContent": "18",
+        "confidence": 0.6459
+      },
+      {
+        "id": "text_0007",
+        "content": "19",
+        "originalContent": "19",
+        "confidence": 0.6075
+      },
+      {
+        "id": "text_0014",
+        "content": "20",
+        "originalContent": "20",
+        "confidence": 0.6552
+      },
+      {
+        "id": "text_0029",
+        "content": "16",
+        "originalContent": "16",
+        "confidence": 0.6597
+      }
+    ]
+  },
+  "learningContent": {
+    "pageType": "lesson",
+    "title": "They're happy",
+    "learningObjectives": [
+      "Study content: Lesson One Words J"
+    ],
+    "targetVocabulary": [
+      {
+        "word": "hot",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "cold",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "hungry",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "thirsty",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "happy",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "sad",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "Are they ...?",
+        "meaning": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "expression": "Yes, they are.",
+        "meaning": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "expression": "No, they aren't.",
+        "meaning": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "expression": "They're ...",
+        "meaning": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "expression": "We're ...",
+        "meaning": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "Hello, babies!",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "They're twins - brother and sister.",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "Oh no. They're crying. Are they hot?",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "No, they aren't.",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "Are they cold?",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "No, they aren't cold.",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "Look! Bananas.",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "Can the babies eat bananas?",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "Yes. What a good idea!",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "Look, they're hungry.",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "Yes, they like bananas.",
+            "confidence": 0.99
+          },
+          {
+            "speaker": null,
+            "content": "They're happy now and we're happy too.",
+            "confidence": 0.99
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "listening_activity",
+        "instruction": "Listen, point, and repeat.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "2",
+        "type": "listening_chant",
+        "instruction": "Listen and chant.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "listening_activity",
+        "instruction": "Listen and read.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [
+      {
+        "exerciseNumber": "1",
+        "instruction": "Listen, point, and repeat.",
+        "type": "listening_activity",
+        "confidence": 0.99
+      },
+      {
+        "exerciseNumber": "2",
+        "instruction": "Listen and chant.",
+        "type": "listening_chant",
+        "confidence": 0.99
+      },
+      {
+        "exerciseNumber": "3",
+        "instruction": "Listen and read.",
+        "type": "listening_activity",
+        "confidence": 0.99
+      }
+    ],
+    "speaking": [
+      {
+        "exerciseNumber": "1",
+        "instruction": "Listen, point, and repeat.",
+        "type": "listening_activity",
+        "confidence": 0.99
+      },
+      {
+        "exerciseNumber": "3",
+        "instruction": "Listen and read.",
+        "type": "listening_activity",
+        "confidence": 0.99
+      }
+    ],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [],
+    "verifiedAgainstPdf": true,
+    "repairStats": {
+      "text_kept": 27,
+      "text_repaired": 7,
+      "garbage_excluded": 4,
+      "vocab_rejected": 1,
+      "vocab_kept": 12,
+      "dialogue_lines": 6,
+      "dialogues_reconstructed": 1,
+      "exercises_reconstructed": 5
+    },
+    "averageOcrConfidence": 0.8189
+  },
+  "metadata": {
+    "book": "Family and Friends 2 Student Book (American)",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_ff2_v1",
+    "originalOcrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "originalAverageConfidence": 0.8189,
+    "noHallucinationPolicy": "Definitions, translations, speaker names, answers, and grammar rules are null or omitted unless visibly supported by page OCR/PDF. Text repairs are limited to spacing, punctuation, and clear OCR character errors."
+  }
+}

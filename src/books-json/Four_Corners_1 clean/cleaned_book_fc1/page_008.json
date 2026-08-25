@@ -1,0 +1,1877 @@
+{
+  "pageNumber": 5,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "sequential inference from neighboring footers",
+  "pdfPageNumber": 8,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 1_Part1.pdf",
+    "pdfLocalPageNumber": 8,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "New",
+        "confidence": 0.6942,
+        "bbox": {
+          "x": 0.164667,
+          "y": 0.071613,
+          "width": 0.303333,
+          "height": 0.070582
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "ew friends",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.265882,
+          "y": 0.072121,
+          "width": 0.59098,
+          "height": 0.065758
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "friends",
+            "confidence": 0.8714
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ew friends",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "paragraph",
+        "content": "LESSON A LESSON B LESSON C LESSON D",
+        "confidence": 0.885,
+        "bbox": {
+          "x": 0.072157,
+          "y": 0.168788,
+          "width": 0.758039,
+          "height": 0.015152
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "LESSONA",
+            "confidence": 0.8219
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "LESSON A LESSON B LESSON C LESSON D",
+            "confidence": 0.885
+          },
+          {
+            "engine": "rapidocr",
+            "content": "LESSONC",
+            "confidence": 0.8667
+          },
+          {
+            "engine": "rapidocr",
+            "content": "LESSONB",
+            "confidence": 0.7686
+          },
+          {
+            "engine": "rapidocr",
+            "content": "LESSON D",
+            "confidence": 0.8244
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "Namesand titles",
+        "confidence": 0.8728,
+        "bbox": {
+          "x": 0.101333,
+          "y": 0.195775,
+          "width": 0.138667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "Asking forspelling",
+        "confidence": 0.8696,
+        "bbox": {
+          "x": 0.319333,
+          "y": 0.195775,
+          "width": 0.156,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "heading",
+        "content": "Reading:\"Famous",
+        "confidence": 0.8965,
+        "bbox": {
+          "x": 0.760667,
+          "y": 0.198867,
+          "width": 0.151333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Interestingjobs",
+        "confidence": 0.8871,
+        "bbox": {
+          "x": 0.541333,
+          "y": 0.199897,
+          "width": 0.13,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "The verbbe;",
+        "confidence": 0.8528,
+        "bbox": {
+          "x": 0.100667,
+          "y": 0.214838,
+          "width": 0.102667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "Names\"",
+        "confidence": 0.7854,
+        "bbox": {
+          "x": 0.759333,
+          "y": 0.215353,
+          "width": 0.068667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "Subjectpronouns;",
+        "confidence": 0.9186,
+        "bbox": {
+          "x": 0.541333,
+          "y": 0.218959,
+          "width": 0.152667,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "possessive",
+        "confidence": 0.8935,
+        "bbox": {
+          "x": 0.1,
+          "y": 0.2339,
+          "width": 0.091333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "yes/no questions",
+        "confidence": 0.8693,
+        "bbox": {
+          "x": 0.540667,
+          "y": 0.236476,
+          "width": 0.148,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "heading",
+        "content": "Writing:My name",
+        "confidence": 0.8833,
+        "bbox": {
+          "x": 0.76,
+          "y": 0.236991,
+          "width": 0.145333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "adjectives",
+        "confidence": 0.8649,
+        "bbox": {
+          "x": 0.101333,
+          "y": 0.250902,
+          "width": 0.085333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "with be",
+        "confidence": 0.7466,
+        "bbox": {
+          "x": 0.541333,
+          "y": 0.253993,
+          "width": 0.062667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "1. Noah",
+        "confidence": 0.8524,
+        "bbox": {
+          "x": 0.141333,
+          "y": 0.284389,
+          "width": 0.062667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "4. Mason",
+        "confidence": 0.8569,
+        "bbox": {
+          "x": 0.291333,
+          "y": 0.284905,
+          "width": 0.072,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "1.Emma",
+        "confidence": 0.766,
+        "bbox": {
+          "x": 0.614667,
+          "y": 0.287481,
+          "width": 0.070667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "4. Sophia",
+        "confidence": 0.7987,
+        "bbox": {
+          "x": 0.731333,
+          "y": 0.287481,
+          "width": 0.074667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "2. Liam",
+        "confidence": 0.8052,
+        "bbox": {
+          "x": 0.140667,
+          "y": 0.310665,
+          "width": 0.062667,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "5.James",
+        "confidence": 0.8572,
+        "bbox": {
+          "x": 0.292,
+          "y": 0.312725,
+          "width": 0.072667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "sentence",
+        "content": "2. Liam 5. James 2. Olivia 5. Isabella",
+        "confidence": 0.9462,
+        "bbox": {
+          "x": 0.144314,
+          "y": 0.313333,
+          "width": 0.664706,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "f 1. Noah 4, Mason 1. Emma 4. Sophia",
+            "confidence": 0.8833
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2. Liam 5. James 2. Olivia 5. Isabella",
+            "confidence": 0.9462
+          },
+          {
+            "engine": "rapidocr",
+            "content": "2.Olivia",
+            "confidence": 0.8224
+          },
+          {
+            "engine": "rapidocr",
+            "content": "5. Isabella",
+            "confidence": 0.8121
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "3. William 3. Ava",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.143922,
+          "y": 0.340909,
+          "width": 0.519216,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3. William",
+            "confidence": 0.8295
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3. William 3. Ava",
+            "confidence": 0.95
+          },
+          {
+            "engine": "rapidocr",
+            "content": "3. Ava",
+            "confidence": 0.8429
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "Noah",
+        "confidence": 0.7026,
+        "bbox": {
+          "x": 0.114,
+          "y": 0.561051,
+          "width": 0.040667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "Sophia",
+        "confidence": 0.8388,
+        "bbox": {
+          "x": 0.511333,
+          "y": 0.564142,
+          "width": 0.050667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Sophia",
+            "confidence": 0.8388
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "i Sophia",
+            "confidence": 0.545
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "Michael",
+        "confidence": 0.8404,
+        "bbox": {
+          "x": 0.106667,
+          "y": 0.794436,
+          "width": 0.055333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 i Michael y Harper",
+            "confidence": 0.42
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Michael",
+            "confidence": 0.8404
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "James",
+        "confidence": 0.8263,
+        "bbox": {
+          "x": 0.353333,
+          "y": 0.795466,
+          "width": 0.048,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "Harper",
+        "confidence": 0.7878,
+        "bbox": {
+          "x": 0.638,
+          "y": 0.797527,
+          "width": 0.052667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "Warm Up",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.068627,
+          "y": 0.835455,
+          "width": 0.125882,
+          "height": 0.018182
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Warm Up",
+            "confidence": 0.8309
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Warm Up",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "paragraph",
+        "content": "Popular names in the United States",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.114118,
+          "y": 0.868788,
+          "width": 0.241176,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Popularnames intheUnited States",
+            "confidence": 0.8875
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Popular names in the United States",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "A Check ()thepopularnames.",
+        "confidence": 0.8738,
+        "bbox": {
+          "x": 0.111333,
+          "y": 0.893869,
+          "width": 0.234,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Check ()thepopularnames.",
+            "confidence": 0.8738
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Check (%) the popular names.",
+            "confidence": 0.8083
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "sentence",
+        "content": "B Say ten popular names in your country.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.114118,
+          "y": 0.922727,
+          "width": 0.29098,
+          "height": 0.015152
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Say ten popular names in your country",
+            "confidence": 0.831
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Say ten popular names in your country.",
+            "confidence": 0.95
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "New",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.164667,
+          "y": 0.071613,
+          "width": 0.303333,
+          "height": 0.070582
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.6942
+      },
+      {
+        "word": "ew friends",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.265882,
+          "y": 0.072121,
+          "width": 0.59098,
+          "height": 0.065758
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.96
+      },
+      {
+        "word": "Namesand titles",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.101333,
+          "y": 0.195775,
+          "width": 0.138667,
+          "height": 0.01391
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8728
+      },
+      {
+        "word": "Asking forspelling",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.319333,
+          "y": 0.195775,
+          "width": 0.156,
+          "height": 0.018032
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8696
+      },
+      {
+        "word": "Interestingjobs",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.541333,
+          "y": 0.199897,
+          "width": 0.13,
+          "height": 0.01391
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8871
+      },
+      {
+        "word": "possessive",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.1,
+          "y": 0.2339,
+          "width": 0.091333,
+          "height": 0.013395
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8935
+      },
+      {
+        "word": "adjectives",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.101333,
+          "y": 0.250902,
+          "width": 0.085333,
+          "height": 0.01391
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8649
+      },
+      {
+        "word": "with be",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.541333,
+          "y": 0.253993,
+          "width": 0.062667,
+          "height": 0.012365
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.7466
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "selection_exercise",
+        "instruction": "Check ()thepopularnames.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0031"
+        ],
+        "confidence": 0.8738
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "The verbbe;",
+          "Names\"",
+          "Subjectpronouns;",
+          "possessive",
+          "yes/no questions",
+          "Writing:My name",
+          "adjectives",
+          "with be",
+          "1. Noah",
+          "4. Mason",
+          "1.Emma",
+          "4. Sophia",
+          "2. Liam",
+          "5.James",
+          "2. Liam 5. James 2. Olivia 5. Isabella",
+          "3. William 3. Ava"
+        ],
+        "position": {
+          "x": 0.08,
+          "y": 0.194838,
+          "width": 0.845333,
+          "height": 0.179404
+        },
+        "textElementIds": [
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Michael",
+          "James",
+          "Harper",
+          "Warm Up",
+          "Popular names in the United States"
+        ],
+        "position": {
+          "x": 0.04862699999999999,
+          "y": 0.774436,
+          "width": 0.6620400000000001,
+          "height": 0.12495800000000001
+        },
+        "textElementIds": [
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "friends\nNew\nLESSONA\nLESSONC\nLESSONB\nLESSON D\nNamesand titles\nAsking forspelling\nReading:\"Famous\nInterestingjobs\nThe verbbe;\nNames\"\nSubjectpronouns;\npossessive\nyes/no questions\nWriting:My name\nadjectives\nwith be\n1. Noah\n4. Mason\n1.Emma\n4. Sophia\n2. Liam\n5.James\n2.Olivia\n5. Isabella\n3. William\n3. Ava\nNoah\nSophia\nMichael\nJames\nHarper\nWarm Up\nPopularnames intheUnited States\nA Check ()thepopularnames.\nSay ten popular names in your country\ndehkhodaedu.com",
+      "tesseract_psm3": "ew friends\n\nLESSON A LESSON B LESSON C LESSON D\nf 1. Noah 4, Mason 1. Emma 4. Sophia\n2. Liam 5. James 2. Olivia 5. Isabella\n3. William 3. Ava\n\ni Sophia\n\n<8\n\n2 i Michael y Harper\n\nWarm Up\nPopular names in the United States\nA Check (%) the popular names.\n\nB Say ten popular names in your country.\n\ndehkhodaedu.com\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [
+      {
+        "id": "text_0026",
+        "type": "text",
+        "content": "<8",
+        "confidence": 0.24,
+        "bbox": {
+          "x": 0.116863,
+          "y": 0.786667,
+          "width": 0.024706,
+          "height": 0.002121
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "averageConfidence": 0.8589,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "7 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "1 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "reading",
+    "headings": [
+      "New",
+      "ew friends",
+      "LESSON A LESSON B LESSON C LESSON D",
+      "Reading:\"Famous",
+      "Writing: My name"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "New",
+        "confidence": 0.6942,
+        "bbox": {
+          "x": 0.164667,
+          "y": 0.071613,
+          "width": 0.303333,
+          "height": 0.070582
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "ew friends",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.265882,
+          "y": 0.072121,
+          "width": 0.59098,
+          "height": 0.065758
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "friends",
+            "confidence": 0.8714
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ew friends",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "paragraph",
+        "content": "LESSON A LESSON B LESSON C LESSON D",
+        "confidence": 0.885,
+        "bbox": {
+          "x": 0.072157,
+          "y": 0.168788,
+          "width": 0.758039,
+          "height": 0.015152
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "LESSONA",
+            "confidence": 0.8219
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "LESSON A LESSON B LESSON C LESSON D",
+            "confidence": 0.885
+          },
+          {
+            "engine": "rapidocr",
+            "content": "LESSONC",
+            "confidence": 0.8667
+          },
+          {
+            "engine": "rapidocr",
+            "content": "LESSONB",
+            "confidence": 0.7686
+          },
+          {
+            "engine": "rapidocr",
+            "content": "LESSON D",
+            "confidence": 0.8244
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "Names and titles",
+        "confidence": 0.8728,
+        "bbox": {
+          "x": 0.101333,
+          "y": 0.195775,
+          "width": 0.138667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "Asking for spelling",
+        "confidence": 0.8696,
+        "bbox": {
+          "x": 0.319333,
+          "y": 0.195775,
+          "width": 0.156,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "heading",
+        "content": "Reading:\"Famous",
+        "confidence": 0.8965,
+        "bbox": {
+          "x": 0.760667,
+          "y": 0.198867,
+          "width": 0.151333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Interesting jobs",
+        "confidence": 0.8871,
+        "bbox": {
+          "x": 0.541333,
+          "y": 0.199897,
+          "width": 0.13,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "The verb be",
+        "confidence": 0.8528,
+        "bbox": {
+          "x": 0.100667,
+          "y": 0.214838,
+          "width": 0.102667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "Names",
+        "confidence": 0.7854,
+        "bbox": {
+          "x": 0.759333,
+          "y": 0.215353,
+          "width": 0.068667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "Subject pronouns",
+        "confidence": 0.9186,
+        "bbox": {
+          "x": 0.541333,
+          "y": 0.218959,
+          "width": 0.152667,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "possessive",
+        "confidence": 0.8935,
+        "bbox": {
+          "x": 0.1,
+          "y": 0.2339,
+          "width": 0.091333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "yes/no questions",
+        "confidence": 0.8693,
+        "bbox": {
+          "x": 0.540667,
+          "y": 0.236476,
+          "width": 0.148,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "heading",
+        "content": "Writing: My name",
+        "confidence": 0.8833,
+        "bbox": {
+          "x": 0.76,
+          "y": 0.236991,
+          "width": 0.145333,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "adjectives",
+        "confidence": 0.8649,
+        "bbox": {
+          "x": 0.101333,
+          "y": 0.250902,
+          "width": 0.085333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "with be",
+        "confidence": 0.7466,
+        "bbox": {
+          "x": 0.541333,
+          "y": 0.253993,
+          "width": 0.062667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "1. Noah",
+        "confidence": 0.8524,
+        "bbox": {
+          "x": 0.141333,
+          "y": 0.284389,
+          "width": 0.062667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "4. Mason",
+        "confidence": 0.8569,
+        "bbox": {
+          "x": 0.291333,
+          "y": 0.284905,
+          "width": 0.072,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "1. Emma",
+        "confidence": 0.766,
+        "bbox": {
+          "x": 0.614667,
+          "y": 0.287481,
+          "width": 0.070667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "4. Sophia",
+        "confidence": 0.7987,
+        "bbox": {
+          "x": 0.731333,
+          "y": 0.287481,
+          "width": 0.074667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "2. Liam",
+        "confidence": 0.8052,
+        "bbox": {
+          "x": 0.140667,
+          "y": 0.310665,
+          "width": 0.062667,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "5. James",
+        "confidence": 0.8572,
+        "bbox": {
+          "x": 0.292,
+          "y": 0.312725,
+          "width": 0.072667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "sentence",
+        "content": "2. Liam 5. James 2. Olivia 5. Isabella",
+        "confidence": 0.9462,
+        "bbox": {
+          "x": 0.144314,
+          "y": 0.313333,
+          "width": 0.664706,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "f 1. Noah 4, Mason 1. Emma 4. Sophia",
+            "confidence": 0.8833
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2. Liam 5. James 2. Olivia 5. Isabella",
+            "confidence": 0.9462
+          },
+          {
+            "engine": "rapidocr",
+            "content": "2.Olivia",
+            "confidence": 0.8224
+          },
+          {
+            "engine": "rapidocr",
+            "content": "5. Isabella",
+            "confidence": 0.8121
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "3. William 3. Ava",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.143922,
+          "y": 0.340909,
+          "width": 0.519216,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3. William",
+            "confidence": 0.8295
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3. William 3. Ava",
+            "confidence": 0.95
+          },
+          {
+            "engine": "rapidocr",
+            "content": "3. Ava",
+            "confidence": 0.8429
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "Noah",
+        "confidence": 0.7026,
+        "bbox": {
+          "x": 0.114,
+          "y": 0.561051,
+          "width": 0.040667,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "Sophia",
+        "confidence": 0.8388,
+        "bbox": {
+          "x": 0.511333,
+          "y": 0.564142,
+          "width": 0.050667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Sophia",
+            "confidence": 0.8388
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "i Sophia",
+            "confidence": 0.545
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "Michael",
+        "confidence": 0.8404,
+        "bbox": {
+          "x": 0.106667,
+          "y": 0.794436,
+          "width": 0.055333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 i Michael y Harper",
+            "confidence": 0.42
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Michael",
+            "confidence": 0.8404
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "James",
+        "confidence": 0.8263,
+        "bbox": {
+          "x": 0.353333,
+          "y": 0.795466,
+          "width": 0.048,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "Harper",
+        "confidence": 0.7878,
+        "bbox": {
+          "x": 0.638,
+          "y": 0.797527,
+          "width": 0.052667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "Warm Up",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.068627,
+          "y": 0.835455,
+          "width": 0.125882,
+          "height": 0.018182
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Warm Up",
+            "confidence": 0.8309
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Warm Up",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "paragraph",
+        "content": "Popular names in the United States",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.114118,
+          "y": 0.868788,
+          "width": 0.241176,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Popularnames intheUnited States",
+            "confidence": 0.8875
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Popular names in the United States",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "A Check ()the popular names.",
+        "confidence": 0.8738,
+        "bbox": {
+          "x": 0.111333,
+          "y": 0.893869,
+          "width": 0.234,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Check ()thepopularnames.",
+            "confidence": 0.8738
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Check (%) the popular names.",
+            "confidence": 0.8083
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "sentence",
+        "content": "B Say ten popular names in your country.",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.114118,
+          "y": 0.922727,
+          "width": 0.29098,
+          "height": 0.015152
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Say ten popular names in your country",
+            "confidence": 0.831
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Say ten popular names in your country.",
+            "confidence": 0.95
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "New",
+      "ew friends",
+      "LESSON A LESSON B LESSON C LESSON D",
+      "Names and titles",
+      "Asking for spelling",
+      "Reading:\"Famous",
+      "Interesting jobs",
+      "The verb be",
+      "Names",
+      "Subject pronouns",
+      "possessive",
+      "yes/no questions",
+      "Writing: My name",
+      "adjectives",
+      "with be",
+      "1. Noah",
+      "4. Mason",
+      "1. Emma",
+      "4. Sophia",
+      "2. Liam",
+      "5. James",
+      "2. Liam 5. James 2. Olivia 5. Isabella",
+      "3. William 3. Ava",
+      "Noah",
+      "Sophia",
+      "Michael",
+      "James",
+      "Harper",
+      "Warm Up",
+      "Popular names in the United States",
+      "A Check ()the popular names.",
+      "B Say ten popular names in your country."
+    ],
+    "paragraphs": [
+      "LESSON A LESSON B LESSON C LESSON D",
+      "Popular names in the United States"
+    ],
+    "sentences": [
+      "New ew friends LESSON A LESSON B LESSON C LESSON D Names and titles Asking for spelling Reading:\"Famous Interesting jobs The verb be Names Subject pronouns possessive yes/no questions Writing: My name adjectives with be 1",
+      "Noah 4",
+      "Mason 1",
+      "Emma 4",
+      "Sophia 2",
+      "Liam 5",
+      "James 2",
+      "Liam 5",
+      "James 2",
+      "Olivia 5",
+      "Isabella 3",
+      "William 3",
+      "Ava Noah Sophia Michael James Harper Warm Up Popular names in the United States A Check ()the popular names",
+      "B Say ten popular names in your country"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "checking",
+        "instruction": "Check ()the popular names.",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "The verb be",
+          "Names",
+          "Subject pronouns",
+          "possessive",
+          "yes/no questions",
+          "Writing: My name",
+          "adjectives",
+          "with be",
+          "1. Noah",
+          "4. Mason",
+          "1. Emma",
+          "4. Sophia",
+          "2. Liam",
+          "5. James",
+          "2. Liam 5. James 2. Olivia 5. Isabella",
+          "3. William 3. Ava"
+        ],
+        "position": {
+          "x": 0.08,
+          "y": 0.194838,
+          "width": 0.845333,
+          "height": 0.179404
+        },
+        "textElementIds": [
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Michael",
+          "James",
+          "Harper",
+          "Warm Up",
+          "Popular names in the United States"
+        ],
+        "position": {
+          "x": 0.04862699999999999,
+          "y": 0.774436,
+          "width": 0.6620400000000001,
+          "height": 0.12495800000000001
+        },
+        "textElementIds": [
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030"
+        ]
+      }
+    ],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "reading",
+    "title": "New",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [],
+    "reading": [
+      {
+        "title": "New",
+        "paragraphs": [
+          "LESSON A LESSON B LESSON C LESSON D",
+          "Popular names in the United States"
+        ],
+        "sentences": [
+          "New ew friends LESSON A LESSON B LESSON C LESSON D Names and titles Asking for spelling Reading:\"Famous Interesting jobs The verb be Names Subject pronouns possessive yes/no questions Writing: My name adjectives with be 1",
+          "Noah 4",
+          "Mason 1",
+          "Emma 4",
+          "Sophia 2",
+          "Liam 5",
+          "James 2",
+          "Liam 5",
+          "James 2",
+          "Olivia 5",
+          "Isabella 3",
+          "William 3",
+          "Ava Noah Sophia Michael James Harper Warm Up Popular names in the United States A Check ()the popular names",
+          "B Say ten popular names in your country"
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "checking",
+        "instruction": "Check ()the popular names.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "7 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "1 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {},
+    "averageOcrConfidence": 0.8589,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 1 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc1_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

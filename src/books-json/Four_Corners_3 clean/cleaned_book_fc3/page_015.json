@@ -1,0 +1,2732 @@
+{
+  "pageNumber": 8,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "sequential inference from neighboring footers",
+  "pdfPageNumber": 15,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 3_Part1.pdf",
+    "pdfLocalPageNumber": 15,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "My behavior",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.152157,
+          "y": 0.054848,
+          "width": 0.307451,
+          "height": 0.036667
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "My behavior",
+            "confidence": 0.7944
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My behavior",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Vocabulary Feelings and emotions",
+        "confidence": 0.9525,
+        "bbox": {
+          "x": 0.115294,
+          "y": 0.121818,
+          "width": 0.487843,
+          "height": 0.021818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Vocabulary Feelings and emotions",
+            "confidence": 0.8938
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Vocabulary Feelings and emotions",
+            "confidence": 0.9525
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "instruction",
+        "content": "Match the words and the pictures. Then listen and check your answers.",
+        "confidence": 0.91,
+        "bbox": {
+          "x": 0.138667,
+          "y": 0.155075,
+          "width": 0.52,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Match the words and the pictures. Then listen and check your answers.",
+            "confidence": 0.91
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A ©) Match the words and the pictures. Then listen and check your answers.",
+            "confidence": 0.9214
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "scared",
+        "confidence": 0.8006,
+        "bbox": {
+          "x": 0.548,
+          "y": 0.184441,
+          "width": 0.054,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "thirsty",
+        "confidence": 0.7776,
+        "bbox": {
+          "x": 0.690667,
+          "y": 0.184441,
+          "width": 0.048667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "i thirsty a",
+            "confidence": 0.64
+          },
+          {
+            "engine": "rapidocr",
+            "content": "thirsty",
+            "confidence": 0.7776
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "hungry",
+        "confidence": 0.853,
+        "bbox": {
+          "x": 0.269333,
+          "y": 0.184956,
+          "width": 0.06,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "la angry «i hungry . e lonely g scared",
+            "confidence": 0.7944
+          },
+          {
+            "engine": "rapidocr",
+            "content": "lonely",
+            "confidence": 0.8383
+          },
+          {
+            "engine": "rapidocr",
+            "content": "hungry",
+            "confidence": 0.853
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "angry",
+        "confidence": 0.8097,
+        "bbox": {
+          "x": 0.145333,
+          "y": 0.186502,
+          "width": 0.045333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "paragraph",
+        "content": "|b busy d jealous f nervous h_ sleepy j upset",
+        "confidence": 0.814,
+        "bbox": {
+          "x": 0.116471,
+          "y": 0.20303,
+          "width": 0.615686,
+          "height": 0.020303
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "sleepy",
+        "confidence": 0.7946,
+        "bbox": {
+          "x": 0.549333,
+          "y": 0.205049,
+          "width": 0.052,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "busy",
+        "confidence": 0.7037,
+        "bbox": {
+          "x": 0.146,
+          "y": 0.205564,
+          "width": 0.038667,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "jealous",
+        "confidence": 0.8524,
+        "bbox": {
+          "x": 0.268667,
+          "y": 0.206595,
+          "width": 0.058,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "upset",
+        "confidence": 0.8328,
+        "bbox": {
+          "x": 0.691333,
+          "y": 0.20711,
+          "width": 0.044667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "nervous",
+        "confidence": 0.8367,
+        "bbox": {
+          "x": 0.413333,
+          "y": 0.208655,
+          "width": 0.058,
+          "height": 0.010819
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "heading",
+        "content": "PAIRWORK",
+        "confidence": 0.8369,
+        "bbox": {
+          "x": 0.139333,
+          "y": 0.574961,
+          "width": 0.079333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "B Why do you think the people in the pictures feel the way they do?",
+        "confidence": 0.9587,
+        "bbox": {
+          "x": 0.119608,
+          "y": 0.575152,
+          "width": 0.567059,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Why doyou think the people in the pictures feel the way they do?",
+            "confidence": 0.8665
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Why do you think the people in the pictures feel the way they do?",
+            "confidence": 0.9587
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "Discuss your ideas.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.142353,
+          "y": 0.593636,
+          "width": 0.131765,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Discuss your ideas.",
+            "confidence": 0.8499
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Discuss your ideas.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Conversation Feeling nervous",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.119608,
+          "y": 0.627576,
+          "width": 0.426667,
+          "height": 0.021818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Conversation Feeling nervous",
+            "confidence": 0.8882
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Conversation Feeling nervous",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "sentence",
+        "content": "A §} Listen to the conversation. Why is Nate eating so late?",
+        "confidence": 0.8792,
+        "bbox": {
+          "x": 0.118824,
+          "y": 0.661515,
+          "width": 0.421569,
+          "height": 0.014848
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "A §} Listen to the conversation. Why is Nate eating so late?",
+            "confidence": 0.8792
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen totheconversation.Whyis Nateeating so late?",
+            "confidence": 0.9006
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "Nate",
+        "confidence": 0.7916,
+        "bbox": {
+          "x": 0.139333,
+          "y": 0.684699,
+          "width": 0.038,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "Nate Hello?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.142745,
+          "y": 0.685758,
+          "width": 0.106275,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Hello?",
+            "confidence": 0.8469
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Nate Hello?",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "Laura",
+        "confidence": 0.8303,
+        "bbox": {
+          "x": 0.138667,
+          "y": 0.705307,
+          "width": 0.046,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "sentence",
+        "content": "Laura Hi, Nate. It’s Laura. Are you busy?",
+        "confidence": 0.8612,
+        "bbox": {
+          "x": 0.143137,
+          "y": 0.70697,
+          "width": 0.289412,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Hi, Nate. It's Laura. Are you busy?",
+            "confidence": 0.9181
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Laura Hi, Nate. It’s Laura. Are you busy?",
+            "confidence": 0.8612
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "sentence",
+        "content": "Not really. I'm just eating some ice cream.",
+        "confidence": 0.9146,
+        "bbox": {
+          "x": 0.205333,
+          "y": 0.72643,
+          "width": 0.286,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Not really. I'm just eating some ice cream.",
+            "confidence": 0.9146
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Nate Not really. I’m just eating some ice cream.",
+            "confidence": 0.9256
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "Nate",
+        "confidence": 0.778,
+        "bbox": {
+          "x": 0.139333,
+          "y": 0.72746,
+          "width": 0.038,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0025",
+        "type": "sentence",
+        "content": "Laura Really? Why are you eating so late?",
+        "confidence": 0.8387,
+        "bbox": {
+          "x": 0.143137,
+          "y": 0.749091,
+          "width": 0.300392,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Really? Why are you eating so late?",
+            "confidence": 0.8681
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Laura Really? Why are you eating so late?",
+            "confidence": 0.8387
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Laura",
+            "confidence": 0.8303
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "Nate",
+        "confidence": 0.6611,
+        "bbox": {
+          "x": 0.138667,
+          "y": 0.768676,
+          "width": 0.039333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0027",
+        "type": "paragraph",
+        "content": "Nate Oh, | have an exam tomorrow, and I’m kind of nervous",
+        "confidence": 0.9325,
+        "bbox": {
+          "x": 0.143137,
+          "y": 0.77,
+          "width": 0.432549,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Oh, I havean examtomorrow,and I'mkind of nervous",
+            "confidence": 0.8718
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Nate Oh, | have an exam tomorrow, and I’m kind of nervous",
+            "confidence": 0.9325
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "sentence",
+        "content": "about it. Ieat when I'm nervous. I'm not even hungry!",
+        "confidence": 0.8957,
+        "bbox": {
+          "x": 0.206,
+          "y": 0.786193,
+          "width": 0.367333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "about it. Ieat when I'm nervous. I'm not even hungry!",
+            "confidence": 0.8957
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "about it. | eat when I’m nervous. I’m not even hungry!",
+            "confidence": 0.8818
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "It’s not good, | know.",
+        "confidence": 0.944,
+        "bbox": {
+          "x": 0.208627,
+          "y": 0.805758,
+          "width": 0.138431,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "It's not good, I know.",
+            "confidence": 0.9208
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "It’s not good, | know.",
+            "confidence": 0.944
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "sentence",
+        "content": "Well, a lot of people eat when they're nervous. If I'm",
+        "confidence": 0.8936,
+        "bbox": {
+          "x": 0.205333,
+          "y": 0.824833,
+          "width": 0.356,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Well, a lot of people eat when they're nervous. If I'm",
+            "confidence": 0.8936
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Laura Well, a lot of people eat when they’re nervous. If I’m",
+            "confidence": 0.7842
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "Laura",
+        "confidence": 0.7821,
+        "bbox": {
+          "x": 0.14,
+          "y": 0.826378,
+          "width": 0.045333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0032",
+        "type": "sentence",
+        "content": "nervous about something, | just try not to think about it.",
+        "confidence": 0.9527,
+        "bbox": {
+          "x": 0.208627,
+          "y": 0.844545,
+          "width": 0.381569,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "nervous about something,Ijust try not to think about it.",
+            "confidence": 0.8886
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "nervous about something, | just try not to think about it.",
+            "confidence": 0.9527
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "Nate",
+        "confidence": 0.6546,
+        "bbox": {
+          "x": 0.140667,
+          "y": 0.864503,
+          "width": 0.037333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0034",
+        "type": "sentence",
+        "content": "Nate That’s easier said than done! But what do you do if you",
+        "confidence": 0.9546,
+        "bbox": {
+          "x": 0.143529,
+          "y": 0.865455,
+          "width": 0.436471,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "That's easier said than done! But what do you do if you",
+            "confidence": 0.8975
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Nate That’s easier said than done! But what do you do if you",
+            "confidence": 0.9546
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "have a really important exam?",
+        "confidence": 0.948,
+        "bbox": {
+          "x": 0.208627,
+          "y": 0.883636,
+          "width": 0.204706,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "haveareallyimportantexam?",
+            "confidence": 0.9222
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "have a really important exam?",
+            "confidence": 0.948
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "Laura",
+        "confidence": 0.7761,
+        "bbox": {
+          "x": 0.141333,
+          "y": 0.903658,
+          "width": 0.043333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Laura | study a lot, of course!",
+            "confidence": 0.5543
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Laura",
+            "confidence": 0.7761
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "Istudya lot, of course!",
+        "confidence": 0.9017,
+        "bbox": {
+          "x": 0.205333,
+          "y": 0.903658,
+          "width": 0.158,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "instruction",
+        "content": "Listen to the rest of the conversation.Why did Laura call Nate?",
+        "confidence": 0.8979,
+        "bbox": {
+          "x": 0.139333,
+          "y": 0.929933,
+          "width": 0.464667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listen to the rest of the conversation.Why did Laura call Nate?",
+            "confidence": 0.8979
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B £)} Listen to the rest of the conversation. Why did Laura call Nate?",
+            "confidence": 0.8907
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "My behavior",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.152157,
+          "y": 0.054848,
+          "width": 0.307451,
+          "height": 0.036667
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.96
+      },
+      {
+        "word": "Vocabulary Feelings and emotions",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.115294,
+          "y": 0.121818,
+          "width": 0.487843,
+          "height": 0.021818
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.9525
+      },
+      {
+        "word": "scared",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.548,
+          "y": 0.184441,
+          "width": 0.054,
+          "height": 0.014941
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8006
+      },
+      {
+        "word": "thirsty",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.690667,
+          "y": 0.184441,
+          "width": 0.048667,
+          "height": 0.015971
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.7776
+      },
+      {
+        "word": "hungry",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.269333,
+          "y": 0.184956,
+          "width": 0.06,
+          "height": 0.016486
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.853
+      },
+      {
+        "word": "angry",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.145333,
+          "y": 0.186502,
+          "width": 0.045333,
+          "height": 0.015456
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8097
+      },
+      {
+        "word": "sleepy",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.549333,
+          "y": 0.205049,
+          "width": 0.052,
+          "height": 0.017002
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.7946
+      },
+      {
+        "word": "busy",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.146,
+          "y": 0.205564,
+          "width": 0.038667,
+          "height": 0.017002
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.7037
+      },
+      {
+        "word": "jealous",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.268667,
+          "y": 0.206595,
+          "width": 0.058,
+          "height": 0.014426
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8524
+      },
+      {
+        "word": "upset",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.691333,
+          "y": 0.20711,
+          "width": 0.044667,
+          "height": 0.014426
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8328
+      },
+      {
+        "word": "nervous",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.413333,
+          "y": 0.208655,
+          "width": 0.058,
+          "height": 0.010819
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8367
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Not really. I'm just eating some ice cream.",
+            "confidence": 0.9146,
+            "bbox": {
+              "x": 0.205333,
+              "y": 0.72643,
+              "width": 0.286,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0023",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "about it. Ieat when I'm nervous. I'm not even hungry!",
+            "confidence": 0.8957,
+            "bbox": {
+              "x": 0.206,
+              "y": 0.786193,
+              "width": 0.367333,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0028",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Well, a lot of people eat when they're nervous. If I'm",
+            "confidence": 0.8936,
+            "bbox": {
+              "x": 0.205333,
+              "y": 0.824833,
+              "width": 0.356,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0030",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "§} Listen to the conversation. Why is Nate eating so late?",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0018"
+        ],
+        "confidence": 0.8792
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "|b busy d jealous f nervous h_ sleepy j upset",
+          "sleepy",
+          "busy",
+          "jealous",
+          "upset",
+          "nervous"
+        ],
+        "position": {
+          "x": 0.096471,
+          "y": 0.18303,
+          "width": 0.659529,
+          "height": 0.060302999999999995
+        },
+        "textElementIds": [
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "PAIRWORK",
+          "B Why do you think the people in the pictures feel the way they do?",
+          "Discuss your ideas.",
+          "Conversation Feeling nervous",
+          "A §} Listen to the conversation. Why is Nate eating so late?",
+          "Nate",
+          "Nate Hello?",
+          "Laura",
+          "Laura Hi, Nate. It’s Laura. Are you busy?",
+          "Not really. I'm just eating some ice cream.",
+          "Nate",
+          "Laura Really? Why are you eating so late?",
+          "Nate",
+          "Nate Oh, | have an exam tomorrow, and I’m kind of nervous",
+          "about it. Ieat when I'm nervous. I'm not even hungry!",
+          "It’s not good, | know.",
+          "Well, a lot of people eat when they're nervous. If I'm",
+          "Laura"
+        ],
+        "position": {
+          "x": 0.098824,
+          "y": 0.554961,
+          "width": 0.607843,
+          "height": 0.303782
+        },
+        "textElementIds": [
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "My behavior\nVocabulary Feelings and emotions\nMatch the words and the pictures. Then listen and check your answers.\nlonely\nscared\nthirsty\nhungry\nangry\nsleepy\nbusy\njealous\nupset\nnervous\nPAIRWORK\nWhy doyou think the people in the pictures feel the way they do?\nDiscuss your ideas.\nConversation Feeling nervous\nListen totheconversation.Whyis Nateeating so late?\nHello?\nNate\nLaura\nHi, Nate. It's Laura. Are you busy?\nNot really. I'm just eating some ice cream.\nNate\nReally? Why are you eating so late?\nLaura\nNate\nOh, I havean examtomorrow,and I'mkind of nervous\nabout it. Ieat when I'm nervous. I'm not even hungry!\nIt's not good, I know.\nWell, a lot of people eat when they're nervous. If I'm\nLaura\nnervous about something,Ijust try not to think about it.\nNate\nThat's easier said than done! But what do you do if you\nhaveareallyimportantexam?\nLaura\nIstudya lot, of course!\nListen to the rest of the conversation.Why did Laura call Nate?\ndehkhodaedu.com",
+      "tesseract_psm3": "My behavior\n\nVocabulary Feelings and emotions\n\nA ©) Match the words and the pictures. Then listen and check your answers.\n\nla angry «i hungry . e lonely g scared\n\ni thirsty a\n\n|b busy d jealous f nervous h_ sleepy j upset\n\nB Why do you think the people in the pictures feel the way they do?\nDiscuss your ideas.\n\nConversation Feeling nervous\n\nA §} Listen to the conversation. Why is Nate eating so late?\nNate Hello?\nLaura Hi, Nate. It’s Laura. Are you busy?\nNate Not really. I’m just eating some ice cream.\nLaura Really? Why are you eating so late?\n\nNate Oh, | have an exam tomorrow, and I’m kind of nervous\nabout it. | eat when I’m nervous. I’m not even hungry!\nIt’s not good, | know.\n\nLaura Well, a lot of people eat when they’re nervous. If I’m\nnervous about something, | just try not to think about it.\n\nNate That’s easier said than done! But what do you do if you\nhave a really important exam?\n\nLaura | study a lot, of course!\n\nB £)} Listen to the rest of the conversation. Why did Laura call Nate?\n\ndehkhodaedu.com\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8605,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "9 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "lesson",
+    "headings": [
+      "My behavior",
+      "Vocabulary Feelings and emotions",
+      "PAIRWORK"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "My behavior",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.152157,
+          "y": 0.054848,
+          "width": 0.307451,
+          "height": 0.036667
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "My behavior",
+            "confidence": 0.7944
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My behavior",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Vocabulary Feelings and emotions",
+        "confidence": 0.9525,
+        "bbox": {
+          "x": 0.115294,
+          "y": 0.121818,
+          "width": 0.487843,
+          "height": 0.021818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Vocabulary Feelings and emotions",
+            "confidence": 0.8938
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Vocabulary Feelings and emotions",
+            "confidence": 0.9525
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "instruction",
+        "content": "Match the words and the pictures. Then listen and check your answers.",
+        "confidence": 0.91,
+        "bbox": {
+          "x": 0.138667,
+          "y": 0.155075,
+          "width": 0.52,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Match the words and the pictures. Then listen and check your answers.",
+            "confidence": 0.91
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A ©) Match the words and the pictures. Then listen and check your answers.",
+            "confidence": 0.9214
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "scared",
+        "confidence": 0.8006,
+        "bbox": {
+          "x": 0.548,
+          "y": 0.184441,
+          "width": 0.054,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "thirsty",
+        "confidence": 0.7776,
+        "bbox": {
+          "x": 0.690667,
+          "y": 0.184441,
+          "width": 0.048667,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "i thirsty a",
+            "confidence": 0.64
+          },
+          {
+            "engine": "rapidocr",
+            "content": "thirsty",
+            "confidence": 0.7776
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "hungry",
+        "confidence": 0.853,
+        "bbox": {
+          "x": 0.269333,
+          "y": 0.184956,
+          "width": 0.06,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "la angry «i hungry . e lonely g scared",
+            "confidence": 0.7944
+          },
+          {
+            "engine": "rapidocr",
+            "content": "lonely",
+            "confidence": 0.8383
+          },
+          {
+            "engine": "rapidocr",
+            "content": "hungry",
+            "confidence": 0.853
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "angry",
+        "confidence": 0.8097,
+        "bbox": {
+          "x": 0.145333,
+          "y": 0.186502,
+          "width": 0.045333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "paragraph",
+        "content": "b busy d jealous f nervous h_ sleepy j upset",
+        "confidence": 0.814,
+        "bbox": {
+          "x": 0.116471,
+          "y": 0.20303,
+          "width": 0.615686,
+          "height": 0.020303
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "sleepy",
+        "confidence": 0.7946,
+        "bbox": {
+          "x": 0.549333,
+          "y": 0.205049,
+          "width": 0.052,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "busy",
+        "confidence": 0.7037,
+        "bbox": {
+          "x": 0.146,
+          "y": 0.205564,
+          "width": 0.038667,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "jealous",
+        "confidence": 0.8524,
+        "bbox": {
+          "x": 0.268667,
+          "y": 0.206595,
+          "width": 0.058,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "upset",
+        "confidence": 0.8328,
+        "bbox": {
+          "x": 0.691333,
+          "y": 0.20711,
+          "width": 0.044667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "nervous",
+        "confidence": 0.8367,
+        "bbox": {
+          "x": 0.413333,
+          "y": 0.208655,
+          "width": 0.058,
+          "height": 0.010819
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "heading",
+        "content": "PAIRWORK",
+        "confidence": 0.8369,
+        "bbox": {
+          "x": 0.139333,
+          "y": 0.574961,
+          "width": 0.079333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "B Why do you think the people in the pictures feel the way they do?",
+        "confidence": 0.9587,
+        "bbox": {
+          "x": 0.119608,
+          "y": 0.575152,
+          "width": 0.567059,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Why doyou think the people in the pictures feel the way they do?",
+            "confidence": 0.8665
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Why do you think the people in the pictures feel the way they do?",
+            "confidence": 0.9587
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "Discuss your ideas.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.142353,
+          "y": 0.593636,
+          "width": 0.131765,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Discuss your ideas.",
+            "confidence": 0.8499
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Discuss your ideas.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Conversation Feeling nervous",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.119608,
+          "y": 0.627576,
+          "width": 0.426667,
+          "height": 0.021818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Conversation Feeling nervous",
+            "confidence": 0.8882
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Conversation Feeling nervous",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "sentence",
+        "content": "A §} Listen to the conversation. Why is Nate eating so late?",
+        "confidence": 0.8792,
+        "bbox": {
+          "x": 0.118824,
+          "y": 0.661515,
+          "width": 0.421569,
+          "height": 0.014848
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "A §} Listen to the conversation. Why is Nate eating so late?",
+            "confidence": 0.8792
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen totheconversation.Whyis Nateeating so late?",
+            "confidence": 0.9006
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "Nate",
+        "confidence": 0.7916,
+        "bbox": {
+          "x": 0.139333,
+          "y": 0.684699,
+          "width": 0.038,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "Nate Hello?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.142745,
+          "y": 0.685758,
+          "width": 0.106275,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Hello?",
+            "confidence": 0.8469
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Nate Hello?",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "Laura",
+        "confidence": 0.8303,
+        "bbox": {
+          "x": 0.138667,
+          "y": 0.705307,
+          "width": 0.046,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "sentence",
+        "content": "Laura Hi, Nate. It's Laura. Are you busy?",
+        "confidence": 0.8612,
+        "bbox": {
+          "x": 0.143137,
+          "y": 0.70697,
+          "width": 0.289412,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Hi, Nate. It's Laura. Are you busy?",
+            "confidence": 0.9181
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Laura Hi, Nate. It’s Laura. Are you busy?",
+            "confidence": 0.8612
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "sentence",
+        "content": "Not really. I'm just eating some ice cream.",
+        "confidence": 0.9146,
+        "bbox": {
+          "x": 0.205333,
+          "y": 0.72643,
+          "width": 0.286,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Not really. I'm just eating some ice cream.",
+            "confidence": 0.9146
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Nate Not really. I’m just eating some ice cream.",
+            "confidence": 0.9256
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "Nate",
+        "confidence": 0.778,
+        "bbox": {
+          "x": 0.139333,
+          "y": 0.72746,
+          "width": 0.038,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0025",
+        "type": "sentence",
+        "content": "Laura Really? Why are you eating so late?",
+        "confidence": 0.8387,
+        "bbox": {
+          "x": 0.143137,
+          "y": 0.749091,
+          "width": 0.300392,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Really? Why are you eating so late?",
+            "confidence": 0.8681
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Laura Really? Why are you eating so late?",
+            "confidence": 0.8387
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Laura",
+            "confidence": 0.8303
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "Nate",
+        "confidence": 0.6611,
+        "bbox": {
+          "x": 0.138667,
+          "y": 0.768676,
+          "width": 0.039333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0027",
+        "type": "paragraph",
+        "content": "Nate Oh, | have an exam tomorrow, and I'm kind of nervous",
+        "confidence": 0.9325,
+        "bbox": {
+          "x": 0.143137,
+          "y": 0.77,
+          "width": 0.432549,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Oh, I havean examtomorrow,and I'mkind of nervous",
+            "confidence": 0.8718
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Nate Oh, | have an exam tomorrow, and I’m kind of nervous",
+            "confidence": 0.9325
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "sentence",
+        "content": "about it. Ieat when I'm nervous. I'm not even hungry!",
+        "confidence": 0.8957,
+        "bbox": {
+          "x": 0.206,
+          "y": 0.786193,
+          "width": 0.367333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "about it. Ieat when I'm nervous. I'm not even hungry!",
+            "confidence": 0.8957
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "about it. | eat when I’m nervous. I’m not even hungry!",
+            "confidence": 0.8818
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "It's not good, | know.",
+        "confidence": 0.944,
+        "bbox": {
+          "x": 0.208627,
+          "y": 0.805758,
+          "width": 0.138431,
+          "height": 0.012121
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "It's not good, I know.",
+            "confidence": 0.9208
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "It’s not good, | know.",
+            "confidence": 0.944
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "sentence",
+        "content": "Well, a lot of people eat when they're nervous. If I'm",
+        "confidence": 0.8936,
+        "bbox": {
+          "x": 0.205333,
+          "y": 0.824833,
+          "width": 0.356,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Well, a lot of people eat when they're nervous. If I'm",
+            "confidence": 0.8936
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Laura Well, a lot of people eat when they’re nervous. If I’m",
+            "confidence": 0.7842
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "Laura",
+        "confidence": 0.7821,
+        "bbox": {
+          "x": 0.14,
+          "y": 0.826378,
+          "width": 0.045333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0032",
+        "type": "sentence",
+        "content": "nervous about something, | just try not to think about it.",
+        "confidence": 0.9527,
+        "bbox": {
+          "x": 0.208627,
+          "y": 0.844545,
+          "width": 0.381569,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "nervous about something,Ijust try not to think about it.",
+            "confidence": 0.8886
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "nervous about something, | just try not to think about it.",
+            "confidence": 0.9527
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "Nate",
+        "confidence": 0.6546,
+        "bbox": {
+          "x": 0.140667,
+          "y": 0.864503,
+          "width": 0.037333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0034",
+        "type": "sentence",
+        "content": "Nate That's easier said than done! But what do you do if you",
+        "confidence": 0.9546,
+        "bbox": {
+          "x": 0.143529,
+          "y": 0.865455,
+          "width": 0.436471,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "That's easier said than done! But what do you do if you",
+            "confidence": 0.8975
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Nate That’s easier said than done! But what do you do if you",
+            "confidence": 0.9546
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "have a really important exam?",
+        "confidence": 0.948,
+        "bbox": {
+          "x": 0.208627,
+          "y": 0.883636,
+          "width": 0.204706,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "haveareallyimportantexam?",
+            "confidence": 0.9222
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "have a really important exam?",
+            "confidence": 0.948
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "Laura",
+        "confidence": 0.7761,
+        "bbox": {
+          "x": 0.141333,
+          "y": 0.903658,
+          "width": 0.043333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Laura | study a lot, of course!",
+            "confidence": 0.5543
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Laura",
+            "confidence": 0.7761
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "Istudya lot, of course!",
+        "confidence": 0.9017,
+        "bbox": {
+          "x": 0.205333,
+          "y": 0.903658,
+          "width": 0.158,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "instruction",
+        "content": "Listen to the rest of the conversation. Why did Laura call Nate?",
+        "confidence": 0.8979,
+        "bbox": {
+          "x": 0.139333,
+          "y": 0.929933,
+          "width": 0.464667,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listen to the rest of the conversation.Why did Laura call Nate?",
+            "confidence": 0.8979
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B £)} Listen to the rest of the conversation. Why did Laura call Nate?",
+            "confidence": 0.8907
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "My behavior",
+      "Vocabulary Feelings and emotions",
+      "Match the words and the pictures. Then listen and check your answers.",
+      "scared",
+      "thirsty",
+      "hungry",
+      "angry",
+      "b busy d jealous f nervous h_ sleepy j upset",
+      "sleepy",
+      "busy",
+      "jealous",
+      "upset",
+      "nervous",
+      "PAIRWORK",
+      "B Why do you think the people in the pictures feel the way they do?",
+      "Discuss your ideas.",
+      "Conversation Feeling nervous",
+      "A §} Listen to the conversation. Why is Nate eating so late?",
+      "Nate",
+      "Nate Hello?",
+      "Laura",
+      "Laura Hi, Nate. It's Laura. Are you busy?",
+      "Not really. I'm just eating some ice cream.",
+      "Nate",
+      "Laura Really? Why are you eating so late?",
+      "Nate",
+      "Nate Oh, | have an exam tomorrow, and I'm kind of nervous",
+      "about it. Ieat when I'm nervous. I'm not even hungry!",
+      "It's not good, | know.",
+      "Well, a lot of people eat when they're nervous. If I'm",
+      "Laura",
+      "nervous about something, | just try not to think about it.",
+      "Nate",
+      "Nate That's easier said than done! But what do you do if you",
+      "have a really important exam?",
+      "Laura",
+      "Istudya lot, of course!",
+      "Listen to the rest of the conversation. Why did Laura call Nate?"
+    ],
+    "paragraphs": [
+      "b busy d jealous f nervous h_ sleepy j upset",
+      "Nate Oh, | have an exam tomorrow, and I'm kind of nervous"
+    ],
+    "sentences": [
+      "My behavior Vocabulary Feelings and emotions Match the words and the pictures",
+      "Then listen and check your answers",
+      "scared thirsty hungry angry b busy d jealous f nervous h_ sleepy j upset sleepy busy jealous upset nervous PAIRWORK B Why do you think the people in the pictures feel the way they do",
+      "Discuss your ideas",
+      "Conversation Feeling nervous A §} Listen to the conversation",
+      "Why is Nate eating so late",
+      "Nate Nate Hello",
+      "Laura Laura Hi, Nate",
+      "It's Laura",
+      "Are you busy",
+      "Not really",
+      "I'm just eating some ice cream",
+      "Nate Laura Really",
+      "Why are you eating so late",
+      "Nate Nate Oh, | have an exam tomorrow, and I'm kind of nervous about it",
+      "Ieat when I'm nervous",
+      "I'm not even hungry",
+      "It's not good, | know",
+      "Well, a lot of people eat when they're nervous",
+      "If I'm Laura nervous about something, | just try not to think about it",
+      "Nate Nate That's easier said than done",
+      "But what do you do if you have a really important exam",
+      "Laura Istudya lot, of course",
+      "Listen to the rest of the conversation",
+      "Why did Laura call Nate"
+    ],
+    "vocabulary": [
+      {
+        "word": "lonely",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "scared",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "thirsty",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "hungry",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "angry",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "sleepy",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "busy",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "jealous",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "upset",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "nervous",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      }
+    ],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Not really.",
+            "confidence": 0.9146,
+            "bbox": {
+              "x": 0.205333,
+              "y": 0.72643,
+              "width": 0.286,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0023"
+          },
+          {
+            "speaker": null,
+            "content": "I'm just eating some ice cream.",
+            "confidence": 0.9146,
+            "bbox": {
+              "x": 0.205333,
+              "y": 0.72643,
+              "width": 0.286,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0023"
+          },
+          {
+            "speaker": null,
+            "content": "about it.",
+            "confidence": 0.8957,
+            "bbox": {
+              "x": 0.206,
+              "y": 0.786193,
+              "width": 0.367333,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0028"
+          },
+          {
+            "speaker": null,
+            "content": "Ieat when I'm nervous.",
+            "confidence": 0.8957,
+            "bbox": {
+              "x": 0.206,
+              "y": 0.786193,
+              "width": 0.367333,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0028"
+          },
+          {
+            "speaker": null,
+            "content": "I'm not even hungry!",
+            "confidence": 0.8957,
+            "bbox": {
+              "x": 0.206,
+              "y": 0.786193,
+              "width": 0.367333,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0028"
+          },
+          {
+            "speaker": null,
+            "content": "Well, a lot of people eat when they're nervous.",
+            "confidence": 0.8936,
+            "bbox": {
+              "x": 0.205333,
+              "y": 0.824833,
+              "width": 0.356,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0030"
+          },
+          {
+            "speaker": null,
+            "content": "If I'm",
+            "confidence": 0.8936,
+            "bbox": {
+              "x": 0.205333,
+              "y": 0.824833,
+              "width": 0.356,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0030"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "§} Listen to the conversation. Why is Nate eating so late?",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "b busy d jealous f nervous h_ sleepy j upset",
+          "sleepy",
+          "busy",
+          "jealous",
+          "upset",
+          "nervous"
+        ],
+        "position": {
+          "x": 0.096471,
+          "y": 0.18303,
+          "width": 0.659529,
+          "height": 0.060302999999999995
+        },
+        "textElementIds": [
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "PAIRWORK",
+          "B Why do you think the people in the pictures feel the way they do?",
+          "Discuss your ideas.",
+          "Conversation Feeling nervous",
+          "A §} Listen to the conversation. Why is Nate eating so late?",
+          "Nate",
+          "Nate Hello?",
+          "Laura",
+          "Laura Hi, Nate. It's Laura. Are you busy?",
+          "Not really. I'm just eating some ice cream.",
+          "Nate",
+          "Laura Really? Why are you eating so late?",
+          "Nate",
+          "Nate Oh, | have an exam tomorrow, and I'm kind of nervous",
+          "about it. Ieat when I'm nervous. I'm not even hungry!",
+          "It's not good, | know.",
+          "Well, a lot of people eat when they're nervous. If I'm",
+          "Laura"
+        ],
+        "position": {
+          "x": 0.098824,
+          "y": 0.554961,
+          "width": 0.607843,
+          "height": 0.303782
+        },
+        "textElementIds": [
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031"
+        ]
+      }
+    ],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "lesson",
+    "title": "My behavior",
+    "learningObjectives": [],
+    "targetVocabulary": [
+      {
+        "word": "lonely",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "scared",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "thirsty",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "hungry",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "angry",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "sleepy",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "busy",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "jealous",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "upset",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "nervous",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "Not really.",
+            "confidence": 0.9146
+          },
+          {
+            "speaker": null,
+            "content": "I'm just eating some ice cream.",
+            "confidence": 0.9146
+          },
+          {
+            "speaker": null,
+            "content": "about it.",
+            "confidence": 0.8957
+          },
+          {
+            "speaker": null,
+            "content": "Ieat when I'm nervous.",
+            "confidence": 0.8957
+          },
+          {
+            "speaker": null,
+            "content": "I'm not even hungry!",
+            "confidence": 0.8957
+          },
+          {
+            "speaker": null,
+            "content": "Well, a lot of people eat when they're nervous.",
+            "confidence": 0.8936
+          },
+          {
+            "speaker": null,
+            "content": "If I'm",
+            "confidence": 0.8936
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "§} Listen to the conversation. Why is Nate eating so late?",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "9 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ],
+    "verifiedAgainstPdf": true,
+    "repairStats": {
+      "dialoguesSplit": 7
+    },
+    "averageOcrConfidence": 0.8605,
+    "verificationMethod": "independent_ocr_crosscheck"
+  },
+  "metadata": {
+    "book": "Four Corners 3 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc3_v1",
+    "verificationMethod": "independent_ocr_crosscheck",
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

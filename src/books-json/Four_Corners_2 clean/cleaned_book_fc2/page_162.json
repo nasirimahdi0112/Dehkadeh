@@ -1,0 +1,95 @@
+{
+  "pageNumber": 162,
+  "pageNumberDetected": false,
+  "pageNumberDetectionMethod": "fallback to PDF page number; printed book number not confidently detected",
+  "pdfPageNumber": 162,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 2_Part7.pdf",
+    "pdfLocalPageNumber": 23,
+    "pageSizePoints": {
+      "width": 595.08,
+      "height": 841.68
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [],
+    "ocrVocabulary": [],
+    "ocrGrammar": [],
+    "ocrDialogues": [],
+    "ocrExercises": [],
+    "ocrTables": [],
+    "ocrImages": [],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "FOUR\nCORNERS\nAvailableforeachlevel ofFou\nFOLR\nCorners Second Edition:\nFCUR\nCORNERS\nCORNERS\nCORNERS\nCORNERS\nStudent'sBookwithOnline\nSelf-Study\n: Workbook\n. Online Workbook\nClass audio\nCommunicate with confidence and measure your progress.\n. Class video\nFour Corners Second Edition is anAmerican English course\n· Presentation Plus\nthat takes students from beginner through to intermediate level.\nclassroom software\nIt combines effective, communicative methodology with\nTeacher's Edition with Comple\napractical,'can-do'approach.\nAssessment Program\nCan-do\n'Can-do' statements in every lesson, linked to the Common\nEuropean Framework of Reference (CEFR), help students\nto measure the progress they are making.\nConfidence\nOnline Self-Study\n'Interactions' lessons and personalized speaking activities give\nstudents the language they need to speak with confidence in\neveryday situations.\nCommunication\nA manageable grammar and vocabulary syllabus provides a firm\nOnline Workbook\nfoundation for effective written and spoken communication.\nClarity\nClear and carefully staged lessons, with measurable outcomes,\nhelp teachers to deliver successful classes and help students to see\nthe results of their learning.\nPresentation Plus\ncambge.org/fourcorners\nLevel 1\nLevel 2\nLevel3\nLevel4\nA2\nA1\nB1+\nB1\nCEFR level:\nTeachingresources\nfor\ndehkhodaedu.comAMBRIDGE\nBetter\nLearning is our simple approach where\nInsights\nUNIVERSITYPRESS\ninsights shape content that drives results.\nwww.cambridge.org\nISBN978-1-108-56021-4\nContent\nResuits\ncambridge.org/betterlearning\n981108560214\ndehkhodaedu.com",
+      "tesseract_psm3": "FOUR\nCORNERS\n\nAvailable for each level of Fou\nCorners Second Edition:\n\ne Student's Book with Online\nSelf-Study\n\nWorkbook\nOnline Workbook\nClass audio\n\nCommunicate with confidence and measure your progress. Class video\n\nFour Corners Second Edition is an American English course Presentation Plus\nthat takes students from beginner through to intermediate level. classroom software\nIt combines effective, communicative methodology with\n\n: Teacher's Edition with Comple\na practical, ‘can-do’ approach.\n\nAssessment Program\n\nCan-do\n\n‘Can-do’ statements in every lesson, linked to the Common\nEuropean Framework of Reference (CEFR), help students\nto measure the progress they are making.\n\nConfidence Online Self-Study\n\n‘Interactions’ lessons and personalized speaking activities give\nstudents the language they need to speak with confidence in\neveryday situations.\nCommunication\nA manageable grammar and vocabulary syllabus provides a firm Online Workbook\nfoundation for effective written and spoken communication.\nClarity\n\nClear and carefully staged lessons, with measurable outcomes,\nhelp teachers to deliver successful classes and help students to see\nthe results of their learning. ceecntalon Pius\n\nLevel 2 13\n\nBetter Learning j ; h Gen aedu.com |\n9 is our simple approach where : (aparece\n\nYt :\ninsights shape content that drives results. 4 www.cambridge.org\n\ncambridge.org/betterlearning\n\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8747,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "Printed book page number was not confidently detected; pageNumber uses the PDF-page fallback and pageNumberDetected is false.",
+      "13 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "back_cover",
+    "headings": [],
+    "textElements": [],
+    "fullTextReadingOrder": [],
+    "paragraphs": [],
+    "sentences": [],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [],
+    "exercises": [],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "back_cover",
+    "title": "",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [],
+    "reading": [],
+    "exercises": [],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "Printed book page number was not confidently detected; pageNumber uses the PDF-page fallback and pageNumberDetected is false.",
+      "13 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {},
+    "averageOcrConfidence": 0.8747,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 2 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc2_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

@@ -1,0 +1,1324 @@
+{
+  "pageNumber": 148,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 147,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 1_Part6.pdf",
+    "pdfLocalPageNumber": 15,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "11",
+        "confidence": 0.6341,
+        "bbox": {
+          "x": 0.114,
+          "y": 0.03864,
+          "width": 0.049333,
+          "height": 0.035033
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Lesson A",
+        "confidence": 0.8608,
+        "bbox": {
+          "x": 0.187333,
+          "y": 0.03967,
+          "width": 0.184667,
+          "height": 0.026275
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.7992,
+        "bbox": {
+          "x": 0.058,
+          "y": 0.048944,
+          "width": 0.038,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "School trips",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.105882,
+          "y": 0.119091,
+          "width": 0.177255,
+          "height": 0.021818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "School trips",
+            "confidence": 0.8263
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "School trips",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "sentence",
+        "content": "A Add three more questions about school or work trips to the list. Then interview",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.105098,
+          "y": 0.153939,
+          "width": 0.646275,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAIRWORK",
+            "confidence": 0.8139
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Add three more questions about school or work trips to the list. Then interview",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Addthreemorequestions aboutschoolorworktripstothelist.Theninterview",
+            "confidence": 0.9324
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "your partner. Take notes.",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.127843,
+          "y": 0.172727,
+          "width": 0.169804,
+          "height": 0.010909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "your partner, Take notes.",
+            "confidence": 0.8719
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "your partner. Take notes.",
+            "confidence": 0.9575
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Were you there all day?",
+        "confidence": 0.8897,
+        "bbox": {
+          "x": 0.566667,
+          "y": 0.191139,
+          "width": 0.158667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "sentence",
+        "content": "1 What was your favorite school or work trip? 6 Were you there all day?",
+        "confidence": 0.906,
+        "bbox": {
+          "x": 0.12902,
+          "y": 0.192727,
+          "width": 0.595686,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Whatwasyourfavoriteschoolorworktrip?",
+            "confidence": 0.9294
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 What was your favorite school or work trip? 6 Were you there all day?",
+            "confidence": 0.906
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "How old were you?",
+        "confidence": 0.9065,
+        "bbox": {
+          "x": 0.147333,
+          "y": 0.231839,
+          "width": 0.130667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "Did you buy anything?",
+        "confidence": 0.8711,
+        "bbox": {
+          "x": 0.57,
+          "y": 0.23287,
+          "width": 0.148667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Did you buy anything?",
+            "confidence": 0.8711
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 How old were you? 7 Did you buy anything?",
+            "confidence": 0.868
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "How was the trip?",
+        "confidence": 0.8945,
+        "bbox": {
+          "x": 0.148,
+          "y": 0.274601,
+          "width": 0.123333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "How was the trip?",
+            "confidence": 0.8945
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 How was the trip? 8",
+            "confidence": 0.8533
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "sentence",
+        "content": "4 Was there anything bad about the trip? 9",
+        "confidence": 0.9167,
+        "bbox": {
+          "x": 0.128627,
+          "y": 0.317273,
+          "width": 0.427451,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Wasthereanythingbadaboutthetrip?",
+            "confidence": 0.9385
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 Was there anything bad about the trip? 9",
+            "confidence": 0.9167
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "10",
+        "confidence": 0.6201,
+        "bbox": {
+          "x": 0.54,
+          "y": 0.357548,
+          "width": 0.02,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "5 Did you take a bus there? 10",
+        "confidence": 0.905,
+        "bbox": {
+          "x": 0.12902,
+          "y": 0.358788,
+          "width": 0.427451,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Did you take a bus there?",
+            "confidence": 0.8745
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 Did you take a bus there? 10",
+            "confidence": 0.905
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "Tellanotherclassmateaboutyourpartner'sanswers.",
+        "confidence": 0.9376,
+        "bbox": {
+          "x": 0.216,
+          "y": 0.848532,
+          "width": 0.367333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Tellanotherclassmateaboutyourpartner'sanswers.",
+            "confidence": 0.9376
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B GAAS Tell another classmate about your partner’s answers.",
+            "confidence": 0.8678
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "heading",
+        "content": "PAIRWORK",
+        "confidence": 0.8748,
+        "bbox": {
+          "x": 0.133333,
+          "y": 0.849562,
+          "width": 0.076,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "sentence",
+        "content": "\"Michi's favorite school trip was to a cookie factory. She was ten years old. The trip was ...",
+        "confidence": 0.9106,
+        "bbox": {
+          "x": 0.133333,
+          "y": 0.86914,
+          "width": 0.672,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"Michi's favorite school trip was to a cookie factory. She was ten years old. The trip was ...",
+            "confidence": 0.9106
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "“Michi's favorite school trip was to a cookie factory. She was ten years old. The trip was ...”",
+            "confidence": 0.8928
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "148",
+        "confidence": 0.6749,
+        "bbox": {
+          "x": 0.036,
+          "y": 0.942298,
+          "width": 0.030667,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "WS fa ey |",
+            "confidence": 0.455
+          },
+          {
+            "engine": "rapidocr",
+            "content": "148",
+            "confidence": 0.6749
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "School trips",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.105882,
+          "y": 0.119091,
+          "width": 0.177255,
+          "height": 0.021818
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.96
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "How old were you?",
+            "confidence": 0.9065,
+            "bbox": {
+              "x": 0.147333,
+              "y": 0.231839,
+              "width": 0.130667,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0009",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "How was the trip?",
+            "confidence": 0.8945,
+            "bbox": {
+              "x": 0.148,
+              "y": 0.274601,
+              "width": 0.123333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0011",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Tellanotherclassmateaboutyourpartner'sanswers.",
+            "confidence": 0.9376,
+            "bbox": {
+              "x": 0.216,
+              "y": 0.848532,
+              "width": 0.367333,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0015",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "\"Michi's favorite school trip was to a cookie factory. She was ten years old. The trip was ...",
+            "confidence": 0.9106,
+            "bbox": {
+              "x": 0.133333,
+              "y": 0.86914,
+              "width": 0.672,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0017",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "exercise",
+        "instruction": "Add three more questions about school or work trips to the list. Then interview",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0005"
+        ],
+        "confidence": 0.96
+      },
+      {
+        "exerciseNumber": "1",
+        "type": "exercise",
+        "instruction": "What was your favorite school or work trip? 6 Were you there all day?",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0008"
+        ],
+        "confidence": 0.906
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "How old were you?",
+          "Did you buy anything?",
+          "How was the trip?",
+          "4 Was there anything bad about the trip? 9",
+          "10",
+          "5 Did you take a bus there? 10"
+        ],
+        "position": {
+          "x": 0.10862699999999999,
+          "y": 0.211839,
+          "width": 0.6300399999999999,
+          "height": 0.178161
+        },
+        "textElementIds": [
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Tellanotherclassmateaboutyourpartner'sanswers.",
+          "PAIRWORK",
+          "\"Michi's favorite school trip was to a cookie factory. She was ten years old. The trip was ..."
+        ],
+        "position": {
+          "x": 0.113333,
+          "y": 0.8285319999999999,
+          "width": 0.7120000000000001,
+          "height": 0.07554900000000009
+        },
+        "textElementIds": [
+          "text_0015",
+          "text_0016",
+          "text_0017"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "11\nLesson A\nunit\nSchool trips\nPAIRWORK\nAddthreemorequestions aboutschoolorworktripstothelist.Theninterview\nyour partner, Take notes.\nWhatwasyourfavoriteschoolorworktrip?\nWere you there all day?\nHow old were you?\nDid you buy anything?\nHow was the trip?\nWasthereanythingbadaboutthetrip?\n10\nDid you take a bus there?\nTellanotherclassmateaboutyourpartner'sanswers.\nPAIRWORK\n\"Michi's favorite school trip was to a cookie factory. She was ten years old. The trip was ...\n148\nKeep talking!\ndehkhodaedu.com",
+      "tesseract_psm3": "School trips\n\nA Add three more questions about school or work trips to the list. Then interview\nyour partner. Take notes.\n\n1 What was your favorite school or work trip? 6 Were you there all day?\n\n2 How old were you? 7 Did you buy anything?\n\n3 How was the trip? 8\n\n4 Was there anything bad about the trip? 9\n\n5 Did you take a bus there? 10\n\nB GAAS Tell another classmate about your partner’s answers.\n\n“Michi's favorite school trip was to a cookie factory. She was ten years old. The trip was ...”\n\nWS fa ey |\nKeep talking! dehkhodaedu.com\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8645,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "4 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "lesson",
+    "headings": [
+      "Lesson A",
+      "unit",
+      "School trips",
+      "Pair work"
+    ],
+    "textElements": [
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Lesson A",
+        "confidence": 0.8608,
+        "bbox": {
+          "x": 0.187333,
+          "y": 0.03967,
+          "width": 0.184667,
+          "height": 0.026275
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.7992,
+        "bbox": {
+          "x": 0.058,
+          "y": 0.048944,
+          "width": 0.038,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "School trips",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.105882,
+          "y": 0.119091,
+          "width": 0.177255,
+          "height": 0.021818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "School trips",
+            "confidence": 0.8263
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "School trips",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "sentence",
+        "content": "A Add three more questions about school or work trips to the list. Then interview",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.105098,
+          "y": 0.153939,
+          "width": 0.646275,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "PAIRWORK",
+            "confidence": 0.8139
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Add three more questions about school or work trips to the list. Then interview",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Addthreemorequestions aboutschoolorworktripstothelist.Theninterview",
+            "confidence": 0.9324
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "your partner. Take notes.",
+        "confidence": 0.9575,
+        "bbox": {
+          "x": 0.127843,
+          "y": 0.172727,
+          "width": 0.169804,
+          "height": 0.010909
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "your partner, Take notes.",
+            "confidence": 0.8719
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "your partner. Take notes.",
+            "confidence": 0.9575
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Were you there all day?",
+        "confidence": 0.8897,
+        "bbox": {
+          "x": 0.566667,
+          "y": 0.191139,
+          "width": 0.158667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "sentence",
+        "content": "1 What was your favorite school or work trip? 6 Were you there all day?",
+        "confidence": 0.906,
+        "bbox": {
+          "x": 0.12902,
+          "y": 0.192727,
+          "width": 0.595686,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Whatwasyourfavoriteschoolorworktrip?",
+            "confidence": 0.9294
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 What was your favorite school or work trip? 6 Were you there all day?",
+            "confidence": 0.906
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "How old were you?",
+        "confidence": 0.9065,
+        "bbox": {
+          "x": 0.147333,
+          "y": 0.231839,
+          "width": 0.130667,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "Did you buy anything?",
+        "confidence": 0.8711,
+        "bbox": {
+          "x": 0.57,
+          "y": 0.23287,
+          "width": 0.148667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Did you buy anything?",
+            "confidence": 0.8711
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 How old were you? 7 Did you buy anything?",
+            "confidence": 0.868
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "How was the trip?",
+        "confidence": 0.8945,
+        "bbox": {
+          "x": 0.148,
+          "y": 0.274601,
+          "width": 0.123333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "How was the trip?",
+            "confidence": 0.8945
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 How was the trip? 8",
+            "confidence": 0.8533
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "sentence",
+        "content": "4 Was there anything bad about the trip? 9",
+        "confidence": 0.9167,
+        "bbox": {
+          "x": 0.128627,
+          "y": 0.317273,
+          "width": 0.427451,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Wasthereanythingbadaboutthetrip?",
+            "confidence": 0.9385
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 Was there anything bad about the trip? 9",
+            "confidence": 0.9167
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "audio_track",
+        "content": "10",
+        "confidence": 0.6201,
+        "bbox": {
+          "x": 0.54,
+          "y": 0.357548,
+          "width": 0.02,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "5 Did you take a bus there? 10",
+        "confidence": 0.905,
+        "bbox": {
+          "x": 0.12902,
+          "y": 0.358788,
+          "width": 0.427451,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Did you take a bus there?",
+            "confidence": 0.8745
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 Did you take a bus there? 10",
+            "confidence": 0.905
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "Tell another classmate about your partner's answers.",
+        "confidence": 0.9376,
+        "bbox": {
+          "x": 0.216,
+          "y": 0.848532,
+          "width": 0.367333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Tellanotherclassmateaboutyourpartner'sanswers.",
+            "confidence": 0.9376
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B GAAS Tell another classmate about your partner’s answers.",
+            "confidence": 0.8678
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "heading",
+        "content": "Pair work",
+        "confidence": 0.8748,
+        "bbox": {
+          "x": 0.133333,
+          "y": 0.849562,
+          "width": 0.076,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "sentence",
+        "content": "Michi's favorite school trip was to a cookie factory. She was ten years old. The trip was ...",
+        "confidence": 0.9106,
+        "bbox": {
+          "x": 0.133333,
+          "y": 0.86914,
+          "width": 0.672,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "\"Michi's favorite school trip was to a cookie factory. She was ten years old. The trip was ...",
+            "confidence": 0.9106
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "“Michi's favorite school trip was to a cookie factory. She was ten years old. The trip was ...”",
+            "confidence": 0.8928
+          }
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Lesson A",
+      "unit",
+      "School trips",
+      "A Add three more questions about school or work trips to the list. Then interview",
+      "your partner. Take notes.",
+      "Were you there all day?",
+      "1 What was your favorite school or work trip? 6 Were you there all day?",
+      "How old were you?",
+      "Did you buy anything?",
+      "How was the trip?",
+      "4 Was there anything bad about the trip? 9",
+      "5 Did you take a bus there? 10",
+      "Tell another classmate about your partner's answers.",
+      "Pair work",
+      "Michi's favorite school trip was to a cookie factory. She was ten years old. The trip was ..."
+    ],
+    "paragraphs": [],
+    "sentences": [
+      "Lesson A unit School trips A Add three more questions about school or work trips to the list",
+      "Then interview your partner",
+      "Take notes",
+      "Were you there all day",
+      "1 What was your favorite school or work trip",
+      "6 Were you there all day",
+      "How old were you",
+      "Did you buy anything",
+      "How was the trip",
+      "4 Was there anything bad about the trip",
+      "9 5 Did you take a bus there",
+      "10 Tell another classmate about your partner's answers",
+      "Pair work Michi's favorite school trip was to a cookie factory",
+      "She was ten years old",
+      "The trip was"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "How old were you?",
+            "confidence": 0.9065,
+            "bbox": {
+              "x": 0.147333,
+              "y": 0.231839,
+              "width": 0.130667,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0009"
+          },
+          {
+            "speaker": null,
+            "content": "How was the trip?",
+            "confidence": 0.8945,
+            "bbox": {
+              "x": 0.148,
+              "y": 0.274601,
+              "width": 0.123333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0011"
+          },
+          {
+            "speaker": null,
+            "content": "Tell another classmate about your partner's answers.",
+            "confidence": 0.9376,
+            "bbox": {
+              "x": 0.216,
+              "y": 0.848532,
+              "width": 0.367333,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0015"
+          },
+          {
+            "speaker": null,
+            "content": "Michi's favorite school trip was to a cookie factory.",
+            "confidence": 0.9106,
+            "bbox": {
+              "x": 0.133333,
+              "y": 0.86914,
+              "width": 0.672,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0017"
+          },
+          {
+            "speaker": null,
+            "content": "She was ten years old.",
+            "confidence": 0.9106,
+            "bbox": {
+              "x": 0.133333,
+              "y": 0.86914,
+              "width": 0.672,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0017"
+          },
+          {
+            "speaker": null,
+            "content": "The trip was ...",
+            "confidence": 0.9106,
+            "bbox": {
+              "x": 0.133333,
+              "y": 0.86914,
+              "width": 0.672,
+              "height": 0.014941
+            },
+            "sourceElementId": "text_0017"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "exercise",
+        "instruction": "Add three more questions about school or work trips to the list. Then interview",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "1",
+        "type": "exercise",
+        "instruction": "What was your favorite school or work trip? 6 Were you there all day?",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "How old were you?",
+          "Did you buy anything?",
+          "How was the trip?",
+          "4 Was there anything bad about the trip? 9",
+          "10",
+          "5 Did you take a bus there? 10"
+        ],
+        "position": {
+          "x": 0.10862699999999999,
+          "y": 0.211839,
+          "width": 0.6300399999999999,
+          "height": 0.178161
+        },
+        "textElementIds": [
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Tell another classmate about your partner's answers.",
+          "Pair work",
+          "Michi's favorite school trip was to a cookie factory. She was ten years old. The trip was ..."
+        ],
+        "position": {
+          "x": 0.113333,
+          "y": 0.8285319999999999,
+          "width": 0.7120000000000001,
+          "height": 0.07554900000000009
+        },
+        "textElementIds": [
+          "text_0015",
+          "text_0016",
+          "text_0017"
+        ]
+      }
+    ],
+    "excludedGarbage": [
+      "11",
+      "148"
+    ]
+  },
+  "learningContent": {
+    "pageType": "lesson",
+    "title": "Lesson A",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "How old were you?",
+            "confidence": 0.9065
+          },
+          {
+            "speaker": null,
+            "content": "How was the trip?",
+            "confidence": 0.8945
+          },
+          {
+            "speaker": null,
+            "content": "Tell another classmate about your partner's answers.",
+            "confidence": 0.9376
+          },
+          {
+            "speaker": null,
+            "content": "Michi's favorite school trip was to a cookie factory.",
+            "confidence": 0.9106
+          },
+          {
+            "speaker": null,
+            "content": "She was ten years old.",
+            "confidence": 0.9106
+          },
+          {
+            "speaker": null,
+            "content": "The trip was ...",
+            "confidence": 0.9106
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "exercise",
+        "instruction": "Add three more questions about school or work trips to the list. Then interview",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "1",
+        "type": "exercise",
+        "instruction": "What was your favorite school or work trip? 6 Were you there all day?",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "4 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content.",
+      "2 garbage string(s) excluded"
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "garbageExcluded": 2,
+      "dialoguesSplit": 3
+    },
+    "averageOcrConfidence": 0.8645,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 1 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc1_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

@@ -1,0 +1,1437 @@
+{
+  "pageNumber": 140,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 139,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 1_Part6.pdf",
+    "pdfLocalPageNumber": 7,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Lesson C",
+        "confidence": 0.8164,
+        "bbox": {
+          "x": 0.179333,
+          "y": 0.03864,
+          "width": 0.182667,
+          "height": 0.025245
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.067451,
+          "y": 0.050303,
+          "width": 0.030588,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "unit",
+            "confidence": 0.7979
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "unit",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "How often do you eat standing up?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.107451,
+          "y": 0.115455,
+          "width": 0.528627,
+          "height": 0.022424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "How often do you eat standing up?",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "How often do you eat standing up?",
+            "confidence": 0.8922
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "sentence",
+        "content": "Add two eating habits to the list. Then discuss how often you do each thing.",
+        "confidence": 0.9587,
+        "bbox": {
+          "x": 0.20549,
+          "y": 0.151212,
+          "width": 0.514118,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Add two eating habits to the list.Then discuss how often youdo eachthing.",
+            "confidence": 0.9087
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Add two eating habits to the list. Then discuss how often you do each thing.",
+            "confidence": 0.9587
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "heading",
+        "content": "GROUPWORK",
+        "confidence": 0.8913,
+        "bbox": {
+          "x": 0.108,
+          "y": 0.151468,
+          "width": 0.09,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "drink coffee in the morning",
+        "confidence": 0.8824,
+        "bbox": {
+          "x": 0.138667,
+          "y": 0.336425,
+          "width": 0.184,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "drink tea",
+        "confidence": 0.8487,
+        "bbox": {
+          "x": 0.464667,
+          "y": 0.33797,
+          "width": 0.063333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "drink tea eat alone",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.466275,
+          "y": 0.338182,
+          "width": 0.322745,
+          "height": 0.010303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "eat alone",
+            "confidence": 0.8017
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "drink tea eat alone",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "eatjunkfoodinclass",
+        "confidence": 0.9105,
+        "bbox": {
+          "x": 0.162667,
+          "y": 0.529624,
+          "width": 0.141333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "eatonthestreet",
+        "confidence": 0.8684,
+        "bbox": {
+          "x": 0.707333,
+          "y": 0.529624,
+          "width": 0.110667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "paragraph",
+        "content": "eat fast food for breakfast eat on the street",
+        "confidence": 0.9578,
+        "bbox": {
+          "x": 0.413333,
+          "y": 0.53,
+          "width": 0.402353,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "eatfastfoodforbreakfast",
+            "confidence": 0.9413
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "eat fast food for breakfast eat on the street",
+            "confidence": 0.9578
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "eat standing up",
+        "confidence": 0.9315,
+        "bbox": {
+          "x": 0.181333,
+          "y": 0.720247,
+          "width": 0.106667,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "eat standing up",
+            "confidence": 0.9315
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "eat standing up — pee seems ti",
+            "confidence": 0.6057
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "(your own idea)",
+        "confidence": 0.8267,
+        "bbox": {
+          "x": 0.446667,
+          "y": 0.738279,
+          "width": 0.107333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "paragraph",
+        "content": "(your own idea) (your own idea)",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.449412,
+          "y": 0.738788,
+          "width": 0.366667,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "(your own idea)",
+            "confidence": 0.8785
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "(your own idea) (your own idea)",
+            "confidence": 0.955
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "dialogue_line",
+        "content": "A: Do you ever drink coffee in the morning?",
+        "confidence": 0.9611,
+        "bbox": {
+          "x": 0.112549,
+          "y": 0.766061,
+          "width": 0.315686,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: Do you ever drink coffee in the morning?",
+            "confidence": 0.9214
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: Do you ever drink coffee in the morning?",
+            "confidence": 0.9611
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "dialogue_line",
+        "content": "B: Yes, | do.",
+        "confidence": 0.895,
+        "bbox": {
+          "x": 0.113725,
+          "y": 0.789091,
+          "width": 0.080784,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B: Yes, I do",
+            "confidence": 0.7924
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: Yes, | do.",
+            "confidence": 0.895
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "dialogue_line",
+        "content": "C: How often do you drink coffee in the morning?",
+        "confidence": 0.954,
+        "bbox": {
+          "x": 0.113725,
+          "y": 0.81,
+          "width": 0.358431,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "C:Howoftendoyoudrinkcoffeeinthemorning?",
+            "confidence": 0.9405
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "C: How often do you drink coffee in the morning?",
+            "confidence": 0.954
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "dialogue_line",
+        "content": "B: | drink coffee in the morning three times a week. How about you?",
+        "confidence": 0.9543,
+        "bbox": {
+          "x": 0.114118,
+          "y": 0.830909,
+          "width": 0.496863,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B: I drink coffee in the morning three times a week. How about you?",
+            "confidence": 0.9145
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: | drink coffee in the morning three times a week. How about you?",
+            "confidence": 0.9543
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "140",
+        "confidence": 0.7481,
+        "bbox": {
+          "x": 0.038667,
+          "y": 0.939722,
+          "width": 0.030667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "Keeptalking!",
+        "confidence": 0.8997,
+        "bbox": {
+          "x": 0.106667,
+          "y": 0.949511,
+          "width": 0.082667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "[ Keep talking! | a dehkhodaedu.com",
+            "confidence": 0.68
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Keeptalking!",
+            "confidence": 0.8997
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "drink coffee in the morning",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.138667,
+          "y": 0.336425,
+          "width": 0.184,
+          "height": 0.015971
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8824
+      },
+      {
+        "word": "drink tea",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.464667,
+          "y": 0.33797,
+          "width": 0.063333,
+          "height": 0.012365
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8487
+      },
+      {
+        "word": "drink tea eat alone",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.466275,
+          "y": 0.338182,
+          "width": 0.322745,
+          "height": 0.010303
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.96
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "A: Do you ever drink coffee in the morning?",
+            "confidence": 0.9611,
+            "bbox": {
+              "x": 0.112549,
+              "y": 0.766061,
+              "width": 0.315686,
+              "height": 0.013636
+            },
+            "sourceElementId": "text_0015",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "B: Yes, | do.",
+            "confidence": 0.895,
+            "bbox": {
+              "x": 0.113725,
+              "y": 0.789091,
+              "width": 0.080784,
+              "height": 0.010606
+            },
+            "sourceElementId": "text_0016",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "C: How often do you drink coffee in the morning?",
+            "confidence": 0.954,
+            "bbox": {
+              "x": 0.113725,
+              "y": 0.81,
+              "width": 0.358431,
+              "height": 0.013636
+            },
+            "sourceElementId": "text_0017",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "B: | drink coffee in the morning three times a week. How about you?",
+            "confidence": 0.9543,
+            "bbox": {
+              "x": 0.114118,
+              "y": 0.830909,
+              "width": 0.496863,
+              "height": 0.014545
+            },
+            "sourceElementId": "text_0018",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "drink coffee in the morning",
+          "drink tea",
+          "drink tea eat alone"
+        ],
+        "position": {
+          "x": 0.11866700000000001,
+          "y": 0.31642499999999996,
+          "width": 0.6903530000000001,
+          "height": 0.05597100000000005
+        },
+        "textElementIds": [
+          "text_0006",
+          "text_0007",
+          "text_0008"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "eatjunkfoodinclass",
+          "eatonthestreet",
+          "eat fast food for breakfast eat on the street"
+        ],
+        "position": {
+          "x": 0.14266700000000002,
+          "y": 0.509624,
+          "width": 0.695333,
+          "height": 0.05339500000000008
+        },
+        "textElementIds": [
+          "text_0009",
+          "text_0010",
+          "text_0011"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "eat standing up",
+          "(your own idea)",
+          "(your own idea) (your own idea)",
+          "A: Do you ever drink coffee in the morning?",
+          "B: Yes, | do.",
+          "C: How often do you drink coffee in the morning?",
+          "B: | drink coffee in the morning three times a week. How about you?"
+        ],
+        "position": {
+          "x": 0.09254899999999999,
+          "y": 0.700247,
+          "width": 0.74353,
+          "height": 0.1652070000000001
+        },
+        "textElementIds": [
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "Lesson C\nunit\nHow often do you eat standing up?\nAdd two eating habits to the list.Then discuss how often youdo eachthing.\nGROUPWORK\ndrink coffee in the morning\neat alone\ndrink tea\neatjunkfoodinclass\neatfastfoodforbreakfast\neatonthestreet\neat standing up\n(your own idea)\n(your own idea)\nA: Do you ever drink coffee in the morning?\nB: Yes, I do\nC:Howoftendoyoudrinkcoffeeinthemorning?\nB: I drink coffee in the morning three times a week. How about you?\n140\nKeeptalking!\ndehkhodaedu.com",
+      "tesseract_psm3": "unit\n\nHow often do you eat standing up?\n\nAdd two eating habits to the list. Then discuss how often you do each thing.\n\ndrink tea eat alone\n\neat fast food for breakfast eat on the street\n\neat standing up — pee seems ti\n(your own idea) (your own idea)\nA: Do you ever drink coffee in the morning?\nB: Yes, | do.\nC: How often do you drink coffee in the morning?\nB: | drink coffee in the morning three times a week. How about you?\n\n[ Keep talking! | a dehkhodaedu.com\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.9059,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "1 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "lesson",
+    "headings": [
+      "Lesson C",
+      "unit",
+      "How often do you eat standing up?",
+      "Group work"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Lesson C",
+        "confidence": 0.8164,
+        "bbox": {
+          "x": 0.179333,
+          "y": 0.03864,
+          "width": 0.182667,
+          "height": 0.025245
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.067451,
+          "y": 0.050303,
+          "width": 0.030588,
+          "height": 0.009394
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "unit",
+            "confidence": 0.7979
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "unit",
+            "confidence": 0.95
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "How often do you eat standing up?",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.107451,
+          "y": 0.115455,
+          "width": 0.528627,
+          "height": 0.022424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "How often do you eat standing up?",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "How often do you eat standing up?",
+            "confidence": 0.8922
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "sentence",
+        "content": "Add two eating habits to the list. Then discuss how often you do each thing.",
+        "confidence": 0.9587,
+        "bbox": {
+          "x": 0.20549,
+          "y": 0.151212,
+          "width": 0.514118,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Add two eating habits to the list.Then discuss how often youdo eachthing.",
+            "confidence": 0.9087
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Add two eating habits to the list. Then discuss how often you do each thing.",
+            "confidence": 0.9587
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "heading",
+        "content": "Group work",
+        "confidence": 0.8913,
+        "bbox": {
+          "x": 0.108,
+          "y": 0.151468,
+          "width": 0.09,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "drink coffee in the morning",
+        "confidence": 0.8824,
+        "bbox": {
+          "x": 0.138667,
+          "y": 0.336425,
+          "width": 0.184,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "drink tea",
+        "confidence": 0.8487,
+        "bbox": {
+          "x": 0.464667,
+          "y": 0.33797,
+          "width": 0.063333,
+          "height": 0.012365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "drink tea eat alone",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.466275,
+          "y": 0.338182,
+          "width": 0.322745,
+          "height": 0.010303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "eat alone",
+            "confidence": 0.8017
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "drink tea eat alone",
+            "confidence": 0.96
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "eat junk food in class",
+        "confidence": 0.9105,
+        "bbox": {
+          "x": 0.162667,
+          "y": 0.529624,
+          "width": 0.141333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "eaton the street",
+        "confidence": 0.8684,
+        "bbox": {
+          "x": 0.707333,
+          "y": 0.529624,
+          "width": 0.110667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "paragraph",
+        "content": "eat fast food for breakfast eat on the street",
+        "confidence": 0.9578,
+        "bbox": {
+          "x": 0.413333,
+          "y": 0.53,
+          "width": 0.402353,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "eatfastfoodforbreakfast",
+            "confidence": 0.9413
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "eat fast food for breakfast eat on the street",
+            "confidence": 0.9578
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "eat standing up",
+        "confidence": 0.9315,
+        "bbox": {
+          "x": 0.181333,
+          "y": 0.720247,
+          "width": 0.106667,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "eat standing up",
+            "confidence": 0.9315
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "eat standing up — pee seems ti",
+            "confidence": 0.6057
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "(your own idea)",
+        "confidence": 0.8267,
+        "bbox": {
+          "x": 0.446667,
+          "y": 0.738279,
+          "width": 0.107333,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "paragraph",
+        "content": "(your own idea) (your own idea)",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.449412,
+          "y": 0.738788,
+          "width": 0.366667,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "(your own idea)",
+            "confidence": 0.8785
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "(your own idea) (your own idea)",
+            "confidence": 0.955
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "dialogue_line",
+        "content": "A: Do you ever drink coffee in the morning?",
+        "confidence": 0.9611,
+        "bbox": {
+          "x": 0.112549,
+          "y": 0.766061,
+          "width": 0.315686,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: Do you ever drink coffee in the morning?",
+            "confidence": 0.9214
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: Do you ever drink coffee in the morning?",
+            "confidence": 0.9611
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "dialogue_line",
+        "content": "B: Yes, | do.",
+        "confidence": 0.895,
+        "bbox": {
+          "x": 0.113725,
+          "y": 0.789091,
+          "width": 0.080784,
+          "height": 0.010606
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B: Yes, I do",
+            "confidence": 0.7924
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: Yes, | do.",
+            "confidence": 0.895
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "dialogue_line",
+        "content": "C: How often do you drink coffee in the morning?",
+        "confidence": 0.954,
+        "bbox": {
+          "x": 0.113725,
+          "y": 0.81,
+          "width": 0.358431,
+          "height": 0.013636
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "C:Howoftendoyoudrinkcoffeeinthemorning?",
+            "confidence": 0.9405
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "C: How often do you drink coffee in the morning?",
+            "confidence": 0.954
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "dialogue_line",
+        "content": "B: | drink coffee in the morning three times a week. How about you?",
+        "confidence": 0.9543,
+        "bbox": {
+          "x": 0.114118,
+          "y": 0.830909,
+          "width": 0.496863,
+          "height": 0.014545
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B: I drink coffee in the morning three times a week. How about you?",
+            "confidence": 0.9145
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: | drink coffee in the morning three times a week. How about you?",
+            "confidence": 0.9543
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "Keep talking!",
+        "confidence": 0.8997,
+        "bbox": {
+          "x": 0.106667,
+          "y": 0.949511,
+          "width": 0.082667,
+          "height": 0.01185
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "[ Keep talking! | a dehkhodaedu.com",
+            "confidence": 0.68
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Keeptalking!",
+            "confidence": 0.8997
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Lesson C",
+      "unit",
+      "How often do you eat standing up?",
+      "Add two eating habits to the list. Then discuss how often you do each thing.",
+      "Group work",
+      "drink coffee in the morning",
+      "drink tea",
+      "drink tea eat alone",
+      "eat junk food in class",
+      "eaton the street",
+      "eat fast food for breakfast eat on the street",
+      "eat standing up",
+      "(your own idea)",
+      "(your own idea) (your own idea)",
+      "A: Do you ever drink coffee in the morning?",
+      "B: Yes, | do.",
+      "C: How often do you drink coffee in the morning?",
+      "B: | drink coffee in the morning three times a week. How about you?",
+      "Keep talking!"
+    ],
+    "paragraphs": [
+      "eat fast food for breakfast eat on the street",
+      "(your own idea) (your own idea)"
+    ],
+    "sentences": [
+      "Lesson C unit How often do you eat standing up",
+      "Add two eating habits to the list",
+      "Then discuss how often you do each thing",
+      "Group work drink coffee in the morning drink tea drink tea eat alone eat junk food in class eaton the street eat fast food for breakfast eat on the street eat standing up (your own idea) (your own idea) (your own idea) A: Do you ever drink coffee in the morning",
+      "B: Yes, | do",
+      "C: How often do you drink coffee in the morning",
+      "B: | drink coffee in the morning three times a week",
+      "How about you",
+      "Keep talking"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "A: Do you ever drink coffee in the morning?",
+            "confidence": 0.9611,
+            "bbox": {
+              "x": 0.112549,
+              "y": 0.766061,
+              "width": 0.315686,
+              "height": 0.013636
+            },
+            "sourceElementId": "text_0015"
+          },
+          {
+            "speaker": null,
+            "content": "B: Yes, | do.",
+            "confidence": 0.895,
+            "bbox": {
+              "x": 0.113725,
+              "y": 0.789091,
+              "width": 0.080784,
+              "height": 0.010606
+            },
+            "sourceElementId": "text_0016"
+          },
+          {
+            "speaker": null,
+            "content": "C: How often do you drink coffee in the morning?",
+            "confidence": 0.954,
+            "bbox": {
+              "x": 0.113725,
+              "y": 0.81,
+              "width": 0.358431,
+              "height": 0.013636
+            },
+            "sourceElementId": "text_0017"
+          },
+          {
+            "speaker": null,
+            "content": "B: | drink coffee in the morning three times a week.",
+            "confidence": 0.9543,
+            "bbox": {
+              "x": 0.114118,
+              "y": 0.830909,
+              "width": 0.496863,
+              "height": 0.014545
+            },
+            "sourceElementId": "text_0018"
+          },
+          {
+            "speaker": null,
+            "content": "How about you?",
+            "confidence": 0.9543,
+            "bbox": {
+              "x": 0.114118,
+              "y": 0.830909,
+              "width": 0.496863,
+              "height": 0.014545
+            },
+            "sourceElementId": "text_0018"
+          }
+        ]
+      }
+    ],
+    "exercises": [],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "drink coffee in the morning",
+          "drink tea",
+          "drink tea eat alone"
+        ],
+        "position": {
+          "x": 0.11866700000000001,
+          "y": 0.31642499999999996,
+          "width": 0.6903530000000001,
+          "height": 0.05597100000000005
+        },
+        "textElementIds": [
+          "text_0006",
+          "text_0007",
+          "text_0008"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "eat junk food in class",
+          "eaton the street",
+          "eat fast food for breakfast eat on the street"
+        ],
+        "position": {
+          "x": 0.14266700000000002,
+          "y": 0.509624,
+          "width": 0.695333,
+          "height": 0.05339500000000008
+        },
+        "textElementIds": [
+          "text_0009",
+          "text_0010",
+          "text_0011"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "eat standing up",
+          "(your own idea)",
+          "(your own idea) (your own idea)",
+          "A: Do you ever drink coffee in the morning?",
+          "B: Yes, | do.",
+          "C: How often do you drink coffee in the morning?",
+          "B: | drink coffee in the morning three times a week. How about you?"
+        ],
+        "position": {
+          "x": 0.09254899999999999,
+          "y": 0.700247,
+          "width": 0.74353,
+          "height": 0.1652070000000001
+        },
+        "textElementIds": [
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018"
+        ]
+      }
+    ],
+    "excludedGarbage": [
+      "140"
+    ]
+  },
+  "learningContent": {
+    "pageType": "lesson",
+    "title": "Lesson C",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "A: Do you ever drink coffee in the morning?",
+            "confidence": 0.9611
+          },
+          {
+            "speaker": null,
+            "content": "B: Yes, | do.",
+            "confidence": 0.895
+          },
+          {
+            "speaker": null,
+            "content": "C: How often do you drink coffee in the morning?",
+            "confidence": 0.954
+          },
+          {
+            "speaker": null,
+            "content": "B: | drink coffee in the morning three times a week.",
+            "confidence": 0.9543
+          },
+          {
+            "speaker": null,
+            "content": "How about you?",
+            "confidence": 0.9543
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "1 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content.",
+      "1 garbage string(s) excluded"
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "garbageExcluded": 1,
+      "dialoguesSplit": 2
+    },
+    "averageOcrConfidence": 0.9059,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 1 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc1_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

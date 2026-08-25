@@ -1,0 +1,2907 @@
+{
+  "pageNumber": 102,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "verified sequential printed-footer pattern after duplicate source pages",
+  "pdfPageNumber": 107,
+  "source": {
+    "pdfFile": "Family and Friends 3 SB_Part2.pdf",
+    "pdfLocalPageNumber": 16,
+    "pageSizePoints": {
+      "width": 586.56,
+      "height": 785.04
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Review4",
+        "confidence": 0.8412,
+        "bbox": {
+          "x": 0.030667,
+          "y": 0.032387,
+          "width": 0.124,
+          "height": 0.021923
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "instruction",
+        "content": "1 Complete the crossword.",
+        "confidence": 0.885,
+        "bbox": {
+          "x": 0.047054,
+          "y": 0.071843,
+          "width": 0.283142,
+          "height": 0.018037
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "1Completethe crossword.",
+            "confidence": 0.894
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Complete the crossword.",
+            "confidence": 0.885
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Down",
+        "confidence": 0.7507,
+        "bbox": {
+          "x": 0.076,
+          "y": 0.09716,
+          "width": 0.064,
+          "height": 0.018934
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Across",
+        "confidence": 0.8482,
+        "bbox": {
+          "x": 0.787333,
+          "y": 0.100149,
+          "width": 0.068,
+          "height": 0.015446
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "litter",
+        "confidence": 0.8355,
+        "bbox": {
+          "x": 0.358,
+          "y": 0.520179,
+          "width": 0.054,
+          "height": 0.021425
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "path",
+        "confidence": 0.723,
+        "bbox": {
+          "x": 0.591333,
+          "y": 0.521674,
+          "width": 0.052,
+          "height": 0.020429
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0007",
+        "type": "instruction",
+        "content": "Write the correct words.",
+        "confidence": 0.8763,
+        "bbox": {
+          "x": 0.056667,
+          "y": 0.522172,
+          "width": 0.257333,
+          "height": 0.017937
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Write the correct words.",
+            "confidence": 0.8763
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Write the correct words. litter garbagecan path grass fountain trees",
+            "confidence": 0.7709
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "garbagecan",
+        "confidence": 0.8056,
+        "bbox": {
+          "x": 0.438,
+          "y": 0.522671,
+          "width": 0.126,
+          "height": 0.017937
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "fountain",
+        "confidence": 0.8806,
+        "bbox": {
+          "x": 0.754,
+          "y": 0.523169,
+          "width": 0.086,
+          "height": 0.016941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "grass",
+        "confidence": 0.8237,
+        "bbox": {
+          "x": 0.67,
+          "y": 0.524165,
+          "width": 0.056667,
+          "height": 0.017937
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "trees",
+        "confidence": 0.7619,
+        "bbox": {
+          "x": 0.868667,
+          "y": 0.524664,
+          "width": 0.051333,
+          "height": 0.015944
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "Thisisanicepark.Therearetwo",
+        "confidence": 0.9428,
+        "bbox": {
+          "x": 0.072,
+          "y": 0.56004,
+          "width": 0.322,
+          "height": 0.016941
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Thisisanicepark.Therearetwo",
+            "confidence": 0.9428
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "This is a nice park. Therearetwo' _trees __ inthe park",
+            "confidence": 0.821
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "trees",
+        "confidence": 0.7989,
+        "bbox": {
+          "x": 0.428667,
+          "y": 0.560538,
+          "width": 0.056,
+          "height": 0.017439
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "inthepark",
+        "confidence": 0.8949,
+        "bbox": {
+          "x": 0.51,
+          "y": 0.560538,
+          "width": 0.111333,
+          "height": 0.019432
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "paragraph",
+        "content": "and there are lots of flowers. A woman is standing near a",
+        "confidence": 0.9583,
+        "bbox": {
+          "x": 0.071195,
+          "y": 0.584531,
+          "width": 0.541326,
+          "height": 0.018037
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "andtherearelotsof flowers.Awomanisstandingneara",
+            "confidence": 0.8967
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "and there are lots of flowers. A woman is standing near a",
+            "confidence": 0.9583
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "paragraph",
+        "content": "3 . A boy is walking on the * and a girl",
+        "confidence": 0.8508,
+        "bbox": {
+          "x": 0.072422,
+          "y": 0.606848,
+          "width": 0.545827,
+          "height": 0.01926
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": ".Aboyiswalkingonthe3",
+            "confidence": 0.8279
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 . A boy is walking on the * and a girl",
+            "confidence": 0.8508
+          },
+          {
+            "engine": "rapidocr",
+            "content": "andagirl",
+            "confidence": 0.8667
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "sentence",
+        "content": "is walking on the * . Aman is cleaning the park.",
+        "confidence": 0.9109,
+        "bbox": {
+          "x": 0.071195,
+          "y": 0.629777,
+          "width": 0.542553,
+          "height": 0.018037
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "iswalkingonthe*",
+            "confidence": 0.8913
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "is walking on the * . Aman is cleaning the park.",
+            "confidence": 0.9109
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Amaniscleaningthepark.",
+            "confidence": 0.879
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "paragraph",
+        "content": "and he is putting it in the",
+        "confidence": 0.8522,
+        "bbox": {
+          "x": 0.362667,
+          "y": 0.652217,
+          "width": 0.241333,
+          "height": 0.019432
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "paragraph",
+        "content": "He is taking all the * and he is putting it in the",
+        "confidence": 0.9369,
+        "bbox": {
+          "x": 0.071195,
+          "y": 0.653011,
+          "width": 0.531097,
+          "height": 0.018037
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "He is taking all thes",
+            "confidence": 0.8548
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "He is taking all the * and he is putting it in the",
+            "confidence": 0.9369
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "paragraph",
+        "content": ". The park is very clean now.",
+        "confidence": 0.9529,
+        "bbox": {
+          "x": 0.178805,
+          "y": 0.676246,
+          "width": 0.263912,
+          "height": 0.016203
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": ".Thepark isverycleannow.",
+            "confidence": 0.9109
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": ". The park is very clean now.",
+            "confidence": 0.9529
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "must",
+        "confidence": 0.7576,
+        "bbox": {
+          "x": 0.175333,
+          "y": 0.746388,
+          "width": 0.054,
+          "height": 0.016941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "rmustn't",
+        "confidence": 0.7517,
+        "bbox": {
+          "x": 0.267333,
+          "y": 0.746388,
+          "width": 0.076,
+          "height": 0.016442
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0023",
+        "type": "instruction",
+        "content": "Write.",
+        "confidence": 0.7739,
+        "bbox": {
+          "x": 0.059333,
+          "y": 0.746886,
+          "width": 0.070667,
+          "height": 0.017937
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Write.",
+            "confidence": 0.7739
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Write",
+            "confidence": 0.65
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "SCHOOL RULES",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.394435,
+          "y": 0.794253,
+          "width": 0.204173,
+          "height": 0.017426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "SCHOOL RULES",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "SCHOOLRULES",
+            "confidence": 0.8374
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "You",
+        "confidence": 0.7405,
+        "bbox": {
+          "x": 0.081333,
+          "y": 0.835575,
+          "width": 0.044,
+          "height": 0.01993
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "You",
+        "confidence": 0.7138,
+        "bbox": {
+          "x": 0.528667,
+          "y": 0.838067,
+          "width": 0.042,
+          "height": 0.016941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0027",
+        "type": "paragraph",
+        "content": "1 You do your homework. 2 You put litter in the garbage can.",
+        "confidence": 0.9385,
+        "bbox": {
+          "x": 0.057283,
+          "y": 0.838887,
+          "width": 0.878478,
+          "height": 0.018037
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "do yourhomework",
+            "confidence": 0.8562
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 You do your homework. 2 You put litter in the garbage can.",
+            "confidence": 0.9385
+          },
+          {
+            "engine": "rapidocr",
+            "content": "putlitterinthegarbagecan.",
+            "confidence": 0.9007
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "You",
+        "confidence": 0.7437,
+        "bbox": {
+          "x": 0.08,
+          "y": 0.858495,
+          "width": 0.044667,
+          "height": 0.020429
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "You",
+        "confidence": 0.7375,
+        "bbox": {
+          "x": 0.524,
+          "y": 0.860488,
+          "width": 0.046667,
+          "height": 0.017439
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "playsoccerinclassroom.",
+        "confidence": 0.9258,
+        "bbox": {
+          "x": 0.674,
+          "y": 0.861485,
+          "width": 0.238667,
+          "height": 0.017937
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 You ____ shout in the classroom. 4 You play soccer in classroom.",
+            "confidence": 0.88
+          },
+          {
+            "engine": "rapidocr",
+            "content": "shout intheclassroom.",
+            "confidence": 0.8954
+          },
+          {
+            "engine": "rapidocr",
+            "content": "playsoccerinclassroom.",
+            "confidence": 0.9258
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "You",
+        "confidence": 0.7457,
+        "bbox": {
+          "x": 0.076667,
+          "y": 0.880917,
+          "width": 0.048,
+          "height": 0.020429
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "6You",
+        "confidence": 0.7951,
+        "bbox": {
+          "x": 0.501333,
+          "y": 0.882412,
+          "width": 0.07,
+          "height": 0.018934
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "helpyourteacher.",
+        "confidence": 0.89,
+        "bbox": {
+          "x": 0.224667,
+          "y": 0.883408,
+          "width": 0.173333,
+          "height": 0.017937
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "paragraph",
+        "content": "5 You help your teacher. 6 You ride your bike in the school",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.056056,
+          "y": 0.884439,
+          "width": 0.87275,
+          "height": 0.018037
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "rideyourbikeintheschool",
+            "confidence": 0.9467
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 You help your teacher. 6 You ride your bike in the school",
+            "confidence": 0.95
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "the yard.",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.532324,
+          "y": 0.908285,
+          "width": 0.08347,
+          "height": 0.016509
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "the yard.",
+            "confidence": 0.8106
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "the yard.",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "102",
+        "confidence": 0.6701,
+        "bbox": {
+          "x": 0.012667,
+          "y": 0.958645,
+          "width": 0.044,
+          "height": 0.020927
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0037",
+        "type": "heading",
+        "content": "Review4",
+        "confidence": 0.8007,
+        "bbox": {
+          "x": 0.094,
+          "y": 0.964624,
+          "width": 0.078,
+          "height": 0.014948
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "Down",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.076,
+          "y": 0.09716,
+          "width": 0.064,
+          "height": 0.018934
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.7507
+      },
+      {
+        "word": "Across",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.787333,
+          "y": 0.100149,
+          "width": 0.068,
+          "height": 0.015446
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8482
+      },
+      {
+        "word": "litter",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.358,
+          "y": 0.520179,
+          "width": 0.054,
+          "height": 0.021425
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8355
+      },
+      {
+        "word": "path",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.591333,
+          "y": 0.521674,
+          "width": 0.052,
+          "height": 0.020429
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.723
+      },
+      {
+        "word": "garbagecan",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.438,
+          "y": 0.522671,
+          "width": 0.126,
+          "height": 0.017937
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8056
+      },
+      {
+        "word": "fountain",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.754,
+          "y": 0.523169,
+          "width": 0.086,
+          "height": 0.016941
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8806
+      },
+      {
+        "word": "grass",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.67,
+          "y": 0.524165,
+          "width": 0.056667,
+          "height": 0.017937
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8237
+      },
+      {
+        "word": "trees",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.868667,
+          "y": 0.524664,
+          "width": 0.051333,
+          "height": 0.015944
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.7619
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "gap_fill",
+        "instruction": "Complete the crossword.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0002"
+        ],
+        "confidence": 0.885
+      },
+      {
+        "exerciseNumber": "1",
+        "type": "exercise",
+        "instruction": "You do your homework. 2 You put litter in the garbage can.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0027"
+        ],
+        "confidence": 0.9385
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "litter",
+          "path",
+          "Write the correct words.",
+          "garbagecan",
+          "fountain",
+          "grass",
+          "trees",
+          "Thisisanicepark.Therearetwo",
+          "trees",
+          "inthepark",
+          "and there are lots of flowers. A woman is standing near a",
+          "3 . A boy is walking on the * and a girl",
+          "is walking on the * . Aman is cleaning the park.",
+          "and he is putting it in the",
+          "He is taking all the * and he is putting it in the",
+          ". The park is very clean now."
+        ],
+        "position": {
+          "x": 0.036667,
+          "y": 0.500179,
+          "width": 0.903333,
+          "height": 0.21227
+        },
+        "textElementIds": [
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "must",
+          "rmustn't",
+          "Write.",
+          "SCHOOL RULES",
+          "You",
+          "You",
+          "1 You do your homework. 2 You put litter in the garbage can.",
+          "You"
+        ],
+        "position": {
+          "x": 0.037283,
+          "y": 0.726388,
+          "width": 0.918478,
+          "height": 0.172536
+        },
+        "textElementIds": [
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "rawOcrAudit": {
+      "rapidocr": "Review4\n1Completethe crossword.\nDown\nAcross\nlitter\npath\nWrite the correct words.\ngarbagecan\nfountain\ngrass\ntrees\nThisisanicepark.Therearetwo\ntrees\ninthepark\nandtherearelotsof flowers.Awomanisstandingneara\n.Aboyiswalkingonthe3\nandagirl\niswalkingonthe*\nAmaniscleaningthepark.\nHe is taking all thes\nand he is putting it in the\n.Thepark isverycleannow.\nmust\nrmustn't\nWrite.\nSCHOOLRULES\nYou\ndo yourhomework\nYou\nputlitterinthegarbagecan.\nYou\nYou\nshout intheclassroom.\nplaysoccerinclassroom.\nYou\n6You\nhelpyourteacher.\nrideyourbikeintheschool\nthe yard.\n102\nReview4",
+      "tesseract_psm3": "1 Complete the crossword.\n\n2 Write the correct words. litter garbagecan path grass fountain trees\n\nThis is a nice park. Therearetwo' _trees __ inthe park\nand there are lots of flowers. A woman is standing near a\n\n3 . A boy is walking on the * and a girl\nis walking on the * . Aman is cleaning the park.\nHe is taking all the * and he is putting it in the\n\n. The park is very clean now.\n\n3 Write\n\nSCHOOL RULES\n\n1 You do your homework. 2 You put litter in the garbage can.\n3 You ____ shout in the classroom. 4 You play soccer in classroom.\n\n5 You help your teacher. 6 You ride your bike in the school\nthe yard.\n\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": "",
+      "footer_passes": [
+        "5 You help your teacher. 6 You _fide your bike in the school\nthe yard.\nReview 4",
+        "5 Ein\n\n___ help your teacher.\n\n6 You\n\nride your bike in the school\n\nthe yard"
+      ]
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8373,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "14 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "review",
+    "pagePurpose": null,
+    "readingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "headings": [
+      {
+        "id": "text_0001",
+        "content": "Review 4",
+        "confidence": 0.8412,
+        "bbox": {
+          "x": 0.030667,
+          "y": 0.032387,
+          "width": 0.124,
+          "height": 0.021923
+        },
+        "repaired": true,
+        "sourceElementIds": [
+          "text_0001"
+        ]
+      },
+      {
+        "id": "text_0003",
+        "content": "Down",
+        "confidence": 0.7507,
+        "bbox": {
+          "x": 0.076,
+          "y": 0.09716,
+          "width": 0.064,
+          "height": 0.018934
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0003"
+        ]
+      },
+      {
+        "id": "text_0004",
+        "content": "Across",
+        "confidence": 0.8482,
+        "bbox": {
+          "x": 0.787333,
+          "y": 0.100149,
+          "width": 0.068,
+          "height": 0.015446
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      },
+      {
+        "id": "text_0037",
+        "content": "Review 4",
+        "confidence": 0.8007,
+        "bbox": {
+          "x": 0.094,
+          "y": 0.964624,
+          "width": 0.078,
+          "height": 0.014948
+        },
+        "repaired": true,
+        "sourceElementIds": [
+          "text_0037"
+        ]
+      }
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Review 4",
+        "originalContent": "Review4",
+        "confidence": 0.8412,
+        "bbox": {
+          "x": 0.030667,
+          "y": 0.032387,
+          "width": 0.124,
+          "height": 0.021923
+        },
+        "repaired": true,
+        "repairNotes": [
+          "heading"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0002",
+        "type": "instruction",
+        "content": "1 Complete the crossword.",
+        "originalContent": "1 Complete the crossword.",
+        "confidence": 0.885,
+        "bbox": {
+          "x": 0.047054,
+          "y": 0.071843,
+          "width": 0.283142,
+          "height": 0.018037
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "1Completethe crossword.",
+            "confidence": 0.894
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Complete the crossword.",
+            "confidence": 0.885
+          }
+        ]
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Down",
+        "originalContent": "Down",
+        "confidence": 0.7507,
+        "bbox": {
+          "x": 0.076,
+          "y": 0.09716,
+          "width": 0.064,
+          "height": 0.018934
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Across",
+        "originalContent": "Across",
+        "confidence": 0.8482,
+        "bbox": {
+          "x": 0.787333,
+          "y": 0.100149,
+          "width": 0.068,
+          "height": 0.015446
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "litter",
+        "originalContent": "litter",
+        "confidence": 0.8355,
+        "bbox": {
+          "x": 0.358,
+          "y": 0.520179,
+          "width": 0.054,
+          "height": 0.021425
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "path",
+        "originalContent": "path",
+        "confidence": 0.723,
+        "bbox": {
+          "x": 0.591333,
+          "y": 0.521674,
+          "width": 0.052,
+          "height": 0.020429
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0007",
+        "type": "instruction",
+        "content": "Write the correct words.",
+        "originalContent": "Write the correct words.",
+        "confidence": 0.8763,
+        "bbox": {
+          "x": 0.056667,
+          "y": 0.522172,
+          "width": 0.257333,
+          "height": 0.017937
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Write the correct words.",
+            "confidence": 0.8763
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Write the correct words. litter garbagecan path grass fountain trees",
+            "confidence": 0.7709
+          }
+        ]
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "garbage can",
+        "originalContent": "garbagecan",
+        "confidence": 0.8056,
+        "bbox": {
+          "x": 0.438,
+          "y": 0.522671,
+          "width": 0.126,
+          "height": 0.017937
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "fountain",
+        "originalContent": "fountain",
+        "confidence": 0.8806,
+        "bbox": {
+          "x": 0.754,
+          "y": 0.523169,
+          "width": 0.086,
+          "height": 0.016941
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "grass",
+        "originalContent": "grass",
+        "confidence": 0.8237,
+        "bbox": {
+          "x": 0.67,
+          "y": 0.524165,
+          "width": 0.056667,
+          "height": 0.017937
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "trees",
+        "originalContent": "trees",
+        "confidence": 0.7619,
+        "bbox": {
+          "x": 0.868667,
+          "y": 0.524664,
+          "width": 0.051333,
+          "height": 0.015944
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "This is a nice park. There are two",
+        "originalContent": "Thisisanicepark.Therearetwo",
+        "confidence": 0.9428,
+        "bbox": {
+          "x": 0.072,
+          "y": 0.56004,
+          "width": 0.322,
+          "height": 0.016941
+        },
+        "repaired": true,
+        "repairNotes": [
+          "phrase",
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Thisisanicepark.Therearetwo",
+            "confidence": 0.9428
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "This is a nice park. Therearetwo' _trees __ inthe park",
+            "confidence": 0.821
+          }
+        ]
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "trees",
+        "originalContent": "trees",
+        "confidence": 0.7989,
+        "bbox": {
+          "x": 0.428667,
+          "y": 0.560538,
+          "width": 0.056,
+          "height": 0.017439
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "in the park",
+        "originalContent": "inthepark",
+        "confidence": 0.8949,
+        "bbox": {
+          "x": 0.51,
+          "y": 0.560538,
+          "width": 0.111333,
+          "height": 0.019432
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0015",
+        "type": "paragraph",
+        "content": "and there are lots of flowers. A woman is standing near a",
+        "originalContent": "and there are lots of flowers. A woman is standing near a",
+        "confidence": 0.9583,
+        "bbox": {
+          "x": 0.071195,
+          "y": 0.584531,
+          "width": 0.541326,
+          "height": 0.018037
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "andtherearelotsof flowers.Awomanisstandingneara",
+            "confidence": 0.8967
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "and there are lots of flowers. A woman is standing near a",
+            "confidence": 0.9583
+          }
+        ]
+      },
+      {
+        "id": "text_0016",
+        "type": "paragraph",
+        "content": "3. A boy is walking on the * and a girl",
+        "originalContent": "3 . A boy is walking on the * and a girl",
+        "confidence": 0.8508,
+        "bbox": {
+          "x": 0.072422,
+          "y": 0.606848,
+          "width": 0.545827,
+          "height": 0.01926
+        },
+        "repaired": true,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": ".Aboyiswalkingonthe3",
+            "confidence": 0.8279
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 . A boy is walking on the * and a girl",
+            "confidence": 0.8508
+          },
+          {
+            "engine": "rapidocr",
+            "content": "andagirl",
+            "confidence": 0.8667
+          }
+        ]
+      },
+      {
+        "id": "text_0017",
+        "type": "sentence",
+        "content": "is walking on the *. Aman is cleaning the park.",
+        "originalContent": "is walking on the * . Aman is cleaning the park.",
+        "confidence": 0.9109,
+        "bbox": {
+          "x": 0.071195,
+          "y": 0.629777,
+          "width": 0.542553,
+          "height": 0.018037
+        },
+        "repaired": true,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "iswalkingonthe*",
+            "confidence": 0.8913
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "is walking on the * . Aman is cleaning the park.",
+            "confidence": 0.9109
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Amaniscleaningthepark.",
+            "confidence": 0.879
+          }
+        ]
+      },
+      {
+        "id": "text_0018",
+        "type": "paragraph",
+        "content": "and he is putting it in the",
+        "originalContent": "and he is putting it in the",
+        "confidence": 0.8522,
+        "bbox": {
+          "x": 0.362667,
+          "y": 0.652217,
+          "width": 0.241333,
+          "height": 0.019432
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0019",
+        "type": "paragraph",
+        "content": "He is taking all the * and he is putting it in the",
+        "originalContent": "He is taking all the * and he is putting it in the",
+        "confidence": 0.9369,
+        "bbox": {
+          "x": 0.071195,
+          "y": 0.653011,
+          "width": 0.531097,
+          "height": 0.018037
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "He is taking all thes",
+            "confidence": 0.8548
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "He is taking all the * and he is putting it in the",
+            "confidence": 0.9369
+          }
+        ]
+      },
+      {
+        "id": "text_0020",
+        "type": "paragraph",
+        "content": ". The park is very clean now.",
+        "originalContent": ". The park is very clean now.",
+        "confidence": 0.9529,
+        "bbox": {
+          "x": 0.178805,
+          "y": 0.676246,
+          "width": 0.263912,
+          "height": 0.016203
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": ".Thepark isverycleannow.",
+            "confidence": 0.9109
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": ". The park is very clean now.",
+            "confidence": 0.9529
+          }
+        ]
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "must",
+        "originalContent": "must",
+        "confidence": 0.7576,
+        "bbox": {
+          "x": 0.175333,
+          "y": 0.746388,
+          "width": 0.054,
+          "height": 0.016941
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0022",
+        "type": "label",
+        "content": "r mustn't",
+        "originalContent": "rmustn't",
+        "confidence": 0.7517,
+        "bbox": {
+          "x": 0.267333,
+          "y": 0.746388,
+          "width": 0.076,
+          "height": 0.016442
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0023",
+        "type": "instruction",
+        "content": "Write.",
+        "originalContent": "Write.",
+        "confidence": 0.7739,
+        "bbox": {
+          "x": 0.059333,
+          "y": 0.746886,
+          "width": 0.070667,
+          "height": 0.017937
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Write.",
+            "confidence": 0.7739
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Write",
+            "confidence": 0.65
+          }
+        ]
+      },
+      {
+        "id": "text_0024",
+        "type": "label",
+        "content": "SCHOOL RULES",
+        "originalContent": "SCHOOL RULES",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.394435,
+          "y": 0.794253,
+          "width": 0.204173,
+          "height": 0.017426
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "SCHOOL RULES",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "SCHOOLRULES",
+            "confidence": 0.8374
+          }
+        ]
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "You",
+        "originalContent": "You",
+        "confidence": 0.7405,
+        "bbox": {
+          "x": 0.081333,
+          "y": 0.835575,
+          "width": 0.044,
+          "height": 0.01993
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "You",
+        "originalContent": "You",
+        "confidence": 0.7138,
+        "bbox": {
+          "x": 0.528667,
+          "y": 0.838067,
+          "width": 0.042,
+          "height": 0.016941
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0027",
+        "type": "paragraph",
+        "content": "1 You do your homework. 2 You put litter in the garbage can.",
+        "originalContent": "1 You do your homework. 2 You put litter in the garbage can.",
+        "confidence": 0.9385,
+        "bbox": {
+          "x": 0.057283,
+          "y": 0.838887,
+          "width": 0.878478,
+          "height": 0.018037
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "do yourhomework",
+            "confidence": 0.8562
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 You do your homework. 2 You put litter in the garbage can.",
+            "confidence": 0.9385
+          },
+          {
+            "engine": "rapidocr",
+            "content": "putlitterinthegarbagecan.",
+            "confidence": 0.9007
+          }
+        ]
+      },
+      {
+        "id": "text_0028",
+        "type": "label",
+        "content": "You",
+        "originalContent": "You",
+        "confidence": 0.7437,
+        "bbox": {
+          "x": 0.08,
+          "y": 0.858495,
+          "width": 0.044667,
+          "height": 0.020429
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0029",
+        "type": "label",
+        "content": "You",
+        "originalContent": "You",
+        "confidence": 0.7375,
+        "bbox": {
+          "x": 0.524,
+          "y": 0.860488,
+          "width": 0.046667,
+          "height": 0.017439
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "play soccer in classroom.",
+        "originalContent": "playsoccerinclassroom.",
+        "confidence": 0.9258,
+        "bbox": {
+          "x": 0.674,
+          "y": 0.861485,
+          "width": 0.238667,
+          "height": 0.017937
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 You ____ shout in the classroom. 4 You play soccer in classroom.",
+            "confidence": 0.88
+          },
+          {
+            "engine": "rapidocr",
+            "content": "shout intheclassroom.",
+            "confidence": 0.8954
+          },
+          {
+            "engine": "rapidocr",
+            "content": "playsoccerinclassroom.",
+            "confidence": 0.9258
+          }
+        ]
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "You",
+        "originalContent": "You",
+        "confidence": 0.7457,
+        "bbox": {
+          "x": 0.076667,
+          "y": 0.880917,
+          "width": 0.048,
+          "height": 0.020429
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "6 You",
+        "originalContent": "6You",
+        "confidence": 0.7951,
+        "bbox": {
+          "x": 0.501333,
+          "y": 0.882412,
+          "width": 0.07,
+          "height": 0.018934
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "help your teacher.",
+        "originalContent": "helpyourteacher.",
+        "confidence": 0.89,
+        "bbox": {
+          "x": 0.224667,
+          "y": 0.883408,
+          "width": 0.173333,
+          "height": 0.017937
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0034",
+        "type": "paragraph",
+        "content": "5 You help your teacher. 6 You ride your bike in the school",
+        "originalContent": "5 You help your teacher. 6 You ride your bike in the school",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.056056,
+          "y": 0.884439,
+          "width": 0.87275,
+          "height": 0.018037
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "rideyourbikeintheschool",
+            "confidence": 0.9467
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 You help your teacher. 6 You ride your bike in the school",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "id": "text_0035",
+        "type": "label",
+        "content": "the yard.",
+        "originalContent": "the yard.",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.532324,
+          "y": 0.908285,
+          "width": 0.08347,
+          "height": 0.016509
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "the yard.",
+            "confidence": 0.8106
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "the yard.",
+            "confidence": 0.955
+          }
+        ]
+      },
+      {
+        "id": "text_0037",
+        "type": "heading",
+        "content": "Review 4",
+        "originalContent": "Review4",
+        "confidence": 0.8007,
+        "bbox": {
+          "x": 0.094,
+          "y": 0.964624,
+          "width": 0.078,
+          "height": 0.014948
+        },
+        "repaired": true,
+        "repairNotes": [
+          "heading"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Review 4",
+      "1 Complete the crossword.",
+      "Down",
+      "Across",
+      "litter",
+      "path",
+      "Write the correct words.",
+      "garbage can",
+      "fountain",
+      "grass",
+      "trees",
+      "This is a nice park. There are two",
+      "trees",
+      "in the park",
+      "and there are lots of flowers. A woman is standing near a",
+      "3. A boy is walking on the * and a girl",
+      "is walking on the *. Aman is cleaning the park.",
+      "and he is putting it in the",
+      "He is taking all the * and he is putting it in the",
+      ". The park is very clean now.",
+      "must",
+      "r mustn't",
+      "Write.",
+      "SCHOOL RULES",
+      "You",
+      "You",
+      "1 You do your homework. 2 You put litter in the garbage can.",
+      "You",
+      "You",
+      "play soccer in classroom.",
+      "You",
+      "6 You",
+      "help your teacher.",
+      "5 You help your teacher. 6 You ride your bike in the school",
+      "the yard.",
+      "Review 4"
+    ],
+    "paragraphs": [
+      {
+        "id": "text_0015",
+        "content": "and there are lots of flowers. A woman is standing near a",
+        "confidence": 0.9583,
+        "bbox": {
+          "x": 0.071195,
+          "y": 0.584531,
+          "width": 0.541326,
+          "height": 0.018037
+        },
+        "sourceElementIds": [
+          "text_0015"
+        ]
+      },
+      {
+        "id": "text_0016",
+        "content": "3. A boy is walking on the * and a girl",
+        "confidence": 0.8508,
+        "bbox": {
+          "x": 0.072422,
+          "y": 0.606848,
+          "width": 0.545827,
+          "height": 0.01926
+        },
+        "sourceElementIds": [
+          "text_0016"
+        ]
+      },
+      {
+        "id": "text_0018",
+        "content": "and he is putting it in the",
+        "confidence": 0.8522,
+        "bbox": {
+          "x": 0.362667,
+          "y": 0.652217,
+          "width": 0.241333,
+          "height": 0.019432
+        },
+        "sourceElementIds": [
+          "text_0018"
+        ]
+      },
+      {
+        "id": "text_0019",
+        "content": "He is taking all the * and he is putting it in the",
+        "confidence": 0.9369,
+        "bbox": {
+          "x": 0.071195,
+          "y": 0.653011,
+          "width": 0.531097,
+          "height": 0.018037
+        },
+        "sourceElementIds": [
+          "text_0019"
+        ]
+      },
+      {
+        "id": "text_0020",
+        "content": ". The park is very clean now.",
+        "confidence": 0.9529,
+        "bbox": {
+          "x": 0.178805,
+          "y": 0.676246,
+          "width": 0.263912,
+          "height": 0.016203
+        },
+        "sourceElementIds": [
+          "text_0020"
+        ]
+      },
+      {
+        "id": "text_0027",
+        "content": "1 You do your homework. 2 You put litter in the garbage can.",
+        "confidence": 0.9385,
+        "bbox": {
+          "x": 0.057283,
+          "y": 0.838887,
+          "width": 0.878478,
+          "height": 0.018037
+        },
+        "sourceElementIds": [
+          "text_0027"
+        ]
+      },
+      {
+        "id": "text_0034",
+        "content": "5 You help your teacher. 6 You ride your bike in the school",
+        "confidence": 0.95,
+        "bbox": {
+          "x": 0.056056,
+          "y": 0.884439,
+          "width": 0.87275,
+          "height": 0.018037
+        },
+        "sourceElementIds": [
+          "text_0034"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "text_0012",
+        "content": "This is a nice park. There are two",
+        "confidence": 0.9428,
+        "bbox": {
+          "x": 0.072,
+          "y": 0.56004,
+          "width": 0.322,
+          "height": 0.016941
+        },
+        "sourceElementIds": [
+          "text_0012"
+        ]
+      },
+      {
+        "id": "text_0017",
+        "content": "is walking on the *. Aman is cleaning the park.",
+        "confidence": 0.9109,
+        "bbox": {
+          "x": 0.071195,
+          "y": 0.629777,
+          "width": 0.542553,
+          "height": 0.018037
+        },
+        "sourceElementIds": [
+          "text_0017"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "litter",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8355,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "path",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.723,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "garbage can",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8056,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "fountain",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8806,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "grass",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8237,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "trees",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7619,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "in the park",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8949,
+        "sourceElementIds": [
+          "text_0014"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "must",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7576,
+        "sourceElementIds": [
+          "text_0021"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "r mustn't",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7517,
+        "sourceElementIds": [
+          "text_0022"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "SCHOOL RULES",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.96,
+        "sourceElementIds": [
+          "text_0024"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "6 You",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7951,
+        "sourceElementIds": [
+          "text_0032"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "help your teacher",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.89,
+        "sourceElementIds": [
+          "text_0033"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      },
+      {
+        "word": "yard",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.955,
+        "sourceElementIds": [
+          "text_0035"
+        ],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      }
+    ],
+    "grammar": [],
+    "dialogues": [],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "activity",
+        "instruction": "Complete the crossword.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.885,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "writing_activity",
+        "instruction": "Write the correct words.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8763,
+        "sourceElementIds": [
+          "text_0007"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "writing_activity",
+        "instruction": "Write.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.7739,
+        "sourceElementIds": [
+          "text_0023"
+        ]
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "litter",
+          "path",
+          "Write the correct words.",
+          "garbage can",
+          "fountain",
+          "grass",
+          "trees",
+          "This is a nice park. There are two",
+          "trees",
+          "in the park",
+          "and there are lots of flowers. A woman is standing near a",
+          "3. A boy is walking on the * and a girl",
+          "is walking on the *. Aman is cleaning the park.",
+          "and he is putting it in the",
+          "He is taking all the * and he is putting it in the",
+          ". The park is very clean now."
+        ],
+        "position": {
+          "x": 0.036667,
+          "y": 0.500179,
+          "width": 0.903333,
+          "height": 0.21227
+        },
+        "textElementIds": [
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "must",
+          "r mustn't",
+          "Write.",
+          "SCHOOL RULES",
+          "You",
+          "You",
+          "1 You do your homework. 2 You put litter in the garbage can.",
+          "You"
+        ],
+        "position": {
+          "x": 0.037283,
+          "y": 0.726388,
+          "width": 0.918478,
+          "height": 0.172536
+        },
+        "textElementIds": [
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "nonEducationalText": [],
+    "excludedGarbage": [
+      {
+        "id": "text_0036",
+        "content": "102",
+        "originalContent": "102",
+        "confidence": 0.6701
+      }
+    ]
+  },
+  "learningContent": {
+    "pageType": "review",
+    "title": "Review 4",
+    "learningObjectives": [],
+    "targetVocabulary": [
+      {
+        "word": "litter",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8355,
+        "sourceElementIds": []
+      },
+      {
+        "word": "path",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.723,
+        "sourceElementIds": []
+      },
+      {
+        "word": "garbage can",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8056,
+        "sourceElementIds": []
+      },
+      {
+        "word": "fountain",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8806,
+        "sourceElementIds": []
+      },
+      {
+        "word": "grass",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8237,
+        "sourceElementIds": []
+      },
+      {
+        "word": "trees",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7619,
+        "sourceElementIds": []
+      },
+      {
+        "word": "in the park",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8949,
+        "sourceElementIds": [
+          "text_0014"
+        ]
+      },
+      {
+        "word": "must",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7576,
+        "sourceElementIds": [
+          "text_0021"
+        ]
+      },
+      {
+        "word": "r mustn't",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7517,
+        "sourceElementIds": [
+          "text_0022"
+        ]
+      },
+      {
+        "word": "SCHOOL RULES",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.96,
+        "sourceElementIds": [
+          "text_0024"
+        ]
+      },
+      {
+        "word": "6 You",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.7951,
+        "sourceElementIds": [
+          "text_0032"
+        ]
+      },
+      {
+        "word": "help your teacher",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.89,
+        "sourceElementIds": [
+          "text_0033"
+        ]
+      },
+      {
+        "word": "yard",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.955,
+        "sourceElementIds": [
+          "text_0035"
+        ]
+      }
+    ],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "activity",
+        "instruction": "Complete the crossword.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.885,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "writing_activity",
+        "instruction": "Write the correct words.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8763,
+        "sourceElementIds": [
+          "text_0007"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "writing_activity",
+        "instruction": "Write.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.7739,
+        "sourceElementIds": [
+          "text_0023"
+        ]
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [
+      {
+        "exerciseNumber": "1",
+        "instruction": "Complete the crossword.",
+        "type": "activity",
+        "confidence": 0.885
+      },
+      {
+        "exerciseNumber": "1",
+        "instruction": "You do your homework. 2 You put litter in the garbage can.",
+        "type": "activity",
+        "confidence": 0.9385
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Write the correct words.",
+        "type": "writing_activity",
+        "confidence": 0.8763
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Write.",
+        "type": "writing_activity",
+        "confidence": 0.7739
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "play soccer in classroom.",
+        "type": "activity",
+        "confidence": 0.9258
+      }
+    ],
+    "writing": [
+      {
+        "exerciseNumber": "1",
+        "instruction": "Complete the crossword.",
+        "type": "activity",
+        "confidence": 0.885
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Write the correct words.",
+        "type": "writing_activity",
+        "confidence": 0.8763
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Write.",
+        "type": "writing_activity",
+        "confidence": 0.7739
+      }
+    ],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "text_repaired": 11,
+      "text_kept": 36,
+      "garbage_excluded": 1,
+      "vocab_kept": 16,
+      "exercises_reconstructed": 5
+    },
+    "averageOcrConfidence": 0.8373
+  },
+  "metadata": {
+    "book": "Family and Friends 3 Student Book (American)",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_ff3_v1",
+    "originalOcrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "originalAverageConfidence": 0.8373,
+    "noHallucinationPolicy": "Definitions, translations, speaker names, answers, and grammar rules are null or omitted unless visibly supported by page OCR/PDF. Text repairs are limited to spacing, punctuation, and clear OCR character errors."
+  }
+}

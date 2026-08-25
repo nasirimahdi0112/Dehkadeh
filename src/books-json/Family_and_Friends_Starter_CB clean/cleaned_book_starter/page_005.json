@@ -1,0 +1,680 @@
+{
+  "pageNumber": 4,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "verified sequential printed-footer pattern",
+  "pdfPageNumber": 5,
+  "source": {
+    "pdfFile": "family and friends Starter CB_Part1.pdf",
+    "pdfLocalPageNumber": 5,
+    "pageSizePoints": {
+      "width": 737.28,
+      "height": 929.28
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Hello!",
+        "confidence": 0.7556,
+        "bbox": {
+          "x": 0.326667,
+          "y": 0.029101,
+          "width": 0.201333,
+          "height": 0.051323
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Starter",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.053711,
+          "y": 0.039256,
+          "width": 0.186849,
+          "height": 0.03564
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Starter",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Starter",
+            "confidence": 0.8001
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Lesson One Words",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.05599,
+          "y": 0.097107,
+          "width": 0.240234,
+          "height": 0.03125
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Lesson One Words",
+            "confidence": 0.9533
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Lesson One Words",
+            "confidence": 0.8993
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Listen, point and repeat.",
+        "confidence": 0.8916,
+        "bbox": {
+          "x": 0.083333,
+          "y": 0.156085,
+          "width": 0.314667,
+          "height": 0.020635
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listen, point and repeat.",
+            "confidence": 0.8916
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Listen, point and repeat. © «:",
+            "confidence": 0.8929
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "heading",
+        "content": "03",
+        "confidence": 0.666,
+        "bbox": {
+          "x": 0.434,
+          "y": 0.161905,
+          "width": 0.018,
+          "height": 0.011111
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0006",
+        "type": "instruction",
+        "content": "2 Listen and chant. ©:",
+        "confidence": 0.892,
+        "bbox": {
+          "x": 0.054036,
+          "y": 0.191632,
+          "width": 0.291667,
+          "height": 0.019112
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Listen and chant. ©:",
+            "confidence": 0.892
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen and chant.",
+            "confidence": 0.8782
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "04",
+        "confidence": 0.5831,
+        "bbox": {
+          "x": 0.343333,
+          "y": 0.197354,
+          "width": 0.016667,
+          "height": 0.010582
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0008",
+        "type": "instruction",
+        "content": "Point and say. Stick the stickers.",
+        "confidence": 0.9537,
+        "bbox": {
+          "x": 0.078,
+          "y": 0.341799,
+          "width": 0.412667,
+          "height": 0.020635
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Point and say. Stick the stickers.",
+            "confidence": 0.9537
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Point and say. Stick the stickers. 9",
+            "confidence": 0.86
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "paragraph",
+        "content": "4 Starter Unit Rosy, Tim, Billy, hello, goodbye",
+        "confidence": 0.9275,
+        "bbox": {
+          "x": 0.027669,
+          "y": 0.96875,
+          "width": 0.434245,
+          "height": 0.014979
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 Starter Unit Rosy, Tim, Billy, hello, goodbye",
+            "confidence": 0.9275
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Starter Unit",
+            "confidence": 0.8183
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Rosy. Tim, Billy. hello, goodbye",
+            "confidence": 0.8884
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "Hello!",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.326667,
+          "y": 0.029101,
+          "width": 0.201333,
+          "height": 0.051323
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.7556
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "2",
+        "type": "listening_activity",
+        "instruction": "Listen and chant. ©:",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0006"
+        ],
+        "confidence": 0.892
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "Hello!\nStarter\nLesson One Words\nListen, point and repeat.\n03\nListen and chant.\n04\nPoint and say. Stick the stickers.\nStarter Unit\nRosy. Tim, Billy. hello, goodbye",
+      "tesseract_psm3": "Starter\n\nLesson One Words\n\n1 Listen, point and repeat. © «:\n2 Listen and chant. ©:\n\n3 Point and say. Stick the stickers. 9\n\no\n\n4 Starter Unit Rosy, Tim, Billy, hello, goodbye\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": ""
+    },
+    "excludedOcrNoise": [
+      {
+        "id": "text_0009",
+        "type": "text",
+        "content": "o",
+        "confidence": 0.15,
+        "bbox": {
+          "x": 0.510742,
+          "y": 0.356663,
+          "width": 0.010742,
+          "height": 0.008523
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "averageConfidence": 0.8425,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "3 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "1 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "lesson",
+    "headings": [
+      "Hello!",
+      "Starter",
+      "Lesson One Words",
+      "Listen, point and repeat."
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Hello!",
+        "confidence": 0.7556,
+        "bbox": {
+          "x": 0.326667,
+          "y": 0.029101,
+          "width": 0.201333,
+          "height": 0.051323
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Starter",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.053711,
+          "y": 0.039256,
+          "width": 0.186849,
+          "height": 0.03564
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Starter",
+            "confidence": 0.96
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Starter",
+            "confidence": 0.8001
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Lesson One Words",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.05599,
+          "y": 0.097107,
+          "width": 0.240234,
+          "height": 0.03125
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Lesson One Words",
+            "confidence": 0.9533
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Lesson One Words",
+            "confidence": 0.8993
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "Listen, point and repeat.",
+        "confidence": 0.8916,
+        "bbox": {
+          "x": 0.083333,
+          "y": 0.156085,
+          "width": 0.314667,
+          "height": 0.020635
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listen, point and repeat.",
+            "confidence": 0.8916
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Listen, point and repeat. © «:",
+            "confidence": 0.8929
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "audio_track",
+        "content": "03",
+        "confidence": 0.666,
+        "bbox": {
+          "x": 0.434,
+          "y": 0.161905,
+          "width": 0.018,
+          "height": 0.011111
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0007",
+        "type": "audio_track",
+        "content": "04",
+        "confidence": 0.5831,
+        "bbox": {
+          "x": 0.343333,
+          "y": 0.197354,
+          "width": 0.016667,
+          "height": 0.010582
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0008",
+        "type": "instruction",
+        "content": "Point and say. Stick the stickers.",
+        "confidence": 0.9537,
+        "bbox": {
+          "x": 0.078,
+          "y": 0.341799,
+          "width": 0.412667,
+          "height": 0.020635
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Point and say. Stick the stickers.",
+            "confidence": 0.9537
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Point and say. Stick the stickers. 9",
+            "confidence": 0.86
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "paragraph",
+        "content": "4 Starter Unit Rosy, Tim, Billy, hello, goodbye",
+        "confidence": 0.9275,
+        "bbox": {
+          "x": 0.027669,
+          "y": 0.96875,
+          "width": 0.434245,
+          "height": 0.014979
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 Starter Unit Rosy, Tim, Billy, hello, goodbye",
+            "confidence": 0.9275
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Starter Unit",
+            "confidence": 0.8183
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Rosy. Tim, Billy. hello, goodbye",
+            "confidence": 0.8884
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Hello!",
+      "Starter",
+      "Lesson One Words",
+      "Listen, point and repeat.",
+      "Point and say. Stick the stickers.",
+      "4 Starter Unit Rosy, Tim, Billy, hello, goodbye"
+    ],
+    "paragraphs": [
+      "4 Starter Unit Rosy, Tim, Billy, hello, goodbye"
+    ],
+    "sentences": [
+      "Hello",
+      "Starter Lesson One Words Listen, point and repeat",
+      "Point and say",
+      "Stick the stickers",
+      "4 Starter Unit Rosy, Tim, Billy, hello, goodbye"
+    ],
+    "vocabulary": [
+      {
+        "word": "Rosy",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "Tim",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "Billy",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "hello",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      },
+      {
+        "word": "goodbye",
+        "confidence": 0.99,
+        "bbox": null,
+        "evidence": "pdf_verified"
+      }
+    ],
+    "grammar": [],
+    "dialogues": [],
+    "exercises": [],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [],
+    "excludedGarbage": [
+      "2 Listen and chant. ©:"
+    ]
+  },
+  "learningContent": {
+    "pageType": "lesson",
+    "title": "Hello!",
+    "learningObjectives": [],
+    "targetVocabulary": [
+      {
+        "word": "Rosy",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "Tim",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "Billy",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "hello",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      },
+      {
+        "word": "goodbye",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.99,
+        "sourceElementIds": []
+      }
+    ],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [],
+    "reading": [],
+    "exercises": [],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "3 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "1 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "1 garbage string(s) excluded"
+    ],
+    "verifiedAgainstPdf": true,
+    "repairStats": {
+      "garbageExcluded": 2,
+      "vocabPdfVerified": 1
+    },
+    "averageOcrConfidence": 0.8425,
+    "verificationMethod": "independent_ocr_crosscheck"
+  },
+  "metadata": {
+    "book": "Family and Friends Starter Class Book (American)",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_starter_v1",
+    "verificationMethod": "independent_ocr_crosscheck",
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

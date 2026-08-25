@@ -1,0 +1,3015 @@
+{
+  "pageNumber": 123,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 130,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 2_Part6.pdf",
+    "pdfLocalPageNumber": 15,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "12",
+        "confidence": 0.6645,
+        "bbox": {
+          "x": 0.864667,
+          "y": 0.01185,
+          "width": 0.038667,
+          "height": 0.02679
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.827843,
+          "y": 0.01697,
+          "width": 0.030196,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "unit",
+            "confidence": 0.7976
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "unit",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "PF] Listening An interview with an athlete",
+        "confidence": 0.8543,
+        "bbox": {
+          "x": 0.017647,
+          "y": 0.078182,
+          "width": 0.564706,
+          "height": 0.025152
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "PF] Listening An interview with an athlete",
+            "confidence": 0.8543
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listening An interviewwith an athlete",
+            "confidence": 0.8918
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "A Listen to an interview with Suzanne, a marathon runner. Check ()",
+        "confidence": 0.9053,
+        "bbox": {
+          "x": 0.06,
+          "y": 0.113344,
+          "width": 0.512667,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A  Listen to an interview with Suzanne, a marathon runner. Check ()",
+            "confidence": 0.9053
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A ©) Listen to an interview with Suzanne, a marathon runner. Check (/)",
+            "confidence": 0.8746
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "heading",
+        "content": "the two dreams she’s achieved.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.085098,
+          "y": 0.134545,
+          "width": 0.215294,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "the two dreams she's achieved.",
+            "confidence": 0.9231
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "the two dreams she’s achieved.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "[_] to run marathons",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.084706,
+          "y": 0.155455,
+          "width": 0.139608,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Itorunmarathons",
+            "confidence": 0.8491
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "[_] to run marathons",
+            "confidence": 0.9
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "togobacktoschool",
+        "confidence": 0.9029,
+        "bbox": {
+          "x": 0.098667,
+          "y": 0.174652,
+          "width": 0.145333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "togobacktoschool",
+            "confidence": 0.9029
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "[_] to go back to school",
+            "confidence": 0.825
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "paragraph",
+        "content": "[_] to win the Chicago Marathon",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.084706,
+          "y": 0.197273,
+          "width": 0.214902,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "[_] to win the Chicago Marathon",
+            "confidence": 0.94
+          },
+          {
+            "engine": "rapidocr",
+            "content": "towintheChicagoMarathon",
+            "confidence": 0.9129
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "torunall thebigmarathons",
+        "confidence": 0.9086,
+        "bbox": {
+          "x": 0.098667,
+          "y": 0.217414,
+          "width": 0.197333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "torunall thebigmarathons",
+            "confidence": 0.9086
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "[_] to run all the big marathons",
+            "confidence": 0.8129
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "instruction",
+        "content": "Listen again.Circle the correct answers.",
+        "confidence": 0.9172,
+        "bbox": {
+          "x": 0.076,
+          "y": 0.242658,
+          "width": 0.309333,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listen again.Circle the correct answers.",
+            "confidence": 0.9172
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B (Listen again. Circle the correct answers.",
+            "confidence": 0.8186
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "SUZ",
+        "confidence": 0.6788,
+        "bbox": {
+          "x": 0.703333,
+          "y": 0.253993,
+          "width": 0.049333,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0012",
+        "type": "sentence",
+        "content": "This is Suzanne’s fifth / seventh marathon.",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.108235,
+          "y": 0.267273,
+          "width": 0.286667,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "ThisisSuzanne'sfifth/seventhmarathon.",
+            "confidence": 0.9262
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "This is Suzanne’s fifth / seventh marathon.",
+            "confidence": 0.94
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "ao & W N fF",
+        "confidence": 0.572,
+        "bbox": {
+          "x": 0.084706,
+          "y": 0.268788,
+          "width": 0.012549,
+          "height": 0.091818
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "She won / didn’t win the Boston Marathon.",
+        "confidence": 0.9463,
+        "bbox": {
+          "x": 0.10902,
+          "y": 0.288182,
+          "width": 0.28902,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Shewon/didn'twintheBostonMarathon.",
+            "confidence": 0.9314
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "She won / didn’t win the Boston Marathon.",
+            "confidence": 0.9463
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "She finished first / last in her first race in high school.",
+        "confidence": 0.9542,
+        "bbox": {
+          "x": 0.109412,
+          "y": 0.307879,
+          "width": 0.354902,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "She finished first / last in her first race in high school.",
+            "confidence": 0.9542
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Shefinished first/last inherfirst raceinhighschool.",
+            "confidence": 0.9032
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "12830",
+        "confidence": 0.8301,
+        "bbox": {
+          "x": 0.693333,
+          "y": 0.308089,
+          "width": 0.073333,
+          "height": 0.026275
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "sentence",
+        "content": "At age 39 / 43, she decided to make some changes in her life.",
+        "confidence": 0.9529,
+        "bbox": {
+          "x": 0.108235,
+          "y": 0.33,
+          "width": 0.406667,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Atage39/43,shedecided tomakesomechanges inherlife.",
+            "confidence": 0.9251
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "At age 39 / 43, she decided to make some changes in her life.",
+            "confidence": 0.9529
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "2008BOSTO",
+        "confidence": 0.874,
+        "bbox": {
+          "x": 0.708,
+          "y": 0.335909,
+          "width": 0.055333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "sentence",
+        "content": "The most difficult thing for her was the training / stress.",
+        "confidence": 0.9545,
+        "bbox": {
+          "x": 0.10902,
+          "y": 0.350909,
+          "width": 0.374902,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Themost difficult thingforherwasthetraining/stress.",
+            "confidence": 0.9261
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "The most difficult thing for her was the training / stress.",
+            "confidence": 0.9545
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "paragraph",
+        "content": "Eq Writing A dream come true",
+        "confidence": 0.855,
+        "bbox": {
+          "x": 0.018431,
+          "y": 0.377576,
+          "width": 0.42549,
+          "height": 0.024848
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Eq Writing A dream come true",
+            "confidence": 0.855
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Writing A dream cometrue",
+            "confidence": 0.8355
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "sentence",
+        "content": "A Think of a dream that came true for you. Answer the questions.",
+        "confidence": 0.9008,
+        "bbox": {
+          "x": 0.063137,
+          "y": 0.415455,
+          "width": 0.459216,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Think of a dream that came true for you.Answerthe questions.",
+            "confidence": 0.8857
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Think of a dream that came true for you. Answer the questions.",
+            "confidence": 0.9008
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "sentence",
+        "content": "How did your dream come true?",
+        "confidence": 0.915,
+        "bbox": {
+          "x": 0.596667,
+          "y": 0.434827,
+          "width": 0.220667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "How did your dream come true?",
+            "confidence": 0.915
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "@ What was your dream? @ Whywasita dream for you? @ Howdid your dream come true?",
+            "confidence": 0.8075
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "What was your dream?",
+        "confidence": 0.8655,
+        "bbox": {
+          "x": 0.106,
+          "y": 0.435343,
+          "width": 0.156667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "sentence",
+        "content": "Why was it a dream for you?",
+        "confidence": 0.8743,
+        "bbox": {
+          "x": 0.334,
+          "y": 0.435858,
+          "width": 0.191333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "sentence",
+        "content": "B Write about your dream. Use the model and your answers in Part A to help you.",
+        "confidence": 0.9447,
+        "bbox": {
+          "x": 0.064314,
+          "y": 0.464545,
+          "width": 0.567843,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B Writeaboutyourdream.Usethemodel andyouranswers inPartAtohelpyou.",
+            "confidence": 0.9239
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Write about your dream. Use the model and your answers in Part A to help you.",
+            "confidence": 0.9447
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "My Dream",
+        "confidence": 0.8225,
+        "bbox": {
+          "x": 0.086667,
+          "y": 0.515198,
+          "width": 0.08,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "My Me Dee EE Ee nea ea ST a Are Se a ears Eo ka",
+            "confidence": 0.2693
+          },
+          {
+            "engine": "rapidocr",
+            "content": "My Dream",
+            "confidence": 0.8225
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "paragraph",
+        "content": "My dream was to study Mexican cooking in OaxacaI loyed to cook,but",
+        "confidence": 0.881,
+        "bbox": {
+          "x": 0.086,
+          "y": 0.53117,
+          "width": 0.491333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "My dream was to study Mexican cooking in OaxacaI loyed to cook,but",
+            "confidence": 0.881
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "__My dream was to stud,",
+            "confidence": 0.616
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "/ wasn't a very good cook. So | went to Oaxaca to study Mexican eatin,",
+            "confidence": 0.7707
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "sentence",
+        "content": "I wasn't a yery good cook.So I went to Oaxaca to study Mexican cooking",
+        "confidence": 0.8861,
+        "bbox": {
+          "x": 0.086667,
+          "y": 0.547656,
+          "width": 0.499333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "sentence",
+        "content": "I tooka two-week class.It was a dream come true,Now Lcan make",
+        "confidence": 0.848,
+        "bbox": {
+          "x": 0.087333,
+          "y": 0.564657,
+          "width": 0.468,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "___| took a two-week class. It was a dream come true. Now | can make",
+            "confidence": 0.5453
+          },
+          {
+            "engine": "rapidocr",
+            "content": "I tooka two-week class.It was a dream come true,Now Lcan make",
+            "confidence": 0.848
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "paidinigs x OES",
+        "confidence": 0.1933,
+        "bbox": {
+          "x": 0.429412,
+          "y": 0.57303,
+          "width": 0.185098,
+          "height": 0.020303
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0031",
+        "type": "sentence",
+        "content": "great meals.Who knows? I might become a chef someday",
+        "confidence": 0.8704,
+        "bbox": {
+          "x": 0.086667,
+          "y": 0.578568,
+          "width": 0.388,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "ee —",
+        "confidence": 0.57,
+        "bbox": {
+          "x": 0.454118,
+          "y": 0.602727,
+          "width": 0.160392,
+          "height": 0.007879
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0033",
+        "type": "heading",
+        "content": "GRouPwoRkShareyourwriting.Askandanswerquestionsformoreinformation.",
+        "confidence": 0.9045,
+        "bbox": {
+          "x": 0.086,
+          "y": 0.623905,
+          "width": 0.574667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "GRouPwoRkShareyourwriting.Askandanswerquestionsformoreinformation.",
+            "confidence": 0.9045
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "C POUT Share your writing. Ask and answer questions for more information.",
+            "confidence": 0.8758
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "heading",
+        "content": "Speaking Dream planner",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.06549,
+          "y": 0.654545,
+          "width": 0.352549,
+          "height": 0.022424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Speaking Dream planner",
+            "confidence": 0.8968
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Speaking Dream planner",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "paragraph",
+        "content": "A Complete the chart with a dream for the future. Then add three things you’ll need to do to achieve it.",
+        "confidence": 0.9467,
+        "bbox": {
+          "x": 0.064314,
+          "y": 0.690303,
+          "width": 0.721569,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Complete the chart with a dream for the future.Then add three things you'll need to do to achieve it.",
+            "confidence": 0.9021
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Complete the chart with a dream for the future. Then add three things you’ll need to do to achieve it.",
+            "confidence": 0.9467
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "MyDream",
+        "confidence": 0.7865,
+        "bbox": {
+          "x": 0.069333,
+          "y": 0.714065,
+          "width": 0.073333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "HowI'llmakeithappen",
+        "confidence": 0.9121,
+        "bbox": {
+          "x": 0.37,
+          "y": 0.714065,
+          "width": 0.169333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "HowI'llmakeithappen",
+            "confidence": 0.9121
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My Dream How I'll make it happen:",
+            "confidence": 0.7686
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "sentence",
+        "content": "B Tell your group about your dream and how you’ll achieve it.",
+        "confidence": 0.935,
+        "bbox": {
+          "x": 0.066275,
+          "y": 0.808788,
+          "width": 0.537255,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "GRoup woRk Tell your group about yourdream and how you'll achieve it.",
+            "confidence": 0.8736
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Tell your group about your dream and how you’ll achieve it.",
+            "confidence": 0.935
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "dialogue_line",
+        "content": "A: My dream is to start my own business someday.",
+        "confidence": 0.952,
+        "bbox": {
+          "x": 0.088235,
+          "y": 0.830909,
+          "width": 0.38902,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: My dream is to start my own business someday.",
+            "confidence": 0.8778
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: My dream is to start my own business someday.",
+            "confidence": 0.952
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "dialogue_line",
+        "content": "B: That's a great dream. How will you make it happen?",
+        "confidence": 0.9264,
+        "bbox": {
+          "x": 0.08902,
+          "y": 0.852727,
+          "width": 0.402353,
+          "height": 0.014848
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B: That's a great dream. How will you make it happen?",
+            "confidence": 0.8983
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: That's a great dream. How will you make it happen?",
+            "confidence": 0.9264
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "dialogue_line",
+        "content": "A: Well, first I'll go back to school. Then I'll get a job to get some experience.",
+        "confidence": 0.9161,
+        "bbox": {
+          "x": 0.086,
+          "y": 0.873261,
+          "width": 0.564,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: Well, first I'll go back to school. Then I'll get a job to get some experience.",
+            "confidence": 0.9161
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: Well, first I'll go back to school. Then I'll get a job to get some experience.",
+            "confidence": 0.8994
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0042",
+        "type": "label",
+        "content": "123",
+        "confidence": 0.6519,
+        "bbox": {
+          "x": 0.884,
+          "y": 0.938691,
+          "width": 0.028667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0043",
+        "type": "sentence",
+        "content": "| can discuss my dreams for the future. 5)",
+        "confidence": 0.8778,
+        "bbox": {
+          "x": 0.582353,
+          "y": 0.94303,
+          "width": 0.272549,
+          "height": 0.018485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "| can discuss my dreams for the future. 5)",
+            "confidence": 0.8778
+          },
+          {
+            "engine": "rapidocr",
+            "content": "I candiscussmydreamsforthefuture.",
+            "confidence": 0.9324
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "togobacktoschool",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.098667,
+          "y": 0.174652,
+          "width": 0.145333,
+          "height": 0.014426
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.9029
+      },
+      {
+        "word": "torunall thebigmarathons",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.098667,
+          "y": 0.217414,
+          "width": 0.197333,
+          "height": 0.013395
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.9086
+      },
+      {
+        "word": "SUZ",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.703333,
+          "y": 0.253993,
+          "width": 0.049333,
+          "height": 0.018032
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.6788
+      },
+      {
+        "word": "My Dream",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.086667,
+          "y": 0.515198,
+          "width": 0.08,
+          "height": 0.01391
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8225
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "She won / didn’t win the Boston Marathon.",
+            "confidence": 0.9463,
+            "bbox": {
+              "x": 0.10902,
+              "y": 0.288182,
+              "width": 0.28902,
+              "height": 0.011515
+            },
+            "sourceElementId": "text_0014",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "She finished first / last in her first race in high school.",
+            "confidence": 0.9542,
+            "bbox": {
+              "x": 0.109412,
+              "y": 0.307879,
+              "width": 0.354902,
+              "height": 0.014242
+            },
+            "sourceElementId": "text_0015",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "How did your dream come true?",
+            "confidence": 0.915,
+            "bbox": {
+              "x": 0.596667,
+              "y": 0.434827,
+              "width": 0.220667,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0022",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "What was your dream?",
+            "confidence": 0.8655,
+            "bbox": {
+              "x": 0.106,
+              "y": 0.435343,
+              "width": 0.156667,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0023",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I wasn't a yery good cook.So I went to Oaxaca to study Mexican cooking",
+            "confidence": 0.8861,
+            "bbox": {
+              "x": 0.086667,
+              "y": 0.547656,
+              "width": 0.499333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0028",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I tooka two-week class.It was a dream come true,Now Lcan make",
+            "confidence": 0.848,
+            "bbox": {
+              "x": 0.087333,
+              "y": 0.564657,
+              "width": 0.468,
+              "height": 0.010304
+            },
+            "sourceElementId": "text_0029",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "A: My dream is to start my own business someday.",
+            "confidence": 0.952,
+            "bbox": {
+              "x": 0.088235,
+              "y": 0.830909,
+              "width": 0.38902,
+              "height": 0.01303
+            },
+            "sourceElementId": "text_0039",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "B: That's a great dream. How will you make it happen?",
+            "confidence": 0.9264,
+            "bbox": {
+              "x": 0.08902,
+              "y": 0.852727,
+              "width": 0.402353,
+              "height": 0.014848
+            },
+            "sourceElementId": "text_0040",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "A: Well, first I'll go back to school. Then I'll get a job to get some experience.",
+            "confidence": 0.9161,
+            "bbox": {
+              "x": 0.086,
+              "y": 0.873261,
+              "width": 0.564,
+              "height": 0.015971
+            },
+            "sourceElementId": "text_0041",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Dialogue-like text was detected; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "selection_exercise",
+        "instruction": "Listen to an interview with Suzanne, a marathon runner. Check ()",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0004"
+        ],
+        "confidence": 0.9053
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "exercise",
+        "instruction": "Think of a dream that came true for you. Answer the questions.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0021"
+        ],
+        "confidence": 0.9008
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "writing_activity",
+        "instruction": "Write about your dream. Use the model and your answers in Part A to help you.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0025"
+        ],
+        "confidence": 0.9447
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "writing_activity",
+        "instruction": "Complete the chart with a dream for the future. Then add three things you’ll need to do to achieve it.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0035"
+        ],
+        "confidence": 0.9467
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "exercise",
+        "instruction": "Tell your group about your dream and how you’ll achieve it.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0038"
+        ],
+        "confidence": 0.935
+      }
+    ],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "torunall thebigmarathons",
+          "Listen again.Circle the correct answers.",
+          "SUZ",
+          "This is Suzanne’s fifth / seventh marathon.",
+          "ao & W N fF",
+          "She won / didn’t win the Boston Marathon.",
+          "She finished first / last in her first race in high school.",
+          "12830",
+          "At age 39 / 43, she decided to make some changes in her life.",
+          "2008BOSTO",
+          "The most difficult thing for her was the training / stress.",
+          "Eq Writing A dream come true",
+          "A Think of a dream that came true for you. Answer the questions.",
+          "How did your dream come true?",
+          "What was your dream?",
+          "Why was it a dream for you?"
+        ],
+        "position": {
+          "x": 0,
+          "y": 0.197414,
+          "width": 0.837334,
+          "height": 0.272355
+        },
+        "textElementIds": [
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "12\nunit\nListening An interviewwith an athlete\nA  Listen to an interview with Suzanne, a marathon runner. Check ()\nthe two dreams she's achieved.\nItorunmarathons\ntogobacktoschool\ntowintheChicagoMarathon\ntorunall thebigmarathons\nListen again.Circle the correct answers.\nSUZ\nThisisSuzanne'sfifth/seventhmarathon.\nShewon/didn'twintheBostonMarathon.\nShefinished first/last inherfirst raceinhighschool.\n12830\nAtage39/43,shedecided tomakesomechanges inherlife.\n2008BOSTO\nThemost difficult thingforherwasthetraining/stress.\nWriting A dream cometrue\nA Think of a dream that came true for you.Answerthe questions.\nHow did your dream come true?\nWhat was your dream?\nWhy was it a dream for you?\nB Writeaboutyourdream.Usethemodel andyouranswers inPartAtohelpyou.\nMy Dream\nMy dream was to study Mexican cooking in OaxacaI loyed to cook,but\nI wasn't a yery good cook.So I went to Oaxaca to study Mexican cooking\nI tooka two-week class.It was a dream come true,Now Lcan make\ngreat meals.Who knows? I might become a chef someday\nGRouPwoRkShareyourwriting.Askandanswerquestionsformoreinformation.\nSpeaking Dream planner\nA Complete the chart with a dream for the future.Then add three things you'll need to do to achieve it.\nMyDream\nHowI'llmakeithappen\nGRoup woRk Tell your group about yourdream and how you'll achieve it.\nA: My dream is to start my own business someday.\nB: That's a great dream. How will you make it happen?\nA: Well, first I'll go back to school. Then I'll get a job to get some experience.\n123\nI candiscussmydreamsforthefuture.\ndehkhodaedu.com",
+      "tesseract_psm3": "unit\n\nPF] Listening An interview with an athlete\nA ©) Listen to an interview with Suzanne, a marathon runner. Check (/)\nthe two dreams she’s achieved.\n[_] to run marathons\n[_] to go back to school\n[_] to win the Chicago Marathon\n[_] to run all the big marathons\n\nB (Listen again. Circle the correct answers.\n\nThis is Suzanne’s fifth / seventh marathon.\n\nShe won / didn’t win the Boston Marathon.\n\nShe finished first / last in her first race in high school.\n\nAt age 39 / 43, she decided to make some changes in her life.\n\nao & W N fF\n\nThe most difficult thing for her was the training / stress.\n\nEq Writing A dream come true\n\nA Think of a dream that came true for you. Answer the questions.\n\n@ What was your dream? @ Whywasita dream for you? @ Howdid your dream come true?\n\nB Write about your dream. Use the model and your answers in Part A to help you.\n\nMy Me Dee EE Ee nea ea ST a Are Se a ears Eo ka\n__My dream was to stud,\n\n/ wasn't a very good cook. So | went to Oaxaca to study Mexican eatin,\n___| took a two-week class. It was a dream come true. Now | can make\n\npaidinigs x OES\n\nee —\n\nC POUT Share your writing. Ask and answer questions for more information.\n\nSpeaking Dream planner\n\nA Complete the chart with a dream for the future. Then add three things you’ll need to do to achieve it.\n\nMy Dream How I'll make it happen:\n\nB Tell your group about your dream and how you’ll achieve it.\nA: My dream is to start my own business someday.\nB: That's a great dream. How will you make it happen?\nA: Well, first I'll go back to school. Then I'll get a job to get some experience.\n\n| can discuss my dreams for the future. 5)\n\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8564,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "7 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "lesson",
+    "headings": [
+      "unit",
+      "PF] Listening An interview with an athlete",
+      "A Listen to an interview with Suzanne, a marathon runner. Check ()",
+      "the two dreams she's achieved.",
+      "GRou Pwo Rk Shareyourwriting. Askandanswerquestionsformoreinformation.",
+      "Speaking Dream planner"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "audio_track",
+        "content": "12",
+        "confidence": 0.6645,
+        "bbox": {
+          "x": 0.864667,
+          "y": 0.01185,
+          "width": 0.038667,
+          "height": 0.02679
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "unit",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.827843,
+          "y": 0.01697,
+          "width": 0.030196,
+          "height": 0.009697
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "unit",
+            "confidence": 0.7976
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "unit",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "PF] Listening An interview with an athlete",
+        "confidence": 0.8543,
+        "bbox": {
+          "x": 0.017647,
+          "y": 0.078182,
+          "width": 0.564706,
+          "height": 0.025152
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "PF] Listening An interview with an athlete",
+            "confidence": 0.8543
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listening An interviewwith an athlete",
+            "confidence": 0.8918
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "heading",
+        "content": "A Listen to an interview with Suzanne, a marathon runner. Check ()",
+        "confidence": 0.9053,
+        "bbox": {
+          "x": 0.06,
+          "y": 0.113344,
+          "width": 0.512667,
+          "height": 0.017002
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A  Listen to an interview with Suzanne, a marathon runner. Check ()",
+            "confidence": 0.9053
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A ©) Listen to an interview with Suzanne, a marathon runner. Check (/)",
+            "confidence": 0.8746
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "heading",
+        "content": "the two dreams she's achieved.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.085098,
+          "y": 0.134545,
+          "width": 0.215294,
+          "height": 0.01
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "the two dreams she's achieved.",
+            "confidence": 0.9231
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "the two dreams she’s achieved.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "[_] to run marathons",
+        "confidence": 0.9,
+        "bbox": {
+          "x": 0.084706,
+          "y": 0.155455,
+          "width": 0.139608,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Itorunmarathons",
+            "confidence": 0.8491
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "[_] to run marathons",
+            "confidence": 0.9
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "togobacktoschool",
+        "confidence": 0.9029,
+        "bbox": {
+          "x": 0.098667,
+          "y": 0.174652,
+          "width": 0.145333,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "togobacktoschool",
+            "confidence": 0.9029
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "[_] to go back to school",
+            "confidence": 0.825
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "paragraph",
+        "content": "[_] to win the Chicago Marathon",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.084706,
+          "y": 0.197273,
+          "width": 0.214902,
+          "height": 0.013333
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "[_] to win the Chicago Marathon",
+            "confidence": 0.94
+          },
+          {
+            "engine": "rapidocr",
+            "content": "towintheChicagoMarathon",
+            "confidence": 0.9129
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "label",
+        "content": "torunall thebigmarathons",
+        "confidence": 0.9086,
+        "bbox": {
+          "x": 0.098667,
+          "y": 0.217414,
+          "width": 0.197333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "torunall thebigmarathons",
+            "confidence": 0.9086
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "[_] to run all the big marathons",
+            "confidence": 0.8129
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "instruction",
+        "content": "Listen again. Circle the correct answers.",
+        "confidence": 0.9172,
+        "bbox": {
+          "x": 0.076,
+          "y": 0.242658,
+          "width": 0.309333,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Listen again.Circle the correct answers.",
+            "confidence": 0.9172
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B (Listen again. Circle the correct answers.",
+            "confidence": 0.8186
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "SUZ",
+        "confidence": 0.6788,
+        "bbox": {
+          "x": 0.703333,
+          "y": 0.253993,
+          "width": 0.049333,
+          "height": 0.018032
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0012",
+        "type": "sentence",
+        "content": "This is Suzanne's fifth / seventh marathon.",
+        "confidence": 0.94,
+        "bbox": {
+          "x": 0.108235,
+          "y": 0.267273,
+          "width": 0.286667,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "ThisisSuzanne'sfifth/seventhmarathon.",
+            "confidence": 0.9262
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "This is Suzanne’s fifth / seventh marathon.",
+            "confidence": 0.94
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "ao & W N f F",
+        "confidence": 0.572,
+        "bbox": {
+          "x": 0.084706,
+          "y": 0.268788,
+          "width": 0.012549,
+          "height": 0.091818
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0014",
+        "type": "sentence",
+        "content": "She won / didn't win the Boston Marathon.",
+        "confidence": 0.9463,
+        "bbox": {
+          "x": 0.10902,
+          "y": 0.288182,
+          "width": 0.28902,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Shewon/didn'twintheBostonMarathon.",
+            "confidence": 0.9314
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "She won / didn’t win the Boston Marathon.",
+            "confidence": 0.9463
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "sentence",
+        "content": "She finished first / last in her first race in high school.",
+        "confidence": 0.9542,
+        "bbox": {
+          "x": 0.109412,
+          "y": 0.307879,
+          "width": 0.354902,
+          "height": 0.014242
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "She finished first / last in her first race in high school.",
+            "confidence": 0.9542
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Shefinished first/last inherfirst raceinhighschool.",
+            "confidence": 0.9032
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "sentence",
+        "content": "At age 39 / 43, she decided to make some changes in her life.",
+        "confidence": 0.9529,
+        "bbox": {
+          "x": 0.108235,
+          "y": 0.33,
+          "width": 0.406667,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Atage39/43,shedecided tomakesomechanges inherlife.",
+            "confidence": 0.9251
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "At age 39 / 43, she decided to make some changes in her life.",
+            "confidence": 0.9529
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "2008BOSTO",
+        "confidence": 0.874,
+        "bbox": {
+          "x": 0.708,
+          "y": 0.335909,
+          "width": 0.055333,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "sentence",
+        "content": "The most difficult thing for her was the training / stress.",
+        "confidence": 0.9545,
+        "bbox": {
+          "x": 0.10902,
+          "y": 0.350909,
+          "width": 0.374902,
+          "height": 0.012424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Themost difficult thingforherwasthetraining/stress.",
+            "confidence": 0.9261
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "The most difficult thing for her was the training / stress.",
+            "confidence": 0.9545
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "paragraph",
+        "content": "Eq Writing A dream come true",
+        "confidence": 0.855,
+        "bbox": {
+          "x": 0.018431,
+          "y": 0.377576,
+          "width": 0.42549,
+          "height": 0.024848
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Eq Writing A dream come true",
+            "confidence": 0.855
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Writing A dream cometrue",
+            "confidence": 0.8355
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "sentence",
+        "content": "A Think of a dream that came true for you. Answer the questions.",
+        "confidence": 0.9008,
+        "bbox": {
+          "x": 0.063137,
+          "y": 0.415455,
+          "width": 0.459216,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Think of a dream that came true for you.Answerthe questions.",
+            "confidence": 0.8857
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Think of a dream that came true for you. Answer the questions.",
+            "confidence": 0.9008
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "sentence",
+        "content": "How did your dream come true?",
+        "confidence": 0.915,
+        "bbox": {
+          "x": 0.596667,
+          "y": 0.434827,
+          "width": 0.220667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "How did your dream come true?",
+            "confidence": 0.915
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "@ What was your dream? @ Whywasita dream for you? @ Howdid your dream come true?",
+            "confidence": 0.8075
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "What was your dream?",
+        "confidence": 0.8655,
+        "bbox": {
+          "x": 0.106,
+          "y": 0.435343,
+          "width": 0.156667,
+          "height": 0.014426
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "sentence",
+        "content": "Why was it a dream for you?",
+        "confidence": 0.8743,
+        "bbox": {
+          "x": 0.334,
+          "y": 0.435858,
+          "width": 0.191333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "sentence",
+        "content": "B Write about your dream. Use the model and your answers in Part A to help you.",
+        "confidence": 0.9447,
+        "bbox": {
+          "x": 0.064314,
+          "y": 0.464545,
+          "width": 0.567843,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B Writeaboutyourdream.Usethemodel andyouranswers inPartAtohelpyou.",
+            "confidence": 0.9239
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Write about your dream. Use the model and your answers in Part A to help you.",
+            "confidence": 0.9447
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "label",
+        "content": "My Dream",
+        "confidence": 0.8225,
+        "bbox": {
+          "x": 0.086667,
+          "y": 0.515198,
+          "width": 0.08,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "My Me Dee EE Ee nea ea ST a Are Se a ears Eo ka",
+            "confidence": 0.2693
+          },
+          {
+            "engine": "rapidocr",
+            "content": "My Dream",
+            "confidence": 0.8225
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "paragraph",
+        "content": "My dream was to study Mexican cooking in Oaxaca I loyed to cook, but",
+        "confidence": 0.881,
+        "bbox": {
+          "x": 0.086,
+          "y": 0.53117,
+          "width": 0.491333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "My dream was to study Mexican cooking in OaxacaI loyed to cook,but",
+            "confidence": 0.881
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "__My dream was to stud,",
+            "confidence": 0.616
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "/ wasn't a very good cook. So | went to Oaxaca to study Mexican eatin,",
+            "confidence": 0.7707
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "sentence",
+        "content": "I wasn't a yery good cook. So I went to Oaxaca to study Mexican cooking",
+        "confidence": 0.8861,
+        "bbox": {
+          "x": 0.086667,
+          "y": 0.547656,
+          "width": 0.499333,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "sentence",
+        "content": "I tooka two-week class. It was a dream come true, Now Lcan make",
+        "confidence": 0.848,
+        "bbox": {
+          "x": 0.087333,
+          "y": 0.564657,
+          "width": 0.468,
+          "height": 0.010304
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "___| took a two-week class. It was a dream come true. Now | can make",
+            "confidence": 0.5453
+          },
+          {
+            "engine": "rapidocr",
+            "content": "I tooka two-week class.It was a dream come true,Now Lcan make",
+            "confidence": 0.848
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "label",
+        "content": "paidinigs x OES",
+        "confidence": 0.1933,
+        "bbox": {
+          "x": 0.429412,
+          "y": 0.57303,
+          "width": 0.185098,
+          "height": 0.020303
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0031",
+        "type": "sentence",
+        "content": "great meals. Who knows? I might become a chef someday",
+        "confidence": 0.8704,
+        "bbox": {
+          "x": 0.086667,
+          "y": 0.578568,
+          "width": 0.388,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0032",
+        "type": "label",
+        "content": "ee",
+        "confidence": 0.57,
+        "bbox": {
+          "x": 0.454118,
+          "y": 0.602727,
+          "width": 0.160392,
+          "height": 0.007879
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0033",
+        "type": "heading",
+        "content": "GRou Pwo Rk Shareyourwriting. Askandanswerquestionsformoreinformation.",
+        "confidence": 0.9045,
+        "bbox": {
+          "x": 0.086,
+          "y": 0.623905,
+          "width": 0.574667,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "GRouPwoRkShareyourwriting.Askandanswerquestionsformoreinformation.",
+            "confidence": 0.9045
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "C POUT Share your writing. Ask and answer questions for more information.",
+            "confidence": 0.8758
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0034",
+        "type": "heading",
+        "content": "Speaking Dream planner",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.06549,
+          "y": 0.654545,
+          "width": 0.352549,
+          "height": 0.022424
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Speaking Dream planner",
+            "confidence": 0.8968
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Speaking Dream planner",
+            "confidence": 0.9533
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0035",
+        "type": "paragraph",
+        "content": "A Complete the chart with a dream for the future. Then add three things you'll need to do to achieve it.",
+        "confidence": 0.9467,
+        "bbox": {
+          "x": 0.064314,
+          "y": 0.690303,
+          "width": 0.721569,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Complete the chart with a dream for the future.Then add three things you'll need to do to achieve it.",
+            "confidence": 0.9021
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Complete the chart with a dream for the future. Then add three things you’ll need to do to achieve it.",
+            "confidence": 0.9467
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0036",
+        "type": "label",
+        "content": "My Dream",
+        "confidence": 0.7865,
+        "bbox": {
+          "x": 0.069333,
+          "y": 0.714065,
+          "width": 0.073333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0037",
+        "type": "label",
+        "content": "How I'll makeithappen",
+        "confidence": 0.9121,
+        "bbox": {
+          "x": 0.37,
+          "y": 0.714065,
+          "width": 0.169333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "HowI'llmakeithappen",
+            "confidence": 0.9121
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My Dream How I'll make it happen:",
+            "confidence": 0.7686
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0038",
+        "type": "sentence",
+        "content": "B Tell your group about your dream and how you'll achieve it.",
+        "confidence": 0.935,
+        "bbox": {
+          "x": 0.066275,
+          "y": 0.808788,
+          "width": 0.537255,
+          "height": 0.012727
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "GRoup woRk Tell your group about yourdream and how you'll achieve it.",
+            "confidence": 0.8736
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B Tell your group about your dream and how you’ll achieve it.",
+            "confidence": 0.935
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0039",
+        "type": "dialogue_line",
+        "content": "A: My dream is to start my own business someday.",
+        "confidence": 0.952,
+        "bbox": {
+          "x": 0.088235,
+          "y": 0.830909,
+          "width": 0.38902,
+          "height": 0.01303
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: My dream is to start my own business someday.",
+            "confidence": 0.8778
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: My dream is to start my own business someday.",
+            "confidence": 0.952
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0040",
+        "type": "dialogue_line",
+        "content": "B: That's a great dream. How will you make it happen?",
+        "confidence": 0.9264,
+        "bbox": {
+          "x": 0.08902,
+          "y": 0.852727,
+          "width": 0.402353,
+          "height": 0.014848
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B: That's a great dream. How will you make it happen?",
+            "confidence": 0.8983
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B: That's a great dream. How will you make it happen?",
+            "confidence": 0.9264
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0041",
+        "type": "dialogue_line",
+        "content": "A: Well, first I'll go back to school. Then I'll get a job to get some experience.",
+        "confidence": 0.9161,
+        "bbox": {
+          "x": 0.086,
+          "y": 0.873261,
+          "width": 0.564,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A: Well, first I'll go back to school. Then I'll get a job to get some experience.",
+            "confidence": 0.9161
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A: Well, first I'll go back to school. Then I'll get a job to get some experience.",
+            "confidence": 0.8994
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0043",
+        "type": "sentence",
+        "content": "can discuss my dreams for the future. 5)",
+        "confidence": 0.8778,
+        "bbox": {
+          "x": 0.582353,
+          "y": 0.94303,
+          "width": 0.272549,
+          "height": 0.018485
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "| can discuss my dreams for the future. 5)",
+            "confidence": 0.8778
+          },
+          {
+            "engine": "rapidocr",
+            "content": "I candiscussmydreamsforthefuture.",
+            "confidence": 0.9324
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "fullTextReadingOrder": [
+      "unit",
+      "PF] Listening An interview with an athlete",
+      "A Listen to an interview with Suzanne, a marathon runner. Check ()",
+      "the two dreams she's achieved.",
+      "[_] to run marathons",
+      "togobacktoschool",
+      "[_] to win the Chicago Marathon",
+      "torunall thebigmarathons",
+      "Listen again. Circle the correct answers.",
+      "SUZ",
+      "This is Suzanne's fifth / seventh marathon.",
+      "ao & W N f F",
+      "She won / didn't win the Boston Marathon.",
+      "She finished first / last in her first race in high school.",
+      "At age 39 / 43, she decided to make some changes in her life.",
+      "2008BOSTO",
+      "The most difficult thing for her was the training / stress.",
+      "Eq Writing A dream come true",
+      "A Think of a dream that came true for you. Answer the questions.",
+      "How did your dream come true?",
+      "What was your dream?",
+      "Why was it a dream for you?",
+      "B Write about your dream. Use the model and your answers in Part A to help you.",
+      "My Dream",
+      "My dream was to study Mexican cooking in Oaxaca I loyed to cook, but",
+      "I wasn't a yery good cook. So I went to Oaxaca to study Mexican cooking",
+      "I tooka two-week class. It was a dream come true, Now Lcan make",
+      "paidinigs x OES",
+      "great meals. Who knows? I might become a chef someday",
+      "ee",
+      "GRou Pwo Rk Shareyourwriting. Askandanswerquestionsformoreinformation.",
+      "Speaking Dream planner",
+      "A Complete the chart with a dream for the future. Then add three things you'll need to do to achieve it.",
+      "My Dream",
+      "How I'll makeithappen",
+      "B Tell your group about your dream and how you'll achieve it.",
+      "A: My dream is to start my own business someday.",
+      "B: That's a great dream. How will you make it happen?",
+      "A: Well, first I'll go back to school. Then I'll get a job to get some experience.",
+      "can discuss my dreams for the future. 5)"
+    ],
+    "paragraphs": [
+      "[_] to win the Chicago Marathon",
+      "Eq Writing A dream come true",
+      "My dream was to study Mexican cooking in Oaxaca I loyed to cook, but",
+      "A Complete the chart with a dream for the future. Then add three things you'll need to do to achieve it."
+    ],
+    "sentences": [
+      "unit PF] Listening An interview with an athlete A Listen to an interview with Suzanne, a marathon runner",
+      "Check () the two dreams she's achieved",
+      "[_] to run marathons togobacktoschool [_] to win the Chicago Marathon torunall thebigmarathons Listen again",
+      "Circle the correct answers",
+      "SUZ This is Suzanne's fifth / seventh marathon",
+      "ao & W N f F She won / didn't win the Boston Marathon",
+      "She finished first / last in her first race in high school",
+      "At age 39 / 43, she decided to make some changes in her life",
+      "2008BOSTO The most difficult thing for her was the training / stress",
+      "Eq Writing A dream come true A Think of a dream that came true for you",
+      "Answer the questions",
+      "How did your dream come true",
+      "What was your dream",
+      "Why was it a dream for you",
+      "B Write about your dream",
+      "Use the model and your answers in Part A to help you",
+      "My Dream My dream was to study Mexican cooking in Oaxaca I loyed to cook, but I wasn't a yery good cook",
+      "So I went to Oaxaca to study Mexican cooking I tooka two-week class",
+      "It was a dream come true, Now Lcan make paidinigs x OES great meals",
+      "Who knows",
+      "I might become a chef someday ee GRou Pwo Rk Shareyourwriting",
+      "Askandanswerquestionsformoreinformation",
+      "Speaking Dream planner A Complete the chart with a dream for the future",
+      "Then add three things you'll need to do to achieve it",
+      "My Dream How I'll makeithappen B Tell your group about your dream and how you'll achieve it",
+      "A: My dream is to start my own business someday",
+      "B: That's a great dream",
+      "How will you make it happen",
+      "A: Well, first I'll go back to school",
+      "Then I'll get a job to get some experience",
+      "can discuss my dreams for the future",
+      "5)"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "She won / didn't win the Boston Marathon.",
+            "confidence": 0.9463,
+            "bbox": {
+              "x": 0.10902,
+              "y": 0.288182,
+              "width": 0.28902,
+              "height": 0.011515
+            },
+            "sourceElementId": "text_0014"
+          },
+          {
+            "speaker": null,
+            "content": "She finished first / last in her first race in high school.",
+            "confidence": 0.9542,
+            "bbox": {
+              "x": 0.109412,
+              "y": 0.307879,
+              "width": 0.354902,
+              "height": 0.014242
+            },
+            "sourceElementId": "text_0015"
+          },
+          {
+            "speaker": null,
+            "content": "How did your dream come true?",
+            "confidence": 0.915,
+            "bbox": {
+              "x": 0.596667,
+              "y": 0.434827,
+              "width": 0.220667,
+              "height": 0.01391
+            },
+            "sourceElementId": "text_0022"
+          },
+          {
+            "speaker": null,
+            "content": "What was your dream?",
+            "confidence": 0.8655,
+            "bbox": {
+              "x": 0.106,
+              "y": 0.435343,
+              "width": 0.156667,
+              "height": 0.014426
+            },
+            "sourceElementId": "text_0023"
+          },
+          {
+            "speaker": null,
+            "content": "I wasn't a yery good cook.",
+            "confidence": 0.8861,
+            "bbox": {
+              "x": 0.086667,
+              "y": 0.547656,
+              "width": 0.499333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0028"
+          },
+          {
+            "speaker": null,
+            "content": "So I went to Oaxaca to study Mexican cooking",
+            "confidence": 0.8861,
+            "bbox": {
+              "x": 0.086667,
+              "y": 0.547656,
+              "width": 0.499333,
+              "height": 0.013395
+            },
+            "sourceElementId": "text_0028"
+          },
+          {
+            "speaker": null,
+            "content": "I tooka two-week class.",
+            "confidence": 0.848,
+            "bbox": {
+              "x": 0.087333,
+              "y": 0.564657,
+              "width": 0.468,
+              "height": 0.010304
+            },
+            "sourceElementId": "text_0029"
+          },
+          {
+            "speaker": null,
+            "content": "It was a dream come true, Now Lcan make",
+            "confidence": 0.848,
+            "bbox": {
+              "x": 0.087333,
+              "y": 0.564657,
+              "width": 0.468,
+              "height": 0.010304
+            },
+            "sourceElementId": "text_0029"
+          },
+          {
+            "speaker": null,
+            "content": "A: My dream is to start my own business someday.",
+            "confidence": 0.952,
+            "bbox": {
+              "x": 0.088235,
+              "y": 0.830909,
+              "width": 0.38902,
+              "height": 0.01303
+            },
+            "sourceElementId": "text_0039"
+          },
+          {
+            "speaker": null,
+            "content": "B: That's a great dream.",
+            "confidence": 0.9264,
+            "bbox": {
+              "x": 0.08902,
+              "y": 0.852727,
+              "width": 0.402353,
+              "height": 0.014848
+            },
+            "sourceElementId": "text_0040"
+          },
+          {
+            "speaker": null,
+            "content": "How will you make it happen?",
+            "confidence": 0.9264,
+            "bbox": {
+              "x": 0.08902,
+              "y": 0.852727,
+              "width": 0.402353,
+              "height": 0.014848
+            },
+            "sourceElementId": "text_0040"
+          },
+          {
+            "speaker": null,
+            "content": "A: Well, first I'll go back to school.",
+            "confidence": 0.9161,
+            "bbox": {
+              "x": 0.086,
+              "y": 0.873261,
+              "width": 0.564,
+              "height": 0.015971
+            },
+            "sourceElementId": "text_0041"
+          },
+          {
+            "speaker": null,
+            "content": "Then I'll get a job to get some experience.",
+            "confidence": 0.9161,
+            "bbox": {
+              "x": 0.086,
+              "y": 0.873261,
+              "width": 0.564,
+              "height": 0.015971
+            },
+            "sourceElementId": "text_0041"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen to an interview with Suzanne, a marathon runner. Check ()",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "true_false",
+        "instruction": "Think of a dream that came true for you. Answer the questions.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "writing",
+        "instruction": "Write about your dream. Use the model and your answers in Part A to help you.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "writing_activity",
+        "instruction": "Complete the chart with a dream for the future. Then add three things you'll need to do to achieve it.",
+        "items": [],
+        "providedAnswers": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "exercise",
+        "instruction": "Tell your group about your dream and how you'll achieve it.",
+        "items": [],
+        "providedAnswers": []
+      }
+    ],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "torunall thebigmarathons",
+          "Listen again. Circle the correct answers.",
+          "SUZ",
+          "This is Suzanne's fifth / seventh marathon.",
+          "ao & W N f F",
+          "She won / didn't win the Boston Marathon.",
+          "She finished first / last in her first race in high school.",
+          "12830",
+          "At age 39 / 43, she decided to make some changes in her life.",
+          "2008BOSTO",
+          "The most difficult thing for her was the training / stress.",
+          "Eq Writing A dream come true",
+          "A Think of a dream that came true for you. Answer the questions.",
+          "How did your dream come true?",
+          "What was your dream?",
+          "Why was it a dream for you?"
+        ],
+        "position": {
+          "x": 0,
+          "y": 0.197414,
+          "width": 0.837334,
+          "height": 0.272355
+        },
+        "textElementIds": [
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024"
+        ]
+      }
+    ],
+    "excludedGarbage": [
+      "12830",
+      "123"
+    ]
+  },
+  "learningContent": {
+    "pageType": "lesson",
+    "title": "unit",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "She won / didn't win the Boston Marathon.",
+            "confidence": 0.9463
+          },
+          {
+            "speaker": null,
+            "content": "She finished first / last in her first race in high school.",
+            "confidence": 0.9542
+          },
+          {
+            "speaker": null,
+            "content": "How did your dream come true?",
+            "confidence": 0.915
+          },
+          {
+            "speaker": null,
+            "content": "What was your dream?",
+            "confidence": 0.8655
+          },
+          {
+            "speaker": null,
+            "content": "I wasn't a yery good cook.",
+            "confidence": 0.8861
+          },
+          {
+            "speaker": null,
+            "content": "So I went to Oaxaca to study Mexican cooking",
+            "confidence": 0.8861
+          },
+          {
+            "speaker": null,
+            "content": "I tooka two-week class.",
+            "confidence": 0.848
+          },
+          {
+            "speaker": null,
+            "content": "It was a dream come true, Now Lcan make",
+            "confidence": 0.848
+          },
+          {
+            "speaker": null,
+            "content": "A: My dream is to start my own business someday.",
+            "confidence": 0.952
+          },
+          {
+            "speaker": null,
+            "content": "B: That's a great dream.",
+            "confidence": 0.9264
+          },
+          {
+            "speaker": null,
+            "content": "How will you make it happen?",
+            "confidence": 0.9264
+          },
+          {
+            "speaker": null,
+            "content": "A: Well, first I'll go back to school.",
+            "confidence": 0.9161
+          },
+          {
+            "speaker": null,
+            "content": "Then I'll get a job to get some experience.",
+            "confidence": 0.9161
+          }
+        ]
+      }
+    ],
+    "reading": [],
+    "exercises": [
+      {
+        "exerciseNumber": "A",
+        "type": "listening_activity",
+        "instruction": "Listen to an interview with Suzanne, a marathon runner. Check ()",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "true_false",
+        "instruction": "Think of a dream that came true for you. Answer the questions.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "writing",
+        "instruction": "Write about your dream. Use the model and your answers in Part A to help you.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "A",
+        "type": "writing_activity",
+        "instruction": "Complete the chart with a dream for the future. Then add three things you'll need to do to achieve it.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      },
+      {
+        "exerciseNumber": "B",
+        "type": "exercise",
+        "instruction": "Tell your group about your dream and how you'll achieve it.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": null,
+        "sourceElementIds": []
+      }
+    ],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "7 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content.",
+      "2 garbage string(s) excluded"
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "garbageExcluded": 2,
+      "dialoguesSplit": 8
+    },
+    "averageOcrConfidence": 0.8564,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 2 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc2_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}

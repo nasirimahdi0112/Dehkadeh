@@ -1,0 +1,3520 @@
+{
+  "pageNumber": 11,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "verified sequential printed-footer pattern",
+  "pdfPageNumber": 12,
+  "source": {
+    "pdfFile": "Family and Friends 2 SB_Part1.pdf",
+    "pdfLocalPageNumber": 12,
+    "pageSizePoints": {
+      "width": 595.2,
+      "height": 785.04
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Skills Time!",
+        "confidence": 0.8731,
+        "bbox": {
+          "x": 0.111333,
+          "y": 0.012639,
+          "width": 0.314,
+          "height": 0.040445
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "skills",
+            "confidence": 0.0
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Skills Time!",
+            "confidence": 0.8731
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Lesson Five",
+        "confidence": 0.8714,
+        "bbox": {
+          "x": 0.024667,
+          "y": 0.068251,
+          "width": 0.155333,
+          "height": 0.024267
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Lesson Five }",
+            "confidence": 0.7833
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Lesson Five",
+            "confidence": 0.8714
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Reading",
+        "confidence": 0.8213,
+        "bbox": {
+          "x": 0.032,
+          "y": 0.118807,
+          "width": 0.096,
+          "height": 0.023256
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0004",
+        "type": "instruction",
+        "content": "1 Point to things you can see in a school. Say the words.",
+        "confidence": 0.9208,
+        "bbox": {
+          "x": 0.025403,
+          "y": 0.15989,
+          "width": 0.6625,
+          "height": 0.020177
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Point to things you can seein a school.Say the words.",
+            "confidence": 0.8728
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Point to things you can see in a school. Say the words.",
+            "confidence": 0.9208
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "instruction",
+        "content": "Listen and read.",
+        "confidence": 0.8626,
+        "bbox": {
+          "x": 0.042667,
+          "y": 0.19363,
+          "width": 0.206,
+          "height": 0.0182
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Listen and read. (® »",
+            "confidence": 0.745
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen and read.",
+            "confidence": 0.8626
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "Myname'sPeter.IgotoOrangeParkSchool.",
+        "confidence": 0.9262,
+        "bbox": {
+          "x": 0.21,
+          "y": 0.224975,
+          "width": 0.426667,
+          "height": 0.018706
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Myname'sPeter.IgotoOrangeParkSchool.",
+            "confidence": 0.9262
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My name's Peter. | go to Orange Park School. |",
+            "confidence": 0.773
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "instruction",
+        "content": "Look at these pictures of my school.",
+        "confidence": 0.9586,
+        "bbox": {
+          "x": 0.258065,
+          "y": 0.246408,
+          "width": 0.330645,
+          "height": 0.017426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Look at these pictures of my school.",
+            "confidence": 0.9586
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Lookatthesepicturesofmyschool.",
+            "confidence": 0.9406
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0008",
+        "type": "sentence",
+        "content": "I'm in class 3C. There are 12 girls",
+        "confidence": 0.925,
+        "bbox": {
+          "x": 0.58871,
+          "y": 0.419138,
+          "width": 0.321371,
+          "height": 0.017426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I'm inclass3C.Thereare12girls",
+            "confidence": 0.8941
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "I'm in class 3C. There are 12 girls",
+            "confidence": 0.925
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "paragraph",
+        "content": "and 14 boys in my class.",
+        "confidence": 0.9583,
+        "bbox": {
+          "x": 0.630242,
+          "y": 0.440232,
+          "width": 0.2375,
+          "height": 0.017426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "and14boysinmyclass.",
+            "confidence": 0.9183
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "and 14 boys in my class.",
+            "confidence": 0.9583
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "Ourclassroomisupstairs.",
+        "confidence": 0.8972,
+        "bbox": {
+          "x": 0.261333,
+          "y": 0.440849,
+          "width": 0.252,
+          "height": 0.016684
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "sentence",
+        "content": "It's very big.",
+        "confidence": 0.8718,
+        "bbox": {
+          "x": 0.325333,
+          "y": 0.459555,
+          "width": 0.121333,
+          "height": 0.020222
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "paragraph",
+        "content": "Our teacher is Mrs. Cooper.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.616532,
+          "y": 0.46041,
+          "width": 0.264919,
+          "height": 0.017426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "OurteacherisMrs.Cooper.",
+            "confidence": 0.8578
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Our teacher is Mrs. Cooper.",
+            "confidence": 0.96
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "paragraph",
+        "content": "There are lots of pictures",
+        "confidence": 0.8525,
+        "bbox": {
+          "x": 0.068,
+          "y": 0.642063,
+          "width": 0.241333,
+          "height": 0.019717
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "There isa swimming pool,",
+        "confidence": 0.8391,
+        "bbox": {
+          "x": 0.664667,
+          "y": 0.642063,
+          "width": 0.255333,
+          "height": 0.017695
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "paragraph",
+        "content": "There are lots of pictures We sit at tables. | sit } There is a swimming pool,",
+        "confidence": 0.9165,
+        "bbox": {
+          "x": 0.068145,
+          "y": 0.643534,
+          "width": 0.85121,
+          "height": 0.018343
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Wesitattables.Isit",
+            "confidence": 0.8568
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "There are lots of pictures We sit at tables. | sit } There is a swimming pool,",
+            "confidence": 0.9165
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "too.Ilove my school.",
+        "confidence": 0.8671,
+        "bbox": {
+          "x": 0.689333,
+          "y": 0.662791,
+          "width": 0.206,
+          "height": 0.017695
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "and posters on the wall. [| with my friend Henry. [74 — too. | love my school.",
+            "confidence": 0.8206
+          },
+          {
+            "engine": "rapidocr",
+            "content": "with my friend Henry",
+            "confidence": 0.8246
+          },
+          {
+            "engine": "rapidocr",
+            "content": "too.Ilove my school.",
+            "confidence": 0.8671
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0017",
+        "type": "paragraph",
+        "content": "and posters on the wall.",
+        "confidence": 0.8406,
+        "bbox": {
+          "x": 0.068667,
+          "y": 0.663296,
+          "width": 0.237333,
+          "height": 0.017695
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0018",
+        "type": "instruction",
+        "content": "3 Read again. Circle the correct word.",
+        "confidence": 0.9529,
+        "bbox": {
+          "x": 0.026613,
+          "y": 0.727606,
+          "width": 0.449194,
+          "height": 0.019872
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3 Read again.Circle the correct word.",
+            "confidence": 0.9103
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Read again. Circle the correct word.",
+            "confidence": 0.9529
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "upstairsdownstairs",
+        "confidence": 0.9059,
+        "bbox": {
+          "x": 0.594667,
+          "y": 0.761375,
+          "width": 0.225333,
+          "height": 0.020222
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Where is Peter's classroom? Cupstairsy downstairs",
+            "confidence": 0.8471
+          },
+          {
+            "engine": "rapidocr",
+            "content": "upstairsdownstairs",
+            "confidence": 0.9059
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "1WhereisPeter'sclassroom?",
+        "confidence": 0.8825,
+        "bbox": {
+          "x": 0.058,
+          "y": 0.763397,
+          "width": 0.314,
+          "height": 0.016684
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "2 WhatclassisPeter in?",
+        "confidence": 0.8919,
+        "bbox": {
+          "x": 0.058,
+          "y": 0.791709,
+          "width": 0.257333,
+          "height": 0.016684
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "paragraph",
+        "content": "2 What class is Peter in? 3C / Orange Park",
+        "confidence": 0.943,
+        "bbox": {
+          "x": 0.058871,
+          "y": 0.792113,
+          "width": 0.720161,
+          "height": 0.017426
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3C/OrangePark",
+            "confidence": 0.8761
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 What class is Peter in? 3C / Orange Park",
+            "confidence": 0.943
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "12/14",
+        "confidence": 0.8061,
+        "bbox": {
+          "x": 0.597333,
+          "y": 0.818504,
+          "width": 0.065333,
+          "height": 0.017695
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0024",
+        "type": "paragraph",
+        "content": "3 How many boys are there in his class? 12/14",
+        "confidence": 0.909,
+        "bbox": {
+          "x": 0.058871,
+          "y": 0.819321,
+          "width": 0.6,
+          "height": 0.01926
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3 Howmanyboysaretherein his class?",
+            "confidence": 0.8993
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 How many boys are there in his class? 12/14",
+            "confidence": 0.909
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "Henry/Mrs.Cooper",
+        "confidence": 0.8684,
+        "bbox": {
+          "x": 0.596,
+          "y": 0.846309,
+          "width": 0.214,
+          "height": 0.019717
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0026",
+        "type": "paragraph",
+        "content": "4 What is his teacher's name? Henry / Mrs. Cooper",
+        "confidence": 0.895,
+        "bbox": {
+          "x": 0.060081,
+          "y": 0.84653,
+          "width": 0.74879,
+          "height": 0.020483
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4 What is his teacher's name?",
+            "confidence": 0.8498
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 What is his teacher's name? Henry / Mrs. Cooper",
+            "confidence": 0.895
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "tables/pictures",
+        "confidence": 0.8992,
+        "bbox": {
+          "x": 0.597333,
+          "y": 0.875126,
+          "width": 0.172667,
+          "height": 0.0182
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0028",
+        "type": "paragraph",
+        "content": "5 What is on the walls of the classroom? tables / pictures",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.058871,
+          "y": 0.875268,
+          "width": 0.708468,
+          "height": 0.018343
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "5Whatisonthewalls of theclassroom?",
+            "confidence": 0.8992
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 What is on the walls of the classroom? tables / pictures",
+            "confidence": 0.9533
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0029",
+        "type": "sentence",
+        "content": "Yes,thereis./No,thereisn't",
+        "confidence": 0.9034,
+        "bbox": {
+          "x": 0.6,
+          "y": 0.902932,
+          "width": 0.292667,
+          "height": 0.016178
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0030",
+        "type": "paragraph",
+        "content": "6 Is there a swimming pool? Yes, there is. / No, there isn’t.",
+        "confidence": 0.9377,
+        "bbox": {
+          "x": 0.060081,
+          "y": 0.903088,
+          "width": 0.833871,
+          "height": 0.018343
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "6 Is therea swimmingpool?",
+            "confidence": 0.8648
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "6 Is there a swimming pool? Yes, there is. / No, there isn’t.",
+            "confidence": 0.9377
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0031",
+        "type": "label",
+        "content": "12",
+        "confidence": 0.5494,
+        "bbox": {
+          "x": 0.004667,
+          "y": 0.951466,
+          "width": 0.03,
+          "height": 0.018706
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0032",
+        "type": "heading",
+        "content": "Unit1",
+        "confidence": 0.79,
+        "bbox": {
+          "x": 0.075333,
+          "y": 0.956522,
+          "width": 0.055333,
+          "height": 0.01365
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "Reading:a description",
+        "confidence": 0.9069,
+        "bbox": {
+          "x": 0.146667,
+          "y": 0.957027,
+          "width": 0.178667,
+          "height": 0.01365
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Reading:a description",
+            "confidence": 0.9069
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Unit 1 Reading: a description",
+            "confidence": 0.87
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "Skills Time!",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.111333,
+          "y": 0.012639,
+          "width": 0.314,
+          "height": 0.040445
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8731
+      },
+      {
+        "word": "Myname'sPeter.IgotoOrangeParkSchool.",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.21,
+          "y": 0.224975,
+          "width": 0.426667,
+          "height": 0.018706
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.9262
+      },
+      {
+        "word": "Ourclassroomisupstairs.",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.261333,
+          "y": 0.440849,
+          "width": 0.252,
+          "height": 0.016684
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8972
+      },
+      {
+        "word": "It's very big.",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.325333,
+          "y": 0.459555,
+          "width": 0.121333,
+          "height": 0.020222
+        },
+        "evidence": "short label in explicit Words section",
+        "confidence": 0.8718
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "Myname'sPeter.IgotoOrangeParkSchool.",
+            "confidence": 0.9262,
+            "bbox": {
+              "x": 0.21,
+              "y": 0.224975,
+              "width": 0.426667,
+              "height": 0.018706
+            },
+            "sourceElementId": "text_0006",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I'm in class 3C. There are 12 girls",
+            "confidence": 0.925,
+            "bbox": {
+              "x": 0.58871,
+              "y": 0.419138,
+              "width": 0.321371,
+              "height": 0.017426
+            },
+            "sourceElementId": "text_0008",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "It's very big.",
+            "confidence": 0.8718,
+            "bbox": {
+              "x": 0.325333,
+              "y": 0.459555,
+              "width": 0.121333,
+              "height": 0.020222
+            },
+            "sourceElementId": "text_0011",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "1WhereisPeter'sclassroom?",
+            "confidence": 0.8825,
+            "bbox": {
+              "x": 0.058,
+              "y": 0.763397,
+              "width": 0.314,
+              "height": 0.016684
+            },
+            "sourceElementId": "text_0020",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Speech-bubble/dialogue-like text was detected spatially; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "ocrExercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "speaking_activity",
+        "instruction": "Point to things you can see in a school. Say the words.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0004"
+        ],
+        "confidence": 0.9208
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "selection_exercise",
+        "instruction": "Read again. Circle the correct word.",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0018"
+        ],
+        "confidence": 0.9529
+      }
+    ],
+    "ocrTables": [
+      {
+        "title": null,
+        "headers": [],
+        "rows": [
+          [
+            "Myname'sPeter.IgotoOrangeParkSchool."
+          ],
+          [
+            "Look at these pictures of my school."
+          ],
+          [
+            "I'm in class 3C. There are 12 girls"
+          ],
+          [
+            "and 14 boys in my class."
+          ],
+          [
+            "Ourclassroomisupstairs."
+          ],
+          [
+            "It's very big."
+          ],
+          [
+            "Our teacher is Mrs. Cooper."
+          ],
+          [
+            "There are lots of pictures"
+          ],
+          [
+            "There isa swimming pool,"
+          ],
+          [
+            "There are lots of pictures We sit at tables. | sit } There is a swimming pool,"
+          ],
+          [
+            "too.Ilove my school."
+          ],
+          [
+            "and posters on the wall."
+          ],
+          [
+            "3 Read again. Circle the correct word."
+          ],
+          [
+            "upstairsdownstairs"
+          ],
+          [
+            "1WhereisPeter'sclassroom?"
+          ],
+          [
+            "2 WhatclassisPeter in?"
+          ],
+          [
+            "2 What class is Peter in? 3C / Orange Park"
+          ],
+          [
+            "12/14"
+          ],
+          [
+            "3 How many boys are there in his class? 12/14"
+          ],
+          [
+            "Henry/Mrs.Cooper"
+          ],
+          [
+            "4 What is his teacher's name? Henry / Mrs. Cooper"
+          ],
+          [
+            "tables/pictures"
+          ],
+          [
+            "5 What is on the walls of the classroom? tables / pictures"
+          ]
+        ],
+        "tableStructureConfidence": "low",
+        "fallbackText": "Skills Time! Lesson Five Reading 1 Point to things you can see in a school. Say the words. Listen and read. Myname'sPeter.IgotoOrangeParkSchool. Look at these pictures of my school. I'm in class 3C. There are 12 girls and 14 boys in my class. Ourclassroomisupstairs. It's very big. Our teacher is Mrs. Cooper. There are lots of pictures There isa swimming pool, There are lots of pictures We sit at tables. | sit } There is a swimming pool, too.Ilove my school. and posters on the wall. 3 Read again. Circle the correct word. upstairsdownstairs 1WhereisPeter'sclassroom? 2 WhatclassisPeter in? 2 What class is Peter in? 3C / Orange Park 12/14 3 How many boys are there in his class? 12/14 Henry/Mrs.Cooper 4 What is his teacher's name? Henry / Mrs. Cooper tables/pictures 5 What is on the walls of the classroom? tables / pictures Yes,thereis./No,thereisn't 6 Is there a swimming pool? Yes, there is. / No, there isn’t. 12 Unit1 Reading:a description",
+        "sourceElementIds": [
+          "text_0001",
+          "text_0002",
+          "text_0003",
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033"
+        ]
+      }
+    ],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "I'm in class 3C. There are 12 girls",
+          "and 14 boys in my class.",
+          "Ourclassroomisupstairs.",
+          "It's very big.",
+          "Our teacher is Mrs. Cooper."
+        ],
+        "position": {
+          "x": 0.241333,
+          "y": 0.399138,
+          "width": 0.688748,
+          "height": 0.100639
+        },
+        "textElementIds": [
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "There are lots of pictures",
+          "There isa swimming pool,",
+          "There are lots of pictures We sit at tables. | sit } There is a swimming pool,",
+          "too.Ilove my school.",
+          "and posters on the wall.",
+          "3 Read again. Circle the correct word.",
+          "upstairsdownstairs",
+          "1WhereisPeter'sclassroom?",
+          "2 WhatclassisPeter in?",
+          "2 What class is Peter in? 3C / Orange Park",
+          "12/14",
+          "3 How many boys are there in his class? 12/14",
+          "Henry/Mrs.Cooper",
+          "4 What is his teacher's name? Henry / Mrs. Cooper"
+        ],
+        "position": {
+          "x": 0.006613,
+          "y": 0.622063,
+          "width": 0.933387,
+          "height": 0.26495
+        },
+        "textElementIds": [
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [
+      {
+        "content": "I'm in class 3C. There are 12 girls",
+        "confidence": 0.925,
+        "bbox": {
+          "x": 0.58871,
+          "y": 0.419138,
+          "width": 0.321371,
+          "height": 0.017426
+        },
+        "sourceElementId": "text_0008"
+      },
+      {
+        "content": "and 14 boys in my class.",
+        "confidence": 0.9583,
+        "bbox": {
+          "x": 0.630242,
+          "y": 0.440232,
+          "width": 0.2375,
+          "height": 0.017426
+        },
+        "sourceElementId": "text_0009"
+      },
+      {
+        "content": "It's very big.",
+        "confidence": 0.8718,
+        "bbox": {
+          "x": 0.325333,
+          "y": 0.459555,
+          "width": 0.121333,
+          "height": 0.020222
+        },
+        "sourceElementId": "text_0011"
+      },
+      {
+        "content": "Our teacher is Mrs. Cooper.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.616532,
+          "y": 0.46041,
+          "width": 0.264919,
+          "height": 0.017426
+        },
+        "sourceElementId": "text_0012"
+      },
+      {
+        "content": "There are lots of pictures",
+        "confidence": 0.8525,
+        "bbox": {
+          "x": 0.068,
+          "y": 0.642063,
+          "width": 0.241333,
+          "height": 0.019717
+        },
+        "sourceElementId": "text_0013"
+      },
+      {
+        "content": "There isa swimming pool,",
+        "confidence": 0.8391,
+        "bbox": {
+          "x": 0.664667,
+          "y": 0.642063,
+          "width": 0.255333,
+          "height": 0.017695
+        },
+        "sourceElementId": "text_0014"
+      },
+      {
+        "content": "There are lots of pictures We sit at tables. | sit } There is a swimming pool,",
+        "confidence": 0.9165,
+        "bbox": {
+          "x": 0.068145,
+          "y": 0.643534,
+          "width": 0.85121,
+          "height": 0.018343
+        },
+        "sourceElementId": "text_0015"
+      },
+      {
+        "content": "too.Ilove my school.",
+        "confidence": 0.8671,
+        "bbox": {
+          "x": 0.689333,
+          "y": 0.662791,
+          "width": 0.206,
+          "height": 0.017695
+        },
+        "sourceElementId": "text_0016"
+      },
+      {
+        "content": "and posters on the wall.",
+        "confidence": 0.8406,
+        "bbox": {
+          "x": 0.068667,
+          "y": 0.663296,
+          "width": 0.237333,
+          "height": 0.017695
+        },
+        "sourceElementId": "text_0017"
+      }
+    ],
+    "rawOcrAudit": {
+      "rapidocr": "Skills Time!\nLesson Five\nReading\nPoint to things you can seein a school.Say the words.\nListen and read.\nMyname'sPeter.IgotoOrangeParkSchool.\nLookatthesepicturesofmyschool.\nI'm inclass3C.Thereare12girls\nand14boysinmyclass.\nOurclassroomisupstairs.\nIt's very big.\nOurteacherisMrs.Cooper.\nThere are lots of pictures\nThere isa swimming pool,\nWesitattables.Isit\nwith my friend Henry\ntoo.Ilove my school.\nand posters on the wall.\n3 Read again.Circle the correct word.\nupstairsdownstairs\n1WhereisPeter'sclassroom?\n3C/OrangePark\n2 WhatclassisPeter in?\n3 Howmanyboysaretherein his class?\n12/14\n4 What is his teacher's name?\nHenry/Mrs.Cooper\n5Whatisonthewalls of theclassroom?\ntables/pictures\n6 Is therea swimmingpool?\nYes,thereis./No,thereisn't\n12\nUnit1\nReading:a description",
+      "tesseract_psm3": "skills\n\nLesson Five }\n\n1 Point to things you can see in a school. Say the words.\n2 Listen and read. (® »\n\nMy name's Peter. | go to Orange Park School. |\nLook at these pictures of my school.\n\nI'm in class 3C. There are 12 girls\nand 14 boys in my class.\nOur teacher is Mrs. Cooper.\n\nThere are lots of pictures We sit at tables. | sit } There is a swimming pool,\nand posters on the wall. [| with my friend Henry. [74 — too. | love my school.\n\n3 Read again. Circle the correct word.\n\n1 Where is Peter's classroom? Cupstairsy downstairs\n\n2 What class is Peter in? 3C / Orange Park\n\n3 How many boys are there in his class? 12/14\n\n4 What is his teacher's name? Henry / Mrs. Cooper\n\n5 What is on the walls of the classroom? tables / pictures\n\n6 Is there a swimming pool? Yes, there is. / No, there isn’t.\n\nUnit 1 Reading: a description\n",
+      "tesseract_psm11": "",
+      "tesseract_psm6": "",
+      "footer_passes": [
+        "2 WhHOTIS On The Was OF THE ClrossrOOrn: MODtes / PICTUTES\n6 Is there a swimming pool? Yes, there is. / No, there isn't.\nDa 1 Reading: a description",
+        "2 WhHOTIS On The Was OF THE ClrossrOOrn:\n\nMODtes / PICTUTES\n\n6 Is there a swimming pool?\n\nYes, there is. / No, there isn't.\n\nUnit 1\n\nReading: a description"
+      ]
+    },
+    "excludedOcrNoise": [],
+    "averageConfidence": 0.8835,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "2 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "skills_time",
+    "pagePurpose": null,
+    "readingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "headings": [
+      {
+        "id": "text_0001",
+        "content": "Skills Time!",
+        "confidence": 0.8731,
+        "bbox": {
+          "x": 0.111333,
+          "y": 0.012639,
+          "width": 0.314,
+          "height": 0.040445
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0001"
+        ]
+      },
+      {
+        "id": "text_0002",
+        "content": "Lesson Five",
+        "confidence": 0.8714,
+        "bbox": {
+          "x": 0.024667,
+          "y": 0.068251,
+          "width": 0.155333,
+          "height": 0.024267
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0002"
+        ]
+      },
+      {
+        "id": "text_0003",
+        "content": "Reading",
+        "confidence": 0.8213,
+        "bbox": {
+          "x": 0.032,
+          "y": 0.118807,
+          "width": 0.096,
+          "height": 0.023256
+        },
+        "repaired": false,
+        "sourceElementIds": [
+          "text_0003"
+        ]
+      },
+      {
+        "id": "text_0032",
+        "content": "Unit 1",
+        "confidence": 0.79,
+        "bbox": {
+          "x": 0.075333,
+          "y": 0.956522,
+          "width": 0.055333,
+          "height": 0.01365
+        },
+        "repaired": true,
+        "sourceElementIds": [
+          "text_0032"
+        ]
+      }
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Skills Time!",
+        "originalContent": "Skills Time!",
+        "confidence": 0.8731,
+        "bbox": {
+          "x": 0.111333,
+          "y": 0.012639,
+          "width": 0.314,
+          "height": 0.040445
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "skills",
+            "confidence": 0.0
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Skills Time!",
+            "confidence": 0.8731
+          }
+        ]
+      },
+      {
+        "id": "text_0002",
+        "type": "heading",
+        "content": "Lesson Five",
+        "originalContent": "Lesson Five",
+        "confidence": 0.8714,
+        "bbox": {
+          "x": 0.024667,
+          "y": 0.068251,
+          "width": 0.155333,
+          "height": 0.024267
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Lesson Five }",
+            "confidence": 0.7833
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Lesson Five",
+            "confidence": 0.8714
+          }
+        ]
+      },
+      {
+        "id": "text_0003",
+        "type": "heading",
+        "content": "Reading",
+        "originalContent": "Reading",
+        "confidence": 0.8213,
+        "bbox": {
+          "x": 0.032,
+          "y": 0.118807,
+          "width": 0.096,
+          "height": 0.023256
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0004",
+        "type": "instruction",
+        "content": "1 Point to things you can see in a school. Say the words.",
+        "originalContent": "1 Point to things you can see in a school. Say the words.",
+        "confidence": 0.9208,
+        "bbox": {
+          "x": 0.025403,
+          "y": 0.15989,
+          "width": 0.6625,
+          "height": 0.020177
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Point to things you can seein a school.Say the words.",
+            "confidence": 0.8728
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Point to things you can see in a school. Say the words.",
+            "confidence": 0.9208
+          }
+        ]
+      },
+      {
+        "id": "text_0005",
+        "type": "instruction",
+        "content": "Listen and read.",
+        "originalContent": "Listen and read.",
+        "confidence": 0.8626,
+        "bbox": {
+          "x": 0.042667,
+          "y": 0.19363,
+          "width": 0.206,
+          "height": 0.0182
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 Listen and read. (® »",
+            "confidence": 0.745
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Listen and read.",
+            "confidence": 0.8626
+          }
+        ]
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "My name's Peter. Igoto Orange Park School.",
+        "originalContent": "Myname'sPeter.IgotoOrangeParkSchool.",
+        "confidence": 0.9262,
+        "bbox": {
+          "x": 0.21,
+          "y": 0.224975,
+          "width": 0.426667,
+          "height": 0.018706
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Myname'sPeter.IgotoOrangeParkSchool.",
+            "confidence": 0.9262
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "My name's Peter. | go to Orange Park School. |",
+            "confidence": 0.773
+          }
+        ]
+      },
+      {
+        "id": "text_0007",
+        "type": "instruction",
+        "content": "Look at these pictures of my school.",
+        "originalContent": "Look at these pictures of my school.",
+        "confidence": 0.9586,
+        "bbox": {
+          "x": 0.258065,
+          "y": 0.246408,
+          "width": 0.330645,
+          "height": 0.017426
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "Look at these pictures of my school.",
+            "confidence": 0.9586
+          },
+          {
+            "engine": "rapidocr",
+            "content": "Lookatthesepicturesofmyschool.",
+            "confidence": 0.9406
+          }
+        ]
+      },
+      {
+        "id": "text_0008",
+        "type": "sentence",
+        "content": "I'm in class 3 C. There are 12 girls",
+        "originalContent": "I'm in class 3C. There are 12 girls",
+        "confidence": 0.925,
+        "bbox": {
+          "x": 0.58871,
+          "y": 0.419138,
+          "width": 0.321371,
+          "height": 0.017426
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "I'm inclass3C.Thereare12girls",
+            "confidence": 0.8941
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "I'm in class 3C. There are 12 girls",
+            "confidence": 0.925
+          }
+        ]
+      },
+      {
+        "id": "text_0009",
+        "type": "paragraph",
+        "content": "and 14 boys in my class.",
+        "originalContent": "and 14 boys in my class.",
+        "confidence": 0.9583,
+        "bbox": {
+          "x": 0.630242,
+          "y": 0.440232,
+          "width": 0.2375,
+          "height": 0.017426
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "and14boysinmyclass.",
+            "confidence": 0.9183
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "and 14 boys in my class.",
+            "confidence": 0.9583
+          }
+        ]
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "Our classroom is upstairs.",
+        "originalContent": "Ourclassroomisupstairs.",
+        "confidence": 0.8972,
+        "bbox": {
+          "x": 0.261333,
+          "y": 0.440849,
+          "width": 0.252,
+          "height": 0.016684
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0011",
+        "type": "sentence",
+        "content": "It's very big.",
+        "originalContent": "It's very big.",
+        "confidence": 0.8718,
+        "bbox": {
+          "x": 0.325333,
+          "y": 0.459555,
+          "width": 0.121333,
+          "height": 0.020222
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0012",
+        "type": "paragraph",
+        "content": "Our teacher is Mrs. Cooper.",
+        "originalContent": "Our teacher is Mrs. Cooper.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.616532,
+          "y": 0.46041,
+          "width": 0.264919,
+          "height": 0.017426
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "OurteacherisMrs.Cooper.",
+            "confidence": 0.8578
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Our teacher is Mrs. Cooper.",
+            "confidence": 0.96
+          }
+        ]
+      },
+      {
+        "id": "text_0013",
+        "type": "paragraph",
+        "content": "There are lots of pictures",
+        "originalContent": "There are lots of pictures",
+        "confidence": 0.8525,
+        "bbox": {
+          "x": 0.068,
+          "y": 0.642063,
+          "width": 0.241333,
+          "height": 0.019717
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "There isa swimming pool,",
+        "originalContent": "There isa swimming pool,",
+        "confidence": 0.8391,
+        "bbox": {
+          "x": 0.664667,
+          "y": 0.642063,
+          "width": 0.255333,
+          "height": 0.017695
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0015",
+        "type": "paragraph",
+        "content": "There are lots of pictures We sit at tables. | sit } There is a swimming pool,",
+        "originalContent": "There are lots of pictures We sit at tables. | sit } There is a swimming pool,",
+        "confidence": 0.9165,
+        "bbox": {
+          "x": 0.068145,
+          "y": 0.643534,
+          "width": 0.85121,
+          "height": 0.018343
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Wesitattables.Isit",
+            "confidence": 0.8568
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "There are lots of pictures We sit at tables. | sit } There is a swimming pool,",
+            "confidence": 0.9165
+          }
+        ]
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "too. Ilove my school.",
+        "originalContent": "too.Ilove my school.",
+        "confidence": 0.8671,
+        "bbox": {
+          "x": 0.689333,
+          "y": 0.662791,
+          "width": 0.206,
+          "height": 0.017695
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "and posters on the wall. [| with my friend Henry. [74 — too. | love my school.",
+            "confidence": 0.8206
+          },
+          {
+            "engine": "rapidocr",
+            "content": "with my friend Henry",
+            "confidence": 0.8246
+          },
+          {
+            "engine": "rapidocr",
+            "content": "too.Ilove my school.",
+            "confidence": 0.8671
+          }
+        ]
+      },
+      {
+        "id": "text_0017",
+        "type": "paragraph",
+        "content": "and posters on the wall.",
+        "originalContent": "and posters on the wall.",
+        "confidence": 0.8406,
+        "bbox": {
+          "x": 0.068667,
+          "y": 0.663296,
+          "width": 0.237333,
+          "height": 0.017695
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0018",
+        "type": "instruction",
+        "content": "3 Read again. Circle the correct word.",
+        "originalContent": "3 Read again. Circle the correct word.",
+        "confidence": 0.9529,
+        "bbox": {
+          "x": 0.026613,
+          "y": 0.727606,
+          "width": 0.449194,
+          "height": 0.019872
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3 Read again.Circle the correct word.",
+            "confidence": 0.9103
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 Read again. Circle the correct word.",
+            "confidence": 0.9529
+          }
+        ]
+      },
+      {
+        "id": "text_0019",
+        "type": "label",
+        "content": "upstairs downstairs",
+        "originalContent": "upstairsdownstairs",
+        "confidence": 0.9059,
+        "bbox": {
+          "x": 0.594667,
+          "y": 0.761375,
+          "width": 0.225333,
+          "height": 0.020222
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "tesseract_psm3",
+            "content": "1 Where is Peter's classroom? Cupstairsy downstairs",
+            "confidence": 0.8471
+          },
+          {
+            "engine": "rapidocr",
+            "content": "upstairsdownstairs",
+            "confidence": 0.9059
+          }
+        ]
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "1 Whereis Peter's classroom?",
+        "originalContent": "1WhereisPeter'sclassroom?",
+        "confidence": 0.8825,
+        "bbox": {
+          "x": 0.058,
+          "y": 0.763397,
+          "width": 0.314,
+          "height": 0.016684
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0021",
+        "type": "label",
+        "content": "2 What class is Peter in?",
+        "originalContent": "2 WhatclassisPeter in?",
+        "confidence": 0.8919,
+        "bbox": {
+          "x": 0.058,
+          "y": 0.791709,
+          "width": 0.257333,
+          "height": 0.016684
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0022",
+        "type": "paragraph",
+        "content": "2 What class is Peter in? 3 C / Orange Park",
+        "originalContent": "2 What class is Peter in? 3C / Orange Park",
+        "confidence": 0.943,
+        "bbox": {
+          "x": 0.058871,
+          "y": 0.792113,
+          "width": 0.720161,
+          "height": 0.017426
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3C/OrangePark",
+            "confidence": 0.8761
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "2 What class is Peter in? 3C / Orange Park",
+            "confidence": 0.943
+          }
+        ]
+      },
+      {
+        "id": "text_0024",
+        "type": "paragraph",
+        "content": "3 How many boys are there in his class? 12/14",
+        "originalContent": "3 How many boys are there in his class? 12/14",
+        "confidence": 0.909,
+        "bbox": {
+          "x": 0.058871,
+          "y": 0.819321,
+          "width": 0.6,
+          "height": 0.01926
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "3 Howmanyboysaretherein his class?",
+            "confidence": 0.8993
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "3 How many boys are there in his class? 12/14",
+            "confidence": 0.909
+          }
+        ]
+      },
+      {
+        "id": "text_0025",
+        "type": "label",
+        "content": "Henry/Mrs. Cooper",
+        "originalContent": "Henry/Mrs.Cooper",
+        "confidence": 0.8684,
+        "bbox": {
+          "x": 0.596,
+          "y": 0.846309,
+          "width": 0.214,
+          "height": 0.019717
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0026",
+        "type": "paragraph",
+        "content": "4 What is his teacher's name? Henry / Mrs. Cooper",
+        "originalContent": "4 What is his teacher's name? Henry / Mrs. Cooper",
+        "confidence": 0.895,
+        "bbox": {
+          "x": 0.060081,
+          "y": 0.84653,
+          "width": 0.74879,
+          "height": 0.020483
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "4 What is his teacher's name?",
+            "confidence": 0.8498
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "4 What is his teacher's name? Henry / Mrs. Cooper",
+            "confidence": 0.895
+          }
+        ]
+      },
+      {
+        "id": "text_0027",
+        "type": "label",
+        "content": "tables/pictures",
+        "originalContent": "tables/pictures",
+        "confidence": 0.8992,
+        "bbox": {
+          "x": 0.597333,
+          "y": 0.875126,
+          "width": 0.172667,
+          "height": 0.0182
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0028",
+        "type": "paragraph",
+        "content": "5 What is on the walls of the classroom? tables / pictures",
+        "originalContent": "5 What is on the walls of the classroom? tables / pictures",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.058871,
+          "y": 0.875268,
+          "width": 0.708468,
+          "height": 0.018343
+        },
+        "repaired": false,
+        "repairNotes": [],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "5Whatisonthewalls of theclassroom?",
+            "confidence": 0.8992
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "5 What is on the walls of the classroom? tables / pictures",
+            "confidence": 0.9533
+          }
+        ]
+      },
+      {
+        "id": "text_0029",
+        "type": "sentence",
+        "content": "Yes, thereis./No, there isn't",
+        "originalContent": "Yes,thereis./No,thereisn't",
+        "confidence": 0.9034,
+        "bbox": {
+          "x": 0.6,
+          "y": 0.902932,
+          "width": 0.292667,
+          "height": 0.016178
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0030",
+        "type": "paragraph",
+        "content": "6 Is there a swimming pool? Yes, there is. / No, there isn't.",
+        "originalContent": "6 Is there a swimming pool? Yes, there is. / No, there isn’t.",
+        "confidence": 0.9377,
+        "bbox": {
+          "x": 0.060081,
+          "y": 0.903088,
+          "width": 0.833871,
+          "height": 0.018343
+        },
+        "repaired": true,
+        "repairNotes": [
+          "normalized"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "6 Is therea swimmingpool?",
+            "confidence": 0.8648
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "6 Is there a swimming pool? Yes, there is. / No, there isn’t.",
+            "confidence": 0.9377
+          }
+        ]
+      },
+      {
+        "id": "text_0032",
+        "type": "heading",
+        "content": "Unit 1",
+        "originalContent": "Unit1",
+        "confidence": 0.79,
+        "bbox": {
+          "x": 0.075333,
+          "y": 0.956522,
+          "width": 0.055333,
+          "height": 0.01365
+        },
+        "repaired": true,
+        "repairNotes": [
+          "heading"
+        ],
+        "lowConfidence": true,
+        "uncertain": false,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "alternatives": null
+      },
+      {
+        "id": "text_0033",
+        "type": "label",
+        "content": "Reading: a description",
+        "originalContent": "Reading:a description",
+        "confidence": 0.9069,
+        "bbox": {
+          "x": 0.146667,
+          "y": 0.957027,
+          "width": 0.178667,
+          "height": 0.01365
+        },
+        "repaired": true,
+        "repairNotes": [
+          "spaces"
+        ],
+        "lowConfidence": false,
+        "uncertain": true,
+        "isAudioTrack": false,
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Reading:a description",
+            "confidence": 0.9069
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Unit 1 Reading: a description",
+            "confidence": 0.87
+          }
+        ]
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Skills Time!",
+      "Lesson Five",
+      "Reading",
+      "1 Point to things you can see in a school. Say the words.",
+      "Listen and read.",
+      "My name's Peter. Igoto Orange Park School.",
+      "Look at these pictures of my school.",
+      "I'm in class 3 C. There are 12 girls",
+      "and 14 boys in my class.",
+      "Our classroom is upstairs.",
+      "It's very big.",
+      "Our teacher is Mrs. Cooper.",
+      "There are lots of pictures",
+      "There isa swimming pool,",
+      "There are lots of pictures We sit at tables. | sit } There is a swimming pool,",
+      "too. Ilove my school.",
+      "and posters on the wall.",
+      "3 Read again. Circle the correct word.",
+      "upstairs downstairs",
+      "1 Whereis Peter's classroom?",
+      "2 What class is Peter in?",
+      "2 What class is Peter in? 3 C / Orange Park",
+      "3 How many boys are there in his class? 12/14",
+      "Henry/Mrs. Cooper",
+      "4 What is his teacher's name? Henry / Mrs. Cooper",
+      "tables/pictures",
+      "5 What is on the walls of the classroom? tables / pictures",
+      "Yes, thereis./No, there isn't",
+      "6 Is there a swimming pool? Yes, there is. / No, there isn't.",
+      "Unit 1",
+      "Reading: a description"
+    ],
+    "paragraphs": [
+      {
+        "id": "text_0009",
+        "content": "and 14 boys in my class.",
+        "confidence": 0.9583,
+        "bbox": {
+          "x": 0.630242,
+          "y": 0.440232,
+          "width": 0.2375,
+          "height": 0.017426
+        },
+        "sourceElementIds": [
+          "text_0009"
+        ]
+      },
+      {
+        "id": "text_0012",
+        "content": "Our teacher is Mrs. Cooper.",
+        "confidence": 0.96,
+        "bbox": {
+          "x": 0.616532,
+          "y": 0.46041,
+          "width": 0.264919,
+          "height": 0.017426
+        },
+        "sourceElementIds": [
+          "text_0012"
+        ]
+      },
+      {
+        "id": "text_0013",
+        "content": "There are lots of pictures",
+        "confidence": 0.8525,
+        "bbox": {
+          "x": 0.068,
+          "y": 0.642063,
+          "width": 0.241333,
+          "height": 0.019717
+        },
+        "sourceElementIds": [
+          "text_0013"
+        ]
+      },
+      {
+        "id": "text_0015",
+        "content": "There are lots of pictures We sit at tables. | sit } There is a swimming pool,",
+        "confidence": 0.9165,
+        "bbox": {
+          "x": 0.068145,
+          "y": 0.643534,
+          "width": 0.85121,
+          "height": 0.018343
+        },
+        "sourceElementIds": [
+          "text_0015"
+        ]
+      },
+      {
+        "id": "text_0017",
+        "content": "and posters on the wall.",
+        "confidence": 0.8406,
+        "bbox": {
+          "x": 0.068667,
+          "y": 0.663296,
+          "width": 0.237333,
+          "height": 0.017695
+        },
+        "sourceElementIds": [
+          "text_0017"
+        ]
+      },
+      {
+        "id": "text_0022",
+        "content": "2 What class is Peter in? 3 C / Orange Park",
+        "confidence": 0.943,
+        "bbox": {
+          "x": 0.058871,
+          "y": 0.792113,
+          "width": 0.720161,
+          "height": 0.017426
+        },
+        "sourceElementIds": [
+          "text_0022"
+        ]
+      },
+      {
+        "id": "text_0024",
+        "content": "3 How many boys are there in his class? 12/14",
+        "confidence": 0.909,
+        "bbox": {
+          "x": 0.058871,
+          "y": 0.819321,
+          "width": 0.6,
+          "height": 0.01926
+        },
+        "sourceElementIds": [
+          "text_0024"
+        ]
+      },
+      {
+        "id": "text_0026",
+        "content": "4 What is his teacher's name? Henry / Mrs. Cooper",
+        "confidence": 0.895,
+        "bbox": {
+          "x": 0.060081,
+          "y": 0.84653,
+          "width": 0.74879,
+          "height": 0.020483
+        },
+        "sourceElementIds": [
+          "text_0026"
+        ]
+      },
+      {
+        "id": "text_0028",
+        "content": "5 What is on the walls of the classroom? tables / pictures",
+        "confidence": 0.9533,
+        "bbox": {
+          "x": 0.058871,
+          "y": 0.875268,
+          "width": 0.708468,
+          "height": 0.018343
+        },
+        "sourceElementIds": [
+          "text_0028"
+        ]
+      },
+      {
+        "id": "text_0030",
+        "content": "6 Is there a swimming pool? Yes, there is. / No, there isn't.",
+        "confidence": 0.9377,
+        "bbox": {
+          "x": 0.060081,
+          "y": 0.903088,
+          "width": 0.833871,
+          "height": 0.018343
+        },
+        "sourceElementIds": [
+          "text_0030"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "text_0006",
+        "content": "My name's Peter. Igoto Orange Park School.",
+        "confidence": 0.9262,
+        "bbox": {
+          "x": 0.21,
+          "y": 0.224975,
+          "width": 0.426667,
+          "height": 0.018706
+        },
+        "sourceElementIds": [
+          "text_0006"
+        ]
+      },
+      {
+        "id": "text_0008",
+        "content": "I'm in class 3 C. There are 12 girls",
+        "confidence": 0.925,
+        "bbox": {
+          "x": 0.58871,
+          "y": 0.419138,
+          "width": 0.321371,
+          "height": 0.017426
+        },
+        "sourceElementIds": [
+          "text_0008"
+        ]
+      },
+      {
+        "id": "text_0011",
+        "content": "It's very big.",
+        "confidence": 0.8718,
+        "bbox": {
+          "x": 0.325333,
+          "y": 0.459555,
+          "width": 0.121333,
+          "height": 0.020222
+        },
+        "sourceElementIds": [
+          "text_0011"
+        ]
+      },
+      {
+        "id": "text_0020",
+        "content": "1 Whereis Peter's classroom?",
+        "confidence": 0.8825,
+        "bbox": {
+          "x": 0.058,
+          "y": 0.763397,
+          "width": 0.314,
+          "height": 0.016684
+        },
+        "sourceElementIds": [
+          "text_0020"
+        ]
+      },
+      {
+        "id": "text_0021",
+        "content": "2 What class is Peter in?",
+        "confidence": 0.8919,
+        "bbox": {
+          "x": 0.058,
+          "y": 0.791709,
+          "width": 0.257333,
+          "height": 0.016684
+        },
+        "sourceElementIds": [
+          "text_0021"
+        ]
+      },
+      {
+        "id": "text_0029",
+        "content": "Yes, thereis./No, there isn't",
+        "confidence": 0.9034,
+        "bbox": {
+          "x": 0.6,
+          "y": 0.902932,
+          "width": 0.292667,
+          "height": 0.016178
+        },
+        "sourceElementIds": [
+          "text_0029"
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "It's very big",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8718,
+        "sourceElementIds": [],
+        "verification": {
+          "method": "heuristic_filter",
+          "verified": false
+        }
+      }
+    ],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "lines": [
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "My name's Peter.",
+            "confidence": 0.9262,
+            "bbox": {
+              "x": 0.21,
+              "y": 0.224975,
+              "width": 0.426667,
+              "height": 0.018706
+            },
+            "sourceElementId": "text_0006",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "Igoto Orange Park School.",
+            "confidence": 0.9262,
+            "bbox": {
+              "x": 0.21,
+              "y": 0.224975,
+              "width": 0.426667,
+              "height": 0.018706
+            },
+            "sourceElementId": "text_0006",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "I'm in class 3 C. There are 12 girls",
+            "confidence": 0.925,
+            "bbox": {
+              "x": 0.58871,
+              "y": 0.419138,
+              "width": 0.321371,
+              "height": 0.017426
+            },
+            "sourceElementId": "text_0008",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "It's very big.",
+            "confidence": 0.8718,
+            "bbox": {
+              "x": 0.325333,
+              "y": 0.459555,
+              "width": 0.121333,
+              "height": 0.020222
+            },
+            "sourceElementId": "text_0011",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": []
+          },
+          {
+            "speaker": null,
+            "speakerConfidence": 0.0,
+            "content": "1 Whereis Peter's classroom?",
+            "confidence": 0.8825,
+            "bbox": {
+              "x": 0.058,
+              "y": 0.763397,
+              "width": 0.314,
+              "height": 0.016684
+            },
+            "sourceElementId": "text_0020",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted.",
+            "repairNotes": [
+              "spaces"
+            ]
+          }
+        ],
+        "confidence": 0.9063399999999999
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "speaking_activity",
+        "instruction": "Point to things you can see in a school. Say the words.",
+        "items": [],
+        "prompts": [],
+        "blanks": [],
+        "choices": [],
+        "matchingPairs": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "sourceElementIds": [
+          "text_0004"
+        ],
+        "confidence": 0.9208,
+        "repairNotes": []
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "circle_exercise",
+        "instruction": "Read again. Circle the correct word.",
+        "items": [],
+        "prompts": [],
+        "blanks": [],
+        "choices": [],
+        "matchingPairs": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "sourceElementIds": [
+          "text_0018"
+        ],
+        "confidence": 0.9529,
+        "repairNotes": []
+      },
+      {
+        "exerciseNumber": null,
+        "type": "listening_activity",
+        "instruction": "Listen and read.",
+        "items": [],
+        "prompts": [],
+        "blanks": [],
+        "choices": [],
+        "matchingPairs": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "sourceElementIds": [
+          "text_0005"
+        ],
+        "confidence": 0.8626,
+        "repairNotes": []
+      },
+      {
+        "exerciseNumber": null,
+        "type": "activity",
+        "instruction": "Look at these pictures of my school.",
+        "items": [],
+        "prompts": [],
+        "blanks": [],
+        "choices": [],
+        "matchingPairs": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "sourceElementIds": [
+          "text_0007"
+        ],
+        "confidence": 0.9586,
+        "repairNotes": []
+      }
+    ],
+    "tables": [
+      {
+        "title": null,
+        "headers": [],
+        "rows": [
+          [
+            "My name's Peter. Igoto Orange Park School."
+          ],
+          [
+            "Look at these pictures of my school."
+          ],
+          [
+            "I'm in class 3 C. There are 12 girls"
+          ],
+          [
+            "and 14 boys in my class."
+          ],
+          [
+            "Our classroom is upstairs."
+          ],
+          [
+            "It's very big."
+          ],
+          [
+            "Our teacher is Mrs. Cooper."
+          ],
+          [
+            "There are lots of pictures"
+          ],
+          [
+            "There isa swimming pool,"
+          ],
+          [
+            "There are lots of pictures We sit at tables. | sit } There is a swimming pool,"
+          ],
+          [
+            "too. Ilove my school."
+          ],
+          [
+            "and posters on the wall."
+          ],
+          [
+            "3 Read again. Circle the correct word."
+          ],
+          [
+            "upstairs downstairs"
+          ],
+          [
+            "1 Whereis Peter's classroom?"
+          ],
+          [
+            "2 What class is Peter in?"
+          ],
+          [
+            "2 What class is Peter in? 3 C / Orange Park"
+          ],
+          [
+            "12/14"
+          ],
+          [
+            "3 How many boys are there in his class? 12/14"
+          ],
+          [
+            "Henry/Mrs. Cooper"
+          ],
+          [
+            "4 What is his teacher's name? Henry / Mrs. Cooper"
+          ],
+          [
+            "tables/pictures"
+          ],
+          [
+            "5 What is on the walls of the classroom? tables / pictures"
+          ]
+        ],
+        "tableStructureConfidence": "medium",
+        "fallbackText": "Skills Time! Lesson Five Reading 1 Point to things you can see in a school. Say the words. Listen and read. Myname'sPeter.IgotoOrangeParkSchool. Look at these pictures of my school. I'm in class 3C. There are 12 girls and 14 boys in my class. Ourclassroomisupstairs. It's very big. Our teacher is Mrs. Cooper. There are lots of pictures There isa swimming pool, There are lots of pictures We sit at tables. | sit } There is a swimming pool, too.Ilove my school. and posters on the wall. 3 Read again. Circle the correct word. upstairsdownstairs 1WhereisPeter'sclassroom? 2 WhatclassisPeter in? 2 What class is Peter in? 3C / Orange Park 12/14 3 How many boys are there in his class? 12/14 Henry/Mrs.Cooper 4 What is his teacher's name? Henry / Mrs. Cooper tables/pictures 5 What is on the walls of the classroom? tables / pictures Yes,thereis./No,thereisn't 6 Is there a swimming pool? Yes, there is. / No, there isn’t. 12 Unit1 Reading:a description",
+        "sourceElementIds": [
+          "text_0001",
+          "text_0002",
+          "text_0003",
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033"
+        ]
+      }
+    ],
+    "songsOrPoems": [
+      {
+        "lines": [
+          {
+            "content": "I'm in class 3 C. There are 12 girls",
+            "confidence": 0.925,
+            "bbox": {
+              "x": 0.58871,
+              "y": 0.419138,
+              "width": 0.321371,
+              "height": 0.017426
+            },
+            "sourceElementId": "text_0008",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "and 14 boys in my class.",
+            "confidence": 0.9583,
+            "bbox": {
+              "x": 0.630242,
+              "y": 0.440232,
+              "width": 0.2375,
+              "height": 0.017426
+            },
+            "sourceElementId": "text_0009",
+            "repairNotes": []
+          },
+          {
+            "content": "It's very big.",
+            "confidence": 0.8718,
+            "bbox": {
+              "x": 0.325333,
+              "y": 0.459555,
+              "width": 0.121333,
+              "height": 0.020222
+            },
+            "sourceElementId": "text_0011",
+            "repairNotes": []
+          },
+          {
+            "content": "Our teacher is Mrs. Cooper.",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.616532,
+              "y": 0.46041,
+              "width": 0.264919,
+              "height": 0.017426
+            },
+            "sourceElementId": "text_0012",
+            "repairNotes": []
+          },
+          {
+            "content": "There are lots of pictures",
+            "confidence": 0.8525,
+            "bbox": {
+              "x": 0.068,
+              "y": 0.642063,
+              "width": 0.241333,
+              "height": 0.019717
+            },
+            "sourceElementId": "text_0013",
+            "repairNotes": []
+          },
+          {
+            "content": "There isa swimming pool,",
+            "confidence": 0.8391,
+            "bbox": {
+              "x": 0.664667,
+              "y": 0.642063,
+              "width": 0.255333,
+              "height": 0.017695
+            },
+            "sourceElementId": "text_0014",
+            "repairNotes": []
+          },
+          {
+            "content": "There are lots of pictures We sit at tables. | sit } There is a swimming pool,",
+            "confidence": 0.9165,
+            "bbox": {
+              "x": 0.068145,
+              "y": 0.643534,
+              "width": 0.85121,
+              "height": 0.018343
+            },
+            "sourceElementId": "text_0015",
+            "repairNotes": []
+          },
+          {
+            "content": "too. Ilove my school.",
+            "confidence": 0.8671,
+            "bbox": {
+              "x": 0.689333,
+              "y": 0.662791,
+              "width": 0.206,
+              "height": 0.017695
+            },
+            "sourceElementId": "text_0016",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "and posters on the wall.",
+            "confidence": 0.8406,
+            "bbox": {
+              "x": 0.068667,
+              "y": 0.663296,
+              "width": 0.237333,
+              "height": 0.017695
+            },
+            "sourceElementId": "text_0017",
+            "repairNotes": []
+          }
+        ],
+        "confidence": 0.8923222222222223
+      }
+    ],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "I'm in class 3 C. There are 12 girls",
+          "and 14 boys in my class.",
+          "Our classroom is upstairs.",
+          "It's very big.",
+          "Our teacher is Mrs. Cooper."
+        ],
+        "position": {
+          "x": 0.241333,
+          "y": 0.399138,
+          "width": 0.688748,
+          "height": 0.100639
+        },
+        "textElementIds": [
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012"
+        ],
+        "descriptionConfidence": 0.45
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "There are lots of pictures",
+          "There isa swimming pool,",
+          "There are lots of pictures We sit at tables. | sit } There is a swimming pool,",
+          "too. Ilove my school.",
+          "and posters on the wall.",
+          "3 Read again. Circle the correct word.",
+          "upstairs downstairs",
+          "1 Whereis Peter's classroom?",
+          "2 What class is Peter in?",
+          "2 What class is Peter in? 3 C / Orange Park",
+          "3 How many boys are there in his class? 12/14",
+          "Henry/Mrs. Cooper",
+          "4 What is his teacher's name? Henry / Mrs. Cooper"
+        ],
+        "position": {
+          "x": 0.006613,
+          "y": 0.622063,
+          "width": 0.933387,
+          "height": 0.26495
+        },
+        "textElementIds": [
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "nonEducationalText": [],
+    "excludedGarbage": [
+      {
+        "id": "text_0023",
+        "content": "12/14",
+        "originalContent": "12/14",
+        "confidence": 0.8061
+      },
+      {
+        "id": "text_0031",
+        "content": "12",
+        "originalContent": "12",
+        "confidence": 0.5494
+      }
+    ]
+  },
+  "learningContent": {
+    "pageType": "skills_time",
+    "title": "Skills Time!",
+    "learningObjectives": [
+      "Study content: Reading"
+    ],
+    "targetVocabulary": [
+      {
+        "word": "It's very big",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "confidence": 0.8718,
+        "sourceElementIds": []
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "My name's Peter.",
+        "meaning": null,
+        "confidence": 0.9262,
+        "sourceElementIds": [
+          "text_0006"
+        ]
+      },
+      {
+        "expression": "I'm in class 3 C. There are 12 girls",
+        "meaning": null,
+        "confidence": 0.925,
+        "sourceElementIds": [
+          "text_0008"
+        ]
+      },
+      {
+        "expression": "It's very big.",
+        "meaning": null,
+        "confidence": 0.8718,
+        "sourceElementIds": [
+          "text_0011"
+        ]
+      },
+      {
+        "expression": "1 Whereis Peter's classroom?",
+        "meaning": null,
+        "confidence": 0.8825,
+        "sourceElementIds": [
+          "text_0020"
+        ]
+      }
+    ],
+    "grammar": [],
+    "dialogues": [
+      {
+        "id": "dialogue_01",
+        "turns": [
+          {
+            "speaker": null,
+            "content": "My name's Peter.",
+            "confidence": 0.9262
+          },
+          {
+            "speaker": null,
+            "content": "Igoto Orange Park School.",
+            "confidence": 0.9262
+          },
+          {
+            "speaker": null,
+            "content": "I'm in class 3 C. There are 12 girls",
+            "confidence": 0.925
+          },
+          {
+            "speaker": null,
+            "content": "It's very big.",
+            "confidence": 0.8718
+          },
+          {
+            "speaker": null,
+            "content": "1 Whereis Peter's classroom?",
+            "confidence": 0.8825
+          }
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "title": "Skills Time!",
+        "text": "There are lots of pictures We sit at tables. | sit } There is a swimming pool,",
+        "confidence": 0.9165,
+        "sourceElementIds": [
+          "text_0015"
+        ]
+      },
+      {
+        "title": "Skills Time!",
+        "text": "2 What class is Peter in? 3 C / Orange Park",
+        "confidence": 0.943,
+        "sourceElementIds": [
+          "text_0022"
+        ]
+      },
+      {
+        "title": "Skills Time!",
+        "text": "3 How many boys are there in his class? 12/14",
+        "confidence": 0.909,
+        "sourceElementIds": [
+          "text_0024"
+        ]
+      },
+      {
+        "title": "Skills Time!",
+        "text": "4 What is his teacher's name? Henry / Mrs. Cooper",
+        "confidence": 0.895,
+        "sourceElementIds": [
+          "text_0026"
+        ]
+      },
+      {
+        "title": "Skills Time!",
+        "text": "5 What is on the walls of the classroom? tables / pictures",
+        "confidence": 0.9533,
+        "sourceElementIds": [
+          "text_0028"
+        ]
+      },
+      {
+        "title": "Skills Time!",
+        "text": "6 Is there a swimming pool? Yes, there is. / No, there isn't.",
+        "confidence": 0.9377,
+        "sourceElementIds": [
+          "text_0030"
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "1",
+        "type": "speaking_activity",
+        "instruction": "Point to things you can see in a school. Say the words.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.9208,
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      },
+      {
+        "exerciseNumber": "3",
+        "type": "circle_exercise",
+        "instruction": "Read again. Circle the correct word.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.9529,
+        "sourceElementIds": [
+          "text_0018"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "listening_activity",
+        "instruction": "Listen and read.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.8626,
+        "sourceElementIds": [
+          "text_0005"
+        ]
+      },
+      {
+        "exerciseNumber": null,
+        "type": "activity",
+        "instruction": "Look at these pictures of my school.",
+        "items": [],
+        "providedAnswers": [],
+        "answerKey": null,
+        "confidence": 0.9586,
+        "sourceElementIds": [
+          "text_0007"
+        ]
+      }
+    ],
+    "pronunciation": [],
+    "listening": [
+      {
+        "exerciseNumber": null,
+        "instruction": "Listen and read.",
+        "type": "listening_activity",
+        "confidence": 0.8626
+      }
+    ],
+    "speaking": [
+      {
+        "exerciseNumber": "1",
+        "instruction": "Point to things you can see in a school. Say the words.",
+        "type": "speaking_activity",
+        "confidence": 0.9208
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Listen and read.",
+        "type": "listening_activity",
+        "confidence": 0.8626
+      },
+      {
+        "exerciseNumber": null,
+        "instruction": "Look at these pictures of my school.",
+        "type": "activity",
+        "confidence": 0.9586
+      }
+    ],
+    "writing": [
+      {
+        "exerciseNumber": "3",
+        "instruction": "Read again. Circle the correct word.",
+        "type": "circle_exercise",
+        "confidence": 0.9529
+      }
+    ],
+    "songsOrPoems": [
+      {
+        "lines": [
+          {
+            "content": "I'm in class 3 C. There are 12 girls",
+            "confidence": 0.925,
+            "bbox": {
+              "x": 0.58871,
+              "y": 0.419138,
+              "width": 0.321371,
+              "height": 0.017426
+            },
+            "sourceElementId": "text_0008",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "and 14 boys in my class.",
+            "confidence": 0.9583,
+            "bbox": {
+              "x": 0.630242,
+              "y": 0.440232,
+              "width": 0.2375,
+              "height": 0.017426
+            },
+            "sourceElementId": "text_0009",
+            "repairNotes": []
+          },
+          {
+            "content": "It's very big.",
+            "confidence": 0.8718,
+            "bbox": {
+              "x": 0.325333,
+              "y": 0.459555,
+              "width": 0.121333,
+              "height": 0.020222
+            },
+            "sourceElementId": "text_0011",
+            "repairNotes": []
+          },
+          {
+            "content": "Our teacher is Mrs. Cooper.",
+            "confidence": 0.96,
+            "bbox": {
+              "x": 0.616532,
+              "y": 0.46041,
+              "width": 0.264919,
+              "height": 0.017426
+            },
+            "sourceElementId": "text_0012",
+            "repairNotes": []
+          },
+          {
+            "content": "There are lots of pictures",
+            "confidence": 0.8525,
+            "bbox": {
+              "x": 0.068,
+              "y": 0.642063,
+              "width": 0.241333,
+              "height": 0.019717
+            },
+            "sourceElementId": "text_0013",
+            "repairNotes": []
+          },
+          {
+            "content": "There isa swimming pool,",
+            "confidence": 0.8391,
+            "bbox": {
+              "x": 0.664667,
+              "y": 0.642063,
+              "width": 0.255333,
+              "height": 0.017695
+            },
+            "sourceElementId": "text_0014",
+            "repairNotes": []
+          },
+          {
+            "content": "There are lots of pictures We sit at tables. | sit } There is a swimming pool,",
+            "confidence": 0.9165,
+            "bbox": {
+              "x": 0.068145,
+              "y": 0.643534,
+              "width": 0.85121,
+              "height": 0.018343
+            },
+            "sourceElementId": "text_0015",
+            "repairNotes": []
+          },
+          {
+            "content": "too. Ilove my school.",
+            "confidence": 0.8671,
+            "bbox": {
+              "x": 0.689333,
+              "y": 0.662791,
+              "width": 0.206,
+              "height": 0.017695
+            },
+            "sourceElementId": "text_0016",
+            "repairNotes": [
+              "spaces"
+            ]
+          },
+          {
+            "content": "and posters on the wall.",
+            "confidence": 0.8406,
+            "bbox": {
+              "x": 0.068667,
+              "y": 0.663296,
+              "width": 0.237333,
+              "height": 0.017695
+            },
+            "sourceElementId": "text_0017",
+            "repairNotes": []
+          }
+        ],
+        "confidence": 0.8923222222222223
+      }
+    ],
+    "tables": [
+      {
+        "title": null,
+        "headers": [],
+        "rows": [
+          [
+            "My name's Peter. Igoto Orange Park School."
+          ],
+          [
+            "Look at these pictures of my school."
+          ],
+          [
+            "I'm in class 3 C. There are 12 girls"
+          ],
+          [
+            "and 14 boys in my class."
+          ],
+          [
+            "Our classroom is upstairs."
+          ],
+          [
+            "It's very big."
+          ],
+          [
+            "Our teacher is Mrs. Cooper."
+          ],
+          [
+            "There are lots of pictures"
+          ],
+          [
+            "There isa swimming pool,"
+          ],
+          [
+            "There are lots of pictures We sit at tables. | sit } There is a swimming pool,"
+          ],
+          [
+            "too. Ilove my school."
+          ],
+          [
+            "and posters on the wall."
+          ],
+          [
+            "3 Read again. Circle the correct word."
+          ],
+          [
+            "upstairs downstairs"
+          ],
+          [
+            "1 Whereis Peter's classroom?"
+          ],
+          [
+            "2 What class is Peter in?"
+          ],
+          [
+            "2 What class is Peter in? 3 C / Orange Park"
+          ],
+          [
+            "12/14"
+          ],
+          [
+            "3 How many boys are there in his class? 12/14"
+          ],
+          [
+            "Henry/Mrs. Cooper"
+          ],
+          [
+            "4 What is his teacher's name? Henry / Mrs. Cooper"
+          ],
+          [
+            "tables/pictures"
+          ],
+          [
+            "5 What is on the walls of the classroom? tables / pictures"
+          ]
+        ],
+        "tableStructureConfidence": "medium",
+        "fallbackText": "Skills Time! Lesson Five Reading 1 Point to things you can see in a school. Say the words. Listen and read. Myname'sPeter.IgotoOrangeParkSchool. Look at these pictures of my school. I'm in class 3C. There are 12 girls and 14 boys in my class. Ourclassroomisupstairs. It's very big. Our teacher is Mrs. Cooper. There are lots of pictures There isa swimming pool, There are lots of pictures We sit at tables. | sit } There is a swimming pool, too.Ilove my school. and posters on the wall. 3 Read again. Circle the correct word. upstairsdownstairs 1WhereisPeter'sclassroom? 2 WhatclassisPeter in? 2 What class is Peter in? 3C / Orange Park 12/14 3 How many boys are there in his class? 12/14 Henry/Mrs.Cooper 4 What is his teacher's name? Henry / Mrs. Cooper tables/pictures 5 What is on the walls of the classroom? tables / pictures Yes,thereis./No,thereisn't 6 Is there a swimming pool? Yes, there is. / No, there isn’t. 12 Unit1 Reading:a description",
+        "sourceElementIds": [
+          "text_0001",
+          "text_0002",
+          "text_0003",
+          "text_0004",
+          "text_0005",
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019",
+          "text_0020",
+          "text_0021",
+          "text_0022",
+          "text_0023",
+          "text_0024",
+          "text_0025",
+          "text_0026",
+          "text_0027",
+          "text_0028",
+          "text_0029",
+          "text_0030",
+          "text_0031",
+          "text_0032",
+          "text_0033"
+        ]
+      }
+    ]
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [],
+    "verifiedAgainstPdf": false,
+    "repairStats": {
+      "text_kept": 31,
+      "text_repaired": 13,
+      "garbage_excluded": 2,
+      "vocab_rejected": 3,
+      "vocab_kept": 1,
+      "dialogue_lines": 5,
+      "dialogues_reconstructed": 1,
+      "exercises_reconstructed": 4,
+      "tables": 1,
+      "song_lines": 9
+    },
+    "averageOcrConfidence": 0.8835
+  },
+  "metadata": {
+    "book": "Family and Friends 2 Student Book (American)",
+    "publisher": "Oxford University Press",
+    "processingPipeline": "ocr_json_repair_ff2_v1",
+    "originalOcrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "originalAverageConfidence": 0.8835,
+    "noHallucinationPolicy": "Definitions, translations, speaker names, answers, and grammar rules are null or omitted unless visibly supported by page OCR/PDF. Text repairs are limited to spacing, punctuation, and clear OCR character errors."
+  }
+}

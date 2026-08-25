@@ -1,0 +1,1347 @@
+{
+  "pageNumber": 23,
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "OCR footer candidate",
+  "pdfPageNumber": 30,
+  "source": {
+    "pdfFile": "four corners 2nd studentbook 4_Part2.pdf",
+    "pdfLocalPageNumber": 7,
+    "pageSizePoints": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "renderedAtDpi": 300,
+    "orientation": "portrait"
+  },
+  "rawEvidence": {
+    "ocrTextElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Food",
+        "confidence": 0.7993,
+        "bbox": {
+          "x": 0.134667,
+          "y": 0.061309,
+          "width": 0.322667,
+          "height": 0.09119
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Food",
+            "confidence": 0.7993
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ood",
+            "confidence": 0.79
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0002",
+        "type": "label",
+        "content": "LESSON A",
+        "confidence": 0.91,
+        "bbox": {
+          "x": 0.041961,
+          "y": 0.171515,
+          "width": 0.103529,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "LESSONA",
+            "confidence": 0.8143
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "LESSON A",
+            "confidence": 0.91
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "label",
+        "content": "LESSON D",
+        "confidence": 0.7866,
+        "bbox": {
+          "x": 0.714,
+          "y": 0.172076,
+          "width": 0.106667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "LESSON C LESSON D",
+        "confidence": 0.9225,
+        "bbox": {
+          "x": 0.491765,
+          "y": 0.172727,
+          "width": 0.326667,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "LESSONC",
+            "confidence": 0.8015
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "LESSON C LESSON D",
+            "confidence": 0.9225
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "LESSON B",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.267451,
+          "y": 0.17303,
+          "width": 0.101569,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "LESSONB",
+            "confidence": 0.8439
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "LESSON B",
+            "confidence": 0.93
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "Food preparation",
+        "confidence": 0.8604,
+        "bbox": {
+          "x": 0.072,
+          "y": 0.197836,
+          "width": 0.150667,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Giving a",
+        "confidence": 0.7918,
+        "bbox": {
+          "x": 0.296667,
+          "y": 0.197836,
+          "width": 0.072667,
+          "height": 0.017517
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "Tastes and",
+        "confidence": 0.8267,
+        "bbox": {
+          "x": 0.522,
+          "y": 0.199382,
+          "width": 0.091333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "heading",
+        "content": "Reading:\"What",
+        "confidence": 0.8398,
+        "bbox": {
+          "x": 0.746,
+          "y": 0.200412,
+          "width": 0.132667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "Will You Be Eating",
+        "confidence": 0.8664,
+        "bbox": {
+          "x": 0.745333,
+          "y": 0.215353,
+          "width": 0.153333,
+          "height": 0.018547
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "textures",
+        "confidence": 0.8874,
+        "bbox": {
+          "x": 0.521333,
+          "y": 0.216383,
+          "width": 0.073333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "recommendation",
+        "confidence": 0.8634,
+        "bbox": {
+          "x": 0.298667,
+          "y": 0.217414,
+          "width": 0.148,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "Presentpassive",
+        "confidence": 0.8904,
+        "bbox": {
+          "x": 0.072667,
+          "y": 0.220505,
+          "width": 0.134,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "25Yearsfrom",
+        "confidence": 0.8854,
+        "bbox": {
+          "x": 0.745333,
+          "y": 0.2339,
+          "width": 0.116,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "Time clauses",
+        "confidence": 0.8801,
+        "bbox": {
+          "x": 0.521333,
+          "y": 0.236991,
+          "width": 0.112,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "Acceptinga",
+        "confidence": 0.777,
+        "bbox": {
+          "x": 0.298,
+          "y": 0.237506,
+          "width": 0.098,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Today?\"",
+        "confidence": 0.7599,
+        "bbox": {
+          "x": 0.746,
+          "y": 0.251932,
+          "width": 0.072,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "recommendation",
+        "confidence": 0.9293,
+        "bbox": {
+          "x": 0.298667,
+          "y": 0.256054,
+          "width": 0.148,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "heading",
+        "content": "Writing:Arecipe",
+        "confidence": 0.8827,
+        "bbox": {
+          "x": 0.745333,
+          "y": 0.273055,
+          "width": 0.140667,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "Warm Up",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.041961,
+          "y": 0.869091,
+          "width": 0.13098,
+          "height": 0.019091
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Warm Up",
+            "confidence": 0.767
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Warm Up",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "sentence",
+        "content": "A Describe the pictures. What foods do you see?",
+        "confidence": 0.926,
+        "bbox": {
+          "x": 0.086,
+          "y": 0.900052,
+          "width": 0.349333,
+          "height": 0.017517
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Describe the pictures. What foods do you see?",
+            "confidence": 0.926
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Describe the pictures. What foods do you see?",
+            "confidence": 0.9344
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "sentence",
+        "content": "B What have the foods been made into?",
+        "confidence": 0.9325,
+        "bbox": {
+          "x": 0.089804,
+          "y": 0.930303,
+          "width": 0.286667,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B Whathavethefoods been made into?",
+            "confidence": 0.8678
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B What have the foods been made into?",
+            "confidence": 0.9325
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "label",
+        "content": "23",
+        "confidence": 0.5183,
+        "bbox": {
+          "x": 0.901333,
+          "y": 0.956723,
+          "width": 0.022,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "ocrVocabulary": [
+      {
+        "word": "Food",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.134667,
+          "y": 0.061309,
+          "width": 0.322667,
+          "height": 0.09119
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.7993
+      },
+      {
+        "word": "Food preparation",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.072,
+          "y": 0.197836,
+          "width": 0.150667,
+          "height": 0.016486
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8604
+      },
+      {
+        "word": "Giving a",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.296667,
+          "y": 0.197836,
+          "width": 0.072667,
+          "height": 0.017517
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.7918
+      },
+      {
+        "word": "Tastes and",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.522,
+          "y": 0.199382,
+          "width": 0.091333,
+          "height": 0.01391
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8267
+      },
+      {
+        "word": "Will You Be Eating",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.745333,
+          "y": 0.215353,
+          "width": 0.153333,
+          "height": 0.018547
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8664
+      },
+      {
+        "word": "textures",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.521333,
+          "y": 0.216383,
+          "width": 0.073333,
+          "height": 0.015456
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8874
+      },
+      {
+        "word": "recommendation",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.298667,
+          "y": 0.217414,
+          "width": 0.148,
+          "height": 0.01288
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8634
+      },
+      {
+        "word": "Presentpassive",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.072667,
+          "y": 0.220505,
+          "width": 0.134,
+          "height": 0.013395
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8904
+      },
+      {
+        "word": "Time clauses",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.521333,
+          "y": 0.236991,
+          "width": 0.112,
+          "height": 0.014941
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.8801
+      },
+      {
+        "word": "Acceptinga",
+        "partOfSpeech": null,
+        "definition": null,
+        "translation": null,
+        "example": null,
+        "pronunciation": null,
+        "relatedForms": [],
+        "synonyms": [],
+        "antonyms": [],
+        "bbox": {
+          "x": 0.298,
+          "y": 0.237506,
+          "width": 0.098,
+          "height": 0.015456
+        },
+        "evidence": "short label or vocabulary item in an explicit word/picture region",
+        "confidence": 0.777
+      }
+    ],
+    "ocrGrammar": [],
+    "ocrDialogues": [],
+    "ocrExercises": [],
+    "ocrTables": [],
+    "ocrImages": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Reading:\"What",
+          "Will You Be Eating",
+          "textures",
+          "recommendation",
+          "Presentpassive",
+          "25Yearsfrom",
+          "Time clauses",
+          "Acceptinga",
+          "Today?\"",
+          "recommendation",
+          "Writing:Arecipe"
+        ],
+        "position": {
+          "x": 0.05266699999999999,
+          "y": 0.18041200000000002,
+          "width": 0.865999,
+          "height": 0.129129
+        },
+        "textElementIds": [
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019"
+        ],
+        "descriptionConfidence": 0.45
+      }
+    ],
+    "ocrSongsOrPoems": [],
+    "ocrReadingOrderNotes": "Elements are sorted by detected vertical position and then horizontal position; OCR alternatives remain attached to each disputed element.",
+    "ocrPagePurpose": null,
+    "rawOcrAudit": {
+      "rapidocr": "Food\nLESSONA\nLESSONC\nLESSON D\nLESSONB\nFood preparation\nGiving a\nTastes and\nReading:\"What\nWill You Be Eating\ntextures\nrecommendation\nPresentpassive\n25Yearsfrom\nTime clauses\nAcceptinga\nToday?\"\nrecommendation\nWriting:Arecipe\nWarm Up\nA Describe the pictures. What foods do you see?\nB Whathavethefoods been made into?\ndehkhodaedu.com\n23",
+      "tesseract_psm3": "”\n\nLESSON A\n\nood\n\nLESSON B\n\nLESSON C LESSON D\n\nWarm Up\n\nA Describe the pictures. What foods do you see?\n\nB What have the foods been made into?\n\ndehkhodaedu.com 23\n\n",
+      "tesseract_psm11": ""
+    },
+    "excludedOcrNoise": [
+      {
+        "id": "text_0002",
+        "type": "text",
+        "content": "”",
+        "confidence": 0,
+        "bbox": {
+          "x": 0.041176,
+          "y": 0.071818,
+          "width": 0.038039,
+          "height": 0.048788
+        },
+        "ocrSources": [
+          "tesseract_psm3"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "averageConfidence": 0.8567,
+    "ocrEngine": "RapidOCR (PP-OCR) + Tesseract 5.5 LSTM English; 300 DPI render",
+    "warnings": [
+      "6 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "1 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ]
+  },
+  "verifiedContent": {
+    "pageType": "reading",
+    "headings": [
+      "Food",
+      "LESSON A",
+      "LESSON D",
+      "LESSON C LESSON D",
+      "LESSON B",
+      "Reading:\"What",
+      "Writing: Arecipe"
+    ],
+    "textElements": [
+      {
+        "id": "text_0001",
+        "type": "heading",
+        "content": "Food",
+        "confidence": 0.7993,
+        "bbox": {
+          "x": 0.134667,
+          "y": 0.061309,
+          "width": 0.322667,
+          "height": 0.09119
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Food",
+            "confidence": 0.7993
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "ood",
+            "confidence": 0.79
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0002",
+        "type": "label",
+        "content": "LESSON A",
+        "confidence": 0.91,
+        "bbox": {
+          "x": 0.041961,
+          "y": 0.171515,
+          "width": 0.103529,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "LESSONA",
+            "confidence": 0.8143
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "LESSON A",
+            "confidence": 0.91
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0003",
+        "type": "label",
+        "content": "LESSON D",
+        "confidence": 0.7866,
+        "bbox": {
+          "x": 0.714,
+          "y": 0.172076,
+          "width": 0.106667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0004",
+        "type": "label",
+        "content": "LESSON C LESSON D",
+        "confidence": 0.9225,
+        "bbox": {
+          "x": 0.491765,
+          "y": 0.172727,
+          "width": 0.326667,
+          "height": 0.011818
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "LESSONC",
+            "confidence": 0.8015
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "LESSON C LESSON D",
+            "confidence": 0.9225
+          }
+        ],
+        "uncertain": true,
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0005",
+        "type": "label",
+        "content": "LESSON B",
+        "confidence": 0.93,
+        "bbox": {
+          "x": 0.267451,
+          "y": 0.17303,
+          "width": 0.101569,
+          "height": 0.011515
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "LESSONB",
+            "confidence": 0.8439
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "LESSON B",
+            "confidence": 0.93
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0006",
+        "type": "label",
+        "content": "Food preparation",
+        "confidence": 0.8604,
+        "bbox": {
+          "x": 0.072,
+          "y": 0.197836,
+          "width": 0.150667,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0007",
+        "type": "label",
+        "content": "Giving a",
+        "confidence": 0.7918,
+        "bbox": {
+          "x": 0.296667,
+          "y": 0.197836,
+          "width": 0.072667,
+          "height": 0.017517
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0008",
+        "type": "label",
+        "content": "Tastes and",
+        "confidence": 0.8267,
+        "bbox": {
+          "x": 0.522,
+          "y": 0.199382,
+          "width": 0.091333,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0009",
+        "type": "heading",
+        "content": "Reading:\"What",
+        "confidence": 0.8398,
+        "bbox": {
+          "x": 0.746,
+          "y": 0.200412,
+          "width": 0.132667,
+          "height": 0.01391
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0010",
+        "type": "label",
+        "content": "Will You Be Eating",
+        "confidence": 0.8664,
+        "bbox": {
+          "x": 0.745333,
+          "y": 0.215353,
+          "width": 0.153333,
+          "height": 0.018547
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0011",
+        "type": "label",
+        "content": "textures",
+        "confidence": 0.8874,
+        "bbox": {
+          "x": 0.521333,
+          "y": 0.216383,
+          "width": 0.073333,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0012",
+        "type": "label",
+        "content": "recommendation",
+        "confidence": 0.8634,
+        "bbox": {
+          "x": 0.298667,
+          "y": 0.217414,
+          "width": 0.148,
+          "height": 0.01288
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0013",
+        "type": "label",
+        "content": "Presentpassive",
+        "confidence": 0.8904,
+        "bbox": {
+          "x": 0.072667,
+          "y": 0.220505,
+          "width": 0.134,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0014",
+        "type": "label",
+        "content": "25Yearsfrom",
+        "confidence": 0.8854,
+        "bbox": {
+          "x": 0.745333,
+          "y": 0.2339,
+          "width": 0.116,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0015",
+        "type": "label",
+        "content": "Time clauses",
+        "confidence": 0.8801,
+        "bbox": {
+          "x": 0.521333,
+          "y": 0.236991,
+          "width": 0.112,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0016",
+        "type": "label",
+        "content": "Acceptinga",
+        "confidence": 0.777,
+        "bbox": {
+          "x": 0.298,
+          "y": 0.237506,
+          "width": 0.098,
+          "height": 0.015456
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0017",
+        "type": "label",
+        "content": "Today?",
+        "confidence": 0.7599,
+        "bbox": {
+          "x": 0.746,
+          "y": 0.251932,
+          "width": 0.072,
+          "height": 0.015971
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      },
+      {
+        "id": "text_0018",
+        "type": "label",
+        "content": "recommendation",
+        "confidence": 0.9293,
+        "bbox": {
+          "x": 0.298667,
+          "y": 0.256054,
+          "width": 0.148,
+          "height": 0.013395
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0019",
+        "type": "heading",
+        "content": "Writing: Arecipe",
+        "confidence": 0.8827,
+        "bbox": {
+          "x": 0.745333,
+          "y": 0.273055,
+          "width": 0.140667,
+          "height": 0.016486
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0020",
+        "type": "label",
+        "content": "Warm Up",
+        "confidence": 0.955,
+        "bbox": {
+          "x": 0.041961,
+          "y": 0.869091,
+          "width": 0.13098,
+          "height": 0.019091
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "Warm Up",
+            "confidence": 0.767
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "Warm Up",
+            "confidence": 0.955
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0021",
+        "type": "sentence",
+        "content": "A Describe the pictures. What foods do you see?",
+        "confidence": 0.926,
+        "bbox": {
+          "x": 0.086,
+          "y": 0.900052,
+          "width": 0.349333,
+          "height": 0.017517
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "A Describe the pictures. What foods do you see?",
+            "confidence": 0.926
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "A Describe the pictures. What foods do you see?",
+            "confidence": 0.9344
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0022",
+        "type": "sentence",
+        "content": "B What have the foods been made into?",
+        "confidence": 0.9325,
+        "bbox": {
+          "x": 0.089804,
+          "y": 0.930303,
+          "width": 0.286667,
+          "height": 0.011212
+        },
+        "ocrSources": [
+          "rapidocr",
+          "tesseract_psm3"
+        ],
+        "alternatives": [
+          {
+            "engine": "rapidocr",
+            "content": "B Whathavethefoods been made into?",
+            "confidence": 0.8678
+          },
+          {
+            "engine": "tesseract_psm3",
+            "content": "B What have the foods been made into?",
+            "confidence": 0.9325
+          }
+        ],
+        "lowConfidence": false
+      },
+      {
+        "id": "text_0023",
+        "type": "audio_track",
+        "content": "23",
+        "confidence": 0.5183,
+        "bbox": {
+          "x": 0.901333,
+          "y": 0.956723,
+          "width": 0.022,
+          "height": 0.014941
+        },
+        "ocrSources": [
+          "rapidocr"
+        ],
+        "lowConfidence": true
+      }
+    ],
+    "fullTextReadingOrder": [
+      "Food",
+      "LESSON A",
+      "LESSON D",
+      "LESSON C LESSON D",
+      "LESSON B",
+      "Food preparation",
+      "Giving a",
+      "Tastes and",
+      "Reading:\"What",
+      "Will You Be Eating",
+      "textures",
+      "recommendation",
+      "Presentpassive",
+      "25Yearsfrom",
+      "Time clauses",
+      "Acceptinga",
+      "Today?",
+      "recommendation",
+      "Writing: Arecipe",
+      "Warm Up",
+      "A Describe the pictures. What foods do you see?",
+      "B What have the foods been made into?"
+    ],
+    "paragraphs": [],
+    "sentences": [
+      "Food LESSON A LESSON D LESSON C LESSON D LESSON B Food preparation Giving a Tastes and Reading:\"What Will You Be Eating textures recommendation Presentpassive 25Yearsfrom Time clauses Acceptinga Today",
+      "recommendation Writing: Arecipe Warm Up A Describe the pictures",
+      "What foods do you see",
+      "B What have the foods been made into"
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [],
+    "exercises": [],
+    "tables": [],
+    "songsOrPoems": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "Reading:\"What",
+          "Will You Be Eating",
+          "textures",
+          "recommendation",
+          "Presentpassive",
+          "25Yearsfrom",
+          "Time clauses",
+          "Acceptinga",
+          "Today?",
+          "recommendation",
+          "Writing: Arecipe"
+        ],
+        "position": {
+          "x": 0.05266699999999999,
+          "y": 0.18041200000000002,
+          "width": 0.865999,
+          "height": 0.129129
+        },
+        "textElementIds": [
+          "text_0009",
+          "text_0010",
+          "text_0011",
+          "text_0012",
+          "text_0013",
+          "text_0014",
+          "text_0015",
+          "text_0016",
+          "text_0017",
+          "text_0018",
+          "text_0019"
+        ]
+      }
+    ],
+    "excludedGarbage": []
+  },
+  "learningContent": {
+    "pageType": "reading",
+    "title": "Food",
+    "learningObjectives": [],
+    "targetVocabulary": [],
+    "expressions": [],
+    "grammar": [],
+    "dialogues": [],
+    "reading": [
+      {
+        "title": "Food",
+        "paragraphs": [],
+        "sentences": [
+          "Food LESSON A LESSON D LESSON C LESSON D LESSON B Food preparation Giving a Tastes and Reading:\"What Will You Be Eating textures recommendation Presentpassive 25Yearsfrom Time clauses Acceptinga Today",
+          "recommendation Writing: Arecipe Warm Up A Describe the pictures",
+          "What foods do you see",
+          "B What have the foods been made into"
+        ]
+      }
+    ],
+    "exercises": [],
+    "pronunciation": [],
+    "listening": [],
+    "speaking": [],
+    "writing": [],
+    "songsOrPoems": [],
+    "tables": []
+  },
+  "quality": {
+    "needsReview": false,
+    "criticalUncertainties": [],
+    "warnings": [
+      "source flagged lowConfidence (some elements <0.80)",
+      "6 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved.",
+      "1 obvious symbol/noise OCR element(s) were excluded from structured text; raw OCR audit is preserved.",
+      "Scanning/distribution artifact text was excluded from instructional content."
+    ],
+    "verifiedAgainstPdf": false,
+    "repairStats": {},
+    "averageOcrConfidence": 0.8567,
+    "verificationMethod": null
+  },
+  "metadata": {
+    "book": "Four Corners 4 Student's Book (2nd Edition)",
+    "publisher": "Cambridge University Press",
+    "processingPipeline": "ocr_json_repair_fc4_v1",
+    "verificationMethod": null,
+    "noHallucinationPolicy": "Fix OCR errors only (spacing, characters, structure). Never paraphrase, modernize, or invent vocabulary, definitions, translations, grammar rules, speakers, or answer keys. When uncertain, flag needsReview."
+  }
+}
