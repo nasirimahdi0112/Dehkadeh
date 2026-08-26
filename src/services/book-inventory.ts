@@ -6,18 +6,25 @@ import type { Book } from '@/lib/types';
 
 const booksJsonDirectory = path.join(process.cwd(), 'src', 'books-json');
 const contentCache = new Map<string, string>();
+const maxPageSpan = 50;
+const maxContentLength = 100_000;
+const maxCacheEntries = 100;
 
 interface BookPage {
   pageNumber: number;
   text: string;
 }
 
-interface BookContent {
-  fileName: string;
-  bookName: string;
-  totalPages: number;
-  pages: BookPage[];
-  processedAt: string;
+interface StoredPage {
+  page?: number;
+  pdfPage?: number;
+  pageNumberDetected?: boolean;
+  book?: string;
+  content?: unknown;
+}
+
+interface IndexedPage extends BookPage {
+  pdfPage: number;
 }
 
 /**
@@ -26,7 +33,11 @@ interface BookContent {
  */
 export async function formatBookName(fileName: string): Promise<string> {
   return fileName
-    .replace('.json', '')
+    .replace(/\.json$/, '')
+    .replace(/_compact$/, '')
+    .replace(/_SB$/, ' Student Book')
+    .replace(/_CB$/, ' Course Book')
+    .replace(/_/g, ' ')
     .replace(/-/g, ' ')
     .replace(/\b\w/g, char => char.toUpperCase())
     .replace('Sb', 'Student Book')
@@ -39,18 +50,31 @@ export async function formatBookName(fileName: string): Promise<string> {
  */
 export async function getBooksList(): Promise<{ fileName: string; name: string }[]> {
   try {
-    const files = await fs.readdir(booksJsonDirectory);
-    const jsonFiles = files.filter(file => file.endsWith('.json'));
-    
-    // formatBookName is now async, so we use Promise.all to resolve names
+    const entries = await fs.readdir(booksJsonDirectory, { withFileTypes: true });
     const books = await Promise.all(
-      jsonFiles.map(async (file) => ({
-        fileName: file,
-        name: await formatBookName(file)
-      }))
+      entries
+        .filter(entry => entry.isDirectory())
+        .map(async entry => {
+          try {
+            const pageFiles = await getPageFiles(entry.name);
+            if (pageFiles.length === 0) {
+              return null;
+            }
+
+            const firstPage = await readPage(entry.name, pageFiles[0]);
+            const name = typeof firstPage.book === 'string'
+              ? await formatBookName(firstPage.book)
+              : await formatBookName(entry.name);
+
+            return { fileName: entry.name, name };
+          } catch (error) {
+            console.warn(`Skipping invalid book directory "${entry.name}".`, error);
+            return null;
+          }
+        })
     );
 
-    return books;
+    return books.filter((book): book is { fileName: string; name: string } => book !== null);
   } catch (error) {
     console.error('Error reading books directory:', error);
     return [];
@@ -75,13 +99,6 @@ export async function getBookContent(
   bookFileName: string,
   pageRange: string
 ): Promise<string> {
-  const cacheKey = `${bookFileName}-${pageRange}-json-v1`;
-  if (contentCache.has(cacheKey)) {
-    return contentCache.get(cacheKey)!;
-  }
-
-  const filePath = path.join(booksJsonDirectory, bookFileName);
-
   try {
     const rangeMatch = pageRange.match(/^\s*(\d+)\s*-\s*(\d+)\s*$/);
     if (!rangeMatch) {
@@ -94,11 +111,17 @@ export async function getBookContent(
     if (isNaN(startPageRaw) || isNaN(endPageRaw) || startPageRaw <= 0 || endPageRaw < startPageRaw) {
       throw new Error(`Invalid page range values: ${pageRange}`);
     }
+    if (endPageRaw - startPageRaw + 1 > maxPageSpan) {
+      throw new Error(`Page range cannot contain more than ${maxPageSpan} pages.`);
+    }
 
-    const jsonContent = await fs.readFile(filePath, 'utf-8');
-    const bookData: BookContent = JSON.parse(jsonContent);
+    const cacheKey = `${bookFileName}-${startPageRaw}-${endPageRaw}-pages-v3`;
+    if (contentCache.has(cacheKey)) {
+      return contentCache.get(cacheKey)!;
+    }
 
-    const selectedPages = bookData.pages.filter(
+    const pages = await readIndexedPages(bookFileName);
+    const selectedPages = pages.filter(
       page => page.pageNumber >= startPageRaw && page.pageNumber <= endPageRaw
     );
 
@@ -110,6 +133,16 @@ export async function getBookContent(
       .map(page => `[Page ${page.pageNumber}]\n${page.text}`)
       .join('\n\n');
 
+    if (fullText.length > maxContentLength) {
+      throw new Error(`Selected content exceeds the ${maxContentLength}-character limit.`);
+    }
+
+    if (contentCache.size >= maxCacheEntries) {
+      const oldestKey = contentCache.keys().next().value;
+      if (oldestKey) {
+        contentCache.delete(oldestKey);
+      }
+    }
     contentCache.set(cacheKey, fullText);
     return fullText;
 
@@ -124,14 +157,97 @@ export async function getBookContent(
  * Returns the total page count for a given book JSON.
  */
 export async function getBookPageCount(bookFileName: string): Promise<number> {
-  const filePath = path.join(booksJsonDirectory, bookFileName);
-  
   try {
-    const jsonContent = await fs.readFile(filePath, 'utf-8');
-    const bookData: BookContent = JSON.parse(jsonContent);
-    return bookData.totalPages;
+    const pages = await readIndexedPages(bookFileName);
+    return Math.max(0, ...pages.map(page => page.pageNumber));
   } catch (error) {
     console.error(`Error getting page count for "${bookFileName}":`, error);
     return 0;
   }
+}
+
+async function getPageFiles(bookDirectory: string): Promise<string[]> {
+  if (!/^[A-Za-z0-9][A-Za-z0-9_-]*$/.test(bookDirectory)) {
+    throw new Error(`Invalid book directory: ${bookDirectory}`);
+  }
+
+  const directoryPath = path.join(booksJsonDirectory, bookDirectory);
+  const entries = await fs.readdir(directoryPath, { withFileTypes: true });
+  return entries
+    .filter(entry => entry.isFile() && /^page_\d+\.json$/.test(entry.name))
+    .map(entry => entry.name)
+    .sort((left, right) => getFilePageNumber(left) - getFilePageNumber(right));
+}
+
+async function readPage(bookDirectory: string, pageFile: string): Promise<StoredPage> {
+  const pagePath = path.join(booksJsonDirectory, bookDirectory, pageFile);
+  return JSON.parse(await fs.readFile(pagePath, 'utf-8')) as StoredPage;
+}
+
+async function readIndexedPages(bookDirectory: string): Promise<IndexedPage[]> {
+  const pageFiles = await getPageFiles(bookDirectory);
+  const pageResults = await Promise.all(pageFiles.map(async file => {
+    try {
+      return { file, page: await readPage(bookDirectory, file) };
+    } catch (error) {
+      console.warn(`Skipping invalid page "${bookDirectory}/${file}".`, error);
+      return null;
+    }
+  }));
+  const sourcePages = pageResults.filter(
+    (result): result is { file: string; page: StoredPage } => result !== null
+  );
+  const verifiedPages = sourcePages
+    .map(({ page, file }) => ({ page, pdfPage: getFilePageNumber(file) }))
+    .filter(({ page }) => page.pageNumberDetected === true && typeof page.page === 'number');
+
+  return sourcePages.map(({ page, file }) => {
+    const pdfPage = getFilePageNumber(file);
+    return {
+      pdfPage,
+      pageNumber: getPrintedPageNumber(page, pdfPage, verifiedPages),
+      text: extractText(page.content)
+    };
+  });
+}
+
+function getPrintedPageNumber(
+  page: StoredPage,
+  pdfPage: number,
+  verifiedPages: { page: StoredPage; pdfPage: number }[]
+): number {
+  if (page.pageNumberDetected === true && typeof page.page === 'number') {
+    return page.page;
+  }
+
+  const nearestVerifiedPage = verifiedPages.reduce((nearest, candidate) => {
+    if (!nearest || Math.abs(candidate.pdfPage - pdfPage) < Math.abs(nearest.pdfPage - pdfPage)) {
+      return candidate;
+    }
+    return nearest;
+  }, undefined as { page: StoredPage; pdfPage: number } | undefined);
+
+  if (!nearestVerifiedPage || typeof nearestVerifiedPage.page.page !== 'number') {
+    return Math.max(1, page.page ?? pdfPage);
+  }
+
+  const inferredPage = pdfPage + (nearestVerifiedPage.page.page - nearestVerifiedPage.pdfPage);
+  return Math.max(1, inferredPage);
+}
+
+function getFilePageNumber(pageFile: string): number {
+  return Number(pageFile.match(/\d+/)?.[0] ?? 0);
+}
+
+function extractText(value: unknown): string {
+  if (typeof value === 'string') {
+    return value;
+  }
+  if (Array.isArray(value)) {
+    return value.map(extractText).filter(Boolean).join('\n');
+  }
+  if (value && typeof value === 'object') {
+    return Object.values(value).map(extractText).filter(Boolean).join('\n');
+  }
+  return '';
 }

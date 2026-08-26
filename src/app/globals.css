@@ -170,8 +170,7 @@
 }
 
 .pdf-export-content ol.answer-key-list {
-    columns: 2;
-    column-gap: 4rem;
+  columns: 1;
 }
 
 .pdf-export-content ol.answer-key-list li {
@@ -179,3 +178,8 @@
     margin-bottom: 1rem;
     break-inside: avoid;
 }
+
+  .pdf-export-content li.pdf-question,
+  .pdf-export-content li.pdf-answer {
+    list-style: none;
+  }

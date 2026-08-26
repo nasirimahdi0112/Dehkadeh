@@ -8,18 +8,27 @@
  * - GenerateQuestionsOutput - The return type for the generateQuestions function.
  */
 
-import {ai} from '@/ai/genkit';
+import {ai, assertGoogleApiKey} from '@/ai/genkit';
 import {z} from 'genkit';
 import {runWithQuestionGenerationModelFallback} from '@/ai/gemini-models';
 import { getBookContentTool } from '../tools/getBookContentTool';
+import {acquireAiRequest} from '@/lib/ai-request-limit';
+
+const PageRangeSchema = z.string()
+  .trim()
+  .regex(/^\d+\s*-\s*\d+$/, 'Page range must be in format X-Y.')
+  .refine(value => {
+    const [start, end] = value.split('-').map(Number);
+    return end >= start && end - start < 50;
+  }, 'Page range cannot contain more than 50 pages.');
 
 const GenerateQuestionsInputSchema = z.object({
   bookTitle: z.string().describe('The title of the book to generate questions from.'),
   questionType: z.enum(['multiple choice', 'fill in the blank', "true/false", "short answer"]).describe('The type of questions to generate.'),
-  numberOfQuestions: z.number().min(1).max(100).describe('The number of questions to generate.'),
-  pageRange: z.string().describe('The page range of the book to cover in the questions (e.g., 1-10).'),
+  numberOfQuestions: z.number().int().min(1).max(20).describe('The number of questions to generate.'),
+  pageRange: PageRangeSchema.describe('The page range of the book to cover in the questions (e.g., 1-10).'),
   questionDifficulty: z.enum(['easy', 'medium', 'hard']).describe('The difficulty of the questions.'),
-  topic: z.string().optional().describe('The specific topic to focus on in the questions.'),
+  topic: z.string().trim().max(200).optional().describe('The specific topic to focus on in the questions.'),
 });
 export type GenerateQuestionsInput = z.infer<typeof GenerateQuestionsInputSchema>;
 
@@ -35,7 +44,13 @@ const GenerateQuestionsOutputSchema = z.object({
 export type GenerateQuestionsOutput = z.infer<typeof GenerateQuestionsOutputSchema>;
 
 export async function generateQuestions(input: GenerateQuestionsInput): Promise<GenerateQuestionsOutput> {
-  return generateQuestionsFlow(input);
+  assertGoogleApiKey();
+  const releaseAiRequest = acquireAiRequest();
+  try {
+    return await generateQuestionsFlow(input);
+  } finally {
+    releaseAiRequest();
+  }
 }
 
 const prompt = ai.definePrompt({
@@ -90,13 +105,14 @@ const generateQuestionsFlow = ai.defineFlow(
     outputSchema: GenerateQuestionsOutputSchema,
   },
   async (input) => {
-    const { output } = await runWithQuestionGenerationModelFallback((model) =>
-      prompt(input, {model})
-    );
-    
-    if (!output || !output.questions) {
-      throw new Error("Failed to generate questions. The AI model did not return a valid response.");
-    }
+    const { output } = await runWithQuestionGenerationModelFallback(async (model) => {
+      const result = await prompt(input, {model});
+      if (!result.output || !result.output.questions) {
+        throw new Error("The AI model did not return questions.");
+      }
+      validateQuestions(result.output.questions, input.questionType, input.numberOfQuestions);
+      return result;
+    });
 
     const randomizedQuestions = output.questions.map((q) => {
       if (q.options && q.options.length > 0) {
@@ -108,3 +124,31 @@ const generateQuestionsFlow = ai.defineFlow(
     return { questions: randomizedQuestions };
   }
 );
+
+function validateQuestions(
+  questions: GenerateQuestionsOutput['questions'],
+  questionType: GenerateQuestionsInput['questionType'],
+  expectedCount: number
+) {
+  if (questions.length !== expectedCount) {
+    throw new Error(`The AI returned ${questions.length} questions; expected ${expectedCount}.`);
+  }
+
+  for (const question of questions) {
+    if (!question.question.trim() || !question.answer.trim()) {
+      throw new Error('The AI returned a question or answer with no text.');
+    }
+
+    if (questionType === 'multiple choice') {
+      if (question.options?.length !== 4 || !question.options.includes(question.answer)) {
+        throw new Error('The AI returned invalid multiple-choice options.');
+      }
+    } else if (question.options && question.options.length > 0) {
+      throw new Error(`The AI returned options for a ${questionType} question.`);
+    }
+
+    if (questionType === 'true/false' && !['True', 'False'].includes(question.answer)) {
+      throw new Error('The AI returned an invalid true/false answer.');
+    }
+  }
+}

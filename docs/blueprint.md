@@ -1,20 +1,24 @@
-# **App Name**: QuizGenius
+# DehkadehQuiz: Product Blueprint
 
-## Core Features:
+## Current Features
 
-- Book Upload: Allow users to upload PDF books for quiz generation, ensuring secure storage.
-- Quiz Configuration: Provide controls for selecting books, question types (e.g., multiple choice, fill in the blank), the number of questions, and the page range to cover.
-- Question Generation: Leverage an AI tool to generate questions based on the chosen book and user-defined parameters. Provide options for question difficulty and topic.
-- PDF Output: Generate a well-formatted and typeset PDF document containing the generated questions. Users can download the PDF for printing or digital distribution.
-- Question Preview: Allow users to preview the generated questions before generating the PDF. Offer an option to regenerate specific questions if needed.
-- Quiz Export: Add the capability to export quizzes as a CSV or other machine-readable format.
+- **Book library**: Use the processed page JSON files in `src/books-json` for the Family and Friends, Four Corners, and Viewpoint series.
+- **Quiz configuration**: Select a book, printed page range, question type, difficulty, question count, and optional topic.
+- **Question generation**: Retrieve selected pages through the Genkit `getBookContent` tool and generate grounded questions with Gemini.
+- **Question preview**: Review answers, show or hide answers, edit questions, and regenerate individual questions.
+- **Quiz export**: Download a structured Word document or a print-ready PDF with a separate answer-key section.
 
-## Style Guidelines:
+## Operational Constraints
 
-- Primary color: A vibrant blue (#29ABE2) to evoke trust and intelligence.
-- Background color: Light gray (#F0F0F0), nearly desaturated blue, for a clean and professional look.
-- Accent color: A saturated green (#90EE90), an analogous color to the primary blue, for buttons and interactive elements.
-- Body and headline font: 'Inter' sans-serif for a modern, clean, readable style.
-- Use a consistent set of icons that are simple, clear, and related to quizzes, books, and learning.
-- Implement a clear and intuitive layout with logical grouping of controls and options. Use whitespace to improve readability.
-- Add subtle animations for loading states and transitions to improve the user experience.
+- Requests are limited to 20 questions and 50 printed pages.
+- Retrieved content is limited to 100,000 characters.
+- Each Gemini model has up to 120 seconds to respond before fallback.
+- Invalid model output is rejected and the next configured model is tried.
+- Page records use printed page numbers; unverified OCR numbers are inferred from nearby verified offsets.
+
+## Future Features
+
+- Secure book-upload and processing workflow.
+- Student-facing interactive quizzes.
+- Teacher dashboard for saved quizzes.
+- CSV or other machine-readable export.

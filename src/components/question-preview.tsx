@@ -51,11 +51,18 @@ export function QuestionPreview({ questions, isLoading, onQuestionUpdate, quizCo
   };
 
   const handleExportWord = async () => {
-    if (!quizConfig || questions.length === 0) return;
+        if (!quizConfig || questions.length === 0) {
+            toast({
+                variant: "destructive",
+                title: "Cannot Export Word File",
+                description: "Generate at least one question before exporting.",
+            });
+            return;
+        }
     setIsExporting(true);
 
     try {
-        const quizChildren: any[] = [
+                const quizChildren: Paragraph[] = [
             new Paragraph({ text: `${getBookDisplayName(quizConfig.bookTitle)} Quiz`, heading: HeadingLevel.HEADING_1, alignment: AlignmentType.CENTER }),
             new Paragraph({ text: `Pages: ${quizConfig.pageRange}`, heading: HeadingLevel.HEADING_3, alignment: AlignmentType.CENTER }),
             new Paragraph({ text: "" }),
@@ -208,31 +215,53 @@ export function QuestionPreview({ questions, isLoading, onQuestionUpdate, quizCo
     }
   };
 
-  const addCanvasToPdf = (pdf: jsPDF, canvas: HTMLCanvasElement) => {
-    const imgData = canvas.toDataURL('image/png');
-    const pdfWidth = pdf.internal.pageSize.getWidth();
-    const pdfHeight = pdf.internal.pageSize.getHeight();
-    const imgWidth = canvas.width;
-    const imgHeight = canvas.height;
-    const ratio = imgWidth / imgHeight;
-    const newImgHeight = pdfWidth / ratio;
-    
-    let heightLeft = newImgHeight;
-    let position = 0;
-    
-    pdf.addImage(imgData, 'PNG', 0, position, pdfWidth, newImgHeight, undefined, 'FAST');
-    heightLeft -= pdfHeight;
+    const addElementsToPdf = async (pdf: jsPDF, elements: HTMLElement[]) => {
+        const margin = 15;
+        const gap = 5;
+        const contentWidth = pdf.internal.pageSize.getWidth() - (margin * 2);
+        const pageHeight = pdf.internal.pageSize.getHeight();
+        let cursorY = margin;
 
-    while (heightLeft > 0) {
-        position -= pdfHeight;
-        pdf.addPage();
-        pdf.addImage(imgData, 'PNG', 0, position, pdfWidth, newImgHeight, undefined, 'FAST');
-        heightLeft -= pdfHeight;
-    }
+        for (const element of elements) {
+            const canvas = await html2canvas(element, {
+                scale: 2,
+                backgroundColor: "#FFFFFF",
+                useCORS: true,
+            });
+
+            if (canvas.width === 0 || canvas.height === 0) {
+                throw new Error("Export content produced an empty image.");
+            }
+
+            const imageRatio = canvas.height / canvas.width;
+            let imageWidth = contentWidth;
+            let imageHeight = imageWidth * imageRatio;
+            const maxHeight = pageHeight - (margin * 2);
+
+            if (imageHeight > maxHeight) {
+                imageHeight = maxHeight;
+                imageWidth = imageHeight / imageRatio;
+            }
+
+            if (cursorY > margin && cursorY + imageHeight > pageHeight - margin) {
+                pdf.addPage();
+                cursorY = margin;
+            }
+
+            pdf.addImage(canvas.toDataURL('image/png'), 'PNG', margin, cursorY, imageWidth, imageHeight, undefined, 'FAST');
+            cursorY += imageHeight + gap;
+        }
   };
 
   const handleExportPdf = async () => {
-    if (!questionsRef.current || !answerKeyRef.current || !quizConfig) return;
+        if (!questionsRef.current || !answerKeyRef.current || !quizConfig || questions.length === 0) {
+            toast({
+                variant: "destructive",
+                title: "Cannot Export PDF File",
+                description: "Generate at least one question before exporting.",
+            });
+            return;
+        }
     setIsExporting(true);
 
     try {
@@ -244,21 +273,22 @@ export function QuestionPreview({ questions, isLoading, onQuestionUpdate, quizCo
             compress: true
         });
 
-        const questionsCanvas = await html2canvas(questionsRef.current, {
-            scale: 3,
-            backgroundColor: "#FFFFFF",
-            useCORS: true,
-        });
-        addCanvasToPdf(pdf, questionsCanvas);
-        
-        pdf.addPage();
-        
-        const answerKeyCanvas = await html2canvas(answerKeyRef.current, {
-            scale: 3,
-            backgroundColor: "#FFFFFF",
-            useCORS: true,
-        });
-        addCanvasToPdf(pdf, answerKeyCanvas);
+                const questionElements = [
+                    questionsRef.current.querySelector<HTMLElement>('.pdf-questions-header'),
+                    ...Array.from(questionsRef.current.querySelectorAll<HTMLElement>('.pdf-question')),
+                ].filter((element): element is HTMLElement => element !== null);
+                const answerElements = [
+                    answerKeyRef.current.querySelector<HTMLElement>('.pdf-answer-header'),
+                    ...Array.from(answerKeyRef.current.querySelectorAll<HTMLElement>('.pdf-answer')),
+                ].filter((element): element is HTMLElement => element !== null);
+
+                if (questionElements.length === 0 || answerElements.length === 0) {
+                    throw new Error("Export content is unavailable.");
+                }
+
+                await addElementsToPdf(pdf, questionElements);
+                pdf.addPage();
+                await addElementsToPdf(pdf, answerElements);
 
         pdf.save(getQuizFileName('pdf'));
          toast({
@@ -311,13 +341,15 @@ export function QuestionPreview({ questions, isLoading, onQuestionUpdate, quizCo
           
            <div className="absolute -left-[9999px] top-auto w-[8.5in]" aria-hidden="true">
               <div ref={questionsRef} className="pdf-export-content bg-white">
-                  <h1>{getBookDisplayName(quizConfig.bookTitle)} Quiz</h1>
-                  <p className="quiz-subtitle">Pages: {quizConfig.pageRange}</p>
+                                    <div className="pdf-questions-header">
+                                        <h1>{getBookDisplayName(quizConfig.bookTitle)} Quiz</h1>
+                                        <p className="quiz-subtitle">Pages: {quizConfig.pageRange}</p>
+                                    </div>
 
                   <ol className="quiz-questions-list">
                       {questions.map((q, index) => (
-                          <li key={`pdf-q-${index}`}>
-                              <p className="question-text">{q.question}</p>
+                                                    <li key={`pdf-q-${index}`} className="pdf-question">
+                              <p className="question-text">{index + 1}. {q.question}</p>
                               {q.options && q.options.length > 0 && (
                                   <ol className="question-options-list">
                                       {q.options.map((option, i) => (
@@ -333,10 +365,12 @@ export function QuestionPreview({ questions, isLoading, onQuestionUpdate, quizCo
               </div>
                <div ref={answerKeyRef} className="pdf-export-content bg-white">
                   <div className="answer-key">
-                      <h2>Answer Key</h2>
+                      <div className="pdf-answer-header">
+                        <h2>Answer Key</h2>
+                      </div>
                       <ol className="answer-key-list">
                           {questions.map((q, i) => (
-                              <li key={`pdf-a-${i}`}>{i + 1}. {getAnswerDisplay(q)}</li>
+                              <li key={`pdf-a-${i}`} className="pdf-answer">{i + 1}. {getAnswerDisplay(q)}</li>
                           ))}
                       </ol>
                   </div>

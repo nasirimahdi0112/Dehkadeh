@@ -8,16 +8,25 @@
  * - RegenerateQuestionOutput - The return type for the regenerateQuestion function.
  */
 
-import {ai} from '@/ai/genkit';
+import {ai, assertGoogleApiKey} from '@/ai/genkit';
 import {runWithQuestionGenerationModelFallback} from '@/ai/gemini-models';
 import {z} from 'genkit';
 import {getBookContentTool} from '../tools/getBookContentTool';
+import {acquireAiRequest} from '@/lib/ai-request-limit';
+
+const PageRangeSchema = z.string()
+  .trim()
+  .regex(/^\d+\s*-\s*\d+$/, 'Page range must be in format X-Y.')
+  .refine(value => {
+    const [start, end] = value.split('-').map(Number);
+    return end >= start && end - start < 50;
+  }, 'Page range cannot contain more than 50 pages.');
 
 const RegenerateQuestionInputSchema = z.object({
   bookTitle: z.string().describe('The file name of the book the question is based on.'),
-  pageRange: z.string().describe('The page range in the book to focus on.'),
-  questionType: z.string().describe('The type of question to generate (e.g., multiple choice, fill in the blank).'),
-  originalQuestion: z.string().describe('The original question that needs to be regenerated.'),
+  pageRange: PageRangeSchema.describe('The page range in the book to focus on.'),
+  questionType: z.enum(['multiple choice', 'fill in the blank', 'true/false', 'short answer']),
+  originalQuestion: z.string().trim().min(1).max(1000).describe('The original question that needs to be regenerated.'),
 });
 export type RegenerateQuestionInput = z.infer<typeof RegenerateQuestionInputSchema>;
 
@@ -29,7 +38,13 @@ const RegenerateQuestionOutputSchema = z.object({
 export type RegenerateQuestionOutput = z.infer<typeof RegenerateQuestionOutputSchema>;
 
 export async function regenerateQuestion(input: RegenerateQuestionInput): Promise<RegenerateQuestionOutput> {
-  return regenerateQuestionFlow(input);
+  assertGoogleApiKey();
+  const releaseAiRequest = acquireAiRequest();
+  try {
+    return await regenerateQuestionFlow(input);
+  } finally {
+    releaseAiRequest();
+  }
 }
 
 const prompt = ai.definePrompt({
@@ -66,14 +81,38 @@ const regenerateQuestionFlow = ai.defineFlow(
   },
   async input => {
     const {output} = await runWithQuestionGenerationModelFallback(
-      (model) => prompt(input, {model}),
+      async (model) => {
+        const result = await prompt(input, {model});
+        if (!result.output) {
+          throw new Error('The AI model did not return a question.');
+        }
+        validateQuestion(result.output, input.questionType);
+        return result;
+      },
       'question regeneration'
     );
-
-    if (!output) {
-      throw new Error('Failed to regenerate the question. The AI model did not return a valid response.');
-    }
 
     return output;
   }
 );
+
+function validateQuestion(
+  question: RegenerateQuestionOutput,
+  questionType: RegenerateQuestionInput['questionType']
+) {
+  if (!question.question.trim() || !question.answer.trim()) {
+    throw new Error('The AI returned a question or answer with no text.');
+  }
+
+  if (questionType === 'multiple choice') {
+    if (question.options?.length !== 4 || !question.options.includes(question.answer)) {
+      throw new Error('The AI returned invalid multiple-choice options.');
+    }
+  } else if (question.options && question.options.length > 0) {
+    throw new Error(`The AI returned options for a ${questionType} question.`);
+  }
+
+  if (questionType === 'true/false' && !['True', 'False'].includes(question.answer)) {
+    throw new Error('The AI returned an invalid true/false answer.');
+  }
+}

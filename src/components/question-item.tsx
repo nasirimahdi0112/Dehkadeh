@@ -10,7 +10,7 @@ import { regenerateQuestion } from "@/ai/flows/refine-question";
 import type { RegenerateQuestionOutput } from "@/ai/flows/refine-question";
 import type { Question } from "@/lib/types";
 import { Badge } from "./ui/badge";
-import { cn } from "@/lib/utils";
+import { cn, getAiErrorMessage } from "@/lib/utils";
 
 interface QuestionItemProps {
   question: Question;
@@ -60,8 +60,8 @@ export function QuestionItem({ question, index, onQuestionUpdate, quizConfig, sh
       console.error(error);
       toast({
         variant: "destructive",
-        title: "An unexpected error occurred",
-        description: "Failed to regenerate question. Please try again.",
+        title: "Question Regeneration Failed",
+        description: getAiErrorMessage(error),
       });
     } finally {
       setIsRegenerating(false);

@@ -1,0 +1,161 @@
+{
+  "page": 15,
+  "pdfPage": 16,
+  "book": "Family_and_Friends_1_SB",
+  "pageNumberDetected": true,
+  "pageNumberDetectionMethod": "verified sequential printed-footer pattern",
+  "pdfFile": "Family and Friends 1 SB_Part1.pdf",
+  "pdfLocalPageNumber": 16,
+  "content": {
+    "pageType": "page",
+    "text": [
+      {
+        "type": "heading",
+        "content": "Craft"
+      },
+      {
+        "type": "heading",
+        "content": "Watch the story again.Act."
+      },
+      {
+        "type": "paragraph",
+        "content": "2 Make a face mask."
+      },
+      {
+        "type": "instruction",
+        "content": "2Draw and color aface"
+      },
+      {
+        "type": "sentence",
+        "content": "I Cut out the mask.Cut out the eyes"
+      },
+      {
+        "type": "label",
+        "content": "4 Wear your mask"
+      },
+      {
+        "type": "label",
+        "content": "3Put on the string"
+      },
+      {
+        "type": "heading",
+        "content": "Speaking"
+      },
+      {
+        "type": "label",
+        "content": "Useyour mask and say."
+      },
+      {
+        "type": "sentence",
+        "content": "Hi,Jack.Howareyou?"
+      },
+      {
+        "type": "sentence",
+        "content": "I'm fine, thanks.How are you?"
+      },
+      {
+        "type": "label",
+        "content": "ai"
+      },
+      {
+        "type": "sentence",
+        "content": "I'mfine,thankyou."
+      },
+      {
+        "type": "label",
+        "content": "15"
+      },
+      {
+        "type": "label",
+        "content": "Craft:afacemask"
+      }
+    ],
+    "vocabulary": [],
+    "grammar": [],
+    "dialogues": [
+      {
+        "lines": [
+          {
+            "speaker": null,
+            "content": "I Cut out the mask.Cut out the eyes",
+            "sourceElementId": "text_0005",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "Hi,Jack.Howareyou?",
+            "sourceElementId": "text_0010",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I'm fine, thanks.How are you?",
+            "sourceElementId": "text_0011",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          },
+          {
+            "speaker": null,
+            "content": "I'mfine,thankyou.",
+            "sourceElementId": "text_0013",
+            "speakerEvidence": "No explicit speaker label was detected; speaker assignment intentionally omitted."
+          }
+        ],
+        "speakerAssignmentConfidence": "low",
+        "note": "Speech-bubble/dialogue-like text was detected spatially; speaker names were not inferred without explicit labels."
+      }
+    ],
+    "exercises": [
+      {
+        "exerciseNumber": "2",
+        "type": "exercise",
+        "instruction": "Draw and color aface",
+        "items": [],
+        "providedAnswers": [],
+        "sourceElementIds": [
+          "text_0004"
+        ]
+      }
+    ],
+    "tables": [],
+    "images": [
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "4 Wear your mask",
+          "3Put on the string",
+          "Speaking",
+          "Useyour mask and say.",
+          "Hi,Jack.Howareyou?"
+        ],
+        "textElementIds": [
+          "text_0006",
+          "text_0007",
+          "text_0008",
+          "text_0009",
+          "text_0010"
+        ]
+      },
+      {
+        "description": "Illustrated or picture-based region inferred from spatial layout; no semantic image caption was invented.",
+        "text": [
+          "I'm fine, thanks.How are you?",
+          "ai",
+          "I'mfine,thankyou."
+        ],
+        "textElementIds": [
+          "text_0011",
+          "text_0012",
+          "text_0013"
+        ]
+      }
+    ],
+    "songsOrPoems": [],
+    "nonEducationalText": []
+  },
+  "quality": {
+    "review": true,
+    "issues": [
+      "3 merged OCR text element(s) have confidence below 0.80; alternatives and raw OCR are preserved."
+    ]
+  }
+}

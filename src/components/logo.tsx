@@ -58,7 +58,7 @@ const Logo = (props: React.SVGProps<SVGSVGElement>) => (
      <g fill="#231F20" style={{ fontSize: "16px", fontFamily: "Arial, sans-serif", fontWeight: "bold" }}>
         <text textAnchor="middle">
             <textPath href="#circlePath" startOffset="0%">
-                DehkadehQuiz
+                Dehkadeh-e-Zaban
             </textPath>
         </text>
     </g>

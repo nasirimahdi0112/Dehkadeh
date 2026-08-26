@@ -1,5 +1,7 @@
 import {googleAI} from '@genkit-ai/google-genai';
 
+const modelTimeoutMs = 120_000;
+
 export const QUESTION_GENERATION_MODEL_NAMES = [
   'gemini-2.5-flash',
   'gemini-3.7-flash',
@@ -21,7 +23,7 @@ export async function runWithQuestionGenerationModelFallback<T>(
 
   for (const modelName of QUESTION_GENERATION_MODEL_NAMES) {
     try {
-      return await generate(googleAI.model(modelName));
+      return await withTimeout(generate(googleAI.model(modelName)), modelTimeoutMs);
     } catch (error) {
       const message = error instanceof Error ? error.message : String(error);
       errors.push(`${modelName}: ${message}`);
@@ -37,4 +39,21 @@ export async function runWithQuestionGenerationModelFallback<T>(
       ' | '
     )}`
   );
+}
+
+async function withTimeout<T>(promise: Promise<T>, timeoutMs: number): Promise<T> {
+  let timeoutHandle: ReturnType<typeof setTimeout> | undefined;
+  const timeout = new Promise<never>((_, reject) => {
+    timeoutHandle = setTimeout(() => {
+      reject(new Error(`Model response timed out after ${timeoutMs / 1000} seconds.`));
+    }, timeoutMs);
+  });
+
+  try {
+    return await Promise.race([promise, timeout]);
+  } finally {
+    if (timeoutHandle) {
+      clearTimeout(timeoutHandle);
+    }
+  }
 }

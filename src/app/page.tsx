@@ -12,6 +12,7 @@ import { QuestionPreview } from '@/components/question-preview';
 import type { FormValues } from '@/lib/schemas';
 import { getAvailableBooks } from '@/services/book-inventory';
 import { SidebarContentWrapper } from '@/components/sidebar-content-wrapper';
+import { getAiErrorMessage } from '@/lib/utils';
 
 export default function Home() {
   const [questions, setQuestions] = useState<Question[]>([]);
@@ -64,8 +65,8 @@ export default function Home() {
       console.error(error);
       toast({
         variant: "destructive",
-        title: "An unexpected error occurred",
-        description: "Something went wrong while generating the quiz. Please check the console for more details.",
+        title: "Quiz Generation Failed",
+        description: getAiErrorMessage(error),
       });
     } finally {
       setIsLoading(false);

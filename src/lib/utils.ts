@@ -5,6 +5,24 @@ export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs))
 }
 
+export function getAiErrorMessage(error: unknown): string {
+  const message = error instanceof Error ? error.message : '';
+  if (
+    message.startsWith('AI service is not configured') ||
+    message.startsWith('AI request limit reached') ||
+    message.startsWith('Invalid page range') ||
+    message.startsWith('Page range cannot') ||
+    message.startsWith('No pages found') ||
+    message.startsWith('Selected content exceeds')
+  ) {
+    return message;
+  }
+  if (message.includes('timed out')) {
+    return 'The AI model took too long to respond. Please try again.';
+  }
+  return 'The AI service could not complete this request. Check the API configuration and try again.';
+}
+
 export function downloadCsv(data: Record<string, any>[], filename: string) {
   if (!data || data.length === 0) {
     console.error("No data to export for CSV.");
