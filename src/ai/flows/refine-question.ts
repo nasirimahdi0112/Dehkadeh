@@ -80,14 +80,14 @@ const regenerateQuestionFlow = ai.defineFlow(
     outputSchema: RegenerateQuestionOutputSchema,
   },
   async input => {
-    const {output} = await runWithQuestionGenerationModelFallback(
+    const output = await runWithQuestionGenerationModelFallback(
       async (model) => {
         const result = await prompt(input, {model});
         if (!result.output) {
           throw new Error('The AI model did not return a question.');
         }
         validateQuestion(result.output, input.questionType);
-        return result;
+        return result.output;
       },
       'question regeneration'
     );
