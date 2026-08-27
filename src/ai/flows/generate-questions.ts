@@ -105,18 +105,14 @@ const generateQuestionsFlow = ai.defineFlow(
     outputSchema: GenerateQuestionsOutputSchema,
   },
   async (input) => {
-    const { output } = await runWithQuestionGenerationModelFallback(async (model) => {
+    const output = await runWithQuestionGenerationModelFallback(async (model) => {
       const result = await prompt(input, {model});
       if (!result.output || !result.output.questions) {
         throw new Error("The AI model did not return questions.");
       }
       validateQuestions(result.output.questions, input.questionType, input.numberOfQuestions);
-      return result;
+      return result.output;
     });
-
-    if (!output) {
-      throw new Error("The AI model did not return questions.");
-    }
 
     const randomizedQuestions = output.questions.map((q) => {
       if (q.options && q.options.length > 0) {
