@@ -11,7 +11,7 @@
 import {ai, assertGoogleApiKey} from '@/ai/genkit';
 import {runWithQuestionGenerationModelFallback} from '@/ai/gemini-models';
 import {z} from 'genkit';
-import {getBookContentTool} from '../tools/getBookContentTool';
+import {getBookContent} from '@/services/book-inventory';
 import {acquireAiRequest} from '@/lib/ai-request-limit';
 
 const PageRangeSchema = z.string()
@@ -47,24 +47,27 @@ export async function regenerateQuestion(input: RegenerateQuestionInput): Promis
   }
 }
 
+const PromptInputSchema = RegenerateQuestionInputSchema.extend({
+  bookContent: z.string().describe('The retrieved text from the selected book pages.'),
+});
+
 const prompt = ai.definePrompt({
   name: 'regenerateQuestionPrompt',
-  input: {schema: RegenerateQuestionInputSchema},
+  input: {schema: PromptInputSchema},
   output: {schema: RegenerateQuestionOutputSchema},
-  tools: [getBookContentTool],
   config: {
     temperature: 0.2,
   },
   prompt: `You are an AI quiz generator. You are given the title of a book, a page range within that book, a question type, and an original question. Your task is to regenerate the question based on the provided information and also provide the answer for it.
 
-First, call the 'getBookContent' tool to retrieve the relevant text from the book for the page range: {{{pageRange}}}.
-
-Use the retrieved text as the source of truth. Do not rely on general book knowledge when the retrieved text is available.
+Use the retrieved book content below as the source of truth. Do not rely on general book knowledge when the retrieved text is available.
 
 Book Title: {{{bookTitle}}}
 Page Range: {{{pageRange}}}
 Question Type: {{{questionType}}}
 Original Question: {{{originalQuestion}}}
+Retrieved book content:
+{{{bookContent}}}
 
 Generate a new, different question of the same type, grounded in the retrieved page content, and provide its corresponding answer.
 - If the question type is "multiple choice", you must provide exactly 4 options in the 'options' array: one correct answer and three incorrect distractors. The 'answer' field should contain the correct option's text.
@@ -80,9 +83,10 @@ const regenerateQuestionFlow = ai.defineFlow(
     outputSchema: RegenerateQuestionOutputSchema,
   },
   async input => {
+    const bookContent = await getBookContent(input.bookTitle, input.pageRange);
     const output = await runWithQuestionGenerationModelFallback(
       async (model) => {
-        const result = await prompt(input, {model});
+        const result = await prompt({...input, bookContent}, {model});
         if (!result.output) {
           throw new Error('The AI model did not return a question.');
         }

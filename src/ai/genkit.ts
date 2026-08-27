@@ -1,6 +1,10 @@
 import {genkit} from 'genkit';
 import {googleAI} from '@genkit-ai/google-genai';
 
+if (process.env.VERCEL) {
+  process.env.GENKIT_ENV = 'prod';
+}
+
 export const ai = genkit({
   plugins: [googleAI()],
 });

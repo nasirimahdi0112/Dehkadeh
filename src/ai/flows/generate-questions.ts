@@ -11,7 +11,7 @@
 import {ai, assertGoogleApiKey} from '@/ai/genkit';
 import {z} from 'genkit';
 import {runWithQuestionGenerationModelFallback} from '@/ai/gemini-models';
-import { getBookContentTool } from '../tools/getBookContentTool';
+import {getBookContent} from '@/services/book-inventory';
 import {acquireAiRequest} from '@/lib/ai-request-limit';
 
 const PageRangeSchema = z.string()
@@ -53,11 +53,14 @@ export async function generateQuestions(input: GenerateQuestionsInput): Promise<
   }
 }
 
+const PromptInputSchema = GenerateQuestionsInputSchema.extend({
+  bookContent: z.string().describe('The retrieved text from the selected book pages.'),
+});
+
 const prompt = ai.definePrompt({
   name: 'generateQuestionsPrompt',
-  input: {schema: GenerateQuestionsInputSchema},
+  input: {schema: PromptInputSchema},
   output: {schema: GenerateQuestionsOutputSchema},
-  tools: [getBookContentTool],
   config: {
     temperature: 0.2,
   },
@@ -72,11 +75,11 @@ Level Guidance for Book Series:
 
 You must also consider the level *within* the series, which is often indicated by a number in the book title (e.g., "Four Corners 1" is lower intermediate, while "Four Corners 4" is upper intermediate). As the level number increases, your questions should become progressively less dependent on direct examples from the text and more focused on the abstract concepts being taught.
 
-First, call the 'getBookContent' tool to retrieve the relevant text from the book for the page range: {{pageRange}}.
-
-Use the retrieved text to generate {{numberOfQuestions}} {{questionType}} questions.
+Use the retrieved book content below as the source of truth to generate {{numberOfQuestions}} {{questionType}} questions.
 The difficulty of the questions should be: {{questionDifficulty}}.
 The questions should be appropriate for the page range: {{pageRange}}.
+Retrieved book content:
+{{bookContent}}
 {{#if topic}}
 Focus the questions on the topic: {{topic}}.
 {{/if}}
@@ -105,8 +108,9 @@ const generateQuestionsFlow = ai.defineFlow(
     outputSchema: GenerateQuestionsOutputSchema,
   },
   async (input) => {
+    const bookContent = await getBookContent(input.bookTitle, input.pageRange);
     const output = await runWithQuestionGenerationModelFallback(async (model) => {
-      const result = await prompt(input, {model});
+      const result = await prompt({...input, bookContent}, {model});
       if (!result.output || !result.output.questions) {
         throw new Error("The AI model did not return questions.");
       }
