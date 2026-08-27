@@ -72,6 +72,7 @@ export function QuestionPreview({ questions, isLoading, onQuestionUpdate, quizCo
             quizChildren.push(new Paragraph({
                 text: q.question,
                 numbering: { reference: "quiz-numbering", level: 0 },
+                keepNext: true,
             }));
 
             if (q.options && q.options.length > 0) {
@@ -79,6 +80,7 @@ export function QuestionPreview({ questions, isLoading, onQuestionUpdate, quizCo
                      quizChildren.push(new Paragraph({
                         text: option,
                         numbering: { reference: "quiz-numbering", level: 1 },
+                        keepNext: option !== q.options?.[q.options.length - 1],
                     }));
                 });
             }
@@ -233,23 +235,54 @@ export function QuestionPreview({ questions, isLoading, onQuestionUpdate, quizCo
                 throw new Error("Export content produced an empty image.");
             }
 
-            const imageRatio = canvas.height / canvas.width;
-            let imageWidth = contentWidth;
-            let imageHeight = imageWidth * imageRatio;
-            const maxHeight = pageHeight - (margin * 2);
-
-            if (imageHeight > maxHeight) {
-                imageHeight = maxHeight;
-                imageWidth = imageHeight / imageRatio;
-            }
+            const imageWidth = contentWidth;
+            const imageHeight = imageWidth * (canvas.height / canvas.width);
 
             if (cursorY > margin && cursorY + imageHeight > pageHeight - margin) {
                 pdf.addPage();
                 cursorY = margin;
             }
 
-            pdf.addImage(canvas.toDataURL('image/png'), 'PNG', margin, cursorY, imageWidth, imageHeight, undefined, 'FAST');
-            cursorY += imageHeight + gap;
+            let sourceY = 0;
+            while (sourceY < canvas.height) {
+                const availableHeight = pageHeight - margin - cursorY;
+                const sourceSliceHeight = Math.min(
+                    canvas.height - sourceY,
+                    Math.max(1, Math.floor((availableHeight / imageWidth) * canvas.width))
+                );
+                const slice = document.createElement('canvas');
+                slice.width = canvas.width;
+                slice.height = sourceSliceHeight;
+                const sliceContext = slice.getContext('2d');
+                if (!sliceContext) {
+                    throw new Error("Could not prepare PDF content.");
+                }
+                sliceContext.drawImage(
+                    canvas,
+                    0, sourceY, canvas.width, sourceSliceHeight,
+                    0, 0, slice.width, slice.height
+                );
+
+                const sliceHeight = imageWidth * (sourceSliceHeight / canvas.width);
+                pdf.addImage(
+                    slice.toDataURL('image/png'),
+                    'PNG',
+                    margin,
+                    cursorY,
+                    imageWidth,
+                    sliceHeight,
+                    undefined,
+                    'FAST'
+                );
+                sourceY += sourceSliceHeight;
+
+                if (sourceY < canvas.height) {
+                    pdf.addPage();
+                    cursorY = margin;
+                } else {
+                    cursorY += sliceHeight + gap;
+                }
+            }
         }
   };
 

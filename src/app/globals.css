@@ -96,12 +96,14 @@
 }
 
 .pdf-export-content {
+  box-sizing: border-box;
   font-family: 'Times New Roman', serif;
   font-size: 12pt;
   color: black;
   background-color: white;
   padding: 1in;
   width: 8.5in;
+  overflow: visible;
 }
 
 .pdf-export-content,
