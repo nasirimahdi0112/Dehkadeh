@@ -114,6 +114,10 @@ const generateQuestionsFlow = ai.defineFlow(
       return result;
     });
 
+    if (!output) {
+      throw new Error("The AI model did not return questions.");
+    }
+
     const randomizedQuestions = output.questions.map((q) => {
       if (q.options && q.options.length > 0) {
         return { ...q, options: shuffleArray(q.options) };
