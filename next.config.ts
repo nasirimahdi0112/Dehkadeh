@@ -2,10 +2,8 @@ import type {NextConfig} from 'next';
 
 const nextConfig: NextConfig = {
   /* config options here */
-  experimental: {
-    outputFileTracingIncludes: {
-      '*': ['./src/books-json/**/*'],
-    },
+  outputFileTracingIncludes: {
+    '*': ['./src/books-json/**/*'],
   },
   images: {
     remotePatterns: [
